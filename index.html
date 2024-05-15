@@ -3,53 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Layout con 3 Columnas y Recuadro</title>
-    <style>
-        body {
-            display: flex;
-            flex-wrap: wrap;
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        .recuadro-superior-izquierda {
-            width: 100%;
-            display: flex;
-            justify-content: flex-start;
-        }
-        .recuadro {
-            width: 150px;
-            height: 150px;
-            background-color: lightblue;
-            margin: 10px;
-        }
-        .contenedor-principal {
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
-        .columna {
-            flex: 1;
-            min-width: 200px;
-            max-width: 300px;
-            background-color: lightgrey;
-            margin: 10px;
-            padding: 10px;
-            box-sizing: border-box;
-            text-align: center;
-        }
-    </style>
+    <title>Viscoso Pero Sabroso</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="recuadro-superior-izquierda">
-        <div class="recuadro"></div>
+    <div class="container">
+        <nav class="sidebar">
+            <ul>
+                <li><a href="#" onclick="loadContent('inicio')">Inicio</a></li>
+                <li><a href="#" onclick="loadContent('perfil')">Perfil</a></li>
+                <li><a href="#" onclick="loadContent('otros')">Otros</a></li>
+            </ul>
+        </nav>
+        <main class="content" id="content">
+            <!-- Contenido dinámico se cargará aquí -->
+            <h1>Bienvenido a Viscoso Pero Sabroso</h1>
+            <p>Selecciona una opción en la barra de navegación para ver más contenido.</p>
+        </main>
     </div>
-    <div class="contenedor-principal">
-        <div class="columna">Columna 1</div>
-        <div class="columna">Columna 2</div>
-        <div class="columna">Columna 3</div>
-    </div>
+    <script src="script.js"></script>
 </body>
 </html>
