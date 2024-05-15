@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const sections = document.querySelectorAll('.section');
 
-    // Ocultar todas las secciones excepto la primera al cargar la página
+    // Ocultar todas las secciones excepto la de inicio al cargar la página
     sections.forEach(section => {
-        if (!section.classList.contains('inicio')) {
+        if (!section.classList.contains('activo')) {
             section.style.display = 'none';
         }
     });
