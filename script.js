@@ -1,20 +1,25 @@
-function loadContent(page) {
-    const content = document.getElementById('content');
+document.addEventListener('DOMContentLoaded', function() {
+    const sections = document.querySelectorAll('.section');
 
-    if (page === 'inicio') {
-        content.innerHTML = `
-            <h1>Inicio</h1>
-            <p>Bienvenido a la página de inicio.</p>
-        `;
-    } else if (page === 'perfil') {
-        content.innerHTML = `
-            <h1>Perfil</h1>
-            <p>Información sobre el perfil.</p>
-        `;
-    } else if (page === 'otros') {
-        content.innerHTML = `
-            <h1>Otros</h1>
-            <p>Otros contenidos interesantes.</p>
-        `;
-    }
-}
+    // Ocultar todas las secciones excepto la primera al cargar la página
+    sections.forEach(section => {
+        if (!section.classList.contains('inicio')) {
+            section.style.display = 'none';
+        }
+    });
+
+    // Manejar el evento click en los enlaces de navegación
+    document.querySelectorAll('header nav ul li a').forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            const targetId = this.getAttribute('href').substring(1);
+            sections.forEach(section => {
+                if (section.getAttribute('id') === targetId) {
+                    section.style.display = 'block';
+                } else {
+                    section.style.display = 'none';
+                }
+            });
+        });
+    });
+});
