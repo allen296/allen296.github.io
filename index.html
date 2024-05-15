@@ -1,1 +1,55 @@
-work in progress
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout con 3 Columnas y Recuadro</title>
+    <style>
+        body {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .recuadro-superior-izquierda {
+            width: 100%;
+            display: flex;
+            justify-content: flex-start;
+        }
+        .recuadro {
+            width: 150px;
+            height: 150px;
+            background-color: lightblue;
+            margin: 10px;
+        }
+        .contenedor-principal {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .columna {
+            flex: 1;
+            min-width: 200px;
+            max-width: 300px;
+            background-color: lightgrey;
+            margin: 10px;
+            padding: 10px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="recuadro-superior-izquierda">
+        <div class="recuadro"></div>
+    </div>
+    <div class="contenedor-principal">
+        <div class="columna">Columna 1</div>
+        <div class="columna">Columna 2</div>
+        <div class="columna">Columna 3</div>
+    </div>
+</body>
+</html>
