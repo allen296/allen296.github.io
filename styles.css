@@ -39,6 +39,8 @@ header nav ul li a {
 /* Estilos de las secciones */
 .section {
     padding: 50px 0;
+    border: 2px solid #333;
+    border-radius: 10px; /* Redondear los bordes */
 }
 
 /* Estilos de los proyectos */
