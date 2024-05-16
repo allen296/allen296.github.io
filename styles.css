@@ -15,8 +15,8 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px 0;
-    border-top-left-radius: 10px; /* Redondear la esquina superior izquierda */
-    border-top-right-radius: 10px; /* Redondear la esquina superior derecha */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 header h1 {
@@ -60,6 +60,6 @@ footer {
     color: #fff;
     text-align: center;
     padding: 20px 0;
-    border-bottom-left-radius: 10px; /* Redondear la esquina inferior izquierda */
-    border-bottom-right-radius: 10px; /* Redondear la esquina inferior derecha */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
