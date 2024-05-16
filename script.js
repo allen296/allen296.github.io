@@ -1,4 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
+    const splashScreen = document.getElementById('splash-screen');
+    setTimeout(() => {
+        splashScreen.classList.add('hidden');
+    }, 3000); // Cambia el tiempo según tus necesidades (3000 ms = 3 segundos)
+
     const sections = document.querySelectorAll('.section');
 
     // Ocultar todas las secciones excepto la de inicio al cargar la página
