@@ -34,6 +34,12 @@ body {
     text-align: center;
 }
 
+.splash-content img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px; /* Espacio entre la imagen y el texto */
+}
+
 /* Estilos del encabezado */
 header {
     background-color: #333;
