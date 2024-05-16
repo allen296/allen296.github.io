@@ -34,10 +34,22 @@ body {
     text-align: center;
 }
 
-.splash-content img {
-    max-width: 100%;
-    height: auto;
+.circle {
+    width: 150px; /* Ajusta el tamaño según sea necesario */
+    height: 150px;
+    background-color: #fff;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 20px; /* Espacio entre la imagen y el texto */
+}
+
+.circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* Estilos del encabezado */
