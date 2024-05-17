@@ -46,9 +46,9 @@ body {
 }
 
 .circle img {
-    width: 50%; /* La mitad del tamaño del círculo */
-    height: 50%; /* La mitad del tamaño del círculo */
-    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Mantiene la proporción de la imagen y asegura que no se corte */
 }
 
 /* Estilos del encabezado */
