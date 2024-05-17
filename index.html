@@ -1,76 +1,71 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="jabali.png" type="image/png"> <!-- Favicon añadido aquí -->
-</head>
-<body>
-    <div id="splash-screen">
-        <div class="splash-content">
-            <div class="circle">
-                <img src="jabali.png" alt="Cargando...">
-            </div>
-        </div>
-    </div>
+/* Estilos de la pantalla inicial */
+#splash-screen {
+    position: fixed;
+    top: 0; /* Coloca la pantalla de carga en la parte superior */
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333; /* Color de fondo completamente opaco */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    transition: opacity 1s ease-out;
+    opacity: 1;
+}
 
-    <header>
-        <div class="container">
-            <h1>Mi Portafolio</h1>
-            <nav>
-                <ul>
-                    <li><a href="#inicio">Inicio</a></li>
-                    <li><a href="#proyectos">Proyectos</a></li>
-                    <li><a href="#contacto">Contacto</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+#splash-screen.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
 
-    <section id="inicio" class="section activo">
-        <div class="container">
-            <h2>Bienvenido a mi portafolio</h2>
-            <p>¡Hola! Soy [Tu Nombre], un [tu profesión] apasionado por [tus intereses]. Aquí puedes encontrar algunos de mis proyectos más recientes.</p>
-        </div>
-    </section>
+.splash-content {
+    text-align: center;
+}
 
-    <section id="proyectos" class="section">
-        <div class="container">
-            <h2>Mis Proyectos</h2>
-            <div class="project">
-                <img src="proyecto1.jpg" alt="Proyecto 1">
-                <h3>Proyecto 1</h3>
-                <p>Descripción del proyecto 1.</p>
-            </div>
-            <div class="project">
-                <img src="proyecto2.jpg" alt="Proyecto 2">
-                <h3>Proyecto 2</h3>
-                <p>Descripción del proyecto 2.</p>
-            </div>
-            <!-- Agrega más proyectos según sea necesario -->
-        </div>
-    </section>
+.circle {
+    width: 30vw; /* Ajusta el tamaño según sea necesario */
+    height: 30vw;
+    background-color: #fff;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-    <section id="contacto" class="section">
-        <div class="container">
-            <h2>Contacto</h2>
-            <p>Puedes contactarme en:</p>
-            <ul>
-                <li>Email: ejemplo@gmail.com</li>
-                <li>Teléfono: 123-456-7890</li>
-                <!-- Agrega más información de contacto según sea necesario -->
-            </ul>
-        </div>
-    </section>
+.circle img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain; /* Mantiene la proporción de la imagen y asegura que no se corte */
+}
 
-    <footer>
-        <div class="container">
-            <p>Derechos de autor &copy; 2024 | Diseñado por [Tu Nombre]</p>
-        </div>
-    </footer>
+/* Estilos del encabezado */
+header {
+    background-color: #114c5f; /* Color de fondo del encabezado */
+    color: #fff;
+    padding: 30px 0;
+    border-radius: 50px;
+    margin: 20px auto 40px auto; /* Margen para separarlo de la parte superior */
+    width: 80%; /* Ancho de la cabecera */
+    max-width: 1200px; /* Máximo ancho de la cabecera */
+    text-align: center; /* Centrando el contenido */
+}
 
-    <script src="script.js"></script>
-</body>
-</html>
+/* Estilos del pie de página */
+footer {
+    background-color: #114c5f; /* Color de fondo del pie de página */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 50px;
+    margin: 40px auto 20px auto; /* Margen para separarlo de la parte inferior */
+    width: 80%;
+    max-width: 1200px;
+}
+
+/* Anula el color morado predeterminado de los enlaces */
+a {
+    color: #000; /* Cambia a color negro, o el color que desees */
+}
