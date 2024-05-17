@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const splashScreen = document.getElementById('splash-screen');
     setTimeout(() => {
         splashScreen.classList.add('hidden');
-    }, 3000); // Cambia el tiempo según tus necesidades (3000 ms = 3 segundos)
+    }, 300000); // Cambia el tiempo según tus necesidades (3000 ms = 3 segundos)
 
     const sections = document.querySelectorAll('.section');
 
