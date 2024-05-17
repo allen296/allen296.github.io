@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Reproducir música al cargar la página
-    let audio = new Audio('ruta/a/tu/musica.mp3');
+    let audio = new Audio('NeonNights.mp3');
 
     function playMusic() {
         audio.loop = true; // Reproducir en bucle
