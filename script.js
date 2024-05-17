@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', function() {
     const sections = document.querySelectorAll('.section');
 
     // Ocultar todas las secciones excepto la de inicio al cargar la página
@@ -21,4 +22,14 @@
             });
         });
     });
+
+    // Reproducir música al cargar la página
+    let audio = new Audio('ruta/a/tu/musica.mp3');
+
+    function playMusic() {
+        audio.loop = true; // Reproducir en bucle
+        audio.play();
+    }
+
+    playMusic(); // Llamada a la función playMusic para iniciar la reproducción
 });
