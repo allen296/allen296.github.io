@@ -3,7 +3,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-image: url('fondo.png'); /* Ruta a la imagen de fondo */
+    background-size: cover; /* La imagen cubre todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* No repite la imagen */
+    background-attachment: fixed; /* Fija la imagen de fondo */
 }
 
 .container {
@@ -16,7 +20,7 @@ body {
     position: fixed;
     width: 100%;
     height: 100%;
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.9); /* Color de fondo semitransparente */
     color: #fff;
     display: flex;
     justify-content: center;
@@ -86,6 +90,9 @@ header nav ul li a {
 /* Estilos de las secciones */
 .section {
     padding: 50px 0;
+    background: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para legibilidad */
+    border-radius: 20px; /* Bordes redondeados */
+    margin: 20px 0; /* Separación entre secciones */
 }
 
 /* Estilos de los proyectos */
