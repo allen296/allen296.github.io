@@ -35,8 +35,8 @@ body {
 }
 
 .circle {
-    width: 40vw; /* Ajusta el tamaño según sea necesario */
-    height: 40vw;
+    width: 30vw; /* Ajusta el tamaño según sea necesario */
+    height: 30vw;
     background-color: #fff;
     border-radius: 50%;
     overflow: hidden;
@@ -46,8 +46,8 @@ body {
 }
 
 .circle img {
-    width: 90%; /* Ajusta el tamaño de la imagen */
-    height: 90%; /* Ajusta el tamaño de la imagen */
+    width: 50%; /* La mitad del tamaño del círculo */
+    height: 50%; /* La mitad del tamaño del círculo */
     object-fit: cover;
 }
 
@@ -99,4 +99,6 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    paddi
+    padding: 20px 0;
+    border-radius: 10px;
+}
