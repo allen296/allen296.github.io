@@ -23,12 +23,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Reproducir música cuando el usuario haga clic en cualquier lugar de la página
+    // Reproducir música al pasar el ratón sobre la imagen
     let audio = new Audio('NeonNights.mp3');
-    document.addEventListener('click', function() {
+    document.getElementById('startMusicImage').addEventListener('mouseover', function() {
         audio.loop = true; // Reproducir en bucle
         audio.play();
-        // Desvincular el evento de clic después de la primera interacción para evitar múltiples reproducciones
-        document.removeEventListener('click', arguments.callee);
+        // Desvincular el evento de ratón después de la primera interacción para evitar múltiples reproducciones
+        document.getElementById('startMusicImage').removeEventListener('mouseover', arguments.callee);
     });
 });
