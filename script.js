@@ -23,13 +23,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Reproducir música al cargar la página
+    // Reproducir música cuando el usuario haga clic en cualquier lugar de la página
     let audio = new Audio('NeonNights.mp3');
-
-    function playMusic() {
+    document.addEventListener('click', function() {
         audio.loop = true; // Reproducir en bucle
         audio.play();
-    }
-
-    playMusic(); // Llamada a la función playMusic para iniciar la reproducción
+        // Desvincular el evento de clic después de la primera interacción para evitar múltiples reproducciones
+        document.removeEventListener('click', arguments.callee);
+    });
 });
