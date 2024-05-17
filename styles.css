@@ -64,3 +64,8 @@ footer {
     width: 80%;
     max-width: 1200px;
 }
+
+/* Anula el color morado predeterminado de los enlaces */
+a {
+    color: #000; /* Cambia a color negro, o el color que desees */
+}
