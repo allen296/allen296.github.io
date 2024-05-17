@@ -40,3 +40,27 @@
     height: 50%;
     object-fit: contain; /* Mantiene la proporción de la imagen y asegura que no se corte */
 }
+
+/* Estilos del encabezado */
+header {
+    background-color: #114c5f; /* Color de fondo del encabezado */
+    color: #fff;
+    padding: 30px 0;
+    border-radius: 50px;
+    margin: 20px auto 40px auto; /* Margen para separarlo de la parte superior */
+    width: 80%; /* Ancho de la cabecera */
+    max-width: 1200px; /* Máximo ancho de la cabecera */
+    text-align: center; /* Centrando el contenido */
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #114c5f; /* Color de fondo del pie de página */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 50px;
+    margin: 40px auto 20px auto; /* Margen para separarlo de la parte inferior */
+    width: 80%;
+    max-width: 1200px;
+}
