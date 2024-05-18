@@ -11,10 +11,10 @@ body {
 
 /* Estilos del contenedor del círculo */
 #circle-container {
-    width: 80vw; /* Cambiado a 80% del ancho de la ventana */
-    max-width: 400px; /* Establecido un ancho máximo */
-    height: 80vw; /* Mantenemos una relación de aspecto 1:1 */
-    max-height: 400px; /* Establecido un alto máximo */
+    width: 80vw;
+    max-width: 400px;
+    height: 80vw;
+    max-height: 400px;
     position: relative;
 }
 
@@ -27,13 +27,28 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* overflow: hidden; /* Para asegurar que la imagen no se desborde del círculo */
+    position: relative;
+    overflow: hidden;
 }
 
 /* Estilos de la imagen */
 #circle img {
-    width: 100%; /* La imagen ocupa el 100% del contenedor del círculo */
-    height: auto; /* Se ajusta automáticamente la altura para mantener la proporción */
-    max-width: 100%; /* Ajusta el tamaño máximo de la imagen */
-    max-height: 100%; /* Ajusta el tamaño máximo de la imagen */
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Estilos del texto superpuesto */
+#text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    z-index: 1;
+    pointer-events: none; /* Para que el texto no bloquee los clics en el círculo */
 }
