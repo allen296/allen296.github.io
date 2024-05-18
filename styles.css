@@ -9,19 +9,18 @@ body {
     align-items: center;
 }
 
-
 /* Estilos del contenedor del círculo */
 #circle-container {
+    width: 80%; /* Ancho del contenedor del círculo (80% del ancho de la ventana) */
+    padding-bottom: 80%; /* Mantenemos una relación de aspecto cuadrada (80% del ancho para el alto) */
     position: relative;
-    width: 80vw; /* Ancho del contenedor del círculo */
-    height: 80vh; /* Alto del contenedor del círculo */
 }
 
 /* Estilos del círculo */
 #circle {
-    width: 60%; /* Ancho del círculo (en porcentaje del contenedor) */
-    height: 60%; /* Alto del círculo (en porcentaje del contenedor) */
-    background-color: #fff; /* Color de fondo del círculo */
+    width: 100%; /* Ancho del círculo (100% del ancho del contenedor) */
+    height: 100%; /* Alto del círculo (100% del alto del contenedor) */
+    background-color: #fff; /* Color de fondo del círculo (blanco) */
     border-radius: 50%; /* Asegura que el círculo sea perfectamente redondo */
     display: flex;
     justify-content: center;
@@ -30,6 +29,6 @@ body {
 
 /* Estilos de la imagen */
 #circle img {
-    max-width: 100%; /* Ajusta el tamaño máximo de la imagen */
-    max-height: 100%;
+    max-width: 90%; /* Ajusta el tamaño máximo de la imagen */
+    max-height: 90%;
 }
