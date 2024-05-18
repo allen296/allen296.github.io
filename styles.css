@@ -31,33 +31,31 @@
     background-color: #fff;
     border-radius: 50%;
     overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative; /* Agregamos position relative para los elementos absolutos dentro del círculo */
+    position: relative;
 }
 
 .circle img {
-    max-width: 80%; /* Ajusta el tamaño de la imagen */
-    max-height: 80%;
+    max-width: 100%; /* Ajusta el tamaño de la imagen */
+    max-height: 100%;
     object-fit: contain;
 }
 
 /* Estilos del texto giratorio */
 .text {
     position: absolute;
-    top: 50%;
+    bottom: -5%; /* Ajusta la posición del texto para que esté en el borde inferior del círculo */
     left: 50%;
-    transform: translate(-50%, -50%); /* Centra el texto en el círculo */
+    transform-origin: left center; /* Cambia el punto de origen de la transformación */
     white-space: nowrap;
+    color: black; /* Cambia el color del texto a negro */
     animation: rotateText 10s linear infinite; /* ajusta la duración y el tipo de animación según tus preferencias */
 }
 
 @keyframes rotateText {
     from {
-        transform: rotate(0deg);
+        transform: translateX(-50%) rotate(0deg); /* Combinamos la traslación y la rotación */
     }
     to {
-        transform: rotate(360deg);
+        transform: translateX(-50%) rotate(360deg);
     }
 }
