@@ -12,12 +12,14 @@ body {
 /* Estilos del contenedor del círculo */
 #circle-container {
     position: relative;
+    width: 80vw; /* Ancho del contenedor del círculo */
+    height: 80vh; /* Alto del contenedor del círculo */
 }
 
 /* Estilos del círculo */
 #circle {
-    width: 200px; /* Tamaño del círculo */
-    height: 200px;
+    width: 60%; /* Ancho del círculo (en porcentaje del contenedor) */
+    height: 60%; /* Alto del círculo (en porcentaje del contenedor) */
     background-color: #fff; /* Color de fondo del círculo */
     border-radius: 50%; /* Asegura que el círculo sea perfectamente redondo */
     display: flex;
@@ -27,6 +29,6 @@ body {
 
 /* Estilos de la imagen */
 #circle img {
-    max-width: 100%; /* Ajusta el tamaño de la imagen */
+    max-width: 100%; /* Ajusta el tamaño máximo de la imagen */
     max-height: 100%;
 }
