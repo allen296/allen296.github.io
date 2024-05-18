@@ -2,12 +2,13 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #114c5f; /* Color de fondo de la página */
+    background-color: #114c5f; /* Color de fondo de la página (azul verdoso oscuro) */
     height: 100vh; /* Para que el cuerpo ocupe toda la altura de la ventana */
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 
 /* Estilos del contenedor del círculo */
 #circle-container {
