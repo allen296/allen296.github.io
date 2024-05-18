@@ -27,16 +27,23 @@
 /* Estilos del círculo */
 .circle {
     width: 40%; /* Ajusta el tamaño del círculo */
-    padding-bottom: 40%; /* Mantiene el aspecto de un círculo */
-    background-color: #fff;
-    border-radius: 50%;
-    overflow: hidden;
     position: relative;
+    overflow: hidden;
+    padding-top: 40%; /* Ajusta el padding-top para mantener el aspecto circular */
+}
+
+.circle::before {
+    content: "";
+    display: block;
+    padding-top: 100%; /* Ajusta el tamaño del círculo */
 }
 
 .circle img {
+    position: absolute;
     width: 100%; /* Ajusta el tamaño de la imagen */
     height: auto;
+    top: 0;
+    left: 0;
     object-fit: contain;
 }
 
@@ -45,25 +52,4 @@
     position: absolute;
     bottom: -5%; /* Ajusta la posición del texto para que esté en el borde inferior del círculo */
     left: 50%;
-    transform-origin: left center; /* Cambia el punto de origen de la transformación */
-    white-space: nowrap;
-    color: black; /* Cambia el color del texto a negro */
-    animation: rotateText 10s linear infinite; /* ajusta la duración y el tipo de animación según tus preferencias */
-}
-
-@keyframes rotateText {
-    from {
-        transform: translateX(-50%) rotate(0deg); /* Combinamos la traslación y la rotación */
-    }
-    to {
-        transform: translateX(-50%) rotate(360deg);
-    }
-}
-
-/* Media query para pantallas pequeñas */
-@media (max-width: 600px) {
-    .circle {
-        width: 80%; /* Ajusta el tamaño del círculo para pantallas más pequeñas */
-        padding-bottom: 80%; /* Mantiene el aspecto de un círculo */
-    }
-}
+    transform-origin: left center; /* Cambia el punto de origen
