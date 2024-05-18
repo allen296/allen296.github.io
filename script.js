@@ -1,16 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Reproducir música al pasar el ratón sobre la imagen
+    // Reproducir música al hacer clic en cualquier parte de la página
     let audio = new Audio('NeonNights.mp3');
     
     // Establecer el volumen deseado (un valor entre 0 y 1)
     audio.volume = 0.5; // Esto establece el volumen al 50%
 
-    document.getElementById('startMusicImage').addEventListener('mouseover', function() {
-        // Reproducir música al pasar el ratón sobre la imagen
+    document.body.addEventListener('click', function() {
         audio.loop = true; // Reproducir en bucle
         audio.play();
-        // Desvincular el evento de ratón después de la primera interacción para evitar múltiples reproducciones
-        document.getElementById('startMusicImage').removeEventListener('mouseover', arguments.callee);
+        // Desvincular el evento de clic después de la primera interacción para evitar múltiples reproducciones
+        document.body.removeEventListener('click', arguments.callee);
     });
 
     const sections = document.querySelectorAll('.section');
@@ -20,21 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!section.classList.contains('activo')) {
             section.style.display = 'none';
         }
-    });
-
-    // Manejar el evento click en los enlaces de navegación
-    document.querySelectorAll('header nav ul li a').forEach(link => {
-        link.addEventListener('click', function(e) {
-            e.preventDefault();
-            const targetId = this.getAttribute('href').substring(1);
-            sections.forEach(section => {
-                if (section.getAttribute('id') === targetId) {
-                    section.style.display = 'block';
-                } else {
-                    section.style.display = 'none';
-                }
-            });
-        });
     });
 
     // Calcula el número de grados por carácter
