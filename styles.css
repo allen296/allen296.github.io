@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden; /* Para asegurar que la imagen no se desborde del círculo */
+    /* overflow: hidden; /* Para asegurar que la imagen no se desborde del círculo */
 }
 
 /* Estilos de la imagen */
