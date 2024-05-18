@@ -26,8 +26,8 @@
 
 /* Estilos del círculo */
 .circle {
-    width: 40vw; /* Ajusta el tamaño del círculo */
-    height: 40vw;
+    width: 40%; /* Ajusta el tamaño del círculo */
+    padding-bottom: 40%; /* Mantiene el aspecto de un círculo */
     background-color: #fff;
     border-radius: 50%;
     overflow: hidden;
@@ -35,8 +35,8 @@
 }
 
 .circle img {
-    max-width: 100%; /* Ajusta el tamaño de la imagen */
-    max-height: 100%;
+    width: 100%; /* Ajusta el tamaño de la imagen */
+    height: auto;
     object-fit: contain;
 }
 
@@ -57,5 +57,13 @@
     }
     to {
         transform: translateX(-50%) rotate(360deg);
+    }
+}
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 600px) {
+    .circle {
+        width: 80%; /* Ajusta el tamaño del círculo para pantallas más pequeñas */
+        padding-bottom: 80%; /* Mantiene el aspecto de un círculo */
     }
 }
