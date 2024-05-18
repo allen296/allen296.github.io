@@ -35,4 +35,17 @@ document.addEventListener('DOMContentLoaded', function() {
         // Desvincular el evento de ratón después de la primera interacción para evitar múltiples reproducciones
         document.getElementById('startMusicImage').removeEventListener('mouseover', arguments.callee);
     });
+
+    // Calcula el número de grados por carácter
+    const text = document.querySelector('.text');
+    const chars = text.textContent.length;
+    const degrees = 360 / chars;
+
+    // Aplica la rotación individual a cada carácter
+    text.textContent.split('').forEach((char, index) => {
+        const span = document.createElement('span');
+        span.textContent = char;
+        span.style.transform = `rotate(${index * degrees}deg)`;
+        text.appendChild(span);
+    });
 });
