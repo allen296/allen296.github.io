@@ -24,21 +24,19 @@
     text-align: center;
 }
 
-/* Estilos del círculo */
 .circle {
-    width: 40%; /* Ajusta el tamaño del círculo */
-    position: relative;
+    width: 30vw; /* Ajusta el tamaño según sea necesario */
+    height: 30vw;
+    background-color: #fff;
+    border-radius: 50%;
     overflow: hidden;
-    padding-top: 40%; /* Ajusta el padding-top para mantener el aspecto circular */
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%; /* Asegura que el círculo sea perfectamente redondo */
-    background-color: #fff; /* Color de fondo del círculo */
 }
 
 .circle img {
-    max-width: 100%; /* Ajusta el tamaño de la imagen */
-    max-height: 100%;
-    object-fit: contain;
+    width: 50%;
+    height: 50%;
+    object-fit: contain; /* Mantiene la proporción de la imagen y asegura que no se corte */
 }
