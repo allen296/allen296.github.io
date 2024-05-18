@@ -4,10 +4,23 @@ body {
     padding: 0;
     background-color: #114c5f;
     display: flex;
+    flex-direction: column; /* Alinear elementos en columna */
     justify-content: center;
     align-items: center;
     height: 100vh;
     font-family: 'Rubik', sans-serif; /* Aplicar la fuente Rubik al cuerpo del documento */
+}
+
+/* Estilos del texto superpuesto */
+#text-overlay {
+    margin-bottom: 20px; /* Espacio entre el texto y el círculo */
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    z-index: 1; /* Asegura que el texto esté sobre la imagen */
+    pointer-events: none; /* Para que el texto no bloquee los clics en el círculo */
+    font-family: 'Rubik', sans-serif; /* Aplicar la fuente Rubik al texto superpuesto */
 }
 
 /* Estilos del contenedor del círculo */
@@ -38,19 +51,4 @@ body {
     height: auto; /* Ajusta automáticamente la altura para mantener la proporción */
     max-width: 100%; /* Ajusta el tamaño máximo de la imagen */
     max-height: 100%; /* Ajusta el tamaño máximo de la imagen */
-}
-
-/* Estilos del texto superpuesto */
-#text-overlay {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); /* Centra el texto */
-    color: black;
-    font-size: 1.5em;
-    font-weight: bold;
-    text-align: center;
-    z-index: 1; /* Asegura que el texto esté sobre la imagen */
-    pointer-events: none; /* Para que el texto no bloquee los clics en el círculo */
-    font-family: 'Rubik', sans-serif; /* Aplicar la fuente Rubik al texto superpuesto */
 }
