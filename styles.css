@@ -37,8 +37,8 @@
 }
 
 .circle img {
-    width: 50%;
-    height: 50%;
+    width: 100%; /* Ajustamos el ancho al 100% para que el jabalí esté centrado */
+    height: auto; /* Mantenemos la altura automática para mantener la proporción */
     object-fit: contain; /* Mantiene la proporción de la imagen y asegura que no se corte */
 }
 
