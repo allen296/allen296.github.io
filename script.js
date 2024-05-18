@@ -1,4 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Reproducir música al pasar el ratón sobre la imagen
+    let audio = new Audio('NeonNights.mp3');
+    
+    // Establecer el volumen deseado (un valor entre 0 y 1)
+    audio.volume = 0.5; // Esto establece el volumen al 50%
+
+    document.getElementById('startMusicImage').addEventListener('mouseover', function() {
+        // Reproducir música al pasar el ratón sobre la imagen
+        audio.loop = true; // Reproducir en bucle
+        audio.play();
+        // Desvincular el evento de ratón después de la primera interacción para evitar múltiples reproducciones
+        document.getElementById('startMusicImage').removeEventListener('mouseover', arguments.callee);
+    });
+
     const sections = document.querySelectorAll('.section');
 
     // Ocultar todas las secciones excepto la de inicio al cargar la página
@@ -21,19 +35,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         });
-    });
-
-    // Reproducir música al pasar el ratón sobre la imagen
-    let audio = new Audio('NeonNights.mp3');
-    
-    // Establecer el volumen deseado (un valor entre 0 y 1)
-    audio.volume = 0.5; // Esto establece el volumen al 50%
-
-    document.getElementById('startMusicImage').addEventListener('mouseover', function() {
-        audio.loop = true; // Reproducir en bucle
-        audio.play();
-        // Desvincular el evento de ratón después de la primera interacción para evitar múltiples reproducciones
-        document.getElementById('startMusicImage').removeEventListener('mouseover', arguments.callee);
     });
 
     // Calcula el número de grados por carácter
