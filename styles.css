@@ -11,18 +11,6 @@ body {
     font-family: 'Rubik', sans-serif; /* Aplicar la fuente Rubik al cuerpo del documento */
 }
 
-/* Estilos del texto superpuesto */
-#text-overlay {
-    margin-bottom: 20px; /* Espacio entre el texto y el círculo */
-    color: black;
-    font-size: 1.5em;
-    font-weight: bold;
-    text-align: center;
-    z-index: 1; /* Asegura que el texto esté sobre la imagen */
-    pointer-events: none; /* Para que el texto no bloquee los clics en el círculo */
-    font-family: 'Rubik', sans-serif; /* Aplicar la fuente Rubik al texto superpuesto */
-}
-
 /* Estilos del contenedor del círculo */
 #circle-container {
     width: 80vw; /* El contenedor ocupa el 80% del ancho de la ventana */
