@@ -33,44 +33,45 @@
         <header>
             <div class="header-item"><label>Character Name</label><input type="text"></div>
             <div class="header-item"><label>Class</label><input type="text"></div>
-            <div class="header-item"><label>Level</label><input type="number" id="level" oninput="updateProficiencyBonusAndModifiers()"></div>
+            <div class="header-item"><label>Level</label><input type="number" id="level"></div>
             <div class="header-item"><label>Background</label><input type="text"></div>
             <div class="header-item"><label>Player Name</label><input type="text"></div>
             <div class="header-item"><label>Race</label><input type="text"></div>
             <div class="header-item"><label>Alignment</label><input type="text"></div>
             <div class="header-item"><label>Experience Points</label><input type="number" id="experience"></div>
         </header>
+        <button onclick="calculateAll()">Calculate</button>
         <section class="stats-section">
             <div class="stats">
                 <h2>Stats</h2>
                 <div class="stat">
                     <label>Strength</label>
-                    <input type="number" id="strength" oninput="updateModifiers()">
+                    <input type="number" id="strength">
                     <span id="strength-mod">+0</span>
                 </div>
                 <div class="stat">
                     <label>Dexterity</label>
-                    <input type="number" id="dexterity" oninput="updateModifiers()">
+                    <input type="number" id="dexterity">
                     <span id="dexterity-mod">+0</span>
                 </div>
                 <div class="stat">
                     <label>Constitution</label>
-                    <input type="number" id="constitution" oninput="updateModifiers()">
+                    <input type="number" id="constitution">
                     <span id="constitution-mod">+0</span>
                 </div>
                 <div class="stat">
                     <label>Intelligence</label>
-                    <input type="number" id="intelligence" oninput="updateModifiers()">
+                    <input type="number" id="intelligence">
                     <span id="intelligence-mod">+0</span>
                 </div>
                 <div class="stat">
                     <label>Wisdom</label>
-                    <input type="number" id="wisdom" oninput="updateModifiers()">
+                    <input type="number" id="wisdom">
                     <span id="wisdom-mod">+0</span>
                 </div>
                 <div class="stat">
                     <label>Charisma</label>
-                    <input type="number" id="charisma" oninput="updateModifiers()">
+                    <input type="number" id="charisma">
                     <span id="charisma-mod">+0</span>
                 </div>
             </div>
@@ -88,32 +89,32 @@
                 <div class="saving-throws">
                     <h2>Saving Throws</h2>
                     <div class="saving-throw">
-                        <input type="checkbox" id="strength-save" onchange="updateModifiers()">
+                        <input type="checkbox" id="strength-save">
                         <label for="strength-save">Strength</label>
                         <span id="strength-save-mod">+0</span>
                     </div>
                     <div class="saving-throw">
-                        <input type="checkbox" id="dexterity-save" onchange="updateModifiers()">
+                        <input type="checkbox" id="dexterity-save">
                         <label for="dexterity-save">Dexterity</label>
                         <span id="dexterity-save-mod">+0</span>
                     </div>
                     <div class="saving-throw">
-                        <input type="checkbox" id="constitution-save" onchange="updateModifiers()">
+                        <input type="checkbox" id="constitution-save">
                         <label for="constitution-save">Constitution</label>
                         <span id="constitution-save-mod">+0</span>
                     </div>
                     <div class="saving-throw">
-                        <input type="checkbox" id="intelligence-save" onchange="updateModifiers()">
+                        <input type="checkbox" id="intelligence-save">
                         <label for="intelligence-save">Intelligence</label>
                         <span id="intelligence-save-mod">+0</span>
                     </div>
                     <div class="saving-throw">
-                        <input type="checkbox" id="wisdom-save" onchange="updateModifiers()">
+                        <input type="checkbox" id="wisdom-save">
                         <label for="wisdom-save">Wisdom</label>
                         <span id="wisdom-save-mod">+0</span>
                     </div>
                     <div class="saving-throw">
-                        <input type="checkbox" id="charisma-save" onchange="updateModifiers()">
+                        <input type="checkbox" id="charisma-save">
                         <label for="charisma-save">Charisma</label>
                         <span id="charisma-save-mod">+0</span>
                     </div>
@@ -121,14 +122,14 @@
                 <div class="skills">
                     <h2>Skills</h2>
                     <div class="skill">
-                        <input type="checkbox" id="acrobatics" onchange="updateModifiers()">
-                        <input type="checkbox" id="acrobatics-expertise" onchange="updateModifiers()">
+                        <input type="checkbox" id="acrobatics">
+                        <input type="checkbox" id="acrobatics-expertise">
                         <label for="acrobatics">Acrobatics (Dex)</label>
                         <span id="acrobatics-mod">+0</span>
                     </div>
                     <div class="skill">
-                        <input type="checkbox" id="animal-handling" onchange="updateModifiers()">
-                        <input type="checkbox" id="animal-handling-expertise" onchange="updateModifiers()">
+                        <input type="checkbox" id="animal-handling">
+                        <input type="checkbox" id="animal-handling-expertise">
                         <label for="animal-handling">Animal Handling (Wis)</label>
                         <span id="animal-handling-mod">+0</span>
                     </div>
