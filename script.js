@@ -63,4 +63,10 @@ function updateModifiers() {
             const skillMod = modValue + proficiencyBonus;
             document.getElementById(`${skill.id}-mod`).innerText = skillMod >= 0 ? `+${skillMod}` : `${skillMod}`;
         } else {
-           
+            document.getElementById(`${skill.id}-mod`).innerText = modValue >= 0 ? `+${modValue}` : `${modValue}`;
+        }
+    });
+}
+
+// Initialize modifiers on page load
+window.onload = updateProficiencyBonusAndModifiers;
