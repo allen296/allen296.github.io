@@ -1,15 +1,18 @@
-<!-- <!DOCTYPE html>
+<!--
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio</title>
+    <title>Viscoso pero sabroso</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="jabali.png" type="image/png">
 </head>
 <body>
-    <div id="circle-container">
-        <div id="circle">
+    <!-- Contenedor principal del círculo -->
+<!--    <div id="circle-container">
+        <!-- Círculo con la imagen del jabalí -->
+<!--        <div id="circle">
             <img src="jabali.png" alt="Jabalí">
         </div>
     </div>
@@ -23,18 +26,123 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Viscoso pero sabroso</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="jabali.png" type="image/png">
+    <title>Andrés Camilo Plaza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: auto;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+        header {
+            grid-column: span 3;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .welcome, .about, .cv, .experience, .contact, .portfolio, .instagram {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .welcome img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+        .cv img {
+            width: 100%;
+        }
+        .icons {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+        }
+        .icons a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #FF8C00;
+        }
+        .about ul {
+            list-style: none;
+            padding: 0;
+        }
+        .about ul li {
+            margin-bottom: 10px;
+        }
+        .experience h3, .contact h3, .portfolio h3, .instagram h3 {
+            margin-top: 0;
+        }
+    </style>
 </head>
 <body>
-    <!-- Contenedor principal del círculo -->
-    <div id="circle-container">
-        <!-- Círculo con la imagen del jabalí -->
-        <div id="circle">
-            <img src="jabali.png" alt="Jabalí">
+    <header>
+        <h1>Bue221</h1>
+    </header>
+    <div class="container">
+        <div class="welcome">
+            <h2>Hi, I'm <strong>Andrés Camilo Plaza</strong></h2>
+            <p>Software developer, systems engineer and tattoo artist with a strong focus on user experience, animations, and micro interactions. I love to create beautiful and functional interfaces, I am passionate about technology and I am always looking for new challenges.</p>
+            <div class="icons">
+                <a href="#">🔗</a>
+                <a href="#">🔗</a>
+                <a href="#">🔗</a>
+            </div>
+        </div>
+        <div class="about">
+            <h2>About me</h2>
+            <p>Hi, I'm Andrés, a fullstack software developer from Colombia.</p>
+            <ul>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>Astro</li>
+                <li>Python</li>
+                <li>Php</li>
+                <li>Mongo</li>
+                <li>SQL</li>
+                <li>Nodejs</li>
+            </ul>
+            <p>Beyond coding, I'm passionate about tattoo, soccer and traveling. An unusual hobby of mine is to play classical music on the guitar or ukulele.</p>
+        </div>
+        <div class="cv">
+            <h2>CV</h2>
+            <img src="cv_image_url" alt="CV">
+            <p>View and download my resume by clicking on the button below.</p>
+            <button onclick="window.location.href='your_resume_link_here'">Download resume</button>
+        </div>
+        <div class="experience">
+            <h2>Experience</h2>
+            <h3>Software Engineer</h3>
+            <p>Currently working as a freelancer.</p>
+        </div>
+        <div class="portfolio">
+            <h2>Portfolio & Projects</h2>
+            <p><a href="portfolio_link_here">View my work</a></p>
+        </div>
+        <div class="contact">
+            <h2>Let's start working together!</h2>
+            <p>Contact Details:</p>
+            <p>camiloplaza3@gmail.com</p>
+            <p>Bogotá D.C, Colombia</p>
+            <h3>Socials</h3>
+            <p>
+                <a href="linkedin_profile">Linkedin</a><br>
+                <a href="github_profile">Github</a><br>
+                <a href="instagram_profile">Instagram</a>
+            </p>
+        </div>
+        <div class="instagram">
+            <h2>Instagram tattoo</h2>
+            <p>“Anything one man can imagine, other men can make real.”</p>
         </div>
     </div>
-    <script src="script.js"></script>
 </body>
 </html>
