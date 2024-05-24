@@ -29,184 +29,188 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="character-sheet">
-        <header>
-            <div class="header-item"><label>Character Name</label><input type="text"></div>
-            <div class="header-item"><label>Class</label><input type="text"></div>
-            <div class="header-item"><label>Level</label><input type="number" id="level"></div>
-            <div class="header-item"><label>Background</label><input type="text"></div>
-            <div class="header-item"><label>Player Name</label><input type="text"></div>
-            <div class="header-item"><label>Race</label><input type="text"></div>
-            <div class="header-item"><label>Alignment</label><input type="text"></div>
-            <div class="header-item"><label>Experience Points</label><input type="number" id="experience"></div>
-        </header>
-        <button onclick="calculateAll()">Calculate</button>
-        <section class="stats-section">
-            <div class="stats">
-                <h2>Stats</h2>
-                <div class="stat">
-                    <label>Strength</label>
-                    <input type="number" id="strength">
-                    <span id="strength-mod">+0</span>
-                </div>
-                <div class="stat">
-                    <label>Dexterity</label>
-                    <input type="number" id="dexterity">
-                    <span id="dexterity-mod">+0</span>
-                </div>
-                <div class="stat">
-                    <label>Constitution</label>
-                    <input type="number" id="constitution">
-                    <span id="constitution-mod">+0</span>
-                </div>
-                <div class="stat">
-                    <label>Intelligence</label>
-                    <input type="number" id="intelligence">
-                    <span id="intelligence-mod">+0</span>
-                </div>
-                <div class="stat">
-                    <label>Wisdom</label>
-                    <input type="number" id="wisdom">
-                    <span id="wisdom-mod">+0</span>
-                </div>
-                <div class="stat">
-                    <label>Charisma</label>
-                    <input type="number" id="charisma">
-                    <span id="charisma-mod">+0</span>
-                </div>
+    <div class="container">
+        <div class="character-sheet">
+            <header>
+                <div class="header-item"><label>Character Name</label><input type="text"></div>
+                <div class="header-item"><label>Class</label><input type="text"></div>
+                <div class="header-item"><label>Level</label><input type="number" id="level"></div>
+                <div class="header-item"><label>Background</label><input type="text"></div>
+                <div class="header-item"><label>Player Name</label><input type="text"></div>
+                <div class="header-item"><label>Race</label><input type="text"></div>
+                <div class="header-item"><label>Alignment</label><input type="text"></div>
+                <div class="header-item"><label>Experience Points</label><input type="number" id="experience"></div>
+            </header>
+            <button onclick="calculateAll()">Calculate</button>
+            <div class="main-content">
+                <section class="column stats-section">
+                    <div class="stats">
+                        <h2>Stats</h2>
+                        <div class="stat">
+                            <label>Strength</label>
+                            <input type="number" id="strength">
+                            <span id="strength-mod">+0</span>
+                        </div>
+                        <div class="stat">
+                            <label>Dexterity</label>
+                            <input type="number" id="dexterity">
+                            <span id="dexterity-mod">+0</span>
+                        </div>
+                        <div class="stat">
+                            <label>Constitution</label>
+                            <input type="number" id="constitution">
+                            <span id="constitution-mod">+0</span>
+                        </div>
+                        <div class="stat">
+                            <label>Intelligence</label>
+                            <input type="number" id="intelligence">
+                            <span id="intelligence-mod">+0</span>
+                        </div>
+                        <div class="stat">
+                            <label>Wisdom</label>
+                            <input type="number" id="wisdom">
+                            <span id="wisdom-mod">+0</span>
+                        </div>
+                        <div class="stat">
+                            <label>Charisma</label>
+                            <input type="number" id="charisma">
+                            <span id="charisma-mod">+0</span>
+                        </div>
+                    </div>
+                </section>
+                <section class="column other-stats">
+                    <div class="inspiration-proficiency">
+                        <div class="inspiration">
+                            <label>Inspiration</label>
+                            <input type="number" id="inspiration">
+                        </div>
+                        <div class="proficiency-bonus">
+                            <label>Proficiency Bonus</label>
+                            <span id="proficiency-bonus">+2</span>
+                        </div>
+                    </div>
+                    <div class="saving-throws">
+                        <h2>Saving Throws</h2>
+                        <div class="saving-throw">
+                            <input type="checkbox" id="strength-save">
+                            <label for="strength-save">Strength</label>
+                            <span id="strength-save-mod">+0</span>
+                        </div>
+                        <div class="saving-throw">
+                            <input type="checkbox" id="dexterity-save">
+                            <label for="dexterity-save">Dexterity</label>
+                            <span id="dexterity-save-mod">+0</span>
+                        </div>
+                        <div class="saving-throw">
+                            <input type="checkbox" id="constitution-save">
+                            <label for="constitution-save">Constitution</label>
+                            <span id="constitution-save-mod">+0</span>
+                        </div>
+                        <div class="saving-throw">
+                            <input type="checkbox" id="intelligence-save">
+                            <label for="intelligence-save">Intelligence</label>
+                            <span id="intelligence-save-mod">+0</span>
+                        </div>
+                        <div class="saving-throw">
+                            <input type="checkbox" id="wisdom-save">
+                            <label for="wisdom-save">Wisdom</label>
+                            <span id="wisdom-save-mod">+0</span>
+                        </div>
+                        <div class="saving-throw">
+                            <input type="checkbox" id="charisma-save">
+                            <label for="charisma-save">Charisma</label>
+                            <span id="charisma-save-mod">+0</span>
+                        </div>
+                    </div>
+                    <div class="skills">
+                        <h2>Skills</h2>
+                        <div class="skill">
+                            <input type="checkbox" id="acrobatics">
+                            <input type="checkbox" id="acrobatics-expertise">
+                            <label for="acrobatics">Acrobatics (Dex)</label>
+                            <span id="acrobatics-mod">+0</span>
+                        </div>
+                        <div class="skill">
+                            <input type="checkbox" id="animal-handling">
+                            <input type="checkbox" id="animal-handling-expertise">
+                            <label for="animal-handling">Animal Handling (Wis)</label>
+                            <span id="animal-handling-mod">+0</span>
+                        </div>
+                        <!-- Add more skills similarly -->
+                    </div>
+                </section>
+                <section class="column combat-info">
+                    <div class="combat-stats">
+                        <div class="combat-stat">
+                            <label>Armor Class</label>
+                            <input type="number" id="armor-class">
+                        </div>
+                        <div class="combat-stat">
+                            <label>Initiative</label>
+                            <input type="number" id="initiative">
+                        </div>
+                        <div class="combat-stat">
+                            <label>Speed</label>
+                            <input type="number" id="speed">
+                        </div>
+                    </div>
+                    <div class="health">
+                        <div class="hit-points">
+                            <label>Max Hit Points</label>
+                            <input type="number" id="max-hit-points">
+                            <label>Current Hit Points</label>
+                            <input type="number" id="current-hit-points">
+                        </div>
+                        <div class="temporary-hit-points">
+                            <label>Temporary Hit Points</label>
+                            <input type="number" id="temporary-hit-points">
+                        </div>
+                        <div class="hit-dice">
+                            <label>Max Hit Dice</label>
+                            <input type="text" id="max-hit-dice">
+                            <label>Current Hit Dice</label>
+                            <input type="text" id="current-hit-dice">
+                        </div>
+                        <div class="death-saves">
+                            <div>
+                                <label>Successes</label>
+                                <input type="checkbox" id="death-save-success-1">
+                                <input type="checkbox" id="death-save-success-2">
+                                <input type="checkbox" id="death-save-success-3">
+                            </div>
+                            <div>
+                                <label>Failures</label>
+                                <input type="checkbox" id="death-save-fail-1">
+                                <input type="checkbox" id="death-save-fail-2">
+                                <input type="checkbox" id="death-save-fail-3">
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="column traits">
+                    <div class="trait">
+                        <label>Personality Traits</label>
+                        <textarea id="personality-traits"></textarea>
+                    </div>
+                    <div class="trait">
+                        <label>Ideals</label>
+                        <textarea id="ideals"></textarea>
+                    </div>
+                    <div class="trait">
+                        <label>Bonds</label>
+                        <textarea id="bonds"></textarea>
+                    </div>
+                    <div class="trait">
+                        <label>Flaws</label>
+                        <textarea id="flaws"></textarea>
+                    </div>
+                    <div class="features">
+                        <label>Features & Traits</label>
+                        <textarea id="features"></textarea>
+                    </div>
+                </section>
             </div>
-            <div class="other-stats">
-                <div class="inspiration-proficiency">
-                    <div class="inspiration">
-                        <label>Inspiration</label>
-                        <input type="number" id="inspiration">
-                    </div>
-                    <div class="proficiency-bonus">
-                        <label>Proficiency Bonus</label>
-                        <span id="proficiency-bonus">+2</span>
-                    </div>
-                </div>
-                <div class="saving-throws">
-                    <h2>Saving Throws</h2>
-                    <div class="saving-throw">
-                        <input type="checkbox" id="strength-save">
-                        <label for="strength-save">Strength</label>
-                        <span id="strength-save-mod">+0</span>
-                    </div>
-                    <div class="saving-throw">
-                        <input type="checkbox" id="dexterity-save">
-                        <label for="dexterity-save">Dexterity</label>
-                        <span id="dexterity-save-mod">+0</span>
-                    </div>
-                    <div class="saving-throw">
-                        <input type="checkbox" id="constitution-save">
-                        <label for="constitution-save">Constitution</label>
-                        <span id="constitution-save-mod">+0</span>
-                    </div>
-                    <div class="saving-throw">
-                        <input type="checkbox" id="intelligence-save">
-                        <label for="intelligence-save">Intelligence</label>
-                        <span id="intelligence-save-mod">+0</span>
-                    </div>
-                    <div class="saving-throw">
-                        <input type="checkbox" id="wisdom-save">
-                        <label for="wisdom-save">Wisdom</label>
-                        <span id="wisdom-save-mod">+0</span>
-                    </div>
-                    <div class="saving-throw">
-                        <input type="checkbox" id="charisma-save">
-                        <label for="charisma-save">Charisma</label>
-                        <span id="charisma-save-mod">+0</span>
-                    </div>
-                </div>
-                <div class="skills">
-                    <h2>Skills</h2>
-                    <div class="skill">
-                        <input type="checkbox" id="acrobatics">
-                        <input type="checkbox" id="acrobatics-expertise">
-                        <label for="acrobatics">Acrobatics (Dex)</label>
-                        <span id="acrobatics-mod">+0</span>
-                    </div>
-                    <div class="skill">
-                        <input type="checkbox" id="animal-handling">
-                        <input type="checkbox" id="animal-handling-expertise">
-                        <label for="animal-handling">Animal Handling (Wis)</label>
-                        <span id="animal-handling-mod">+0</span>
-                    </div>
-                    <!-- Add more skills similarly -->
-                </div>
-            </div>
-        </section>
-        <section class="combat-info">
-            <div class="combat-stats">
-                <div class="combat-stat">
-                    <label>Armor Class</label>
-                    <input type="number" id="armor-class">
-                </div>
-                <div class="combat-stat">
-                    <label>Initiative</label>
-                    <input type="number" id="initiative">
-                </div>
-                <div class="combat-stat">
-                    <label>Speed</label>
-                    <input type="number" id="speed">
-                </div>
-            </div>
-            <div class="health">
-                <div class="hit-points">
-                    <label>Max Hit Points</label>
-                    <input type="number" id="max-hit-points">
-                    <label>Current Hit Points</label>
-                    <input type="number" id="current-hit-points">
-                </div>
-                <div class="temporary-hit-points">
-                    <label>Temporary Hit Points</label>
-                    <input type="number" id="temporary-hit-points">
-                </div>
-                <div class="hit-dice">
-                    <label>Max Hit Dice</label>
-                    <input type="text" id="max-hit-dice">
-                    <label>Current Hit Dice</label>
-                    <input type="text" id="current-hit-dice">
-                </div>
-                <div class="death-saves">
-                    <div>
-                        <label>Successes</label>
-                        <input type="checkbox" id="death-save-success-1">
-                        <input type="checkbox" id="death-save-success-2">
-                        <input type="checkbox" id="death-save-success-3">
-                    </div>
-                    <div>
-                        <label>Failures</label>
-                        <input type="checkbox" id="death-save-fail-1">
-                        <input type="checkbox" id="death-save-fail-2">
-                        <input type="checkbox" id="death-save-fail-3">
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="traits">
-            <div class="trait">
-                <label>Personality Traits</label>
-                <textarea id="personality-traits"></textarea>
-            </div>
-            <div class="trait">
-                <label>Ideals</label>
-                <textarea id="ideals"></textarea>
-            </div>
-            <div class="trait">
-                <label>Bonds</label>
-                <textarea id="bonds"></textarea>
-            </div>
-            <div class="trait">
-                <label>Flaws</label>
-                <textarea id="flaws"></textarea>
-            </div>
-            <div class="features">
-                <label>Features & Traits</label>
-                <textarea id="features"></textarea>
-            </div>
-        </section>
+        </div>
     </div>
     <script src="scripts.js"></script>
 </body>
