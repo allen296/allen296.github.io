@@ -15,12 +15,7 @@ function calculateModifier(score) {
 }
 
 function getProficiencyBonus(level) {
-    if (level >= 1 && level <= 4) return 2;
-    if (level >= 5 && level <= 8) return 3;
-    if (level >= 9 && level <= 12) return 4;
-    if (level >= 13 && level <= 16) return 5;
-    if (level >= 17 && level <= 20) return 6;
-    return 2; // Default value for level 1
+    return Math.ceil(level / 4) + 1;
 }
 
 function updateProficiencyBonusAndModifiers() {
@@ -59,12 +54,17 @@ function updateModifiers() {
     skills.forEach(skill => {
         const statValue = parseInt(document.getElementById(skill.stat).value) || 0;
         const modValue = calculateModifier(statValue);
-        if (document.getElementById(skill.id).checked) {
-            const skillMod = modValue + proficiencyBonus;
-            document.getElementById(`${skill.id}-mod`).innerText = skillMod >= 0 ? `+${skillMod}` : `${skillMod}`;
-        } else {
-            document.getElementById(`${skill.id}-mod`).innerText = modValue >= 0 ? `+${modValue}` : `${modValue}`;
+        const proficiencyCheckbox = document.getElementById(skill.id);
+        const expertiseCheckbox = document.getElementById(`${skill.id}-expertise`);
+
+        let skillMod = modValue;
+        if (proficiencyCheckbox.checked && expertiseCheckbox.checked) {
+            skillMod += proficiencyBonus * 2;
+        } else if (proficiencyCheckbox.checked) {
+            skillMod += proficiencyBonus;
         }
+
+        document.getElementById(`${skill.id}-mod`).innerText = skillMod >= 0 ? `+${skillMod}` : `${skillMod}`;
     });
 }
 
