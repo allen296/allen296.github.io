@@ -60,124 +60,70 @@ body {
 
 
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    overflow: auto;
+function calculateModifier(score) {
+    return Math.floor((score - 10) / 2);
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    width: 100%;
+function getProficiencyBonus(level) {
+    return Math.ceil(level / 4) + 1;
 }
 
-.character-sheet {
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    max-width: 1200px;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+function calculateAll() {
+    updateProficiencyBonus();
+    updateModifiers();
 }
 
-header, section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 100%;
-    margin-bottom: 20px;
+function updateProficiencyBonus() {
+    const level = parseInt(document.getElementById('level').value) || 1;
+    const proficiencyBonus = getProficiencyBonus(level);
+    document.getElementById('proficiency-bonus').innerText = `+${proficiencyBonus}`;
 }
 
-.header-item, .stat, .saving-throw, .skill, .combat-stat, .hit-points, .temporary-hit-points, .hit-dice, .death-saves, .trait, .features {
-    flex: 1 1 45%;
-    margin: 10px;
-    display: flex;
-    align-items: center;
+function updateModifiers() {
+    const stats = ['strength', 'dexterity', 'constitution', 'intelligence', 'wisdom', 'charisma'];
+    const level = parseInt(document.getElementById('level').value) || 1;
+    const proficiencyBonus = getProficiencyBonus(level);
+
+    stats.forEach(stat => {
+        const statValue = parseInt(document.getElementById(stat).value) || 0;
+        const modValue = calculateModifier(statValue);
+        document.getElementById(`${stat}-mod`).innerText = modValue >= 0 ? `+${modValue}` : `${modValue}`;
+
+        // Update saving throws if checkbox is checked
+        if (document.getElementById(`${stat}-save`).checked) {
+            const saveMod = modValue + proficiencyBonus;
+            document.getElementById(`${stat}-save-mod`).innerText = saveMod >= 0 ? `+${saveMod}` : `${saveMod}`;
+        } else {
+            document.getElementById(`${stat}-save-mod`).innerText = modValue >= 0 ? `+${modValue}` : `${modValue}`;
+        }
+    });
+
+    // Update skill modifiers
+    const skills = [
+        { id: 'acrobatics', stat: 'dexterity' },
+        { id: 'animal-handling', stat: 'wisdom' }
+        // Add more skills as needed
+    ];
+
+    skills.forEach(skill => {
+        const statValue = parseInt(document.getElementById(skill.stat).value) || 0;
+        const modValue = calculateModifier(statValue);
+        const proficiencyCheckbox = document.getElementById(skill.id);
+        const expertiseCheckbox = document.getElementById(`${skill.id}-expertise`);
+
+        let skillMod = modValue;
+        if (proficiencyCheckbox.checked && expertiseCheckbox.checked) {
+            skillMod += proficiencyBonus * 2;
+        } else if (proficiencyCheckbox.checked) {
+            skillMod += proficiencyBonus;
+        }
+
+        document.getElementById(`${skill.id}-mod`).innerText = skillMod >= 0 ? `+${skillMod}` : `${skillMod}`;
+    });
 }
 
-.header-item label, .stat label, .saving-throw label, .skill label, .combat-stat label, .hit-points label, .temporary-hit-points label, .hit-dice label, .trait label, .features label {
-    flex: 1;
-}
+// Initialize modifiers on page load
+window.onload = calculateAll;
 
-header input, section input, section textarea {
-    flex: 2;
-    padding: 5px;
-    margin-left: 10px;
-}
-
-.stat span, .saving-throw span, .skill span {
-    margin-left: 10px;
-}
-
-.inspiration-proficiency {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-}
-
-.inspiration, .proficiency-bonus {
-    flex: 1;
-    margin: 10px;
-}
-
-.inspiration label, .proficiency-bonus label {
-    flex: 1;
-}
-
-.inspiration input, .proficiency-bonus span {
-    flex: 2;
-    padding: 5px;
-    margin-left: 10px;
-}
-
-.traits, .combat-info, .skills {
-    width: 100%;
-}
-
-.trait, .features {
-    flex-direction: column;
-}
-
-.trait label, .features label {
-    margin-bottom: 5px;
-}
-
-.trait textarea, .features textarea {
-    width: 100%;
-    height: 50px;
-    padding: 5px;
-    resize: none;
-}
-
-.combat-stats, .health {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-.hit-points, .temporary-hit-points, .hit-dice, .death-saves {
-    flex-direction: column;
-    width: 100%;
-}
-
-button {
-    display: block;
-    margin: 20px auto;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-}
 
 
