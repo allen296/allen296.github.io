@@ -105,3 +105,14 @@ header input, section input {
 .stat span, .saving-throw span, .skill span {
     margin-left: 10px;
 }
+
+.proficiency {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.proficiency label {
+    flex: 1;
+}
+
