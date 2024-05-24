@@ -32,7 +32,7 @@
     <div class="character-sheet">
         <header>
             <div class="header-item"><label>Character Name</label><input type="text"></div>
-            <div class="header-item"><label>Class & Level</label><input type="text"></div>
+            <div class="header-item"><label>Class & Level</label><input type="text" id="level" oninput="updateProficiencyBonusAndModifiers()"></div>
             <div class="header-item"><label>Background</label><input type="text"></div>
             <div class="header-item"><label>Player Name</label><input type="text"></div>
             <div class="header-item"><label>Race</label><input type="text"></div>
@@ -102,6 +102,10 @@
             </div>
             <!-- Add more skills similarly -->
         </section>
+        <div class="proficiency">
+            <label>Proficiency Bonus:</label>
+            <span id="proficiency-bonus">+2</span>
+        </div>
     </div>
     <script src="scripts.js"></script>
 </body>
