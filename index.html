@@ -21,74 +21,88 @@
 </html>
 -->
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ficha de Personaje de D&D</title>
+    <title>DnD Character Sheet</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="jabali.png" type="image/png">
 </head>
 <body>
-    <header>
-        <h1>Ficha de Personaje de D&D</h1>
-    </header>
-    <div class="container">
-        <div class="section general-info">
-            <h2>Información General</h2>
-            <p><strong>Nombre:</strong> <span id="nombre">Elrick Stormbringer</span></p>
-            <p><strong>Raza:</strong> <span id="raza">Elfo</span></p>
-            <p><strong>Clase:</strong> <span id="clase">Hechicero</span></p>
-            <p><strong>Nivel:</strong> <span id="nivel">5</span></p>
-            <p><strong>Alineamiento:</strong> <span id="alineamiento">Caótico Bueno</span></p>
-        </div>
-        <div class="section attributes">
-            <h2>Atributos</h2>
-            <ul>
-                <li><strong>Fuerza:</strong> <span id="fuerza">10</span></li>
-                <li><strong>Destreza:</strong> <span id="destreza">14</span></li>
-                <li><strong>Constitución:</strong> <span id="constitucion">12</span></li>
-                <li><strong>Inteligencia:</strong> <span id="inteligencia">16</span></li>
-                <li><strong>Sabiduría:</strong> <span id="sabiduria">13</span></li>
-                <li><strong>Carisma:</strong> <span id="carisma">18</span></li>
-            </ul>
-        </div>
-        <div class="section skills">
-            <h2>Habilidades</h2>
-            <ul>
-                <li><strong>Acrobacias:</strong> +4</li>
-                <li><strong>Arcana:</strong> +7</li>
-                <li><strong>Athletics:</strong> +0</li>
-                <li><strong>Historia:</strong> +5</li>
-                <li><strong>Persuasión:</strong> +8</li>
-                <!-- Agrega más habilidades según sea necesario -->
-            </ul>
-        </div>
-        <div class="section equipment">
-            <h2>Equipo</h2>
-            <ul>
-                <li><strong>Arma Principal:</strong> Bastón Arcano</li>
-                <li><strong>Armadura:</strong> Túnica Mágica</li>
-                <li><strong>Objeto Mágico:</strong> Amuleto de Protección</li>
-                <!-- Agrega más equipo según sea necesario -->
-            </ul>
-        </div>
-        <div class="section background">
-            <h2>Historia de Fondo</h2>
-            <p id="historia">
-                Elrick creció en una ciudad mágica, aprendiendo las artes arcanas desde joven. Siempre sintió una conexión especial con la magia y dedicó su vida a estudiarla y dominarla. Ahora, viaja por el mundo buscando artefactos antiguos y desentrañando misterios arcanos.
-            </p>
-        </div>
-        <div class="section spells">
-            <h2>Hechizos</h2>
-            <ul>
-                <li><strong>Bola de Fuego:</strong> Nivel 3</li>
-                <li><strong>Misil Mágico:</strong> Nivel 1</li>
-                <li><strong>Escudo:</strong> Nivel 1</li>
-                <li><strong>Invisibilidad:</strong> Nivel 2</li>
-                <!-- Agrega más hechizos según sea necesario -->
-            </ul>
-        </div>
+    <div class="character-sheet">
+        <header>
+            <div class="header-item"><label>Character Name</label><input type="text"></div>
+            <div class="header-item"><label>Class & Level</label><input type="text"></div>
+            <div class="header-item"><label>Background</label><input type="text"></div>
+            <div class="header-item"><label>Player Name</label><input type="text"></div>
+            <div class="header-item"><label>Race</label><input type="text"></div>
+            <div class="header-item"><label>Alignment</label><input type="text"></div>
+            <div class="header-item"><label>Experience Points</label><input type="number"></div>
+        </header>
+        <section class="stats">
+            <div class="stat">
+                <label>Strength</label>
+                <input type="number" id="strength" oninput="updateModifiers()">
+                <span id="strength-mod">+0</span>
+            </div>
+            <div class="stat">
+                <label>Dexterity</label>
+                <input type="number" id="dexterity" oninput="updateModifiers()">
+                <span id="dexterity-mod">+0</span>
+            </div>
+            <div class="stat">
+                <label>Constitution</label>
+                <input type="number" id="constitution" oninput="updateModifiers()">
+                <span id="constitution-mod">+0</span>
+            </div>
+            <div class="stat">
+                <label>Intelligence</label>
+                <input type="number" id="intelligence" oninput="updateModifiers()">
+                <span id="intelligence-mod">+0</span>
+            </div>
+            <div class="stat">
+                <label>Wisdom</label>
+                <input type="number" id="wisdom" oninput="updateModifiers()">
+                <span id="wisdom-mod">+0</span>
+            </div>
+            <div class="stat">
+                <label>Charisma</label>
+                <input type="number" id="charisma" oninput="updateModifiers()">
+                <span id="charisma-mod">+0</span>
+            </div>
+        </section>
+        <section class="saving-throws">
+            <h2>Saving Throws</h2>
+            <div class="saving-throw">
+                <input type="checkbox" id="strength-save"><label for="strength-save">Strength</label><span id="strength-save-mod">+0</span>
+            </div>
+            <div class="saving-throw">
+                <input type="checkbox" id="dexterity-save"><label for="dexterity-save">Dexterity</label><span id="dexterity-save-mod">+0</span>
+            </div>
+            <div class="saving-throw">
+                <input type="checkbox" id="constitution-save"><label for="constitution-save">Constitution</label><span id="constitution-save-mod">+0</span>
+            </div>
+            <div class="saving-throw">
+                <input type="checkbox" id="intelligence-save"><label for="intelligence-save">Intelligence</label><span id="intelligence-save-mod">+0</span>
+            </div>
+            <div class="saving-throw">
+                <input type="checkbox" id="wisdom-save"><label for="wisdom-save">Wisdom</label><span id="wisdom-save-mod">+0</span>
+            </div>
+            <div class="saving-throw">
+                <input type="checkbox" id="charisma-save"><label for="charisma-save">Charisma</label><span id="charisma-save-mod">+0</span>
+            </div>
+        </section>
+        <section class="skills">
+            <h2>Skills</h2>
+            <div class="skill">
+                <input type="checkbox" id="acrobatics"><label for="acrobatics">Acrobatics (Dex)</label><span id="acrobatics-mod">+0</span>
+            </div>
+            <div class="skill">
+                <input type="checkbox" id="animal-handling"><label for="animal-handling">Animal Handling (Wis)</label><span id="animal-handling-mod">+0</span>
+            </div>
+            <!-- Add more skills similarly -->
+        </section>
     </div>
+    <script src="scripts.js"></script>
 </body>
 </html>
