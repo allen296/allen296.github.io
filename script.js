@@ -18,6 +18,11 @@ function getProficiencyBonus(level) {
     return Math.ceil(level / 4) + 1;
 }
 
+function calculateAll() {
+    updateProficiencyBonusAndModifiers();
+    updateModifiers();
+}
+
 function updateProficiencyBonusAndModifiers() {
     const level = parseInt(document.getElementById('level').value) || 1;
     const proficiencyBonus = getProficiencyBonus(level);
@@ -69,4 +74,4 @@ function updateModifiers() {
 }
 
 // Initialize modifiers on page load
-window.onload = updateProficiencyBonusAndModifiers;
+window.onload = calculateAll;
