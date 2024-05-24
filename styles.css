@@ -85,18 +85,18 @@ header, section {
     margin-bottom: 20px;
 }
 
-.header-item, .stat, .saving-throw, .skill {
-    flex: 1 1 30%;
+.header-item, .stat, .saving-throw, .skill, .combat-stat, .hit-points, .temporary-hit-points, .hit-dice, .death-saves, .trait, .features {
+    flex: 1 1 100%;
     margin: 10px;
     display: flex;
     align-items: center;
 }
 
-.header-item label, .stat label, .saving-throw label, .skill label {
+.header-item label, .stat label, .saving-throw label, .skill label, .combat-stat label, .hit-points label, .temporary-hit-points label, .hit-dice label, .trait label, .features label {
     flex: 1;
 }
 
-header input, section input {
+header input, section input, section textarea {
     flex: 2;
     padding: 5px;
     margin-left: 10px;
@@ -106,13 +106,51 @@ header input, section input {
     margin-left: 10px;
 }
 
-.proficiency {
+.inspiration-proficiency {
     display: flex;
-    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.inspiration, .proficiency-bonus {
+    flex: 1;
     margin: 10px;
 }
 
-.proficiency label {
+.inspiration label, .proficiency-bonus label {
     flex: 1;
 }
 
+.inspiration input, .proficiency-bonus span {
+    flex: 2;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.traits, .combat-info, .skills {
+    width: 100%;
+}
+
+.trait, .features {
+    flex-direction: column;
+}
+
+.trait label, .features label {
+    margin-bottom: 5px;
+}
+
+.trait textarea, .features textarea {
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+    resize: none;
+}
+
+.combat-stats, .health {
+    display: flex;
+    flex-direction: column;
+}
+
+.hit-points, .temporary-hit-points, .hit-dice, .death-saves {
+    flex-direction: column;
+}
