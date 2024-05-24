@@ -69,6 +69,15 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    overflow: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
 }
 
 .character-sheet {
@@ -76,17 +85,23 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 800px;
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 header, section {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
     margin-bottom: 20px;
 }
 
 .header-item, .stat, .saving-throw, .skill, .combat-stat, .hit-points, .temporary-hit-points, .hit-dice, .death-saves, .trait, .features {
-    flex: 1 1 100%;
+    flex: 1 1 45%;
     margin: 10px;
     display: flex;
     align-items: center;
@@ -149,9 +164,20 @@ header input, section input, section textarea {
 .combat-stats, .health {
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 .hit-points, .temporary-hit-points, .hit-dice, .death-saves {
     flex-direction: column;
+    width: 100%;
 }
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
 
