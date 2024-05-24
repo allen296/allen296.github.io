@@ -19,15 +19,14 @@ function getProficiencyBonus(level) {
 }
 
 function calculateAll() {
-    updateProficiencyBonusAndModifiers();
+    updateProficiencyBonus();
     updateModifiers();
 }
 
-function updateProficiencyBonusAndModifiers() {
+function updateProficiencyBonus() {
     const level = parseInt(document.getElementById('level').value) || 1;
     const proficiencyBonus = getProficiencyBonus(level);
     document.getElementById('proficiency-bonus').innerText = `+${proficiencyBonus}`;
-    updateModifiers();
 }
 
 function updateModifiers() {
