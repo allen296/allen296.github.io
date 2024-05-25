@@ -58,3 +58,69 @@ body {
 */
 
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.page {
+    width: 80%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.column {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.input-container, .misc-item, .stat, .save, .skill, .trait, .attack {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"], input[type="number"], textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.flex-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-row .input-container {
+    flex: 1;
+    margin: 0 5px;
+}
+
+.stats .stat, .saves .save, .skills .skill, .traits .trait, .attacks .attack {
+    display: flex;
+    align-items: center;
+}
+
+.stats .stat input, .saves .save input, .skills .skill input, .traits .trait input, .attacks .attack input {
+    margin-left: 10px;
+}
+
+.misc-item input, .trait input, .attack input {
+    width: calc(100% - 10px);
+}
