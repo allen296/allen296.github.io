@@ -26,93 +26,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hoja de Personaje - Dungeons and Dragons 5e</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .page {
-            display: flex;
-            flex-direction: column;
-            width: 210mm;
-            height: 297mm;
-            border: 1px solid #000;
-            margin: auto;
-            padding: 20px;
-        }
-        .row {
-            display: flex;
-            width: 100%;
-        }
-        .column {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-        }
-        .flex-row {
-            display: flex;
-        }
-        .flex-column {
-            display: flex;
-            flex-direction: column;
-        }
-        .input-container {
-            margin: 5px;
-        }
-        .input-container label {
-            display: block;
-        }
-        .input-container input[type="text"], 
-        .input-container input[type="number"] {
-            width: 100%;
-        }
-        .stats, .saves, .skills, .misc, .traits {
-            border: 1px solid #000;
-            padding: 10px;
-            margin: 5px;
-        }
-        .stats .stat, .saves .save, .skills .skill, .misc .misc-item, .traits .trait {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 5px;
-        }
-        .stats .stat input, 
-        .saves .save input[type="number"], 
-        .skills .skill input[type="number"] {
-            width: 30%;
-        }
-        .traits .trait input[type="text"], .misc .misc-item input[type="text"], .misc .misc-item input[type="number"] {
-            width: 48%;
-        }
-        .checkbox {
-            width: 10%;
-        }
-        .skills .skill input[type="text"] {
-            width: 60%;
-        }
-        .misc .misc-item {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        .misc .misc-item div {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            margin: 5px;
-        }
-        .attack {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 5px;
-        }
-        .attack input {
-            width: 30%;
-        }
-        .big-text {
-            width: 100%;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="page">
@@ -420,3 +334,4 @@
     </div>
 </body>
 </html>
+
