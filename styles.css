@@ -44,16 +44,15 @@ body {
 }
 
 /* Estilos de la imagen */
-/* 
+ 
 #circle img {
     width: 100%; /* La imagen ocupa el 100% del contenedor del círculo */
-/* 
+ 
     height: auto; /* Ajusta automáticamente la altura para mantener la proporción */
-/* 
+ 
     max-width: 100%; /* Ajusta el tamaño máximo de la imagen */
-/* 
-    max-height: 100%; /* Ajusta el tamaño máximo de la imagen */
-/* 
+ 
+    max-height: 100%; /* Ajusta el tamaño máximo de la imagen */ 
 }
 
 /*
