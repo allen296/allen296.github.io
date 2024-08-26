@@ -1,4 +1,4 @@
-/* let audio = new Audio('NeonNights.mp3');
+let audio = new Audio('NeonNights.mp3');
 let isPlaying = false;
 
 document.body.addEventListener('click', function() {
@@ -8,4 +8,3 @@ document.body.addEventListener('click', function() {
         isPlaying = true;
     }
 });
-*/
