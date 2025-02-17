@@ -44,7 +44,7 @@ searchForm.addEventListener('submit', async (e) => {
   }
 });
 
-// Muestra la carta actual
+// Muestra la carta actual (solo imagen)
 function displayCard(card) {
   cardContainer.innerHTML = '';
 
@@ -52,28 +52,12 @@ function displayCard(card) {
   cardElement.classList.add('card');
 
   // Imagen
+  // Nota: Se quita nombre, tipo y descripción para evitar desplazamientos.
   if (card.image_uris && card.image_uris.normal) {
     const img = document.createElement('img');
     img.src = card.image_uris.normal;
     img.alt = card.name;
     cardElement.appendChild(img);
-  }
-
-  // Nombre
-  const nameEl = document.createElement('h3');
-  nameEl.textContent = card.name;
-  cardElement.appendChild(nameEl);
-
-  // Tipo
-  const typeEl = document.createElement('p');
-  typeEl.textContent = card.type_line;
-  cardElement.appendChild(typeEl);
-
-  // Texto
-  if (card.oracle_text) {
-    const textEl = document.createElement('p');
-    textEl.textContent = card.oracle_text;
-    cardElement.appendChild(textEl);
   }
 
   cardContainer.appendChild(cardElement);
@@ -114,29 +98,12 @@ randomBtn.addEventListener('click', async () => {
     const cardElement = document.createElement('div');
     cardElement.classList.add('card');
 
-    // Imagen
+    // Solo imagen
     if (card.image_uris && card.image_uris.normal) {
       const img = document.createElement('img');
       img.src = card.image_uris.normal;
       img.alt = card.name;
       cardElement.appendChild(img);
-    }
-
-    // Nombre
-    const nameEl = document.createElement('h3');
-    nameEl.textContent = card.name;
-    cardElement.appendChild(nameEl);
-
-    // Tipo
-    const typeEl = document.createElement('p');
-    typeEl.textContent = card.type_line;
-    cardElement.appendChild(typeEl);
-
-    // Texto
-    if (card.oracle_text) {
-      const textEl = document.createElement('p');
-      textEl.textContent = card.oracle_text;
-      cardElement.appendChild(textEl);
     }
 
     randomCardContainer.appendChild(cardElement);
