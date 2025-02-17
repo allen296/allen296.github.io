@@ -1,176 +1,153 @@
-// Variables globales para los resultados de búsqueda
-let allCards = [];
+// Variables globales para los resultados
 let currentIndex = 0;
+let cardsArray = [];
 
-// Referencia a elementos del DOM
+// Referencias a elementos del DOM
 const searchForm = document.getElementById('searchForm');
-const cardNameInput = document.getElementById('cardNameInput');
-const searchResults = document.getElementById('searchResults');
-const randomButton = document.getElementById('randomButton');
+const cardNameInput = document.getElementById('cardName');
+const cardContainer = document.getElementById('cardContainer');
+const prevBtn = document.getElementById('prevBtn');
+const nextBtn = document.getElementById('nextBtn');
+
+const randomBtn = document.getElementById('randomBtn');
 const randomCardContainer = document.getElementById('randomCardContainer');
 
-// Botones de navegación
-const prevButton = document.getElementById('prevButton');
-const nextButton = document.getElementById('nextButton');
+/* 1. BÚSQUEDA DE CARTAS */
 
-// Función para obtener y mostrar las cartas de Scryfall según un nombre
-async function searchCards(cardName) {
+// Evento para buscar cartas
+searchForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const cardName = cardNameInput.value.trim();
+  if (!cardName) return;
+
   try {
-    // Llamamos a la API de Scryfall para buscar por nombre
-    const response = await fetch(
-      `https://api.scryfall.com/cards/search?q=${encodeURIComponent(cardName)}`
-    );
+    // Llamada a la API de Scryfall para buscar cartas por nombre
+    const response = await fetch(`https://api.scryfall.com/cards/search?q=${encodeURIComponent(cardName)}`);
     const data = await response.json();
 
-    // Si hay algún error o no se encontraron resultados
+    // Verificar si hubo un error o no se encontraron cartas
     if (data.object === 'error' || !data.data || data.data.length === 0) {
-      searchResults.innerHTML = `<p>No se encontró ninguna coincidencia.</p>`;
-      allCards = [];
+      cardContainer.innerHTML = '<p>No se encontraron resultados.</p>';
+      cardsArray = [];
       currentIndex = 0;
-      updateNavigationButtons();
+      updateButtons();
       return;
     }
 
-    // Guardamos todos los resultados en un array global
-    allCards = data.data;
-    // Empezamos mostrando la primera carta
+    // Almacenar los resultados y mostrar la primera carta
+    cardsArray = data.data;
     currentIndex = 0;
-    displayCurrentCard();
+    displayCard(cardsArray[currentIndex]);
+    updateButtons();
 
   } catch (error) {
     console.error(error);
-    searchResults.innerHTML = `<p>Ocurrió un error al realizar la búsqueda.</p>`;
+    cardContainer.innerHTML = '<p>Ocurrió un error en la búsqueda.</p>';
   }
-}
+});
 
-// Función para mostrar la carta actual en el contenedor
-function displayCurrentCard() {
-  // Si no hay cartas en allCards, mostramos un mensaje
-  if (!allCards || allCards.length === 0) {
-    searchResults.innerHTML = `<p>No se encontró ninguna coincidencia.</p>`;
-    return;
-  }
+// Función para mostrar la carta actual
+function displayCard(card) {
+  cardContainer.innerHTML = '';
 
-  // Obtenemos la carta actual
-  const card = allCards[currentIndex];
-
-  // Limpiamos el contenedor antes de mostrar la carta
-  searchResults.innerHTML = '';
-
-  // Creamos el elemento de la carta
   const cardElement = document.createElement('div');
   cardElement.classList.add('card');
 
-  // Imagen de la carta (si existe)
+  // Imagen de la carta
   if (card.image_uris && card.image_uris.normal) {
-    const cardImage = document.createElement('img');
-    cardImage.src = card.image_uris.normal;
-    cardImage.alt = card.name;
-    cardElement.appendChild(cardImage);
+    const img = document.createElement('img');
+    img.src = card.image_uris.normal;
+    img.alt = card.name;
+    cardElement.appendChild(img);
   }
 
-  // Nombre de la carta
-  const cardTitle = document.createElement('h3');
-  cardTitle.textContent = card.name;
-  cardElement.appendChild(cardTitle);
+  // Nombre
+  const nameEl = document.createElement('h3');
+  nameEl.textContent = card.name;
+  cardElement.appendChild(nameEl);
 
-  // Tipo de la carta
-  const cardType = document.createElement('p');
-  cardType.textContent = card.type_line;
-  cardElement.appendChild(cardType);
+  // Tipo
+  const typeEl = document.createElement('p');
+  typeEl.textContent = card.type_line;
+  cardElement.appendChild(typeEl);
 
-  // Texto (oracle_text) de la carta
+  // Texto (oracle_text)
   if (card.oracle_text) {
-    const cardText = document.createElement('p');
-    cardText.textContent = card.oracle_text;
-    cardElement.appendChild(cardText);
+    const textEl = document.createElement('p');
+    textEl.textContent = card.oracle_text;
+    cardElement.appendChild(textEl);
   }
 
-  // Añadimos la carta al contenedor de resultados
-  searchResults.appendChild(cardElement);
-
-  // Actualizamos el estado de los botones de navegación
-  updateNavigationButtons();
+  cardContainer.appendChild(cardElement);
 }
 
-// Función para actualizar el estado de los botones de navegación
-function updateNavigationButtons() {
-  prevButton.disabled = (currentIndex === 0);
-  nextButton.disabled = (currentIndex === allCards.length - 1 || allCards.length === 0);
+// Función para actualizar los botones
+function updateButtons() {
+  prevBtn.disabled = (currentIndex === 0);
+  nextBtn.disabled = (currentIndex === cardsArray.length - 1 || cardsArray.length === 0);
 }
 
-// Funciones de navegación entre resultados
-function showPreviousCard() {
+// Botón "Anterior"
+prevBtn.addEventListener('click', () => {
   if (currentIndex > 0) {
     currentIndex--;
-    displayCurrentCard();
+    displayCard(cardsArray[currentIndex]);
+    updateButtons();
   }
-}
+});
 
-function showNextCard() {
-  if (currentIndex < allCards.length - 1) {
+// Botón "Siguiente"
+nextBtn.addEventListener('click', () => {
+  if (currentIndex < cardsArray.length - 1) {
     currentIndex++;
-    displayCurrentCard();
+    displayCard(cardsArray[currentIndex]);
+    updateButtons();
   }
-}
+});
 
-// Función para obtener una carta aleatoria de Scryfall
-async function getRandomCard() {
+/* 2. CARTA ALEATORIA */
+
+// Evento para obtener una carta aleatoria
+randomBtn.addEventListener('click', async () => {
   try {
     const response = await fetch('https://api.scryfall.com/cards/random');
     const card = await response.json();
 
-    // Limpiar contenedor antes de mostrar la carta aleatoria
+    // Limpiar el contenedor antes de mostrar la carta aleatoria
     randomCardContainer.innerHTML = '';
 
     const cardElement = document.createElement('div');
     cardElement.classList.add('card');
 
-    // Imagen (si existe)
+    // Imagen
     if (card.image_uris && card.image_uris.normal) {
-      const cardImage = document.createElement('img');
-      cardImage.src = card.image_uris.normal;
-      cardImage.alt = card.name;
-      cardElement.appendChild(cardImage);
+      const img = document.createElement('img');
+      img.src = card.image_uris.normal;
+      img.alt = card.name;
+      cardElement.appendChild(img);
     }
 
     // Nombre
-    const cardTitle = document.createElement('h3');
-    cardTitle.textContent = card.name;
-    cardElement.appendChild(cardTitle);
+    const nameEl = document.createElement('h3');
+    nameEl.textContent = card.name;
+    cardElement.appendChild(nameEl);
 
     // Tipo
-    const cardType = document.createElement('p');
-    cardType.textContent = card.type_line;
-    cardElement.appendChild(cardType);
+    const typeEl = document.createElement('p');
+    typeEl.textContent = card.type_line;
+    cardElement.appendChild(typeEl);
 
-    // Texto de la carta (oracle_text)
+    // Texto (oracle_text)
     if (card.oracle_text) {
-      const cardText = document.createElement('p');
-      cardText.textContent = card.oracle_text;
-      cardElement.appendChild(cardText);
+      const textEl = document.createElement('p');
+      textEl.textContent = card.oracle_text;
+      cardElement.appendChild(textEl);
     }
 
     randomCardContainer.appendChild(cardElement);
+
   } catch (error) {
     console.error(error);
-    randomCardContainer.innerHTML = `<p>Ocurrió un error al obtener la carta aleatoria.</p>`;
-  }
-}
-
-// EVENTOS
-// Cuando se envía el formulario de búsqueda
-searchForm.addEventListener('submit', (e) => {
-  e.preventDefault();
-  const cardName = cardNameInput.value.trim();
-  if (cardName) {
-    searchCards(cardName);
+    randomCardContainer.innerHTML = '<p>Error al obtener la carta aleatoria.</p>';
   }
 });
-
-// Cuando se hace clic en "Carta Aleatoria"
-randomButton.addEventListener('click', getRandomCard);
-
-// Botones de navegación (anterior/siguiente)
-prevButton.addEventListener('click', showPreviousCard);
-nextButton.addEventListener('click', showNextCard);
