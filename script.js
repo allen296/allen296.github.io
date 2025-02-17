@@ -1,15 +1,16 @@
 const track = document.getElementById("image-track");
 
-// Función para centrar la primera imagen al cargar la página
+// Centrar la primera imagen al cargar la página
 const centerFirstImage = () => {
     const images = track.getElementsByClassName("image");
     if (images.length === 0) return;
 
-    // Ajustar para centrar la primera imagen
-    const firstImageWidth = images[0].offsetWidth;
+    const firstImage = images[0];
+    const trackWidth = track.scrollWidth;
+    const imageWidth = firstImage.offsetWidth;
     const viewportWidth = window.innerWidth;
 
-    const initialPercentage = ((viewportWidth / 2) - (firstImageWidth / 2)) / viewportWidth * -100;
+    const initialPercentage = ((viewportWidth / 2) - (imageWidth / 2)) / trackWidth * -100;
     
     track.dataset.percentage = initialPercentage;
     track.dataset.prevPercentage = initialPercentage;
@@ -20,7 +21,7 @@ const centerFirstImage = () => {
     }
 };
 
-// Función para manejar el arrastre con el ratón
+// Funciones de interacción
 const handleOnDown = e => track.dataset.mouseDownAt = e.clientX;
 
 const handleOnUp = () => {
