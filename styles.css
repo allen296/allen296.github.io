@@ -1,56 +1,49 @@
-
-/* Estilos generales */
- 
-body {
+* {
     margin: 0;
     padding: 0;
-    background-color: #114c5f;
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+    overflow: hidden;
     display: flex;
-    flex-direction: column; /* Alinear elementos en columna */
- 
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: 'Rubik', sans-serif; /* Aplicar la fuente Rubik al cuerpo del documento */
+    color: white;
+    font-family: Arial, sans-serif;
 }
 
-/* Estilos del contenedor del círculo */
- 
-#circle-container {
-    width: 80vw; /* El contenedor ocupa el 80% del ancho de la ventana */
- 
-    max-width: 400px; /* Establece un ancho máximo para el contenedor */
- 
-    height: 80vw; /* Mantiene una relación de aspecto 1:1 */
- 
-    max-height: 400px; /* Establece una altura máxima para el contenedor */
- 
-    position: relative;
+.container {
+    position: absolute;
+    z-index: 2;
+    text-align: center;
 }
 
-/* Estilos del círculo */
- 
-#circle {
+.title {
+    font-size: 3em;
+    font-weight: bold;
+    text-transform: uppercase;
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
-    background-color: #fff;
-    border-radius: 50%; /* Hace que el contenedor sea circular */
- 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    overflow: hidden; /* Para asegurar que la imagen no se desborde del círculo */*/
-}
-
-/* Estilos de la imagen */
- 
-#circle img {
-    width: 100%; /* La imagen ocupa el 100% del contenedor del círculo */
- 
-    height: auto; /* Ajusta automáticamente la altura para mantener la proporción */
- 
-    max-width: 100%; /* Ajusta el tamaño máximo de la imagen */
- 
-    max-height: 100%; /* Ajusta el tamaño máximo de la imagen */ 
+    z-index: 1;
 }
