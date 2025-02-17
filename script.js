@@ -53,7 +53,7 @@ function displayCard(card) {
   const cardElement = document.createElement('div');
   cardElement.classList.add('card');
 
-  // Imagen de la carta
+  // Imagen de la carta (si está disponible)
   if (card.image_uris && card.image_uris.normal) {
     const img = document.createElement('img');
     img.src = card.image_uris.normal;
@@ -81,7 +81,7 @@ function displayCard(card) {
   cardContainer.appendChild(cardElement);
 }
 
-// Función para actualizar los botones
+// Actualizar el estado de los botones de navegación
 function updateButtons() {
   prevBtn.disabled = (currentIndex === 0);
   nextBtn.disabled = (currentIndex === cardsArray.length - 1 || cardsArray.length === 0);
