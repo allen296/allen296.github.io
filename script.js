@@ -2,15 +2,22 @@ const track = document.getElementById("image-track");
 
 // Función para centrar la primera imagen al cargar la página
 const centerFirstImage = () => {
-    const firstImage = track.querySelector(".image");
-    if (!firstImage) return;
-    
-    // Ajustar el desplazamiento inicial para centrar la primera imagen
-    track.dataset.percentage = "0";
-    track.dataset.prevPercentage = "0";
+    const images = track.getElementsByClassName("image");
+    if (images.length === 0) return;
 
-    track.style.transform = `translate(0%, -50%)`;
-    firstImage.style.objectPosition = "center center";
+    // Ajustar para centrar la primera imagen
+    const firstImageWidth = images[0].offsetWidth;
+    const viewportWidth = window.innerWidth;
+
+    const initialPercentage = ((viewportWidth / 2) - (firstImageWidth / 2)) / viewportWidth * -100;
+    
+    track.dataset.percentage = initialPercentage;
+    track.dataset.prevPercentage = initialPercentage;
+    track.style.transform = `translate(${initialPercentage}%, -50%)`;
+
+    for (const image of images) {
+        image.style.objectPosition = `${100 + initialPercentage}% center`;
+    }
 };
 
 // Función para manejar el arrastre con el ratón
@@ -58,11 +65,10 @@ window.ontouchmove = e => handleOnMove(e.touches[0]);
 window.addEventListener("wheel", e => {
     e.preventDefault();
     
-    const scrollAmount = e.deltaY > 0 ? -5 : 5; // Rueda abajo (-), Rueda arriba (+)
+    const scrollAmount = e.deltaY > 0 ? -5 : 5;
     const prevPercentage = parseFloat(track.dataset.percentage) || 0;
     let nextPercentage = prevPercentage + scrollAmount;
 
-    // Limitar el rango entre 0 y -100
     nextPercentage = Math.max(Math.min(nextPercentage, 0), -100);
     track.dataset.percentage = nextPercentage;
 
