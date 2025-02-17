@@ -1,31 +1,36 @@
-// Variables globales para los resultados
+/*****************************************************
+ * Manejamos la lógica de la App:
+ * - Búsqueda de cartas (Scryfall)
+ * - Navegación de resultados (prev/next)
+ * - Carta aleatoria
+ * - Cambio de Tema (modificando data-theme en <html>)
+ *****************************************************/
+
+// Variables globales de resultados
 let currentIndex = 0;
 let cardsArray = [];
 
-// Referencias a elementos del DOM
+// Referencias al DOM
 const searchForm = document.getElementById('searchForm');
 const cardNameInput = document.getElementById('cardName');
 const cardContainer = document.getElementById('cardContainer');
 const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
-
 const randomBtn = document.getElementById('randomBtn');
 const randomCardContainer = document.getElementById('randomCardContainer');
+const themeSelect = document.getElementById('themeSelect');
 
-/* 1. BÚSQUEDA DE CARTAS */
-
-// Evento para buscar cartas
+// 1. BÚSQUEDA DE CARTAS
 searchForm.addEventListener('submit', async (e) => {
   e.preventDefault();
   const cardName = cardNameInput.value.trim();
   if (!cardName) return;
 
   try {
-    // Llamada a la API de Scryfall para buscar cartas por nombre
     const response = await fetch(`https://api.scryfall.com/cards/search?q=${encodeURIComponent(cardName)}`);
     const data = await response.json();
 
-    // Verificar si hubo un error o no se encontraron cartas
+    // Verificar si hay resultados
     if (data.object === 'error' || !data.data || data.data.length === 0) {
       cardContainer.innerHTML = '<p>No se encontraron resultados.</p>';
       cardsArray = [];
@@ -34,7 +39,7 @@ searchForm.addEventListener('submit', async (e) => {
       return;
     }
 
-    // Almacenar los resultados y mostrar la primera carta
+    // Guardar los resultados y mostrar la primera carta
     cardsArray = data.data;
     currentIndex = 0;
     displayCard(cardsArray[currentIndex]);
@@ -53,7 +58,7 @@ function displayCard(card) {
   const cardElement = document.createElement('div');
   cardElement.classList.add('card');
 
-  // Imagen de la carta (si está disponible)
+  // Imagen
   if (card.image_uris && card.image_uris.normal) {
     const img = document.createElement('img');
     img.src = card.image_uris.normal;
@@ -71,7 +76,7 @@ function displayCard(card) {
   typeEl.textContent = card.type_line;
   cardElement.appendChild(typeEl);
 
-  // Texto (oracle_text)
+  // Texto
   if (card.oracle_text) {
     const textEl = document.createElement('p');
     textEl.textContent = card.oracle_text;
@@ -81,7 +86,7 @@ function displayCard(card) {
   cardContainer.appendChild(cardElement);
 }
 
-// Actualizar el estado de los botones de navegación
+// Función para actualizar botones prev/next
 function updateButtons() {
   prevBtn.disabled = (currentIndex === 0);
   nextBtn.disabled = (currentIndex === cardsArray.length - 1 || cardsArray.length === 0);
@@ -105,15 +110,13 @@ nextBtn.addEventListener('click', () => {
   }
 });
 
-/* 2. CARTA ALEATORIA */
-
-// Evento para obtener una carta aleatoria
+// 2. CARTA ALEATORIA
 randomBtn.addEventListener('click', async () => {
   try {
     const response = await fetch('https://api.scryfall.com/cards/random');
     const card = await response.json();
 
-    // Limpiar el contenedor antes de mostrar la carta aleatoria
+    // Limpiar contenedor antes de mostrar la nueva carta aleatoria
     randomCardContainer.innerHTML = '';
 
     const cardElement = document.createElement('div');
@@ -137,7 +140,7 @@ randomBtn.addEventListener('click', async () => {
     typeEl.textContent = card.type_line;
     cardElement.appendChild(typeEl);
 
-    // Texto (oracle_text)
+    // Texto
     if (card.oracle_text) {
       const textEl = document.createElement('p');
       textEl.textContent = card.oracle_text;
@@ -150,4 +153,11 @@ randomBtn.addEventListener('click', async () => {
     console.error(error);
     randomCardContainer.innerHTML = '<p>Error al obtener la carta aleatoria.</p>';
   }
+});
+
+// 3. CAMBIO DE TEMA
+themeSelect.addEventListener('change', (e) => {
+  const newTheme = e.target.value;
+  // Accedemos a <html> y cambiamos el data-theme
+  document.documentElement.setAttribute('data-theme', newTheme);
 });
