@@ -1,35 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
-    <!-- Enlazamos al archivo CSS -->
-    <link rel="stylesheet" href="styles.css">
-    <!-- Enlazamos al archivo JS -->
-    <script defer src="script.js"></script>
+    <title>Chat Aesthetic</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="sidebar">
-        <h2>Portfolio</h2>
-        <div class="section">
-            <h3>About Me</h3>
-            <a href="#">Antonio Valladares</a>
-            <a href="#">CV</a>
-        </div>
-        <div class="section">
-            <h3>Contact</h3>
-            <a href="#">Email</a>
-            <a href="#">Twitter</a>
-            <a href="#">LinkedIn</a>
-        </div>
-        <div class="section">
-            <h3>More</h3>
-        </div>
+    <div class="container">
+        <h1>Chat Aesthetic ✨</h1>
+        <textarea id="userInput" placeholder="Escribe tu pregunta..."></textarea>
+        <button id="sendButton">Enviar</button>
+        <textarea id="responseOutput" placeholder="Aquí aparecerá la respuesta..." readonly></textarea>
     </div>
-    <div class="main-content">
-        <h1>Welcome to My Portfolio</h1>
-        <p>This portfolio showcases my skills, projects, and professional experience. Explore the sections to learn more about me.</p>
-    </div>
+    <script src="script.js"></script>
 </body>
 </html>
