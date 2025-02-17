@@ -1,88 +1,60 @@
-const track = document.getElementById("image-track");
+document.addEventListener("DOMContentLoaded", () => {
+    const content = document.getElementById("content");
+    const links = document.querySelectorAll(".sidebar a");
 
-// Centrar la primera imagen al cargar la página
-const centerFirstImage = () => {
-    const images = track.getElementsByClassName("image");
-    if (images.length === 0) return;
+    function initializeGallery() {
+        const track = document.getElementById("image-track");
+        if (!track) return;
 
-    const firstImage = images[0];
-    const trackWidth = track.scrollWidth;
-    const imageWidth = firstImage.offsetWidth;
-    const viewportWidth = window.innerWidth;
+        let isDown = false;
+        let startX;
+        let scrollLeft;
 
-    const initialPercentage = ((viewportWidth / 2) - (imageWidth / 2)) / trackWidth * -100;
-    
-    track.dataset.percentage = initialPercentage;
-    track.dataset.prevPercentage = initialPercentage;
-    track.style.transform = `translate(${initialPercentage}%, -50%)`;
+        track.addEventListener("mousedown", (e) => {
+            isDown = true;
+            track.classList.add("active");
+            startX = e.pageX - track.offsetLeft;
+            scrollLeft = track.scrollLeft;
+        });
 
-    for (const image of images) {
-        image.style.objectPosition = `${100 + initialPercentage}% center`;
+        track.addEventListener("mouseleave", () => {
+            isDown = false;
+            track.classList.remove("active");
+        });
+
+        track.addEventListener("mouseup", () => {
+            isDown = false;
+            track.classList.remove("active");
+        });
+
+        track.addEventListener("mousemove", (e) => {
+            if (!isDown) return;
+            e.preventDefault();
+            const x = e.pageX - track.offsetLeft;
+            const walk = (x - startX) * 2;
+            track.scrollLeft = scrollLeft - walk;
+        });
     }
-};
 
-// Funciones de interacción
-const handleOnDown = e => track.dataset.mouseDownAt = e.clientX;
+    const sections = {
+        "antonio": `
+            <div id='image-track'>
+                <img class='image' src='https://images.unsplash.com/photo-1524781289445-ddf8f5695861?auto=format&fit=crop&w=1770&q=80' draggable='false' />
+                <img class='image' src='https://images.unsplash.com/photo-1610194352361-4c81a6a8967e?auto=format&fit=crop&w=1674&q=80' draggable='false' />
+                <img class='image' src='https://images.unsplash.com/photo-1618202133208-2907bebba9e1?auto=format&fit=crop&w=1770&q=80' draggable='false' />
+            </div>`,
+        "cv": "<h1>Curriculum Vitae</h1><p>Details about work experience, education, and projects.</p>",
+        "email": "<h1>Contact Me</h1><p>Email: example@example.com</p>",
+        "twitter": "<h1>Follow me on Twitter</h1><p>Twitter handle: @example</p>",
+        "linkedin": "<h1>Connect on LinkedIn</h1><p>LinkedIn profile link.</p>"
+    };
 
-const handleOnUp = () => {
-    track.dataset.mouseDownAt = "0";
-    track.dataset.prevPercentage = track.dataset.percentage;
-};
-
-const handleOnMove = e => {
-    if (track.dataset.mouseDownAt === "0") return;
-
-    const mouseDelta = parseFloat(track.dataset.mouseDownAt) - e.clientX,
-          maxDelta = window.innerWidth / 2;
-
-    const percentage = (mouseDelta / maxDelta) * -100,
-          nextPercentageUnconstrained = parseFloat(track.dataset.prevPercentage) + percentage,
-          nextPercentage = Math.max(Math.min(nextPercentageUnconstrained, 0), -100);
-
-    track.dataset.percentage = nextPercentage;
-
-    track.animate({
-        transform: `translate(${nextPercentage}%, -50%)`
-    }, { duration: 1200, fill: "forwards" });
-
-    for (const image of track.getElementsByClassName("image")) {
-        image.animate({
-            objectPosition: `${100 + nextPercentage}% center`
-        }, { duration: 1200, fill: "forwards" });
-    }
-};
-
-// Añadir eventos de arrastre
-window.onmousedown = e => handleOnDown(e);
-window.ontouchstart = e => handleOnDown(e.touches[0]);
-
-window.onmouseup = e => handleOnUp(e);
-window.ontouchend = e => handleOnUp(e.touches[0]);
-
-window.onmousemove = e => handleOnMove(e);
-window.ontouchmove = e => handleOnMove(e.touches[0]);
-
-// **Nuevo: Desplazamiento con la rueda del ratón**
-window.addEventListener("wheel", e => {
-    e.preventDefault();
-    
-    const scrollAmount = e.deltaY > 0 ? -5 : 5;
-    const prevPercentage = parseFloat(track.dataset.percentage) || 0;
-    let nextPercentage = prevPercentage + scrollAmount;
-
-    nextPercentage = Math.max(Math.min(nextPercentage, 0), -100);
-    track.dataset.percentage = nextPercentage;
-
-    track.animate({
-        transform: `translate(${nextPercentage}%, -50%)`
-    }, { duration: 500, fill: "forwards" });
-
-    for (const image of track.getElementsByClassName("image")) {
-        image.animate({
-            objectPosition: `${100 + nextPercentage}% center`
-        }, { duration: 500, fill: "forwards" });
-    }
-}, { passive: false });
-
-// Centrar la primera imagen al cargar la página
-window.onload = centerFirstImage;
+    links.forEach(link => {
+        link.addEventListener("click", (event) => {
+            event.preventDefault();
+            const sectionName = link.getAttribute("data-section");
+            content.innerHTML = sections[sectionName] || "<h1>Content not available</h1>";
+            if (sectionName === "antonio") initializeGallery();
+        });
+    });
+});
