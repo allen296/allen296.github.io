@@ -1,6 +1,8 @@
-/* 
-  Ejemplo con varios "temas" basados en variables de CSS.
-  El atributo [data-theme="..."] en <html> definirá qué conjunto de variables usar.
+/*
+  Estética “aesthetic” por defecto:
+  - Fondo degradado
+  - Tarjetas translúcidas
+  - Tipografía limpia
 */
 
 /* Reset y tipografía base */
@@ -16,8 +18,9 @@ html, body {
 }
 
 /* 
-  --Tema "aesthetic" (por defecto).
-  Definimos colores y estilos generales. 
+  Variables y estilos del tema "aesthetic".
+  Notar que ya no tenemos selector de estilo, 
+  simplemente usaremos data-theme="aesthetic" de forma fija.
 */
 :root[data-theme="aesthetic"] {
   --background: linear-gradient(135deg, #C9F1FF, #FCEBF6);
@@ -31,39 +34,7 @@ html, body {
   --button-bg-hover: #0060c0;
 }
 
-/* 
-  --Tema "light"
-  Un fondo claro, con menos transparencias, minimalista
-*/
-:root[data-theme="light"] {
-  --background: #fefefe;
-  --header-bg: #f9f9f9;
-  --card-bg: #ffffff;
-  --text-color: #333;
-  --section-bg: #ffffff;
-  --input-border: #ccc;
-  --input-focus: #007aff;
-  --button-bg: #007aff;
-  --button-bg-hover: #005bb5;
-}
-
-/* 
-  --Tema "dark"
-  Un fondo oscuro, tipografía clara
-*/
-:root[data-theme="dark"] {
-  --background: #1e1e1e;
-  --header-bg: #2a2a2a;
-  --card-bg: #2a2a2a;
-  --text-color: #ddd;
-  --section-bg: #333;
-  --input-border: #555;
-  --input-focus: #007aff;
-  --button-bg: #444;
-  --button-bg-hover: #555;
-}
-
-/* Estilos generales basados en las variables anteriores */
+/* Estilos generales usando las variables */
 body {
   display: flex;
   flex-direction: column;
@@ -85,24 +56,7 @@ header {
 
 header h1 {
   font-size: 1.8rem;
-  margin-bottom: 1rem;
-}
-
-/* Selector de tema */
-.theme-selector {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.theme-selector select {
-  padding: 0.4rem 0.6rem;
-  border-radius: 6px;
-  border: 1px solid var(--input-border);
-  background-color: #fff;
-  font-size: 0.9rem;
-  cursor: pointer;
+  margin-bottom: 0.5rem;
 }
 
 /* Contenido Principal */
@@ -114,7 +68,7 @@ main {
   padding: 2rem 1rem;
 }
 
-/* Sección */
+/* Secciones */
 section {
   width: 100%;
   max-width: 600px;
@@ -126,14 +80,13 @@ section {
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
-/* Títulos */
 section h2 {
   margin-bottom: 1rem;
   font-size: 1.3rem;
   text-align: center;
 }
 
-/* Formulario de búsqueda */
+/* Formulario de Búsqueda */
 .search-section form {
   display: flex;
   flex-wrap: wrap;
@@ -184,10 +137,16 @@ button:disabled {
   box-shadow: none;
 }
 
+/* Botones de navegación */
 .nav-buttons {
   display: flex;
   justify-content: center;
   gap: 1rem;
+}
+
+/* Sección aleatoria: centrar el botón */
+.random-section {
+  text-align: center;
 }
 
 /* Contenedores de cartas */
