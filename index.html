@@ -6,59 +6,45 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <!-- Encabezado minimalista -->
   <header>
     <h1>Magic Card Finder</h1>
   </header>
 
-  <nav>
-    <ul>
-      <li><a href="#home">Inicio</a></li>
-      <li><a href="#buscar">Buscar Carta</a></li>
-      <li><a href="#aleatoria">Carta Aleatoria</a></li>
-    </ul>
-  </nav>
-
+  <!-- Contenedor principal -->
   <main>
-    <!-- Sección de Bienvenida -->
-    <section id="home">
-      <h2>Bienvenido</h2>
-      <p>
-        Aquí podrás buscar cartas de Magic: The Gathering haciendo uso de la 
-        <a href="https://scryfall.com/docs/api" target="_blank" rel="noopener noreferrer">API de Scryfall</a>.
-      </p>
-    </section>
-
-    <!-- Sección de Búsqueda -->
-    <section id="buscar">
+    <!-- Sección: Buscar Carta -->
+    <section class="search-section">
       <h2>Buscar Carta</h2>
       <form id="searchForm">
         <input 
           type="text" 
           id="cardName" 
-          placeholder="Escribe el nombre de la carta..." 
-          required 
+          placeholder="Ingresa el nombre de la carta..." 
+          required
         />
         <button type="submit">Buscar</button>
       </form>
 
-      <!-- Contenedor de la carta actual de la búsqueda -->
+      <!-- Contenedor de la carta actual -->
       <div id="cardContainer"></div>
 
-      <!-- Botones de navegación entre resultados -->
-      <div id="navButtons">
+      <!-- Navegación de resultados -->
+      <div class="nav-buttons">
         <button id="prevBtn">Anterior</button>
         <button id="nextBtn">Siguiente</button>
       </div>
     </section>
 
-    <!-- Sección de Carta Aleatoria -->
-    <section id="aleatoria">
+    <!-- Sección: Carta Aleatoria -->
+    <section class="random-section">
       <h2>Carta Aleatoria</h2>
       <button id="randomBtn">Obtener Carta Aleatoria</button>
       <div id="randomCardContainer"></div>
     </section>
   </main>
 
+  <!-- Pie de página -->
   <footer>
     <p>© 2025 Magic Card Finder</p>
   </footer>
