@@ -1,98 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
-
 body {
-    margin: 0;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
     display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
-    overflow: hidden;
-    background: #000; /* Black background */
+    margin: 0;
 }
 
-/* Barra lateral */
-.sidebar {
-    width: 280px;
-    background-color: #1e3a5f;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    padding: 25px;
-    height: 90vh;
-    margin: auto 10px;
-    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
-    border-radius: 40px;
-    flex-shrink: 0;
-    position: relative;
-}
-
-.sidebar h2 {
-    margin-bottom: 20px;
-    font-size: 1.8em;
-    text-align: center;
-}
-
-.sidebar .section {
-    margin-bottom: 30px;
-    padding-bottom: 15px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-    text-align: center;
-}
-
-.sidebar a {
-    color: white;
-    text-decoration: none;
-    display: block;
-    font-size: 1.1em;
-    padding: 8px 0;
-    transition: background-color 0.3s ease, padding-left 0.3s ease;
+.container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
     border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #444;
+}
+
+textarea {
+    width: 100%;
+    height: 80px;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    resize: none;
+    font-size: 16px;
+}
+
+button {
+    background: #ff7eb3;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 8px;
     cursor: pointer;
 }
 
-.sidebar a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    padding-left: 15px;
-}
-
-/* Contenido principal */
-.main-content {
-    flex-grow: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 20px;
-    height: 100vh;
-    overflow: hidden;
-    position: relative;
-    color: #fff; /* White text to contrast with black bg */
-}
-
-/* Carrusel */
-#image-track {
-    display: flex;
-    gap: 4vmin;
-    width: 100%;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    white-space: nowrap;
-}
-
-#image-track > .image {
-    width: 20vw;
-    height: 30vw;
-    object-fit: cover;
-    object-position: center center;
-    user-select: none;
-    cursor: grab;
-    border: 3px solid #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
-    transition: transform 0.3s ease;
-}
-
-#image-track > .image:hover {
-    transform: scale(1.05);
+button:hover {
+    background: #ff5e9c;
 }
