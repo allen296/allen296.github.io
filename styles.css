@@ -15,11 +15,12 @@ body {
     transform: translate(-50%, -50%);
     user-select: none;
     white-space: nowrap;
+    overflow: hidden;
 }
 
 #image-track > .image {
     width: 40vmin;
     height: 56vmin;
     object-fit: cover;
-    object-position: 100% center;
+    object-position: center center;
 }
