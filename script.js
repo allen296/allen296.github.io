@@ -1,16 +1,8 @@
-/*****************************************************
- * Manejamos la lógica de la App:
- * - Búsqueda de cartas (Scryfall)
- * - Navegación de resultados (prev/next)
- * - Carta aleatoria
- * - Cambio de Tema (modificando data-theme en <html>)
- *****************************************************/
-
-// Variables globales de resultados
+// Variables globales para los resultados
 let currentIndex = 0;
 let cardsArray = [];
 
-// Referencias al DOM
+// Referencias a elementos del DOM
 const searchForm = document.getElementById('searchForm');
 const cardNameInput = document.getElementById('cardName');
 const cardContainer = document.getElementById('cardContainer');
@@ -18,15 +10,17 @@ const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
 const randomBtn = document.getElementById('randomBtn');
 const randomCardContainer = document.getElementById('randomCardContainer');
-const themeSelect = document.getElementById('themeSelect');
 
-// 1. BÚSQUEDA DE CARTAS
+/* 1. BÚSQUEDA DE CARTAS */
+
+// Evento para buscar cartas
 searchForm.addEventListener('submit', async (e) => {
   e.preventDefault();
   const cardName = cardNameInput.value.trim();
   if (!cardName) return;
 
   try {
+    // Llamada a la API de Scryfall
     const response = await fetch(`https://api.scryfall.com/cards/search?q=${encodeURIComponent(cardName)}`);
     const data = await response.json();
 
@@ -51,7 +45,7 @@ searchForm.addEventListener('submit', async (e) => {
   }
 });
 
-// Función para mostrar la carta actual
+// Mostrar la carta actual
 function displayCard(card) {
   cardContainer.innerHTML = '';
 
@@ -86,13 +80,13 @@ function displayCard(card) {
   cardContainer.appendChild(cardElement);
 }
 
-// Función para actualizar botones prev/next
+// Actualizar botones de navegación
 function updateButtons() {
   prevBtn.disabled = (currentIndex === 0);
   nextBtn.disabled = (currentIndex === cardsArray.length - 1 || cardsArray.length === 0);
 }
 
-// Botón "Anterior"
+// Botones de navegación
 prevBtn.addEventListener('click', () => {
   if (currentIndex > 0) {
     currentIndex--;
@@ -101,7 +95,6 @@ prevBtn.addEventListener('click', () => {
   }
 });
 
-// Botón "Siguiente"
 nextBtn.addEventListener('click', () => {
   if (currentIndex < cardsArray.length - 1) {
     currentIndex++;
@@ -110,13 +103,13 @@ nextBtn.addEventListener('click', () => {
   }
 });
 
-// 2. CARTA ALEATORIA
+/* 2. CARTA ALEATORIA */
 randomBtn.addEventListener('click', async () => {
   try {
     const response = await fetch('https://api.scryfall.com/cards/random');
     const card = await response.json();
 
-    // Limpiar contenedor antes de mostrar la nueva carta aleatoria
+    // Limpiar contenedor antes de mostrar la nueva carta
     randomCardContainer.innerHTML = '';
 
     const cardElement = document.createElement('div');
@@ -153,11 +146,4 @@ randomBtn.addEventListener('click', async () => {
     console.error(error);
     randomCardContainer.innerHTML = '<p>Error al obtener la carta aleatoria.</p>';
   }
-});
-
-// 3. CAMBIO DE TEMA
-themeSelect.addEventListener('change', (e) => {
-  const newTheme = e.target.value;
-  // Accedemos a <html> y cambiamos el data-theme
-  document.documentElement.setAttribute('data-theme', newTheme);
 });
