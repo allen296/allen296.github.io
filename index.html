@@ -6,73 +6,61 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- Encabezado -->
   <header>
     <h1>Magic Card Finder</h1>
   </header>
 
-  <!-- Barra de navegación -->
   <nav>
     <ul>
       <li><a href="#home">Inicio</a></li>
       <li><a href="#buscar">Buscar Carta</a></li>
       <li><a href="#aleatoria">Carta Aleatoria</a></li>
-      <li><a href="#acercade">Acerca de</a></li>
     </ul>
   </nav>
 
-  <!-- Sección principal -->
   <main>
-    <!-- SECCIÓN: Inicio -->
-    <section id="home" class="section-content">
+    <!-- Sección de Bienvenida -->
+    <section id="home">
       <h2>Bienvenido</h2>
       <p>
-        Esta página te permite buscar cartas de Magic: The Gathering y obtener información sobre ellas directamente 
-        desde la API de Scryfall. También puedes obtener una carta aleatoria para inspirarte.
+        Aquí podrás buscar cartas de Magic: The Gathering haciendo uso de la 
+        <a href="https://scryfall.com/docs/api" target="_blank" rel="noopener noreferrer">API de Scryfall</a>.
       </p>
     </section>
 
-    <!-- SECCIÓN: Buscar Carta -->
-    <section id="buscar" class="section-content">
+    <!-- Sección de Búsqueda -->
+    <section id="buscar">
       <h2>Buscar Carta</h2>
       <form id="searchForm">
         <input 
           type="text" 
-          id="cardNameInput" 
-          placeholder="Ingresa el nombre de la carta..." 
-          required
+          id="cardName" 
+          placeholder="Escribe el nombre de la carta..." 
+          required 
         />
         <button type="submit">Buscar</button>
       </form>
-      <!-- Contenedor para la carta actualmente mostrada -->
-      <div id="searchResults"></div>
-      <!-- Botones de navegación de los resultados -->
-      <div id="navigationButtons">
-        <button id="prevButton">Anterior</button>
-        <button id="nextButton">Siguiente</button>
+
+      <!-- Contenedor de la carta actual de la búsqueda -->
+      <div id="cardContainer"></div>
+
+      <!-- Botones de navegación entre resultados -->
+      <div id="navButtons">
+        <button id="prevBtn">Anterior</button>
+        <button id="nextBtn">Siguiente</button>
       </div>
     </section>
 
-    <!-- SECCIÓN: Carta Aleatoria -->
-    <section id="aleatoria" class="section-content">
-      <h2>Obtener Carta Aleatoria</h2>
-      <button id="randomButton">¡Dame una carta random!</button>
+    <!-- Sección de Carta Aleatoria -->
+    <section id="aleatoria">
+      <h2>Carta Aleatoria</h2>
+      <button id="randomBtn">Obtener Carta Aleatoria</button>
       <div id="randomCardContainer"></div>
-    </section>
-
-    <!-- SECCIÓN: Acerca de -->
-    <section id="acercade" class="section-content">
-      <h2>Acerca de</h2>
-      <p>
-        Este proyecto está desarrollado como un ejemplo de una página profesional, 
-        sencilla y estética para buscar cartas de Magic: The Gathering.
-      </p>
     </section>
   </main>
 
-  <!-- Pie de página -->
   <footer>
-    <p>&copy; 2025 Magic Card Finder. Todos los derechos reservados.</p>
+    <p>© 2025 Magic Card Finder</p>
   </footer>
 
   <script src="script.js"></script>
