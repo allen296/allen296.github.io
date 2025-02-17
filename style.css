@@ -1,5 +1,5 @@
 /*
-  Estética “aesthetic” por defecto:
+  Estética “aesthetic”:
   - Fondo degradado
   - Tarjetas translúcidas
   - Tipografía limpia
@@ -19,8 +19,7 @@ html, body {
 
 /* 
   Variables y estilos del tema "aesthetic".
-  Notar que ya no tenemos selector de estilo, 
-  simplemente usaremos data-theme="aesthetic" de forma fija.
+  Solo usaremos data-theme="aesthetic".
 */
 :root[data-theme="aesthetic"] {
   --background: linear-gradient(135deg, #C9F1FF, #FCEBF6);
@@ -34,7 +33,6 @@ html, body {
   --button-bg-hover: #0060c0;
 }
 
-/* Estilos generales usando las variables */
 body {
   display: flex;
   flex-direction: column;
@@ -144,9 +142,13 @@ button:disabled {
   gap: 1rem;
 }
 
-/* Sección aleatoria: centrar el botón */
+/* Sección aleatoria: centrado del botón */
 .random-section {
   text-align: center;
+}
+.random-section button {
+  margin: 0 auto; /* Centrar el botón */
+  display: block;
 }
 
 /* Contenedores de cartas */
@@ -157,7 +159,8 @@ button:disabled {
   margin-top: 1rem;
 }
 
-/* Tarjeta de carta */
+/* Tarjeta de carta
+   - Aumentamos la max-width para que el texto no quede muy apretado */
 .card {
   display: flex;
   flex-direction: column;
@@ -166,8 +169,8 @@ button:disabled {
   border-radius: 15px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   padding: 1rem;
-  max-width: 280px;
-  width: 100%;
+  max-width: 600px; 
+  margin: 0 auto;
 }
 
 .card img {
