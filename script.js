@@ -12,16 +12,15 @@ const randomBtn = document.getElementById('randomBtn');
 const randomCardContainer = document.getElementById('randomCardContainer');
 
 /* 1. BÚSQUEDA DE CARTAS */
-
-// Evento para buscar cartas
 searchForm.addEventListener('submit', async (e) => {
   e.preventDefault();
   const cardName = cardNameInput.value.trim();
   if (!cardName) return;
 
   try {
-    // Llamada a la API de Scryfall
-    const response = await fetch(`https://api.scryfall.com/cards/search?q=${encodeURIComponent(cardName)}`);
+    const response = await fetch(
+      `https://api.scryfall.com/cards/search?q=${encodeURIComponent(cardName)}`
+    );
     const data = await response.json();
 
     // Verificar si hay resultados
@@ -45,7 +44,7 @@ searchForm.addEventListener('submit', async (e) => {
   }
 });
 
-// Mostrar la carta actual
+// Muestra la carta actual
 function displayCard(card) {
   cardContainer.innerHTML = '';
 
@@ -80,7 +79,7 @@ function displayCard(card) {
   cardContainer.appendChild(cardElement);
 }
 
-// Actualizar botones de navegación
+// Actualiza los botones de navegación
 function updateButtons() {
   prevBtn.disabled = (currentIndex === 0);
   nextBtn.disabled = (currentIndex === cardsArray.length - 1 || cardsArray.length === 0);
@@ -109,7 +108,7 @@ randomBtn.addEventListener('click', async () => {
     const response = await fetch('https://api.scryfall.com/cards/random');
     const card = await response.json();
 
-    // Limpiar contenedor antes de mostrar la nueva carta
+    // Limpiar el contenedor antes de mostrar la nueva carta
     randomCardContainer.innerHTML = '';
 
     const cardElement = document.createElement('div');
