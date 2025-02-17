@@ -1,19 +1,30 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="aesthetic"> 
+<!-- data-theme="aesthetic" será el tema por defecto, puedes cambiarlo a "light" o "dark" -->
+
 <head>
   <meta charset="UTF-8" />
   <title>Magic Card Finder</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- Encabezado minimalista -->
+  <!-- Cabecera -->
   <header>
     <h1>Magic Card Finder</h1>
+    <!-- Selector de tema -->
+    <div class="theme-selector">
+      <label for="themeSelect">Selecciona un estilo:</label>
+      <select id="themeSelect">
+        <option value="aesthetic">Aesthetic</option>
+        <option value="light">Light</option>
+        <option value="dark">Dark</option>
+      </select>
+    </div>
   </header>
 
-  <!-- Contenedor principal -->
+  <!-- Contenido Principal -->
   <main>
-    <!-- Sección: Buscar Carta -->
+    <!-- Sección de Búsqueda -->
     <section class="search-section">
       <h2>Buscar Carta</h2>
       <form id="searchForm">
@@ -21,22 +32,22 @@
           type="text" 
           id="cardName" 
           placeholder="Ingresa el nombre de la carta..." 
-          required
+          required 
         />
         <button type="submit">Buscar</button>
       </form>
 
-      <!-- Contenedor de la carta actual -->
+      <!-- Contenedor para la carta actual -->
       <div id="cardContainer"></div>
 
-      <!-- Navegación de resultados -->
+      <!-- Botones de navegación -->
       <div class="nav-buttons">
         <button id="prevBtn">Anterior</button>
         <button id="nextBtn">Siguiente</button>
       </div>
     </section>
 
-    <!-- Sección: Carta Aleatoria -->
+    <!-- Sección de Carta Aleatoria -->
     <section class="random-section">
       <h2>Carta Aleatoria</h2>
       <button id="randomBtn">Obtener Carta Aleatoria</button>
@@ -46,7 +57,7 @@
 
   <!-- Pie de página -->
   <footer>
-    <p>© 2025 Magic Card Finder</p>
+    <p>&copy; 2025 Magic Card Finder</p>
   </footer>
 
   <script src="script.js"></script>
