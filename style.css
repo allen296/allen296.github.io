@@ -1,8 +1,6 @@
 /*
-  Estética “aesthetic”:
-  - Fondo degradado
-  - Tarjetas translúcidas
-  - Tipografía limpia
+  Estética “aesthetic” con contenedor fijo y pequeño para la carta,
+  mostrando únicamente la imagen.
 */
 
 /* Reset y tipografía base */
@@ -17,10 +15,7 @@ html, body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
-/* 
-  Variables y estilos del tema "aesthetic".
-  Solo usaremos data-theme="aesthetic".
-*/
+/* Variables y estilos del tema "aesthetic" */
 :root[data-theme="aesthetic"] {
   --background: linear-gradient(135deg, #C9F1FF, #FCEBF6);
   --header-bg: rgba(255, 255, 255, 0.5);
@@ -159,36 +154,23 @@ button:disabled {
   margin-top: 1rem;
 }
 
-/* Tarjeta de carta
-   - Aumentamos la max-width para que el texto no quede muy apretado */
+/* Tarjeta de carta con tamaño fijo y solo imagen */
 .card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   background-color: var(--card-bg);
   border-radius: 15px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  padding: 1rem;
-  max-width: 600px; 
-  margin: 0 auto;
+  width: 220px;      /* Ancho fijo */
+  height: 320px;     /* Alto fijo */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
 
 .card img {
-  width: 100%;
-  border-radius: 10px;
-  margin-bottom: 0.75rem;
-}
-
-.card h3 {
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-  text-align: center;
-}
-
-.card p {
-  font-size: 0.9rem;
-  text-align: center;
-  margin-bottom: 0.5rem;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
 
 /* Pie de página */
