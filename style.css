@@ -1,4 +1,4 @@
-/* General */
+/* Reset y tipografía base */
 * {
   margin: 0;
   padding: 0;
@@ -80,19 +80,18 @@ main {
   border-radius: 4px;
 }
 
-/* Resultados de la búsqueda */
-#searchResults, 
-#randomCardContainer {
+#searchResults {
   margin-top: 1rem;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
+  display: flex;
+  justify-content: center;
 }
 
+/* Contenedor de la carta de resultados y carta aleatoria */
 .card {
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 1rem;
+  max-width: 280px;
   text-align: center;
 }
 
@@ -116,6 +115,13 @@ button {
 
 button:hover {
   background-color: #2f7855;
+}
+
+#navigationButtons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
 }
 
 /* Pie de página */
