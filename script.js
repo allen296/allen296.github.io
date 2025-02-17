@@ -1,5 +1,18 @@
 const track = document.getElementById("image-track");
 
+// Función para centrar la primera imagen al cargar la página
+const centerFirstImage = () => {
+    const firstImage = track.querySelector(".image");
+    if (!firstImage) return;
+    
+    // Ajustar el desplazamiento inicial para centrar la primera imagen
+    track.dataset.percentage = "0";
+    track.dataset.prevPercentage = "0";
+
+    track.style.transform = `translate(0%, -50%)`;
+    firstImage.style.objectPosition = "center center";
+};
+
 // Función para manejar el arrastre con el ratón
 const handleOnDown = e => track.dataset.mouseDownAt = e.clientX;
 
@@ -62,4 +75,7 @@ window.addEventListener("wheel", e => {
             objectPosition: `${100 + nextPercentage}% center`
         }, { duration: 500, fill: "forwards" });
     }
-}, { passive: false }); // Añadir `{ passive: false }` para prevenir el comportamiento predeterminado del scroll
+}, { passive: false });
+
+// Centrar la primera imagen al cargar la página
+window.onload = centerFirstImage;
