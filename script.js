@@ -14,7 +14,9 @@ randomizeBtn.addEventListener('click', async () => {
       .sort()
       .join('');
 
-    const url = `https://api.scryfall.com/cards/search?q=is:legendary+type:creature+identity=${colors}&order=random&unique=prints`;
+    const query = `is:legendary type:creature identity=${colors}`;
+    const encodedQuery = encodeURIComponent(query);
+    const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&order=random&unique=prints`;
 
     try {
       const response = await fetch(url);
@@ -28,6 +30,7 @@ randomizeBtn.addEventListener('click', async () => {
         player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${card.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
       }
     } catch (err) {
+      console.error(err);
       player.imgSlot.textContent = 'Error fetching card';
     }
   }
