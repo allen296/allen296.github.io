@@ -16,7 +16,7 @@ randomizeBtn.addEventListener('click', async () => {
   for (const player of players) {
     if (player.lockCheckbox.checked) continue;
 
-    // Obtener los colores seleccionados
+    // Obtener colores marcados
     const colors = Array.from(player.colorCheckboxes)
       .filter(cb => cb.checked)
       .map(cb => cb.value)
@@ -28,32 +28,44 @@ randomizeBtn.addEventListener('click', async () => {
       continue;
     }
 
-    // Construir la query
-    let query = `type:creature identity=${colors}`;
-    if (player.legendaryCheckbox.checked) {
-      query = `is:legendary ${query}`;
-    }
+    // Crear búsqueda
+    const queryParts = [];
+    if (player.legendaryCheckbox.checked) queryParts.push('is:legendary');
+    queryParts.push('type:creature');
+    queryParts.push(`identity=${colors}`);
+    const query = queryParts.join(' ');
+    const encoded = encodeURIComponent(query);
 
-    const encodedQuery = encodeURIComponent(query);
-    const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints&order=random`;
+    // API con resultados mezclados
+    const baseUrl = `https://api.scryfall.com/cards/search?q=${encoded}&unique=prints&order=set`;
+
+    let allCards = [];
+    let nextUrl = baseUrl;
+    let loops = 0;
 
     try {
-      const response = await fetch(url);
-      const data = await response.json();
+      while (nextUrl && loops < 3) {
+        const response = await fetch(nextUrl);
+        const data = await response.json();
+        if (!data.data) break;
 
-      if (!data.data || data.data.length === 0) {
+        allCards = allCards.concat(data.data);
+        nextUrl = data.has_more ? data.next_page : null;
+        loops++;
+      }
+
+      if (allCards.length === 0) {
         player.imgSlot.textContent = 'No results';
         continue;
       }
 
-      const allCards = data.data;
       const randomCard = allCards[Math.floor(Math.random() * allCards.length)];
       const imgUrl = randomCard.image_uris?.normal || randomCard.card_faces?.[0]?.image_uris?.normal;
 
       player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${randomCard.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
 
     } catch (err) {
-      console.error(err);
+      console.error('Error fetching from Scryfall:', err);
       player.imgSlot.textContent = 'Error fetching card';
     }
   }
