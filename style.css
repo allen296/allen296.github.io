@@ -34,6 +34,12 @@ body {
   flex-direction: row;
 }
 
+.card-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .checkboxes {
   display: flex;
   flex-direction: column;
@@ -67,6 +73,30 @@ body {
   justify-content: center;
   align-items: center;
   overflow: hidden;
+}
+
+.controls {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.controls button {
+  padding: 4px 8px;
+  font-size: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.toggle-legendary.active {
+  background-color: gold;
+  color: black;
+}
+
+.toggle-lock.active {
+  background-color: crimson;
+  color: white;
 }
 
 .middle {
