@@ -1,30 +1,33 @@
-async function fetchRandomCommander(colors) {
-  const colorQuery = colors.length > 0 ? `+id>=${colors.join('')}` : '';
-  const url = `https://api.scryfall.com/cards/random?q=is:commander${colorQuery}+is:legendary+type:creature`;
+const randomizeBtn = document.getElementById('randomize');
+const players = [
+  { checkboxes: document.querySelectorAll('.player.left:nth-of-type(1) input'), imgSlot: document.getElementById('player1-img') },
+  { checkboxes: document.querySelectorAll('.player.left:nth-of-type(2) input'), imgSlot: document.getElementById('player2-img') },
+  { checkboxes: document.querySelectorAll('.player.right:nth-of-type(1) input'), imgSlot: document.getElementById('player3-img') },
+  { checkboxes: document.querySelectorAll('.player.right:nth-of-type(2) input'), imgSlot: document.getElementById('player4-img') }
+];
 
-  try {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error('Carta no encontrada');
-    const data = await response.json();
-    return data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-  } catch (err) {
-    console.error('Error al buscar carta:', err);
-    return 'https://cards.scryfall.io/normal/front/7/d/7d60d81d-1100-49f7-8b8e-36eb2d949801.jpg'; // Carta de emergencia
+randomizeBtn.addEventListener('click', async () => {
+  for (const player of players) {
+    const colors = Array.from(player.checkboxes)
+      .filter(cb => cb.checked)
+      .map(cb => cb.value)
+      .sort()
+      .join('');
+
+    const url = `https://api.scryfall.com/cards/search?q=is%3Alegendary+type%3Acreature+identity%3D${colors}`;
+    try {
+      const response = await fetch(url);
+      const data = await response.json();
+
+      if (data.data.length === 0) {
+        player.imgSlot.textContent = 'No results';
+      } else {
+        const randomCard = data.data[Math.floor(Math.random() * data.data.length)];
+        const imgUrl = randomCard.image_uris?.normal || randomCard.card_faces?.[0]?.image_uris?.normal;
+        player.imgSlot.innerHTML = `<img src=\"${imgUrl}\" alt=\"${randomCard.name}\" style=\"width:100%; height:100%; object-fit:cover; border-radius:8px;\">`;
+      }
+    } catch (err) {
+      player.imgSlot.textContent = 'Error fetching card';
+    }
   }
-}
-
-function getSelectedColors(slot) {
-  const checkboxes = slot.querySelectorAll('input[type=checkbox]:checked');
-  return Array.from(checkboxes).map(cb => cb.value.toLowerCase());
-}
-
-async function generateCommanders() {
-  for (let i = 1; i <= 4; i++) {
-    const slot = document.getElementById(`player${i}`);
-    const selectedColors = getSelectedColors(slot);
-    const imgUrl = await fetchRandomCommander(selectedColors);
-    slot.querySelector('.card-img').src = imgUrl;
-  }
-}
-
-document.getElementById('generateBtn').addEventListener('click', generateCommanders);
+});
