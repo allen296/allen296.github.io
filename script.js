@@ -27,40 +27,25 @@ randomizeBtn.addEventListener('click', async () => {
       continue;
     }
 
-    // Construimos la query de búsqueda
+    // Construir búsqueda
     let query = `type:creature identity=${colors}`;
     if (player.legendaryCheckbox.checked) {
       query = `is:legendary ${query}`;
     }
 
     const encodedQuery = encodeURIComponent(query);
-    const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints`;
+    const url = `https://api.scryfall.com/cards/random?q=${encodedQuery}`;
 
     try {
-      let allCards = [];
-      let nextPage = url;
-      let tries = 0;
+      const response = await fetch(url);
+      const card = await response.json();
 
-      while (nextPage && tries < 3) {
-        const response = await fetch(nextPage);
-        const data = await response.json();
-        allCards = allCards.concat(data.data);
-        nextPage = data.has_more ? data.next_page : null;
-        tries++;
-      }
+      const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
+      player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${card.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
 
-      if (allCards.length === 0) {
-        player.imgSlot.textContent = 'No results';
-        continue;
-      }
-
-      const randomCard = allCards[Math.floor(Math.random() * allCards.length)];
-      const imgUrl = randomCard.image_uris?.normal || randomCard.card_faces?.[0]?.image_uris?.normal;
-
-      player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${randomCard.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
-    } catch (error) {
-      console.error(error);
-      player.imgSlot.textContent = 'Error fetching card';
+    } catch (err) {
+      console.error('Error:', err);
+      player.imgSlot.textContent = 'No results';
     }
   }
 });
