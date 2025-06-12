@@ -1,13 +1,35 @@
 const randomizeBtn = document.getElementById('randomize');
-const players = [
-  { checkboxes: document.querySelectorAll('#player1 input'), imgSlot: document.getElementById('player1-img') },
-  { checkboxes: document.querySelectorAll('#player2 input'), imgSlot: document.getElementById('player2-img') },
-  { checkboxes: document.querySelectorAll('#player3 input'), imgSlot: document.getElementById('player3-img') },
-  { checkboxes: document.querySelectorAll('#player4 input'), imgSlot: document.getElementById('player4-img') }
-];
+const playerIds = ['player1', 'player2', 'player3', 'player4'];
+
+const players = playerIds.map(id => {
+  const el = document.getElementById(id);
+  return {
+    id,
+    checkboxes: el.querySelectorAll('input'),
+    imgSlot: el.querySelector(`#${id}-img`),
+    legendaryBtn: el.querySelector('.toggle-legendary'),
+    lockBtn: el.querySelector('.toggle-lock'),
+    onlyLegendary: true,
+    locked: false
+  };
+});
+
+players.forEach(player => {
+  player.legendaryBtn.addEventListener('click', () => {
+    player.onlyLegendary = !player.onlyLegendary;
+    player.legendaryBtn.classList.toggle('active', player.onlyLegendary);
+  });
+
+  player.lockBtn.addEventListener('click', () => {
+    player.locked = !player.locked;
+    player.lockBtn.classList.toggle('active', player.locked);
+  });
+});
 
 randomizeBtn.addEventListener('click', async () => {
   for (const player of players) {
+    if (player.locked) continue;
+
     const colors = Array.from(player.checkboxes)
       .filter(cb => cb.checked)
       .map(cb => cb.value)
@@ -19,7 +41,9 @@ randomizeBtn.addEventListener('click', async () => {
       continue;
     }
 
-    const query = `is:legendary type:creature identity=${colors}`;
+    let query = `type:creature identity=${colors}`;
+    if (player.onlyLegendary) query = `is:legendary ${query}`;
+
     const encodedQuery = encodeURIComponent(query);
     const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints`;
 
@@ -32,7 +56,6 @@ randomizeBtn.addEventListener('click', async () => {
         continue;
       }
 
-      // Si hay más páginas, obtenemos una aleatoria
       let allCards = data.data;
 
       while (data.has_more && allCards.length < 300) {
