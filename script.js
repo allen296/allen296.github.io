@@ -5,7 +5,7 @@ const players = playerIds.map(id => {
   const el = document.getElementById(id);
   return {
     id,
-    checkboxes: el.querySelectorAll('input[type="checkbox"]:not(.legendary-toggle):not(.lock-toggle)'),
+    colorCheckboxes: el.querySelectorAll('input[data-color]'),
     imgSlot: el.querySelector(`#${id}-img`),
     legendaryCheckbox: el.querySelector('.legendary-toggle'),
     lockCheckbox: el.querySelector('.lock-toggle')
@@ -16,7 +16,7 @@ randomizeBtn.addEventListener('click', async () => {
   for (const player of players) {
     if (player.lockCheckbox.checked) continue;
 
-    const colors = Array.from(player.checkboxes)
+    const colors = Array.from(player.colorCheckboxes)
       .filter(cb => cb.checked)
       .map(cb => cb.value)
       .sort()
@@ -51,7 +51,6 @@ randomizeBtn.addEventListener('click', async () => {
         const nextData = await nextResponse.json();
         allCards = allCards.concat(nextData.data);
         if (!nextData.has_more) break;
-        data.next_page = nextData.next_page;
       }
 
       const randomCard = allCards[Math.floor(Math.random() * allCards.length)];
