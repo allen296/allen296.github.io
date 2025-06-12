@@ -16,6 +16,7 @@ randomizeBtn.addEventListener('click', async () => {
   for (const player of players) {
     if (player.lockCheckbox.checked) continue;
 
+    // Obtener colores seleccionados
     const colors = Array.from(player.colorCheckboxes)
       .filter(cb => cb.checked)
       .map(cb => cb.value)
@@ -27,11 +28,17 @@ randomizeBtn.addEventListener('click', async () => {
       continue;
     }
 
-    let query = `type:creature identity=${colors}`;
+    // Generar búsqueda
+    const conditions = [];
+
     if (player.legendaryCheckbox.checked) {
-      query = `is:legendary ${query}`;
+      conditions.push('is:legendary');
     }
 
+    conditions.push('type:creature');
+    conditions.push(`identity=${colors}`);
+
+    const query = conditions.join(' ');
     const encodedQuery = encodeURIComponent(query);
     const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints`;
 
