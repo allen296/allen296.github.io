@@ -1,60 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Commander Magic Randomizer</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Commander Randomizer</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Commander Magic Randomizer</h1>
-  </header>
-  <main>
-    <div class="card-grid">
-      <div class="card-slot" id="player1">
-        <img class="card-img" src="" alt="Commander 1" />
-        <div class="color-select">
-          <label><input type="checkbox" value="W">White</label>
-          <label><input type="checkbox" value="U">Blue</label>
-          <label><input type="checkbox" value="B">Black</label>
-          <label><input type="checkbox" value="R">Red</label>
-          <label><input type="checkbox" value="G">Green</label>
-        </div>
+  <div class="container">
+    <div class="player left">
+      <div class="checkboxes">
+        <label class="white"><input type="checkbox" value="W">W</label>
+        <label class="blue"><input type="checkbox" value="U">U</label>
+        <label class="black"><input type="checkbox" value="B">B</label>
+        <label class="red"><input type="checkbox" value="R">R</label>
+        <label class="green"><input type="checkbox" value="G">G</label>
       </div>
-      <div class="card-slot" id="player2">
-        <img class="card-img" src="" alt="Commander 2" />
-        <div class="color-select">
-          <label><input type="checkbox" value="W">White</label>
-          <label><input type="checkbox" value="U">Blue</label>
-          <label><input type="checkbox" value="B">Black</label>
-          <label><input type="checkbox" value="R">Red</label>
-          <label><input type="checkbox" value="G">Green</label>
-        </div>
+      <div class="image-slot" id="player1-img">Placeholder</div>
+    </div>
+
+    <div class="player left">
+      <div class="checkboxes">
+        <label class="white"><input type="checkbox" value="W">W</label>
+        <label class="blue"><input type="checkbox" value="U">U</label>
+        <label class="black"><input type="checkbox" value="B">B</label>
+        <label class="red"><input type="checkbox" value="R">R</label>
+        <label class="green"><input type="checkbox" value="G">G</label>
       </div>
-      <div class="card-slot" id="player3">
-        <img class="card-img" src="" alt="Commander 3" />
-        <div class="color-select">
-          <label><input type="checkbox" value="W">White</label>
-          <label><input type="checkbox" value="U">Blue</label>
-          <label><input type="checkbox" value="B">Black</label>
-          <label><input type="checkbox" value="R">Red</label>
-          <label><input type="checkbox" value="G">Green</label>
-        </div>
-      </div>
-      <div class="card-slot" id="player4">
-        <img class="card-img" src="" alt="Commander 4" />
-        <div class="color-select">
-          <label><input type="checkbox" value="W">White</label>
-          <label><input type="checkbox" value="U">Blue</label>
-          <label><input type="checkbox" value="B">Black</label>
-          <label><input type="checkbox" value="R">Red</label>
-          <label><input type="checkbox" value="G">Green</label>
-        </div>
+      <div class="image-slot" id="player2-img">Placeholder</div>
+    </div>
+
+    <div class="middle">
+      <button id="randomize">Randomize</button>
+    </div>
+
+    <div class="player right">
+      <div class="image-slot" id="player3-img">Placeholder</div>
+      <div class="checkboxes">
+        <label class="white"><input type="checkbox" value="W">W</label>
+        <label class="blue"><input type="checkbox" value="U">U</label>
+        <label class="black"><input type="checkbox" value="B">B</label>
+        <label class="red"><input type="checkbox" value="R">R</label>
+        <label class="green"><input type="checkbox" value="G">G</label>
       </div>
     </div>
-    <button id="generateBtn">Generate</button>
-  </main>
+
+    <div class="player right">
+      <div class="image-slot" id="player4-img">Placeholder</div>
+      <div class="checkboxes">
+        <label class="white"><input type="checkbox" value="W">W</label>
+        <label class="blue"><input type="checkbox" value="U">U</label>
+        <label class="black"><input type="checkbox" value="B">B</label>
+        <label class="red"><input type="checkbox" value="R">R</label>
+        <label class="green"><input type="checkbox" value="G">G</label>
+      </div>
+    </div>
+  </div>
   <script src="script.js"></script>
 </body>
 </html>
