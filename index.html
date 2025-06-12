@@ -1,54 +1,60 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="aesthetic"> 
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Magic Card Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Commander Magic Randomizer</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- Cabecera -->
   <header>
-    <h1>Magic Card Finder</h1>
+    <h1>Commander Magic Randomizer</h1>
   </header>
-
-  <!-- Contenido Principal -->
   <main>
-    <!-- Sección de Búsqueda -->
-    <section class="search-section">
-      <h2>Buscar Carta</h2>
-      <form id="searchForm">
-        <input 
-          type="text" 
-          id="cardName" 
-          placeholder="Ingresa el nombre de la carta..." 
-          required 
-        />
-        <button type="submit">Buscar</button>
-      </form>
-
-      <!-- Contenedor para la carta actual -->
-      <div id="cardContainer"></div>
-
-      <!-- Botones de navegación -->
-      <div class="nav-buttons">
-        <button id="prevBtn">Anterior</button>
-        <button id="nextBtn">Siguiente</button>
+    <div class="card-grid">
+      <div class="card-slot" id="player1">
+        <img class="card-img" src="" alt="Commander 1" />
+        <div class="color-select">
+          <label><input type="checkbox" value="W">White</label>
+          <label><input type="checkbox" value="U">Blue</label>
+          <label><input type="checkbox" value="B">Black</label>
+          <label><input type="checkbox" value="R">Red</label>
+          <label><input type="checkbox" value="G">Green</label>
+        </div>
       </div>
-    </section>
-
-    <!-- Sección de Carta Aleatoria -->
-    <section class="random-section">
-      <h2>Carta Aleatoria</h2>
-      <button id="randomBtn">Obtener Carta Aleatoria</button>
-      <div id="randomCardContainer"></div>
-    </section>
+      <div class="card-slot" id="player2">
+        <img class="card-img" src="" alt="Commander 2" />
+        <div class="color-select">
+          <label><input type="checkbox" value="W">White</label>
+          <label><input type="checkbox" value="U">Blue</label>
+          <label><input type="checkbox" value="B">Black</label>
+          <label><input type="checkbox" value="R">Red</label>
+          <label><input type="checkbox" value="G">Green</label>
+        </div>
+      </div>
+      <div class="card-slot" id="player3">
+        <img class="card-img" src="" alt="Commander 3" />
+        <div class="color-select">
+          <label><input type="checkbox" value="W">White</label>
+          <label><input type="checkbox" value="U">Blue</label>
+          <label><input type="checkbox" value="B">Black</label>
+          <label><input type="checkbox" value="R">Red</label>
+          <label><input type="checkbox" value="G">Green</label>
+        </div>
+      </div>
+      <div class="card-slot" id="player4">
+        <img class="card-img" src="" alt="Commander 4" />
+        <div class="color-select">
+          <label><input type="checkbox" value="W">White</label>
+          <label><input type="checkbox" value="U">Blue</label>
+          <label><input type="checkbox" value="B">Black</label>
+          <label><input type="checkbox" value="R">Red</label>
+          <label><input type="checkbox" value="G">Green</label>
+        </div>
+      </div>
+    </div>
+    <button id="generateBtn">Generate</button>
   </main>
-
-  <!-- Pie de página -->
-  <footer>
-    <p>&copy; 2025 Magic Card Finder</p>
-  </footer>
-
   <script src="script.js"></script>
 </body>
 </html>
