@@ -14,9 +14,14 @@ randomizeBtn.addEventListener('click', async () => {
       .sort()
       .join('');
 
+    if (colors === '') {
+      player.imgSlot.textContent = 'Select color(s)';
+      continue;
+    }
+
     const query = `is:legendary type:creature identity=${colors}`;
     const encodedQuery = encodeURIComponent(query);
-    const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&order=random&unique=prints`;
+    const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints`;
 
     try {
       const response = await fetch(url);
@@ -24,11 +29,24 @@ randomizeBtn.addEventListener('click', async () => {
 
       if (!data.data || data.data.length === 0) {
         player.imgSlot.textContent = 'No results';
-      } else {
-        const card = data.data[0];
-        const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
-        player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${card.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
+        continue;
       }
+
+      // Si hay más páginas, obtenemos una aleatoria
+      let allCards = data.data;
+
+      while (data.has_more && allCards.length < 300) {
+        const nextResponse = await fetch(data.next_page);
+        const nextData = await nextResponse.json();
+        allCards = allCards.concat(nextData.data);
+        if (!nextData.has_more) break;
+        data.next_page = nextData.next_page;
+      }
+
+      const randomCard = allCards[Math.floor(Math.random() * allCards.length)];
+      const imgUrl = randomCard.image_uris?.normal || randomCard.card_faces?.[0]?.image_uris?.normal;
+      player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${randomCard.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
+
     } catch (err) {
       console.error(err);
       player.imgSlot.textContent = 'Error fetching card';
