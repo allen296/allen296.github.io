@@ -23,7 +23,7 @@ randomizeBtn.addEventListener('click', async () => {
       if (!data.data || data.data.length === 0) {
         player.imgSlot.textContent = 'No results';
       } else {
-        const card = data.data[0]; // Solo la primera ya es aleatoria
+        const card = data.data[0];
         const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
         player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${card.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
       }
