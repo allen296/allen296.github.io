@@ -1,90 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Commander Randomizer</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div class="container">
+const randomizeBtn = document.getElementById('randomize');
+const playerIds = ['player1', 'player2', 'player3', 'player4'];
 
-    <!-- PLAYER 1 -->
-    <div class="player left" id="player1">
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-        </div>
-        <div class="image-slot" id="player1-img"></div>
-      </div>
-    </div>
+const players = playerIds.map(id => {
+  const el = document.getElementById(id);
+  return {
+    id,
+    colorCheckboxes: el.querySelectorAll('input[data-color]'),
+    imgSlot: el.querySelector(`#${id}-img`),
+    legendaryCheckbox: el.querySelector('.legendary-toggle'),
+    lockCheckbox: el.querySelector('.lock-toggle')
+  };
+});
 
-    <!-- PLAYER 2 -->
-    <div class="player left" id="player2">
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-        </div>
-        <div class="image-slot" id="player2-img"></div>
-      </div>
-    </div>
+randomizeBtn.addEventListener('click', async () => {
+  for (const player of players) {
+    if (player.lockCheckbox.checked) continue;
 
-    <div class="middle">
-      <button id="randomize">Randomize</button>
-    </div>
+    // Obtener los colores seleccionados
+    const colors = Array.from(player.colorCheckboxes)
+      .filter(cb => cb.checked)
+      .map(cb => cb.value)
+      .sort()
+      .join('');
 
-    <!-- PLAYER 3 -->
-    <div class="player right" id="player3">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-        </div>
-        <div class="image-slot" id="player3-img"></div>
-      </div>
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-    </div>
+    if (colors === '') {
+      player.imgSlot.textContent = 'Select color(s)';
+      continue;
+    }
 
-    <!-- PLAYER 4 -->
-    <div class="player right" id="player4">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-        </div>
-        <div class="image-slot" id="player4-img"></div>
-      </div>
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-    </div>
-  </div>
-  <script src="script.js"></script>
-</body>
-</html>
+    // Construir la query
+    let query = `type:creature identity=${colors}`;
+    if (player.legendaryCheckbox.checked) {
+      query = `is:legendary ${query}`;
+    }
+
+    const encodedQuery = encodeURIComponent(query);
+    const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints&order=random`;
+
+    try {
+      const response = await fetch(url);
+      const data = await response.json();
+
+      if (!data.data || data.data.length === 0) {
+        player.imgSlot.textContent = 'No results';
+        continue;
+      }
+
+      const allCards = data.data;
+      const randomCard = allCards[Math.floor(Math.random() * allCards.length)];
+      const imgUrl = randomCard.image_uris?.normal || randomCard.card_faces?.[0]?.image_uris?.normal;
+
+      player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${randomCard.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
+
+    } catch (err) {
+      console.error(err);
+      player.imgSlot.textContent = 'Error fetching card';
+    }
+  }
+});
