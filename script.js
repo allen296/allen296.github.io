@@ -5,30 +5,16 @@ const players = playerIds.map(id => {
   const el = document.getElementById(id);
   return {
     id,
-    checkboxes: el.querySelectorAll('input'),
+    checkboxes: el.querySelectorAll('input[type=checkbox][value]'),
     imgSlot: el.querySelector(`#${id}-img`),
-    legendaryBtn: el.querySelector('.toggle-legendary'),
-    lockBtn: el.querySelector('.toggle-lock'),
-    onlyLegendary: true,
-    locked: false
+    legendaryCheck: el.querySelector('.legendary-check'),
+    lockCheck: el.querySelector('.lock-check')
   };
-});
-
-players.forEach(player => {
-  player.legendaryBtn.addEventListener('click', () => {
-    player.onlyLegendary = !player.onlyLegendary;
-    player.legendaryBtn.classList.toggle('active', player.onlyLegendary);
-  });
-
-  player.lockBtn.addEventListener('click', () => {
-    player.locked = !player.locked;
-    player.lockBtn.classList.toggle('active', player.locked);
-  });
 });
 
 randomizeBtn.addEventListener('click', async () => {
   for (const player of players) {
-    if (player.locked) continue;
+    if (player.lockCheck.checked) continue;
 
     const colors = Array.from(player.checkboxes)
       .filter(cb => cb.checked)
@@ -42,7 +28,7 @@ randomizeBtn.addEventListener('click', async () => {
     }
 
     let query = `type:creature identity=${colors}`;
-    if (player.onlyLegendary) query = `is:legendary ${query}`;
+    if (player.legendaryCheck.checked) query = `is:legendary ${query}`;
 
     const encodedQuery = encodeURIComponent(query);
     const url = `https://api.scryfall.com/cards/search?q=${encodedQuery}&unique=prints`;
@@ -63,7 +49,6 @@ randomizeBtn.addEventListener('click', async () => {
         const nextData = await nextResponse.json();
         allCards = allCards.concat(nextData.data);
         if (!nextData.has_more) break;
-        data.next_page = nextData.next_page;
       }
 
       const randomCard = allCards[Math.floor(Math.random() * allCards.length)];
