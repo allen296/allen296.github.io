@@ -27,24 +27,28 @@ randomizeBtn.addEventListener('click', async () => {
       continue;
     }
 
-    // Construir búsqueda
-    let query = `type:creature identity=${colors}`;
+    // Construcción del query
+    const queryParts = ['type:creature'];
     if (player.legendaryCheckbox.checked) {
-      query = `is:legendary ${query}`;
+      queryParts.unshift('is:legendary');
     }
+    queryParts.push(`identity=${colors}`);
 
+    const query = queryParts.join(' ');
     const encodedQuery = encodeURIComponent(query);
     const url = `https://api.scryfall.com/cards/random?q=${encodedQuery}`;
 
     try {
       const response = await fetch(url);
-      const card = await response.json();
+      if (!response.ok) throw new Error('No result');
 
+      const card = await response.json();
       const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
+
       player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${card.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
 
     } catch (err) {
-      console.error('Error:', err);
+      console.error(err);
       player.imgSlot.textContent = 'No results';
     }
   }
