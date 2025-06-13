@@ -42,7 +42,6 @@ randomizeBtn.addEventListener('click', async () => {
     const encodedQuery = encodeURIComponent(query);
     const url = `https://api.scryfall.com/cards/random?q=${encodedQuery}`;
 
-    // Mostrar spinner
     player.imgSlot.classList.add('loading');
     player.imgSlot.innerHTML = '';
 
