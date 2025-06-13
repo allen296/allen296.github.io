@@ -9,9 +9,8 @@
 <body>
   <div class="container">
 
-    <!-- JUGADOR 1 -->
+    <!-- PLAYER 1 -->
     <div class="player left" id="player1">
-      <!-- Checkboxes de colores -->
       <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
@@ -19,7 +18,6 @@
         <label class="red"><input type="checkbox" value="R" data-color>R</label>
         <label class="green"><input type="checkbox" value="G" data-color>G</label>
       </div>
-      <!-- Zona de controles + imagen -->
       <div class="card-section">
         <div class="controls">
           <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
@@ -27,10 +25,11 @@
           <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
         </div>
         <div class="image-slot" id="player1-img"></div>
+        <div class="history" id="player1-history"></div>
       </div>
     </div>
 
-    <!-- JUGADOR 2 (igual al 1) -->
+    <!-- PLAYER 2 -->
     <div class="player left" id="player2">
       <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
@@ -46,15 +45,15 @@
           <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
         </div>
         <div class="image-slot" id="player2-img"></div>
+        <div class="history" id="player2-history"></div>
       </div>
     </div>
 
-    <!-- Botón central -->
     <div class="middle">
       <button id="randomize">Randomize</button>
     </div>
 
-    <!-- JUGADOR 3 -->
+    <!-- PLAYER 3 -->
     <div class="player right" id="player3">
       <div class="card-section">
         <div class="controls">
@@ -63,6 +62,7 @@
           <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
         </div>
         <div class="image-slot" id="player3-img"></div>
+        <div class="history" id="player3-history"></div>
       </div>
       <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
@@ -73,7 +73,7 @@
       </div>
     </div>
 
-    <!-- JUGADOR 4 -->
+    <!-- PLAYER 4 -->
     <div class="player right" id="player4">
       <div class="card-section">
         <div class="controls">
@@ -82,6 +82,7 @@
           <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
         </div>
         <div class="image-slot" id="player4-img"></div>
+        <div class="history" id="player4-history"></div>
       </div>
       <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
