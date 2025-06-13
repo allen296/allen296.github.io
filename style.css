@@ -1,3 +1,4 @@
+/* Estilo general */
 body {
   background: #121212;
   color: #fff;
@@ -9,6 +10,7 @@ body {
   margin: 0;
 }
 
+/* Contenedor principal */
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -17,6 +19,7 @@ body {
   align-items: center;
 }
 
+/* Estilo de cada jugador */
 .player {
   display: flex;
   align-items: center;
@@ -26,6 +29,7 @@ body {
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+/* Posicionamiento izquierdo o derecho */
 .player.left {
   flex-direction: row-reverse;
 }
@@ -34,12 +38,14 @@ body {
   flex-direction: row;
 }
 
+/* Zona de la carta y botones */
 .card-section {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
+/* Checkboxes de color */
 .checkboxes {
   display: flex;
   flex-direction: column;
@@ -57,12 +63,14 @@ body {
   cursor: pointer;
 }
 
+/* Colores MTG */
 .white { background-color: #fefefe; color: #000; }
 .blue { background-color: #2196F3; color: #fff; }
 .black { background-color: #212121; color: #fff; }
 .red { background-color: #f44336; color: #fff; }
 .green { background-color: #4CAF50; color: #fff; }
 
+/* Imagen de la carta */
 .image-slot {
   width: 180px;
   height: 250px;
@@ -75,6 +83,7 @@ body {
   overflow: hidden;
 }
 
+/* Botones de control */
 .controls {
   display: flex;
   gap: 10px;
@@ -84,6 +93,7 @@ body {
   justify-content: center;
 }
 
+/* Botón central */
 .middle {
   width: 100%;
   display: flex;
