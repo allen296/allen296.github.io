@@ -8,7 +8,8 @@ const players = playerIds.map(id => {
     colorCheckboxes: el.querySelectorAll('input[data-color]'),
     imgSlot: el.querySelector(`#${id}-img`),
     legendaryCheckbox: el.querySelector('.legendary-toggle'),
-    lockCheckbox: el.querySelector('.lock-toggle')
+    lockCheckbox: el.querySelector('.lock-toggle'),
+    randomAnyCheckbox: el.querySelector('.random-toggle')
   };
 });
 
@@ -16,23 +17,26 @@ randomizeBtn.addEventListener('click', async () => {
   for (const player of players) {
     if (player.lockCheckbox.checked) continue;
 
-    const colors = Array.from(player.colorCheckboxes)
-      .filter(cb => cb.checked)
-      .map(cb => cb.value)
-      .sort()
-      .join('');
+    const useAnyColor = player.randomAnyCheckbox.checked;
+    const isLegendary = player.legendaryCheckbox.checked;
 
-    if (!colors) {
-      player.imgSlot.textContent = 'Select color(s)';
-      continue;
-    }
-
-    // Construcción del query
     const queryParts = ['type:creature'];
-    if (player.legendaryCheckbox.checked) {
-      queryParts.unshift('is:legendary');
+    if (isLegendary) queryParts.unshift('is:legendary');
+
+    if (!useAnyColor) {
+      const colors = Array.from(player.colorCheckboxes)
+        .filter(cb => cb.checked)
+        .map(cb => cb.value)
+        .sort()
+        .join('');
+
+      if (!colors) {
+        player.imgSlot.textContent = 'Select color(s)';
+        continue;
+      }
+
+      queryParts.push(`identity=${colors}`);
     }
-    queryParts.push(`identity=${colors}`);
 
     const query = queryParts.join(' ');
     const encodedQuery = encodeURIComponent(query);
