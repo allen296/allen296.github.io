@@ -1,27 +1,21 @@
-// Botón principal
 const randomizeBtn = document.getElementById('randomize');
-
-// IDs de los jugadores
 const playerIds = ['player1', 'player2', 'player3', 'player4'];
 
-// Información de cada jugador
 const players = playerIds.map(id => {
   const el = document.getElementById(id);
   return {
     id,
     colorCheckboxes: el.querySelectorAll('input[data-color]'),
     imgSlot: el.querySelector(`#${id}-img`),
+    historySlot: el.querySelector(`#${id}-history`),
     legendaryCheckbox: el.querySelector('.legendary-toggle'),
     lockCheckbox: el.querySelector('.lock-toggle'),
     randomAnyCheckbox: el.querySelector('.random-toggle')
   };
 });
 
-// Evento al pulsar el botón "Randomize"
 randomizeBtn.addEventListener('click', async () => {
-  // Creamos una lista de promesas para cada jugador
   const promises = players.map(async (player) => {
-    // Si está bloqueado, no hace nada
     if (player.lockCheckbox.checked) return;
 
     const useAnyColor = player.randomAnyCheckbox.checked;
@@ -49,6 +43,10 @@ randomizeBtn.addEventListener('click', async () => {
     const encodedQuery = encodeURIComponent(query);
     const url = `https://api.scryfall.com/cards/random?q=${encodedQuery}`;
 
+    // Mostrar spinner
+    player.imgSlot.classList.add('loading');
+    player.imgSlot.innerHTML = '';
+
     try {
       const response = await fetch(url);
       if (!response.ok) throw new Error('No result');
@@ -56,14 +54,26 @@ randomizeBtn.addEventListener('click', async () => {
       const card = await response.json();
       const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
 
-      player.imgSlot.innerHTML = `<img src="${imgUrl}" alt="${card.name}" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">`;
+      // Mostrar la carta principal
+      const imgTag = document.createElement('img');
+      imgTag.src = imgUrl;
+      imgTag.alt = card.name;
+      player.imgSlot.innerHTML = '';
+      player.imgSlot.appendChild(imgTag);
+      player.imgSlot.classList.remove('loading');
+
+      // Añadir miniatura al historial
+      const historyImg = document.createElement('img');
+      historyImg.src = imgUrl;
+      historyImg.alt = card.name;
+      player.historySlot.appendChild(historyImg);
 
     } catch (err) {
       console.error(`Error for ${player.id}:`, err);
+      player.imgSlot.classList.remove('loading');
       player.imgSlot.textContent = 'No results';
     }
   });
 
-  // Ejecutamos todas las promesas en paralelo
   await Promise.all(promises);
 });
