@@ -1,79 +1,134 @@
-const randomizeBtn = document.getElementById('randomize');
-const playerIds = ['player1', 'player2', 'player3', 'player4'];
+body {
+  background: #121212;
+  color: #fff;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
 
-const players = playerIds.map(id => {
-  const el = document.getElementById(id);
-  return {
-    id,
-    colorCheckboxes: el.querySelectorAll('input[data-color]'),
-    imgSlot: el.querySelector(`#${id}-img`),
-    historySlot: el.querySelector(`#${id}-history`),
-    legendaryCheckbox: el.querySelector('.legendary-toggle'),
-    lockCheckbox: el.querySelector('.lock-toggle'),
-    randomAnyCheckbox: el.querySelector('.random-toggle')
-  };
-});
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
 
-randomizeBtn.addEventListener('click', async () => {
-  const promises = players.map(async (player) => {
-    if (player.lockCheckbox.checked) return;
+.player {
+  display: flex;
+  align-items: center;
+  background: #222;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
 
-    const useAnyColor = player.randomAnyCheckbox.checked;
-    const isLegendary = player.legendaryCheckbox.checked;
+.player.left {
+  flex-direction: row-reverse;
+}
 
-    const queryParts = ['type:creature'];
-    if (isLegendary) queryParts.unshift('is:legendary');
+.player.right {
+  flex-direction: row;
+}
 
-    if (!useAnyColor) {
-      const colors = Array.from(player.colorCheckboxes)
-        .filter(cb => cb.checked)
-        .map(cb => cb.value)
-        .sort()
-        .join('');
+.card-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-      if (!colors) {
-        player.imgSlot.textContent = 'Select color(s)';
-        return;
-      }
+.checkboxes {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 0 10px;
+}
 
-      queryParts.push(`identity=${colors}`);
-    }
+.checkboxes label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: bold;
+  padding: 4px;
+  border-radius: 5px;
+  cursor: pointer;
+}
 
-    const query = queryParts.join(' ');
-    const encodedQuery = encodeURIComponent(query);
-    const url = `https://api.scryfall.com/cards/random?q=${encodedQuery}`;
+.white { background-color: #fefefe; color: #000; }
+.blue { background-color: #2196F3; color: #fff; }
+.black { background-color: #212121; color: #fff; }
+.red { background-color: #f44336; color: #fff; }
+.green { background-color: #4CAF50; color: #fff; }
 
-    // Mostrar spinner
-    player.imgSlot.classList.add('loading');
-    player.imgSlot.innerHTML = '';
+.image-slot {
+  width: 180px;
+  height: 250px;
+  background: #444;
+  border: 2px dashed #666;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
 
-    try {
-      const response = await fetch(url);
-      if (!response.ok) throw new Error('No result');
+/* Spinner animado */
+.image-slot.loading::before {
+  content: "";
+  width: 30px;
+  height: 30px;
+  border: 4px solid #888;
+  border-top: 4px solid #fff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
 
-      const card = await response.json();
-      const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
 
-      // Mostrar la carta principal
-      const imgTag = document.createElement('img');
-      imgTag.src = imgUrl;
-      imgTag.alt = card.name;
-      player.imgSlot.innerHTML = '';
-      player.imgSlot.appendChild(imgTag);
-      player.imgSlot.classList.remove('loading');
+/* Transición suave de la imagen */
+.image-slot img {
+  opacity: 0;
+  animation: fadeIn 0.4s ease forwards;
+}
 
-      // Añadir miniatura al historial
-      const historyImg = document.createElement('img');
-      historyImg.src = imgUrl;
-      historyImg.alt = card.name;
-      player.historySlot.appendChild(historyImg);
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
 
-    } catch (err) {
-      console.error(`Error for ${player.id}:`, err);
-      player.imgSlot.classList.remove('loading');
-      player.imgSlot.textContent = 'No results';
-    }
-  });
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
-  await Promise.all(promises);
-});
+.middle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+#randomize {
+  padding: 10px 20px;
+  font-size: 18px;
+  background: #673AB7;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#randomize:hover {
+  background: #9575CD;
+}
