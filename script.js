@@ -1,70 +1,33 @@
-const randomizeBtn = document.getElementById('randomize');
-const playerIds = ['player1', 'player2', 'player3', 'player4'];
+document.getElementById("randomize").addEventListener("click", async () => {
+  const players = document.querySelectorAll(".player");
+  const promises = [];
 
-const players = playerIds.map(id => {
-  const el = document.getElementById(id);
-  return {
-    id,
-    colorCheckboxes: el.querySelectorAll('input[data-color]'),
-    imgSlot: el.querySelector(`#${id}-img`),
-    legendaryCheckbox: el.querySelector('.legendary-toggle'),
-    lockCheckbox: el.querySelector('.lock-toggle'),
-    randomAnyCheckbox: el.querySelector('.random-toggle')
-  };
-});
+  players.forEach(player => {
+    const locked = player.querySelector(".lock-toggle").checked;
+    if (locked) return;
 
-randomizeBtn.addEventListener('click', async () => {
-  const promises = players.map(async (player) => {
-    if (player.lockCheckbox.checked) return;
+    const randomAny = player.querySelector(".random-toggle").checked;
+    const legendary = player.querySelector(".legendary-toggle").checked;
+    const colors = [...player.querySelectorAll('input[data-color]:checked')].map(c => c.value).sort().join("");
 
-    const useAnyColor = player.randomAnyCheckbox.checked;
-    const isLegendary = player.legendaryCheckbox.checked;
+    let query = "is:commander type:creature";
+    if (legendary) query += " type:legendary";
+    if (!randomAny && colors) query += ` identity<=${colors}`;
 
-    const queryParts = ['type:creature'];
-    if (isLegendary) queryParts.unshift('is:legendary');
+    const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
+    const slot = player.querySelector(".image-slot");
 
-    if (!useAnyColor) {
-      const colors = Array.from(player.colorCheckboxes)
-        .filter(cb => cb.checked)
-        .map(cb => cb.value)
-        .sort()
-        .join('');
-
-      if (!colors) {
-        player.imgSlot.textContent = 'Select color(s)';
-        return;
-      }
-
-      queryParts.push(`identity=${colors}`);
-    }
-
-    const query = queryParts.join(' ');
-    const encodedQuery = encodeURIComponent(query);
-    const url = `https://api.scryfall.com/cards/random?q=${encodedQuery}`;
-
-    player.imgSlot.classList.add('loading');
-    player.imgSlot.innerHTML = '';
-
-    try {
-      const response = await fetch(url);
-      if (!response.ok) throw new Error('No result');
-
-      const card = await response.json();
-      const imgUrl = card.image_uris?.normal || card.card_faces?.[0]?.image_uris?.normal;
-
-      const imgTag = document.createElement('img');
-      imgTag.src = imgUrl;
-      imgTag.alt = card.name;
-
-      player.imgSlot.innerHTML = '';
-      player.imgSlot.appendChild(imgTag);
-      player.imgSlot.classList.remove('loading');
-
-    } catch (err) {
-      console.error(`Error for ${player.id}:`, err);
-      player.imgSlot.classList.remove('loading');
-      player.imgSlot.textContent = 'No results';
-    }
+    slot.innerHTML = `<div class="loader"></div>`;
+    promises.push(
+      fetch(url)
+        .then(res => res.json())
+        .then(data => {
+          slot.innerHTML = `<img src="${data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal}" alt="${data.name}" />`;
+        })
+        .catch(() => {
+          slot.innerHTML = `<span style="color:red;">Error</span>`;
+        })
+    );
   });
 
   await Promise.all(promises);
