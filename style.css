@@ -207,8 +207,9 @@ body.light-mode .slider {
 .controls-column {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 10px;
+  justify-content: center; /* 🔥 Centrado vertical */
+  gap: 20px;               /* Más espacio entre líneas */
+  min-height: 100%;        /* Ocupa el alto de la fila */
 }
 
 .control-line {
@@ -284,4 +285,7 @@ button#randomize:hover {
     margin-top: 10px;
     align-self: center;
   }
+  .row {
+  align-items: stretch; /* 🔥 Que todos los hijos ocupen el mismo alto */
+}
 }
