@@ -1,41 +1,49 @@
 document.getElementById("randomize").addEventListener("click", async () => {
   const players = [1, 2, 3, 4];
+  const promises = [];
 
-  const button = document.getElementById("randomize");
-  button.classList.add("loading");
-  button.textContent = "Cargando...";
+  players.forEach(playerNum => {
+    const playerSection = document.getElementById(`player${playerNum}`);
+    const slot = document.getElementById(`player${playerNum}-img`);
 
-  const promises = players.map(n => {
-    const id = `player${n}`;
-    const slot = document.getElementById(`${id}-img`);
-    const colorBox = document.querySelector(`#p${n}-colors`);
-    const colors = [...colorBox.querySelectorAll("input[data-color]:checked")]
-      .map(c => c.value).sort().join("");
+    // Obtener los colores del jugador
+    const colorInputs = document.querySelectorAll(`#player${playerNum} ~ .checkboxes input[data-color]:checked`);
+    const colors = Array.from(colorInputs).map(c => c.value).sort().join("");
 
-    const legendary = document.querySelector(`.legendary-toggle-${id}`).checked;
-    const locked = document.querySelector(`.lock-toggle-${id}`).checked;
-    const randomAny = document.querySelector(`.random-toggle-${id}`).checked;
+    // Controles centrales
+    const legendary = document.querySelector(`.legendary-toggle[data-player="${playerNum}"]`)?.checked;
+    const locked = document.querySelector(`.lock-toggle[data-player="${playerNum}"]`)?.checked;
+    const randomAny = document.querySelector(`.random-toggle[data-player="${playerNum}"]`)?.checked;
 
-    if (locked) return Promise.resolve();
+    if (locked) return;
 
-    let query = legendary ? "is:commander type:creature" : "type:creature";
-    if (!randomAny && colors) query += ` identity<=${colors}`;
+    // Query a Scryfall
+    let query = legendary
+      ? "is:commander type:creature"
+      : "type:creature";
+
+    if (!randomAny && colors) {
+      query += ` identity<=${colors}`;
+    }
+
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
 
+    // Mostrar animación de carga
     slot.innerHTML = `<div class="loader"></div>`;
 
-    return fetch(url)
-      .then(res => res.json())
-      .then(data => {
-        const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-        slot.innerHTML = `<img src="${imageUrl}" alt="${data.name}" />`;
-      })
-      .catch(() => {
-        slot.innerHTML = `<span style="color:red;">Error</span>`;
-      });
+    // Llamada a la API
+    promises.push(
+      fetch(url)
+        .then(res => res.json())
+        .then(data => {
+          const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+          slot.innerHTML = `<img src="${imageUrl}" alt="${data.name}" />`;
+        })
+        .catch(() => {
+          slot.innerHTML = `<span style="color:red;">Error</span>`;
+        })
+    );
   });
 
   await Promise.all(promises);
-  button.classList.remove("loading");
-  button.textContent = "Randomize";
 });
