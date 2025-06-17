@@ -23,6 +23,7 @@ body {
   margin: 0;
   padding-top: 100px; /* Más separación debajo del nav */
   transition: background 0.3s, color 0.3s;
+  overflow-x: hidden;
 }
 
 a {
@@ -265,8 +266,8 @@ button#randomize:hover {
   .nav-links {
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 16px;
     justify-content: center;
+    gap: 16px;
     padding: 0;
   }
 
@@ -277,9 +278,9 @@ button#randomize:hover {
 
   .switch {
     margin-top: 10px;
+    align-self: center;
   }
 }
-
 
   .navbar-content {
     flex-direction: row;
