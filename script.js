@@ -8,12 +8,14 @@ document.getElementById("randomize").addEventListener("click", async () => {
 
     const randomAny = document.getElementById(`random${num}`).checked;
     const legendary = document.getElementById(`legendary${num}`).checked;
-    const player = document.getElementById(`player${num}`);
-    const colors = [...player.querySelectorAll('input[data-color]:checked')]
+
+    // Selección de colores usando data-player
+    const colors = [...document.querySelectorAll(`input[data-color][data-player="${num}"]:checked`)]
       .map(c => c.value)
       .sort()
       .join("");
 
+    // Construcción del query para Scryfall
     let query = legendary
       ? "is:commander type:creature"
       : "type:creature";
@@ -25,6 +27,7 @@ document.getElementById("randomize").addEventListener("click", async () => {
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
     const slot = document.getElementById(`player${num}-img`);
 
+    // Animación de carga
     slot.innerHTML = `<div class="loader"></div>`;
 
     promises.push(
