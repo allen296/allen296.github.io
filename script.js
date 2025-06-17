@@ -1,37 +1,25 @@
 document.getElementById("randomize").addEventListener("click", async () => {
-  const players = [1, 2, 3, 4];
   const promises = [];
 
-  players.forEach(playerNum => {
-    const playerSection = document.getElementById(`player${playerNum}`);
-    const slot = document.getElementById(`player${playerNum}-img`);
+  for (let i = 1; i <= 4; i++) {
+    const lock = document.querySelector(`.lock-toggle[data-player="${i}"]`).checked;
+    if (lock) continue;
 
-    // Obtener los colores del jugador
-    const colorInputs = document.querySelectorAll(`#player${playerNum} ~ .checkboxes input[data-color]:checked`);
-    const colors = Array.from(colorInputs).map(c => c.value).sort().join("");
+    const legendary = document.querySelector(`.legendary-toggle[data-player="${i}"]`).checked;
+    const randomAny = document.querySelector(`.random-toggle[data-player="${i}"]`).checked;
 
-    // Controles centrales
-    const legendary = document.querySelector(`.legendary-toggle[data-player="${playerNum}"]`)?.checked;
-    const locked = document.querySelector(`.lock-toggle[data-player="${playerNum}"]`)?.checked;
-    const randomAny = document.querySelector(`.random-toggle[data-player="${playerNum}"]`)?.checked;
+    const colorInputs = document.querySelectorAll(`input[data-color][data-player="${i}"]:checked`);
+    const colors = [...colorInputs].map(c => c.value).sort().join("");
 
-    if (locked) return;
-
-    // Query a Scryfall
-    let query = legendary
-      ? "is:commander type:creature"
-      : "type:creature";
-
+    let query = legendary ? "is:commander type:creature" : "type:creature";
     if (!randomAny && colors) {
       query += ` identity<=${colors}`;
     }
 
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
-
-    // Mostrar animación de carga
+    const slot = document.getElementById(`player${i}-img`);
     slot.innerHTML = `<div class="loader"></div>`;
 
-    // Llamada a la API
     promises.push(
       fetch(url)
         .then(res => res.json())
@@ -43,7 +31,7 @@ document.getElementById("randomize").addEventListener("click", async () => {
           slot.innerHTML = `<span style="color:red;">Error</span>`;
         })
     );
-  });
+  }
 
   await Promise.all(promises);
 });
