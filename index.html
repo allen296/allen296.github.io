@@ -1,94 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Commander Randomizer</title>
+  <title>Commander Tools</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="container">
-
-    <!-- PLAYER 1 -->
-    <div class="player left" id="player1">
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player1-img"></div>
-      </div>
-    </div>
-
-    <!-- PLAYER 2 -->
-    <div class="player left" id="player2">
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player2-img"></div>
-      </div>
-    </div>
-
-    <div class="middle">
-      <button id="randomize">Randomize</button>
-    </div>
-
-    <!-- PLAYER 3 -->
-    <div class="player right" id="player3">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player3-img"></div>
-      </div>
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-    </div>
-
-    <!-- PLAYER 4 -->
-    <div class="player right" id="player4">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player4-img"></div>
-      </div>
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
+  <div class="main-menu">
+    <h1>Commander Tools</h1>
+    <p class="subtitle">Elige una herramienta para empezar</p>
+    <div class="menu-options">
+      <a href="commander.html" class="menu-button">Randomizador de Commanders</a>
+      <a href="#" class="menu-button disabled">Buscador de cartas (próximamente)</a>
+      <a href="#" class="menu-button disabled">Generador de mazos (próximamente)</a>
     </div>
   </div>
-  <script src="script.js"></script>
 </body>
 </html>
