@@ -8,24 +8,29 @@
 </head>
 <body>
   <nav class="navbar">
-    <button id="menu-toggle" class="hamburger">☰</button>
-    <ul class="nav-links" id="nav-links">
-      <li><a href="index.html">Inicio</a></li>
-      <li><a href="commander.html">Commander</a></li>
-      <li><a href="#">Ilustraciones</a></li>
-      <li><a href="#">Proyectos</a></li>
-    </ul>
-    <div id="theme-switch" class="switch">
-      <div class="slider">
-        <span class="icon">🌙</span>
+    <div class="navbar-content">
+      <button id="menu-toggle" class="hamburger">☰</button>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="commander.html">Commander</a></li>
+        <li><a href="#">Ilustraciones</a></li>
+        <li><a href="#">Proyectos</a></li>
+      </ul>
+
+      <div id="theme-switch" class="switch">
+        <div class="slider">
+          <span class="icon">🌙</span>
+        </div>
       </div>
     </div>
   </nav>
 
   <div class="container">
-    <!-- FILA SUPERIOR -->
+    <!-- Jugadores arriba -->
     <div class="row">
-      <div class="checkboxes left" id="p1-colors">
+      <!-- Player 1 -->
+      <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
@@ -37,29 +42,12 @@
         <div class="image-slot" id="player1-img"></div>
       </div>
 
-      <div class="controls-column">
-        <div class="control-line">
-          <input type="checkbox" class="legendary-toggle-player1" checked>
-          <span>Legendaria</span>
-          <input type="checkbox" class="legendary-toggle-player2" checked>
-        </div>
-        <div class="control-line">
-          <input type="checkbox" class="lock-toggle-player1">
-          <span>Lock</span>
-          <input type="checkbox" class="lock-toggle-player2">
-        </div>
-        <div class="control-line">
-          <input type="checkbox" class="random-toggle-player1">
-          <span>Cualquier color</span>
-          <input type="checkbox" class="random-toggle-player2">
-        </div>
-      </div>
-
+      <!-- Player 2 -->
       <div class="card-section" id="player2">
         <div class="image-slot" id="player2-img"></div>
       </div>
 
-      <div class="checkboxes right" id="p2-colors">
+      <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
@@ -68,13 +56,45 @@
       </div>
     </div>
 
-    <div class="middle">
+    <!-- Controles centrales -->
+    <div class="controls-column">
+      <div class="control-line">
+        <input type="checkbox" class="legendary-toggle" data-player="1">
+        Legendaria
+        <input type="checkbox" class="legendary-toggle" data-player="2">
+      </div>
+      <div class="control-line">
+        <input type="checkbox" class="lock-toggle" data-player="1">
+        Lock
+        <input type="checkbox" class="lock-toggle" data-player="2">
+      </div>
+      <div class="control-line">
+        <input type="checkbox" class="random-toggle" data-player="1">
+        Cualquier color
+        <input type="checkbox" class="random-toggle" data-player="2">
+      </div>
       <button id="randomize">Randomize</button>
+      <div class="control-line">
+        <input type="checkbox" class="legendary-toggle" data-player="3">
+        Legendaria
+        <input type="checkbox" class="legendary-toggle" data-player="4">
+      </div>
+      <div class="control-line">
+        <input type="checkbox" class="lock-toggle" data-player="3">
+        Lock
+        <input type="checkbox" class="lock-toggle" data-player="4">
+      </div>
+      <div class="control-line">
+        <input type="checkbox" class="random-toggle" data-player="3">
+        Cualquier color
+        <input type="checkbox" class="random-toggle" data-player="4">
+      </div>
     </div>
 
-    <!-- FILA INFERIOR -->
+    <!-- Jugadores abajo -->
     <div class="row">
-      <div class="checkboxes left" id="p3-colors">
+      <!-- Player 3 -->
+      <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
@@ -86,29 +106,12 @@
         <div class="image-slot" id="player3-img"></div>
       </div>
 
-      <div class="controls-column">
-        <div class="control-line">
-          <input type="checkbox" class="legendary-toggle-player3" checked>
-          <span>Legendaria</span>
-          <input type="checkbox" class="legendary-toggle-player4" checked>
-        </div>
-        <div class="control-line">
-          <input type="checkbox" class="lock-toggle-player3">
-          <span>Lock</span>
-          <input type="checkbox" class="lock-toggle-player4">
-        </div>
-        <div class="control-line">
-          <input type="checkbox" class="random-toggle-player3">
-          <span>Cualquier color</span>
-          <input type="checkbox" class="random-toggle-player4">
-        </div>
-      </div>
-
+      <!-- Player 4 -->
       <div class="card-section" id="player4">
         <div class="image-slot" id="player4-img"></div>
       </div>
 
-      <div class="checkboxes right" id="p4-colors">
+      <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
@@ -120,7 +123,7 @@
 
   <script src="script.js"></script>
   <script>
-    // Cambio de tema
+    // Tema
     const themeSwitch = document.getElementById("theme-switch");
     const icon = themeSwitch.querySelector(".icon");
     const savedTheme = localStorage.getItem('theme');
@@ -147,8 +150,11 @@
       navLinks.classList.toggle("open");
     });
 
-    navLinks.querySelectorAll("a").forEach(link => {
-      link.addEventListener("click", () => navLinks.classList.remove("open"));
+    document.addEventListener("click", (e) => {
+      const isClickInside = navLinks.contains(e.target) || menuToggle.contains(e.target);
+      if (!isClickInside) {
+        navLinks.classList.remove("open");
+      }
     });
   </script>
 </body>
