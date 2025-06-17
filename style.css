@@ -38,7 +38,8 @@ a {
   border-radius: 8px;
   cursor: pointer;
   box-shadow: 0 0 8px rgba(0,0,0,0.3);
-  margin-right: 20px;
+  display: flex;
+  align-items: center;
 }
 
 .navbar {
@@ -50,7 +51,7 @@ a {
   z-index: 999;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: center; /* CENTRADO VERTICAL */
   padding: 10px 20px;
 }
 
@@ -113,33 +114,23 @@ a {
 /* RANDOMIZER */
 .container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
   padding: 20px;
   gap: 20px;
 }
 
-.player {
+.row {
   display: flex;
-  flex-direction: row;
   align-items: center;
-  gap: 15px;
-  margin-bottom: 30px;
-}
-
-.left {
-  flex-direction: row-reverse; /* checkboxes a la izquierda */
-}
-
-.right {
-  flex-direction: row; /* checkboxes a la derecha */
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
 .middle {
-  flex-basis: 100%;
   text-align: center;
-  margin-top: 20px;
+  margin: 20px 0;
 }
 
 button#randomize {
@@ -150,13 +141,20 @@ button#randomize {
   border: none;
   border-radius: 8px;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background 0.3s, transform 0.2s;
 }
 
 button#randomize:hover {
   background: #6f57a0;
+  transform: scale(1.03);
 }
 
+button.loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+/* Estructura general */
 .card-section {
   display: flex;
   flex-direction: column;
@@ -183,6 +181,11 @@ button#randomize:hover {
   object-fit: cover;
   opacity: 0;
   animation: fadeIn 0.4s ease forwards;
+  transition: transform 0.2s;
+}
+
+.image-slot img:hover {
+  transform: scale(1.04);
 }
 
 @keyframes fadeIn {
@@ -195,6 +198,13 @@ button#randomize:hover {
   gap: 6px;
 }
 
+.left {
+  align-items: flex-end;
+}
+.right {
+  align-items: flex-start;
+}
+
 .checkboxes label {
   font-weight: bold;
   display: flex;
@@ -205,22 +215,24 @@ button#randomize:hover {
   border-radius: 4px;
 }
 
-/* Estilo personalizado de colores para cada color de maná */
+.controls-column {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 14px;
+  background: var(--card-bg);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Colores personalizados */
 .white input { accent-color: white; }
 .blue input { accent-color: #1e90ff; }
 .black input { accent-color: black; }
 .red input { accent-color: red; }
 .green input { accent-color: green; }
 
-.controls {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-  font-size: 14px;
-  margin-bottom: 5px;
-}
-
-/* Animación de carga */
+/* Carga */
 .loader {
   border: 4px solid var(--card-bg);
   border-top: 4px solid var(--accent);
@@ -233,4 +245,16 @@ button#randomize:hover {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+/* Responsive para móvil */
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+  }
+  .checkboxes {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
