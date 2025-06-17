@@ -3,35 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Antonio | Proyectos</title>
+  <title>Antonio Valladares</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="theme-toggle" id="theme-toggle">🌙</div>
+  <header class="navbar">
+    <div class="nav-title">Antonio Valladares</div>
+    <nav>
+      <a href="index.html" class="nav-link">Inicio</a>
+      <a href="commander.html" class="nav-link">Commander</a>
+      <a href="#" class="nav-link">Galería</a>
+      <a href="#" class="nav-link">Código</a>
+    </nav>
+    <div class="theme-toggle" id="theme-toggle">🌙</div>
+  </header>
 
-  <div class="home-container">
-    <div class="home-title">Antonio Valladares</div>
-    <div class="home-subtitle">Bienvenido a mi espacio digital. Aquí iré subiendo algunos de mis proyectos personales: desarrollo web, herramientas interactivas, y cosas que me molan.</div>
-
-    <div class="home-options">
-      <a href="commander.html" class="project-card">
-        <div class="project-icon">🎲</div>
-        <div>Randomizador de Comandantes (MTG)</div>
-      </a>
-      <a href="#" class="project-card">
-        <div class="project-icon">🖼️</div>
-        <div>Galería de Ilustraciones (Próximamente)</div>
-      </a>
-      <a href="#" class="project-card">
-        <div class="project-icon">💻</div>
-        <div>Generador de Código (Próximamente)</div>
-      </a>
+  <main class="presentation">
+    <div class="circle-container">
+      <img src="jabali.png" alt="Jabalí" class="circle-image" />
     </div>
+    <div class="intro-text">
+      <h1>¡Hola! Soy Antonio 👋</h1>
+      <p>Bienvenido a mi espacio digital, donde comparto mis proyectos personales. Desde herramientas de Magic hasta código experimental. Explora y echa un vistazo a lo que voy creando.</p>
+    </div>
+  </main>
 
-    <footer>
-      © 2025 Antonio Valladares. Hecho con café ☕ y JavaScript.
-    </footer>
-  </div>
+  <footer>
+    © 2025 Antonio Valladares. Hecho con café ☕ y JavaScript.
+  </footer>
 
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
