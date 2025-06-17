@@ -30,7 +30,6 @@ a {
   text-decoration: none;
 }
 
-/* NAVBAR */
 .navbar {
   position: fixed;
   top: 0;
@@ -41,7 +40,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px 0;
+  padding: 10px 20px;
 }
 
 .navbar-content {
@@ -49,8 +48,7 @@ a {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  max-width: 1000px;
-  padding: 0 20px;
+  max-width: 1100px;
 }
 
 .nav-links {
@@ -61,57 +59,26 @@ a {
   padding: 0;
 }
 
-.nav-links a {
+.navbar a {
   font-weight: bold;
   transition: color 0.3s;
 }
 
-.nav-links a:hover {
+.navbar a:hover {
   color: var(--accent);
 }
 
-/* Responsive */
-.hamburger {
-  display: none;
-  font-size: 24px;
-  background: none;
-  border: none;
-  color: var(--text);
-  cursor: pointer;
-}
-
-@media (max-width: 700px) {
-  .hamburger {
-    display: block;
-  }
-
-  .nav-links {
-    display: none;
-    flex-direction: column;
-    gap: 10px;
-    background: var(--card-bg);
-    position: absolute;
-    top: 60px;
-    left: 0;
-    right: 0;
-    padding: 10px 20px;
-  }
-
-  .nav-links.open {
-    display: flex;
-  }
-}
-
-/* SWITCH */
 .switch {
   width: 50px;
   height: 26px;
   background: var(--card-bg);
-  border-radius: 13px;
-  position: relative;
+  border-radius: 50px;
+  border: 2px solid var(--accent);
+  display: flex;
+  align-items: center;
   cursor: pointer;
-  margin-left: auto;
-  border: 1px solid var(--accent);
+  padding: 2px;
+  transition: background 0.3s;
 }
 
 .slider {
@@ -119,22 +86,13 @@ a {
   height: 22px;
   background: var(--accent);
   border-radius: 50%;
-  position: absolute;
-  top: 1px;
-  left: 1px;
-  transition: transform 0.3s;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 14px;
-  color: var(--highlight);
+  transition: transform 0.3s ease;
 }
 
 body.light-mode .slider {
   transform: translateX(24px);
 }
 
-/* PRESENTACION */
 .presentation {
   display: flex;
   flex-direction: column;
@@ -173,21 +131,20 @@ body.light-mode .slider {
   max-width: 600px;
 }
 
-/* RANDOMIZER */
 .container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  gap: 30px;
   padding: 20px;
-  gap: 40px;
+  align-items: center;
 }
 
 .row {
   display: flex;
-  align-items: center;
   justify-content: center;
-  gap: 20px;
+  gap: 40px;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .card-section {
@@ -242,29 +199,20 @@ body.light-mode .slider {
 .blue input { accent-color: #1e90ff; }
 .black input { accent-color: black; }
 .red input { accent-color: red; }
-green input { accent-color: green; }
+.green input { accent-color: green; }
+.colorless input { accent-color: gray; }
 
 .controls-column {
   display: flex;
   flex-direction: column;
-  gap: 8px;
   align-items: center;
-  justify-content: center;
-  padding: 10px;
-  background: var(--card-bg);
-  border-radius: 8px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+  gap: 10px;
 }
 
 .control-line {
   display: flex;
   align-items: center;
-  gap: 8px;
-  font-size: 14px;
-}
-
-.middle {
-  text-align: center;
+  gap: 12px;
 }
 
 button#randomize {
@@ -276,7 +224,6 @@ button#randomize {
   border-radius: 8px;
   cursor: pointer;
   transition: background 0.3s;
-  margin-top: 10px;
 }
 
 button#randomize:hover {
@@ -295,4 +242,16 @@ button#randomize:hover {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .navbar-content {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
 }
