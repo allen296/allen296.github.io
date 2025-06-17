@@ -35,7 +35,7 @@ a {
   top: 0;
   width: 100%;
   background: var(--card-bg);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
   z-index: 999;
   display: flex;
   justify-content: center;
@@ -57,6 +57,7 @@ a {
   list-style: none;
   margin: 0;
   padding: 0;
+  transition: max-height 0.3s ease;
 }
 
 .navbar a {
@@ -93,6 +94,15 @@ body.light-mode .slider {
   transform: translateX(24px);
 }
 
+.hamburger {
+  display: none;
+  font-size: 24px;
+  background: none;
+  border: none;
+  color: var(--text);
+  cursor: pointer;
+}
+
 .presentation {
   display: flex;
   flex-direction: column;
@@ -112,7 +122,7 @@ body.light-mode .slider {
   align-items: center;
   overflow: hidden;
   margin-bottom: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .avatar-circle img {
@@ -163,7 +173,7 @@ body.light-mode .slider {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   position: relative;
 }
 
@@ -176,7 +186,9 @@ body.light-mode .slider {
 }
 
 @keyframes fadeIn {
-  to { opacity: 1; }
+  to {
+    opacity: 1;
+  }
 }
 
 .checkboxes {
@@ -195,12 +207,24 @@ body.light-mode .slider {
   border-radius: 4px;
 }
 
-.white input { accent-color: white; }
-.blue input { accent-color: #1e90ff; }
-.black input { accent-color: black; }
-.red input { accent-color: red; }
-.green input { accent-color: green; }
-.colorless input { accent-color: gray; }
+.white input {
+  accent-color: white;
+}
+.blue input {
+  accent-color: #1e90ff;
+}
+.black input {
+  accent-color: black;
+}
+.red input {
+  accent-color: red;
+}
+.green input {
+  accent-color: green;
+}
+.colorless input {
+  accent-color: gray;
+}
 
 .controls-column {
   display: flex;
@@ -240,15 +264,30 @@ button#randomize:hover {
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 @media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
   .nav-links {
     flex-direction: column;
     gap: 20px;
+    max-height: 0;
+    overflow: hidden;
   }
+
+  .nav-links.open {
+    max-height: 500px;
+  }
+
   .navbar-content {
     flex-direction: column;
     align-items: center;
