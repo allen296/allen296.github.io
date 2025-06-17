@@ -27,8 +27,8 @@
 
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     const savedTheme = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
     if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
       document.body.classList.add('light-mode');
