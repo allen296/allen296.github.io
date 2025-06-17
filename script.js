@@ -19,8 +19,8 @@ document.getElementById("randomize").addEventListener("click", async () => {
       .join("");
 
     let query = legendary
-      ? "is:commander type:creature"
-      : "type:creature";
+      ? "is:commander legal:commander (type:creature or type:planeswalker)"
+      : "legal:commander type:creature";
 
     if (!randomAny && colors) {
       query += ` identity<=${colors}`;
