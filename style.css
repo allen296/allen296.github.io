@@ -137,7 +137,7 @@ body.light-mode .slider {
   display: flex;
   flex-direction: column;
   gap: 7px;
-  padding: 20px;
+  padding: 10px;
   align-items: center;
 }
 
