@@ -136,7 +136,7 @@ body.light-mode .slider {
 .container {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 15px;
   padding: 20px;
   align-items: center;
 }
