@@ -18,78 +18,79 @@
   </nav>
 
   <div class="container">
-    <!-- Player 1 -->
-    <div class="player left" id="player1">
-      <div class="checkboxes">
+    <!-- FILA SUPERIOR: Jugadores 1 y 2 -->
+    <div class="row">
+      <!-- Colores jugador 1 -->
+      <div class="checkboxes left" id="p1-colors">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
         <label class="red"><input type="checkbox" value="R" data-color>R</label>
         <label class="green"><input type="checkbox" value="G" data-color>G</label>
       </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
+
+      <!-- Carta jugador 1 -->
+      <div class="card-section" id="player1">
         <div class="image-slot" id="player1-img"></div>
       </div>
-    </div>
 
-    <!-- Player 2 -->
-    <div class="player left" id="player2">
-      <div class="checkboxes">
+      <!-- Controles compartidos -->
+      <div class="controls-column">
+        <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
+        <label><input type="checkbox" class="lock-toggle"> Lock</label>
+        <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
+      </div>
+
+      <!-- Carta jugador 2 -->
+      <div class="card-section" id="player2">
+        <div class="image-slot" id="player2-img"></div>
+      </div>
+
+      <!-- Colores jugador 2 -->
+      <div class="checkboxes right" id="p2-colors">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
         <label class="red"><input type="checkbox" value="R" data-color>R</label>
         <label class="green"><input type="checkbox" value="G" data-color>G</label>
       </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player2-img"></div>
-      </div>
     </div>
 
+    <!-- Botón central -->
     <div class="middle">
       <button id="randomize">Randomize</button>
     </div>
 
-    <!-- Player 3 -->
-    <div class="player right" id="player3">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player3-img"></div>
-      </div>
-      <div class="checkboxes">
+    <!-- FILA INFERIOR: Jugadores 3 y 4 -->
+    <div class="row">
+      <!-- Colores jugador 3 -->
+      <div class="checkboxes left" id="p3-colors">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
         <label class="red"><input type="checkbox" value="R" data-color>R</label>
         <label class="green"><input type="checkbox" value="G" data-color>G</label>
       </div>
-    </div>
 
-    <!-- Player 4 -->
-    <div class="player right" id="player4">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
+      <!-- Carta jugador 3 -->
+      <div class="card-section" id="player3">
+        <div class="image-slot" id="player3-img"></div>
+      </div>
+
+      <!-- Controles compartidos -->
+      <div class="controls-column">
+        <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
+        <label><input type="checkbox" class="lock-toggle"> Lock</label>
+        <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
+      </div>
+
+      <!-- Carta jugador 4 -->
+      <div class="card-section" id="player4">
         <div class="image-slot" id="player4-img"></div>
       </div>
-      <div class="checkboxes">
+
+      <!-- Colores jugador 4 -->
+      <div class="checkboxes right" id="p4-colors">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
         <label class="blue"><input type="checkbox" value="U" data-color>U</label>
         <label class="black"><input type="checkbox" value="B" data-color>B</label>
