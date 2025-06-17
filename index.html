@@ -26,6 +26,24 @@
     <p>Soy desarrollador, friki de los juegos de rol y creador de herramientas como el Randomizador de Commander. Aquí iré publicando mis proyectos y cosillas que me molan.</p>
   </div>
 
-  <script src="theme.js"></script>
+  <script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const savedTheme = localStorage.getItem('theme');
+
+    if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
+      document.body.classList.add('light-mode');
+      toggleBtn.textContent = '🌙';
+    } else {
+      toggleBtn.textContent = '☀️';
+    }
+
+    toggleBtn.addEventListener('click', () => {
+      document.body.classList.toggle('light-mode');
+      const isLight = document.body.classList.contains('light-mode');
+      localStorage.setItem('theme', isLight ? 'light' : 'dark');
+      toggleBtn.textContent = isLight ? '🌙' : '☀️';
+    });
+  </script>
 </body>
 </html>
