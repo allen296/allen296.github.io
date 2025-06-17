@@ -19,9 +19,7 @@
       </ul>
 
       <div id="theme-switch" class="switch">
-        <div class="slider">
-          <span class="icon">🌙</span>
-        </div>
+        <div class="slider"></div>
       </div>
     </div>
   </nav>
@@ -35,15 +33,14 @@
   </div>
 
   <script>
-    // Switch de tema
+    // Tema claro/oscuro
     const themeSwitch = document.getElementById("theme-switch");
-    const icon = themeSwitch.querySelector(".icon");
+    const slider = themeSwitch.querySelector(".slider");
     const savedTheme = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
     function setTheme(isLight) {
       document.body.classList.toggle('light-mode', isLight);
-      icon.textContent = isLight ? '☀️' : '🌙';
       localStorage.setItem('theme', isLight ? 'light' : 'dark');
     }
 
@@ -63,8 +60,7 @@
     });
 
     document.addEventListener("click", (e) => {
-      const isClickInside = navLinks.contains(e.target) || menuToggle.contains(e.target);
-      if (!isClickInside) {
+      if (!menuToggle.contains(e.target) && !navLinks.contains(e.target)) {
         navLinks.classList.remove("open");
       }
     });
