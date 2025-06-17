@@ -119,8 +119,8 @@ body.light-mode .slider {
 .avatar-circle img {
   width: 100%;
   height: 100%;
-  object-fit: contain; /* 🔥 Esto hace que no se recorte nada de la imagen */
-  padding: 100%;        /* 🔥 Reduce el tamaño dentro del círculo */
+  object-fit: contain;
+  transform: scale(0.5); /* 🔥 Reduce el tamaño sin tocar el padding */
 }
 
 .presentation h1 {
