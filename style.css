@@ -157,8 +157,8 @@ body.light-mode .slider {
 }
 
 .image-slot {
-  width: 220px;
-  height: 310px;
+  width: 260px;
+  height: 366px;
   background: var(--card-bg);
   border-radius: 8px;
   overflow: hidden;
