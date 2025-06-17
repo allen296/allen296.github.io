@@ -1,23 +1,29 @@
 document.getElementById("randomize").addEventListener("click", async () => {
+  const players = [1, 2, 3, 4];
   const promises = [];
 
-  for (let i = 1; i <= 4; i++) {
-    const lock = document.querySelector(`.lock-toggle[data-player="${i}"]`).checked;
-    if (lock) continue;
+  players.forEach(playerNum => {
+    const locked = document.querySelector(`.lock-toggle[data-player="${playerNum}"]`)?.checked;
+    if (locked) return;
 
-    const legendary = document.querySelector(`.legendary-toggle[data-player="${i}"]`).checked;
-    const randomAny = document.querySelector(`.random-toggle[data-player="${i}"]`).checked;
+    const randomAny = document.querySelector(`.random-toggle[data-player="${playerNum}"]`)?.checked;
+    const legendary = document.querySelector(`.legendary-toggle[data-player="${playerNum}"]`)?.checked;
 
-    const colorInputs = document.querySelectorAll(`input[data-color][data-player="${i}"]:checked`);
-    const colors = [...colorInputs].map(c => c.value).sort().join("");
+    const colorChecks = document.querySelectorAll(`input[data-color][data-player="${playerNum}"]:checked`);
+    const colors = [...colorChecks].map(c => c.value).sort().join("");
 
-    let query = legendary ? "is:commander type:creature" : "type:creature";
+    let query = legendary
+      ? "is:commander type:creature"
+      : "type:creature";
+
     if (!randomAny && colors) {
       query += ` identity<=${colors}`;
     }
 
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
-    const slot = document.getElementById(`player${i}-img`);
+    const slot = document.getElementById(`player${playerNum}-img`);
+
+    // Cargar animación mientras espera
     slot.innerHTML = `<div class="loader"></div>`;
 
     promises.push(
@@ -31,7 +37,7 @@ document.getElementById("randomize").addEventListener("click", async () => {
           slot.innerHTML = `<span style="color:red;">Error</span>`;
         })
     );
-  }
+  });
 
   await Promise.all(promises);
 });
