@@ -255,6 +255,9 @@ button#randomize:hover {
 
 /* Responsive */
 @media (max-width: 768px) {
+  body {
+    padding-top: 130px; /* Más espacio debajo del nav fijo en móvil */
+  }
   .navbar-content {
     flex-direction: column;
     align-items: center;
