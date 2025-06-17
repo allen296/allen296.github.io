@@ -1,4 +1,8 @@
 document.getElementById("randomize").addEventListener("click", async () => {
+  const button = document.getElementById("randomize");
+  button.disabled = true; // ⛔ Evitar spam
+  button.textContent = "Cargando...";
+
   const players = [1, 2, 3, 4];
   const promises = [];
 
@@ -9,13 +13,11 @@ document.getElementById("randomize").addEventListener("click", async () => {
     const randomAny = document.getElementById(`random${num}`).checked;
     const legendary = document.getElementById(`legendary${num}`).checked;
 
-    // Selección de colores usando data-player
     const colors = [...document.querySelectorAll(`input[data-color][data-player="${num}"]:checked`)]
       .map(c => c.value)
       .sort()
       .join("");
 
-    // Construcción del query para Scryfall
     let query = legendary
       ? "is:commander type:creature"
       : "type:creature";
@@ -26,8 +28,6 @@ document.getElementById("randomize").addEventListener("click", async () => {
 
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
     const slot = document.getElementById(`player${num}-img`);
-
-    // Animación de carga
     slot.innerHTML = `<div class="loader"></div>`;
 
     promises.push(
@@ -44,4 +44,8 @@ document.getElementById("randomize").addEventListener("click", async () => {
   });
 
   await Promise.all(promises);
+
+  // ✅ Reactivar el botón
+  button.disabled = false;
+  button.textContent = "Randomize";
 });
