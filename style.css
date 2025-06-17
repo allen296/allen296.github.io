@@ -104,8 +104,8 @@ body.light-mode .slider {
 }
 
 .avatar-circle {
-  width: 200px;
-  height: 200px;
+  width: min(40vw, 300px);  /* Se adapta al ancho de pantalla, hasta 300px */
+  aspect-ratio: 1 / 1;       /* Siempre cuadrado */
   border-radius: 50%;
   background: var(--circle);
   display: flex;
