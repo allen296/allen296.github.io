@@ -9,7 +9,7 @@
 <body>
   <nav class="navbar">
     <div class="navbar-content">
-      <div class="hamburger" id="hamburger">&#9776;</div>
+      <!-- Hamburguesa eliminada -->
       <ul class="nav-links" id="nav-links">
         <li><a href="index.html">Inicio</a></li>
         <li><a href="commander.html">Commander</a></li>
@@ -44,11 +44,6 @@
       document.body.classList.toggle('light-mode');
       const isLight = document.body.classList.contains('light-mode');
       localStorage.setItem('theme', isLight ? 'light' : 'dark');
-    });
-
-    // Hamburguesa
-    document.getElementById("hamburger").addEventListener("click", () => {
-      document.getElementById("nav-links").classList.toggle("open");
     });
   </script>
 </body>
