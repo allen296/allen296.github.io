@@ -1,31 +1,39 @@
 document.getElementById("randomize").addEventListener("click", async () => {
-  const players = document.querySelectorAll(".player");
+  const players = document.querySelectorAll(".card-section");
+  const button = document.getElementById("randomize");
+
+  button.classList.add("loading");
+  button.textContent = "Cargando...";
+
   const promises = [];
 
   players.forEach(player => {
-    const locked = player.querySelector(".lock-toggle").checked;
+    const legendary = player.nextElementSibling?.querySelector(".legendary-toggle")?.checked ?? true;
+    const locked = player.nextElementSibling?.querySelector(".lock-toggle")?.checked;
+    const randomAny = player.nextElementSibling?.querySelector(".random-toggle")?.checked;
+
     if (locked) return;
 
-    const randomAny = player.querySelector(".random-toggle").checked;
-    const legendary = player.querySelector(".legendary-toggle").checked;
-    const colors = [...player.querySelectorAll('input[data-color]:checked')].map(c => c.value).sort().join("");
+    const playerId = player.id;
+    const slot = document.getElementById(`${playerId}-img`);
 
-    // Base de búsqueda según si es legendaria o no
-    let query = legendary
-      ? "is:commander type:creature"
-      : "type:creature";
+    // Buscar colores asociados por ID (p.ej. p1-colors)
+    const colorBox = document.querySelector(`#${playerId.replace("player", "p")}-colors`);
+    const colors = [...colorBox.querySelectorAll("input[data-color]:checked")]
+                    .map(c => c.value).sort().join("");
 
+    // Construir la query
+    let query = legendary ? "is:commander type:creature" : "type:creature";
     if (!randomAny && colors) {
       query += ` identity<=${colors}`;
     }
 
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
-    const slot = player.querySelector(".image-slot");
 
     // Mostrar animación de carga
     slot.innerHTML = `<div class="loader"></div>`;
 
-    // Llamada al API
+    // Llamada a Scryfall
     promises.push(
       fetch(url)
         .then(res => res.json())
@@ -40,4 +48,6 @@ document.getElementById("randomize").addEventListener("click", async () => {
   });
 
   await Promise.all(promises);
+  button.classList.remove("loading");
+  button.textContent = "Randomize";
 });
