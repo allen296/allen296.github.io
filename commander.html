@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <!-- Botón para cambiar tema -->
   <div class="theme-toggle" id="theme-toggle">🌙</div>
 
   <div class="container">
@@ -48,6 +49,7 @@
       </div>
     </div>
 
+    <!-- Botón central -->
     <div class="middle">
       <button id="randomize">Randomize</button>
     </div>
@@ -91,7 +93,10 @@
     </div>
   </div>
 
+  <!-- Script del randomizador -->
   <script src="script.js"></script>
+
+  <!-- Script para tema claro/oscuro -->
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
     const savedTheme = localStorage.getItem('theme');
