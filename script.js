@@ -1,50 +1,42 @@
 document.getElementById("randomize").addEventListener("click", async () => {
-  const players = document.querySelectorAll(".card-section");
-  const button = document.getElementById("randomize");
+  const players = [
+    { id: "player1", side: "left" },
+    { id: "player2", side: "right" },
+    { id: "player3", side: "left" },
+    { id: "player4", side: "right" }
+  ];
 
+  const button = document.getElementById("randomize");
   button.classList.add("loading");
   button.textContent = "Cargando...";
 
-  const promises = [];
-
-  players.forEach(player => {
-    const legendary = player.nextElementSibling?.querySelector(".legendary-toggle")?.checked ?? true;
-    const locked = player.nextElementSibling?.querySelector(".lock-toggle")?.checked;
-    const randomAny = player.nextElementSibling?.querySelector(".random-toggle")?.checked;
-
-    if (locked) return;
-
-    const playerId = player.id;
-    const slot = document.getElementById(`${playerId}-img`);
-
-    // Buscar colores asociados por ID (p.ej. p1-colors)
-    const colorBox = document.querySelector(`#${playerId.replace("player", "p")}-colors`);
+  const promises = players.map(({ id, side }) => {
+    const slot = document.getElementById(`${id}-img`);
+    const colorBox = document.querySelector(`#${id.replace("player", "p")}-colors`);
     const colors = [...colorBox.querySelectorAll("input[data-color]:checked")]
-                    .map(c => c.value).sort().join("");
+      .map(c => c.value).sort().join("");
 
-    // Construir la query
+    const legendary = document.querySelector(`.legendary-toggle-${side}`).checked;
+    const locked = document.querySelector(`.lock-toggle-${side}`).checked;
+    const randomAny = document.querySelector(`.random-toggle-${side}`).checked;
+
+    if (locked) return Promise.resolve();
+
     let query = legendary ? "is:commander type:creature" : "type:creature";
-    if (!randomAny && colors) {
-      query += ` identity<=${colors}`;
-    }
-
+    if (!randomAny && colors) query += ` identity<=${colors}`;
     const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
 
-    // Mostrar animación de carga
     slot.innerHTML = `<div class="loader"></div>`;
 
-    // Llamada a Scryfall
-    promises.push(
-      fetch(url)
-        .then(res => res.json())
-        .then(data => {
-          const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-          slot.innerHTML = `<img src="${imageUrl}" alt="${data.name}" />`;
-        })
-        .catch(() => {
-          slot.innerHTML = `<span style="color:red;">Error</span>`;
-        })
-    );
+    return fetch(url)
+      .then(res => res.json())
+      .then(data => {
+        const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+        slot.innerHTML = `<img src="${imageUrl}" alt="${data.name}" />`;
+      })
+      .catch(() => {
+        slot.innerHTML = `<span style="color:red;">Error</span>`;
+      });
   });
 
   await Promise.all(promises);
