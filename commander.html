@@ -7,8 +7,16 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- Botón para cambiar tema -->
   <div class="theme-toggle" id="theme-toggle">🌙</div>
+
+  <nav class="navbar">
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="commander.html">Commander</a></li>
+      <li><a href="#">Ilustraciones</a></li>
+      <li><a href="#">Proyectos</a></li>
+    </ul>
+  </nav>
 
   <div class="container">
     <!-- Player 1 -->
@@ -49,7 +57,6 @@
       </div>
     </div>
 
-    <!-- Botón central -->
     <div class="middle">
       <button id="randomize">Randomize</button>
     </div>
@@ -93,10 +100,7 @@
     </div>
   </div>
 
-  <!-- Script del randomizador -->
   <script src="script.js"></script>
-
-  <!-- Script para tema claro/oscuro -->
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
     const savedTheme = localStorage.getItem('theme');
