@@ -9,17 +9,19 @@
 <body>
   <nav class="navbar">
     <div class="navbar-content">
-      <button id="menu-toggle" class="hamburger">☰</button>
-
+      <div class="nav-left">
+        <button class="hamburger" id="hamburger">&#9776;</button>
+      </div>
       <ul class="nav-links" id="nav-links">
         <li><a href="index.html">Inicio</a></li>
         <li><a href="commander.html">Commander</a></li>
         <li><a href="#">Ilustraciones</a></li>
         <li><a href="#">Proyectos</a></li>
       </ul>
-
-      <div id="theme-switch" class="switch">
-        <div class="slider"></div>
+      <div class="nav-right">
+        <div class="switch" id="theme-toggle">
+          <div class="slider"></div>
+        </div>
       </div>
     </div>
   </nav>
@@ -33,36 +35,26 @@
   </div>
 
   <script>
-    // Tema claro/oscuro
-    const themeSwitch = document.getElementById("theme-switch");
-    const slider = themeSwitch.querySelector(".slider");
+    const toggleBtn = document.getElementById('theme-toggle');
+    const slider = toggleBtn.querySelector('.slider');
     const savedTheme = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-    function setTheme(isLight) {
-      document.body.classList.toggle('light-mode', isLight);
-      localStorage.setItem('theme', isLight ? 'light' : 'dark');
+    if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
+      document.body.classList.add('light-mode');
     }
 
-    setTheme(savedTheme === 'light' || (!savedTheme && !prefersDark));
-
-    themeSwitch.addEventListener('click', () => {
-      const isLight = !document.body.classList.contains('light-mode');
-      setTheme(isLight);
+    toggleBtn.addEventListener('click', () => {
+      document.body.classList.toggle('light-mode');
+      const isLight = document.body.classList.contains('light-mode');
+      localStorage.setItem('theme', isLight ? 'light' : 'dark');
     });
 
-    // Menú hamburguesa
-    const menuToggle = document.getElementById("menu-toggle");
-    const navLinks = document.getElementById("nav-links");
-
-    menuToggle.addEventListener("click", () => {
-      navLinks.classList.toggle("open");
-    });
-
-    document.addEventListener("click", (e) => {
-      if (!menuToggle.contains(e.target) && !navLinks.contains(e.target)) {
-        navLinks.classList.remove("open");
-      }
+    // Hamburguesa
+    const hamburger = document.getElementById('hamburger');
+    const navLinks = document.getElementById('nav-links');
+    hamburger.addEventListener('click', () => {
+      navLinks.classList.toggle('open');
     });
   </script>
 </body>
