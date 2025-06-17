@@ -1,14 +1,60 @@
+/* === ESTILO PÁGINA PRINCIPAL === */
 body {
   background: #121212;
   color: #fff;
   font-family: sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
   margin: 0;
+  padding: 0;
 }
 
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.main-menu h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #aaa;
+  margin-bottom: 30px;
+  font-size: 1.2rem;
+}
+
+.menu-options {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.menu-button {
+  background: #673AB7;
+  color: white;
+  text-decoration: none;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  transition: background 0.3s;
+}
+
+.menu-button:hover {
+  background: #9575CD;
+}
+
+.menu-button.disabled {
+  background: #444;
+  color: #aaa;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* === RANDOMIZER DE COMMANDERS === */
 .container {
   display: flex;
   flex-wrap: wrap;
