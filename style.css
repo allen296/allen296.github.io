@@ -71,6 +71,7 @@ a {
   color: var(--accent);
 }
 
+/* Página de presentación */
 .presentation {
   display: flex;
   flex-direction: column;
@@ -98,6 +99,7 @@ a {
   height: 100%;
   object-fit: cover;
 }
+
 .presentation h1 {
   font-size: 32px;
   margin: 0;
@@ -120,16 +122,18 @@ a {
 
 .player {
   display: flex;
-  flex-direction: column;
-  gap: 10px;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 30px;
 }
 
 .left {
-  align-items: flex-start;
+  flex-direction: row-reverse; /* checkboxes a la izquierda */
 }
 
 .right {
-  align-items: flex-end;
+  flex-direction: row; /* checkboxes a la derecha */
 }
 
 .middle {
@@ -153,30 +157,11 @@ button#randomize:hover {
   background: #6f57a0;
 }
 
-.checkboxes {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.checkboxes label {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-weight: bold;
-}
-
-.white input { accent-color: white; }
-.blue input { accent-color: blue; }
-.black input { accent-color: black; }
-.red input { accent-color: red; }
-.green input { accent-color: green; }
-
 .card-section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
 }
 
 .image-slot {
@@ -204,9 +189,48 @@ button#randomize:hover {
   to { opacity: 1; }
 }
 
+.checkboxes {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.checkboxes label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--card-bg);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Estilo personalizado de colores para cada color de maná */
+.white input { accent-color: white; }
+.blue input { accent-color: #1e90ff; }
+.black input { accent-color: black; }
+.red input { accent-color: red; }
+.green input { accent-color: green; }
+
 .controls {
   display: flex;
   flex-direction: column;
   gap: 5px;
   font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Animación de carga */
+.loader {
+  border: 4px solid var(--card-bg);
+  border-top: 4px solid var(--accent);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
