@@ -50,8 +50,8 @@ a {
   box-shadow: 0 2px 8px rgba(0,0,0,0.4);
   z-index: 999;
   display: flex;
-  justify-content: space-between;
-  align-items: center; /* CENTRADO VERTICAL */
+  justify-content: center;
+  align-items: center;
   padding: 10px 20px;
 }
 
@@ -154,7 +154,6 @@ button.loading {
   pointer-events: none;
 }
 
-/* Estructura general */
 .card-section {
   display: flex;
   flex-direction: column;
@@ -218,11 +217,18 @@ button.loading {
 .controls-column {
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  font-size: 14px;
-  background: var(--card-bg);
+  align-items: center;
+  gap: 10px;
   padding: 10px;
+  background: var(--card-bg);
   border-radius: 8px;
+  font-size: 14px;
+}
+
+.control-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 /* Colores personalizados */
