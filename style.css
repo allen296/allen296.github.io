@@ -16,6 +16,7 @@
   --circle: #000000;
 }
 
+/* -------------------- BASE -------------------- */
 body {
   background: var(--bg);
   color: var(--text);
@@ -30,7 +31,7 @@ a {
   text-decoration: none;
 }
 
-/* NAVBAR GENERAL */
+/* -------------------- NAVBAR -------------------- */
 .navbar {
   position: fixed;
   top: 0;
@@ -38,13 +39,19 @@ a {
   background: var(--card-bg);
   box-shadow: 0 2px 8px rgba(0,0,0,0.4);
   z-index: 999;
+}
+
+.navbar-content {
+  max-width: 1100px;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
+  gap: 20px;
 }
 
-.navbar ul {
+.nav-links {
   display: flex;
   gap: 40px;
   list-style: none;
@@ -52,16 +59,16 @@ a {
   padding: 0;
 }
 
-.navbar a {
+.nav-links li a {
   font-weight: bold;
   transition: color 0.3s;
 }
 
-.navbar a:hover {
+.nav-links li a:hover {
   color: var(--accent);
 }
 
-/* SWITCH DE TEMA */
+/* -------------------- SWITCH TEMA -------------------- */
 .switch {
   width: 50px;
   height: 26px;
@@ -70,8 +77,7 @@ a {
   position: relative;
   cursor: pointer;
   transition: background 0.3s;
-  display: flex;
-  align-items: center;
+  flex-shrink: 0;
 }
 
 .slider {
@@ -98,7 +104,7 @@ a {
   background: #111;
 }
 
-/* HAMBURGUESA RESPONSIVE */
+/* -------------------- MENÚ HAMBURGUESA -------------------- */
 .hamburger {
   display: none;
   font-size: 24px;
@@ -130,13 +136,13 @@ a {
     display: flex;
   }
 
-  .navbar ul {
-    flex-direction: column;
-    gap: 0;
+  .navbar-content {
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
 }
 
-/* PRESENTACIÓN INDEX */
+/* -------------------- PRESENTACIÓN INDEX -------------------- */
 .presentation {
   display: flex;
   flex-direction: column;
@@ -175,54 +181,27 @@ a {
   max-width: 600px;
 }
 
-/* RANDOMIZER COMMANDER */
+/* -------------------- RANDOMIZER COMMANDER -------------------- */
 .container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  gap: 30px;
   padding: 20px;
-  gap: 20px;
+  align-items: center;
 }
 
 .row {
   display: flex;
-  align-items: center;
-  justify-content: center;
   flex-wrap: wrap;
-  gap: 20px;
-}
-
-.middle {
-  text-align: center;
-  margin: 20px 0;
-}
-
-button#randomize {
-  padding: 12px 24px;
-  font-size: 18px;
-  background: var(--accent);
-  color: var(--text);
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background 0.3s, transform 0.2s;
-}
-
-button#randomize:hover {
-  background: #6f57a0;
-  transform: scale(1.03);
-}
-
-button.loading {
-  opacity: 0.6;
-  pointer-events: none;
+  justify-content: center;
+  gap: 10px;
 }
 
 .card-section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
 }
 
 .image-slot {
@@ -244,11 +223,6 @@ button.loading {
   object-fit: cover;
   opacity: 0;
   animation: fadeIn 0.4s ease forwards;
-  transition: transform 0.2s;
-}
-
-.image-slot img:hover {
-  transform: scale(1.04);
 }
 
 @keyframes fadeIn {
@@ -261,13 +235,6 @@ button.loading {
   gap: 6px;
 }
 
-.left {
-  align-items: flex-end;
-}
-.right {
-  align-items: flex-start;
-}
-
 .checkboxes label {
   font-weight: bold;
   display: flex;
@@ -278,31 +245,56 @@ button.loading {
   border-radius: 4px;
 }
 
-.controls-column {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-  padding: 10px;
-  background: var(--card-bg);
-  border-radius: 8px;
-  font-size: 14px;
-}
-
-.control-line {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-/* Colores personalizados */
+/* Estilo de colores de maná */
 .white input { accent-color: white; }
 .blue input { accent-color: #1e90ff; }
 .black input { accent-color: black; }
 .red input { accent-color: red; }
 .green input { accent-color: green; }
 
-/* Carga */
+/* Controles intermedios */
+.controls-column {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+.control-line {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  background: var(--card-bg);
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+/* Botón central */
+.middle {
+  flex-basis: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
+
+button#randomize {
+  padding: 12px 24px;
+  font-size: 18px;
+  background: var(--accent);
+  color: var(--text);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button#randomize:hover {
+  background: #6f57a0;
+}
+
+/* Loader animado */
 .loader {
   border: 4px solid var(--card-bg);
   border-top: 4px solid var(--accent);
@@ -315,16 +307,4 @@ button.loading {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
-}
-
-/* Responsive para mobile en commander */
-@media (max-width: 768px) {
-  .row {
-    flex-direction: column;
-  }
-  .checkboxes {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
 }
