@@ -18,7 +18,7 @@
   </nav>
 
   <div class="container">
-    <!-- FILA SUPERIOR: Jugadores 1 y 2 -->
+    <!-- FILA SUPERIOR -->
     <div class="row">
       <!-- Colores jugador 1 -->
       <div class="checkboxes left" id="p1-colors">
@@ -36,9 +36,21 @@
 
       <!-- Controles compartidos -->
       <div class="controls-column">
-        <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-        <label><input type="checkbox" class="lock-toggle"> Lock</label>
-        <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
+        <div class="control-line">
+          <input type="checkbox" class="legendary-toggle-left" checked>
+          <span>Legendaria</span>
+          <input type="checkbox" class="legendary-toggle-right" checked>
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="lock-toggle-left">
+          <span>Lock</span>
+          <input type="checkbox" class="lock-toggle-right">
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="random-toggle-left">
+          <span>Cualquier color</span>
+          <input type="checkbox" class="random-toggle-right">
+        </div>
       </div>
 
       <!-- Carta jugador 2 -->
@@ -56,12 +68,12 @@
       </div>
     </div>
 
-    <!-- Botón central -->
+    <!-- Botón -->
     <div class="middle">
       <button id="randomize">Randomize</button>
     </div>
 
-    <!-- FILA INFERIOR: Jugadores 3 y 4 -->
+    <!-- FILA INFERIOR -->
     <div class="row">
       <!-- Colores jugador 3 -->
       <div class="checkboxes left" id="p3-colors">
@@ -79,9 +91,21 @@
 
       <!-- Controles compartidos -->
       <div class="controls-column">
-        <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-        <label><input type="checkbox" class="lock-toggle"> Lock</label>
-        <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
+        <div class="control-line">
+          <input type="checkbox" class="legendary-toggle-left" checked>
+          <span>Legendaria</span>
+          <input type="checkbox" class="legendary-toggle-right" checked>
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="lock-toggle-left">
+          <span>Lock</span>
+          <input type="checkbox" class="lock-toggle-right">
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="random-toggle-left">
+          <span>Cualquier color</span>
+          <input type="checkbox" class="random-toggle-right">
+        </div>
       </div>
 
       <!-- Carta jugador 4 -->
