@@ -7,10 +7,8 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- Botón de modo claro/oscuro -->
   <div class="theme-toggle" id="theme-toggle">🌙</div>
 
-  <!-- Menú de navegación -->
   <nav class="navbar">
     <ul>
       <li><a href="index.html">Inicio</a></li>
@@ -20,7 +18,6 @@
     </ul>
   </nav>
 
-  <!-- Contenido principal -->
   <div class="presentation">
     <div class="avatar-circle">
       <img src="jabali.png" alt="Mi Jabali" onerror="this.src='https://via.placeholder.com/200'" />
@@ -29,25 +26,6 @@
     <p>Soy desarrollador, friki de los juegos de rol y creador de herramientas como el Randomizador de Commander. Aquí iré publicando mis proyectos y cosillas que me molan.</p>
   </div>
 
-  <!-- Script del tema -->
-  <script>
-    const toggleBtn = document.getElementById('theme-toggle');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const savedTheme = localStorage.getItem('theme');
-
-    if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
-      document.body.classList.add('light-mode');
-      toggleBtn.textContent = '🌙';
-    } else {
-      toggleBtn.textContent = '☀️';
-    }
-
-    toggleBtn.addEventListener('click', () => {
-      document.body.classList.toggle('light-mode');
-      const isLight = document.body.classList.contains('light-mode');
-      localStorage.setItem('theme', isLight ? 'light' : 'dark');
-      toggleBtn.textContent = isLight ? '🌙' : '☀️';
-    });
-  </script>
+  <script src="theme.js"></script>
 </body>
 </html>
