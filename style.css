@@ -120,7 +120,7 @@ body.light-mode .slider {
   width: 100%;
   height: 100%;
   object-fit: contain; /* 🔥 Esto hace que no se recorte nada de la imagen */
-  padding: 40%;        /* 🔥 Reduce el tamaño dentro del círculo */
+  padding: 90%;        /* 🔥 Reduce el tamaño dentro del círculo */
 }
 
 .presentation h1 {
