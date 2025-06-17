@@ -9,19 +9,15 @@
 <body>
   <nav class="navbar">
     <div class="navbar-content">
-      <div class="nav-left">
-        <button class="hamburger" id="hamburger">&#9776;</button>
-      </div>
+      <div class="hamburger" id="hamburger">&#9776;</div>
       <ul class="nav-links" id="nav-links">
         <li><a href="index.html">Inicio</a></li>
         <li><a href="commander.html">Commander</a></li>
         <li><a href="#">Ilustraciones</a></li>
         <li><a href="#">Proyectos</a></li>
       </ul>
-      <div class="nav-right">
-        <div class="switch" id="theme-toggle">
-          <div class="slider"></div>
-        </div>
+      <div class="switch" id="theme-toggle">
+        <div class="slider"></div>
       </div>
     </div>
   </nav>
@@ -35,8 +31,8 @@
   </div>
 
   <script>
+    // Tema
     const toggleBtn = document.getElementById('theme-toggle');
-    const slider = toggleBtn.querySelector('.slider');
     const savedTheme = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
@@ -51,10 +47,8 @@
     });
 
     // Hamburguesa
-    const hamburger = document.getElementById('hamburger');
-    const navLinks = document.getElementById('nav-links');
-    hamburger.addEventListener('click', () => {
-      navLinks.classList.toggle('open');
+    document.getElementById("hamburger").addEventListener("click", () => {
+      document.getElementById("nav-links").classList.toggle("open");
     });
   </script>
 </body>
