@@ -3,17 +3,56 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Commander Tools</title>
+  <title>Inicio - Commander Tools</title>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    .home-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+      text-align: center;
+      margin-top: 60px;
+    }
+
+    .home-title {
+      font-size: 48px;
+      color: #fff;
+      text-shadow: 2px 2px #000;
+    }
+
+    .home-options {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .option-card {
+      background: #2e2e2e;
+      padding: 20px 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.5);
+      cursor: pointer;
+      transition: transform 0.2s ease, background 0.3s ease;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .option-card:hover {
+      transform: scale(1.05);
+      background: #4b3c7c;
+    }
+  </style>
 </head>
 <body>
-  <div class="main-menu">
-    <h1>Commander Tools</h1>
-    <p class="subtitle">Elige una herramienta para empezar</p>
-    <div class="menu-options">
-      <a href="commander.html" class="menu-button">Randomizador de Commanders</a>
-      <a href="#" class="menu-button disabled">Buscador de cartas (próximamente)</a>
-      <a href="#" class="menu-button disabled">Generador de mazos (próximamente)</a>
+  <div class="home-container">
+    <div class="home-title">Commander Tools</div>
+    <div class="home-options">
+      <a href="commander.html" class="option-card">🎲 Randomizador de Comandantes</a>
+      <a href="#" class="option-card">🧙 Generador de Lore (próximamente)</a>
+      <a href="#" class="option-card">📦 Gestor de Mazos (próximamente)</a>
     </div>
   </div>
 </body>
