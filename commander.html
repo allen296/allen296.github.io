@@ -9,128 +9,128 @@
 <body>
   <nav class="navbar">
     <div class="navbar-content">
-      <button id="menu-toggle" class="hamburger">☰</button>
-
+      <div class="nav-left">
+        <button class="hamburger" id="hamburger">&#9776;</button>
+      </div>
       <ul class="nav-links" id="nav-links">
         <li><a href="index.html">Inicio</a></li>
         <li><a href="commander.html">Commander</a></li>
         <li><a href="#">Ilustraciones</a></li>
         <li><a href="#">Proyectos</a></li>
       </ul>
-
-      <div id="theme-switch" class="switch">
-        <div class="slider"></div>
+      <div class="nav-right">
+        <div class="switch" id="theme-toggle">
+          <div class="slider"></div>
+        </div>
       </div>
     </div>
   </nav>
 
   <div class="container">
 
-    <!-- PAREJA ARRIBA -->
+    <!-- Jugadores de arriba -->
     <div class="row">
-      <!-- JUGADOR 1 -->
-      <div class="player">
+      <!-- Jugador 1 -->
+      <div class="player" id="player1">
         <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="1">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="1">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="1">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="1">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="1">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="1">C</label>
+          <label class="white"><input type="checkbox" value="W" data-color>W</label>
+          <label class="blue"><input type="checkbox" value="U" data-color>U</label>
+          <label class="black"><input type="checkbox" value="B" data-color>B</label>
+          <label class="red"><input type="checkbox" value="R" data-color>R</label>
+          <label class="green"><input type="checkbox" value="G" data-color>G</label>
+          <label class="colorless"><input type="checkbox" value="C" data-color>C</label>
         </div>
         <div class="card-section">
           <div class="image-slot" id="player1-img"></div>
         </div>
       </div>
 
-      <!-- CONTROLES CENTRALES -->
+      <!-- Controles centrales para jugador 1 y 2 -->
       <div class="controls-column">
         <div class="control-line">
-          <input type="checkbox" class="legendary-toggle" data-player="1">
+          <input type="checkbox" class="legendary-toggle" id="legendary1" checked>
           <span>Legendaria</span>
-          <input type="checkbox" class="legendary-toggle" data-player="2">
+          <input type="checkbox" class="legendary-toggle" id="legendary2" checked>
         </div>
         <div class="control-line">
-          <input type="checkbox" class="lock-toggle" data-player="1">
+          <input type="checkbox" class="lock-toggle" id="lock1">
           <span>Lock</span>
-          <input type="checkbox" class="lock-toggle" data-player="2">
+          <input type="checkbox" class="lock-toggle" id="lock2">
         </div>
         <div class="control-line">
-          <input type="checkbox" class="random-toggle" data-player="1">
+          <input type="checkbox" class="random-toggle" id="random1">
           <span>Cualquier color</span>
-          <input type="checkbox" class="random-toggle" data-player="2">
+          <input type="checkbox" class="random-toggle" id="random2">
         </div>
       </div>
 
-      <!-- JUGADOR 2 -->
-      <div class="player">
+      <!-- Jugador 2 -->
+      <div class="player" id="player2">
         <div class="card-section">
           <div class="image-slot" id="player2-img"></div>
         </div>
         <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="2">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="2">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="2">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="2">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="2">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="2">C</label>
+          <label class="white"><input type="checkbox" value="W" data-color>W</label>
+          <label class="blue"><input type="checkbox" value="U" data-color>U</label>
+          <label class="black"><input type="checkbox" value="B" data-color>B</label>
+          <label class="red"><input type="checkbox" value="R" data-color>R</label>
+          <label class="green"><input type="checkbox" value="G" data-color>G</label>
+          <label class="colorless"><input type="checkbox" value="C" data-color>C</label>
         </div>
       </div>
     </div>
 
-    <!-- BOTÓN CENTRAL -->
-    <div class="middle">
-      <button id="randomize">Randomize</button>
-    </div>
+    <!-- Botón -->
+    <div style="margin: 20px;"><button id="randomize">Randomize</button></div>
 
-    <!-- PAREJA ABAJO -->
+    <!-- Jugadores de abajo -->
     <div class="row">
-      <!-- JUGADOR 3 -->
-      <div class="player">
+      <!-- Jugador 3 -->
+      <div class="player" id="player3">
         <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="3">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="3">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="3">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="3">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="3">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="3">C</label>
+          <label class="white"><input type="checkbox" value="W" data-color>W</label>
+          <label class="blue"><input type="checkbox" value="U" data-color>U</label>
+          <label class="black"><input type="checkbox" value="B" data-color>B</label>
+          <label class="red"><input type="checkbox" value="R" data-color>R</label>
+          <label class="green"><input type="checkbox" value="G" data-color>G</label>
+          <label class="colorless"><input type="checkbox" value="C" data-color>C</label>
         </div>
         <div class="card-section">
           <div class="image-slot" id="player3-img"></div>
         </div>
       </div>
 
-      <!-- CONTROLES CENTRALES -->
+      <!-- Controles centrales para jugador 3 y 4 -->
       <div class="controls-column">
         <div class="control-line">
-          <input type="checkbox" class="legendary-toggle" data-player="3">
+          <input type="checkbox" class="legendary-toggle" id="legendary3" checked>
           <span>Legendaria</span>
-          <input type="checkbox" class="legendary-toggle" data-player="4">
+          <input type="checkbox" class="legendary-toggle" id="legendary4" checked>
         </div>
         <div class="control-line">
-          <input type="checkbox" class="lock-toggle" data-player="3">
+          <input type="checkbox" class="lock-toggle" id="lock3">
           <span>Lock</span>
-          <input type="checkbox" class="lock-toggle" data-player="4">
+          <input type="checkbox" class="lock-toggle" id="lock4">
         </div>
         <div class="control-line">
-          <input type="checkbox" class="random-toggle" data-player="3">
+          <input type="checkbox" class="random-toggle" id="random3">
           <span>Cualquier color</span>
-          <input type="checkbox" class="random-toggle" data-player="4">
+          <input type="checkbox" class="random-toggle" id="random4">
         </div>
       </div>
 
-      <!-- JUGADOR 4 -->
-      <div class="player">
+      <!-- Jugador 4 -->
+      <div class="player" id="player4">
         <div class="card-section">
           <div class="image-slot" id="player4-img"></div>
         </div>
         <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="4">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="4">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="4">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="4">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="4">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="4">C</label>
+          <label class="white"><input type="checkbox" value="W" data-color>W</label>
+          <label class="blue"><input type="checkbox" value="U" data-color>U</label>
+          <label class="black"><input type="checkbox" value="B" data-color>B</label>
+          <label class="red"><input type="checkbox" value="R" data-color>R</label>
+          <label class="green"><input type="checkbox" value="G" data-color>G</label>
+          <label class="colorless"><input type="checkbox" value="C" data-color>C</label>
         </div>
       </div>
     </div>
@@ -138,36 +138,26 @@
 
   <script src="script.js"></script>
   <script>
-    // Tema claro/oscuro
-    const themeSwitch = document.getElementById("theme-switch");
-    const slider = themeSwitch.querySelector(".slider");
+    const toggleBtn = document.getElementById('theme-toggle');
+    const slider = toggleBtn.querySelector('.slider');
     const savedTheme = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-    function setTheme(isLight) {
-      document.body.classList.toggle('light-mode', isLight);
-      localStorage.setItem('theme', isLight ? 'light' : 'dark');
+    if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
+      document.body.classList.add('light-mode');
     }
 
-    setTheme(savedTheme === 'light' || (!savedTheme && !prefersDark));
-
-    themeSwitch.addEventListener('click', () => {
-      const isLight = !document.body.classList.contains('light-mode');
-      setTheme(isLight);
+    toggleBtn.addEventListener('click', () => {
+      document.body.classList.toggle('light-mode');
+      const isLight = document.body.classList.contains('light-mode');
+      localStorage.setItem('theme', isLight ? 'light' : 'dark');
     });
 
-    // Menú hamburguesa
-    const menuToggle = document.getElementById("menu-toggle");
-    const navLinks = document.getElementById("nav-links");
-
-    menuToggle.addEventListener("click", () => {
-      navLinks.classList.toggle("open");
-    });
-
-    document.addEventListener("click", (e) => {
-      if (!menuToggle.contains(e.target) && !navLinks.contains(e.target)) {
-        navLinks.classList.remove("open");
-      }
+    // Hamburguesa
+    const hamburger = document.getElementById('hamburger');
+    const navLinks = document.getElementById('nav-links');
+    hamburger.addEventListener('click', () => {
+      navLinks.classList.toggle('open');
     });
   </script>
 </body>
