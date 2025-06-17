@@ -27,7 +27,7 @@
   </nav>
 
   <div class="container">
-    <!-- Jugadores arriba -->
+    <!-- Jugadores superiores -->
     <div class="row">
       <!-- Player 1 -->
       <div class="checkboxes">
@@ -40,6 +40,25 @@
 
       <div class="card-section" id="player1">
         <div class="image-slot" id="player1-img"></div>
+      </div>
+
+      <!-- Controles centrales superiores -->
+      <div class="controls-column">
+        <div class="control-line">
+          <input type="checkbox" class="legendary-toggle" data-player="1">
+          Legendaria
+          <input type="checkbox" class="legendary-toggle" data-player="2">
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="lock-toggle" data-player="1">
+          Lock
+          <input type="checkbox" class="lock-toggle" data-player="2">
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="random-toggle" data-player="1">
+          Cualquier color
+          <input type="checkbox" class="random-toggle" data-player="2">
+        </div>
       </div>
 
       <!-- Player 2 -->
@@ -56,42 +75,11 @@
       </div>
     </div>
 
-    <!-- Controles centrales -->
-    <div class="controls-column">
-      <div class="control-line">
-        <input type="checkbox" class="legendary-toggle" data-player="1">
-        Legendaria
-        <input type="checkbox" class="legendary-toggle" data-player="2">
-      </div>
-      <div class="control-line">
-        <input type="checkbox" class="lock-toggle" data-player="1">
-        Lock
-        <input type="checkbox" class="lock-toggle" data-player="2">
-      </div>
-      <div class="control-line">
-        <input type="checkbox" class="random-toggle" data-player="1">
-        Cualquier color
-        <input type="checkbox" class="random-toggle" data-player="2">
-      </div>
+    <div class="middle">
       <button id="randomize">Randomize</button>
-      <div class="control-line">
-        <input type="checkbox" class="legendary-toggle" data-player="3">
-        Legendaria
-        <input type="checkbox" class="legendary-toggle" data-player="4">
-      </div>
-      <div class="control-line">
-        <input type="checkbox" class="lock-toggle" data-player="3">
-        Lock
-        <input type="checkbox" class="lock-toggle" data-player="4">
-      </div>
-      <div class="control-line">
-        <input type="checkbox" class="random-toggle" data-player="3">
-        Cualquier color
-        <input type="checkbox" class="random-toggle" data-player="4">
-      </div>
     </div>
 
-    <!-- Jugadores abajo -->
+    <!-- Jugadores inferiores -->
     <div class="row">
       <!-- Player 3 -->
       <div class="checkboxes">
@@ -104,6 +92,25 @@
 
       <div class="card-section" id="player3">
         <div class="image-slot" id="player3-img"></div>
+      </div>
+
+      <!-- Controles centrales inferiores -->
+      <div class="controls-column">
+        <div class="control-line">
+          <input type="checkbox" class="legendary-toggle" data-player="3">
+          Legendaria
+          <input type="checkbox" class="legendary-toggle" data-player="4">
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="lock-toggle" data-player="3">
+          Lock
+          <input type="checkbox" class="lock-toggle" data-player="4">
+        </div>
+        <div class="control-line">
+          <input type="checkbox" class="random-toggle" data-player="3">
+          Cualquier color
+          <input type="checkbox" class="random-toggle" data-player="4">
+        </div>
       </div>
 
       <!-- Player 4 -->
@@ -123,7 +130,6 @@
 
   <script src="script.js"></script>
   <script>
-    // Tema
     const themeSwitch = document.getElementById("theme-switch");
     const icon = themeSwitch.querySelector(".icon");
     const savedTheme = localStorage.getItem('theme');
@@ -142,7 +148,6 @@
       setTheme(isLight);
     });
 
-    // Menú hamburguesa
     const menuToggle = document.getElementById("menu-toggle");
     const navLinks = document.getElementById("nav-links");
 
