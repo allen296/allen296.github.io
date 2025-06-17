@@ -285,10 +285,3 @@ button#randomize:hover {
   }
 }
 
-  .navbar-content {
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    gap: 10px;
-  }
-}
