@@ -255,11 +255,15 @@ button#randomize:hover {
 /* Responsive */
 @media (max-width: 768px) {
   .nav-links {
-    flex-direction: column;
+    flex-direction: row; /* <-- Mantener el nav horizontal */
     gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
   }
+
   .navbar-content {
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
     gap: 10px;
   }
