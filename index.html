@@ -3,104 +3,40 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Commander Randomizer</title>
+  <title>Antonio | Proyectos</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- Botón para cambiar tema -->
   <div class="theme-toggle" id="theme-toggle">🌙</div>
 
-  <div class="container">
-    <!-- Player 1 -->
-    <div class="player left" id="player1">
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player1-img"></div>
-      </div>
+  <div class="home-container">
+    <div class="home-title">Antonio Valladares</div>
+    <div class="home-subtitle">Bienvenido a mi espacio digital. Aquí iré subiendo algunos de mis proyectos personales: desarrollo web, herramientas interactivas, y cosas que me molan.</div>
+
+    <div class="home-options">
+      <a href="commander.html" class="project-card">
+        <div class="project-icon">🎲</div>
+        <div>Randomizador de Comandantes (MTG)</div>
+      </a>
+      <a href="#" class="project-card">
+        <div class="project-icon">🖼️</div>
+        <div>Galería de Ilustraciones (Próximamente)</div>
+      </a>
+      <a href="#" class="project-card">
+        <div class="project-icon">💻</div>
+        <div>Generador de Código (Próximamente)</div>
+      </a>
     </div>
 
-    <!-- Player 2 -->
-    <div class="player left" id="player2">
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player2-img"></div>
-      </div>
-    </div>
-
-    <!-- Botón central -->
-    <div class="middle">
-      <button id="randomize">Randomize</button>
-    </div>
-
-    <!-- Player 3 -->
-    <div class="player right" id="player3">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player3-img"></div>
-      </div>
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-    </div>
-
-    <!-- Player 4 -->
-    <div class="player right" id="player4">
-      <div class="card-section">
-        <div class="controls">
-          <label><input type="checkbox" class="legendary-toggle" checked> Legendaria</label>
-          <label><input type="checkbox" class="lock-toggle"> Lock</label>
-          <label><input type="checkbox" class="random-toggle"> Cualquier color</label>
-        </div>
-        <div class="image-slot" id="player4-img"></div>
-      </div>
-      <div class="checkboxes">
-        <label class="white"><input type="checkbox" value="W" data-color>W</label>
-        <label class="blue"><input type="checkbox" value="U" data-color>U</label>
-        <label class="black"><input type="checkbox" value="B" data-color>B</label>
-        <label class="red"><input type="checkbox" value="R" data-color>R</label>
-        <label class="green"><input type="checkbox" value="G" data-color>G</label>
-      </div>
-    </div>
+    <footer>
+      © 2025 Antonio Valladares. Hecho con café ☕ y JavaScript.
+    </footer>
   </div>
 
-  <!-- Script del randomizador -->
-  <script src="script.js"></script>
-
-  <!-- Script para tema claro/oscuro -->
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
-    const savedTheme = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const savedTheme = localStorage.getItem('theme');
 
     if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
       document.body.classList.add('light-mode');
