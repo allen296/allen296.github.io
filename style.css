@@ -16,7 +16,6 @@
   --circle: #000000;
 }
 
-/* -------------------- BASE -------------------- */
 body {
   background: var(--bg);
   color: var(--text);
@@ -31,7 +30,7 @@ a {
   text-decoration: none;
 }
 
-/* -------------------- NAVBAR -------------------- */
+/* NAVBAR */
 .navbar {
   position: fixed;
   top: 0;
@@ -39,16 +38,19 @@ a {
   background: var(--card-bg);
   box-shadow: 0 2px 8px rgba(0,0,0,0.4);
   z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
 }
 
 .navbar-content {
-  max-width: 1100px;
-  margin: 0 auto;
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  padding: 10px 20px;
-  gap: 20px;
+  align-items: center;
+  width: 100%;
+  max-width: 1000px;
+  padding: 0 20px;
 }
 
 .nav-links {
@@ -59,90 +61,80 @@ a {
   padding: 0;
 }
 
-.nav-links li a {
+.nav-links a {
   font-weight: bold;
   transition: color 0.3s;
 }
 
-.nav-links li a:hover {
+.nav-links a:hover {
   color: var(--accent);
 }
 
-/* -------------------- SWITCH TEMA -------------------- */
-.switch {
-  width: 50px;
-  height: 26px;
-  background: #888;
-  border-radius: 50px;
-  position: relative;
-  cursor: pointer;
-  transition: background 0.3s;
-  flex-shrink: 0;
-}
-
-.slider {
-  width: 22px;
-  height: 22px;
-  background: white;
-  border-radius: 50%;
-  position: absolute;
-  left: 2px;
-  top: 2px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 14px;
-  transition: transform 0.3s, background 0.3s;
-}
-
-.light-mode .switch {
-  background: #ccc;
-}
-
-.light-mode .slider {
-  transform: translateX(24px);
-  background: #111;
-}
-
-/* -------------------- MENÚ HAMBURGUESA -------------------- */
+/* Responsive */
 .hamburger {
   display: none;
   font-size: 24px;
   background: none;
-  color: var(--text);
   border: none;
+  color: var(--text);
   cursor: pointer;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   .hamburger {
     display: block;
   }
 
   .nav-links {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    background: var(--card-bg);
     position: absolute;
     top: 60px;
     left: 0;
-    width: 100%;
-    background: var(--card-bg);
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-    padding: 20px 0;
-    display: none;
+    right: 0;
+    padding: 10px 20px;
   }
 
   .nav-links.open {
     display: flex;
   }
-
-  .navbar-content {
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
 }
 
-/* -------------------- PRESENTACIÓN INDEX -------------------- */
+/* SWITCH */
+.switch {
+  width: 50px;
+  height: 26px;
+  background: var(--card-bg);
+  border-radius: 13px;
+  position: relative;
+  cursor: pointer;
+  margin-left: auto;
+  border: 1px solid var(--accent);
+}
+
+.slider {
+  width: 22px;
+  height: 22px;
+  background: var(--accent);
+  border-radius: 50%;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  transition: transform 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: var(--highlight);
+}
+
+body.light-mode .slider {
+  transform: translateX(24px);
+}
+
+/* PRESENTACION */
 .presentation {
   display: flex;
   flex-direction: column;
@@ -181,27 +173,28 @@ a {
   max-width: 600px;
 }
 
-/* -------------------- RANDOMIZER COMMANDER -------------------- */
+/* RANDOMIZER */
 .container {
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  padding: 20px;
   align-items: center;
+  padding: 20px;
+  gap: 40px;
 }
 
 .row {
   display: flex;
-  flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 20px;
+  flex-wrap: wrap;
 }
 
 .card-section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 
 .image-slot {
@@ -245,38 +238,33 @@ a {
   border-radius: 4px;
 }
 
-/* Estilo de colores de maná */
 .white input { accent-color: white; }
 .blue input { accent-color: #1e90ff; }
 .black input { accent-color: black; }
 .red input { accent-color: red; }
-.green input { accent-color: green; }
+green input { accent-color: green; }
 
-/* Controles intermedios */
 .controls-column {
   display: flex;
   flex-direction: column;
-  gap: 12px;
-  justify-content: center;
+  gap: 8px;
   align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background: var(--card-bg);
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
 }
 
 .control-line {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   font-size: 14px;
-  font-weight: bold;
-  background: var(--card-bg);
-  padding: 4px 8px;
-  border-radius: 6px;
 }
 
-/* Botón central */
 .middle {
-  flex-basis: 100%;
   text-align: center;
-  margin-top: 10px;
 }
 
 button#randomize {
@@ -288,13 +276,13 @@ button#randomize {
   border-radius: 8px;
   cursor: pointer;
   transition: background 0.3s;
+  margin-top: 10px;
 }
 
 button#randomize:hover {
   background: #6f57a0;
 }
 
-/* Loader animado */
 .loader {
   border: 4px solid var(--card-bg);
   border-top: 4px solid var(--accent);
