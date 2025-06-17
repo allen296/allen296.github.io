@@ -3,35 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Antonio Valladares</title>
+  <title>Antonio Valladares | Inicio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="navbar">
-    <div class="nav-title">Antonio Valladares</div>
-    <nav>
-      <a href="index.html" class="nav-link">Inicio</a>
-      <a href="commander.html" class="nav-link">Commander</a>
-      <a href="#" class="nav-link">Galería</a>
-      <a href="#" class="nav-link">Código</a>
-    </nav>
-    <div class="theme-toggle" id="theme-toggle">🌙</div>
-  </header>
+  <!-- Botón de modo claro/oscuro -->
+  <div class="theme-toggle" id="theme-toggle">🌙</div>
 
-  <main class="presentation">
-    <div class="circle-container">
-      <img src="jabali.png" alt="Jabalí" class="circle-image" />
+  <!-- Menú de navegación -->
+  <nav class="navbar">
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="commander.html">Commander</a></li>
+      <li><a href="#">Ilustraciones</a></li>
+      <li><a href="#">Proyectos</a></li>
+    </ul>
+  </nav>
+
+  <!-- Contenido principal -->
+  <div class="presentation">
+    <div class="avatar-circle">
+      <img src="jabali.png" alt="Mi Jabali" onerror="this.src='https://via.placeholder.com/200'" />
     </div>
-    <div class="intro-text">
-      <h1>¡Hola! Soy Antonio 👋</h1>
-      <p>Bienvenido a mi espacio digital, donde comparto mis proyectos personales. Desde herramientas de Magic hasta código experimental. Explora y echa un vistazo a lo que voy creando.</p>
-    </div>
-  </main>
+    <h1>¡Buenas! Soy Antonio Valladares</h1>
+    <p>Soy desarrollador, friki de los juegos de rol y creador de herramientas como el Randomizador de Commander. Aquí iré publicando mis proyectos y cosillas que me molan.</p>
+  </div>
 
-  <footer>
-    © 2025 Antonio Valladares. Hecho con café ☕ y JavaScript.
-  </footer>
-
+  <!-- Script del tema -->
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
