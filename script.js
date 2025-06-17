@@ -1,24 +1,20 @@
 document.getElementById("randomize").addEventListener("click", async () => {
-  const players = [
-    { id: "player1", side: "left" },
-    { id: "player2", side: "right" },
-    { id: "player3", side: "left" },
-    { id: "player4", side: "right" }
-  ];
+  const players = [1, 2, 3, 4];
 
   const button = document.getElementById("randomize");
   button.classList.add("loading");
   button.textContent = "Cargando...";
 
-  const promises = players.map(({ id, side }) => {
+  const promises = players.map(n => {
+    const id = `player${n}`;
     const slot = document.getElementById(`${id}-img`);
-    const colorBox = document.querySelector(`#${id.replace("player", "p")}-colors`);
+    const colorBox = document.querySelector(`#p${n}-colors`);
     const colors = [...colorBox.querySelectorAll("input[data-color]:checked")]
       .map(c => c.value).sort().join("");
 
-    const legendary = document.querySelector(`.legendary-toggle-${side}`).checked;
-    const locked = document.querySelector(`.lock-toggle-${side}`).checked;
-    const randomAny = document.querySelector(`.random-toggle-${side}`).checked;
+    const legendary = document.querySelector(`.legendary-toggle-${id}`).checked;
+    const locked = document.querySelector(`.lock-toggle-${id}`).checked;
+    const randomAny = document.querySelector(`.random-toggle-${id}`).checked;
 
     if (locked) return Promise.resolve();
 
