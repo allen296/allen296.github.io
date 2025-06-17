@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -7,9 +7,10 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="container">
+  <div class="theme-toggle" id="theme-toggle">🌙</div>
 
-    <!-- PLAYER 1 -->
+  <div class="container">
+    <!-- Player 1 -->
     <div class="player left" id="player1">
       <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
@@ -28,7 +29,7 @@
       </div>
     </div>
 
-    <!-- PLAYER 2 -->
+    <!-- Player 2 -->
     <div class="player left" id="player2">
       <div class="checkboxes">
         <label class="white"><input type="checkbox" value="W" data-color>W</label>
@@ -51,7 +52,7 @@
       <button id="randomize">Randomize</button>
     </div>
 
-    <!-- PLAYER 3 -->
+    <!-- Player 3 -->
     <div class="player right" id="player3">
       <div class="card-section">
         <div class="controls">
@@ -70,7 +71,7 @@
       </div>
     </div>
 
-    <!-- PLAYER 4 -->
+    <!-- Player 4 -->
     <div class="player right" id="player4">
       <div class="card-section">
         <div class="controls">
@@ -89,6 +90,26 @@
       </div>
     </div>
   </div>
+
   <script src="script.js"></script>
+  <script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    const savedTheme = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
+      document.body.classList.add('light-mode');
+      toggleBtn.textContent = '🌙';
+    } else {
+      toggleBtn.textContent = '☀️';
+    }
+
+    toggleBtn.addEventListener('click', () => {
+      document.body.classList.toggle('light-mode');
+      const isLight = document.body.classList.contains('light-mode');
+      localStorage.setItem('theme', isLight ? 'light' : 'dark');
+      toggleBtn.textContent = isLight ? '🌙' : '☀️';
+    });
+  </script>
 </body>
 </html>
