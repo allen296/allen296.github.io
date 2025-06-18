@@ -210,6 +210,11 @@ body.light-mode .slider {
   transform-style: preserve-3d;
 }
 
+.card-container:hover .card-flip {
+  will-change: transform;
+}
+
+
 .card-container.flipped .card-flip {
   transform: rotateY(180deg);
 }
