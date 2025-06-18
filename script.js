@@ -48,4 +48,23 @@ document.getElementById("randomize").addEventListener("click", async () => {
   // ✅ Reactivar el botón
   button.disabled = false;
   button.textContent = "Randomize";
+
+  // --- Código para ocultar navbar al hacer scroll ---
+  let lastScrollTop = 0;
+  const navbar = document.querySelector('.navbar');
+
+  window.addEventListener('scroll', () => {
+    const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+
+    if (currentScroll > lastScrollTop) {
+    // Estás bajando: ocultar navbar
+      navbar.classList.add('hide');
+    } else {
+    // Estás subiendo: mostrar navbar
+      navbar.classList.remove('hide');
+    }
+
+  lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+});
+
 });

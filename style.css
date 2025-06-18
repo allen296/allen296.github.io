@@ -55,6 +55,16 @@ a {
   flex-wrap: wrap;                 /* Que se acomode en móvil */
 }
 
+/* Animación al ocultar navbar */
+.navbar.hide {
+  transform: translateY(-100%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.navbar {
+  transition: transform 0.3s ease-in-out;
+}
+
 .nav-links {
   display: flex;
   gap: 40px;
