@@ -85,7 +85,7 @@ a {
 .slider {
   width: 22px;
   height: 22px;
-  background: #b0b0b0;
+  background: var(--accent);
   border-radius: 50%;
   transition: transform 0.3s ease;
 }
