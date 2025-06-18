@@ -74,12 +74,14 @@ a {
 }
 
 .navbar a {
-  font-weight: bold;
-  transition: color 0.3s;
+  font-weight: 500;
+  transition: transform 0.2s ease, font-weight 0.2s ease;
+  display: inline-block;
 }
 
 .navbar a:hover {
-  color: var(--accent);
+  transform: scale(1.08);
+  font-weight: 600;
 }
 
 .switch {
