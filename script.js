@@ -1,6 +1,9 @@
+// -------------------------
+// Randomize logic
+// -------------------------
 document.getElementById("randomize").addEventListener("click", async () => {
   const button = document.getElementById("randomize");
-  button.disabled = true; // ⛔ Evitar spam
+  button.disabled = true;
   button.textContent = "Cargando...";
 
   const players = [1, 2, 3, 4];
@@ -44,27 +47,25 @@ document.getElementById("randomize").addEventListener("click", async () => {
   });
 
   await Promise.all(promises);
-
-  // ✅ Reactivar el botón
   button.disabled = false;
   button.textContent = "Randomize";
-
-  // --- Código para ocultar navbar al hacer scroll ---
-  let lastScrollTop = 0;
-  const navbar = document.querySelector('.navbar');
-
-  window.addEventListener('scroll', () => {
-    const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
-
-    if (currentScroll > lastScrollTop) {
-    // Estás bajando: ocultar navbar
-      navbar.classList.add('hide');
-    } else {
-    // Estás subiendo: mostrar navbar
-      navbar.classList.remove('hide');
-    }
-
-  lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
 });
 
+
+// -------------------------
+// Ocultar navbar al hacer scroll
+// -------------------------
+let lastScrollTop = 0;
+const navbar = document.querySelector('.navbar');
+
+window.addEventListener('scroll', () => {
+  const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+
+  if (currentScroll > lastScrollTop) {
+    navbar.classList.add('hide');
+  } else {
+    navbar.classList.remove('hide');
+  }
+
+  lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
 });
