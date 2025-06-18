@@ -77,9 +77,13 @@ players.forEach(num => {
   const frontImg = container.querySelector(".card-front img");
   const flipWrapper = container; // ya es card-container
 
-  // Girar de nuevo al dorso antes de cambiar la imagen
+  // Reiniciar animación: quitar flipped, forzar reflujo, poner unflipped
   flipWrapper.classList.remove("flipped");
+  flipWrapper.classList.remove("unflipped");
+  void flipWrapper.offsetWidth; // 🔧 forzar reflow
   flipWrapper.classList.add("unflipped");
+
+  // Vaciar imagen mientras se gira al dorso
   frontImg.src = "";
 
   const promise = new Promise(resolve => {
@@ -101,98 +105,17 @@ players.forEach(num => {
           container.innerHTML += `<span style="color:red;">Error</span>`;
           resolve();
         });
-    }, 800); // esperar a que termine la animación de vuelta al dorso
+    }, 800); // espera a que termine el 'unflip'
   });
 
   imageLoads.push(promise);
 });
+
 
 // Esperar a que todas las cartas hayan cargado y girado
 await Promise.all(imageLoads);
 button.disabled = false;
 button.textContent = "Randomize";
 
-    /*players.forEach(num => {
-      const locked = document.getElementById(`lock${num}`).checked;
-      if (locked) return;
-
-      const randomAny = document.getElementById(`random${num}`).checked;
-      const legendary = document.getElementById(`legendary${num}`).checked;
-
-      const colors = [...document.querySelectorAll(`input[data-color][data-player="${num}"]:checked`)]
-        .map(c => c.value)
-        .sort()
-        .join("");
-
-      let query = legendary
-        ? "is:commander legal:commander (type:creature or type:planeswalker)"
-        : "legal:commander type:creature";
-
-      if (!randomAny && colors) {
-        query += ` identity<=${colors}`;
-      }
-
-      const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
-      const container = document.getElementById(`player${num}-img`);
-      const frontImg = container.querySelector(".card-front img");
-      const flipWrapper = container; // Ya es la card-container
-
-      // Reiniciar animación si ya estaba girada
-      //flipWrapper.classList.remove("flipped");
-      //frontImg.src = "";
-      
-      // Primero gira la carta de vuelta al dorso
-      flipWrapper.classList.remove("flipped");
-      flipWrapper.classList.add("unflipped");
-
-      // Espera a que termine la animación (0.8s) antes de cargar la nueva carta
-      setTimeout(() => {
-      const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
-      frontImg.src = ""; // Limpia la imagen vieja
-
-      fetch(url)
-        .then(res => res.json())
-        .then(data => {
-      const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-      frontImg.src = imageUrl;
-
-      frontImg.onload = () => {
-        flipWrapper.classList.remove("unflipped");
-        flipWrapper.classList.add("flipped");
-      };
-    })
-    .catch(() => {
-      frontImg.src = "";
-      container.innerHTML += `<span style="color:red;">Error</span>`;
-        });
-      }, 800); // Espera a que la carta se vuelva a cerrar antes de seguir
-
-      
-      container.classList.add("loading");
-
-      promises.push(
-        fetch(url)
-          .then(res => res.json())
-          .then(data => {
-            const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-            frontImg.src = imageUrl;
-
-            frontImg.onload = () => {
-              flipWrapper.classList.add("flipped");
-              container.classList.remove("loading");
-            };
-          })
-          .catch(() => {
-            frontImg.src = "";
-            container.classList.remove("loading");
-            container.innerHTML += `<span style="color:red;">Error</span>`;
-          })
-      );
-    });
-
-    await Promise.all(promises);
-    button.disabled = false;
-    button.textContent = "Randomize";
-    */
   });
 }
