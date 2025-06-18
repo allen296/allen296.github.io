@@ -183,8 +183,8 @@ body.light-mode .slider {
 
 .card-container {
   perspective: 1000px;
-  width: 223px;   /* Tamaño estándar de carta Magic */
-  height: 310px;
+  width: 250px;   /* Aumentado un poco el tamaño de carta */
+  height: 350px;
   margin: auto;
 }
 
