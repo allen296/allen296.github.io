@@ -50,8 +50,69 @@ if (randomizeButton) {
 
     const players = [1, 2, 3, 4];
     const promises = [];
+    const imageLoads = [];
 
-    players.forEach(num => {
+players.forEach(num => {
+  const locked = document.getElementById(`lock${num}`).checked;
+  if (locked) return;
+
+  const randomAny = document.getElementById(`random${num}`).checked;
+  const legendary = document.getElementById(`legendary${num}`).checked;
+
+  const colors = [...document.querySelectorAll(`input[data-color][data-player="${num}"]:checked`)]
+    .map(c => c.value)
+    .sort()
+    .join("");
+
+  let query = legendary
+    ? "is:commander legal:commander (type:creature or type:planeswalker)"
+    : "legal:commander type:creature";
+
+  if (!randomAny && colors) {
+    query += ` identity<=${colors}`;
+  }
+
+  const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
+  const container = document.getElementById(`player${num}-img`);
+  const frontImg = container.querySelector(".card-front img");
+  const flipWrapper = container; // ya es card-container
+
+  // Girar de nuevo al dorso antes de cambiar la imagen
+  flipWrapper.classList.remove("flipped");
+  flipWrapper.classList.add("unflipped");
+  frontImg.src = "";
+
+  const promise = new Promise(resolve => {
+    setTimeout(() => {
+      fetch(url)
+        .then(res => res.json())
+        .then(data => {
+          const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+          frontImg.src = imageUrl;
+
+          frontImg.onload = () => {
+            flipWrapper.classList.remove("unflipped");
+            flipWrapper.classList.add("flipped");
+            resolve();
+          };
+        })
+        .catch(() => {
+          frontImg.src = "";
+          container.innerHTML += `<span style="color:red;">Error</span>`;
+          resolve();
+        });
+    }, 800); // esperar a que termine la animación de vuelta al dorso
+  });
+
+  imageLoads.push(promise);
+});
+
+// Esperar a que todas las cartas hayan cargado y girado
+await Promise.all(imageLoads);
+button.disabled = false;
+button.textContent = "Randomize";
+
+    /*players.forEach(num => {
       const locked = document.getElementById(`lock${num}`).checked;
       if (locked) return;
 
@@ -132,5 +193,6 @@ if (randomizeButton) {
     await Promise.all(promises);
     button.disabled = false;
     button.textContent = "Randomize";
+    */
   });
 }

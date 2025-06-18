@@ -21,7 +21,8 @@ body {
   color: var(--text);
   font-family: sans-serif;
   margin: 0;
-  padding-top: 60px; /* Aumentado para que el contenido no se pise con el nav fijo */
+  padding-top: 60px;
+  /* Aumentado para que el contenido no se pise con el nav fijo */
   transition: background 0.3s, color 0.3s;
   overflow-x: hidden;
 }
@@ -36,7 +37,7 @@ a {
   top: 0;
   width: 100%;
   background: var(--card-bg);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
   z-index: 999;
   display: flex;
   justify-content: center;
@@ -46,13 +47,17 @@ a {
 
 .navbar-content {
   display: flex;
-  justify-content: center;         /* ✅ Centra todo */
+  justify-content: center;
+  /* ✅ Centra todo */
   align-items: center;
-  gap: 40px;                       /* Espacio entre elementos */
+  gap: 40px;
+  /* Espacio entre elementos */
   width: 100%;
   max-width: 1100px;
-  text-align: center;              /* Por si acaso */
-  flex-wrap: wrap;                 /* Que se acomode en móvil */
+  text-align: center;
+  /* Por si acaso */
+  flex-wrap: wrap;
+  /* Que se acomode en móvil */
 }
 
 /* Animación al ocultar navbar */
@@ -81,20 +86,24 @@ a {
 /* Solo en escritorio */
 @media (hover: hover) and (pointer: fine) {
   body:not(.light-mode) .navbar a:hover {
-    text-shadow: 0 0 3px rgba(255, 255, 255, 0.6); /* Blanco más difuso */
+    text-shadow: 0 0 3px rgba(255, 255, 255, 0.6);
+    /* Blanco más difuso */
   }
 
   body.light-mode .navbar a:hover {
-    text-shadow: 0 0 2px rgba(0, 0, 0, 0.4); /* Sombra oscura sutil */
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    /* Sombra oscura sutil */
   }
 }
 
 .switch {
   width: 50px;
   height: 26px;
-  background: var(--card-bg); /* 🔥 Fondo igual que el navbar según modo */
+  background: var(--card-bg);
+  /* 🔥 Fondo igual que el navbar según modo */
   border-radius: 50px;
-  border: 2px solid #b0b0b0;  /* 🔥 Borde gris oscurito */
+  border: 2px solid #b0b0b0;
+  /* 🔥 Borde gris oscurito */
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -105,7 +114,8 @@ a {
 .slider {
   width: 22px;
   height: 22px;
-  background: #b0b0b0;        /* 🔥 Pelotita del mismo color que el borde */
+  background: #b0b0b0;
+  /* 🔥 Pelotita del mismo color que el borde */
   border-radius: 50%;
   transition: transform 0.3s ease, background 0.3s ease;
 }
@@ -124,8 +134,10 @@ body.light-mode .slider {
 }
 
 .avatar-circle {
-  width: min(40vw, 300px);  /* Se adapta al ancho de pantalla, hasta 300px */
-  aspect-ratio: 1 / 1;       /* Siempre cuadrado */
+  width: min(40vw, 300px);
+  /* Se adapta al ancho de pantalla, hasta 300px */
+  aspect-ratio: 1 / 1;
+  /* Siempre cuadrado */
   border-radius: 50%;
   background: var(--circle);
   display: flex;
@@ -133,14 +145,15 @@ body.light-mode .slider {
   align-items: center;
   overflow: hidden;
   margin-bottom: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .avatar-circle img {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  transform: scale(0.75); /* 🔥 Reduce el tamaño sin tocar el padding */
+  transform: scale(0.75);
+  /* 🔥 Reduce el tamaño sin tocar el padding */
 }
 
 .presentation h1 {
@@ -183,7 +196,8 @@ body.light-mode .slider {
 
 .card-container {
   perspective: 1000px;
-  width: 250px;   /* Aumentado un poco el tamaño de carta */
+  width: 250px;
+  /* Aumentado un poco el tamaño de carta */
   height: 350px;
   margin: auto;
 }
@@ -227,6 +241,20 @@ body.light-mode .slider {
   transform: rotateY(180deg);
 }
 
+@media (max-width: 768px) {
+  .card-container {
+    width: 180px;
+    height: 252px;
+  }
+
+  .card-back img,
+  .card-front img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+
 /* ===============================
    OPCIONAL: Estilo responsive suave
    =============================== */
@@ -247,7 +275,7 @@ body.light-mode .slider {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   position: relative;
 }
 
@@ -260,7 +288,9 @@ body.light-mode .slider {
 }
 
 @keyframes fadeIn {
-  to { opacity: 1; }
+  to {
+    opacity: 1;
+  }
 }
 
 .checkboxes {
@@ -279,19 +309,39 @@ body.light-mode .slider {
   border-radius: 4px;
 }
 
-.white input { accent-color: white; }
-.blue input { accent-color: #1e90ff; }
-.black input { accent-color: black; }
-.red input { accent-color: red; }
-.green input { accent-color: green; }
-.colorless input { accent-color: gray; }
+.white input {
+  accent-color: white;
+}
+
+.blue input {
+  accent-color: #1e90ff;
+}
+
+.black input {
+  accent-color: black;
+}
+
+.red input {
+  accent-color: red;
+}
+
+.green input {
+  accent-color: green;
+}
+
+.colorless input {
+  accent-color: gray;
+}
 
 .controls-column {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* 🔥 Centrado vertical */
-  gap: 20px;               /* Más espacio entre líneas */
-  min-height: 100%;        /* Ocupa el alto de la fila */
+  justify-content: center;
+  /* 🔥 Centrado vertical */
+  gap: 20px;
+  /* Más espacio entre líneas */
+  min-height: 100%;
+  /* Ocupa el alto de la fila */
 }
 
 .control-line {
@@ -305,7 +355,8 @@ body.light-mode .slider {
 button#randomize {
   padding: 12px 24px;
   font-size: 18px;
-  background: #c0c0c0;     /* Por defecto (modo claro) */
+  background: #c0c0c0;
+  /* Por defecto (modo claro) */
   color: var(--text);
   border: none;
   border-radius: 8px;
@@ -314,7 +365,8 @@ button#randomize {
 }
 
 body:not(.light-mode) button#randomize {
-  background: #888888;     /* Gris más oscuro para modo oscuro */
+  background: #888888;
+  /* Gris más oscuro para modo oscuro */
 }
 
 button#randomize:hover {
@@ -323,7 +375,8 @@ button#randomize:hover {
 }
 
 body:not(.light-mode) button#randomize:hover {
-  background: #777777;     /* Hover aún más oscuro en modo oscuro */
+  background: #777777;
+  /* Hover aún más oscuro en modo oscuro */
 }
 
 .middle {
@@ -343,8 +396,13 @@ body:not(.light-mode) button#randomize:hover {
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 /* Responsive */
