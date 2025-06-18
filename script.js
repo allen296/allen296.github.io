@@ -77,8 +77,36 @@ if (randomizeButton) {
       const flipWrapper = container; // Ya es la card-container
 
       // Reiniciar animación si ya estaba girada
+      //flipWrapper.classList.remove("flipped");
+      //frontImg.src = "";
+      
+      // Primero gira la carta de vuelta al dorso
       flipWrapper.classList.remove("flipped");
+      flipWrapper.classList.add("unflipped");
+
+      // Espera a que termine la animación (0.8s) antes de cargar la nueva carta
+      setTimeout(() => {
+      const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
+      frontImg.src = ""; // Limpia la imagen vieja
+
+      fetch(url)
+        .then(res => res.json())
+        .then(data => {
+      const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+      frontImg.src = imageUrl;
+
+      frontImg.onload = () => {
+        flipWrapper.classList.remove("unflipped");
+        flipWrapper.classList.add("flipped");
+      };
+    })
+    .catch(() => {
       frontImg.src = "";
+      container.innerHTML += `<span style="color:red;">Error</span>`;
+        });
+      }, 800); // Espera a que la carta se vuelva a cerrar antes de seguir
+
+      
       container.classList.add("loading");
 
       promises.push(

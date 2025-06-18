@@ -200,6 +200,11 @@ body.light-mode .slider {
   transform: rotateY(180deg);
 }
 
+.card-container.unflipped .card-flip {
+  transform: rotateY(0deg);
+}
+
+
 .card-back,
 .card-front {
   position: absolute;
