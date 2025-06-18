@@ -120,7 +120,7 @@ body.light-mode .slider {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  transform: scale(0.5); /* 🔥 Reduce el tamaño sin tocar el padding */
+  transform: scale(0.75); /* 🔥 Reduce el tamaño sin tocar el padding */
 }
 
 .presentation h1 {
