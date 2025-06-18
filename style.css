@@ -80,9 +80,12 @@ a {
   will-change: transform;
 }
 
-.navbar a:hover {
-  transform: scale(1.08);
-  font-weight: 600;
+/* Solo aplicar el hover si la pantalla es ancha */
+@media (hover: hover) and (pointer: fine) {
+  .navbar a:hover {
+    transform: scale(1.08);
+    font-weight: 600;
+  }
 }
 
 .switch {
