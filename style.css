@@ -46,10 +46,13 @@ a {
 
 .navbar-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;         /* ✅ Centra todo */
   align-items: center;
+  gap: 40px;                       /* Espacio entre elementos */
   width: 100%;
   max-width: 1100px;
+  text-align: center;              /* Por si acaso */
+  flex-wrap: wrap;                 /* Que se acomode en móvil */
 }
 
 .nav-links {
