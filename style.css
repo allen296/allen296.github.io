@@ -177,6 +177,62 @@ body.light-mode .slider {
   gap: 8px;
 }
 
+/* ===============================
+   ANIMACIÓN DE GIRO DE CARTAS
+   =============================== */
+
+.card-container {
+  perspective: 1000px;
+  width: 223px;   /* Tamaño estándar de carta Magic */
+  height: 310px;
+  margin: auto;
+}
+
+.card-flip {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition: transform 0.8s ease;
+  transform-style: preserve-3d;
+}
+
+.card-container.flipped .card-flip {
+  transform: rotateY(180deg);
+}
+
+.card-back,
+.card-front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card-back img,
+.card-front img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-front {
+  transform: rotateY(180deg);
+}
+
+/* ===============================
+   OPCIONAL: Estilo responsive suave
+   =============================== */
+@media (max-width: 768px) {
+  .card-container {
+    width: 160px;
+    height: 222px;
+  }
+}
+
+
 .image-slot {
   width: 260px;
   height: 366px;

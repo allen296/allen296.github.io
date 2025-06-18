@@ -72,18 +72,31 @@ if (randomizeButton) {
       }
 
       const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
-      const slot = document.getElementById(`player${num}-img`);
-      slot.innerHTML = `<div class="loader"></div>`;
+      const container = document.getElementById(`player${num}-img`);
+      const frontImg = container.querySelector(".card-front img");
+      const flipWrapper = container.querySelector(".card-container");
+
+      // Reiniciar animación si ya estaba girada
+      flipWrapper.classList.remove("flipped");
+      frontImg.src = "";
+      container.classList.add("loading");
 
       promises.push(
         fetch(url)
           .then(res => res.json())
           .then(data => {
             const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-            slot.innerHTML = `<img src="${imageUrl}" alt="${data.name}" />`;
+            frontImg.src = imageUrl;
+
+            frontImg.onload = () => {
+              flipWrapper.classList.add("flipped");
+              container.classList.remove("loading");
+            };
           })
           .catch(() => {
-            slot.innerHTML = `<span style="color:red;">Error</span>`;
+            frontImg.src = "";
+            container.classList.remove("loading");
+            container.innerHTML += `<span style="color:red;">Error</span>`;
           })
       );
     });
