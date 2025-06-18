@@ -233,7 +233,7 @@ button#randomize {
 }
 
 button#randomize:hover {
-  background: #6f57a0;
+  background: var(--card-bg);
 }
 
 .middle {
