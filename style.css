@@ -216,8 +216,8 @@ body.light-mode .slider {
 
 .card-container.unflipped .card-flip {
   transform: rotateY(0deg);
+  transition: transform 0.8s ease;
 }
-
 
 .card-back,
 .card-front {
