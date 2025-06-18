@@ -49,7 +49,6 @@ if (randomizeButton) {
     button.textContent = "Cargando...";
 
     const players = [1, 2, 3, 4];
-    const promises = [];
     const imageLoads = [];
 
     players.forEach(num => {
@@ -68,21 +67,20 @@ if (randomizeButton) {
         ? "is:commander legal:commander (type:creature or type:planeswalker)"
         : "legal:commander type:creature";
 
-      if (!randomAny && colors) {
-        query += ` identity<=${colors}`;
+      if (colors) {
+        const identityOperator = randomAny ? "<=" : "=";
+        query += ` identity${identityOperator}${colors}`;
       }
 
       const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
       const container = document.getElementById(`player${num}-img`);
       const frontImg = container.querySelector(".card-front img");
-      const flipWrapper = container; // ya es card-container
+      const flipWrapper = container;
 
-      // Reiniciar animación: quitar flipped, forzar reflujo, poner unflipped
-      flipWrapper.classList.remove("flipped");
-      flipWrapper.classList.remove("unflipped");
-      void flipWrapper.offsetWidth; // 🔧 forzar reflow
+      // Reiniciar animación
+      flipWrapper.classList.remove("flipped", "unflipped");
+      void flipWrapper.offsetWidth;
       flipWrapper.classList.add("unflipped");
-
 
       const promise = new Promise(resolve => {
         setTimeout(() => {
@@ -91,7 +89,6 @@ if (randomizeButton) {
             .then(data => {
               const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
 
-              // Esperar un pelín para asegurarse que la carta está de espaldas antes de cambiar la imagen
               setTimeout(() => {
                 frontImg.src = imageUrl;
 
@@ -100,25 +97,21 @@ if (randomizeButton) {
                   flipWrapper.classList.add("flipped");
                   resolve();
                 };
-              }, 100); // pequeño retardo tras el unflip
+              }, 100);
             })
             .catch(() => {
               frontImg.src = "";
               container.innerHTML += `<span style="color:red;">Error</span>`;
               resolve();
             });
-        }, 800); // espera a que termine el 'unflip'
+        }, 800);
       });
-
 
       imageLoads.push(promise);
     });
 
-
-    // Esperar a que todas las cartas hayan cargado y girado
     await Promise.all(imageLoads);
     button.disabled = false;
     button.textContent = "Randomize";
-
   });
 }
