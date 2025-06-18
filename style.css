@@ -2,7 +2,7 @@
   --bg: #121212;
   --text: #ffffff;
   --card-bg: #2e2e2e;
-  --accent: #4b3c7c;
+  --accent: #b0b0b0;
   --highlight: #ffffff;
   --circle: #ffffff;
 }
@@ -74,7 +74,7 @@ a {
   height: 26px;
   background: var(--card-bg); 
   border-radius: 50px;
-  border: 2px solid #b0b0b0;
+  border: 2px solid var(--accent);
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -85,7 +85,7 @@ a {
 .slider {
   width: 22px;
   height: 22px;
-  background: #b0b0b0;
+  background: var(--accent);
   border-radius: 50%;
   transition: transform 0.3s ease;
 }
