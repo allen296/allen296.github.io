@@ -75,13 +75,13 @@ a {
 
 .navbar a {
   font-weight: 500;
-  transition: font-weight 0.2s ease;
+  transition: text-shadow 0.2s ease;
 }
 
-/* Solo en escritorio (con puntero y hover real) */
+/* Solo en escritorio */
 @media (hover: hover) and (pointer: fine) {
   .navbar a:hover {
-    font-weight: 700;
+    text-shadow: 0 0 0.7px currentColor;
   }
 }
 
