@@ -75,16 +75,13 @@ a {
 
 .navbar a {
   font-weight: 500;
-  transition: transform 0.2s ease, font-weight 0.2s ease;
-  display: inline-block;
-  will-change: transform;
+  transition: font-weight 0.2s ease;
 }
 
-/* Solo aplicar el hover si la pantalla es ancha */
+/* Solo en escritorio (con puntero y hover real) */
 @media (hover: hover) and (pointer: fine) {
   .navbar a:hover {
-    transform: scale(1.08);
-    font-weight: 600;
+    font-weight: 700;
   }
 }
 
