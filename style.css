@@ -265,15 +265,17 @@ body.light-mode .slider {
    =============================== */
 @media (max-width: 768px) {
   .card-container {
-    width: 160px;
-    height: 222px;
+    width: 100%;
+    max-width: 180px;
+    aspect-ratio: 5 / 7;
   }
 }
 
 
 .image-slot {
-  width: 260px;
-  height: 366px;
+  width: 100%;
+  max-width: 250px; /* igual que .card-container en escritorio */
+  aspect-ratio: 5 / 7; /* mantiene la proporción como una carta */
   background: var(--card-bg);
   border-radius: 8px;
   overflow: hidden;
@@ -283,6 +285,7 @@ body.light-mode .slider {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   position: relative;
 }
+
 
 .image-slot img {
   width: 100%;
