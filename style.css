@@ -72,22 +72,22 @@ a {
 .switch {
   width: 50px;
   height: 26px;
-  background: #b0b0b0; /* gris más oscuro que #d3d3d3 */
+  background: var(--card-bg); /* 🔥 Fondo igual que el navbar según modo */
   border-radius: 50px;
-  border: 2px solid #b0b0b0;
+  border: 2px solid #b0b0b0;  /* 🔥 Borde gris oscurito */
   display: flex;
   align-items: center;
   cursor: pointer;
   padding: 2px;
-  transition: background 0.3s;
+  transition: background 0.3s, border 0.3s;
 }
 
 .slider {
   width: 22px;
   height: 22px;
-  background: var(--accent);
+  background: #b0b0b0;        /* 🔥 Pelotita del mismo color que el borde */
   border-radius: 50%;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, background 0.3s ease;
 }
 
 body.light-mode .slider {
