@@ -224,16 +224,18 @@ body.light-mode .slider {
 button#randomize {
   padding: 12px 24px;
   font-size: 18px;
-  background: var(--accent);
-  color: var(--text);
+  background: #c0c0c0;     /* Gris neutro, visible en ambos modos */
+  color: var(--text);      /* Se adapta al modo claro/oscuro */
   border: none;
   border-radius: 8px;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: all 0.3s ease;
 }
 
+
 button#randomize:hover {
-  background: #6f57a0;
+  background: #b0b0b0;     /* Un poco más oscuro al pasar el ratón */
+  transform: scale(1.03);  /* Efecto visual suave */
 }
 
 .middle {
