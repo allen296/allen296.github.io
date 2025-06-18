@@ -150,21 +150,6 @@
 
 
   <script src="script.js"></script>
-  <script>
-    const toggleBtn = document.getElementById('theme-toggle');
-    const slider = toggleBtn.querySelector('.slider');
-    const savedTheme = localStorage.getItem('theme');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-    if (savedTheme === 'light' || (!savedTheme && !prefersDark)) {
-      document.body.classList.add('light-mode');
-    }
-
-    toggleBtn.addEventListener('click', () => {
-      document.body.classList.toggle('light-mode');
-      const isLight = document.body.classList.contains('light-mode');
-      localStorage.setItem('theme', isLight ? 'light' : 'dark');
-    });
-  </script>
 </body>
 </html>
