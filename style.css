@@ -80,8 +80,12 @@ a {
 
 /* Solo en escritorio */
 @media (hover: hover) and (pointer: fine) {
-  .navbar a:hover {
-    text-shadow: 0 0 0.7px currentColor;
+  body:not(.light-mode) .navbar a:hover {
+    text-shadow: 0 0 3px rgba(255, 255, 255, 0.6); /* Blanco más difuso */
+  }
+
+  body.light-mode .navbar a:hover {
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.4); /* Sombra oscura sutil */
   }
 }
 
