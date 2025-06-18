@@ -275,8 +275,7 @@ body:not(.light-mode) button#randomize:hover {
   .navbar-content {
     flex-direction: column;
     align-items: center;
-    gap: 10px;
-    flex-wrap: wrap;
+    gap: 16px;
     padding: 10px;
   }
 
@@ -294,10 +293,11 @@ body:not(.light-mode) button#randomize:hover {
   }
 
   .switch {
-    margin-top: 10px;
     align-self: center;
+    margin-top: 10px;
   }
+
   .row {
-  align-items: stretch; /* 🔥 Que todos los hijos ocupen el mismo alto */
-}
+    align-items: stretch;
+  }
 }
