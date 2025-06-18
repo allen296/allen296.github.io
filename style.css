@@ -274,17 +274,19 @@ body.light-mode .slider {
 
 .image-slot {
   width: 100%;
+  max-width: 270px; /* o lo que quieras, más que 250px */
   aspect-ratio: 5 / 7;
-  max-width: 250px;
   background: var(--card-bg);
   border-radius: 8px;
-  overflow: hidden;
+  overflow: visible; /* 🔥 Esto es clave */
   display: flex;
   justify-content: center;
   align-items: center;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   position: relative;
+  padding: 10px; /* 🔥 Un poco de espacio extra si lo quieres más amplio */
 }
+
 
 
 
