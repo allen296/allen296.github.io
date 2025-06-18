@@ -224,18 +224,25 @@ body.light-mode .slider {
 button#randomize {
   padding: 12px 24px;
   font-size: 18px;
-  background: #c0c0c0;     /* Gris neutro, visible en ambos modos */
-  color: var(--text);      /* Se adapta al modo claro/oscuro */
+  background: #c0c0c0;     /* Por defecto (modo claro) */
+  color: var(--text);
   border: none;
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 
+body:not(.light-mode) button#randomize {
+  background: #888888;     /* Gris más oscuro para modo oscuro */
+}
 
 button#randomize:hover {
-  background: #b0b0b0;     /* Un poco más oscuro al pasar el ratón */
-  transform: scale(1.03);  /* Efecto visual suave */
+  background: #b0b0b0;
+  transform: scale(1.03);
+}
+
+body:not(.light-mode) button#randomize:hover {
+  background: #777777;     /* Hover aún más oscuro en modo oscuro */
 }
 
 .middle {
