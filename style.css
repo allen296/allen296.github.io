@@ -277,8 +277,9 @@ body.light-mode .slider {
 
 
 .image-slot {
-  width: 260px;
-  height: 366px;
+  width: 100%;
+  max-width: 260px;
+  aspect-ratio: 5 / 7;
   background: var(--card-bg);
   border-radius: 8px;
   overflow: hidden;
@@ -288,6 +289,7 @@ body.light-mode .slider {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   position: relative;
 }
+
 
 
 
