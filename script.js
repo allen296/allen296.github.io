@@ -74,7 +74,7 @@ if (randomizeButton) {
       const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
       const container = document.getElementById(`player${num}-img`);
       const frontImg = container.querySelector(".card-front img");
-      const flipWrapper = container.querySelector(".card-container");
+      const flipWrapper = container; // Ya es la card-container
 
       // Reiniciar animación si ya estaba girada
       flipWrapper.classList.remove("flipped");
