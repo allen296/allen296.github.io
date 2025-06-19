@@ -253,6 +253,34 @@ body.light-mode .slider {
 }
 
 
+.message-box {
+  background: var(--card-bg);
+  color: var(--text);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  max-width: 300px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-top: 40px;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  font-size: 16px;
+  line-height: 1.5;
+  z-index: 1;
+}
+
+/* Responsive: en móviles lo mandamos debajo */
+@media (max-width: 768px) {
+  .message-box {
+    position: static;
+    margin: 20px auto;
+    transform: none;
+  }
+}
 
 
 
