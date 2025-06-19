@@ -274,7 +274,7 @@ body.light-mode .slider {
 }
 
 /* Responsive: en móviles lo mandamos debajo */
-@media (max-width: 768px) {
+@media (max-width: 1100px) {
   .message-box {
     position: static;
     margin: 20px auto;
