@@ -456,7 +456,3 @@ body:not(.light-mode) button#randomize:hover {
   align-self: center;
   margin-top: 10px;
 }
-
-.row {
-  align-items: stretch;
-}
