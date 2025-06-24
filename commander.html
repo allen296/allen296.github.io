@@ -38,151 +38,153 @@
 
   <div class="layout-wrapper">
 
-    <div class="container">
+    <div class="container-with-message">
+      <div class="container">
 
-      <!-- Fila superior -->
-      <div class="row">
-        <!-- Jugador 1 -->
-        <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="1">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="1">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="1">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="1">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="1">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="1">C</label>
-        </div>
+        <!-- Fila superior -->
+        <div class="row">
+          <!-- Jugador 1 -->
+          <div class="checkboxes">
+            <label class="white"><input type="checkbox" value="W" data-color data-player="1">W</label>
+            <label class="blue"><input type="checkbox" value="U" data-color data-player="1">U</label>
+            <label class="black"><input type="checkbox" value="B" data-color data-player="1">B</label>
+            <label class="red"><input type="checkbox" value="R" data-color data-player="1">R</label>
+            <label class="green"><input type="checkbox" value="G" data-color data-player="1">G</label>
+            <label class="colorless"><input type="checkbox" value="C" data-color data-player="1">C</label>
+          </div>
 
-        <div class="card-section">
-          <div class="image-slot">
-            <div class="card-container" id="player1-img">
-              <div class="card-flip">
-                <div class="card-back">
-                  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
-                </div>
-                <div class="card-front">
-                  <img src="" alt="Carta generada" />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Controles verticales -->
-        <div class="controls-column">
-          <div class="control-line">
-            <input type="checkbox" id="legendary1" />
-            <span>Legendaria</span>
-            <input type="checkbox" id="legendary2" />
-          </div>
-          <div class="control-line">
-            <input type="checkbox" id="lock1" />
-            <span>Lock</span>
-            <input type="checkbox" id="lock2" />
-          </div>
-          <div class="control-line">
-            <input type="checkbox" id="random1" />
-            <span>Cualquier color</span>
-            <input type="checkbox" id="random2" />
-          </div>
-        </div>
-
-        <div class="card-section">
-          <div class="image-slot">
-            <div class="card-container" id="player2-img">
-              <div class="card-flip">
-                <div class="card-back">
-                  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
-                </div>
-                <div class="card-front">
-                  <img src="" alt="Carta generada" />
+          <div class="card-section">
+            <div class="image-slot">
+              <div class="card-container" id="player1-img">
+                <div class="card-flip">
+                  <div class="card-back">
+                    <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
+                  </div>
+                  <div class="card-front">
+                    <img src="" alt="Carta generada" />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="2">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="2">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="2">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="2">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="2">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="2">C</label>
-        </div>
-      </div>
+          <!-- Controles verticales -->
+          <div class="controls-column">
+            <div class="control-line">
+              <input type="checkbox" id="legendary1" />
+              <span>Legendaria</span>
+              <input type="checkbox" id="legendary2" />
+            </div>
+            <div class="control-line">
+              <input type="checkbox" id="lock1" />
+              <span>Lock</span>
+              <input type="checkbox" id="lock2" />
+            </div>
+            <div class="control-line">
+              <input type="checkbox" id="random1" />
+              <span>Cualquier color</span>
+              <input type="checkbox" id="random2" />
+            </div>
+          </div>
 
-      <!-- Botón centrado -->
-      <div class="middle">
-        <button id="randomize">Randomize</button>
-      </div>
-
-      <!-- Fila inferior -->
-      <div class="row">
-        <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="3">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="3">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="3">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="3">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="3">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="3">C</label>
-        </div>
-
-        <div class="card-section">
-          <div class="image-slot">
-            <div class="card-container" id="player3-img">
-              <div class="card-flip">
-                <div class="card-back">
-                  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
-                </div>
-                <div class="card-front">
-                  <img src="" alt="Carta generada" />
+          <div class="card-section">
+            <div class="image-slot">
+              <div class="card-container" id="player2-img">
+                <div class="card-flip">
+                  <div class="card-back">
+                    <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
+                  </div>
+                  <div class="card-front">
+                    <img src="" alt="Carta generada" />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
 
-        <!-- Controles verticales -->
-        <div class="controls-column">
-          <div class="control-line">
-            <input type="checkbox" id="legendary3" />
-            <span>Legendaria</span>
-            <input type="checkbox" id="legendary4" />
-          </div>
-          <div class="control-line">
-            <input type="checkbox" id="lock3" />
-            <span>Lock</span>
-            <input type="checkbox" id="lock4" />
-          </div>
-          <div class="control-line">
-            <input type="checkbox" id="random3" />
-            <span>Cualquier color</span>
-            <input type="checkbox" id="random4" />
+          <div class="checkboxes">
+            <label class="white"><input type="checkbox" value="W" data-color data-player="2">W</label>
+            <label class="blue"><input type="checkbox" value="U" data-color data-player="2">U</label>
+            <label class="black"><input type="checkbox" value="B" data-color data-player="2">B</label>
+            <label class="red"><input type="checkbox" value="R" data-color data-player="2">R</label>
+            <label class="green"><input type="checkbox" value="G" data-color data-player="2">G</label>
+            <label class="colorless"><input type="checkbox" value="C" data-color data-player="2">C</label>
           </div>
         </div>
 
-        <div class="card-section">
-          <div class="image-slot">
-            <div class="card-container" id="player4-img">
-              <div class="card-flip">
-                <div class="card-back">
-                  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
-                </div>
-                <div class="card-front">
-                  <img src="" alt="Carta generada" />
+        <!-- Botón centrado -->
+        <div class="middle">
+          <button id="randomize">Randomize</button>
+        </div>
+
+        <!-- Fila inferior -->
+        <div class="row">
+          <div class="checkboxes">
+            <label class="white"><input type="checkbox" value="W" data-color data-player="3">W</label>
+            <label class="blue"><input type="checkbox" value="U" data-color data-player="3">U</label>
+            <label class="black"><input type="checkbox" value="B" data-color data-player="3">B</label>
+            <label class="red"><input type="checkbox" value="R" data-color data-player="3">R</label>
+            <label class="green"><input type="checkbox" value="G" data-color data-player="3">G</label>
+            <label class="colorless"><input type="checkbox" value="C" data-color data-player="3">C</label>
+          </div>
+
+          <div class="card-section">
+            <div class="image-slot">
+              <div class="card-container" id="player3-img">
+                <div class="card-flip">
+                  <div class="card-back">
+                    <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
+                  </div>
+                  <div class="card-front">
+                    <img src="" alt="Carta generada" />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="checkboxes">
-          <label class="white"><input type="checkbox" value="W" data-color data-player="4">W</label>
-          <label class="blue"><input type="checkbox" value="U" data-color data-player="4">U</label>
-          <label class="black"><input type="checkbox" value="B" data-color data-player="4">B</label>
-          <label class="red"><input type="checkbox" value="R" data-color data-player="4">R</label>
-          <label class="green"><input type="checkbox" value="G" data-color data-player="4">G</label>
-          <label class="colorless"><input type="checkbox" value="C" data-color data-player="4">C</label>
+          <!-- Controles verticales -->
+          <div class="controls-column">
+            <div class="control-line">
+              <input type="checkbox" id="legendary3" />
+              <span>Legendaria</span>
+              <input type="checkbox" id="legendary4" />
+            </div>
+            <div class="control-line">
+              <input type="checkbox" id="lock3" />
+              <span>Lock</span>
+              <input type="checkbox" id="lock4" />
+            </div>
+            <div class="control-line">
+              <input type="checkbox" id="random3" />
+              <span>Cualquier color</span>
+              <input type="checkbox" id="random4" />
+            </div>
+          </div>
+
+          <div class="card-section">
+            <div class="image-slot">
+              <div class="card-container" id="player4-img">
+                <div class="card-flip">
+                  <div class="card-back">
+                    <img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=cardback" alt="Carta trasera" />
+                  </div>
+                  <div class="card-front">
+                    <img src="" alt="Carta generada" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="checkboxes">
+            <label class="white"><input type="checkbox" value="W" data-color data-player="4">W</label>
+            <label class="blue"><input type="checkbox" value="U" data-color data-player="4">U</label>
+            <label class="black"><input type="checkbox" value="B" data-color data-player="4">B</label>
+            <label class="red"><input type="checkbox" value="R" data-color data-player="4">R</label>
+            <label class="green"><input type="checkbox" value="G" data-color data-player="4">G</label>
+            <label class="colorless"><input type="checkbox" value="C" data-color data-player="4">C</label>
+          </div>
         </div>
       </div>
     </div>
