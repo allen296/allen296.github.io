@@ -252,18 +252,43 @@ body.light-mode .slider {
   transform: rotateY(180deg);
 }
 
-
-/* Ajustamos el mensaje para que se alinee a la derecha del contenido */
-.message-box {
-  position: relative;
-  top: auto;
-  right: auto;
-  transform: none;
-  margin: 0;
-  align-self: center;
-  flex-shrink: 0;
+.layout-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 0 20px;
 }
 
+.message-box {
+  max-width: 260px;
+  background: var(--card-bg);
+  color: var(--text);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  align-self: center;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Para modo claro */
+body.light-mode .message-box {
+  background: var(--card-bg);
+  color: var(--text);
+}
+
+/* En móvil que se coloque debajo */
+@media (max-width: 1100px) {
+  .layout-wrapper {
+    flex-direction: column;
+  }
+
+  .message-box {
+    margin-top: 20px;
+  }
+}
 
 .image-slot {
   width: 260px;
