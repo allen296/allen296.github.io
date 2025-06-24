@@ -179,8 +179,9 @@ body.light-mode .slider {
   gap: 7px;
   align-items: center;
   justify-content: center;
-  /* 🔥 añade esto */
   box-sizing: border-box;
+  flex-shrink: 0;
+  /* ✅ evita que las cartas se compriman */
 }
 
 .row {
@@ -257,21 +258,26 @@ body.light-mode .slider {
 
 .layout-wrapper {
   display: flex;
-  justify-content: center;
-  /* centrado horizontal global */
+  flex-direction: row;
   align-items: center;
-  /* centra verticalmente todo el bloque */
+  /* 🔥 centra verticalmente */
+  justify-content: center;
+  /* 🔥 centra horizontalmente */
   gap: 40px;
   padding: 40px 20px;
-  max-width: 100%;
-  flex-wrap: wrap;
+  max-width: 1200px;
+  /* ✅ limita el ancho total */
+  margin: 0 auto;
+  /* ✅ centra horizontalmente el bloque completo */
   box-sizing: border-box;
+  flex-wrap: nowrap;
+  /* importante para mantener las columnas a la par */
 }
 
 .message-box {
   flex: 1;
-  min-width: 200px;
-  max-width: 300px;
+  min-width: 220px;
+  max-width: 280px;
   background: var(--card-bg);
   color: var(--text);
   padding: 20px;
@@ -289,7 +295,7 @@ body.light-mode .message-box {
 }
 
 /* En móvil que se coloque debajo */
-/* Responsive para móvil */
+/* Responsive */
 @media (max-width: 1100px) {
   .layout-wrapper {
     flex-direction: column;
