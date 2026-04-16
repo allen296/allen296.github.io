@@ -1,15 +1,14 @@
 document.addEventListener("DOMContentLoaded", () => {
   const body = document.body;
-  const navbar = document.querySelector(".navbar");
   const themeToggle = document.getElementById("theme-toggle");
   const menuToggle = document.getElementById("menu-toggle");
   const navLinks = document.getElementById("nav-links");
-  const navAnchors = navLinks ? [...navLinks.querySelectorAll("a[href^='#']")] : [];
-  const sections = navAnchors
-    .map((link) => document.querySelector(link.getAttribute("href")))
-    .filter(Boolean);
-  const revealItems = [...document.querySelectorAll("[data-reveal]")];
+  const pageLinks = [...document.querySelectorAll("[data-page-link]")];
+  const pageViews = [...document.querySelectorAll(".page-view")];
   const yearNode = document.getElementById("current-year");
+  const randomizeButton = document.getElementById("randomize");
+
+  const validPages = new Set(pageViews.map((view) => view.dataset.page));
 
   const applyTheme = (theme) => {
     const isLight = theme === "light";
@@ -20,8 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const savedTheme = localStorage.getItem("theme");
   const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  const initialTheme = savedTheme || (prefersDark ? "dark" : "light");
-  applyTheme(initialTheme);
+  applyTheme(savedTheme || (prefersDark ? "dark" : "light"));
 
   themeToggle?.addEventListener("click", () => {
     const nextTheme = body.classList.contains("light-mode") ? "dark" : "light";
@@ -44,17 +42,10 @@ document.addEventListener("DOMContentLoaded", () => {
     body.classList.toggle("menu-open", isOpen);
   });
 
-  navAnchors.forEach((link) => {
-    link.addEventListener("click", () => {
-      if (window.innerWidth <= 980) {
-        closeMenu();
-      }
-    });
-  });
-
   document.addEventListener("click", (event) => {
     if (!navLinks || !menuToggle) return;
     const target = event.target;
+
     if (!(target instanceof Node)) return;
 
     if (
@@ -66,89 +57,70 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  let lastScrollTop = window.scrollY;
-  let ticking = false;
+  const setPage = (page, updateHash = false) => {
+    const nextPage = validPages.has(page) ? page : "inicio";
 
-  const handleNavbar = () => {
-    const currentScroll = window.scrollY;
-    const scrollingDown = currentScroll > lastScrollTop;
-    const shouldHide = scrollingDown && currentScroll > 120;
+    pageViews.forEach((view) => {
+      view.classList.toggle("is-active", view.dataset.page === nextPage);
+    });
 
-    navbar?.classList.toggle("hide", shouldHide);
-    lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
-    ticking = false;
+    pageLinks.forEach((link) => {
+      link.classList.toggle("active", link.dataset.pageLink === nextPage);
+    });
+
+    document.title = `Antonio Valladares | ${nextPage.charAt(0).toUpperCase()}${nextPage.slice(1)}`;
+    body.dataset.page = nextPage;
+    closeMenu();
+
+    if (updateHash && window.location.hash !== `#${nextPage}`) {
+      window.location.hash = nextPage;
+      return;
+    }
+
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  window.addEventListener("scroll", () => {
-    if (ticking) return;
-    ticking = true;
-    window.requestAnimationFrame(handleNavbar);
-  }, { passive: true });
+  pageLinks.forEach((link) => {
+    link.addEventListener("click", (event) => {
+      const targetPage = link.dataset.pageLink;
+      if (!targetPage) return;
 
-  if (sections.length && navAnchors.length) {
-    const activateLink = (id) => {
-      navAnchors.forEach((link) => {
-        const isActive = link.getAttribute("href") === `#${id}`;
-        link.classList.toggle("active", isActive);
-      });
-    };
+      event.preventDefault();
+      setPage(targetPage, true);
+    });
+  });
 
-    const sectionObserver = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            activateLink(entry.target.id);
-          }
-        });
-      },
-      {
-        threshold: 0.35,
-        rootMargin: "-10% 0px -45% 0px",
-      }
-    );
+  window.addEventListener("hashchange", () => {
+    const pageFromHash = window.location.hash.replace("#", "") || "inicio";
+    setPage(pageFromHash);
+  });
 
-    sections.forEach((section) => sectionObserver.observe(section));
-  }
+  setPage(window.location.hash.replace("#", "") || "inicio");
 
-  if (revealItems.length) {
-    const revealObserver = new IntersectionObserver(
-      (entries, observer) => {
-        entries.forEach((entry) => {
-          if (!entry.isIntersecting) return;
-          entry.target.classList.add("in-view");
-          observer.unobserve(entry.target);
-        });
-      },
-      {
-        threshold: 0.16,
-        rootMargin: "0px 0px -8% 0px",
-      }
-    );
-
-    revealItems.forEach((item) => revealObserver.observe(item));
-  }
+  const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
   const loadCardImage = (image, source) =>
     new Promise((resolve, reject) => {
-      const cleanup = () => {
-        image.onload = null;
-        image.onerror = null;
-      };
+      const preload = new Image();
 
-      image.onload = () => {
-        cleanup();
+      preload.onload = () => {
+        image.src = source;
         resolve();
       };
 
-      image.onerror = () => {
-        cleanup();
+      preload.onerror = () => {
         reject(new Error("No se pudo cargar la imagen."));
       };
 
-      image.src = source;
+      preload.src = source;
     });
 
-  const randomizeButton = document.getElementById("randomize");
+  const resetCard = (container, image, status, message) => {
+    container.classList.remove("flipped", "loading");
+    container.classList.add("unflipped");
+    image.removeAttribute("src");
+    status.textContent = message;
+  };
 
   if (randomizeButton) {
     randomizeButton.addEventListener("click", async () => {
@@ -158,7 +130,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const players = [1, 2, 3, 4];
 
-      const imageLoads = players.map(async (num) => {
+      const jobs = players.map(async (num) => {
         const container = document.getElementById(`player${num}-img`);
         const frontImg = container?.querySelector(".card-front img");
         const status = document.getElementById(`player${num}-status`);
@@ -175,7 +147,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const randomAny = document.getElementById(`random${num}`)?.checked;
         const legendary = document.getElementById(`legendary${num}`)?.checked;
         const colors = [...document.querySelectorAll(`input[data-color][data-player="${num}"]:checked`)]
-          .map((colorInput) => colorInput.value)
+          .map((input) => input.value)
           .sort()
           .join("");
 
@@ -189,20 +161,21 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
+
+        container.classList.remove("flipped", "unflipped", "loading");
+        void container.offsetWidth;
+        container.classList.add("unflipped", "loading");
         status.textContent = "Buscando carta...";
 
-        container.classList.remove("flipped", "unflipped");
-        void container.offsetWidth;
-        container.classList.add("unflipped");
-
         try {
-          const response = await fetch(url);
+          const fetchPromise = fetch(url).then((response) => {
+            if (!response.ok) {
+              throw new Error(`Scryfall respondió con ${response.status}`);
+            }
+            return response.json();
+          });
 
-          if (!response.ok) {
-            throw new Error(`Scryfall respondió con ${response.status}`);
-          }
-
-          const data = await response.json();
+          const [data] = await Promise.all([fetchPromise, delay(320)]);
           const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
           const typeLine = data.type_line || data.card_faces?.[0]?.type_line || "Carta encontrada";
 
@@ -211,17 +184,15 @@ document.addEventListener("DOMContentLoaded", () => {
           }
 
           await loadCardImage(frontImg, imageUrl);
-          container.classList.remove("unflipped");
+          container.classList.remove("loading", "unflipped");
           container.classList.add("flipped");
           status.textContent = `${data.name} · ${typeLine}`;
         } catch (error) {
-          frontImg.removeAttribute("src");
-          container.classList.remove("flipped");
-          status.textContent = "No se pudo cargar una carta ahora mismo.";
+          resetCard(container, frontImg, status, "No se pudo cargar una carta ahora mismo.");
         }
       });
 
-      await Promise.all(imageLoads);
+      await Promise.all(jobs);
       randomizeButton.disabled = false;
       randomizeButton.textContent = originalLabel;
     });
