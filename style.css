@@ -768,57 +768,83 @@ body.light-mode .button-primary {
 }
 
 body[data-page="commander"] .site-main {
-  padding-top: 18px;
-  padding-bottom: 12px;
+  padding-top: 10px;
+  padding-bottom: 8px;
 }
 
 body[data-page="commander"] .site-footer {
   display: none;
 }
 
+body[data-page="commander"] .site-header {
+  padding-top: 10px;
+}
+
+body[data-page="commander"] .navbar {
+  padding: 8px 14px;
+}
+
+body[data-page="commander"] .brand-mark {
+  width: 32px;
+  height: 32px;
+  font-size: 0.82rem;
+}
+
+body[data-page="commander"] .brand-name,
+body[data-page="commander"] .nav-links a {
+  font-size: 0.88rem;
+}
+
+body[data-page="commander"] .nav-links a {
+  min-height: 34px;
+  padding: 0 12px;
+}
+
+body[data-page="commander"] .theme-track {
+  width: 50px;
+  height: 30px;
+}
+
+body[data-page="commander"] .theme-thumb {
+  width: 20px;
+  height: 20px;
+}
+
+body[data-page="commander"].light-mode .theme-thumb {
+  transform: translateX(20px);
+}
+
 body[data-page="commander"] .page-heading {
-  margin-bottom: 14px;
-  max-width: 720px;
-}
-
-body[data-page="commander"] .page-heading h1 {
-  margin: 10px 0 8px;
-  font-size: clamp(1.95rem, 3.2vw, 3rem);
-}
-
-body[data-page="commander"] .page-heading p {
-  font-size: 0.95rem;
+  display: none;
 }
 
 body[data-page="commander"] .commander-shell {
-  padding: 18px;
+  padding: 12px;
+  border-radius: 24px;
 }
 
 body[data-page="commander"] .commander-toolbar {
-  gap: 14px;
-  margin-bottom: 16px;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-bottom: 10px;
 }
 
-body[data-page="commander"] .commander-toolbar h2 {
-  margin: 10px 0 6px;
-  font-size: clamp(1.2rem, 1.8vw, 1.55rem);
-}
-
-body[data-page="commander"] .commander-toolbar p {
-  font-size: 0.92rem;
+body[data-page="commander"] .commander-toolbar > div {
+  display: none;
 }
 
 body[data-page="commander"] .players-grid {
-  gap: 14px;
+  gap: 10px;
 }
 
 body[data-page="commander"] .player-card {
-  padding: 16px;
-  border-radius: 24px;
+  padding: 10px;
+  border-radius: 18px;
 }
 
 body[data-page="commander"] .player-header {
   gap: 10px;
+  justify-content: flex-end;
 }
 
 body[data-page="commander"] .player-label,
@@ -829,41 +855,48 @@ body[data-page="commander"] .eyebrow {
   font-size: 0.72rem;
 }
 
+body[data-page="commander"] .player-header > div,
+body[data-page="commander"] .player-status {
+  display: none;
+}
+
 body[data-page="commander"] .player-card h3 {
   margin: 8px 0 0;
   font-size: 1rem;
 }
 
 body[data-page="commander"] .player-options {
-  gap: 8px;
-  margin-top: 10px;
+  gap: 6px;
+  margin-top: 6px;
 }
 
 body[data-page="commander"] .checkbox-pill {
-  min-height: 34px;
-  padding: 0 10px;
+  min-height: 28px;
+  padding: 0 8px;
   gap: 6px;
-  font-size: 0.82rem;
+  font-size: 0.74rem;
+  border-radius: 999px;
 }
 
 body[data-page="commander"] .color-palette {
-  gap: 8px;
-  margin-top: 10px;
+  gap: 6px;
+  margin-top: 6px;
 }
 
 body[data-page="commander"] .color-chip {
-  min-height: 40px;
+  min-height: 32px;
+  border-radius: 999px;
 }
 
 body[data-page="commander"] .color-chip span {
-  width: 28px;
-  height: 28px;
-  font-size: 0.72rem;
+  width: 22px;
+  height: 22px;
+  font-size: 0.62rem;
 }
 
 body[data-page="commander"] .card-container {
-  width: min(100%, 178px);
-  margin-top: 12px;
+  width: min(100%, 132px);
+  margin-top: 8px;
 }
 
 body[data-page="commander"] .player-status {
@@ -873,8 +906,10 @@ body[data-page="commander"] .player-status {
 }
 
 body[data-page="commander"] .randomize-button {
-  min-height: 44px;
-  padding: 0 18px;
+  min-height: 34px;
+  padding: 0 14px;
+  font-size: 0.82rem;
+  border-radius: 999px;
 }
 
 .site-footer {
