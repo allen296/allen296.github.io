@@ -541,6 +541,82 @@ body.light-mode .button-primary {
   min-height: 320px;
 }
 
+.dnd-heading {
+  max-width: 720px;
+}
+
+.dnd-grid {
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  align-items: stretch;
+}
+
+.dnd-note {
+  grid-column: 1 / -1;
+}
+
+.dnd-card {
+  position: relative;
+  overflow: hidden;
+  border-color: rgba(226, 180, 103, 0.16);
+  background:
+    linear-gradient(145deg, rgba(255, 215, 163, 0.08), rgba(255, 255, 255, 0.02) 45%, rgba(84, 52, 24, 0.12)),
+    color-mix(in srgb, var(--surface) 90%, transparent);
+}
+
+.dnd-card::before {
+  content: "";
+  position: absolute;
+  inset: 14px;
+  border: 1px solid rgba(240, 206, 152, 0.08);
+  border-radius: 22px;
+  pointer-events: none;
+}
+
+.dnd-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+.dnd-main {
+  justify-content: flex-end;
+  min-height: 340px;
+  background:
+    radial-gradient(circle at top right, rgba(242, 184, 102, 0.16), transparent 34%),
+    linear-gradient(145deg, rgba(255, 221, 179, 0.08), rgba(255, 255, 255, 0.03) 48%, rgba(74, 47, 24, 0.16)),
+    color-mix(in srgb, var(--surface) 90%, transparent);
+}
+
+.dnd-main h2,
+.dnd-status h2 {
+  font-size: clamp(1.5rem, 2.8vw, 2.25rem);
+}
+
+.dnd-main p {
+  max-width: 34rem;
+}
+
+.dnd-status,
+.dnd-note {
+  min-height: 0;
+}
+
+.dnd-note {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  min-height: 120px;
+}
+
+.dnd-note .card-tag {
+  flex-shrink: 0;
+}
+
+.dnd-note p {
+  color: var(--title);
+  font-size: 1.02rem;
+}
+
 .commander-shell {
   padding: 28px;
 }
@@ -1037,6 +1113,12 @@ body[data-page="commander"] .randomize-button {
     min-height: auto;
   }
 
+  .dnd-note {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+
   .commander-toolbar {
     flex-direction: column;
     align-items: stretch;
@@ -1093,6 +1175,10 @@ body[data-page="commander"] .randomize-button {
 
   .button {
     width: 100%;
+  }
+
+  .dnd-note {
+    min-height: 0;
   }
 
   .player-header {
