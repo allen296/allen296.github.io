@@ -8,8 +8,66 @@ document.addEventListener("DOMContentLoaded", () => {
   const pageViews = [...document.querySelectorAll(".page-view")];
   const yearNode = document.getElementById("current-year");
   const randomizeButton = document.getElementById("randomize");
+  const preview = document.getElementById("card-hover-preview");
+  const previewImage = document.getElementById("card-hover-preview-img");
+  const previewEnabled = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
 
   const validPages = new Set(pageViews.map((view) => view.dataset.page));
+  let previewTimer = null;
+  let previewVisible = false;
+
+  const hidePreview = () => {
+    if (previewTimer) {
+      window.clearTimeout(previewTimer);
+      previewTimer = null;
+    }
+
+    if (!preview) return;
+
+    preview.classList.remove("is-visible");
+    preview.setAttribute("aria-hidden", "true");
+    previewVisible = false;
+  };
+
+  const movePreview = (clientX, clientY) => {
+    if (!preview) return;
+
+    const previewWidth = preview.offsetWidth || 300;
+    const previewHeight = preview.offsetHeight || Math.round(previewWidth * 1.4);
+    const gutter = 20;
+    let left = clientX + 24;
+    let top = clientY - previewHeight / 2;
+
+    if (left + previewWidth + gutter > window.innerWidth) {
+      left = clientX - previewWidth - 24;
+    }
+
+    if (left < gutter) {
+      left = gutter;
+    }
+
+    if (top < gutter) {
+      top = gutter;
+    }
+
+    if (top + previewHeight + gutter > window.innerHeight) {
+      top = window.innerHeight - previewHeight - gutter;
+    }
+
+    preview.style.left = `${left}px`;
+    preview.style.top = `${top}px`;
+  };
+
+  const showPreview = (imageSource, imageAlt, clientX, clientY) => {
+    if (!preview || !previewImage || !imageSource) return;
+
+    previewImage.src = imageSource;
+    previewImage.alt = imageAlt || "Preview de la carta";
+    movePreview(clientX, clientY);
+    preview.classList.add("is-visible");
+    preview.setAttribute("aria-hidden", "false");
+    previewVisible = true;
+  };
 
   const applyTheme = (theme) => {
     const isLight = theme === "light";
@@ -75,6 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.title = `Antonio Valladares | ${nextPage.charAt(0).toUpperCase()}${nextPage.slice(1)}`;
     body.dataset.page = nextPage;
     navbar?.classList.remove("hide");
+    hidePreview();
     closeMenu();
 
     if (updateHash && window.location.hash !== `#${nextPage}`) {
@@ -116,6 +175,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (body.classList.contains("menu-open") || currentScrollY <= 0) {
       navbar.classList.remove("hide");
       lastScrollY = currentScrollY;
+      hidePreview();
       scrollTicking = false;
       return;
     }
@@ -124,6 +184,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const shouldHide = scrollingDown && currentScrollY > 24;
     navbar.classList.toggle("hide", shouldHide);
     lastScrollY = currentScrollY;
+    if (previewVisible) {
+      hidePreview();
+    }
     scrollTicking = false;
   };
 
@@ -156,13 +219,48 @@ document.addEventListener("DOMContentLoaded", () => {
     container.classList.add("unflipped");
     image.removeAttribute("src");
     status.textContent = message;
+    hidePreview();
   };
+
+  if (previewEnabled) {
+    const cardContainers = [...document.querySelectorAll(".card-container")];
+
+    cardContainers.forEach((container) => {
+      const frontImg = container.querySelector(".card-front img");
+
+      if (!frontImg) return;
+
+      container.addEventListener("mouseenter", (event) => {
+        const source = frontImg.getAttribute("src");
+
+        if (!source) return;
+
+        if (previewTimer) {
+          window.clearTimeout(previewTimer);
+        }
+
+        previewTimer = window.setTimeout(() => {
+          showPreview(source, frontImg.alt, event.clientX, event.clientY);
+        }, 220);
+      });
+
+      container.addEventListener("mousemove", (event) => {
+        if (!previewVisible) return;
+        movePreview(event.clientX, event.clientY);
+      });
+
+      container.addEventListener("mouseleave", () => {
+        hidePreview();
+      });
+    });
+  }
 
   if (randomizeButton) {
     randomizeButton.addEventListener("click", async () => {
       const originalLabel = randomizeButton.textContent;
       randomizeButton.disabled = true;
       randomizeButton.textContent = "Cargando...";
+      hidePreview();
 
       const players = [1, 2, 3, 4];
 
@@ -201,7 +299,7 @@ document.addEventListener("DOMContentLoaded", () => {
         container.classList.remove("flipped", "unflipped", "loading");
         void container.offsetWidth;
         container.classList.add("unflipped", "loading");
-        status.textContent = "Buscando carta...";
+        status.textContent = "Buscando...";
 
         try {
           const fetchPromise = fetch(url).then((response) => {
@@ -213,7 +311,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
           const [data] = await Promise.all([fetchPromise, delay(320)]);
           const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-          const typeLine = data.type_line || data.card_faces?.[0]?.type_line || "Carta encontrada";
 
           if (!imageUrl) {
             throw new Error("La carta no trae imagen utilizable.");
@@ -222,9 +319,9 @@ document.addEventListener("DOMContentLoaded", () => {
           await loadCardImage(frontImg, imageUrl);
           container.classList.remove("loading", "unflipped");
           container.classList.add("flipped");
-          status.textContent = `${data.name} · ${typeLine}`;
+          status.textContent = data.name || "";
         } catch (error) {
-          resetCard(container, frontImg, status, "No se pudo cargar una carta ahora mismo.");
+          resetCard(container, frontImg, status, "Error");
         }
       });
 
@@ -242,5 +339,6 @@ document.addEventListener("DOMContentLoaded", () => {
     if (window.innerWidth > 980) {
       closeMenu();
     }
+    hidePreview();
   });
 });
