@@ -802,7 +802,7 @@ body.light-mode .button-primary {
 }
 
 body[data-page="commander"] .site-main {
-  padding-top: 10px;
+  padding-top: 18px;
   padding-bottom: 8px;
 }
 
@@ -810,51 +810,13 @@ body[data-page="commander"] .site-footer {
   display: none;
 }
 
-body[data-page="commander"] .site-header {
-  padding-top: 10px;
-}
-
-body[data-page="commander"] .navbar {
-  padding: 8px 14px;
-}
-
-body[data-page="commander"] .brand-mark {
-  width: 32px;
-  height: 32px;
-  font-size: 0.82rem;
-}
-
-body[data-page="commander"] .brand-name,
-body[data-page="commander"] .nav-links a {
-  font-size: 0.88rem;
-}
-
-body[data-page="commander"] .nav-links a {
-  min-height: 34px;
-  padding: 0 12px;
-}
-
-body[data-page="commander"] .theme-track {
-  width: 50px;
-  height: 30px;
-}
-
-body[data-page="commander"] .theme-thumb {
-  width: 20px;
-  height: 20px;
-}
-
-body[data-page="commander"].light-mode .theme-thumb {
-  transform: translateX(20px);
-}
-
 body[data-page="commander"] .page-heading {
   display: none;
 }
 
 body[data-page="commander"] .commander-shell {
-  padding: 14px;
-  border-radius: 24px;
+  padding: 18px;
+  border-radius: 28px;
 }
 
 body[data-page="commander"] .commander-toolbar {
@@ -868,12 +830,12 @@ body[data-page="commander"] .commander-toolbar > div {
 }
 
 body[data-page="commander"] .players-grid {
-  gap: 12px;
+  gap: 14px;
 }
 
 body[data-page="commander"] .player-card {
-  padding: 12px;
-  border-radius: 18px;
+  padding: 16px;
+  border-radius: 22px;
 }
 
 body[data-page="commander"] .player-label,
@@ -892,8 +854,8 @@ body[data-page="commander"] .player-options {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 7px;
-  margin-top: 2px;
+  gap: 8px;
+  margin-top: 4px;
   flex-wrap: nowrap;
 }
 
@@ -902,7 +864,7 @@ body[data-page="commander"] .player-stage {
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 body[data-page="commander"] .stage-left .color-palette {
@@ -924,53 +886,53 @@ body[data-page="commander"] .stage-right .color-palette {
 }
 
 body[data-page="commander"] .checkbox-pill {
-  min-height: 30px;
-  padding: 0 10px;
+  min-height: 34px;
+  padding: 0 12px;
   gap: 6px;
-  font-size: 0.76rem;
+  font-size: 0.8rem;
   border-radius: 999px;
   white-space: nowrap;
 }
 
 body[data-page="commander"] .color-palette {
-  width: 62px;
-  grid-template-columns: repeat(2, 24px);
-  gap: 6px;
+  width: 76px;
+  grid-template-columns: repeat(2, 28px);
+  gap: 8px;
   margin-top: 0;
   justify-content: center;
 }
 
 body[data-page="commander"] .color-chip {
-  min-height: 24px;
-  width: 24px;
+  min-height: 28px;
+  width: 28px;
   border-radius: 999px;
 }
 
 body[data-page="commander"] .color-chip span {
-  width: 20px;
-  height: 20px;
-  font-size: 0.58rem;
+  width: 24px;
+  height: 24px;
+  font-size: 0.66rem;
 }
 
 body[data-page="commander"] .card-container {
-  width: min(100%, 184px);
+  width: min(100%, 210px);
   margin-top: 0;
 }
 
 body[data-page="commander"] .player-status {
   display: block;
   min-height: 1.6em;
-  margin-top: 8px;
-  font-size: 0.76rem;
+  margin-top: 10px;
+  font-size: 0.82rem;
   line-height: 1.2;
   color: var(--title);
   text-align: center;
 }
 
 body[data-page="commander"] .randomize-button {
-  min-height: 34px;
-  padding: 0 14px;
-  font-size: 0.82rem;
+  min-height: 40px;
+  padding: 0 18px;
+  font-size: 0.9rem;
   border-radius: 999px;
 }
 
@@ -1149,7 +1111,7 @@ body[data-page="commander"] .randomize-button {
   }
 
   body[data-page="commander"] .card-container {
-    width: min(100%, 186px);
+    width: min(100%, 196px);
   }
 
   body[data-page="commander"] .player-stage {
