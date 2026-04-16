@@ -114,6 +114,11 @@ img {
   backdrop-filter: blur(22px);
   -webkit-backdrop-filter: blur(22px);
   box-shadow: var(--shadow);
+  transition: transform 0.28s ease, background 0.28s ease;
+}
+
+.navbar.hide {
+  transform: translateY(-130%);
 }
 
 .navbar-content {
@@ -870,6 +875,15 @@ body[data-page="commander"] .player-options {
   margin-top: 6px;
 }
 
+body[data-page="commander"] .player-stage {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
 body[data-page="commander"] .checkbox-pill {
   min-height: 28px;
   padding: 0 8px;
@@ -879,24 +893,27 @@ body[data-page="commander"] .checkbox-pill {
 }
 
 body[data-page="commander"] .color-palette {
+  width: fit-content;
+  grid-template-columns: repeat(2, minmax(0, 24px));
   gap: 6px;
-  margin-top: 6px;
+  margin-top: 0;
 }
 
 body[data-page="commander"] .color-chip {
-  min-height: 32px;
+  min-height: 24px;
+  width: 24px;
   border-radius: 999px;
 }
 
 body[data-page="commander"] .color-chip span {
-  width: 22px;
-  height: 22px;
-  font-size: 0.62rem;
+  width: 20px;
+  height: 20px;
+  font-size: 0.58rem;
 }
 
 body[data-page="commander"] .card-container {
   width: min(100%, 132px);
-  margin-top: 8px;
+  margin-top: 0;
 }
 
 body[data-page="commander"] .player-status {
@@ -1088,6 +1105,10 @@ body[data-page="commander"] .randomize-button {
 
   body[data-page="commander"] .card-container {
     width: min(100%, 190px);
+  }
+
+  body[data-page="commander"] .player-stage {
+    gap: 10px;
   }
 }
 
