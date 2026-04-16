@@ -13,6 +13,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const previewEnabled = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
 
   const validPages = new Set(pageViews.map((view) => view.dataset.page));
+  const pageTitles = {
+    inicio: "Inicio",
+    commander: "Commander",
+    ilustraciones: "D&D",
+    proyectos: "Proyectos"
+  };
   let previewTimer = null;
   let previewVisible = false;
 
@@ -130,7 +136,7 @@ document.addEventListener("DOMContentLoaded", () => {
       link.classList.toggle("active", link.dataset.pageLink === nextPage);
     });
 
-    document.title = `Antonio Valladares | ${nextPage.charAt(0).toUpperCase()}${nextPage.slice(1)}`;
+    document.title = `Antonio Valladares | ${pageTitles[nextPage] || `${nextPage.charAt(0).toUpperCase()}${nextPage.slice(1)}`}`;
     body.dataset.page = nextPage;
     navbar?.classList.remove("hide");
     hidePreview();
