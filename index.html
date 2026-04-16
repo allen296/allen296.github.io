@@ -133,23 +133,8 @@
     </section>
 
     <section class="page-view" data-page="commander" id="commander">
-      <div class="page-heading">
-        <span class="eyebrow">Commander</span>
-        <h1>El randomizer vuelve a funcionar como antes, pero mejor presentado.</h1>
-        <p>
-          Cada jugador puede bloquear su carta, filtrar identidad de color exacta o flexible y elegir si
-          quiere solo comandantes. Cuando no hay carta generada, se muestra el dorso.
-        </p>
-      </div>
-
       <section class="page-card commander-shell">
         <div class="commander-toolbar">
-          <div>
-            <span class="card-tag">Herramienta</span>
-            <h2>Generador para 4 jugadores</h2>
-            <p>Pulsa el botón y las cartas irán girando desde el reverso hasta mostrar el resultado.</p>
-          </div>
-
           <button class="button button-primary randomize-button" id="randomize" type="button">
             Randomize
           </button>
@@ -158,11 +143,6 @@
         <div class="players-grid">
           <article class="player-card page-card">
             <div class="player-header">
-              <div>
-                <span class="player-label">Jugador 1</span>
-                <h3>Comandante</h3>
-              </div>
-
               <label class="checkbox-pill">
                 <input type="checkbox" id="lock1" />
                 <span>Bloquear</span>
@@ -200,16 +180,11 @@
               </div>
             </div>
 
-            <p class="player-status" id="player1-status">Sin carta generada todavía.</p>
+            <p class="player-status" id="player1-status" aria-live="polite"></p>
           </article>
 
           <article class="player-card page-card">
             <div class="player-header">
-              <div>
-                <span class="player-label">Jugador 2</span>
-                <h3>Comandante</h3>
-              </div>
-
               <label class="checkbox-pill">
                 <input type="checkbox" id="lock2" />
                 <span>Bloquear</span>
@@ -247,16 +222,11 @@
               </div>
             </div>
 
-            <p class="player-status" id="player2-status">Sin carta generada todavía.</p>
+            <p class="player-status" id="player2-status" aria-live="polite"></p>
           </article>
 
           <article class="player-card page-card">
             <div class="player-header">
-              <div>
-                <span class="player-label">Jugador 3</span>
-                <h3>Comandante</h3>
-              </div>
-
               <label class="checkbox-pill">
                 <input type="checkbox" id="lock3" />
                 <span>Bloquear</span>
@@ -294,16 +264,11 @@
               </div>
             </div>
 
-            <p class="player-status" id="player3-status">Sin carta generada todavía.</p>
+            <p class="player-status" id="player3-status" aria-live="polite"></p>
           </article>
 
           <article class="player-card page-card">
             <div class="player-header">
-              <div>
-                <span class="player-label">Jugador 4</span>
-                <h3>Comandante</h3>
-              </div>
-
               <label class="checkbox-pill">
                 <input type="checkbox" id="lock4" />
                 <span>Bloquear</span>
@@ -341,7 +306,7 @@
               </div>
             </div>
 
-            <p class="player-status" id="player4-status">Sin carta generada todavía.</p>
+            <p class="player-status" id="player4-status" aria-live="polite"></p>
           </article>
         </div>
       </section>
