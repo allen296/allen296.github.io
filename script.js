@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const body = document.body;
+  const navbar = document.querySelector(".navbar");
   const themeToggle = document.getElementById("theme-toggle");
   const menuToggle = document.getElementById("menu-toggle");
   const navLinks = document.getElementById("nav-links");
@@ -40,6 +41,9 @@ document.addEventListener("DOMContentLoaded", () => {
     menuToggle.classList.toggle("is-open", isOpen);
     menuToggle.setAttribute("aria-expanded", String(isOpen));
     body.classList.toggle("menu-open", isOpen);
+    if (isOpen) {
+      navbar?.classList.remove("hide");
+    }
   });
 
   document.addEventListener("click", (event) => {
@@ -70,6 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.title = `Antonio Valladares | ${nextPage.charAt(0).toUpperCase()}${nextPage.slice(1)}`;
     body.dataset.page = nextPage;
+    navbar?.classList.remove("hide");
     closeMenu();
 
     if (updateHash && window.location.hash !== `#${nextPage}`) {
@@ -96,6 +101,37 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   setPage(window.location.hash.replace("#", "") || "inicio");
+
+  let lastScrollY = window.scrollY;
+  let scrollTicking = false;
+
+  const syncNavbar = () => {
+    if (!navbar) {
+      scrollTicking = false;
+      return;
+    }
+
+    const currentScrollY = window.scrollY;
+
+    if (body.classList.contains("menu-open") || currentScrollY <= 0) {
+      navbar.classList.remove("hide");
+      lastScrollY = currentScrollY;
+      scrollTicking = false;
+      return;
+    }
+
+    const scrollingDown = currentScrollY > lastScrollY;
+    const shouldHide = scrollingDown && currentScrollY > 24;
+    navbar.classList.toggle("hide", shouldHide);
+    lastScrollY = currentScrollY;
+    scrollTicking = false;
+  };
+
+  window.addEventListener("scroll", () => {
+    if (scrollTicking) return;
+    scrollTicking = true;
+    window.requestAnimationFrame(syncNavbar);
+  }, { passive: true });
 
   const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
