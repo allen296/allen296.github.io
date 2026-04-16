@@ -1,52 +1,235 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    name="description"
+    content="Portfolio personal de Antonio Valladares con proyectos, experimentos e ilustraciones."
+  />
   <title>Antonio Valladares | Inicio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="style.css" />
 
-  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-96BWERYDM0"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-
     gtag('config', 'G-96BWERYDM0');
   </script>
-
 </head>
-
 <body>
-  <nav class="navbar">
-    <div class="navbar-content">
-      <!-- Hamburguesa eliminada -->
-      <ul class="nav-links" id="nav-links">
-        <li><a href="index.html">Inicio</a></li>
-        <li><a href="commander.html">Commander</a></li>
-        <li><a href="#">Ilustraciones</a></li>
-        <li><a href="#">Proyectos</a></li>
-      </ul>
-      <div class="switch" id="theme-toggle">
-        <div class="slider"></div>
-      </div>
-    </div>
-  </nav>
+  <div class="background-glow background-glow-left"></div>
+  <div class="background-glow background-glow-right"></div>
 
-  <div class="presentation">
-    <div class="avatar-circle">
-      <img src="jabali.png" alt="Mi Jabali" onerror="this.src='https://via.placeholder.com/200'" />
-    </div>
-    <h1>¡Buenas! Me llaman Antonio</h1>
-    <p>Soy desarrollador -o algo así- y he tenido este dominio más parado que una vaca en un charco, así que voy a darle
-      vidilla y empezar a subir aquí alguna cosa que se me ocurra, ideas y proyectos según me venga en gana. ¡A ver qué
-      sale! >:)</p>
-  </div>
+  <header class="site-header">
+    <nav class="navbar">
+      <div class="navbar-content">
+        <a class="brand" href="#inicio" aria-label="Ir al inicio">
+          <span class="brand-mark">AV</span>
+          <span class="brand-name">Antonio Valladares</span>
+        </a>
+
+        <button
+          class="menu-toggle"
+          id="menu-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="nav-links"
+          aria-label="Abrir menú"
+        >
+          <span></span>
+          <span></span>
+        </button>
+
+        <div class="nav-actions">
+          <ul class="nav-links" id="nav-links">
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#commander">Commander</a></li>
+            <li><a href="#ilustraciones">Ilustraciones</a></li>
+            <li><a href="#proyectos">Proyectos</a></li>
+          </ul>
+
+          <button
+            class="theme-toggle"
+            id="theme-toggle"
+            type="button"
+            aria-label="Cambiar tema"
+            aria-pressed="false"
+          >
+            <span class="theme-toggle-track">
+              <span class="theme-toggle-thumb"></span>
+            </span>
+          </button>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero section" id="inicio">
+      <div class="hero-copy" data-reveal>
+        <span class="eyebrow">Portfolio personal · Web en construcción permanente</span>
+        <h1>Una casa digital para proyectos, ideas y alguna que otra ida de olla bien hecha.</h1>
+        <p class="hero-text">
+          Soy Antonio. Programo, experimento, pruebo cosas nuevas y de vez en cuando convierto una idea rara
+          en algo que merece quedarse. Esta web pasa de “dominio abandonado” a espacio vivo para enseñar lo
+          que voy construyendo.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="#proyectos">Ver proyectos</a>
+          <a class="button button-secondary" href="#commander">Explorar Commander</a>
+        </div>
+
+        <ul class="hero-meta">
+          <li>Desarrollo web y automatización</li>
+          <li>Diseño funcional y limpio</li>
+          <li>Proyectos con personalidad</li>
+        </ul>
+      </div>
+
+      <div class="hero-visual" data-reveal>
+        <div class="avatar-shell">
+          <div class="avatar-circle">
+            <img src="jabali.png" alt="Ilustración o avatar personal de Antonio" onerror="this.src='https://via.placeholder.com/520x520?text=Antonio'" />
+          </div>
+        </div>
+
+        <div class="floating-card floating-card-top">
+          <span class="floating-label">Ahora mismo</span>
+          <strong>Construyendo una web más seria sin que pierda gracia.</strong>
+        </div>
+
+        <div class="floating-card floating-card-bottom">
+          <span class="floating-label">Objetivo</span>
+          <strong>Subir ideas, proyectos y recursos que sí apetezca enseñar.</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="section intro-grid">
+      <article class="intro-card glass-card" data-reveal>
+        <span class="section-kicker">En corto</span>
+        <h2>Minimalista, pero no vacía.</h2>
+        <p>
+          Quería una portada más cuidada, con mejor jerarquía visual, más aire y un aspecto más premium.
+          La idea es que se vea limpia, rápida y muy intencional tanto en escritorio como en móvil.
+        </p>
+      </article>
+
+      <article class="intro-card glass-card" data-reveal>
+        <span class="section-kicker">Qué vas a encontrar</span>
+        <div class="mini-list">
+          <div>
+            <strong>Experimentos</strong>
+            <p>Herramientas pequeñas, utilidades y prototipos que nacen por pura curiosidad.</p>
+          </div>
+          <div>
+            <strong>Commander</strong>
+            <p>Una parte más lúdica para mezclar Magic, filtros y generadores sin complicarlo todo.</p>
+          </div>
+          <div>
+            <strong>Ilustraciones</strong>
+            <p>Referencias visuales, pruebas y piezas que acompañan lo técnico con algo más personal.</p>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="section showcase" id="commander">
+      <div class="section-heading" data-reveal>
+        <span class="section-kicker">Commander</span>
+        <h2>Un rincón para herramientas frikis que sí merecen estar bonitas.</h2>
+        <p>
+          Aquí encaja perfectamente el randomizer, filtros por identidad de color y cualquier experimento con
+          Scryfall o utilidades rápidas para montar partidas.
+        </p>
+      </div>
+
+      <div class="feature-grid">
+        <article class="feature-card glass-card" data-reveal>
+          <span class="feature-number">01</span>
+          <h3>Randomizers útiles</h3>
+          <p>Herramientas rápidas para sacar comandantes, probar ideas y jugar con restricciones.</p>
+        </article>
+
+        <article class="feature-card glass-card" data-reveal>
+          <span class="feature-number">02</span>
+          <h3>Filtros claros</h3>
+          <p>Opciones simples, estados visibles y una interfaz que no dé pereza usar varias veces.</p>
+        </article>
+
+        <article class="feature-card glass-card" data-reveal>
+          <span class="feature-number">03</span>
+          <h3>Diseño consistente</h3>
+          <p>La parte “friki” también puede sentirse limpia, moderna y bien rematada.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section split-section" id="ilustraciones">
+      <div class="split-copy" data-reveal>
+        <span class="section-kicker">Ilustraciones</span>
+        <h2>Visuales que acompañan el proyecto, no simple relleno.</h2>
+        <p>
+          Quiero que esta web también tenga espacio para piezas gráficas, pruebas de estilo y recursos visuales
+          que sumen identidad. Menos “galería vacía”, más selección cuidada.
+        </p>
+      </div>
+
+      <div class="mosaic-card glass-card" data-reveal>
+        <div class="mosaic-block mosaic-main"></div>
+        <div class="mosaic-row">
+          <div class="mosaic-block"></div>
+          <div class="mosaic-block"></div>
+        </div>
+        <div class="mosaic-caption">
+          <strong>Espacio preparado</strong>
+          <p>Listo para mostrar trabajos, bocetos o piezas destacadas cuando quieras añadirlas.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section projects" id="proyectos">
+      <div class="section-heading" data-reveal>
+        <span class="section-kicker">Proyectos</span>
+        <h2>La idea es que cada bloque tenga intención y no parezca un placeholder eterno.</h2>
+      </div>
+
+      <div class="project-grid">
+        <article class="project-card glass-card" data-reveal>
+          <span class="project-tag">Web</span>
+          <h3>Portfolio principal</h3>
+          <p>Una base limpia para seguir creciendo sin tener que rediseñarlo todo cada dos semanas.</p>
+        </article>
+
+        <article class="project-card glass-card" data-reveal>
+          <span class="project-tag">Magic</span>
+          <h3>Utilidades Commander</h3>
+          <p>Herramientas pequeñas pero pulidas para hacer más divertida la parte práctica del juego.</p>
+        </article>
+
+        <article class="project-card glass-card" data-reveal>
+          <span class="project-tag">Labs</span>
+          <h3>Experimentos</h3>
+          <p>Ideas raras, prototipos y recursos que nacen por curiosidad y a veces se quedan.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Antonio Valladares · Construyendo algo más vivo que una simple página de inicio.</p>
+    <p class="footer-note">© <span id="current-year"></span></p>
+  </footer>
 
   <script src="script.js"></script>
-
 </body>
-
 </html>
