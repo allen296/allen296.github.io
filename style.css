@@ -861,8 +861,10 @@ body[data-page="commander"] .player-options {
 
 body[data-page="commander"] .player-stage {
   display: grid;
-  grid-template-columns: 1fr auto 1fr;
+  grid-template-columns: 76px 210px 76px;
   align-items: center;
+  justify-content: center;
+  column-gap: 12px;
   width: 100%;
   margin-top: 12px;
 }
@@ -915,7 +917,8 @@ body[data-page="commander"] .color-chip span {
 }
 
 body[data-page="commander"] .card-container {
-  width: min(100%, 210px);
+  width: 210px;
+  height: 294px;
   margin-top: 0;
 }
 
@@ -1111,10 +1114,13 @@ body[data-page="commander"] .randomize-button {
   }
 
   body[data-page="commander"] .card-container {
-    width: min(100%, 196px);
+    width: 196px;
+    height: 274px;
   }
 
   body[data-page="commander"] .player-stage {
+    grid-template-columns: 68px 196px 68px;
+    column-gap: 10px;
     margin-top: 10px;
   }
 
