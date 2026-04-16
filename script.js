@@ -128,6 +128,105 @@ document.addEventListener("DOMContentLoaded", () => {
     revealItems.forEach((item) => revealObserver.observe(item));
   }
 
+  const loadCardImage = (image, source) =>
+    new Promise((resolve, reject) => {
+      const cleanup = () => {
+        image.onload = null;
+        image.onerror = null;
+      };
+
+      image.onload = () => {
+        cleanup();
+        resolve();
+      };
+
+      image.onerror = () => {
+        cleanup();
+        reject(new Error("No se pudo cargar la imagen."));
+      };
+
+      image.src = source;
+    });
+
+  const randomizeButton = document.getElementById("randomize");
+
+  if (randomizeButton) {
+    randomizeButton.addEventListener("click", async () => {
+      const originalLabel = randomizeButton.textContent;
+      randomizeButton.disabled = true;
+      randomizeButton.textContent = "Cargando...";
+
+      const players = [1, 2, 3, 4];
+
+      const imageLoads = players.map(async (num) => {
+        const container = document.getElementById(`player${num}-img`);
+        const frontImg = container?.querySelector(".card-front img");
+        const status = document.getElementById(`player${num}-status`);
+        const locked = document.getElementById(`lock${num}`)?.checked;
+
+        if (!container || !frontImg || !status) {
+          return;
+        }
+
+        if (locked) {
+          return;
+        }
+
+        const randomAny = document.getElementById(`random${num}`)?.checked;
+        const legendary = document.getElementById(`legendary${num}`)?.checked;
+        const colors = [...document.querySelectorAll(`input[data-color][data-player="${num}"]:checked`)]
+          .map((colorInput) => colorInput.value)
+          .sort()
+          .join("");
+
+        let query = legendary
+          ? "is:commander legal:commander (type:creature or type:planeswalker)"
+          : "legal:commander type:creature";
+
+        if (colors) {
+          const identityOperator = randomAny ? "<=" : "=";
+          query += ` identity${identityOperator}${colors}`;
+        }
+
+        const url = `https://api.scryfall.com/cards/random?q=${encodeURIComponent(query)}`;
+        status.textContent = "Buscando carta...";
+
+        container.classList.remove("flipped", "unflipped");
+        void container.offsetWidth;
+        container.classList.add("unflipped");
+
+        try {
+          const response = await fetch(url);
+
+          if (!response.ok) {
+            throw new Error(`Scryfall respondió con ${response.status}`);
+          }
+
+          const data = await response.json();
+          const imageUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+          const typeLine = data.type_line || data.card_faces?.[0]?.type_line || "Carta encontrada";
+
+          if (!imageUrl) {
+            throw new Error("La carta no trae imagen utilizable.");
+          }
+
+          await loadCardImage(frontImg, imageUrl);
+          container.classList.remove("unflipped");
+          container.classList.add("flipped");
+          status.textContent = `${data.name} · ${typeLine}`;
+        } catch (error) {
+          frontImg.removeAttribute("src");
+          container.classList.remove("flipped");
+          status.textContent = "No se pudo cargar una carta ahora mismo.";
+        }
+      });
+
+      await Promise.all(imageLoads);
+      randomizeButton.disabled = false;
+      randomizeButton.textContent = originalLabel;
+    });
+  }
+
   if (yearNode) {
     yearNode.textContent = new Date().getFullYear();
   }
