@@ -2025,45 +2025,55 @@
     ],
     "wor-chapter-71": [
       "dalinar",
+      "drehy",
+      "eshu-mentioned-pr71",
       "kaladin",
       "pattern",
       "renarin",
       "shallan",
       "sigzil",
+      "skar",
       "teft",
+      "teft-city-lord-pr71",
       "teft-father",
       "teft-mother"
     ],
     "wor-chapter-72": [
       "kaladin",
-      "pattern",
       "shallan"
     ],
     "wor-chapter-73": [
       "balat",
       "eylita",
+      "eylita-maid-pr73",
+      "eylita-mother",
       "helaran",
       "jushu",
       "lin-davar",
       "malise",
       "shallan",
+      "tavinar",
       "wikim"
     ],
     "wor-chapter-74": [
       "helaran",
       "kaladin",
-      "pattern",
       "shallan",
       "syl"
     ],
     "wor-chapter-75": [
       "adolin",
       "amaram",
+      "bridge-saboteur-pr68",
       "dalinar",
       "kaladin",
+      "kaladin-return-messenger-pr75",
+      "medical-surgeon-pr75",
       "navani",
+      "navani-scribe-tall-pr75",
       "pattern",
-      "shallan"
+      "shallan",
+      "stormfather"
     ],
     "wor-interlude-12": [
       "lhan",
@@ -3222,7 +3232,7 @@
         "characterId": "stormfather",
         "characterRevealedAt": {
           "bookId": "wor",
-          "sceneId": "wor-chapter-89"
+          "sceneId": "wor-chapter-75"
         }
       },
       {
@@ -8448,6 +8458,142 @@
         "supersedes": [],
         "primaryLocator": "EPUB español aportado, OEBPS/Text/04_070.xhtml. Permanece en la falda y zumba suavemente durante el viaje. No se añade conversación con Kaladin.",
         "readingLocator": "EPUB español aportado, OEBPS/Text/04_070.xhtml. Permanece en la falda y zumba suavemente durante el viaje. No se añade conversación con Kaladin."
+      },
+      {
+        "id": "primary157-pattern-map71",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Shallan le reprocha que no haya explicado el enorme patrón de las Llanuras; Kaladin la oye hablar sin conocer aún al interlocutor.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-71"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Shallan le reprocha que no haya explicado el enorme patrón de las Llanuras; Kaladin la oye hablar sin conocer aún al interlocutor.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Shallan le reprocha que no haya explicado el enorme patrón de las Llanuras; Kaladin la oye hablar sin conocer aún al interlocutor."
+      },
+      {
+        "id": "primary157-stormface74",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Kaladin dialoga con el rostro en una visión desde el refugio; Shallan dice haber visto el rostro. Las preguntas de Kaladin sobre dios, spren o Heraldo no certifican una identidad con Jezerezeh.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-74"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Kaladin dialoga con el rostro en una visión desde el refugio; Shallan dice haber visto el rostro. Las preguntas de Kaladin sobre dios, spren o Heraldo no certifican una identidad con Jezerezeh.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Kaladin dialoga con el rostro en una visión desde el refugio; Shallan dice haber visto el rostro. Las preguntas de Kaladin sobre dios, spren o Heraldo no certifican una identidad con Jezerezeh."
+      },
+      {
+        "id": "primary157-syl-report74",
+        "entryId": "spren-person-syl",
+        "field": "description",
+        "value": "El Padre Tormenta afirma que Kaladin la ha matado y roto. Estado comunicado, sin ubicación corporal nueva ni comprobación independiente.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-74"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. El Padre Tormenta afirma que Kaladin la ha matado y roto. Estado comunicado, sin ubicación corporal nueva ni comprobación independiente.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. El Padre Tormenta afirma que Kaladin la ha matado y roto. Estado comunicado, sin ubicación corporal nueva ni comprobación independiente."
+      },
+      {
+        "id": "primary157-pattern-memory75",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Dice que las Palabras ya fueron pronunciadas y que a Shallan le falta verdad. Explica su memoria incompleta y que los antiguos vinculados perdieron la mente; no anuncia una muerte futura como hecho cumplido.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-75"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Dice que las Palabras ya fueron pronunciadas y que a Shallan le falta verdad. Explica su memoria incompleta y que los antiguos vinculados perdieron la mente; no anuncia una muerte futura como hecho cumplido.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Dice que las Palabras ya fueron pronunciadas y que a Shallan le falta verdad. Explica su memoria incompleta y que los antiguos vinculados perdieron la mente; no anuncia una muerte futura como hecho cumplido."
+      },
+      {
+        "id": "primary157-cryptic-deaths75",
+        "entryId": "spren-type-cryptics",
+        "field": "description",
+        "value": "Según Patrón, no sobrevivió ningún críptico que hubiese experimentado el vínculo antiguo. Describe muerte como pérdida de mente y restauraciones fallidas, no destrucción de la fuerza.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-75"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Según Patrón, no sobrevivió ningún críptico que hubiese experimentado el vínculo antiguo. Describe muerte como pérdida de mente y restauraciones fallidas, no destrucción de la fuerza.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Según Patrón, no sobrevivió ningún críptico que hubiese experimentado el vínculo antiguo. Describe muerte como pérdida de mente y restauraciones fallidas, no destrucción de la fuerza."
+      },
+      {
+        "id": "primary157-storm-survivor75",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Patrón lo incluye entre los supervivientes de los pueblos spren de la Traición. Esto revela su naturaleza de spren sin identificarlo con un Heraldo.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-75"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Patrón lo incluye entre los supervivientes de los pueblos spren de la Traición. Esto revela su naturaleza de spren sin identificarlo con un Heraldo.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Patrón lo incluye entre los supervivientes de los pueblos spren de la Traición. Esto revela su naturaleza de spren sin identificarlo con un Heraldo."
+      },
+      {
+        "id": "primary157-exhaust75",
+        "entryId": "spren-type-exhaustionspren",
+        "field": "description",
+        "value": "Revolotean alrededor de Kaladin durante el examen médico.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-75"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Revolotean alrededor de Kaladin durante el examen médico.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Revolotean alrededor de Kaladin durante el examen médico."
+      },
+      {
+        "id": "primary157-glory75",
+        "entryId": "spren-type-gloryspren",
+        "field": "description",
+        "value": "Sustituyen a los agotaspren cuando Kaladin presenta la gema corazón.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-75"
+        },
+        "sourceIds": [
+          "primary157-wor71-75"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Sustituyen a los agotaspren cuando Kaladin presenta la gema corazón.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Sustituyen a los agotaspren cuando Kaladin presenta la gema corazón."
       }
     ],
     "links": [
@@ -12262,9 +12408,10 @@
         "sceneId": "wor-chapter-71"
       },
       "sourceIds": [
-        "family74-wor-chapter-71"
+        "family74-wor-chapter-71",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [
@@ -12279,7 +12426,8 @@
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Padres de Teft mencionados explícitamente; conserva las menciones anteriores ya conocidas."
     },
     {
       "id": "family74-teft-mother-teft-parent-wor-chapter-71",
@@ -12293,9 +12441,10 @@
         "sceneId": "wor-chapter-71"
       },
       "sourceIds": [
-        "family74-wor-chapter-71"
+        "family74-wor-chapter-71",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [
@@ -12310,7 +12459,8 @@
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Padres de Teft mencionados explícitamente; conserva las menciones anteriores ya conocidas."
     },
     {
       "id": "family74-moash-moash-uncle-companion-chapter-14",
@@ -22825,9 +22975,10 @@
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "wor-c71"
+        "wor-c71",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -22841,7 +22992,8 @@
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Comparan el mapa y el sueño, comparten su dolor y se refugian juntos."
     },
     {
       "id": "interaction-wor-chapter-72-shallan-kaladin-7",
@@ -22860,9 +23012,10 @@
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "wor-c72"
+        "wor-c72",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -22876,7 +23029,8 @@
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Préstamo de hoja, señuelos, combate, extracción, vendaje y construcción del refugio."
     },
     {
       "id": "interaction-wor-chapter-74-shallan-kaladin-8",
@@ -22895,9 +23049,10 @@
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "wor-c74"
+        "wor-c74",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -22911,7 +23066,8 @@
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Se sostienen y relatan sus vidas durante la tormenta."
     },
     {
       "id": "interaction-wor-chapter-75-shallan-kaladin-9",
@@ -22930,9 +23086,10 @@
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "wor-c75"
+        "wor-c75",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -22946,7 +23103,8 @@
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Shallan corrige públicamente el relato de Kaladin y él acepta la cobertura; contacto directo en el pabellón."
     },
     {
       "id": "interaction-wor-chapter-89-shallan-kaladin-10",
@@ -23001,9 +23159,10 @@
       },
       "sourceIds": [
         "wor-c74",
-        "wok-c47"
+        "wok-c47",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "occurredAt": {
         "bookId": "wok",
@@ -23022,7 +23181,8 @@
             "helaran"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Kaladin deduce por el relato de Shallan que mató a Helaran en el combate pasado. Se conserva el encuentro histórico, no una presencia actual."
     },
     {
       "id": "interaction-chapter-8-shallan-jasnah-12",
@@ -46944,6 +47104,516 @@
           ]
         ]
       }
+    },
+    {
+      "id": "primary157-teft-sigzil71",
+      "participants": [
+        "teft",
+        "sigzil"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "type": "conversation",
+      "summary": "Durante la vigilia, Teft relata la secta de su familia y las muertes de sus padres.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Comparan el mapa y el sueño, comparten su dolor y se refugian juntos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Durante la vigilia, Teft relata la secta de su familia y las muertes de sus padres.",
+        "pairs": [
+          [
+            "teft",
+            "sigzil"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-dalinar-vigil71",
+      "participants": [
+        "teft",
+        "dalinar",
+        "sigzil"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "type": "conversation",
+      "summary": "Dalinar pide que coman y se retiren durante la tormenta; cree muerto a Kaladin, sin comprobarlo.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Comparan el mapa y el sueño, comparten su dolor y se refugian juntos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pide que coman y se retiren durante la tormenta; cree muerto a Kaladin, sin comprobarlo.",
+        "pairs": [
+          [
+            "teft",
+            "dalinar"
+          ],
+          [
+            "sigzil",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-siblings73",
+      "participants": [
+        "shallan",
+        "balat",
+        "jushu",
+        "wikim"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "type": "conversation",
+      "summary": "Hablan de la fuga; Wikim avisa de la llegada de Eylita.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Hablan de la fuga; Wikim avisa de la llegada de Eylita.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de la fuga; Wikim avisa de la llegada de Eylita.",
+        "pairs": [
+          [
+            "shallan",
+            "balat"
+          ],
+          [
+            "shallan",
+            "jushu"
+          ],
+          [
+            "balat",
+            "jushu"
+          ],
+          [
+            "balat",
+            "wikim"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-fight73",
+      "participants": [
+        "balat",
+        "lin-davar",
+        "eylita",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "type": "conflict",
+      "summary": "Enfrentamiento padre e hijo, intento de Eylita de detenerlo y vino servido por Shallan.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Enfrentamiento padre e hijo, intento de Eylita de detenerlo y vino servido por Shallan.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Enfrentamiento padre e hijo, intento de Eylita de detenerlo y vino servido por Shallan.",
+        "pairs": [
+          [
+            "balat",
+            "lin-davar"
+          ],
+          [
+            "eylita",
+            "balat"
+          ],
+          [
+            "shallan",
+            "lin-davar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-care73",
+      "participants": [
+        "shallan",
+        "eylita",
+        "balat",
+        "wikim",
+        "jushu"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "type": "conversation",
+      "summary": "Atienden a Balat, descubren el moldeador y comprueban que Lin sigue vivo tras el veneno.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Atienden a Balat, descubren el moldeador y comprueban que Lin sigue vivo tras el veneno.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Atienden a Balat, descubren el moldeador y comprueban que Lin sigue vivo tras el veneno.",
+        "pairs": [
+          [
+            "shallan",
+            "eylita"
+          ],
+          [
+            "eylita",
+            "balat"
+          ],
+          [
+            "shallan",
+            "balat"
+          ],
+          [
+            "shallan",
+            "wikim"
+          ],
+          [
+            "jushu",
+            "wikim"
+          ],
+          [
+            "shallan",
+            "jushu"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-lin-death73",
+      "participants": [
+        "shallan",
+        "lin-davar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "type": "conflict",
+      "summary": "Shallan estrangula a Lin mientras recita su nana; no lo mata el tajo ni el veneno.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Shallan estrangula a Lin mientras recita su nana; no lo mata el tajo ni el veneno.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan estrangula a Lin mientras recita su nana; no lo mata el tajo ni el veneno.",
+        "pairs": [
+          [
+            "shallan",
+            "lin-davar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-amaram75",
+      "participants": [
+        "dalinar",
+        "amaram"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Discrepan sobre Sadeas, la expedición y el informe sobre Bordin; afirmaciones de Amaram no son comprobaciones independientes.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Shallan corrige públicamente el relato de Kaladin y él acepta la cobertura; contacto directo en el pabellón.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discrepan sobre Sadeas, la expedición y el informe sobre Bordin; afirmaciones de Amaram no son comprobaciones independientes.",
+        "pairs": [
+          [
+            "dalinar",
+            "amaram"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-staff75",
+      "participants": [
+        "dalinar",
+        "navani-scribe-tall-pr75",
+        "kaladin-return-messenger-pr75"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Ordena cancelar la incursión y recibe la noticia del regreso.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Shallan corrige públicamente el relato de Kaladin y él acepta la cobertura; contacto directo en el pabellón.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ordena cancelar la incursión y recibe la noticia del regreso.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani-scribe-tall-pr75"
+          ],
+          [
+            "dalinar",
+            "kaladin-return-messenger-pr75"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-return75",
+      "participants": [
+        "dalinar",
+        "kaladin",
+        "shallan",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Examen médico, gema corazón y preparativos de cuidados; la historia del cadáver podrido es una cobertura.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Shallan corrige públicamente el relato de Kaladin y él acepta la cobertura; contacto directo en el pabellón.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Examen médico, gema corazón y preparativos de cuidados; la historia del cadáver podrido es una cobertura.",
+        "pairs": [
+          [
+            "dalinar",
+            "kaladin"
+          ],
+          [
+            "dalinar",
+            "shallan"
+          ],
+          [
+            "navani",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-pattern75",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Reproduce la conversación espiada y explica memoria, juramentos y muerte de spren.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Reproduce la conversación espiada y explica memoria, juramentos y muerte de spren.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Reproduce la conversación espiada y explica memoria, juramentos y muerte de spren.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-couple75",
+      "participants": [
+        "shallan",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Se abrazan y besan; discuten la protección y él informa del envenenamiento del saboteador.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Se abrazan y besan; discuten la protección y él informa del envenenamiento del saboteador.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Se abrazan y besan; discuten la protección y él informa del envenenamiento del saboteador.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-study75",
+      "participants": [
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Debaten en el estudio la participación de Shallan, escuchados por Patrón sin interacción con él.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Debaten en el estudio la participación de Shallan, escuchados por Patrón sin interacción con él.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Debaten en el estudio la participación de Shallan, escuchados por Patrón sin interacción con él.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary157-map-meeting75",
+      "participants": [
+        "shallan",
+        "dalinar",
+        "navani",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "type": "conversation",
+      "summary": "Acuerdan acompañar la expedición y dejar a los parshmenios en el campamento. No han partido todavía.",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Acuerdan acompañar la expedición y dejar a los parshmenios en el campamento. No han partido todavía.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Acuerdan acompañar la expedición y dejar a los parshmenios en el campamento. No han partido todavía.",
+        "pairs": [
+          [
+            "shallan",
+            "dalinar"
+          ],
+          [
+            "shallan",
+            "navani"
+          ],
+          [
+            "adolin",
+            "navani"
+          ],
+          [
+            "adolin",
+            "dalinar"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -69817,6 +70487,465 @@
       "primaryLocator": "EPUB español aportado, OEBPS/Text/04_070.xhtml. El corresponsal anónimo afirma que han pasado milenios sin que Rayse mate a otro de los dieciséis, fuera o no designio de Tanavast. Se conserva como afirmación de la carta, sin nuevas identidades o ubicaciones.",
       "readingLocator": "EPUB español aportado, OEBPS/Text/04_070.xhtml. El corresponsal anónimo afirma que han pasado milenios sin que Rayse mate a otro de los dieciséis, fuera o no designio de Tanavast. Se conserva como afirmación de la carta, sin nuevas identidades o ubicaciones.",
       "supersedes": []
+    },
+    {
+      "id": "primary157-teft-history71",
+      "characterId": "teft",
+      "kind": "background",
+      "text": "Los Vislumbradores ponían en peligro a sus propios miembros buscando despertar poderes. Teft los denunció al señor de la ciudad y fueron ejecutados. Su madre murió antes en el artilugio; vio ahorcar a su padre, pero no presenció la muerte de su madre. No se fecha ni localiza el episodio.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Los Vislumbradores ponían en peligro a sus propios miembros buscando despertar poderes. Teft los denunció al señor de la ciudad y fueron ejecutados. Su madre murió antes en el artilugio; vio ahorcar a su padre, pero no presenció la muerte de su madre. No se fecha ni localiza el episodio.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Los Vislumbradores ponían en peligro a sus propios miembros buscando despertar poderes. Teft los denunció al señor de la ciudad y fueron ejecutados. Su madre murió antes en el artilugio; vio ahorcar a su padre, pero no presenció la muerte de su madre. No se fecha ni localiza el episodio.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-teft-city-lord-pr71-71",
+      "characterId": "teft-city-lord-pr71",
+      "kind": "background",
+      "text": "Teft dice que llevó a juicio y mandó ejecutar a los miembros denunciados; sin nombre ni ubicación nueva.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Teft dice que llevó a juicio y mandó ejecutar a los miembros denunciados; sin nombre ni ubicación nueva.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Teft dice que llevó a juicio y mandó ejecutar a los miembros denunciados; sin nombre ni ubicación nueva.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-eshu-mentioned-pr71-71",
+      "characterId": "eshu-mentioned-pr71",
+      "kind": "background",
+      "text": "Uno de los diez locos, recordado por Kaladin por hablar sin comprender. Mención sin presencia ni identificación añadida.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Uno de los diez locos, recordado por Kaladin por hablar sin comprender. Mención sin presencia ni identificación añadida.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Uno de los diez locos, recordado por Kaladin por hablar sin comprender. Mención sin presencia ni identificación añadida.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-dalinar-belief71",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Afirma que Kaladin está muerto; es su creencia por la caída, no una muerte observada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Afirma que Kaladin está muerto; es su creencia por la caída, no una muerte observada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Afirma que Kaladin está muerto; es su creencia por la caída, no una muerte observada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-parents71",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Recuerda que su padre le reprochaba culparse de todo y cuenta que su madre disfrutaba los juegos de palabras; no se desplaza a ninguno de ellos al abismo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Recuerda que su padre le reprochaba culparse de todo y cuenta que su madre disfrutaba los juegos de palabras; no se desplaza a ninguno de ellos al abismo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Recuerda que su padre le reprochaba culparse de todo y cuenta que su madre disfrutaba los juegos de palabras; no se desplaza a ninguno de ellos al abismo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-symmetry71",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Relaciona la simetría de las mesetas con cimáticas y deduce la ubicación del centro y de la Puerta Jurada. La causa de la destrucción sigue siendo hipótesis; no han llegado al centro.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Relaciona la simetría de las mesetas con cimáticas y deduce la ubicación del centro y de la Puerta Jurada. La causa de la destrucción sigue siendo hipótesis; no han llegado al centro.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Relaciona la simetría de las mesetas con cimáticas y deduce la ubicación del centro y de la Puerta Jurada. La causa de la destrucción sigue siendo hipótesis; no han llegado al centro.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-blade71",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Invoca una hoja esquirlada y se la ofrece a Kaladin al final del capítulo. No se identifica todavía su naturaleza por conocimientos posteriores.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-71"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Invoca una hoja esquirlada y se la ofrece a Kaladin al final del capítulo. No se identifica todavía su naturaleza por conocimientos posteriores.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Invoca una hoja esquirlada y se la ofrece a Kaladin al final del capítulo. No se identifica todavía su naturaleza por conocimientos posteriores.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-illusions72",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Las figuras de Shallan y del Kaladin gigante durante el combate son sus ilusiones. Kaladin no conoce su origen; no son una transformación suya ni poder restaurado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-72"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Las figuras de Shallan y del Kaladin gigante durante el combate son sus ilusiones. Kaladin no conoce su origen; no son una transformación suya ni poder restaurado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Las figuras de Shallan y del Kaladin gigante durante el combate son sus ilusiones. Kaladin no conoce su origen; no son una transformación suya ni poder restaurado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-wounds72",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Sigue vivo con heridas en pierna y costado, sin luz tormentosa. La preocupación por morir en la tormenta no equivale a una muerte.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-72"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Sigue vivo con heridas en pierna y costado, sin luz tormentosa. La preocupación por morir en la tormenta no equivale a una muerte.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Sigue vivo con heridas en pierna y costado, sin luz tormentosa. La preocupación por morir en la tormenta no equivale a una muerte.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-blade-size72",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "La hoja se reduce al tamaño de un cuchillo grande cuando necesita excavar. No se asigna aquí un nombre o una especie al arma.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-72"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. La hoja se reduce al tamaño de un cuchillo grande cuando necesita excavar. No se asigna aquí un nombre o una especie al arma.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. La hoja se reduce al tamaño de un cuchillo grande cuando necesita excavar. No se asigna aquí un nombre o una especie al arma.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-escape73",
+      "characterId": "balat",
+      "kind": "background",
+      "text": "Pretende huir con Eylita después de la tormenta y acudir al alto príncipe; el plan queda interrumpido. No llega a Vedenar.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Pretende huir con Eylita después de la tormenta y acudir al alto príncipe; el plan queda interrumpido. No llega a Vedenar.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Pretende huir con Eylita después de la tormenta y acudir al alto príncipe; el plan queda interrumpido. No llega a Vedenar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-tavinar-travel73",
+      "characterId": "tavinar",
+      "kind": "background",
+      "text": "Balat dice que los padres de Eylita pasarán el mes de visita en Alezkar. Es plan relatado, sin llegada observada ni ciudad concreta.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Balat dice que los padres de Eylita pasarán el mes de visita en Alezkar. Es plan relatado, sin llegada observada ni ciudad concreta.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Balat dice que los padres de Eylita pasarán el mes de visita en Alezkar. Es plan relatado, sin llegada observada ni ciudad concreta.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-eylita-mother-travel73",
+      "characterId": "eylita-mother",
+      "kind": "background",
+      "text": "Balat dice que los padres de Eylita pasarán el mes de visita en Alezkar. Es plan relatado, sin llegada observada ni ciudad concreta.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Balat dice que los padres de Eylita pasarán el mes de visita en Alezkar. Es plan relatado, sin llegada observada ni ciudad concreta.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Balat dice que los padres de Eylita pasarán el mes de visita en Alezkar. Es plan relatado, sin llegada observada ni ciudad concreta.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-eylita-maid-pr73-73",
+      "characterId": "eylita-maid-pr73",
+      "kind": "background",
+      "text": "Wikim informa que ha llegado con Eylita; cuando comienza la tormenta, la familia queda sola. No se fija ubicación de la doncella.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Wikim informa que ha llegado con Eylita; cuando comienza la tormenta, la familia queda sola. No se fija ubicación de la doncella.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Wikim informa que ha llegado con Eylita; cuando comienza la tormenta, la familia queda sola. No se fija ubicación de la doncella.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-helaran-report73",
+      "characterId": "helaran",
+      "kind": "background",
+      "text": "Lin dice que murió en un campo de batalla en Alezkar y que no tuvo que matarlo él. Se conserva la atribución del relato.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Lin dice que murió en un campo de batalla en Alezkar y que no tuvo que matarlo él. Se conserva la atribución del relato.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Lin dice que murió en un campo de batalla en Alezkar y que no tuvo que matarlo él. Se conserva la atribución del relato.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-soulcaster73",
+      "characterId": "jushu",
+      "kind": "background",
+      "text": "Saca del bolsillo de Lin el moldeador con una gema y el metal rotos por la espada de Balat; no lo activa ni aprende a usarlo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Saca del bolsillo de Lin el moldeador con una gema y el metal rotos por la espada de Balat; no lo activa ni aprende a usarlo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Saca del bolsillo de Lin el moldeador con una gema y el metal rotos por la espada de Balat; no lo activa ni aprende a usarlo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-poison73",
+      "characterId": "lin-davar",
+      "kind": "background",
+      "text": "Primero parece muerto, pero el veneno solo lo paraliza. Su posterior movimiento no es resurrección ni posesión confirmada: esas son palabras alarmadas de Jushu.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-73"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Primero parece muerto, pero el veneno solo lo paraliza. Su posterior movimiento no es resurrección ni posesión confirmada: esas son palabras alarmadas de Jushu.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Primero parece muerto, pero el veneno solo lo paraliza. Su posterior movimiento no es resurrección ni posesión confirmada: esas son palabras alarmadas de Jushu.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-vision74",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "El Padre Tormenta lo llama hijo de Honor e hijo de Tanavast; no se convierte ese apelativo en filiación biológica. Shallan ve el rostro, pero queda fuera del diálogo de la visión.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-74"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. El Padre Tormenta lo llama hijo de Honor e hijo de Tanavast; no se convierte ese apelativo en filiación biológica. Shallan ve el rostro, pero queda fuera del diálogo de la visión.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. El Padre Tormenta lo llama hijo de Honor e hijo de Tanavast; no se convierte ese apelativo en filiación biológica. Shallan ve el rostro, pero queda fuera del diálogo de la visión.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-surging74",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Concluye que Shallan es potenciadora por las ilusiones y su supervivencia. No se lo dice todavía; ella no deduce que él mató a Helaran.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-74"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Concluye que Shallan es potenciadora por las ilusiones y su supervivencia. No se lo dice todavía; ella no deduce que él mató a Helaran.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Concluye que Shallan es potenciadora por las ilusiones y su supervivencia. No se lo dice todavía; ella no deduce que él mató a Helaran.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-shapes74",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Cree distinguir dos grandes formas luminosas caminando sobre la meseta durante la tormenta y un spren rojo y violeta ante el hueco. No se identifican especie, nombre ni orden por su aspecto.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-74"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Cree distinguir dos grandes formas luminosas caminando sobre la meseta durante la tormenta y un spren rojo y violeta ante el hueco. No se identifican especie, nombre ni orden por su aspecto.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Cree distinguir dos grandes formas luminosas caminando sobre la meseta durante la tormenta y un spren rojo y violeta ante el hueco. No se identifican especie, nombre ni orden por su aspecto.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-navani-scribe-tall-pr75-75",
+      "characterId": "navani-scribe-tall-pr75",
+      "kind": "background",
+      "text": "Consulta las asignaciones de incursiones y corre a cancelarlas; no se identifica con Rushu por su trabajo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Consulta las asignaciones de incursiones y corre a cancelarlas; no se identifica con Rushu por su trabajo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Consulta las asignaciones de incursiones y corre a cancelarlas; no se identifica con Rushu por su trabajo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-kaladin-return-messenger-pr75-75",
+      "characterId": "kaladin-return-messenger-pr75",
+      "kind": "background",
+      "text": "Llega sin aliento y anuncia que Bendito por la Tormenta ha salido de los abismos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llega sin aliento y anuncia que Bendito por la Tormenta ha salido de los abismos.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llega sin aliento y anuncia que Bendito por la Tormenta ha salido de los abismos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-medical-surgeon-pr75-75",
+      "characterId": "medical-surgeon-pr75",
+      "kind": "background",
+      "text": "Pide espacio a los hombres del puente durante el examen; sin nombre revelado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Pide espacio a los hombres del puente durante el examen; sin nombre revelado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Pide espacio a los hombres del puente durante el examen; sin nombre revelado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-cover75",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "La historia de que hallaron al abismoide muerto y podrido es una mentira acordada públicamente, no una corrección del combate leído.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. La historia de que hallaron al abismoide muerto y podrido es una mentira acordada públicamente, no una corrección del combate leído.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. La historia de que hallaron al abismoide muerto y podrido es una mentira acordada públicamente, no una corrección del combate leído.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-sabotage75",
+      "characterId": "bridge-saboteur-pr68",
+      "kind": "background",
+      "text": "Adolin dice que murió envenenado antes de que pudieran obtener respuestas. Sigue siendo sospecha su afirmación de que actuaba para Sadeas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Adolin dice que murió envenenado antes de que pudieran obtener respuestas. Sigue siendo sospecha su afirmación de que actuaba para Sadeas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Adolin dice que murió envenenado antes de que pudieran obtener respuestas. Sigue siendo sospecha su afirmación de que actuaba para Sadeas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-no-uncle75",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Dalinar llama tío a Sebarial al pedirle que envíe un mensaje: sigue siendo la cobertura social conocida, no parentesco biológico nuevo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Dalinar llama tío a Sebarial al pedirle que envíe un mensaje: sigue siendo la cobertura social conocida, no parentesco biológico nuevo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Dalinar llama tío a Sebarial al pedirle que envíe un mensaje: sigue siendo la cobertura social conocida, no parentesco biológico nuevo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary157-navani-aunt75",
+      "characterId": "adolin",
+      "kind": "background",
+      "text": "Llama tía a Navani durante la conversación; no se añade ascendencia intermedia ni nuevo matrimonio.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llama tía a Navani durante la conversación; no se añade ascendencia intermedia ni nuevo matrimonio.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llama tía a Navani durante la conversación; no se añade ascendencia intermedia ni nuevo matrimonio.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -72310,6 +73439,10 @@
         {
           "revision": 156,
           "notes": "PR67: marido de Sivi y corte de Ruthar confirmados; esposa de Dalinar sin nombre nuevo. PR68: tres ingenieras viudas y oficiales difuntos sin nombres ni ascendientes inventados. PR69–70: ausencias de cadáveres no certifican rescates; promesa sobre la familia de Adolin no crea parentescos."
+        },
+        {
+          "revision": 157,
+          "notes": "PR71 padres de Teft y modo de muerte atribuido a su relato; sin posiciones ficticias. PR73 un año antes: padres de Eylita de viaje planeado, Malise hallada muerta y Lin estrangulado tras parálisis. PR74 hijo de Honor/Tanavast no es filiación biológica. PR75 tío Sebarial es cobertura y tía Navani parentesco conocido, sin nuevos padres ni matrimonio cumplido."
         }
       ]
     }
@@ -72645,12 +73778,14 @@
         "sceneId": "wor-chapter-73"
       },
       "sourceIds": [
-        "wor-c73"
+        "wor-c73",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Hallazgo de su cuerpo en la escena histórica."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Shallan encuentra su cuerpo caliente junto a la cocina; atribuye a Lin los golpes mortales."
     },
     {
       "id": "life-lin-davar-wor-chapter-73",
@@ -72661,12 +73796,14 @@
         "sceneId": "wor-chapter-73"
       },
       "sourceIds": [
-        "wor-c73"
+        "wor-c73",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Se precisa la escena de muerte ya conocida por el lector; conservar el aviso anterior del primer libro."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. El veneno solo lo paraliza. Shallan lo estrangula con collar y tenedor al final del recuerdo."
     },
     {
       "id": "life-syl-wor-chapter-74",
@@ -72677,12 +73814,14 @@
         "sceneId": "wor-chapter-74"
       },
       "sourceIds": [
-        "wor-c74"
+        "wor-c74",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Estado comunicado por el Padre Tormenta. No se añade una ubicación en Shadesmar ni una confirmación independiente; una aclaración posterior requiere otro lifeEvent."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. El Padre Tormenta le dice que ha matado a Syl y que está rota. Se confirma la existencia de la declaración, no una muerte independiente."
     },
     {
       "id": "life-pai-wor-interlude-12",
@@ -73082,12 +74221,14 @@
         "sceneId": "wor-chapter-71"
       },
       "sourceIds": [
-        "family74-wor-chapter-71"
+        "family74-wor-chapter-71",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Familiar descrito como fallecido en el pasaje que revela el vínculo; no implica ubicación de la muerte."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Teft presenció el ahorcamiento de su padre después de denunciar la secta."
     },
     {
       "id": "family74-death-teft-mother",
@@ -73098,12 +74239,14 @@
         "sceneId": "wor-chapter-71"
       },
       "sourceIds": [
-        "family74-wor-chapter-71"
+        "family74-wor-chapter-71",
+        "primary157-wor71-75"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Familiar descrito como fallecido en el pasaje que revela el vínculo; no implica ubicación de la muerte."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Teft relata que murió en el artilugio de cuerda y roca; dice que no presenció su muerte."
     },
     {
       "id": "family74-death-moash-grandfather",
@@ -74870,6 +76013,23 @@
         "Herida seguida de curación y elección. No registrar muerte permanente."
       ],
       "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Final del interludio: habla, se arrodilla y perdona a Lift."
+    },
+    {
+      "id": "primary157-saboteur-reported-dead75",
+      "characterId": "bridge-saboteur-pr68",
+      "state": "reported-dead",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Adolin informa del envenenamiento, sin mostrar el cuerpo ni lugar de muerte.",
+      "notes": [
+        "No se inventa culpable del veneno ni posición del cadáver."
+      ]
     }
   ],
   "bookId": "wok",
@@ -74900,7 +76060,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 156,
+  "revision": 158,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -78350,6 +79510,31 @@
       "entryAnchor": {
         "placeId": "place-kholin-chasm-experiments-pr12",
         "name": "Abismos Kholin · Lugar de las pruebas de luz",
+        "xy": [
+          756.972,
+          453.279
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "id": "primary157-kaladin-storm-vision74",
+      "characterId": "kaladin",
+      "sceneId": "wor-chapter-74",
+      "type": "vision",
+      "experiencedPlace": "Rostro inmenso del Padre Tormenta, aguas inmóviles y refugio alterado; Shallan no forma parte del diálogo.",
+      "physicalPlaceId": "place-plains-storm-cubby",
+      "sourceIds": [
+        "primary157-wor71-75"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Kaladin llama visión a la experiencia; el frío y el dolor regresan al terminar.",
+      "notes": [
+        "El cuerpo permanece en el refugio; no se crea observación corporal en Shadesmar. Shallan afirma haber visto también el rostro, pero no participa en el diálogo."
+      ],
+      "entryAnchor": {
+        "placeId": "place-plains-storm-cubby",
+        "name": "Llanuras Quebradas · Refugio excavado en la sima",
         "xy": [
           756.972,
           453.279
@@ -87732,12 +88917,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -87754,11 +88940,153 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Dibujo del recorrido y comprobación de la simetría, sin coordenadas exactas.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-kaladin-loop71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Circuito alrededor de dos mesetas",
+          "placeId": "place-chasm-mapping-loop-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Circuito alrededor de dos mesetas",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Rodean dos mesetas para contrastar el mapa; Patrón es el interlocutor al que Shallan estaba hablando aparte.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rodean dos mesetas para contrastar el mapa; Patrón es el interlocutor al que Shallan estaba hablando aparte."
+          ]
+        },
+        {
+          "id": "primary157-kaladin-calls71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Intentos de llamar a exploradores",
+          "placeId": "place-chasm-scout-calls-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Intentos de llamar a exploradores",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Siguen avanzando y se detienen a dibujar y pedir auxilio; nadie responde.",
+          "needsConfirmation": [],
+          "notes": [
+            "Siguen avanzando y se detienen a dibujar y pedir auxilio; nadie responde."
+          ]
+        },
+        {
+          "id": "primary157-kaladin-crack71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Fisura estrecha ante el abismoide",
+          "placeId": "place-chasmfiend-crack-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Fisura estrecha ante el abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Se refugian en una fisura estrecha; el abismoide los vigila y Shallan invoca una hoja.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se refugian en una fisura estrecha; el abismoide los vigila y Shallan invoca una hoja."
+          ]
         },
         {
           "id": "wor-kaladin-chapter-72-01",
@@ -87768,24 +89096,25 @@
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Llanuras Quebradas · Simas recorridas por los supervivientes",
-          "placeId": "place-plains-survivors-chasms",
+          "place": "Abismos · Fisura estrecha ante el abismoide",
+          "placeId": "place-chasmfiend-crack-pr71",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta.",
-            "El mismo anclaje regional no implica inmovilidad; falta un plano local para dibujar el recorrido."
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Fisura estrecha ante el abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c72",
           "sourceIds": [
-            "wor-c72"
+            "wor-c72",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -87802,37 +89131,181 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-72"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Empiezan en la fisura antes de salir al combate.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-kaladin-chapter-72-02",
+          "id": "primary157-kaladin-fight72",
           "scene": "wor-chapter-72",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Llanuras Quebradas · Refugio excavado en la sima",
-          "placeId": "place-plains-storm-cubby",
+          "place": "Abismos · Combate y cadáver del abismoide",
+          "placeId": "place-chasmfiend-fight-pr72",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Abismos · Combate y cadáver del abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Combate con la hoja prestada sin poder absorber luz; sufre heridas en pierna y costado y mata a la criatura atravesando el paladar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Combate con la hoja prestada sin poder absorber luz; sufre heridas en pierna y costado y mata a la criatura atravesando el paladar."
+          ]
+        },
+        {
+          "id": "primary157-kaladin-after-fight72",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Combate y cadáver del abismoide",
+          "placeId": "place-chasmfiend-fight-pr72",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Abismos · Combate y cadáver del abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Shallan corta las mandíbulas, lo extrae vivo y venda las heridas siguiendo sus indicaciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan corta las mandíbulas, lo extrae vivo y venda las heridas siguiendo sus indicaciones."
+          ]
+        },
+        {
+          "id": "primary157-kaladin-carapace72",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Combate y cadáver del abismoide",
+          "placeId": "place-chasmfiend-fight-pr72",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Abismos · Combate y cadáver del abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Se reúnen sobre el caparazón; Shallan ayuda con una enredadera antes de iniciar el ascenso final.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúnen sobre el caparazón; Shallan ayuda con una enredadera antes de iniciar el ascenso final."
+          ]
+        },
+        {
+          "id": "wor-kaladin-chapter-72-02",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Escala excavada hacia el refugio",
+          "placeId": "place-cubby-climb-pr72",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Abismos · Escala excavada hacia el refugio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c72",
           "sourceIds": [
-            "wor-c72"
+            "wor-c72",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -87849,10 +89322,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-72"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Está aún escalando y extiende la mano al golpear el muro de tormenta; su entrada se narra en PR74.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -87874,12 +89345,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c74",
           "sourceIds": [
-            "wor-c74"
+            "wor-c74",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -87896,10 +89368,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-74"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Se refugian físicamente en el hueco mirando al oeste; al final ambos se duermen allí.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -87907,26 +89377,28 @@
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Campamento Kholin · Pabellón médico de la linde",
+          "placeId": "place-kholin-medical-pavilion-pr75",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Campamento Kholin · Pabellón médico de la linde",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -87943,10 +89415,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Regreso comprobado en el pabellón médico; relato del cadáver podrido es una cobertura falsa.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -98974,12 +100444,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -98996,11 +100467,153 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Dibujo del recorrido y comprobación de la simetría, sin coordenadas exactas.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-shallan-loop71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Circuito alrededor de dos mesetas",
+          "placeId": "place-chasm-mapping-loop-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Circuito alrededor de dos mesetas",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Rodean dos mesetas para contrastar el mapa; Patrón es el interlocutor al que Shallan estaba hablando aparte.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rodean dos mesetas para contrastar el mapa; Patrón es el interlocutor al que Shallan estaba hablando aparte."
+          ]
+        },
+        {
+          "id": "primary157-shallan-calls71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Intentos de llamar a exploradores",
+          "placeId": "place-chasm-scout-calls-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Intentos de llamar a exploradores",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Siguen avanzando y se detienen a dibujar y pedir auxilio; nadie responde.",
+          "needsConfirmation": [],
+          "notes": [
+            "Siguen avanzando y se detienen a dibujar y pedir auxilio; nadie responde."
+          ]
+        },
+        {
+          "id": "primary157-shallan-crack71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Fisura estrecha ante el abismoide",
+          "placeId": "place-chasmfiend-crack-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Fisura estrecha ante el abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Se refugian en una fisura estrecha; el abismoide los vigila y Shallan invoca una hoja.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se refugian en una fisura estrecha; el abismoide los vigila y Shallan invoca una hoja."
+          ]
         },
         {
           "id": "wor-shallan-chapter-72-01",
@@ -99010,24 +100623,25 @@
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Llanuras Quebradas · Simas recorridas por los supervivientes",
-          "placeId": "place-plains-survivors-chasms",
+          "place": "Abismos · Fisura estrecha ante el abismoide",
+          "placeId": "place-chasmfiend-crack-pr71",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta.",
-            "El mismo anclaje regional no implica inmovilidad; falta un plano local para dibujar el recorrido."
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Fisura estrecha ante el abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c72",
           "sourceIds": [
-            "wor-c72"
+            "wor-c72",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -99044,18 +100658,112 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-72"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Empiezan en la fisura antes de salir al combate.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-shallan-chapter-72-02",
+          "id": "primary157-shallan-hidden72",
           "scene": "wor-chapter-72",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Combate · Peñasco donde Shallan se oculta",
+          "placeId": "place-shallan-illusion-rock-pr72",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Combate · Peñasco donde Shallan se oculta",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Se mantiene cerca y oculta con negrura mientras crea señuelos de ambos. Las figuras son ilusiones, no cuerpos duplicados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se mantiene cerca y oculta con negrura mientras crea señuelos de ambos. Las figuras son ilusiones, no cuerpos duplicados."
+          ]
+        },
+        {
+          "id": "primary157-shallan-after-fight72",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Combate y cadáver del abismoide",
+          "placeId": "place-chasmfiend-fight-pr72",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Abismos · Combate y cadáver del abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Shallan corta las mandíbulas, lo extrae vivo y venda las heridas siguiendo sus indicaciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan corta las mandíbulas, lo extrae vivo y venda las heridas siguiendo sus indicaciones."
+          ]
+        },
+        {
+          "id": "primary157-shallan-excavate72",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Llanuras Quebradas · Refugio excavado en la sima",
@@ -99069,12 +100777,108 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Excava el refugio durante aproximadamente una hora; la hoja se acorta para hacer asideros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Excava el refugio durante aproximadamente una hora; la hoja se acorta para hacer asideros."
+          ]
+        },
+        {
+          "id": "primary157-shallan-carapace72",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Abismos · Combate y cadáver del abismoide",
+          "placeId": "place-chasmfiend-fight-pr72",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_072.xhtml. Abismos · Combate y cadáver del abismoide",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-72"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Se reúnen sobre el caparazón; Shallan ayuda con una enredadera antes de iniciar el ascenso final.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúnen sobre el caparazón; Shallan ayuda con una enredadera antes de iniciar el ascenso final."
+          ]
+        },
+        {
+          "id": "wor-shallan-chapter-72-02",
+          "scene": "wor-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Refugio excavado en la sima",
+          "placeId": "place-plains-storm-cubby",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c72",
           "sourceIds": [
-            "wor-c72"
+            "wor-c72",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -99091,10 +100895,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-72"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_072.xhtml. Entra en el hueco y ofrece la mano a Kaladin.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -99116,13 +100918,14 @@
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -99133,45 +100936,140 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-shallan-chapter-73-02",
+          "id": "primary157-shallan-passage73",
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Casa Davar · Pasillo de salida de la habitación de Balat",
+          "placeId": "place-davar-balat-hall-pr73",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "EPUB español aportado, OEBPS/Text/04_073.xhtml. Casa Davar · Pasillo de salida de la habitación de Balat",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": 1,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-73"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Sale al pasillo y sube en vez de seguir inmediatamente a Balat.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale al pasillo y sube en vez de seguir inmediatamente a Balat."
+          ]
+        },
+        {
+          "id": "primary157-shallan-upstairs73",
+          "scene": "wor-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Casa Davar · Planta superior donde recoge la bolsa",
+          "placeId": "place-davar-poison-upstairs-pr73",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_073.xhtml. Casa Davar · Planta superior donde recoge la bolsa",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": 1,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-73"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recoge la bolsa de veneno que le dio Wikim; no se especifica la habitación exacta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recoge la bolsa de veneno que le dio Wikim; no se especifica la habitación exacta."
+          ]
+        },
+        {
+          "id": "wor-shallan-chapter-73-02",
+          "scene": "wor-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -99182,18 +101080,112 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
+          ]
+        },
+        {
+          "id": "primary157-shallan-body73",
+          "scene": "wor-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Casa Davar · Umbral de la cocina y cuerpo de Malise",
+          "placeId": "place-davar-kitchen-threshold-pr73",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_073.xhtml. Casa Davar · Umbral de la cocina y cuerpo de Malise",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": 1,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-73"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Encuentra a Malise muerta junto a la cocina, con sangre fresca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a Malise muerta junto a la cocina, con sangre fresca."
+          ]
+        },
+        {
+          "id": "primary157-shallan-wine73",
+          "scene": "wor-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": 1,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-73"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Sirve el vino envenenado, ayuda a vendar a Balat y finalmente estrangula a Lin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sirve el vino envenenado, ayuda a vendar a Balat y finalmente estrangula a Lin."
           ]
         },
         {
@@ -99215,12 +101207,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c74",
           "sourceIds": [
-            "wor-c74"
+            "wor-c74",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -99237,10 +101230,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-74"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_074.xhtml. Se refugian físicamente en el hueco mirando al oeste; al final ambos se duermen allí.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -99248,26 +101239,28 @@
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Campamento Kholin · Pabellón médico de la linde",
+          "placeId": "place-kholin-medical-pavilion-pr75",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Campamento Kholin · Pabellón médico de la linde",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -99284,10 +101277,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Regreso comprobado en el pabellón médico; relato del cadáver podrido es una cobertura falsa.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -99295,10 +101286,10 @@
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamentos · Estancia tras el regreso de las simas",
+          "place": "Complejo de Dalinar · Salita de recuperación",
           "placeId": "place-shallan-post-chasm-recovery",
           "realm": "physical",
           "placeNotes": [
@@ -99309,12 +101300,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -99331,10 +101323,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Recuperación y reunión en la salita; la marcha aún es futura.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -112226,7 +114216,7 @@
           "scene": "wor-chapter-71",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Borde del campamento Kholin · Vigilia",
@@ -112240,12 +114230,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -112262,11 +114253,57 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Vigilia en el borde oriental, con llegada posterior de Dalinar.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-dalinar-inspection71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Borde oriental Kholin · Camino de inspección del batallón",
+          "placeId": "place-kholin-inspection-path-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Borde oriental Kholin · Camino de inspección del batallón",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Se alejan para inspeccionar; no se narra llegada al batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se alejan para inspeccionar; no se narra llegada al batallón."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-75-01",
@@ -112287,12 +114324,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -112309,10 +114347,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Inspeccionan preparativos antes de recibir la noticia del regreso.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -112323,23 +114359,25 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Campamento Kholin · Pabellón médico de la linde",
+          "placeId": "place-kholin-medical-pavilion-pr75",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Campamento Kholin · Pabellón médico de la linde",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -112356,21 +114394,67 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Regreso comprobado en el pabellón médico; relato del cadáver podrido es una cobertura falsa.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-dalinar-study75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Complejo de Dalinar · Estudio contiguo a la salita",
+          "placeId": "place-dalinar-study-adjoining-pr75",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Complejo de Dalinar · Estudio contiguo a la salita",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Hablan en el estudio; Patrón escucha y luego reproduce la conversación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hablan en el estudio; Patrón escucha y luego reproduce la conversación."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-75-03",
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamentos · Estancia tras el regreso de las simas",
+          "place": "Complejo de Dalinar · Salita de recuperación",
           "placeId": "place-shallan-post-chasm-recovery",
           "realm": "physical",
           "placeNotes": [
@@ -112381,12 +114465,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -112403,11 +114488,56 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Recuperación y reunión en la salita; la marcha aún es futura.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-dalinar-recovery75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Complejo de Dalinar · Salita de recuperación",
+          "placeId": "place-shallan-post-chasm-recovery",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Entran en la salita y acuerdan llevar a Shallan y dejar a los parshmenios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entran en la salita y acuerdan llevar a Shallan y dejar a los parshmenios."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-76-01",
@@ -119492,10 +121622,10 @@
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamentos · Estancia tras el regreso de las simas",
+          "place": "Complejo de Dalinar · Salita de recuperación",
           "placeId": "place-shallan-post-chasm-recovery",
           "realm": "physical",
           "placeNotes": [
@@ -119506,12 +121636,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -119528,10 +121659,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Recuperación y reunión en la salita; la marcha aún es futura.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -122971,12 +125100,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -122993,10 +125123,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Vigilia en el borde oriental, con llegada posterior de Dalinar.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -129218,12 +131346,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -129240,21 +131369,115 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Inspeccionan preparativos antes de recibir la noticia del regreso.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-navani-medical75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Pabellón médico de la linde",
+          "placeId": "place-kholin-medical-pavilion-pr75",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Campamento Kholin · Pabellón médico de la linde",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llegan después de Dalinar al pabellón; no se inventa el destino posterior de Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan después de Dalinar al pabellón; no se inventa el destino posterior de Amaram."
+          ]
+        },
+        {
+          "id": "primary157-navani-study75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Complejo de Dalinar · Estudio contiguo a la salita",
+          "placeId": "place-dalinar-study-adjoining-pr75",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Complejo de Dalinar · Estudio contiguo a la salita",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Hablan en el estudio; Patrón escucha y luego reproduce la conversación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hablan en el estudio; Patrón escucha y luego reproduce la conversación."
+          ]
         },
         {
           "id": "wor-navani-chapter-75-02",
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamentos · Estancia tras el regreso de las simas",
+          "place": "Complejo de Dalinar · Salita de recuperación",
           "placeId": "place-shallan-post-chasm-recovery",
           "realm": "physical",
           "placeNotes": [
@@ -129265,12 +131488,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -129287,11 +131511,56 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Recuperación y reunión en la salita; la marcha aún es futura.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-navani-recovery75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Complejo de Dalinar · Salita de recuperación",
+          "placeId": "place-shallan-post-chasm-recovery",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Entran en la salita y acuerdan llevar a Shallan y dejar a los parshmenios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entran en la salita y acuerdan llevar a Shallan y dejar a los parshmenios."
+          ]
         },
         {
           "id": "wor-navani-chapter-77-01",
@@ -135384,12 +137653,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -135406,10 +137676,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Vigilia en el borde oriental, con llegada posterior de Dalinar.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -139916,13 +142184,14 @@
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -139933,16 +142202,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -139950,28 +142217,29 @@
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -139982,16 +142250,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
           ]
@@ -140408,13 +142674,14 @@
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -140425,16 +142692,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -140442,28 +142707,28 @@
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Casa Davar · Umbral del salón",
+          "placeId": "place-davar-dining-threshold-pr73",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "EPUB OEBPS/Text/04_073.xhtml: Jushu y Wikim esperan en la puerta y entran más tarde."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -140474,18 +142739,64 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
+          ]
+        },
+        {
+          "id": "primary157-wikim-inside73",
+          "scene": "wor-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": 1,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-73"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Entran para reunirse con los demás y examinan a su padre y el moldeador roto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entran para reunirse con los demás y examinan a su padre y el moldeador roto."
           ]
         }
       ]
@@ -142190,28 +144501,29 @@
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -142222,16 +144534,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
           ]
@@ -146302,12 +148612,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -146324,10 +148635,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Vigilia en el borde oriental, con llegada posterior de Dalinar.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -150504,12 +152813,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -150526,11 +152836,57 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Inspeccionan preparativos antes de recibir la noticia del regreso.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary157-amaram-medical75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Pabellón médico de la linde",
+          "placeId": "place-kholin-medical-pavilion-pr75",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Campamento Kholin · Pabellón médico de la linde",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llegan después de Dalinar al pabellón; no se inventa el destino posterior de Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan después de Dalinar al pabellón; no se inventa el destino posterior de Amaram."
+          ]
         },
         {
           "id": "wor-amaram-chapter-76-01",
@@ -151581,6 +153937,101 @@
           ]
         },
         {
+          "id": "primary157-skar-vigil71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Borde del campamento Kholin · Vigilia",
+          "placeId": "place-kholin-edge-vigil",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Acompañan a Dalinar como guardias del día.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan a Dalinar como guardias del día."
+          ]
+        },
+        {
+          "id": "primary157-skar-inspection71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Borde oriental Kholin · Camino de inspección del batallón",
+          "placeId": "place-kholin-inspection-path-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Borde oriental Kholin · Camino de inspección del batallón",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Se alejan para inspeccionar; no se narra llegada al batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se alejan para inspeccionar; no se narra llegada al batallón."
+          ]
+        },
+        {
           "id": "wor-skar-chapter-85-01",
           "scene": "wor-chapter-85",
           "retrospective": false,
@@ -152486,6 +154937,101 @@
           "needsConfirmation": [],
           "notes": [
             "Está junto al Puente Cuatro durante la cena. No se muestra que salga con el grupo de la taberna."
+          ]
+        },
+        {
+          "id": "primary157-drehy-vigil71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Borde del campamento Kholin · Vigilia",
+          "placeId": "place-kholin-edge-vigil",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Acompañan a Dalinar como guardias del día.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan a Dalinar como guardias del día."
+          ]
+        },
+        {
+          "id": "primary157-drehy-inspection71",
+          "scene": "wor-chapter-71",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Borde oriental Kholin · Camino de inspección del batallón",
+          "placeId": "place-kholin-inspection-path-pr71",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Borde oriental Kholin · Camino de inspección del batallón",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-71"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Se alejan para inspeccionar; no se narra llegada al batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se alejan para inspeccionar; no se narra llegada al batallón."
           ]
         },
         {
@@ -158563,12 +161109,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c71",
           "sourceIds": [
-            "wor-c71"
+            "wor-c71",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "inferred",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -158585,163 +161132,74 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-71"
           },
-          "locator": null,
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Dibujo del recorrido y comprobación de la simetría, sin coordenadas exactas.",
           "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
+            "Kaladin oye a Shallan hablar aparte, pero el pasaje no nombra ni localiza al interlocutor."
           ],
-          "notes": []
+          "notes": [
+            "La atribución a Patrón no se certifica como presencia individualizada."
+          ]
         },
         {
-          "id": "wor-pattern-chapter-72-01",
-          "scene": "wor-chapter-72",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Llanuras Quebradas · Simas recorridas por los supervivientes",
-          "placeId": "place-plains-survivors-chasms",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta.",
-            "El mismo anclaje regional no implica inmovilidad; falta un plano local para dibujar el recorrido."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c72",
-          "sourceIds": [
-            "wor-c72"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia de escena; sin fecha exacta ni simultaneidad entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-72"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
-        },
-        {
-          "id": "wor-pattern-chapter-72-02",
-          "scene": "wor-chapter-72",
+          "id": "primary157-pattern-loop71",
+          "scene": "wor-chapter-71",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Llanuras Quebradas · Refugio excavado en la sima",
-          "placeId": "place-plains-storm-cubby",
+          "place": "Abismos · Circuito alrededor de dos mesetas",
+          "placeId": "place-chasm-mapping-loop-pr71",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/04_071.xhtml. Abismos · Circuito alrededor de dos mesetas",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c72",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
           "sourceIds": [
-            "wor-c72"
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "inferred",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
           "coordinateAnchorName": "Llanuras Quebradas",
           "storyTime": {
+            "frame": "present",
             "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
             "date": null,
             "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia de escena; sin fecha exacta ni simultaneidad entre tramas."
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
           },
           "revealedAt": {
             "bookId": "wor",
-            "sceneId": "wor-chapter-72"
+            "sceneId": "wor-chapter-71"
           },
-          "locator": null,
+          "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Rodean dos mesetas para contrastar el mapa; Patrón es el interlocutor al que Shallan estaba hablando aparte.",
           "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
+            "Kaladin oye a Shallan hablar aparte, pero el pasaje no nombra ni localiza al interlocutor."
           ],
-          "notes": []
-        },
-        {
-          "id": "wor-pattern-chapter-74-01",
-          "scene": "wor-chapter-74",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Llanuras Quebradas · Refugio excavado en la sima",
-          "placeId": "place-plains-storm-cubby",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c74",
-          "sourceIds": [
-            "wor-c74"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia de escena; sin fecha exacta ni simultaneidad entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-74"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
+          "notes": [
+            "Rodean dos mesetas para contrastar el mapa; Patrón es el interlocutor al que Shallan estaba hablando aparte.",
+            "La atribución a Patrón no se certifica como presencia individualizada."
+          ]
         },
         {
           "id": "wor-pattern-chapter-75-01",
           "scene": "wor-chapter-75",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamentos · Estancia tras el regreso de las simas",
+          "place": "Complejo de Dalinar · Salita de recuperación",
           "placeId": "place-shallan-post-chasm-recovery",
           "realm": "physical",
           "placeNotes": [
@@ -158752,12 +161210,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c75",
           "sourceIds": [
-            "wor-c75"
+            "wor-c75",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -158774,10 +161233,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-75"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Recuperación y reunión en la salita; la marcha aún es futura.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -162545,28 +165002,29 @@
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -162577,16 +165035,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
           ]
@@ -169846,13 +172302,14 @@
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -169863,16 +172320,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -169880,28 +172335,28 @@
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Casa Davar · Umbral del salón",
+          "placeId": "place-davar-dining-threshold-pr73",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "EPUB OEBPS/Text/04_073.xhtml: Jushu y Wikim esperan en la puerta y entran más tarde."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -169912,18 +172367,64 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
+          ]
+        },
+        {
+          "id": "primary157-jushu-inside73",
+          "scene": "wor-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Propiedad Davar · Comedor del recuerdo",
+          "placeId": "place-davar-dining-room-pr19",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado, capítulo 19; líneas 11669-11837 de la extracción de 52283 líneas. Recuerdo situado explícitamente cinco años y medio antes; sin fecha absoluta.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": 1,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-73"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Entran para reunirse con los demás y examinan a su padre y el moldeador roto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entran para reunirse con los demás y examinan a su padre y el moldeador roto."
           ]
         }
       ]
@@ -179127,28 +181628,29 @@
           "scene": "wor-chapter-73",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Propiedad Davar · Banquete",
-          "placeId": "place-davar-estate-feast",
+          "place": "Casa Davar · Umbral de la cocina y cuerpo de Malise",
+          "placeId": "place-davar-kitchen-threshold-pr73",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 39; líneas 20318-20684 de la extracción de 52283 líneas. Salón del banquete con mesa alta y chimenea; recuerdo de cuatro años antes.",
-            "Dependencias sin coordenadas exactas."
+            "EPUB español aportado, OEBPS/Text/04_073.xhtml. Casa Davar · Umbral de la cocina y cuerpo de Malise",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c73",
           "sourceIds": [
             "wor-c73",
-            "wor-c73-coppermind"
+            "wor-c73-coppermind",
+            "primary157-wor71-75"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -179159,16 +181661,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 1,
-            "note": "Recuerdo posterior al asesinato; no cambia el presente narrativo."
+            "note": "Recuerdo un año antes: Malise ya ha muerto al ser hallada; Lin muere al final, después de parálisis por veneno."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-73"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_073.xhtml. Recuerdo de un año antes, no posición corporal en el presente.",
+          "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
           ]
@@ -214882,6 +217382,211 @@
       "color": "#a8b8c5",
       "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
       "events": []
+    },
+    {
+      "id": "teft-city-lord-pr71",
+      "name": "Señor de la ciudad del relato de Teft",
+      "role": "Teft dice que llevó a juicio y mandó ejecutar a los miembros denunciados; sin nombre ni ubicación nueva.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "eshu-mentioned-pr71",
+      "name": "Eshu",
+      "role": "Uno de los diez locos, recordado por Kaladin por hablar sin comprender. Mención sin presencia ni identificación añadida.",
+      "initial": "E",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "eylita-maid-pr73",
+      "name": "Doncella que acompaña a Eylita (PR73)",
+      "role": "Wikim informa que ha llegado con Eylita; cuando comienza la tormenta, la familia queda sola. No se fija ubicación de la doncella.",
+      "initial": "D",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "navani-scribe-tall-pr75",
+      "name": "Escriba alta de los preparativos (PR75)",
+      "role": "Consulta las asignaciones de incursiones y corre a cancelarlas; no se identifica con Rushu por su trabajo.",
+      "initial": "E",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary157-scribe75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Consulta los libros junto a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Consulta los libros junto a Dalinar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kaladin-return-messenger-pr75",
+      "name": "Mensajera del regreso de Kaladin (PR75)",
+      "role": "Llega sin aliento y anuncia que Bendito por la Tormenta ha salido de los abismos.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary157-messenger75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Anuncia la noticia del regreso.",
+          "needsConfirmation": [],
+          "notes": [
+            "Anuncia la noticia del regreso."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical-surgeon-pr75",
+      "name": "Cirujano del pabellón (PR75)",
+      "role": "Pide espacio a los hombres del puente durante el examen; sin nombre revelado.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary157-surgeon75",
+          "scene": "wor-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Pabellón médico de la linde",
+          "placeId": "place-kholin-medical-pavilion-pr75",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_075.xhtml. Campamento Kholin · Pabellón médico de la linde",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary157-wor71-75",
+          "sourceIds": [
+            "primary157-wor71-75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-75"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Atiende a Kaladin y reclama espacio alrededor de la mesa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Atiende a Kaladin y reclama espacio alrededor de la mesa."
+          ]
+        }
+      ]
     }
   ]
 }
