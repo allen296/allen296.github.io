@@ -1,0 +1,107 @@
+{
+  "source": "https://roshar.17thshard.com/#/es-ES",
+  "repository": "https://github.com/17thshard/roshar-map",
+  "files": [
+    {
+      "local": "roshar-base.webp",
+      "original": "src/assets/textures/lossy/map_bg.webp"
+    },
+    {
+      "local": "roshar-labels-es.webp",
+      "original": "src/assets/textures/localized/es-ES/map_text.webp"
+    },
+    {
+      "local": "shadesmar-base.webp",
+      "original": "src/assets/textures/lossy/shadesmar_map_bg.webp",
+      "sha": "174ca7dceef55068391080eb6c9ed400a7999519",
+      "url": "https://github.com/17thshard/roshar-map/blob/master/src/assets/textures/lossy/shadesmar_map_bg.webp"
+    },
+    {
+      "local": "shadesmar-labels-es.webp",
+      "original": "src/assets/textures/localized/es-ES/shadesmar_map_text.webp",
+      "sha": "028ba434e5df76bd4ceb6f25a75f9275aafd7a96",
+      "url": "https://github.com/17thshard/roshar-map/blob/master/src/assets/textures/localized/es-ES/shadesmar_map_text.webp"
+    },
+    {
+      "local": "roshar-reference.webp",
+      "original": "stormlight.0bdab39caf2e58c6b3d6.webp",
+      "providedBy": "user",
+      "libraryFileId": "libfile_b46b07b967208191b72e28e4707f804f",
+      "dimensions": {
+        "width": 2048,
+        "height": 1190
+      },
+      "sha256": "8863bc8ef1364b5a048a3844209f37c924f1ced925a99a85216463bb537b3bed",
+      "usage": "Main Roshar map, registered to the legacy SVG coordinate system. Also available as a separate full-image view."
+    }
+  ],
+  "labels": "Original distance-field texture decoded using its red and green channels; SVG filter adapted from mapTextFragmentShader.js",
+  "attribution": "The 17th Shard. See LICENSE-17th-shard.txt.",
+  "registration": {
+    "space": "svg-1000x700",
+    "imageBounds": {
+      "x": 0,
+      "y": 100,
+      "width": 1000,
+      "height": 500
+    },
+    "description": "Las capas originales comparten encuadre y proporción. La alineación visual no convierte una ubicación física en presencia cognitiva."
+  },
+  "presentation": {
+    "baseBounds": {
+      "x": 0,
+      "y": 59.47265625,
+      "width": 1000,
+      "height": 581.0546875
+    },
+    "atlasToBase": [
+      1.3230598608727924,
+      -0.00003276590046504187,
+      0.00003276590046504187,
+      1.3230598608727924,
+      -161.69101258464602,
+      -112.97148878300789
+    ],
+    "atlasScale": 1.3230598612785203,
+    "registration": {
+      "method": "SIFT correspondences with RANSAC similarity registration",
+      "sourceImage": "roshar-base.webp",
+      "targetImage": "roshar-reference.webp",
+      "sourceDimensions": [
+        2048,
+        1024
+      ],
+      "targetDimensions": [
+        2048,
+        1190
+      ],
+      "pixelMatrix": [
+        [
+          1.3230598608727924,
+          0.00003276590046504187,
+          -331.1364833169398
+        ],
+        [
+          -0.00003276590046504187,
+          1.3230598608727924,
+          -82.2029495208523
+        ]
+      ],
+      "matches": 434,
+      "inliers": 412,
+      "medianErrorPixels": 0.49366939067840576,
+      "p95ErrorPixels": 1.1900713443756104,
+      "inlierSourceBounds": [
+        [
+          503.0498962402344,
+          233.24185180664062
+        ],
+        [
+          1732.1756591796875,
+          878.1546020507812
+        ]
+      ],
+      "note": "Image alignment only; does not confirm character locations or cartographic calibration."
+    }
+  }
+}
