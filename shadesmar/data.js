@@ -1799,13 +1799,21 @@ window.ATLAS_DATA = {
       "dalinar",
       "elhokar",
       "elit",
+      "eth",
+      "ialai",
+      "istow",
       "jakamav",
       "kaladin",
+      "king-makabakam-pr56",
       "moash",
       "navani",
       "relis",
       "renarin",
       "sadeas",
+      "sebarial",
+      "shallan",
+      "sigzil",
+      "skar",
       "syl",
       "zahel"
     ],
@@ -1813,55 +1821,80 @@ window.ATLAS_DATA = {
       "abrobadar",
       "adolin",
       "amaram",
-      "dalinar",
       "elhokar",
       "elit",
+      "istow",
       "jakamav",
       "kaladin",
+      "malchin",
+      "palona",
       "pattern",
       "relis",
       "renarin",
-      "shallan"
+      "sadeas",
+      "sebarial",
+      "shallan",
+      "syl"
     ],
     "wor-chapter-58": [
       "dalinar",
       "elhokar",
       "ialai",
       "kaladin",
+      "melishi",
       "sadeas",
       "syl"
     ],
     "wor-interlude-9": [
       "ashno-sages",
       "axikk",
+      "azir-female-vizier-i9",
+      "azir-principal-vizier-i9",
+      "bronze-steward-i9",
       "crescent-scar-stranger",
       "dalksi",
+      "darkness-knife-aide-i9",
+      "darkness-other-aide-i9",
       "ethid",
       "gawx",
       "huqin",
+      "huqin-thief-brother1-i9",
+      "huqin-thief-brother2-i9",
       "lift",
       "lift-mother",
       "maxin",
       "pandri",
       "tigzikk",
-      "wyndle"
+      "wyndle",
+      "wyndle-iriali-candidate-i9"
     ],
     "wor-interlude-10": [
       "szeth"
     ],
     "wor-interlude-11": [
+      "abronai",
       "bila",
+      "chivi",
+      "davim",
       "eshonai",
+      "eshonai-comet-i11",
       "jaxlim",
+      "melu",
       "thude",
-      "venli"
+      "varanis",
+      "venli",
+      "zuln"
     ],
     "wor-chapter-59": [
+      "chan-arach-story",
+      "fleet-story",
       "kaladin",
       "syl",
       "wit"
     ],
     "wor-chapter-60": [
+      "navani",
+      "old-map-merchant-pr60",
       "pattern",
       "shallan"
     ],
@@ -3305,6 +3338,24 @@ window.ATLAS_DATA = {
         "characterRevealedAt": {
           "bookId": "wor",
           "sceneId": "wor-chapter-4"
+        }
+      },
+      {
+        "id": "herald-chan-arach-story",
+        "section": "heralds",
+        "characterId": "chan-arach-story",
+        "characterRevealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-59"
+        }
+      },
+      {
+        "id": "spren-person-eshonai-comet-i11",
+        "section": "spren-individuals",
+        "characterId": "eshonai-comet-i11",
+        "characterRevealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-11"
         }
       }
     ],
@@ -7903,6 +7954,244 @@ window.ATLAS_DATA = {
         "supersedes": [],
         "primaryLocator": "EPUB español aportado, OEBPS/Text/03_055.xhtml. Hay miedospren moviéndose en el suelo junto al público de la jaula del espinablanca; no se añade una forma que este pasaje no describe.",
         "readingLocator": "EPUB español aportado, OEBPS/Text/03_055.xhtml. Hay miedospren moviéndose en el suelo junto al público de la jaula del espinablanca; no se añade una forma que este pasaje no describe."
+      },
+      {
+        "id": "primary148-fear56",
+        "entryId": "spren-type-fearspren",
+        "field": "description",
+        "value": "Adolin ve miedospren en el suelo mientras presiona a Abrobadar en el duelo; no se inventa forma visual adicional.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-56"
+        },
+        "sourceIds": [
+          "primary148-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Adolin ve miedospren en el suelo mientras presiona a Abrobadar en el duelo; no se inventa forma visual adicional.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Adolin ve miedospren en el suelo mientras presiona a Abrobadar en el duelo; no se inventa forma visual adicional."
+      },
+      {
+        "id": "primary149-wyndle-shape9",
+        "entryId": "spren-person-wyndle",
+        "field": "description",
+        "value": "Se manifiesta como enredaderas con cristales y caras que crecen; el rastro se endurece brevemente y acaba en polvo. Wyndle explica que su conciencia está en el Reino Físico y gran parte de su existencia en el Cognitivo.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-9"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Se manifiesta como enredaderas con cristales y caras que crecen; el rastro se endurece brevemente y acaba en polvo. Wyndle explica que su conciencia está en el Reino Físico y gran parte de su existencia en el Cognitivo.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Se manifiesta como enredaderas con cristales y caras que crecen; el rastro se endurece brevemente y acaba en polvo. Wyndle explica que su conciencia está en el Reino Físico y gran parte de su existencia en el Cognitivo."
+      },
+      {
+        "id": "primary149-wyndle-choice9",
+        "entryId": "spren-person-wyndle",
+        "field": "description",
+        "value": "Dice que el Anillo lo hizo elegir a Lift por su visita a la Antigua Magia y alude a su madre sin revelar aquí una identidad nominal. No es parentesco humano demostrado.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-9"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Dice que el Anillo lo hizo elegir a Lift por su visita a la Antigua Magia y alude a su madre sin revelar aquí una identidad nominal. No es parentesco humano demostrado.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Dice que el Anillo lo hizo elegir a Lift por su visita a la Antigua Magia y alude a su madre sin revelar aquí una identidad nominal. No es parentesco humano demostrado."
+      },
+      {
+        "id": "primary149-wyndle-gardener9",
+        "entryId": "spren-person-wyndle",
+        "field": "description",
+        "value": "Recuerda haber cultivado cristales que visitaban crípticos y honorspren. Es historia relatada, sin desplazarlo a aquel jardín ni identificar individuos visitantes.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-9"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Recuerda haber cultivado cristales que visitaban crípticos y honorspren. Es historia relatada, sin desplazarlo a aquel jardín ni identificar individuos visitantes.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Recuerda haber cultivado cristales que visitaban crípticos y honorspren. Es historia relatada, sin desplazarlo a aquel jardín ni identificar individuos visitantes."
+      },
+      {
+        "id": "primary149-wyndle-memory9",
+        "entryId": "spren-person-wyndle",
+        "field": "description",
+        "value": "Explica que la transición dejó huecos en su memoria; su incertidumbre sobre curación y capacidades se conserva.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-9"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Explica que la transición dejó huecos en su memoria; su incertidumbre sobre curación y capacidades se conserva.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Explica que la transición dejó huecos en su memoria; su incertidumbre sobre curación y capacidades se conserva."
+      },
+      {
+        "id": "primary149-comet11",
+        "entryId": "spren-person-eshonai-comet-i11",
+        "field": "description",
+        "value": "Pequeño spren con forma de cometa y anillos de luz que sigue a Eshonai y sale de su mano. Sin correspondencia nominal posterior demostrada.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-11"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Pequeño spren como cometa, rodeado de anillos luminosos, insiste en acercarse a Eshonai durante la reunión. No se identifica como un individuo conocido por revelaciones posteriores.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Pequeño spren como cometa, rodeado de anillos luminosos, insiste en acercarse a Eshonai durante la reunión. No se identifica como un individuo conocido por revelaciones posteriores."
+      },
+      {
+        "id": "primary149-storm11",
+        "entryId": "spren-type-stormspren",
+        "field": "description",
+        "value": "Venli afirma haber reunido miles para la próxima transformación. Las órdenes y planes de transformación masiva no equivalen a que se haya producido todavía.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-11"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Venli afirma haber reunido miles para la próxima transformación. Las órdenes y planes de transformación masiva no equivalen a que se haya producido todavía.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Venli afirma haber reunido miles para la próxima transformación. Las órdenes y planes de transformación masiva no equivalen a que se haya producido todavía."
+      },
+      {
+        "id": "primary149-winds11",
+        "entryId": "spren-type-windspren",
+        "field": "description",
+        "value": "Se acercan con la brisa a la torre y se alejan al aproximarse a Eshonai; el texto no explica el motivo.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-11"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Se acercan con la brisa a la torre y se alejan al aproximarse a Eshonai; el texto no explica el motivo.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Se acercan con la brisa a la torre y se alejan al aproximarse a Eshonai; el texto no explica el motivo."
+      },
+      {
+        "id": "primary150-syl-not-high59",
+        "entryId": "spren-person-syl",
+        "field": "description",
+        "value": "Declara que no es un altospren y que le importa lo correcto por encima de la ley; conservar como declaración propia.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-59"
+        },
+        "sourceIds": [
+          "primary150-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Declara que no es un altospren y que le importa lo correcto por encima de la ley; conservar como declaración propia.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Declara que no es un altospren y que le importa lo correcto por encima de la ley; conservar como declaración propia."
+      },
+      {
+        "id": "primary150-chana-name59",
+        "entryId": "herald-chan-arach-story",
+        "field": "description",
+        "value": "Chan-arach aparece nombrado como Heraldo en la canción de Fugaz. No revela identidad moderna, orden, arma ni residencia.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-59"
+        },
+        "sourceIds": [
+          "primary150-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Chan-arach aparece nombrado como Heraldo en la canción de Fugaz. No revela identidad moderna, orden, arma ni residencia.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Chan-arach aparece nombrado como Heraldo en la canción de Fugaz. No revela identidad moderna, orden, arma ni residencia."
+      },
+      {
+        "id": "primary150-chana-name",
+        "entryId": "herald-chan-arach-story",
+        "field": "name",
+        "value": "Chan-arach",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-59"
+        },
+        "sourceIds": [
+          "primary150-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Canción de Fugaz, desafío al gran Heraldo Chan-arach.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Relato musical de Sagaz."
+      },
+      {
+        "id": "primary150-pattern-bond60",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Explica que el vínculo le permite manifestarse en el Reino Físico y comunicarse de forma humana; al recordar su aturdimiento dice que estuvo casi muerto, sin confirmar una muerte pasada.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-60"
+        },
+        "sourceIds": [
+          "primary150-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Explica que el vínculo le permite manifestarse en el Reino Físico y comunicarse de forma humana; al recordar su aturdimiento dice que estuvo casi muerto, sin confirmar una muerte pasada.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Explica que el vínculo le permite manifestarse en el Reino Físico y comunicarse de forma humana; al recordar su aturdimiento dice que estuvo casi muerto, sin confirmar una muerte pasada."
+      },
+      {
+        "id": "primary150-pattern-illusion60",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Shallan le entrega luz y une la ilusión a él. La imagen permanece al alejarse ella y se desplaza con Patrón, todavía sin caminar naturalmente ni producir sonido.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-60"
+        },
+        "sourceIds": [
+          "primary150-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Shallan le entrega luz y une la ilusión a él. La imagen permanece al alejarse ella y se desplaza con Patrón, todavía sin caminar naturalmente ni producir sonido.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Shallan le entrega luz y une la ilusión a él. La imagen permanece al alejarse ella y se desplaza con Patrón, todavía sin caminar naturalmente ni producir sonido."
+      },
+      {
+        "id": "primary152-comet-name",
+        "entryId": "spren-person-eshonai-comet-i11",
+        "field": "name",
+        "value": "Cometa luminoso que sigue a Eshonai",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-11"
+        },
+        "sourceIds": [
+          "primary149-wor51-52"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml: pequeño spren como cometa que sigue a Eshonai en la torre y sale de su mano.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml: pequeño spren como cometa que sigue a Eshonai en la torre y sale de su mano."
       }
     ],
     "links": [
@@ -9605,9 +9894,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "wor-i9"
+        "wor-i9",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -9621,7 +9911,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-reread-interlude-9/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "rel-taravangian-szeth-chapter-71",
@@ -12131,24 +12422,24 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-11"
       },
       "sourceIds": [
-        "family74-wor-interlude-11"
+        "family74-wor-interlude-11",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "certainty": "stated",
+      "status": "inferred",
+      "certainty": "inferred",
       "state": "former",
       "supersedes": [
         "review87-thude-bila-partner-wor-interlude-4"
       ],
       "notes": [
-        "Capítulo localizado; la primera mención absoluta sigue pendiente de cotejo primario."
+        "Capítulo localizado; la primera mención absoluta sigue pendiente de cotejo primario.",
+        "El contraste de formas sugiere relación de pareja, pero el pasaje no explicita matrimonio ni descendencia. No elevar a confirmación romántica automática."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Relación pasada Thude/Bila expresada; mantener como vínculo, no como encuentro nuevo.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Words_of_Radiance"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "Inferencia contextual de la alusión a dos semanas como compañero; no se confirma tipo íntimo por mera coincidencia."
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Thude llevaba forma de guerra excepto dos semanas como compañero de Bila."
     },
     {
       "id": "family74-tyn-father-tyn-parent-wor-chapter-24",
@@ -12386,9 +12677,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "family74-wor-interlude-9"
+        "family74-wor-interlude-9",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -12401,7 +12693,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "family74-gawx-huqin-companion-wor-interlude-9",
@@ -12415,9 +12708,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "family74-wor-interlude-9"
+        "family74-wor-interlude-9",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -12430,7 +12724,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "family74-adrotagia-adrotagia-husband-spouse-wor-interlude-14",
@@ -16893,9 +17188,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "audit87-source-c5db516a44591f"
+        "audit87-source-c5db516a44591f",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -16908,7 +17204,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Lift"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "review87-valam-sudi-valam-parent-wor-chapter-61",
@@ -18452,9 +18749,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -18467,7 +18765,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-excerpt-lift/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "mention89-rel-tigzikk-97-1",
@@ -18481,9 +18780,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -18496,7 +18796,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-excerpt-lift/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "mention89-rel-maxin-98-0",
@@ -18510,9 +18811,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -18525,7 +18827,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-excerpt-lift/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Compañía, cooperación o parentesco expresos en el interludio, sin rama familiar inventada."
     },
     {
       "id": "mention89-rel-noura-104-0",
@@ -21936,6 +22239,37 @@ window.ATLAS_DATA = {
         "reason": "Amaram dice a la falsa Telesh que prometió a su padre cuidarla.",
         "sourceIds": [
           "primary144-wor51-52"
+        ]
+      }
+    },
+    {
+      "id": "primary149-brothers9",
+      "from": "huqin-thief-brother1-i9",
+      "to": "huqin-thief-brother2-i9",
+      "kind": "sibling",
+      "category": "family",
+      "label": "Hermanos",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "La narración llama hermanos a los dos ladrones que acompañan a Huqin."
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. La narración llama hermanos a los dos ladrones que acompañan a Huqin.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. La narración llama hermanos a los dos ladrones que acompañan a Huqin.",
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "La narración llama hermanos a los dos ladrones que acompañan a Huqin.",
+        "sourceIds": [
+          "primary149-wor51-52"
         ]
       }
     }
@@ -28499,13 +28833,14 @@ window.ATLAS_DATA = {
       "type": "cooperation",
       "summary": "Lift regresa a salvar a Gawx con sus poderes de curación.",
       "sourceIds": [
-        "audit-wore-i9"
+        "audit-wore-i9",
+        "primary149-wor51-52"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -28519,7 +28854,8 @@ window.ATLAS_DATA = {
             "gawx"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Exploran juntos y Lift vuelve para curar a Gawx."
     },
     {
       "id": "audit-wore-event-wor-chapter-56-renarin-abrobadar",
@@ -28534,13 +28870,14 @@ window.ATLAS_DATA = {
       "type": "conflict",
       "summary": "Abrobadar impide que Renarin llegue hasta su hermano durante el duelo.",
       "sourceIds": [
-        "audit-wore-c56"
+        "audit-wore-c56",
+        "primary148-wor51-52"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -28554,7 +28891,8 @@ window.ATLAS_DATA = {
             "abrobadar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Abrobadar ataca y desarma a Renarin."
     },
     {
       "id": "audit-wore-event-wor-chapter-85-roion-szeth",
@@ -43934,6 +44272,1164 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary148-sigzil56",
+      "participants": [
+        "kaladin",
+        "sigzil"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Discuten los poderes de Amaram y la distribución de la guardia; la falta de poderes es una conclusión de Sigzil, no prueba omnisciente.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Discuten los poderes de Amaram y la distribución de la guardia; la falta de poderes es una conclusión de Sigzil, no prueba omnisciente.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten los poderes de Amaram y la distribución de la guardia; la falta de poderes es una conclusión de Sigzil, no prueba omnisciente.",
+        "pairs": [
+          [
+            "kaladin",
+            "sigzil"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-moash56",
+      "participants": [
+        "kaladin",
+        "moash"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Kaladin ordena una patrulla futura; Moash admite haberse reunido de nuevo con los conspiradores.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Kaladin ordena una patrulla futura; Moash admite haberse reunido de nuevo con los conspiradores.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin ordena una patrulla futura; Moash admite haberse reunido de nuevo con los conspiradores.",
+        "pairs": [
+          [
+            "kaladin",
+            "moash"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-stage56",
+      "participants": [
+        "adolin",
+        "navani",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Conversan sobre el duelo, la plegaria y la cadena de su madre.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Conversan sobre el duelo, la plegaria y la cadena de su madre.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobre el duelo, la plegaria y la cadena de su madre.",
+        "pairs": [
+          [
+            "adolin",
+            "navani"
+          ],
+          [
+            "adolin",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-rulers56",
+      "participants": [
+        "dalinar",
+        "elhokar",
+        "sadeas"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Disputan por las condiciones del duelo y por la intervención de Dalinar.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Disputan por las condiciones del duelo y por la intervención de Dalinar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Disputan por las condiciones del duelo y por la intervención de Dalinar.",
+        "pairs": [
+          [
+            "dalinar",
+            "elhokar"
+          ],
+          [
+            "dalinar",
+            "sadeas"
+          ],
+          [
+            "elhokar",
+            "sadeas"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-istow56",
+      "participants": [
+        "dalinar",
+        "istow"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Dalinar pide detener la lucha y ella se niega invocando las reglas.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Dalinar pide detener la lucha y ella se niega invocando las reglas.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pide detener la lucha y ella se niega invocando las reglas.",
+        "pairs": [
+          [
+            "dalinar",
+            "istow"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-zahel56",
+      "participants": [
+        "zahel",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Zahel grita consejos a Adolin desde las gradas.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Zahel grita consejos a Adolin desde las gradas.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Zahel grita consejos a Adolin desde las gradas.",
+        "pairs": [
+          [
+            "zahel",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-fight56",
+      "participants": [
+        "adolin",
+        "relis",
+        "elit",
+        "abrobadar",
+        "jakamav"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "encounter",
+      "summary": "Los cuatro contrincantes combaten contra Adolin; no se crea una red entre todos.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Los cuatro contrincantes combaten contra Adolin; no se crea una red entre todos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los cuatro contrincantes combaten contra Adolin; no se crea una red entre todos.",
+        "pairs": [
+          [
+            "adolin",
+            "relis"
+          ],
+          [
+            "adolin",
+            "elit"
+          ],
+          [
+            "adolin",
+            "abrobadar"
+          ],
+          [
+            "adolin",
+            "jakamav"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-kaladin-dalinar56",
+      "participants": [
+        "kaladin",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "type": "conversation",
+      "summary": "Kaladin se ofrece a ayudar y pide que cuide de sus hombres si muere.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Kaladin se ofrece a ayudar y pide que cuide de sus hombres si muere.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin se ofrece a ayudar y pide que cuide de sus hombres si muere.",
+        "pairs": [
+          [
+            "kaladin",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-shallan-pattern57",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "type": "conversation",
+      "summary": "Shallan pide a Patrón distraer al rival de Renarin; verlo blandir hacia el suelo no identifica por sí solo qué está golpeando.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Shallan pide a Patrón distraer al rival de Renarin; verlo blandir hacia el suelo no identifica por sí solo qué está golpeando.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan pide a Patrón distraer al rival de Renarin; verlo blandir hacia el suelo no identifica por sí solo qué está golpeando.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-sebarial57",
+      "participants": [
+        "shallan",
+        "sebarial"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "type": "conversation",
+      "summary": "Shallan rebate su juicio sobre la rendición de Adolin.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Shallan rebate su juicio sobre la rendición de Adolin.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan rebate su juicio sobre la rendición de Adolin.",
+        "pairs": [
+          [
+            "shallan",
+            "sebarial"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-fight57",
+      "participants": [
+        "kaladin",
+        "relis",
+        "elit",
+        "jakamav",
+        "adolin",
+        "abrobadar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "type": "encounter",
+      "summary": "Combates expresos de Kaladin y Adolin; no se convierten rivales en contactos entre sí.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Combates expresos de Kaladin y Adolin; no se convierten rivales en contactos entre sí.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Combates expresos de Kaladin y Adolin; no se convierten rivales en contactos entre sí.",
+        "pairs": [
+          [
+            "kaladin",
+            "relis"
+          ],
+          [
+            "kaladin",
+            "elit"
+          ],
+          [
+            "kaladin",
+            "jakamav"
+          ],
+          [
+            "adolin",
+            "elit"
+          ],
+          [
+            "adolin",
+            "jakamav"
+          ],
+          [
+            "adolin",
+            "abrobadar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-brothers57",
+      "participants": [
+        "kaladin",
+        "adolin",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "type": "conversation",
+      "summary": "Cooperan, protegen a Renarin y retiran/reponen la armadura tras el combate.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Cooperan, protegen a Renarin y retiran/reponen la armadura tras el combate.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Cooperan, protegen a Renarin y retiran/reponen la armadura tras el combate.",
+        "pairs": [
+          [
+            "kaladin",
+            "adolin"
+          ],
+          [
+            "kaladin",
+            "renarin"
+          ],
+          [
+            "adolin",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-syl57",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "type": "conversation",
+      "summary": "Hablan al entrar y Syl advierte algo junto a Renarin sin explicar identidad ni vínculo.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Hablan al entrar y Syl advierte algo junto a Renarin sin explicar identidad ni vínculo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan al entrar y Syl advierte algo junto a Renarin sin explicar identidad ni vínculo.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-demands57",
+      "participants": [
+        "adolin",
+        "elhokar",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "type": "conversation",
+      "summary": "El rey ofrece premio a Adolin y Kaladin exige también un desafío; el rey ordena arrestarlo.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. El rey ofrece premio a Adolin y Kaladin exige también un desafío; el rey ordena arrestarlo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El rey ofrece premio a Adolin y Kaladin exige también un desafío; el rey ordena arrestarlo.",
+        "pairs": [
+          [
+            "adolin",
+            "elhokar"
+          ],
+          [
+            "kaladin",
+            "elhokar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-prison-decision58",
+      "participants": [
+        "kaladin",
+        "elhokar",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "type": "conversation",
+      "summary": "Discuten el castigo y los testimonios sobre Amaram en los aposentos de Dalinar; quedan tres solos.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Discuten el castigo y los testimonios sobre Amaram en los aposentos de Dalinar; quedan tres solos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten el castigo y los testimonios sobre Amaram en los aposentos de Dalinar; quedan tres solos.",
+        "pairs": [
+          [
+            "kaladin",
+            "elhokar"
+          ],
+          [
+            "elhokar",
+            "dalinar"
+          ],
+          [
+            "kaladin",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-ialai58",
+      "participants": [
+        "sadeas",
+        "ialai"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "type": "conversation",
+      "summary": "Sadeas ordena movilizar informadores y utilizar asesinos; no se registran asesinatos futuros como cumplidos.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Sadeas ordena movilizar informadores y utilizar asesinos; no se registran asesinatos futuros como cumplidos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sadeas ordena movilizar informadores y utilizar asesinos; no se registran asesinatos futuros como cumplidos.",
+        "pairs": [
+          [
+            "sadeas",
+            "ialai"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary148-cell58",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "type": "conversation",
+      "summary": "Syl entra en la celda y Kaladin rechaza volver a confiar en los ojos claros.",
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Syl entra en la celda y Kaladin rechaza volver a confiar en los ojos claros.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl entra en la celda y Kaladin rechaza volver a confiar en los ojos claros.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-huqin-lift9",
+      "participants": [
+        "lift",
+        "huqin",
+        "tigzikk",
+        "maxin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conversation",
+      "summary": "Conversan antes de entrar y organizan la incursión; no se convierte al grupo en clique.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Conversan antes de entrar y organizan la incursión; no se convierte al grupo en clique.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan antes de entrar y organizan la incursión; no se convierte al grupo en clique.",
+        "pairs": [
+          [
+            "lift",
+            "huqin"
+          ],
+          [
+            "lift",
+            "tigzikk"
+          ],
+          [
+            "huqin",
+            "tigzikk"
+          ],
+          [
+            "tigzikk",
+            "maxin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-wyndle-lift9",
+      "participants": [
+        "lift",
+        "wyndle"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conversation",
+      "summary": "Hablan, escalan, huyen y colaboran en la curación.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Hablan, escalan, huyen y colaboran en la curación.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan, escalan, huyen y colaboran en la curación.",
+        "pairs": [
+          [
+            "lift",
+            "wyndle"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-steward9",
+      "participants": [
+        "lift",
+        "bronze-steward-i9"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conversation",
+      "summary": "El criado indica las cocinas a Lift.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. El criado indica las cocinas a Lift.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El criado indica las cocinas a Lift.",
+        "pairs": [
+          [
+            "lift",
+            "bronze-steward-i9"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-darkness-lift9",
+      "participants": [
+        "lift",
+        "crescent-scar-stranger"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conversation",
+      "summary": "Oscuridad la captura, la persigue y amenaza con ejecutarla.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Oscuridad la captura, la persigue y amenaza con ejecutarla.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Oscuridad la captura, la persigue y amenaza con ejecutarla.",
+        "pairs": [
+          [
+            "lift",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-visir-darkness9",
+      "participants": [
+        "azir-principal-vizier-i9",
+        "crescent-scar-stranger",
+        "azir-female-vizier-i9"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conversation",
+      "summary": "Revisan los permisos y discuten la orden de ejecución.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Revisan los permisos y discuten la orden de ejecución.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Revisan los permisos y discuten la orden de ejecución.",
+        "pairs": [
+          [
+            "azir-principal-vizier-i9",
+            "crescent-scar-stranger"
+          ],
+          [
+            "azir-female-vizier-i9",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-gawx-knife9",
+      "participants": [
+        "gawx",
+        "darkness-knife-aide-i9",
+        "crescent-scar-stranger"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conflict",
+      "summary": "El sicario hiere a Gawx y Oscuridad lo reprende por actuar sin autorización.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. El sicario hiere a Gawx y Oscuridad lo reprende por actuar sin autorización.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El sicario hiere a Gawx y Oscuridad lo reprende por actuar sin autorización.",
+        "pairs": [
+          [
+            "gawx",
+            "darkness-knife-aide-i9"
+          ],
+          [
+            "crescent-scar-stranger",
+            "darkness-knife-aide-i9"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-gawx-pardon9",
+      "participants": [
+        "gawx",
+        "crescent-scar-stranger",
+        "lift"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "type": "conversation",
+      "summary": "Gawx ordena el perdón y después habla con Lift.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Gawx ordena el perdón y después habla con Lift.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Gawx ordena el perdón y después habla con Lift.",
+        "pairs": [
+          [
+            "gawx",
+            "crescent-scar-stranger"
+          ],
+          [
+            "gawx",
+            "lift"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-council11",
+      "participants": [
+        "eshonai",
+        "davim",
+        "abronai",
+        "chivi",
+        "zuln",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "type": "conversation",
+      "summary": "Intercambios expresos en el consejo; no todos los asistentes forman pares.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Intercambios expresos en el consejo; no todos los asistentes forman pares.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Intercambios expresos en el consejo; no todos los asistentes forman pares.",
+        "pairs": [
+          [
+            "eshonai",
+            "davim"
+          ],
+          [
+            "eshonai",
+            "abronai"
+          ],
+          [
+            "eshonai",
+            "chivi"
+          ],
+          [
+            "eshonai",
+            "zuln"
+          ],
+          [
+            "venli",
+            "chivi"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-sisters11",
+      "participants": [
+        "eshonai",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "type": "conversation",
+      "summary": "Discuten la transformación, el control de la ciudad y la fuga; Eshonai la sujeta y suelta.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Discuten la transformación, el control de la ciudad y la fuga; Eshonai la sujeta y suelta.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten la transformación, el control de la ciudad y la fuga; Eshonai la sujeta y suelta.",
+        "pairs": [
+          [
+            "eshonai",
+            "venli"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-thude11",
+      "participants": [
+        "eshonai",
+        "thude"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "type": "conversation",
+      "summary": "Thude protesta y Eshonai le encarga vigilar a los disidentes.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Thude protesta y Eshonai le encarga vigilar a los disidentes.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Thude protesta y Eshonai le encarga vigilar a los disidentes.",
+        "pairs": [
+          [
+            "eshonai",
+            "thude"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary149-reports11",
+      "participants": [
+        "eshonai",
+        "melu",
+        "varanis",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "type": "conversation",
+      "summary": "Melu transmite órdenes y Varanis informa de la fuga.",
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Melu transmite órdenes y Varanis informa de la fuga.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Melu transmite órdenes y Varanis informa de la fuga.",
+        "pairs": [
+          [
+            "eshonai",
+            "melu"
+          ],
+          [
+            "eshonai",
+            "varanis"
+          ],
+          [
+            "venli",
+            "varanis"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary150-kaladin-syl59",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-59"
+      },
+      "type": "conversation",
+      "summary": "Discuten una posible fuga y las decisiones del rey; no se produce escape.",
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Discuten una posible fuga y las decisiones del rey; no se produce escape.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten una posible fuga y las decisiones del rey; no se produce escape.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary150-wit-story59",
+      "participants": [
+        "kaladin",
+        "wit"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-59"
+      },
+      "type": "conversation",
+      "summary": "Sagaz visita desde fuera de la celda, toca música y cuenta la historia con las respuestas de Kaladin.",
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Sagaz visita desde fuera de la celda, toca música y cuenta la historia con las respuestas de Kaladin.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sagaz visita desde fuera de la celda, toca música y cuenta la historia con las respuestas de Kaladin.",
+        "pairs": [
+          [
+            "kaladin",
+            "wit"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary150-shallan-pattern60",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "type": "conversation",
+      "summary": "Discuten mapas, memoria y vínculo; experimentan con luz e imagen y consiguen que la ilusión siga a Patrón.",
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Discuten mapas, memoria y vínculo; experimentan con luz e imagen y consiguen que la ilusión siga a Patrón.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten mapas, memoria y vínculo; experimentan con luz e imagen y consiguen que la ilusión siga a Patrón.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -44476,15 +45972,17 @@ window.ATLAS_DATA = {
         "sceneId": "wor-chapter-59"
       },
       "kind": "experience",
-      "text": "Relato: Relato de Fleet escuchado a Sagaz.",
+      "text": "Escucha e imagina la historia de Fugaz contada por Sagaz desde la celda; no visita las regiones de la historia.",
       "sourceIds": [
-        "wor-c59"
+        "wor-c59",
+        "primary150-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "notes": [
         "Una experiencia no equivale por sí sola a un desplazamiento corporal."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Relato de Fugaz escuchado e imaginado, sin viaje físico por Roshar."
     },
     {
       "id": "fact-experience-wor-renarin-chapter-85-foresight",
@@ -47265,10 +48763,12 @@ window.ATLAS_DATA = {
       "kind": "abilities",
       "text": "Usa poderes para deslizarse y curar; vuelve para ayudar a Gawx cuando es herido.",
       "sourceIds": [
-        "audit-wore-i9"
+        "audit-wore-i9",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "audit-wore-fact-wyndle-wor-interlude-9",
@@ -47280,10 +48780,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Spren que acompaña y aconseja a Lift durante su incursión en el palacio.",
       "sourceIds": [
-        "audit-wore-i9"
+        "audit-wore-i9",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "audit-wore-fact-gawx-wor-interlude-9",
@@ -47295,10 +48797,12 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Ladrón que sobrevive gracias a Lift y termina elegido como nuevo gobernante de Azir.",
       "sourceIds": [
-        "audit-wore-i9"
+        "audit-wore-i9",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "audit-wore-fact-bluth-wor-chapter-13",
@@ -47325,10 +48829,12 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Combate contra Adolin y después contra Renarin en el duelo desequilibrado.",
       "sourceIds": [
-        "audit-wore-c56"
+        "audit-wore-c56",
+        "primary148-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Combate contra Adolin y después amenaza a Renarin."
     },
     {
       "id": "audit-wore-fact-roion-wor-chapter-85",
@@ -53611,10 +55117,12 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-9062ec06332329",
-        "mention89-f87e081f49b8c3"
+        "mention89-f87e081f49b8c3",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-maxin-98",
@@ -53626,10 +55134,12 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-dalksi-99",
@@ -53641,10 +55151,12 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-axikk-100",
@@ -53656,10 +55168,12 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-ethid-101",
@@ -53671,10 +55185,12 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-ashno-sages-102",
@@ -53686,25 +55202,29 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-pandri-103",
       "characterId": "pandri",
       "kind": "background",
-      "text": "Candidata a Aqasix cuya solicitud contiene expresiones que los miembros del consejo consideran insultantes.",
+      "text": "La solicitud de Pandri contiene expresiones que los miembros del consejo consideran insultantes; Pandri no interviene en persona en el cónclave.",
       "revealedAt": {
         "bookId": "wor",
         "sceneId": "wor-interlude-9"
       },
       "sourceIds": [
-        "mention89-9062ec06332329"
+        "mention89-9062ec06332329",
+        "primary149-wor51-52"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Referencia cotejada en el interludio completo; sin presencia añadida a una mera mención."
     },
     {
       "id": "mention89-fact-noura-104",
@@ -64750,6 +66270,856 @@ window.ATLAS_DATA = {
       "primaryLocator": "EPUB español aportado, OEBPS/Text/03_055.xhtml. La placa del sarpenthyn lo presenta como espíritu de un niño asesinado: es una leyenda del expositor, no un humano identificado ni parentesco real del animal.",
       "readingLocator": "EPUB español aportado, OEBPS/Text/03_055.xhtml. La placa del sarpenthyn lo presenta como espíritu de un niño asesinado: es una leyenda del expositor, no un humano identificado ni parentesco real del animal.",
       "supersedes": []
+    },
+    {
+      "id": "primary148-moash-patrol56",
+      "characterId": "moash",
+      "kind": "background",
+      "text": "La patrulla hacia Nueva Natanan es una orden para mañana, no una partida o llegada ocurrida.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. La patrulla hacia Nueva Natanan es una orden para mañana, no una partida o llegada ocurrida.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. La patrulla hacia Nueva Natanan es una orden para mañana, no una partida o llegada ocurrida.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-istow-bribe56",
+      "characterId": "istow",
+      "kind": "background",
+      "text": "Adolin sospecha un soborno al verla no detener el combate. La sospecha no confirma corrupción ni un pago.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Adolin sospecha un soborno al verla no detener el combate. La sospecha no confirma corrupción ni un pago.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Adolin sospecha un soborno al verla no detener el combate. La sospecha no confirma corrupción ni un pago.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-duel-wounds56",
+      "characterId": "adolin",
+      "kind": "background",
+      "text": "Los rivales continúan golpeando pese a sus intentos de rendición; la hombrera se rompe. Las amenazas de lisiarlo no se registran como lesiones consumadas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Los rivales continúan golpeando pese a sus intentos de rendición; la hombrera se rompe. Las amenazas de lisiarlo no se registran como lesiones consumadas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Los rivales continúan golpeando pese a sus intentos de rendición; la hombrera se rompe. Las amenazas de lisiarlo no se registran como lesiones consumadas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-king-makabakam-pr56-56",
+      "characterId": "king-makabakam-pr56",
+      "kind": "background",
+      "text": "Rey sin nombre propio al que el tratado atribuye la aportación de veintitrés cohortes; sin presencia actual.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-56"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Rey sin nombre propio al que el tratado atribuye la aportación de veintitrés cohortes; sin presencia actual.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Rey sin nombre propio al que el tratado atribuye la aportación de veintitrés cohortes; sin presencia actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-screams57",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Al coger la hoja de Relis oye gritos; Relis también reacciona. No se identifica quién grita ni se deduce una muerte causada por Kaladin en ese instante.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Al coger la hoja de Relis oye gritos; Relis también reacciona. No se identifica quién grita ni se deduce una muerte causada por Kaladin en ese instante.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Al coger la hoja de Relis oye gritos; Relis también reacciona. No se identifica quién grita ni se deduce una muerte causada por Kaladin en ese instante.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-renarin57",
+      "characterId": "renarin",
+      "kind": "background",
+      "text": "Permanece llorando junto a su hoja; no se completa el motivo con revelaciones posteriores.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Permanece llorando junto a su hoja; no se completa el motivo con revelaciones posteriores.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Permanece llorando junto a su hoja; no se completa el motivo con revelaciones posteriores.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-healing57",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Se rompe pies y piernas al golpear a Relis y absorbe luz tormentosa para curarse. No se convierte esa lesión en incapacidad permanente.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Se rompe pies y piernas al golpear a Relis y absorbe luz tormentosa para curarse. No se convierte esa lesión en incapacidad permanente.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Se rompe pies y piernas al golpear a Relis y absorbe luz tormentosa para curarse. No se convierte esa lesión en incapacidad permanente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-duel-result57",
+      "characterId": "adolin",
+      "kind": "background",
+      "text": "La victoria concede tres armaduras y dos hojas según dice Adolin. Su desafío a Sadeas se formula, pero no se libra aquí ese segundo duelo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. La victoria concede tres armaduras y dos hojas según dice Adolin. Su desafío a Sadeas se formula, pero no se libra aquí ese segundo duelo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. La victoria concede tres armaduras y dos hojas según dice Adolin. Su desafío a Sadeas se formula, pero no se libra aquí ese segundo duelo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-malchin-57",
+      "characterId": "malchin",
+      "kind": "background",
+      "text": "Figura del epígrafe, frustrada por las exigencias de los Tejedores de Luz; sin deducir especie de su spren ni nivel de juramento.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-57"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Figura del epígrafe, frustrada por las exigencias de los Tejedores de Luz; sin deducir especie de su spren ni nivel de juramento.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Figura del epígrafe, frustrada por las exigencias de los Tejedores de Luz; sin deducir especie de su spren ni nivel de juramento.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-no-execution58",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Elhokar propone ejecución, pero acaba ordenando prisión; Kaladin sigue vivo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Elhokar propone ejecución, pero acaba ordenando prisión; Kaladin sigue vivo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Elhokar propone ejecución, pero acaba ordenando prisión; Kaladin sigue vivo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-testimony58",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Alega diecisiete testigos y registros que contradicen a Kaladin; se registra su explicación, sin elevarla a verdad independiente.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Alega diecisiete testigos y registros que contradicen a Kaladin; se registra su explicación, sin elevarla a verdad independiente.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Alega diecisiete testigos y registros que contradicen a Kaladin; se registra su explicación, sin elevarla a verdad independiente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-sadeas-year58",
+      "characterId": "sadeas",
+      "kind": "background",
+      "text": "Responde por mensaje aceptando el duelo para dentro de un año. No hay encuentro presencial con Adolin ni duelo consumado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Responde por mensaje aceptando el duelo para dentro de un año. No hay encuentro presencial con Adolin ni duelo consumado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Responde por mensaje aceptando el duelo para dentro de un año. No hay encuentro presencial con Adolin ni duelo consumado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary148-melishi-58",
+      "characterId": "melishi",
+      "kind": "background",
+      "text": "El epígrafe le atribuye una estratagema relacionada con los Forjadores de Vínculos; no se identifica por ello con otra figura ni se añade orden individual sin evidencia.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-58"
+      },
+      "sourceIds": [
+        "primary148-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. El epígrafe le atribuye una estratagema relacionada con los Forjadores de Vínculos; no se identifica por ello con otra figura ni se añade orden individual sin evidencia.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. El epígrafe le atribuye una estratagema relacionada con los Forjadores de Vínculos; no se identifica por ello con otra figura ni se añade orden individual sin evidencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-huqin-thief-brother1-i9-9",
+      "characterId": "huqin-thief-brother1-i9",
+      "kind": "background",
+      "text": "Uno de dos hermanos compañeros de Huqin; no se afirma que sean hermanos de Huqin.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Uno de dos hermanos compañeros de Huqin; no se afirma que sean hermanos de Huqin.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Uno de dos hermanos compañeros de Huqin; no se afirma que sean hermanos de Huqin.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-huqin-thief-brother2-i9-9",
+      "characterId": "huqin-thief-brother2-i9",
+      "kind": "background",
+      "text": "Otro de los dos hermanos del grupo; sus nombres no se revelan.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Otro de los dos hermanos del grupo; sus nombres no se revelan.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Otro de los dos hermanos del grupo; sus nombres no se revelan.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-darkness-knife-aide-i9-9",
+      "characterId": "darkness-knife-aide-i9",
+      "kind": "background",
+      "text": "Miembro del séquito de Oscuridad que toma a Gawx como rehén y le corta el cuello; sin identidad nominal.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Miembro del séquito de Oscuridad que toma a Gawx como rehén y le corta el cuello; sin identidad nominal.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Miembro del séquito de Oscuridad que toma a Gawx como rehén y le corta el cuello; sin identidad nominal.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-darkness-other-aide-i9-9",
+      "characterId": "darkness-other-aide-i9",
+      "kind": "background",
+      "text": "Segundo miembro del séquito; no se fusionan por suposición las funciones de papeles, garrote y captura con una identidad precisa.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Segundo miembro del séquito; no se fusionan por suposición las funciones de papeles, garrote y captura con una identidad precisa.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Segundo miembro del séquito; no se fusionan por suposición las funciones de papeles, garrote y captura con una identidad precisa.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-wyndle-iriali-candidate-i9-9",
+      "characterId": "wyndle-iriali-candidate-i9",
+      "kind": "background",
+      "text": "Wyndle quería elegir a una matrona jardinera; abuela sin nombres o rama familiar, no se crean descendientes.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Wyndle quería elegir a una matrona jardinera; abuela sin nombres o rama familiar, no se crean descendientes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Wyndle quería elegir a una matrona jardinera; abuela sin nombres o rama familiar, no se crean descendientes.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-azir-principal-vizier-i9-9",
+      "characterId": "azir-principal-vizier-i9",
+      "kind": "background",
+      "text": "Repasa el papeleo y facilita a Lift alcanzar el pan al golpear al sicario con la mesa.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Repasa el papeleo y facilita a Lift alcanzar el pan al golpear al sicario con la mesa.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Repasa el papeleo y facilita a Lift alcanzar el pan al golpear al sicario con la mesa.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-azir-female-vizier-i9-9",
+      "characterId": "azir-female-vizier-i9",
+      "kind": "background",
+      "text": "Discute la incursión y se sorprende por la orden de ejecución.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Discute la incursión y se sorprende por la orden de ejecución.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Discute la incursión y se sorprende por la orden de ejecución.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-bronze-steward-i9-9",
+      "characterId": "bronze-steward-i9",
+      "kind": "background",
+      "text": "Habla con Lift al creer que busca comida para una señora.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Habla con Lift al creer que busca comida para una señora.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Habla con Lift al creer que busca comida para una señora.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-lift-age9",
+      "characterId": "lift",
+      "kind": "background",
+      "text": "Dice tener diez años y llevar así tres años; no se transforma esta afirmación en edad exacta certificada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Dice tener diez años y llevar así tres años; no se transforma esta afirmación en edad exacta certificada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Dice tener diez años y llevar así tres años; no se transforma esta afirmación en edad exacta certificada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-lift-origin9",
+      "characterId": "lift",
+      "kind": "background",
+      "text": "Su madre le dijo que era reshi, pero creció en Rall Elorim y afirma no haber estado con su pueblo de las islas. No es una visita actual a ninguno de esos lugares.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Su madre le dijo que era reshi, pero creció en Rall Elorim y afirma no haber estado con su pueblo de las islas. No es una visita actual a ninguno de esos lugares.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Su madre le dijo que era reshi, pero creció en Rall Elorim y afirma no haber estado con su pueblo de las islas. No es una visita actual a ninguno de esos lugares.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-wyndle-explanation9",
+      "characterId": "wyndle",
+      "kind": "background",
+      "text": "Atribuye a Lift una relación parcial con el Reino Cognitivo para explicar que pueda tocarlo y metabolizar comida en luz. Es su explicación; no implica viaje corporal a Shadesmar.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Atribuye a Lift una relación parcial con el Reino Cognitivo para explicar que pueda tocarlo y metabolizar comida en luz. Es su explicación; no implica viaje corporal a Shadesmar.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Atribuye a Lift una relación parcial con el Reino Cognitivo para explicar que pueda tocarlo y metabolizar comida en luz. Es su explicación; no implica viaje corporal a Shadesmar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-gawx-healed9",
+      "characterId": "gawx",
+      "kind": "background",
+      "text": "Sufre un corte de garganta y Lift lo cura; los presentes lo llaman milagro y dicen que estaba muerto. El final muestra que vive, sin certificar una muerte irreversible ni resurrección.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Sufre un corte de garganta y Lift lo cura; los presentes lo llaman milagro y dicen que estaba muerto. El final muestra que vive, sin certificar una muerte irreversible ni resurrección.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Sufre un corte de garganta y Lift lo cura; los presentes lo llaman milagro y dicen que estaba muerto. El final muestra que vive, sin certificar una muerte irreversible ni resurrección.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-gawx-prime9",
+      "characterId": "gawx",
+      "kind": "background",
+      "text": "El cónclave lo elige Aqasix Supremo y presenta el documento que permite perdonar a Lift. La afirmación ritual de que siempre fue Supremo no anticipa el cargo al inicio de la escena.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. El cónclave lo elige Aqasix Supremo y presenta el documento que permite perdonar a Lift. La afirmación ritual de que siempre fue Supremo no anticipa el cargo al inicio de la escena.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. El cónclave lo elige Aqasix Supremo y presenta el documento que permite perdonar a Lift. La afirmación ritual de que siempre fue Supremo no anticipa el cargo al inicio de la escena.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-darkness-name9",
+      "characterId": "crescent-scar-stranger",
+      "kind": "background",
+      "text": "Lift lo llama Oscuridad. Ningún visir conoce su nombre; no se revela aquí Nalan ni su condición posterior.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Lift lo llama Oscuridad. Ningún visir conoce su nombre; no se revela aquí Nalan ni su condición posterior.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Lift lo llama Oscuridad. Ningún visir conoce su nombre; no se revela aquí Nalan ni su condición posterior.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-creature9",
+      "characterId": "lift",
+      "kind": "background",
+      "text": "Oscuridad usa una criatura pequeña alada para absorber su luz; la descripción no basta para identificarla con el animal individual de Rysn.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Oscuridad usa una criatura pequeña alada para absorber su luz; la descripción no basta para identificarla con el animal individual de Rysn.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Oscuridad usa una criatura pequeña alada para absorber su luz; la descripción no basta para identificarla con el animal individual de Rysn.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-huqin-abandons9",
+      "characterId": "huqin",
+      "kind": "background",
+      "text": "Lift ve huir a los otros ladrones por el muro y considera que Huqin abandonó a su sobrino; no se inventa el destino posterior.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Lift ve huir a los otros ladrones por el muro y considera que Huqin abandonó a su sobrino; no se inventa el destino posterior.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Lift ve huir a los otros ladrones por el muro y considera que Huqin abandonó a su sobrino; no se inventa el destino posterior.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-szeth-voices10",
+      "characterId": "szeth",
+      "kind": "background",
+      "text": "Oye gritos atribuidos a sus víctimas y cuestiona su destierro. Esa experiencia no genera presencias físicas de muertos ni una conversación con ellos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-10"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Oye gritos atribuidos a sus víctimas y cuestiona su destierro. Esa experiencia no genera presencias físicas de muertos ni una conversación con ellos.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Oye gritos atribuidos a sus víctimas y cuestiona su destierro. Esa experiencia no genera presencias físicas de muertos ni una conversación con ellos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-szeth-purpose10",
+      "characterId": "szeth",
+      "kind": "background",
+      "text": "Busca respuestas y considera matar por elección propia; no se registra aquí una muerte nueva ni llegada a una ciudad futura.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-10"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Busca respuestas y considera matar por elección propia; no se registra aquí una muerte nueva ni llegada a una ciudad futura.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Busca respuestas y considera matar por elección propia; no se registra aquí una muerte nueva ni llegada a una ciudad futura.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-melu-11",
+      "characterId": "melu",
+      "kind": "background",
+      "text": "Soldado en forma de tormenta que transmite el recuento y las órdenes de Eshonai.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Soldado en forma de tormenta que transmite el recuento y las órdenes de Eshonai.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Soldado en forma de tormenta que transmite el recuento y las órdenes de Eshonai.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-forms11",
+      "characterId": "venli",
+      "kind": "background",
+      "text": "La narración la muestra en forma de tormenta, como otros estudiosos y doscientos soldados transformados en la tormenta anterior. No se infiere que toda la ciudad ya se haya transformado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. La narración la muestra en forma de tormenta, como otros estudiosos y doscientos soldados transformados en la tormenta anterior. No se infiere que toda la ciudad ya se haya transformado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. La narración la muestra en forma de tormenta, como otros estudiosos y doscientos soldados transformados en la tormenta anterior. No se infiere que toda la ciudad ya se haya transformado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-escape11",
+      "characterId": "thude",
+      "kind": "background",
+      "text": "Varanis informa que huyó con los disidentes tras cortar un puente y bajar por las cuerdas. No se narra llegada a otro asentamiento ni supervivencia futura.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Varanis informa que huyó con los disidentes tras cortar un puente y bajar por las cuerdas. No se narra llegada a otro asentamiento ni supervivencia futura.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Varanis informa que huyó con los disidentes tras cortar un puente y bajar por las cuerdas. No se narra llegada a otro asentamiento ni supervivencia futura.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-mother11",
+      "characterId": "jaxlim",
+      "kind": "background",
+      "text": "Se niega a transformarse y es conducida al grupo de disidentes; sigue sin nombre propio en el texto. La predicción de Eshonai de que morirán en dos días no confirma su muerte.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Se niega a transformarse y es conducida al grupo de disidentes; sigue sin nombre propio en el texto. La predicción de Eshonai de que morirán en dos días no confirma su muerte.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Se niega a transformarse y es conducida al grupo de disidentes; sigue sin nombre propio en el texto. La predicción de Eshonai de que morirán en dos días no confirma su muerte.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-zuln-order11",
+      "characterId": "zuln",
+      "kind": "background",
+      "text": "Eshonai ordena traerla y ponerla con los disidentes; no se narra aquí el cumplimiento individual de esa orden.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Eshonai ordena traerla y ponerla con los disidentes; no se narra aquí el cumplimiento individual de esa orden.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Eshonai ordena traerla y ponerla con los disidentes; no se narra aquí el cumplimiento individual de esa orden.",
+      "supersedes": []
+    },
+    {
+      "id": "primary149-venli-threat11",
+      "characterId": "venli",
+      "kind": "background",
+      "text": "Propone matar a los disidentes; Eshonai dice que esperarán. La amenaza a la propia Venli termina al soltarla, no en asesinato.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Propone matar a los disidentes; Eshonai dice que esperarán. La amenaza a la propia Venli termina al soltarla, no en asesinato.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Propone matar a los disidentes; Eshonai dice que esperarán. La amenaza a la propia Venli termina al soltarla, no en asesinato.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-fleet-story-59",
+      "characterId": "fleet-story",
+      "kind": "background",
+      "text": "Protagonista del relato de Sagaz; sus hazañas, muerte y espíritu pertenecen a la narración, sin presencia corporal actual.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-59"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Protagonista del relato de Sagaz; sus hazañas, muerte y espíritu pertenecen a la narración, sin presencia corporal actual.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Protagonista del relato de Sagaz; sus hazañas, muerte y espíritu pertenecen a la narración, sin presencia corporal actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-chan-arach-story-59",
+      "characterId": "chan-arach-story",
+      "kind": "background",
+      "text": "Heraldo a quien el relato de Sagaz atribuye una carrera contra Fugaz. No se vincula con una figura contemporánea.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-59"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Heraldo a quien el relato de Sagaz atribuye una carrera contra Fugaz. No se vincula con una figura contemporánea.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Heraldo a quien el relato de Sagaz atribuye una carrera contra Fugaz. No se vincula con una figura contemporánea.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-fleet-limits",
+      "characterId": "fleet-story",
+      "kind": "background",
+      "text": "Sagaz lo llama real, pero el relato no se convierte en mapa de posiciones actuales ni en encuentro con Kaladin.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-59"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Sagaz lo llama real, pero el relato no se convierte en mapa de posiciones actuales ni en encuentro con Kaladin.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Sagaz lo llama real, pero el relato no se convierte en mapa de posiciones actuales ni en encuentro con Kaladin.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-syl-law59",
+      "characterId": "syl",
+      "kind": "background",
+      "text": "Dice no ser un altospren y distingue la ley de lo correcto. No se asigna una especie por la opinión de Kaladin sobre la ley.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-59"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Dice no ser un altospren y distingue la ley de lo correcto. No se asigna una especie por la opinión de Kaladin sobre la ley.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Dice no ser un altospren y distingue la ley de lo correcto. No se asigna una especie por la opinión de Kaladin sobre la ley.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-map-hypothesis60",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Propone situar Sedetormenta en las Llanuras pese a la objeción cartográfica de Patrón. Es hipótesis e interpretación de notas, no coordenada histórica confirmada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Propone situar Sedetormenta en las Llanuras pese a la objeción cartográfica de Patrón. Es hipótesis e interpretación de notas, no coordenada histórica confirmada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Propone situar Sedetormenta en las Llanuras pese a la objeción cartográfica de Patrón. Es hipótesis e interpretación de notas, no coordenada histórica confirmada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-oathgate60",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Relaciona las notas de Jasnah y Amaram con diez rutas o Puertas Juradas hacia Urithiru. No ha viajado por ninguna ni hallado aquí una puerta física.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Relaciona las notas de Jasnah y Amaram con diez rutas o Puertas Juradas hacia Urithiru. No ha viajado por ninguna ni hallado aquí una puerta física.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Relaciona las notas de Jasnah y Amaram con diez rutas o Puertas Juradas hacia Urithiru. No ha viajado por ninguna ni hallado aquí una puerta física.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-sound60",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "No logra hacer sonar la imagen durante una hora de pruebas; sí consigue anclarla a Patrón. El comentario de que pudo hacerlo antes no crea una demostración actual.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. No logra hacer sonar la imagen durante una hora de pruebas; sí consigue anclarla a Patrón. El comentario de que pudo hacerlo antes no crea una demostración actual.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. No logra hacer sonar la imagen durante una hora de pruebas; sí consigue anclarla a Patrón. El comentario de que pudo hacerlo antes no crea una demostración actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-illusion-body60",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Crea una imagen de sí misma de niña y después de Velo. No son nuevas personas corporales ni versiones que sustituyan su posición presente.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Crea una imagen de sí misma de niña y después de Velo. No son nuevas personas corporales ni versiones que sustituyan su posición presente.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Crea una imagen de sí misma de niña y después de Velo. No son nuevas personas corporales ni versiones que sustituyan su posición presente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-navani-reply60",
+      "characterId": "navani",
+      "kind": "background",
+      "text": "Su respuesta dice que cuida a Dalinar enfermo y no puede reunirse. Se conserva como referencia epistolar, no presencia de ambos en la habitación de Shallan.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Su respuesta dice que cuida a Dalinar enfermo y no puede reunirse. Se conserva como referencia epistolar, no presencia de ambos en la habitación de Shallan.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Su respuesta dice que cuida a Dalinar enfermo y no puede reunirse. Se conserva como referencia epistolar, no presencia de ambos en la habitación de Shallan.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-brothers-letter60",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Sus hermanos aún no han respondido a sus cartas; no se presupone salida, llegada o fallecimiento.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Sus hermanos aún no han respondido a sus cartas; no se presupone salida, llegada o fallecimiento.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Sus hermanos aún no han respondido a sus cartas; no se presupone salida, llegada o fallecimiento.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-old-map-merchant-pr60-60",
+      "characterId": "old-map-merchant-pr60",
+      "kind": "background",
+      "text": "Le vendió mapas de procedencia antigua alegada; no se le asigna presencia actual en la habitación.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Le vendió mapas de procedencia antigua alegada; no se le asigna presencia actual en la habitación.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Le vendió mapas de procedencia antigua alegada; no se le asigna presencia actual en la habitación.",
+      "supersedes": []
+    },
+    {
+      "id": "primary150-map-provenance60",
+      "characterId": "old-map-merchant-pr60",
+      "kind": "background",
+      "text": "Asegura que el plano procede de una copia de un libro azir basado en un mosaico perdido. La procedencia declarada no certifica exactitud del mapa.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-60"
+      },
+      "sourceIds": [
+        "primary150-wor51-52"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Asegura que el plano procede de una copia de un libro azir basado en un mosaico perdido. La procedencia declarada no certifica exactitud del mapa.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Asegura que el plano procede de una copia de un libro azir basado en un mosaico perdido. La procedencia declarada no certifica exactitud del mapa.",
+      "supersedes": []
+    },
+    {
+      "id": "primary152-comet-reference",
+      "characterId": "eshonai-comet-i11",
+      "kind": "background",
+      "text": "Eshonai intenta espantarlo mientras sube a la torre. No se revela nombre propio ni se confirma identidad con otro spren de aspecto semejante.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-11"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml: pequeño spren como cometa que sigue a Eshonai en la torre y sale de su mano.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml: pequeño spren como cometa que sigue a Eshonai en la torre y sale de su mano."
     }
   ],
   "relationshipCoverage": {
@@ -67219,6 +69589,18 @@ window.ATLAS_DATA = {
         {
           "revision": 147,
           "notes": "PR55: madre de un animal es una broma taxonómica, no genealogía humana. Mujer aludida por Sagaz sin identidad o relación sentimental. Ialai esposa de Sadeas en relato histórico, sin nueva primera revelación."
+        },
+        {
+          "revision": 148,
+          "notes": "PR56–58: cadena de la madre de Adolin/Renarin no revela nombre nuevo. Padre de Elhokar como comparación ocular, relaciones conocidas sin inventar parentescos. No ejecución de Kaladin ni muerte literal por honor muerto."
+        },
+        {
+          "revision": 149,
+          "notes": "I9: Huqin tío de Gawx sin rama; dos ladrones hermanos entre sí, no de Huqin. Madre de Lift sin nombre y matrona iriali abuela sin descendientes inventados. Madre de Wyndle y Anillo son alusiones, no familia humana. I11: madre de las hermanas sin nombre nuevo; Thude–Bila inferido, sin matrimonio o hijos. Huida y amenaza de muerte sin convertir en fallecimientos."
+        },
+        {
+          "revision": 150,
+          "notes": "PR59–60: personajes del cuento, familia imaginada y Velo como imagen no crean genealogías o encuentros modernos. Cartas sin respuesta de los hermanos no resuelven su situación. No se identifica a los corresponsales anónimos de epígrafes por conocimientos futuros."
         }
       ]
     }
@@ -69760,6 +72142,23 @@ window.ATLAS_DATA = {
         "Cadáver observado. No se identifica asesino material ni se fija hora exacta."
       ],
       "primaryLocator": "EPUB español aportado, OEBPS/Text/03_054.xhtml. Hallazgo del carruaje al regreso."
+    },
+    {
+      "id": "primary149-gawx-alive",
+      "characterId": "gawx",
+      "state": "alive",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-9"
+      },
+      "sourceIds": [
+        "primary149-wor51-52"
+      ],
+      "status": "confirmed",
+      "notes": [
+        "Herida seguida de curación y elección. No registrar muerte permanente."
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Final del interludio: habla, se arrodilla y perdona a Lift."
     }
   ],
   "bookId": "wok",
@@ -69790,7 +72189,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 147,
+  "revision": 152,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -72693,18 +75092,20 @@ window.ATLAS_DATA = {
       "characterId": "kaladin",
       "sceneId": "wor-chapter-59",
       "type": "narrated-story",
-      "experiencedPlace": "Relato de Fleet escuchado a Sagaz",
-      "physicalPlaceId": "place-kholin-prison-kaladin",
+      "experiencedPlace": "Relato de Fugaz (Fleet) escuchado a Sagaz",
+      "physicalPlaceId": "place-kaladin-prison-cell",
       "sourceIds": [
-        "wor-c59"
+        "wor-c59",
+        "primary150-wor51-52"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Kaladin escucha en la celda; no recorre Roshar ni entra en Shadesmar como el protagonista del relato."
       ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Kaladin imagina el relato mientras lo escucha en prisión.",
       "entryAnchor": {
-        "placeId": "place-kholin-prison-kaladin",
-        "name": "Campamento Kholin · Prisión · Celda de Kaladin",
+        "placeId": "place-kaladin-prison-cell",
+        "name": "Campamentos · Celda de Kaladin",
         "xy": [
           756.972,
           453.279
@@ -81144,13 +83545,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -81167,18 +83569,63 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-kaladin-arrival56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Acceso de carruajes",
+          "placeId": "place-arena-arrival-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Acceso de carruajes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse."
+          ]
         },
         {
           "id": "wor-kaladin-chapter-56-02",
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamentos · Recinto de duelos",
@@ -81193,13 +83640,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -81216,10 +83664,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -81242,12 +83688,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -81264,10 +83711,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -81278,24 +83723,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Arena de duelos · Dependencias tras el combate",
-          "placeId": "place-arena-aftermath-discussion",
+          "place": "Campamento Kholin · Aposentos de Dalinar",
+          "placeId": "place-dalinar-quarters-pr58",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Campamento Kholin · Aposentos de Dalinar",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c58",
           "sourceIds": [
             "wor-c58",
-            "wor-c58-coppermind"
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -81312,18 +83759,63 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-58"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-kaladin-transfer58",
+          "scene": "wor-chapter-58",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Camino a prisión",
+          "placeId": "place-kholin-prison-route-pr58",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Campamento Kholin · Camino a prisión",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-58"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Soldados desconocidos lo conducen encadenado por el campamento hasta la prisión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Soldados desconocidos lo conducen encadenado por el campamento hasta la prisión."
+          ]
         },
         {
           "id": "wor-kaladin-chapter-58-02",
           "scene": "wor-chapter-58",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamentos · Celda de Kaladin",
@@ -81338,13 +83830,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c58",
           "sourceIds": [
             "wor-c58",
-            "wor-c58-coppermind"
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -81361,10 +83854,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-58"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -81375,23 +83866,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Prisión · Celda de Kaladin",
-          "placeId": "place-kholin-prison-kaladin",
+          "place": "Campamentos · Celda de Kaladin",
+          "placeId": "place-kaladin-prison-cell",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "Anclaje regional heredado; no fija coordenadas de la dependencia.",
+            "Dependencia y ubicación urbana exactas pendientes."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c59",
           "sourceIds": [
-            "wor-c59"
+            "wor-c59",
+            "primary150-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -81408,10 +83901,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-59"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Kaladin permanece encerrado; Syl dentro y Sagaz fuera de los barrotes.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -91189,6 +93680,52 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary148-shallan-stands56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Gradas",
+          "placeId": "place-arena-spectator-stands",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Saluda a Adolin; tiene dos guardias junto a ella y se sienta con Sebarial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Saluda a Adolin; tiene dos guardias junto a ella y se sienta con Sebarial."
+          ]
+        },
+        {
           "id": "wor-shallan-chapter-57-01",
           "scene": "wor-chapter-57",
           "retrospective": false,
@@ -91207,12 +93744,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -91229,10 +93767,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": [
             "La intervención de Patrón se documenta en el recinto sin inferir un cambio de plano."
           ]
@@ -91245,24 +93781,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Residencia de Sebarial · Habitaciones de Shallan",
-          "placeId": "place-shallan-sebarial-suite",
+          "place": "Residencia de Sebarial · Dormitorio de Shallan",
+          "placeId": "place-shallan-bedroom-pr60",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 40; líneas 20924-20990 de la extracción de 52283 líneas. Habitaciones de Shallan en el ala este, con dormitorio y sala de estar.",
-            "Anclaje aproximado; dependencia sin coordenadas exactas."
+            "EPUB español aportado, OEBPS/Text/04_060.xhtml. Residencia de Sebarial · Dormitorio de Shallan",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c60",
           "sourceIds": [
-            "wor-c60"
+            "wor-c60",
+            "primary150-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -91279,11 +93816,103 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-60"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Investigan y practican ilusiones en el dormitorio de Shallan.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary150-shallan-sitting60",
+          "scene": "wor-chapter-60",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Habitaciones de Shallan · Sala de estar",
+          "placeId": "place-shallan-suite-sitting-pr42",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado, capítulo 42; líneas 21872-21917 de la extracción de 52283 líneas. Se sienta en el sofá junto a la comida y la vinculacaña.",
+            "Existencia cotejada; anclaje aproximado, sin posición exacta de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary150-wor51-52",
+          "sourceIds": [
+            "primary150-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-60"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Sale a buscar vino y prueba mantener la ilusión a distancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale a buscar vino y prueba mantener la ilusión a distancia."
+          ]
+        },
+        {
+          "id": "primary150-shallan-back60",
+          "scene": "wor-chapter-60",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Residencia de Sebarial · Dormitorio de Shallan",
+          "placeId": "place-shallan-bedroom-pr60",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_060.xhtml. Residencia de Sebarial · Dormitorio de Shallan",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary150-wor51-52",
+          "sourceIds": [
+            "primary150-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-60"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Regresa a la cama y sigue dibujando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a la cama y sigue dibujando."
+          ]
         },
         {
           "id": "wor-shallan-chapter-61-01",
@@ -97219,12 +99848,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i10",
           "sourceIds": [
-            "wor-i10"
+            "wor-i10",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -97241,12 +99871,104 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Szeth permanece en el borde oriental de la cima de Urithiru antes de partir.",
+          "needsConfirmation": [],
           "notes": [
             "La fuente secundaria identifica Urithiru; pendiente de cotejar cuándo se nombra en el texto. Conservar la posición de partida sin inventar la llegada siguiente."
+          ]
+        },
+        {
+          "id": "primary149-szeth-flight10",
+          "scene": "wor-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vuelo hacia el sur",
+          "placeId": "place-szeth-south-flight-i10",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Urithiru · Vuelo hacia el sur",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-10"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Salta y se enlaza al sur; no se completa el viaje a su destino lejano.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salta y se enlaza al sur; no se completa el viaje a su destino lejano."
+          ]
+        },
+        {
+          "id": "primary149-szeth-village10",
+          "scene": "wor-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Montañas de Urithiru · Aldea al pie",
+          "placeId": "place-urithiru-foot-village-i10",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Montañas de Urithiru · Aldea al pie",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-10"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_010.xhtml. Aterriza en la aldea al pie, donde suelen dejarle esferas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza en la aldea al pie, donde suelen dejarle esferas."
           ]
         },
         {
@@ -100326,13 +103048,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -100349,15 +103072,155 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-syl-fight57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamentos · Recinto de duelos",
+          "placeId": "place-campamentos-recinto-de-duelos",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación textual pendiente de cotejo y coordenadas por localizar.",
+            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Acompaña a Kaladin en forma de luz y luego vuela hacia Renarin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Kaladin en forma de luz y luego vuela hacia Renarin."
+          ]
+        },
+        {
+          "id": "primary148-syl-air57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Espacio aéreo físico",
+          "placeId": "place-plains-air-pr52",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Llanuras Quebradas · Espacio aéreo físico",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Al terminar gira con los vientos por encima del estadio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al terminar gira con los vientos por encima del estadio."
+          ]
         },
         {
           "id": "wor-syl-chapter-58-01",
           "scene": "wor-chapter-58",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamentos · Celda de Kaladin",
+          "placeId": "place-kaladin-prison-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia.",
+            "Dependencia y ubicación urbana exactas pendientes."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "wor-c58",
+          "sourceIds": [
+            "wor-c58",
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "frame": "present",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia de la escena; no establece simultaneidad entre tramas ni una fecha exacta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-58"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
+          "notes": []
+        },
+        {
+          "id": "wor-syl-chapter-59-01",
+          "scene": "wor-chapter-59",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
@@ -100375,60 +103238,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c58",
-          "sourceIds": [
-            "wor-c58",
-            "wor-c58-coppermind"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia de la escena; no establece simultaneidad entre tramas ni una fecha exacta."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-58"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
-        },
-        {
-          "id": "wor-syl-chapter-59-01",
-          "scene": "wor-chapter-59",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Campamento Kholin · Prisión · Celda de Kaladin",
-          "placeId": "place-kholin-prison-kaladin",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c59",
           "sourceIds": [
-            "wor-c59"
+            "wor-c59",
+            "primary150-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -100445,10 +103261,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-59"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Kaladin permanece encerrado; Syl dentro y Sagaz fuera de los barrotes.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -104373,11 +107187,58 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "wor-dalinar-chapter-56-01",
+          "id": "primary148-dalinar-arrival56",
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Acceso de carruajes",
+          "placeId": "place-arena-arrival-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Acceso de carruajes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse."
+          ]
+        },
+        {
+          "id": "wor-dalinar-chapter-56-01",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Arena de duelos · Gradas",
@@ -104391,13 +107252,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -104414,59 +107276,55 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-dalinar-chapter-57-01",
-          "scene": "wor-chapter-57",
+          "id": "primary148-dalinar-judge56",
+          "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Arena de duelos · Gradas",
-          "placeId": "place-arena-spectator-stands",
+          "place": "Estadio · Estrado de la jueza",
+          "placeId": "place-arena-judge-pr56",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Estrado de la jueza",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c57",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
           "sourceIds": [
-            "wor-c57"
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
           "coordinateAnchorName": "Llanuras Quebradas",
           "storyTime": {
+            "frame": "present",
             "relationToStart": "after-start",
             "date": null,
             "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia de la escena; no establece simultaneidad entre tramas ni una fecha exacta."
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
           },
           "revealedAt": {
             "bookId": "wor",
-            "sceneId": "wor-chapter-57"
+            "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Baja al estrado para exigir a Istow que detenga el duelo; no entra en la arena.",
+          "needsConfirmation": [],
           "notes": [
-            "La intervención de Patrón se documenta en el recinto sin inferir un cambio de plano."
+            "Baja al estrado para exigir a Istow que detenga el duelo; no entra en la arena."
           ]
         },
         {
@@ -104477,24 +107335,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Arena de duelos · Dependencias tras el combate",
-          "placeId": "place-arena-aftermath-discussion",
+          "place": "Campamento Kholin · Aposentos de Dalinar",
+          "placeId": "place-dalinar-quarters-pr58",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Campamento Kholin · Aposentos de Dalinar",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c58",
           "sourceIds": [
             "wor-c58",
-            "wor-c58-coppermind"
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -104511,11 +107371,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-58"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-dalinar-exit58",
+          "scene": "wor-chapter-58",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Salida de aposentos",
+          "placeId": "place-dalinar-quarters-exit-pr58",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Campamento Kholin · Salida de aposentos",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-58"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Sale de los aposentos tras discutir con Kaladin; sin llegada a otro lugar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de los aposentos tras discutir con Kaladin; sin llegada a otro lugar."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-62-01",
@@ -111323,13 +114228,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111346,10 +114252,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -111357,7 +114261,7 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamentos · Recinto de duelos",
@@ -111372,13 +114276,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111395,10 +114300,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -111421,12 +114324,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111443,10 +114347,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -114890,13 +117792,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -114913,10 +117816,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -114924,7 +117825,7 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamentos · Recinto de duelos",
@@ -114939,13 +117840,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -114962,10 +117864,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -114988,12 +117888,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -115010,10 +117911,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -117169,11 +120068,58 @@ window.ATLAS_DATA = {
           "notes": []
         },
         {
-          "id": "wor-elhokar-chapter-56-01",
+          "id": "primary148-elhokar-arrival56",
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Acceso de carruajes",
+          "placeId": "place-arena-arrival-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Acceso de carruajes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse."
+          ]
+        },
+        {
+          "id": "wor-elhokar-chapter-56-01",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Arena de duelos · Gradas",
@@ -117187,13 +120133,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -117210,10 +120157,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -117235,12 +120180,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -117257,12 +120203,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": [
             "La intervención de Patrón se documenta en el recinto sin inferir un cambio de plano."
+          ]
+        },
+        {
+          "id": "primary148-elhokar-judge57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Estrado de la jueza",
+          "placeId": "place-arena-judge-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Estrado de la jueza",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Se sitúa junto a la jueza para ofrecer el premio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se sitúa junto a la jueza para ofrecer el premio."
           ]
         },
         {
@@ -117273,24 +120264,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Arena de duelos · Dependencias tras el combate",
-          "placeId": "place-arena-aftermath-discussion",
+          "place": "Campamento Kholin · Aposentos de Dalinar",
+          "placeId": "place-dalinar-quarters-pr58",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Campamento Kholin · Aposentos de Dalinar",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c58",
           "sourceIds": [
             "wor-c58",
-            "wor-c58-coppermind"
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -117307,11 +120300,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-58"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-elhokar-exit58",
+          "scene": "wor-chapter-58",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Salida de aposentos",
+          "placeId": "place-dalinar-quarters-exit-pr58",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Campamento Kholin · Salida de aposentos",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-58"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Sale de los aposentos tras discutir con Kaladin; sin llegada a otro lugar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de los aposentos tras discutir con Kaladin; sin llegada a otro lugar."
+          ]
         },
         {
           "id": "wor-elhokar-chapter-80-01",
@@ -118719,13 +121757,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -118742,11 +121781,55 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-sadeas-exit57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Gradas",
+          "placeId": "place-arena-spectator-stands",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Empieza a huir por las escalinatas y se detiene al oír el desafío.",
+          "needsConfirmation": [],
+          "notes": [
+            "Empieza a huir por las escalinatas y se detiene al oír el desafío."
+          ]
         },
         {
           "id": "wor-sadeas-chapter-58-01",
@@ -118756,7 +121839,7 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento de Sadeas · Conversación tras el duelo",
+          "place": "Campamento de Sadeas · Estudio tras el duelo",
           "placeId": "place-sadeas-post-duel-plans",
           "realm": "physical",
           "placeNotes": [
@@ -118767,13 +121850,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c58",
           "sourceIds": [
             "wor-c58",
-            "wor-c58-coppermind"
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -118790,10 +121874,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-58"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -120701,11 +123783,58 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "wor-navani-chapter-56-01",
+          "id": "primary148-navani-arrival56",
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Acceso de carruajes",
+          "placeId": "place-arena-arrival-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Acceso de carruajes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse."
+          ]
+        },
+        {
+          "id": "wor-navani-chapter-56-01",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Arena de duelos · Sala de preparación",
@@ -120719,13 +123848,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -120742,10 +123872,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -122494,12 +125622,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c59",
           "sourceIds": [
-            "wor-c59"
+            "wor-c59",
+            "primary150-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -122516,11 +125645,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-59"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Kaladin permanece encerrado; Syl dentro y Sagaz fuera de los barrotes.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary150-wit-exit59",
+          "scene": "wor-chapter-59",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Prisión Kholin · Salida de Sagaz",
+          "placeId": "place-kholin-prison-wit-exit-pr59",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_059.xhtml. Prisión Kholin · Salida de Sagaz",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary150-wor51-52",
+          "sourceIds": [
+            "primary150-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-59"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Sale al terminar la historia, sin destino posterior narrado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale al terminar la historia, sin destino posterior narrado."
+          ]
         },
         {
           "id": "wor-wit-chapter-67-01",
@@ -129547,24 +132721,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Arena de duelos · Gradas",
-          "placeId": "place-arena-spectator-stands",
+          "place": "Arena de duelos · Sala de preparación",
+          "placeId": "place-dueling-arena-staging-room",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+            "Ubicación y traducción pendientes de cotejo. El anclaje regional no identifica un edificio, meseta o tramo exacto."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -129581,10 +132756,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -137413,6 +140586,53 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary148-sigzil-arrival56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Acceso de carruajes",
+          "placeId": "place-arena-arrival-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Acceso de carruajes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse."
+          ]
+        },
+        {
           "id": "wor-sigzil-chapter-71-01",
           "scene": "wor-chapter-71",
           "retrospective": false,
@@ -141285,11 +144505,58 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "wor-amaram-chapter-56-01",
+          "id": "primary148-amaram-arrival56",
           "scene": "wor-chapter-56",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Acceso de carruajes",
+          "placeId": "place-arena-arrival-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Acceso de carruajes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegada del séquito y conversación de Kaladin con Sigzil antes de distribuirse."
+          ]
+        },
+        {
+          "id": "wor-amaram-chapter-56-01",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Arena de duelos · Gradas",
@@ -141303,13 +144570,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -141326,10 +144594,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -141351,12 +144617,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -141373,10 +144640,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": [
             "La intervención de Patrón se documenta en el recinto sin inferir un cambio de plano."
           ]
@@ -142570,6 +145835,52 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sale con la escolta al pasillo; no se muestra una llegada posterior a otro lugar."
+          ]
+        },
+        {
+          "id": "primary148-skar-stage56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Sala de preparación",
+          "placeId": "place-dueling-arena-staging-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación y traducción pendientes de cotejo. El anclaje regional no identifica un edificio, meseta o tramo exacto."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Están con Adolin en la sala de preparación según informa Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Están con Adolin en la sala de preparación según informa Kaladin."
           ]
         },
         {
@@ -145487,13 +148798,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -145510,10 +148822,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -145536,12 +148846,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -145558,11 +148869,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-jakamav-exit57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Salida de duelistas derrotados",
+          "placeId": "place-arena-defeated-exit-pr57",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Salida de duelistas derrotados",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Abandonan el combate tras rendirse; sin llegada posterior inventada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Abandonan el combate tras rendirse; sin llegada posterior inventada."
+          ]
         }
       ]
     },
@@ -148708,12 +152064,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -148730,10 +152087,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": [
             "La intervención de Patrón se documenta en el recinto sin inferir un cambio de plano."
           ]
@@ -148746,24 +152101,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Residencia de Sebarial · Habitaciones de Shallan",
-          "placeId": "place-shallan-sebarial-suite",
+          "place": "Residencia de Sebarial · Dormitorio de Shallan",
+          "placeId": "place-shallan-bedroom-pr60",
           "realm": "physical",
           "placeNotes": [
-            "Palabras radiantes, EPUB español aportado, capítulo 40; líneas 20924-20990 de la extracción de 52283 líneas. Habitaciones de Shallan en el ala este, con dormitorio y sala de estar.",
-            "Anclaje aproximado; dependencia sin coordenadas exactas."
+            "EPUB español aportado, OEBPS/Text/04_060.xhtml. Residencia de Sebarial · Dormitorio de Shallan",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c60",
           "sourceIds": [
-            "wor-c60"
+            "wor-c60",
+            "primary150-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -148780,11 +152136,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-60"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Investigan y practican ilusiones en el dormitorio de Shallan.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary150-pattern-light60",
+          "scene": "wor-chapter-60",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Residencia de Sebarial · Dormitorio de Shallan",
+          "placeId": "place-shallan-bedroom-pr60",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/04_060.xhtml. Residencia de Sebarial · Dormitorio de Shallan",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary150-wor51-52",
+          "sourceIds": [
+            "primary150-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-60"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/04_060.xhtml. Mantiene la imagen y se mueve con ella; Velo se desliza como ilusión, no como otro cuerpo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mantiene la imagen y se mueve con ella; Velo se desliza como ilusión, no como otro cuerpo."
+          ]
         },
         {
           "id": "wor-pattern-chapter-63-01",
@@ -153860,13 +157261,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -153883,18 +157285,110 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-eshonai-base11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Eshonai convoca la transformación públicamente y Venli protesta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai convoca la transformación públicamente y Venli protesta."
+          ]
+        },
+        {
+          "id": "primary149-eshonai-barracks11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Barracones a sotavento",
+          "placeId": "place-narak-barracks-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Barracones a sotavento",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Llegan a la zona de barracones para reunir al ejército.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan a la zona de barracones para reunir al ejército."
+          ]
         },
         {
           "id": "wor-eshonai-interlude-11-02",
           "scene": "wor-interlude-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Narak · Campo de prácticas y disidentes",
@@ -153908,13 +157402,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -153931,10 +157426,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -153942,7 +157435,7 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Narak · Meseta central",
@@ -153957,13 +157450,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -153980,11 +157474,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-eshonai-last11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Discuten por la fuga; Eshonai sube para hablar al pueblo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discuten por la fuga; Eshonai sube para hablar al pueblo."
+          ]
         },
         {
           "id": "wor-eshonai-interlude-13-01",
@@ -154446,13 +157985,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -154469,18 +158009,110 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-venli-base11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Eshonai convoca la transformación públicamente y Venli protesta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai convoca la transformación públicamente y Venli protesta."
+          ]
+        },
+        {
+          "id": "primary149-venli-barracks11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Barracones a sotavento",
+          "placeId": "place-narak-barracks-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Barracones a sotavento",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Llegan a la zona de barracones para reunir al ejército.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan a la zona de barracones para reunir al ejército."
+          ]
         },
         {
           "id": "wor-venli-interlude-11-02",
           "scene": "wor-interlude-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Narak · Campo de prácticas y disidentes",
@@ -154494,13 +158126,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -154517,10 +158150,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -154528,7 +158159,7 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Narak · Meseta central",
@@ -154543,13 +158174,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -154566,11 +158198,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-venli-last11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Discuten por la fuga; Eshonai sube para hablar al pueblo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discuten por la fuga; Eshonai sube para hablar al pueblo."
+          ]
         },
         {
           "id": "wor-venli-interlude-13-01",
@@ -155233,11 +158910,104 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary149-crescent-scar-stranger-capture9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Oscuridad llega con permisos y captura a Lift junto a la mesa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Oscuridad llega con permisos y captura a Lift junto a la mesa."
+          ]
+        },
+        {
+          "id": "primary149-crescent-scar-stranger-chase9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 11,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Cocinas y pasillos de servicio",
+          "placeId": "place-bronze-kitchen-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Cocinas y pasillos de servicio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Persecución por las cocinas y corredores de servicio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Persecución por las cocinas y corredores de servicio."
+          ]
+        },
+        {
           "id": "wor-crescent-scar-stranger-interlude-9-01",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 18,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
@@ -155251,12 +159021,13 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -155273,12 +159044,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": [
             "El visitante de la cicatriz es llamado Oscuridad en esta escena; no se anticipa otra identidad. Gawx recibe curación y no se marca como fallecido."
+          ]
+        },
+        {
+          "id": "primary149-darkness-depart9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Salida del alguacil",
+          "placeId": "place-bronze-darkness-exit-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Salida del alguacil",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Se inclina ante Gawx y se marcha; no se adelanta nombre Nalan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se inclina ante Gawx y se marcha; no se adelanta nombre Nalan."
           ]
         },
         {
@@ -156034,7 +159850,7 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Narak · Campo de prácticas y disidentes",
@@ -156048,13 +159864,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -156071,10 +159888,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
         }
       ]
@@ -156134,6 +159949,52 @@ window.ATLAS_DATA = {
           "locator": "Palabras radiantes, EPUB español aportado, interludio 4; líneas 8372-8447 de la extracción de 52283 líneas. Está en la estancia donde se examina la gema.",
           "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-bila11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Campo de prácticas y disidentes",
+          "placeId": "place-narak-practice-dissenters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Thude se reúne con Bila y miembros de la antigua división para organizar la vigilancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Thude se reúne con Bila y miembros de la antigua división para organizar la vigilancia."
+          ]
         }
       ]
     },
@@ -156197,7 +160058,7 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Narak · Campo de prácticas y disidentes",
@@ -156211,13 +160072,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i11",
           "sourceIds": [
             "wor-i11",
-            "wor-i11-coppermind"
+            "wor-i11-coppermind",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -156234,10 +160096,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Consejo, reunión militar y referencias a la huida cotejados; la huida conserva evidencia de relato.",
+          "needsConfirmation": [],
           "notes": []
         }
       ]
@@ -157197,13 +161057,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -157220,10 +161081,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -160197,6 +164056,52 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary148-ialai56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Gradas",
+          "placeId": "place-arena-spectator-stands",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Se vuelve junto a su esposo cuando les hablan Dalinar y Elhokar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se vuelve junto a su esposo cuando les hablan Dalinar y Elhokar."
+          ]
+        },
+        {
           "id": "wor-ialai-chapter-58-01",
           "scene": "wor-chapter-58",
           "retrospective": false,
@@ -160204,7 +164109,7 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento de Sadeas · Conversación tras el duelo",
+          "place": "Campamento de Sadeas · Estudio tras el duelo",
           "placeId": "place-sadeas-post-duel-plans",
           "realm": "physical",
           "placeNotes": [
@@ -160215,13 +164120,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c58",
           "sourceIds": [
             "wor-c58",
-            "wor-c58-coppermind"
+            "wor-c58-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -160238,10 +164144,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-58"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_058.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -161578,6 +165482,98 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary148-sebarial56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Gradas",
+          "placeId": "place-arena-spectator-stands",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Shallan se sienta con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan se sienta con él."
+          ]
+        },
+        {
+          "id": "primary148-sebarial-stands57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Gradas",
+          "placeId": "place-arena-spectator-stands",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Sentados junto a Shallan viendo el duelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sentados junto a Shallan viendo el duelo."
+          ]
+        },
+        {
           "id": "wor-sebarial-chapter-76-01",
           "scene": "wor-chapter-76",
           "retrospective": false,
@@ -162155,6 +166151,52 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la sala con ventanales durante el paso de Shallan. No se identifica a quien da el masaje."
+          ]
+        },
+        {
+          "id": "primary148-palona-stands57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Gradas",
+          "placeId": "place-arena-spectator-stands",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje regional heredado; no fija coordenadas de la dependencia."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Sentados junto a Shallan viendo el duelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sentados junto a Shallan viendo el duelo."
           ]
         },
         {
@@ -162758,13 +166800,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162781,10 +166824,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -162807,12 +166848,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162829,11 +166871,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-relis-exit57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Túnel de salida de Relis",
+          "placeId": "place-arena-relis-exit-pr57",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Túnel de salida de Relis",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Huye hacia la sala de preparación; la jueza declara que pierde por abandonar la zona.",
+          "needsConfirmation": [],
+          "notes": [
+            "Huye hacia la sala de preparación; la jueza declara que pierde por abandonar la zona."
+          ]
         }
       ]
     },
@@ -163006,13 +167093,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -163029,10 +167117,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -163055,12 +167141,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -163077,11 +167164,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary148-elit-exit57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Salida de duelistas derrotados",
+          "placeId": "place-arena-defeated-exit-pr57",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Salida de duelistas derrotados",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Abandonan el combate tras rendirse; sin llegada posterior inventada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Abandonan el combate tras rendirse; sin llegada posterior inventada."
+          ]
         }
       ]
     },
@@ -164048,13 +168180,14 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c56",
           "sourceIds": [
             "wor-c56",
-            "wor-c56-coppermind"
+            "wor-c56-coppermind",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -164071,10 +168204,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-56"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -164097,12 +168228,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c57",
           "sourceIds": [
-            "wor-c57"
+            "wor-c57",
+            "primary148-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -164119,10 +168251,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-57"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Pasaje primario completo cotejado; marco y secuencia de cada trama conservados.",
+          "needsConfirmation": [],
           "notes": []
         }
       ]
@@ -164242,11 +168372,105 @@ window.ATLAS_DATA = {
       "importanceReason": "Protagoniza una línea de acción propia y la novela corta Danzante del Filo.",
       "events": [
         {
-          "id": "wor-lift-interlude-9-01",
+          "id": "primary149-lift-wall9",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el grupo de entrada al palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el grupo de entrada al palacio."
+          ]
+        },
+        {
+          "id": "primary149-lift-court9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Patio y jardín",
+          "placeId": "place-bronze-courtyard-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Patio y jardín",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Llegan al patio antes de escalar a la ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan al patio antes de escalar a la ventana."
+          ]
+        },
+        {
+          "id": "wor-lift-interlude-9-01",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Entrada superior",
@@ -164260,12 +168484,13 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -164282,18 +168507,110 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-lift-hall9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Pasillos y alacena",
+          "placeId": "place-bronze-halls-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Pasillos y alacena",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Recorren pasillos y alacena; luego Gawx parte hacia los visires.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorren pasillos y alacena; luego Gawx parte hacia los visires."
+          ]
+        },
+        {
+          "id": "primary149-lift-ledge9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Cornisa ante el Supremo",
+          "placeId": "place-bronze-ledge-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Cornisa ante el Supremo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Avanza sobre los guardias con asideros de Wyndle.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza sobre los guardias con asideros de Wyndle."
+          ]
         },
         {
           "id": "wor-lift-interlude-9-02",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 7,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Zona del banquete",
@@ -164307,12 +168624,13 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -164329,18 +168647,156 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-lift-interlude-9-03",
+          "id": "primary149-lift-capture9",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Oscuridad llega con permisos y captura a Lift junto a la mesa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Oscuridad llega con permisos y captura a Lift junto a la mesa."
+          ]
+        },
+        {
+          "id": "primary149-lift-chase9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 11,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Cocinas y pasillos de servicio",
+          "placeId": "place-bronze-kitchen-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Cocinas y pasillos de servicio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Persecución por las cocinas y corredores de servicio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Persecución por las cocinas y corredores de servicio."
+          ]
+        },
+        {
+          "id": "primary149-lift-roof9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 14,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Tejado y ventana de regreso",
+          "placeId": "place-bronze-roof-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Tejado y ventana de regreso",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Lift escapa por la ventana y escala al tejado, pero decide volver.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift escapa por la ventana y escala al tejado, pero decide volver."
+          ]
+        },
+        {
+          "id": "primary149-lift-heal9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 16,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
@@ -164354,12 +168810,59 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Vuelve hasta Gawx y lo cura antes de ser apartada de él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve hasta Gawx y lo cura antes de ser apartada de él."
+          ]
+        },
+        {
+          "id": "wor-lift-interlude-9-03",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 18,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -164376,12 +168879,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": [
             "El visitante de la cicatriz es llamado Oscuridad en esta escena; no se anticipa otra identidad. Gawx recibe curación y no se marca como fallecido."
+          ]
+        },
+        {
+          "id": "primary149-lift-pardon9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 19,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Gawx elegido Supremo interviene y la perdona.",
+          "needsConfirmation": [],
+          "notes": [
+            "Gawx elegido Supremo interviene y la perdona."
           ]
         },
         {
@@ -165665,11 +170212,58 @@ window.ATLAS_DATA = {
       "importanceReason": "Es el compañero central de Lift y su interlocutor continuo durante su recorrido.",
       "events": [
         {
+          "id": "primary149-wyndle-court9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Patio y jardín",
+          "placeId": "place-bronze-courtyard-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Patio y jardín",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Llegan al patio antes de escalar a la ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan al patio antes de escalar a la ventana."
+          ]
+        },
+        {
           "id": "wor-wyndle-interlude-9-01",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Entrada superior",
@@ -165683,12 +170277,13 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -165705,18 +170300,110 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary149-wyndle-hall9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Pasillos y alacena",
+          "placeId": "place-bronze-halls-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Pasillos y alacena",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Recorren pasillos y alacena; luego Gawx parte hacia los visires.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorren pasillos y alacena; luego Gawx parte hacia los visires."
+          ]
+        },
+        {
+          "id": "primary149-wyndle-ledge9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Cornisa ante el Supremo",
+          "placeId": "place-bronze-ledge-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Cornisa ante el Supremo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Hace crecer asideros para Lift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hace crecer asideros para Lift."
+          ]
         },
         {
           "id": "wor-wyndle-interlude-9-02",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 7,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Zona del banquete",
@@ -165730,12 +170417,13 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -165752,18 +170440,156 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-wyndle-interlude-9-03",
+          "id": "primary149-wyndle-capture9",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Oscuridad llega con permisos y captura a Lift junto a la mesa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Oscuridad llega con permisos y captura a Lift junto a la mesa."
+          ]
+        },
+        {
+          "id": "primary149-wyndle-chase9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 11,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Cocinas y pasillos de servicio",
+          "placeId": "place-bronze-kitchen-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Cocinas y pasillos de servicio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Persecución por las cocinas y corredores de servicio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Persecución por las cocinas y corredores de servicio."
+          ]
+        },
+        {
+          "id": "primary149-wyndle-roof9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 14,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Tejado y ventana de regreso",
+          "placeId": "place-bronze-roof-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Tejado y ventana de regreso",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Lift escapa por la ventana y escala al tejado, pero decide volver.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift escapa por la ventana y escala al tejado, pero decide volver."
+          ]
+        },
+        {
+          "id": "primary149-wyndle-heal9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 16,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
@@ -165777,12 +170603,59 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Vuelve hasta Gawx y lo cura antes de ser apartada de él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve hasta Gawx y lo cura antes de ser apartada de él."
+          ]
+        },
+        {
+          "id": "wor-wyndle-interlude-9-03",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 18,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -165799,12 +170672,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": [
             "El visitante de la cicatriz es llamado Oscuridad en esta escena; no se anticipa otra identidad. Gawx recibe curación y no se marca como fallecido."
+          ]
+        },
+        {
+          "id": "primary149-wyndle-pardon9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 19,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Gawx elegido Supremo interviene y la perdona.",
+          "needsConfirmation": [],
+          "notes": [
+            "Gawx elegido Supremo interviene y la perdona."
           ]
         },
         {
@@ -167005,11 +171922,105 @@ window.ATLAS_DATA = {
       ],
       "events": [
         {
-          "id": "wor-gawx-interlude-9-01",
+          "id": "primary149-gawx-wall9",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el grupo de entrada al palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el grupo de entrada al palacio."
+          ]
+        },
+        {
+          "id": "primary149-gawx-court9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Patio y jardín",
+          "placeId": "place-bronze-courtyard-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Patio y jardín",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Llegan al patio antes de escalar a la ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan al patio antes de escalar a la ventana."
+          ]
+        },
+        {
+          "id": "wor-gawx-interlude-9-01",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Entrada superior",
@@ -167023,12 +172034,13 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -167045,18 +172057,63 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-gawx-interlude-9-02",
+          "id": "primary149-gawx-hall9",
           "scene": "wor-interlude-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Pasillos y alacena",
+          "placeId": "place-bronze-halls-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Pasillos y alacena",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Recorren pasillos y alacena; luego Gawx parte hacia los visires.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorren pasillos y alacena; luego Gawx parte hacia los visires."
+          ]
+        },
+        {
+          "id": "primary149-gawx-cut9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 13,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
@@ -167070,12 +172127,59 @@ window.ATLAS_DATA = {
             423.377
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Un sicario le corta la garganta; no se certifica muerte irreversible.",
+          "needsConfirmation": [],
+          "notes": [
+            "Un sicario le corta la garganta; no se certifica muerte irreversible."
+          ]
+        },
+        {
+          "id": "wor-gawx-interlude-9-02",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 18,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-i9",
           "sourceIds": [
-            "wor-i9"
+            "wor-i9",
+            "primary149-wor51-52"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-azimir",
@@ -167092,12 +172196,56 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia e identidad de los lugares con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Escalada, comida o enfrentamiento expresamente narrados en el interludio.",
+          "needsConfirmation": [],
           "notes": [
             "El visitante de la cicatriz es llamado Oscuridad en esta escena; no se anticipa otra identidad. Gawx recibe curación y no se marca como fallecido."
+          ]
+        },
+        {
+          "id": "primary149-gawx-pardon9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 19,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Está vivo, se acerca como Supremo y ordena liberar a Lift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está vivo, se acerca como Supremo y ordena liberar a Lift."
           ]
         },
         {
@@ -178552,7 +183700,148 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Familiar mencionado sin ubicación propia registrada. Su función documentada se limita al entorno familiar de otro personaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary149-huqin-wall9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el grupo de entrada al palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el grupo de entrada al palacio."
+          ]
+        },
+        {
+          "id": "primary149-huqin-court9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Patio y jardín",
+          "placeId": "place-bronze-courtyard-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Patio y jardín",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Llegan al patio antes de escalar a la ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan al patio antes de escalar a la ventana."
+          ]
+        },
+        {
+          "id": "primary149-huqin-room9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Entrada superior",
+          "placeId": "place-bronze-palace-upper-window",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Entra por la cuerda y sale a robar habitaciones cercanas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra por la cuerda y sale a robar habitaciones cercanas."
+          ]
+        }
+      ]
     },
     {
       "id": "adrotagia-husband",
@@ -180212,6 +185501,52 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está con el grupo en las dependencias del rey."
+          ]
+        },
+        {
+          "id": "primary148-eth-stage56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Arena de duelos · Sala de preparación",
+          "placeId": "place-dueling-arena-staging-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación y traducción pendientes de cotejo. El anclaje regional no identifica un edificio, meseta o tramo exacto."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Están con Adolin en la sala de preparación según informa Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Están con Adolin en la sala de preparación según informa Kaladin."
           ]
         },
         {
@@ -188432,7 +193767,102 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary149-tigzikk-wall9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el grupo de entrada al palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el grupo de entrada al palacio."
+          ]
+        },
+        {
+          "id": "primary149-tigzikk-garden9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Patio y jardín",
+          "placeId": "place-bronze-courtyard-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Patio y jardín",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Se desvían hacia el jardín de esculturas para vigilar posibles alarmas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se desvían hacia el jardín de esculturas para vigilar posibles alarmas."
+          ]
+        }
+      ]
     },
     {
       "id": "maxin",
@@ -188442,7 +193872,102 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary149-maxin-wall9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el grupo de entrada al palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el grupo de entrada al palacio."
+          ]
+        },
+        {
+          "id": "primary149-maxin-garden9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Patio y jardín",
+          "placeId": "place-bronze-courtyard-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Patio y jardín",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Se desvían hacia el jardín de esculturas para vigilar posibles alarmas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se desvían hacia el jardín de esculturas para vigilar posibles alarmas."
+          ]
+        }
+      ]
     },
     {
       "id": "dalksi",
@@ -188452,7 +193977,54 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary149-dalksi-council9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres."
+          ]
+        }
+      ]
     },
     {
       "id": "axikk",
@@ -188462,7 +194034,54 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary149-axikk-council9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres."
+          ]
+        }
+      ]
     },
     {
       "id": "ethid",
@@ -188472,7 +194091,54 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary149-ethid-council9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres."
+          ]
+        }
+      ]
     },
     {
       "id": "ashno-sages",
@@ -190082,6 +195748,100 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Confirma que Adolin entiende las convenciones y se marcha."
+          ]
+        },
+        {
+          "id": "primary148-istow56",
+          "scene": "wor-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Estrado de la jueza",
+          "placeId": "place-arena-judge-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Estrado de la jueza",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-56"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_056.xhtml. Autoriza el combate y rechaza detenerlo sin rendición o incapacidad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Autoriza el combate y rechaza detenerlo sin rendición o incapacidad."
+          ]
+        },
+        {
+          "id": "primary148-istow57",
+          "scene": "wor-chapter-57",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Estadio · Estrado de la jueza",
+          "placeId": "place-arena-judge-pr56",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_056.xhtml. Estadio · Estrado de la jueza",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary148-wor51-52",
+          "sourceIds": [
+            "primary148-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-57"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/03_057.xhtml. Anuncia rendiciones, pérdida de Relis y victoria de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Anuncia rendiciones, pérdida de Relis y victoria de Adolin."
           ]
         }
       ]
@@ -192806,6 +198566,53 @@ window.ATLAS_DATA = {
           "notes": [
             "Está pintando y escucha las explicaciones de Eshonai."
           ]
+        },
+        {
+          "id": "primary149-varanis11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Informa de la fuga por los abismos y se retira.",
+          "needsConfirmation": [],
+          "notes": [
+            "Informa de la fuga por los abismos y se retira."
+          ]
         }
       ]
     },
@@ -193296,6 +199103,99 @@ window.ATLAS_DATA = {
           "notes": [
             "Se retira por las escaleras con los otros miembros de los Cinco."
           ]
+        },
+        {
+          "id": "primary149-davim-council11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Reunión de los Cinco",
+          "placeId": "place-narak-five-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Participa en la reunión de los Cinco y baja al terminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión de los Cinco y baja al terminar."
+          ]
+        },
+        {
+          "id": "primary149-davim-base11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai."
+          ]
         }
       ]
     },
@@ -193399,6 +199299,145 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se retira por las escaleras con los otros miembros de los Cinco."
+          ]
+        },
+        {
+          "id": "primary149-abronai-council11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Reunión de los Cinco",
+          "placeId": "place-narak-five-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Participa en la reunión de los Cinco y baja al terminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión de los Cinco y baja al terminar."
+          ]
+        },
+        {
+          "id": "primary149-abronai-base11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai."
+          ]
+        },
+        {
+          "id": "primary149-abronai-dissent11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Campo de prácticas y disidentes",
+          "placeId": "place-narak-practice-dissenters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Es llevado junto a los disidentes tras protestar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Es llevado junto a los disidentes tras protestar."
           ]
         }
       ]
@@ -193504,6 +199543,99 @@ window.ATLAS_DATA = {
           "notes": [
             "Se retira por las escaleras con los otros miembros de los Cinco."
           ]
+        },
+        {
+          "id": "primary149-chivi-council11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Reunión de los Cinco",
+          "placeId": "place-narak-five-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Participa en la reunión de los Cinco y baja al terminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión de los Cinco y baja al terminar."
+          ]
+        },
+        {
+          "id": "primary149-chivi-base11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai."
+          ]
         }
       ]
     },
@@ -193607,6 +199739,99 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se retira por las escaleras con los otros miembros de los Cinco."
+          ]
+        },
+        {
+          "id": "primary149-zuln-council11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Reunión de los Cinco",
+          "placeId": "place-narak-five-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Participa en la reunión de los Cinco y baja al terminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión de los Cinco y baja al terminar."
+          ]
+        },
+        {
+          "id": "primary149-zuln-base11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Base de la torre central",
+          "placeId": "place-narak-tower-base-i11",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Narak · Base de la torre central",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Con los demás miembros del consejo al pie de la torre, antes de la intervención pública de Eshonai."
           ]
         }
       ]
@@ -200428,6 +206653,684 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
       "events": []
+    },
+    {
+      "id": "king-makabakam-pr56",
+      "name": "Rey de Makabakam (epígrafe PR56)",
+      "role": "Rey sin nombre propio al que el tratado atribuye la aportación de veintitrés cohortes; sin presencia actual.",
+      "initial": "R",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "malchin",
+      "name": "Malchin",
+      "role": "Figura del epígrafe, frustrada por las exigencias de los Tejedores de Luz; sin deducir especie de su spren ni nivel de juramento.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "melishi",
+      "name": "Melishi",
+      "role": "El epígrafe le atribuye una estratagema relacionada con los Forjadores de Vínculos; no se identifica por ello con otra figura ni se añade orden individual sin evidencia.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "huqin-thief-brother1-i9",
+      "name": "Primero de los hermanos ladrones (I9)",
+      "role": "Uno de dos hermanos compañeros de Huqin; no se afirma que sean hermanos de Huqin.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-huqin-thief-brother1-i9-wall",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Uno de los seis hombres que entran con Lift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Uno de los seis hombres que entran con Lift."
+          ]
+        },
+        {
+          "id": "primary149-huqin-thief-brother1-i9-window",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Entrada superior",
+          "placeId": "place-bronze-palace-upper-window",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Entra con Huqin y sale a robar dormitorios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra con Huqin y sale a robar dormitorios."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "huqin-thief-brother2-i9",
+      "name": "Segundo de los hermanos ladrones (I9)",
+      "role": "Otro de los dos hermanos del grupo; sus nombres no se revelan.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-huqin-thief-brother2-i9-wall",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Muro exterior",
+          "placeId": "place-bronze-wall-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Muro exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Uno de los seis hombres que entran con Lift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Uno de los seis hombres que entran con Lift."
+          ]
+        },
+        {
+          "id": "primary149-huqin-thief-brother2-i9-window",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Entrada superior",
+          "placeId": "place-bronze-palace-upper-window",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Entra con Huqin y sale a robar dormitorios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra con Huqin y sale a robar dormitorios."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "darkness-knife-aide-i9",
+      "name": "Sicario que hiere a Gawx (I9)",
+      "role": "Miembro del séquito de Oscuridad que toma a Gawx como rehén y le corta el cuello; sin identidad nominal.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-darkness-knife-aide-i9-corridor",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 13,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Acompañan a Oscuridad durante la captura y el ataque a Gawx.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan a Oscuridad durante la captura y el ataque a Gawx."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "darkness-other-aide-i9",
+      "name": "Otro sicario de Oscuridad (I9)",
+      "role": "Segundo miembro del séquito; no se fusionan por suposición las funciones de papeles, garrote y captura con una identidad precisa.",
+      "initial": "O",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-darkness-other-aide-i9-corridor",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 13,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Encuentro con Oscuridad",
+          "placeId": "place-bronze-palace-confrontation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Acompañan a Oscuridad durante la captura y el ataque a Gawx.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan a Oscuridad durante la captura y el ataque a Gawx."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wyndle-iriali-candidate-i9",
+      "name": "Abuela jardinera iriali aludida por Wyndle",
+      "role": "Wyndle quería elegir a una matrona jardinera; abuela sin nombres o rama familiar, no se crean descendientes.",
+      "initial": "A",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "azir-principal-vizier-i9",
+      "name": "Visir principal del cónclave (I9)",
+      "role": "Repasa el papeleo y facilita a Lift alcanzar el pan al golpear al sicario con la mesa.",
+      "initial": "V",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-azir-principal-vizier-i9-council9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "azir-female-vizier-i9",
+      "name": "Visir que protesta por la ejecución (I9)",
+      "role": "Discute la incursión y se sorprende por la orden de ejecución.",
+      "initial": "V",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-azir-female-vizier-i9-council9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Palacio de Bronce · Zona del banquete",
+          "placeId": "place-bronze-palace-food",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bronze-steward-i9",
+      "name": "Criado que indica las cocinas (I9)",
+      "role": "Habla con Lift al creer que busca comida para una señora.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-steward9",
+          "scene": "wor-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Bronce · Pasillos y alacena",
+          "placeId": "place-bronze-halls-i9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Palacio de Bronce · Pasillos y alacena",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-9"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_009.xhtml. Indica el camino de las cocinas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Indica el camino de las cocinas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "melu",
+      "name": "Melu",
+      "role": "Soldado en forma de tormenta que transmite el recuento y las órdenes de Eshonai.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary149-melu11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Campo de prácticas y disidentes",
+          "placeId": "place-narak-practice-dissenters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Informa del recuento y recibe órdenes sobre civiles y disidentes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Informa del recuento y recibe órdenes sobre civiles y disidentes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fleet-story",
+      "name": "Fugaz",
+      "role": "Protagonista del relato de Sagaz; sus hazañas, muerte y espíritu pertenecen a la narración, sin presencia corporal actual.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "chan-arach-story",
+      "name": "Chan-arach",
+      "role": "Heraldo a quien el relato de Sagaz atribuye una carrera contra Fugaz. No se vincula con una figura contemporánea.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "old-map-merchant-pr60",
+      "name": "Mercader de los mapas de Shallan (PR60)",
+      "role": "Le vendió mapas de procedencia antigua alegada; no se le asigna presencia actual en la habitación.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "eshonai-comet-i11",
+      "name": "Cometa luminoso que sigue a Eshonai",
+      "role": "Spren observado en I11, sin correspondencia nominal posterior demostrada",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Manifestación individual descrita; no se fusiona por parecido con un cometa de capítulos posteriores.",
+      "events": [
+        {
+          "id": "primary149-comet11",
+          "scene": "wor-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Reunión de los Cinco",
+          "placeId": "place-narak-five-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary149-wor51-52",
+          "sourceIds": [
+            "primary149-wor51-52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-11"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I3_011.xhtml. Baila alrededor de Eshonai y sale de su mano en la reunión; sin identidad futura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Baila alrededor de Eshonai y sale de su mano en la reunión; sin identidad futura."
+          ]
+        }
+      ]
     }
   ]
 };
