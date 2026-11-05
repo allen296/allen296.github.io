@@ -2116,42 +2116,96 @@ window.ATLAS_DATA = {
       "adolin",
       "aladar",
       "amaram",
+      "amaram-fifty-guards-pr76",
+      "amaram-warhorse-pr76",
+      "bisig",
       "dalinar",
+      "gallant",
       "ialai",
+      "ialai-letter-messenger-pr76",
+      "isasik-shulin",
       "kaladin",
+      "lopen",
+      "lopen-hat-cousin-pr76",
       "palona",
+      "renarin",
+      "rock",
+      "roion",
       "sadeas",
       "sebarial",
-      "shallan"
+      "shallan",
+      "shallan-brown-mare-pr76",
+      "skar",
+      "sureblood",
+      "taravangian",
+      "teft"
     ],
     "wor-chapter-77": [
+      "adolin",
+      "chanaranach-temple-name-pr77",
+      "dalinar",
+      "gaz",
       "kaladin",
+      "marri-maid-pr77",
       "moash",
       "navani",
       "pattern",
-      "shallan"
+      "shallan",
+      "shallan-brown-mare-pr76",
+      "sureblood",
+      "taravangian",
+      "vathah",
+      "words-radiance-author-unknown-pr77",
+      "words-radiance-merchant-pr77"
     ],
     "wor-chapter-78": [
+      "bashin",
+      "bashin-three-scouts-pr78",
       "dalinar",
+      "dalinar-umbrella-aide-pr78",
       "eleseth",
+      "parshendi-sighting-messenger-pr78",
       "pattern",
       "shallan",
-      "shen"
+      "shen",
+      "skar",
+      "stormform-corpse-pr78",
+      "taravangian",
+      "teleb",
+      "vathah"
     ],
     "wor-chapter-79": [
+      "adolin",
+      "aladar",
       "dalinar",
+      "general-khal",
       "navani",
-      "shen"
+      "renarin",
+      "rock",
+      "roion",
+      "shen",
+      "skar",
+      "taravangian",
+      "teleb"
     ],
     "wor-chapter-80": [
+      "adolin",
       "aladar",
       "dalinar",
       "elhokar",
       "gaz",
       "kaladin",
-      "pattern",
+      "long-armed-bridgeman-pr80",
+      "lopen",
+      "moash",
+      "navani",
+      "palona",
+      "roion",
       "sebarial",
-      "shallan"
+      "shallan",
+      "taka-royal-guard-pr80",
+      "taravangian",
+      "vathah"
     ],
     "wor-chapter-81": [
       "adolin",
@@ -4694,10 +4748,13 @@ window.ATLAS_DATA = {
           "sceneId": "wor-chapter-78"
         },
         "sourceIds": [
-          "archive94-awespren"
+          "archive94-awespren",
+          "primary160-wor76-80"
         ],
-        "status": "pending",
-        "supersedes": []
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Un solo asombrospren, anillo de humo azul, se expande sobre Dalinar al ver la ilusión.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Demostración privada de Shallan."
       },
       {
         "id": "archive94-awespren-description",
@@ -4709,10 +4766,13 @@ window.ATLAS_DATA = {
           "sceneId": "wor-chapter-78"
         },
         "sourceIds": [
-          "archive94-awespren"
+          "archive94-awespren",
+          "primary160-wor76-80"
         ],
-        "status": "pending",
-        "supersedes": []
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Un solo asombrospren, anillo de humo azul, se expande sobre Dalinar al ver la ilusión.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Demostración privada de Shallan."
       },
       {
         "id": "archive94-alespren-name",
@@ -8685,6 +8745,57 @@ window.ATLAS_DATA = {
         "supersedes": [],
         "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian atribuye su condición de inteligencia y compasión opuestas a dones y maldiciones de la Vigilante Nocturna. Recuerda que pidió capacidad para salvar a la humanidad; no se narra una visita actual.",
         "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian atribuye su condición de inteligencia y compasión opuestas a dones y maldiciones de la Vigilante Nocturna. Recuerda que pidió capacidad para salvar a la humanidad; no se narra una visita actual."
+      },
+      {
+        "id": "primary160-pattern-memory77",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Aporta recuerdos incompletos y comentarios críticos sobre el tratado; no todo lo que cuenta el libro se convierte en conocimiento fiable.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-77"
+        },
+        "sourceIds": [
+          "primary160-wor76-80"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Aporta recuerdos incompletos y comentarios críticos sobre el tratado; no todo lo que cuenta el libro se convierte en conocimiento fiable.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Aporta recuerdos incompletos y comentarios críticos sobre el tratado; no todo lo que cuenta el libro se convierte en conocimiento fiable."
+      },
+      {
+        "id": "primary160-creation78",
+        "entryId": "spren-type-creationspren",
+        "field": "description",
+        "value": "Imitan objetos del campamento mientras Shallan dibuja. Patrón opina que son inútiles; se atribuye esa valoración a él. Comparar gotas con estrellaspren no constituye avistamiento de estrellaspren.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-78"
+        },
+        "sourceIds": [
+          "primary160-wor76-80"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Imitan objetos del campamento mientras Shallan dibuja. Patrón opina que son inútiles; se atribuye esa valoración a él. Comparar gotas con estrellaspren no constituye avistamiento de estrellaspren.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Imitan objetos del campamento mientras Shallan dibuja. Patrón opina que son inútiles; se atribuye esa valoración a él. Comparar gotas con estrellaspren no constituye avistamiento de estrellaspren."
+      },
+      {
+        "id": "primary160-rain80",
+        "entryId": "spren-type-rainspren",
+        "field": "description",
+        "value": "Kaladin ve lluviaspren como velas azules con un ojo durante su circuito. Lopen no camina con él en esta escena.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-80"
+        },
+        "sourceIds": [
+          "primary160-wor76-80"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Kaladin ve lluviaspren como velas azules con un ojo durante su circuito. Lopen no camina con él en esta escena.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Kaladin ve lluviaspren como velas azules con un ojo durante su circuito. Lopen no camina con él en esta escena."
       }
     ],
     "links": [
@@ -22900,6 +23011,33 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "uncertain",
         "reason": "Ascendencia alegada y grado aproximado; no corresponde convertirla en genealogía precisa o arista confirmada."
+      }
+    },
+    {
+      "id": "primary160-lopen-hat-cousin",
+      "from": "lopen",
+      "to": "lopen-hat-cousin-pr76",
+      "kind": "cousin",
+      "category": "family",
+      "label": "Primos · rama no indicada",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Lopen dice que tiene una prima que hace sombreros.",
+      "notes": [
+        "No se añaden progenitores ni se identifica con otra referencia familiar."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Parentesco de prima explícito; solo mención, sin encuentro actual."
       }
     }
   ],
@@ -47932,6 +48070,681 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary160-lords76",
+      "participants": [
+        "dalinar",
+        "roion",
+        "sebarial",
+        "amaram",
+        "palona",
+        "aladar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "type": "conversation",
+      "summary": "Llegadas escalonadas, discusión de la coalición y promesa personal de Aladar; no todos conversan con todos.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llegadas escalonadas, discusión de la coalición y promesa personal de Aladar; no todos conversan con todos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Llegadas escalonadas, discusión de la coalición y promesa personal de Aladar; no todos conversan con todos.",
+        "pairs": [
+          [
+            "dalinar",
+            "roion"
+          ],
+          [
+            "dalinar",
+            "sebarial"
+          ],
+          [
+            "dalinar",
+            "amaram"
+          ],
+          [
+            "sebarial",
+            "roion"
+          ],
+          [
+            "sebarial",
+            "palona"
+          ],
+          [
+            "dalinar",
+            "aladar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-farewell76",
+      "participants": [
+        "kaladin",
+        "lopen",
+        "bisig",
+        "rock",
+        "teft",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "type": "conversation",
+      "summary": "Lopen ayuda a Kaladin, los hombres le reprochan caminar herido y Teft explica su disposición a proteger a Dalinar.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Lopen ayuda a Kaladin, los hombres le reprochan caminar herido y Teft explica su disposición a proteger a Dalinar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lopen ayuda a Kaladin, los hombres le reprochan caminar herido y Teft explica su disposición a proteger a Dalinar.",
+        "pairs": [
+          [
+            "kaladin",
+            "lopen"
+          ],
+          [
+            "kaladin",
+            "bisig"
+          ],
+          [
+            "kaladin",
+            "rock"
+          ],
+          [
+            "kaladin",
+            "teft"
+          ],
+          [
+            "teft",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-confession76",
+      "participants": [
+        "dalinar",
+        "amaram",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "type": "conflict",
+      "summary": "Dalinar revela la trampa de la hoja y Amaram confiesa; después Kaladin agradece la confianza.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Dalinar revela la trampa de la hoja y Amaram confiesa; después Kaladin agradece la confianza.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar revela la trampa de la hoja y Amaram confiesa; después Kaladin agradece la confianza.",
+        "pairs": [
+          [
+            "dalinar",
+            "amaram"
+          ],
+          [
+            "kaladin",
+            "amaram"
+          ],
+          [
+            "kaladin",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-plot76",
+      "participants": [
+        "sadeas",
+        "ialai",
+        "ialai-letter-messenger-pr76"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "type": "conversation",
+      "summary": "Proponen un golpe que deciden no ejecutar, reciben una carta y Sadeas entrega el catalejo.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Proponen un golpe que deciden no ejecutar, reciben una carta y Sadeas entrega el catalejo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Proponen un golpe que deciden no ejecutar, reciben una carta y Sadeas entrega el catalejo.",
+        "pairs": [
+          [
+            "sadeas",
+            "ialai"
+          ],
+          [
+            "ialai",
+            "ialai-letter-messenger-pr76"
+          ],
+          [
+            "sadeas",
+            "ialai-letter-messenger-pr76"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-couple77",
+      "participants": [
+        "shallan",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "type": "conversation",
+      "summary": "Conversan a caballo sobre el ritmo de la montura y la conveniencia del carruaje.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Conversan a caballo sobre el ritmo de la montura y la conveniencia del carruaje.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan a caballo sobre el ritmo de la montura y la conveniencia del carruaje.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-book77",
+      "participants": [
+        "shallan",
+        "gaz"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "type": "conversation",
+      "summary": "Gaz entrega el libro y Shallan le da las gracias.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Gaz entrega el libro y Shallan le da las gracias.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Gaz entrega el libro y Shallan le da las gracias.",
+        "pairs": [
+          [
+            "shallan",
+            "gaz"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-study77",
+      "participants": [
+        "shallan",
+        "pattern",
+        "navani",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "type": "conversation",
+      "summary": "Estudio, reconciliación, reparto de tareas y entrada de Navani con el gesto de despedida a Dalinar.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Estudio, reconciliación, reparto de tareas y entrada de Navani con el gesto de despedida a Dalinar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Estudio, reconciliación, reparto de tareas y entrada de Navani con el gesto de despedida a Dalinar.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "shallan",
+            "navani"
+          ],
+          [
+            "navani",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-moash77",
+      "participants": [
+        "kaladin",
+        "moash"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "type": "conversation",
+      "summary": "Moash expone el plan aún no ejecutado y transmite el deseo del rey de hablar con Kaladin.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Moash expone el plan aún no ejecutado y transmite el deseo del rey de hablar con Kaladin.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Moash expone el plan aún no ejecutado y transmite el deseo del rey de hablar con Kaladin.",
+        "pairs": [
+          [
+            "kaladin",
+            "moash"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-pattern78",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "type": "conversation",
+      "summary": "Hablan de creacionspren y del experimento de Eleseth, sin contacto con la autora citada.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Hablan de creacionspren y del experimento de Eleseth, sin contacto con la autora citada.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de creacionspren y del experimento de Eleseth, sin contacto con la autora citada.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-revelation78",
+      "participants": [
+        "shallan",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "type": "conversation",
+      "summary": "Muestra una ilusión de Jasnah y acuerdan mantener sus poderes en secreto.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Muestra una ilusión de Jasnah y acuerdan mantener sus poderes en secreto.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Muestra una ilusión de Jasnah y acuerdan mantener sus poderes en secreto.",
+        "pairs": [
+          [
+            "shallan",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-scouts78",
+      "participants": [
+        "dalinar",
+        "parshendi-sighting-messenger-pr78",
+        "bashin",
+        "shallan",
+        "teleb",
+        "vathah",
+        "shen",
+        "skar"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "type": "conversation",
+      "summary": "Aviso, informe, inspección del cadáver y reconocimiento de Shen; solo parejas con trato expreso.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Aviso, informe, inspección del cadáver y reconocimiento de Shen; solo parejas con trato expreso.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Aviso, informe, inspección del cadáver y reconocimiento de Shen; solo parejas con trato expreso.",
+        "pairs": [
+          [
+            "dalinar",
+            "parshendi-sighting-messenger-pr78"
+          ],
+          [
+            "dalinar",
+            "bashin"
+          ],
+          [
+            "shallan",
+            "bashin"
+          ],
+          [
+            "dalinar",
+            "teleb"
+          ],
+          [
+            "shallan",
+            "vathah"
+          ],
+          [
+            "shen",
+            "skar"
+          ],
+          [
+            "skar",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-interview79",
+      "participants": [
+        "dalinar",
+        "shen",
+        "navani",
+        "skar",
+        "rock",
+        "teleb"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-79"
+      },
+      "type": "conversation",
+      "summary": "Interrogatorio, apoyo del Puente Cuatro, cambio de custodia y discusión posterior de Dalinar con Navani.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Interrogatorio, apoyo del Puente Cuatro, cambio de custodia y discusión posterior de Dalinar con Navani.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Interrogatorio, apoyo del Puente Cuatro, cambio de custodia y discusión posterior de Dalinar con Navani.",
+        "pairs": [
+          [
+            "dalinar",
+            "shen"
+          ],
+          [
+            "navani",
+            "shen"
+          ],
+          [
+            "skar",
+            "shen"
+          ],
+          [
+            "rock",
+            "shen"
+          ],
+          [
+            "dalinar",
+            "teleb"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-crest80",
+      "participants": [
+        "shallan",
+        "gaz",
+        "vathah",
+        "long-armed-bridgeman-pr80"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "type": "conversation",
+      "summary": "Exploran la cima, reciben la orden de retirada y Vathah sujeta a Shallan al resbalar.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Exploran la cima, reciben la orden de retirada y Vathah sujeta a Shallan al resbalar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Exploran la cima, reciben la orden de retirada y Vathah sujeta a Shallan al resbalar.",
+        "pairs": [
+          [
+            "shallan",
+            "gaz"
+          ],
+          [
+            "shallan",
+            "vathah"
+          ],
+          [
+            "shallan",
+            "long-armed-bridgeman-pr80"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-council80",
+      "participants": [
+        "aladar",
+        "dalinar",
+        "roion",
+        "sebarial",
+        "shallan",
+        "adolin",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "type": "conversation",
+      "summary": "Debate táctico y explicación del portal como contingencia; no se crea un clique por asistir al consejo.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Debate táctico y explicación del portal como contingencia; no se crea un clique por asistir al consejo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Debate táctico y explicación del portal como contingencia; no se crea un clique por asistir al consejo.",
+        "pairs": [
+          [
+            "aladar",
+            "dalinar"
+          ],
+          [
+            "aladar",
+            "roion"
+          ],
+          [
+            "sebarial",
+            "roion"
+          ],
+          [
+            "shallan",
+            "dalinar"
+          ],
+          [
+            "shallan",
+            "sebarial"
+          ],
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary160-royal80",
+      "participants": [
+        "kaladin",
+        "lopen",
+        "elhokar",
+        "moash",
+        "taka-royal-guard-pr80"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "type": "conversation",
+      "summary": "Aviso, orden de salir a los guardias y diálogo privado sobre gobierno y heroísmo.",
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Aviso, orden de salir a los guardias y diálogo privado sobre gobierno y heroísmo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Aviso, orden de salir a los guardias y diálogo privado sobre gobierno y heroísmo.",
+        "pairs": [
+          [
+            "kaladin",
+            "lopen"
+          ],
+          [
+            "kaladin",
+            "elhokar"
+          ],
+          [
+            "elhokar",
+            "moash"
+          ],
+          [
+            "elhokar",
+            "taka-royal-guard-pr80"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -57500,10 +58313,12 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-b9d960f22c2620",
-        "mention89-df38d505d0693a"
+        "mention89-df38d505d0693a",
+        "primary160-wor76-80"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Shallan cita el experimento de Eleseth con iluminación roja y adaptación de la percepción; no es una visita al estudio de la artista."
     },
     {
       "id": "mention89-fact-moelach-91",
@@ -71726,6 +72541,703 @@ window.ATLAS_DATA = {
       "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam alude a un matrimonio con una princesa veden unas tres generaciones atrás, por parte materna de Taravangian. Sin nombre, cónyuge ni generaciones exactas demostradas.",
       "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam alude a un matrimonio con una princesa veden unas tres generaciones atrás, por parte materna de Taravangian. Sin nombre, cónyuge ni generaciones exactas demostradas.",
       "supersedes": []
+    },
+    {
+      "id": "primary160-amaram-fifty-guards-pr76-76",
+      "characterId": "amaram-fifty-guards-pr76",
+      "kind": "background",
+      "text": "Grupo que lo sigue al marcharse; no se individualizan nombres ni destino.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Grupo que lo sigue al marcharse; no se individualizan nombres ni destino.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Grupo que lo sigue al marcharse; no se individualizan nombres ni destino.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-ialai-letter-messenger-pr76-76",
+      "characterId": "ialai-letter-messenger-pr76",
+      "kind": "background",
+      "text": "Llega a caballo, entrega una carta y recibe después el catalejo de Sadeas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llega a caballo, entrega una carta y recibe después el catalejo de Sadeas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llega a caballo, entrega una carta y recibe después el catalejo de Sadeas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-lopen-hat-cousin-pr76-76",
+      "characterId": "lopen-hat-cousin-pr76",
+      "kind": "background",
+      "text": "Lopen dice que tiene una prima que hace sombreros; no se identifica con otros familiares sin nombre.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Lopen dice que tiene una prima que hace sombreros; no se identifica con otros familiares sin nombre.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Lopen dice que tiene una prima que hace sombreros; no se identifica con otros familiares sin nombre.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-shallan-brown-mare-pr76-76",
+      "characterId": "shallan-brown-mare-pr76",
+      "kind": "background",
+      "text": "Una de las monturas de Adolin, pequeña y tranquila; no tiene nombre revelado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Una de las monturas de Adolin, pequeña y tranquila; no tiene nombre revelado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Una de las monturas de Adolin, pequeña y tranquila; no tiene nombre revelado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-amaram-warhorse-pr76-76",
+      "characterId": "amaram-warhorse-pr76",
+      "kind": "background",
+      "text": "Montura grande de la raza usada en Shinovar para carga; sin nombre ni parentesco.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Montura grande de la raza usada en Shinovar para carga; sin nombre ni parentesco.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Montura grande de la raza usada en Shinovar para carga; sin nombre ni parentesco.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-admission76",
+      "characterId": "amaram",
+      "kind": "background",
+      "text": "Reconoce haber sacrificado a sus soldados para quedarse las esquirlas y alega un bien mayor. Kaladin interpreta que lo cree sinceramente; esa justificación no queda validada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reconoce haber sacrificado a sus soldados para quedarse las esquirlas y alega un bien mayor. Kaladin interpreta que lo cree sinceramente; esa justificación no queda validada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reconoce haber sacrificado a sus soldados para quedarse las esquirlas y alega un bien mayor. Kaladin interpreta que lo cree sinceramente; esa justificación no queda validada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-blade-trap76",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Relata que vinculó la hoja del hombre llevado desde Kholinar antes de ocultarla en una cueva. Invocarla ahora prueba su vínculo, no la identidad u origen auténtico de la hoja ni una presencia actual en la cueva.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Relata que vinculó la hoja del hombre llevado desde Kholinar antes de ocultarla en una cueva. Invocarla ahora prueba su vínculo, no la identidad u origen auténtico de la hoja ni una presencia actual en la cueva.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Relata que vinculó la hoja del hombre llevado desde Kholinar antes de ocultarla en una cueva. Invocarla ahora prueba su vínculo, no la identidad u origen auténtico de la hoja ni una presencia actual en la cueva.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-ialai-attempt76",
+      "characterId": "ialai",
+      "kind": "background",
+      "text": "La narración habla de su asesino y de un intento fallido; no se añade por ello una correspondencia nominal nueva con el carpintero ni un nuevo atentado ejecutado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. La narración habla de su asesino y de un intento fallido; no se añade por ello una correspondencia nominal nueva con el carpintero ni un nuevo atentado ejecutado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. La narración habla de su asesino y de un intento fallido; no se añade por ello una correspondencia nominal nueva con el carpintero ni un nuevo atentado ejecutado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-moash-inference76",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Deduce que Moash es el mejor hombre que Teft dejó al mando de la seguridad del rey. Moash no aparece físicamente en esta despedida.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Deduce que Moash es el mejor hombre que Teft dejó al mando de la seguridad del rey. Moash no aparece físicamente en esta despedida.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Deduce que Moash es el mejor hombre que Teft dejó al mando de la seguridad del rey. Moash no aparece físicamente en esta despedida.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-no-syl-hat76",
+      "characterId": "lopen",
+      "kind": "background",
+      "text": "Proponer un sombrero o un spren de sombrero para Syl es una broma, no un tipo de spren constatado ni una compra realizada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Proponer un sombrero o un spren de sombrero para Syl es una broma, no un tipo de spren constatado ni una compra realizada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Proponer un sombrero o un spren de sombrero para Syl es una broma, no un tipo de spren constatado ni una compra realizada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-marri-maid-pr77-77",
+      "characterId": "marri-maid-pr77",
+      "kind": "background",
+      "text": "Doncella de Shallan que forma parte del convoy; Shallan no quiere su compañía en el carruaje donde está Patrón.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Doncella de Shallan que forma parte del convoy; Shallan no quiere su compañía en el carruaje donde está Patrón.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Doncella de Shallan que forma parte del convoy; Shallan no quiere su compañía en el carruaje donde está Patrón.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-words-radiance-author-unknown-pr77-77",
+      "characterId": "words-radiance-author-unknown-pr77",
+      "kind": "background",
+      "text": "La autora admite usar habladurías; escribió doscientos años después de la Traición. Sin nombre revelado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. La autora admite usar habladurías; escribió doscientos años después de la Traición. Sin nombre revelado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. La autora admite usar habladurías; escribió doscientos años después de la Traición. Sin nombre revelado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-words-radiance-merchant-pr77-77",
+      "characterId": "words-radiance-merchant-pr77",
+      "kind": "background",
+      "text": "Gaz informa del precio pendiente del libro; no se representa un encuentro de Shallan con el mercader.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Gaz informa del precio pendiente del libro; no se representa un encuentro de Shallan con el mercader.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Gaz informa del precio pendiente del libro; no se representa un encuentro de Shallan con el mercader.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-chanaranach-temple-name-pr77-77",
+      "characterId": "chanaranach-temple-name-pr77",
+      "kind": "background",
+      "text": "Nombre del templo al que pertenece un mural recreado desde referencias de Sedetormenta; no se añade presencia ni correspondencia nominal por parecido.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Nombre del templo al que pertenece un mural recreado desde referencias de Sedetormenta; no se añade presencia ni correspondencia nominal por parecido.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Nombre del templo al que pertenece un mural recreado desde referencias de Sedetormenta; no se añade presencia ni correspondencia nominal por parecido.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-radiance-book77",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "El libro mezcla hechos, leyendas y superstición según su autora. Leer las órdenes no equivale a comprobar todos sus poderes ni a identificar la orden de cada personaje.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. El libro mezcla hechos, leyendas y superstición según su autora. Leer las órdenes no equivale a comprobar todos sus poderes ni a identificar la orden de cada personaje.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. El libro mezcla hechos, leyendas y superstición según su autora. Leer las órdenes no equivale a comprobar todos sus poderes ni a identificar la orden de cada personaje.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-jasnah-navani77",
+      "characterId": "navani",
+      "kind": "background",
+      "text": "Shallan le revela que el fabrial de Jasnah era falso y que podía moldear almas por sí misma. Todavía no le revela sus propias habilidades.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Shallan le revela que el fabrial de Jasnah era falso y que podía moldear almas por sí misma. Todavía no le revela sus propias habilidades.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Shallan le revela que el fabrial de Jasnah era falso y que podía moldear almas por sí misma. Todavía no le revela sus propias habilidades.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-family77",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Navani es tía de Adolin y pareja de Dalinar. La idea de futura suegra no significa que exista ya un matrimonio nuevo ni uno permitido por la tradición mencionada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Navani es tía de Adolin y pareja de Dalinar. La idea de futura suegra no significa que exista ya un matrimonio nuevo ni uno permitido por la tradición mencionada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Navani es tía de Adolin y pareja de Dalinar. La idea de futura suegra no significa que exista ya un matrimonio nuevo ni uno permitido por la tradición mencionada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-plot77",
+      "characterId": "moash",
+      "kind": "background",
+      "text": "Propone fingir una alarma por el Asesino de Blanco para aislar al rey; afirma que Graves no necesitará la ayuda de Kaladin. No se produce el atentado en este capítulo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Propone fingir una alarma por el Asesino de Blanco para aislar al rey; afirma que Graves no necesitará la ayuda de Kaladin. No se produce el atentado en este capítulo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Propone fingir una alarma por el Asesino de Blanco para aislar al rey; afirma que Graves no necesitará la ayuda de Kaladin. No se produce el atentado en este capítulo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-caretakers77",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Lopen, Dabbid y Hobber se han quedado para atender el barracón y a Kaladin. Se informa de su tarea, sin situarlos a todos dentro de la habitación durante la visita de Moash.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Lopen, Dabbid y Hobber se han quedado para atender el barracón y a Kaladin. Se informa de su tarea, sin situarlos a todos dentro de la habitación durante la visita de Moash.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Lopen, Dabbid y Hobber se han quedado para atender el barracón y a Kaladin. Se informa de su tarea, sin situarlos a todos dentro de la habitación durante la visita de Moash.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-dalinar-umbrella-aide-pr78-78",
+      "characterId": "dalinar-umbrella-aide-pr78",
+      "kind": "background",
+      "text": "Acompaña a Dalinar y avisa a las eruditas para que salgan; no se identifica con otro ayudante sin nombre.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Acompaña a Dalinar y avisa a las eruditas para que salgan; no se identifica con otro ayudante sin nombre.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Acompaña a Dalinar y avisa a las eruditas para que salgan; no se identifica con otro ayudante sin nombre.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-parshendi-sighting-messenger-pr78-78",
+      "characterId": "parshendi-sighting-messenger-pr78",
+      "kind": "background",
+      "text": "Llega empapada al pabellón y transmite el avistamiento.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Llega empapada al pabellón y transmite el avistamiento.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Llega empapada al pabellón y transmite el avistamiento.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-bashin-three-scouts-pr78-78",
+      "characterId": "bashin-three-scouts-pr78",
+      "kind": "background",
+      "text": "Bashin relata la pérdida de tres exploradores y habla de muertos con quemaduras. No se dan nombres ni posiciones corporales exactas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Bashin relata la pérdida de tres exploradores y habla de muertos con quemaduras. No se dan nombres ni posiciones corporales exactas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Bashin relata la pérdida de tres exploradores y habla de muertos con quemaduras. No se dan nombres ni posiciones corporales exactas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-stormform-corpse-pr78-78",
+      "characterId": "stormform-corpse-pr78",
+      "kind": "background",
+      "text": "Cadáver de forma desconocida para los alezi que arrastran hasta el puente; no se identifica con un adversario anterior.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Cadáver de forma desconocida para los alezi que arrastran hasta el puente; no se identifica con un adversario anterior.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Cadáver de forma desconocida para los alezi que arrastran hasta el puente; no se identifica con un adversario anterior.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-illusion78",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "La Jasnah sobre su palma es una ilusión que Dalinar puede atravesar con el dedo; no es presencia ni resurrección de Jasnah. Dalinar acepta guardar el secreto de Shallan, incluso a Navani.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. La Jasnah sobre su palma es una ilusión que Dalinar puede atravesar con el dedo; no es presencia ni resurrección de Jasnah. Dalinar acepta guardar el secreto de Shallan, incluso a Navani.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. La Jasnah sobre su palma es una ilusión que Dalinar puede atravesar con el dedo; no es presencia ni resurrección de Jasnah. Dalinar acepta guardar el secreto de Shallan, incluso a Navani.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-save-inference78",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Cree que sus habilidades debieron salvar también a Kaladin en la caída, pero admite que no sabe cómo. Se conserva como su deducción.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Cree que sus habilidades debieron salvar también a Kaladin en la caída, pero admite que no sabe cómo. Se conserva como su deducción.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Cree que sus habilidades debieron salvar también a Kaladin en la caída, pero admite que no sabe cómo. Se conserva como su deducción.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-eye-inference78",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Primero considera que la forma diferente sea un equivalente a los ojos claros; Shallan interpreta los ojos rojos mediante los libros de Jasnah. No se añade una identificación individual al cadáver.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Primero considera que la forma diferente sea un equivalente a los ojos claros; Shallan interpreta los ojos rojos mediante los libros de Jasnah. No se añade una identificación individual al cadáver.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Primero considera que la forma diferente sea un equivalente a los ojos claros; Shallan interpreta los ojos rojos mediante los libros de Jasnah. No se añade una identificación individual al cadáver.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-rlain-loss79",
+      "characterId": "shen",
+      "kind": "background",
+      "text": "Teme que todos los que conoció y amó hayan sido sustituidos por monstruos. No confirma la muerte de sus familiares ni de todos los oyentes; aún espera que existan niños y ancianos en otras formas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-79"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Teme que todos los que conoció y amó hayan sido sustituidos por monstruos. No confirma la muerte de sus familiares ni de todos los oyentes; aún espera que existan niños y ancianos en otras formas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Teme que todos los que conoció y amó hayan sido sustituidos por monstruos. No confirma la muerte de sus familiares ni de todos los oyentes; aún espera que existan niños y ancianos en otras formas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-dullform79",
+      "characterId": "shen",
+      "kind": "background",
+      "text": "Describe que eligió forma gris para infiltrarse durante unos tres años en distintos campamentos. El relato no lo lleva físicamente a esos campamentos en este capítulo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-79"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Describe que eligió forma gris para infiltrarse durante unos tres años en distintos campamentos. El relato no lo lleva físicamente a esos campamentos en este capítulo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Describe que eligió forma gris para infiltrarse durante unos tres años en distintos campamentos. El relato no lo lleva físicamente a esos campamentos en este capítulo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-gods79",
+      "characterId": "shen",
+      "kind": "background",
+      "text": "Describe a sus dioses como almas de antiguos destructores. Es su explicación, sin inventar identidades, nombres o ubicaciones de esas almas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-79"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Describe a sus dioses como almas de antiguos destructores. Es su explicación, sin inventar identidades, nombres o ubicaciones de esas almas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Describe a sus dioses como almas de antiguos destructores. Es su explicación, sin inventar identidades, nombres o ubicaciones de esas almas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-secrecy79",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Piensa que Adolin está prometido a una posible Radiante, pero no comunica el secreto a Navani o Adolin en el interrogatorio. La intención de proteger civiles es una promesa, no un rescate ya realizado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-79"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Piensa que Adolin está prometido a una posible Radiante, pero no comunica el secreto a Navani o Adolin en el interrogatorio. La intención de proteger civiles es una promesa, no un rescate ya realizado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Piensa que Adolin está prometido a una posible Radiante, pero no comunica el secreto a Navani o Adolin en el interrogatorio. La intención de proteger civiles es una promesa, no un rescate ya realizado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-long-armed-bridgeman-pr80-80",
+      "characterId": "long-armed-bridgeman-pr80",
+      "kind": "background",
+      "text": "Lleva la orden de regresar desde la cima; no se identifica por su descripción con un miembro nombrado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Lleva la orden de regresar desde la cima; no se identifica por su descripción con un miembro nombrado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Lleva la orden de regresar desde la cima; no se identifica por su descripción con un miembro nombrado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-taka-royal-guard-pr80-80",
+      "characterId": "taka-royal-guard-pr80",
+      "kind": "background",
+      "text": "Antiguo guardia del rey que acompaña a Elhokar a la habitación de Kaladin; sin identidad adicional.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Antiguo guardia del rey que acompaña a Elhokar a la habitación de Kaladin; sin identidad adicional.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Antiguo guardia del rey que acompaña a Elhokar a la habitación de Kaladin; sin identidad adicional.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-route80",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "El mapa fue elaborado con ayuda de Rlain: la colaboración ya ocurrió entre capítulos. Él no conoce la Puerta Jurada y llama Narak a la ciudad; no se lo sitúa por ello en la cima ni dentro del consejo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. El mapa fue elaborado con ayuda de Rlain: la colaboración ya ocurrió entre capítulos. Él no conoce la Puerta Jurada y llama Narak a la ciudad; no se lo sitúa por ello en la cima ni dentro del consejo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. El mapa fue elaborado con ayuda de Rlain: la colaboración ya ocurrió entre capítulos. Él no conoce la Puerta Jurada y llama Narak a la ciudad; no se lo sitúa por ello en la cima ni dentro del consejo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-calendar80",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "El texto dice octavo día de expedición y casi dos semanas de viaje. Se conserva el cómputo local sin convertirlo a semanas terrestres ni fechas absolutas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. El texto dice octavo día de expedición y casi dos semanas de viaje. Se conserva el cómputo local sin convertirlo a semanas terrestres ni fechas absolutas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. El texto dice octavo día de expedición y casi dos semanas de viaje. Se conserva el cómputo local sin convertirlo a semanas terrestres ni fechas absolutas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-shadows80",
+      "characterId": "elhokar",
+      "kind": "background",
+      "text": "Dice que veía sombras en espejos, oía susurros y dejó de verlas al llegar Kaladin. No se identifican con una especie de spren ni se crean presencias corporales actuales.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Dice que veía sombras en espejos, oía susurros y dejó de verlas al llegar Kaladin. No se identifican con una especie de spren ni se crean presencias corporales actuales.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Dice que veía sombras en espejos, oía susurros y dejó de verlas al llegar Kaladin. No se identifican con una especie de spren ni se crean presencias corporales actuales.",
+      "supersedes": []
+    },
+    {
+      "id": "primary160-king-alive80",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Considera matar al rey, pero no lo hace. Elhokar pide aprender a ser un héroe y se disculpa por su reacción en el duelo. No se ejecuta aquí el plan de Moash.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Considera matar al rey, pero no lo hace. Elhokar pide aprender a ser un héroe y se disculpa por su reacción en el duelo. No se ejecuta aquí el plan de Moash.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Considera matar al rey, pero no lo hace. Elhokar pide aprender a ser un héroe y se disculpa por su reacción en el duelo. No se ejecuta aquí el plan de Moash.",
+      "supersedes": []
+    },
+    {
+      "id": "primary162-diagram-epigraph-76",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "El epígrafe del Diagrama pide buscar supervivientes improbables y afirma que no podrán detener sus juramentos. Es una instrucción del texto, no ubicación o encuentro nuevos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-76"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "supersedes": []
+    },
+    {
+      "id": "primary162-diagram-epigraph-77",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "El Diagrama advierte que desplegar un arma poderosa podría estimular a quienes exploran el vínculo Nahel, y relaciona tensión e Investidura potencial. No comprueba vínculos nuevos de individuos concretos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-77"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "supersedes": []
+    },
+    {
+      "id": "primary162-diagram-epigraph-78",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "El epígrafe fragmentario del Diagrama menciona a los shin y plantea usar a un Sinverdad como arma. No revela por ello identidades o posiciones concretas de los Heraldos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "supersedes": []
+    },
+    {
+      "id": "primary162-diagram-epigraph-79",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "El catecismo del Diagrama sostiene que debe sobrevivir una semilla de la humanidad y que el precio es irrelevante. Es su doctrina, no una justificación objetiva de los daños.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-79"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "supersedes": []
+    },
+    {
+      "id": "primary162-diagram-epigraph-80",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "El Diagrama ordena convertirse en rey de todo. Es un mandato, no la afirmación de que Taravangian ya gobierne todo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-80"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Epígrafe completo, con atribución al Diagrama.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -74227,6 +75739,10 @@ window.ATLAS_DATA = {
         {
           "revision": 159,
           "notes": "I12 Aesudan esposa de Elhokar conocida; mentoría Lhan/Pai no parentesco. I13 hermanas conocidas y antiguo compañero sin nombre, sin matrimonio nuevo ni identificación por deducción. I14 esposo muerto de Adrotagia, Redin hijo de Valam ya conocido; afirmación de único hijo vivo sin muerte individual de otros hijos. Princesa veden de ascendencia materna alegada: vínculo pendiente de grado impreciso, sin padres intermedios ni cónyuge inventados. Rumor34 no se retrospecta como esta muerte por puñalada."
+        },
+        {
+          "revision": 160,
+          "notes": "PR76 prima sombrerera de Lopen: parentesco explícito sin padres intermedios; no identificar con primas anteriores. PR77 Navani tía de Adolin y pareja de Dalinar; futura suegra no crea matrimonio. PR78 pupila y compromiso no filiación; rumores de salvamento no estado cierto. PR79 Rlain teme pérdidas, no muertes familiares individualizadas. PR80 recuerdos de Tien y Gavilar no cuerpos actuales ni parentescos nuevos; Elhokar sale vivo."
         }
       ]
     }
@@ -76839,6 +78355,40 @@ window.ATLAS_DATA = {
       "notes": [
         "Muerte relatada, sin marcador corporal."
       ]
+    },
+    {
+      "id": "primary160-scouts-reported-dead78",
+      "characterId": "bashin-three-scouts-pr78",
+      "state": "reported-dead",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Bashin informa de tres perdidos y de los muertos con quemaduras; no se individualiza a cada uno.",
+      "notes": [
+        "Bajas relatadas, sin puntos de cadáveres."
+      ]
+    },
+    {
+      "id": "primary160-stormform-corpse-dead78",
+      "characterId": "stormform-corpse-pr78",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-78"
+      },
+      "sourceIds": [
+        "primary160-wor76-80"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Inspeccionan el cadáver junto al puente.",
+      "notes": [
+        "No se localiza el cadáver después de la orden de arrojarlo al abismo."
+      ]
     }
   ],
   "bookId": "wok",
@@ -76869,7 +78419,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 159,
+  "revision": 162,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -90236,23 +91786,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Barracón del Puente Cuatro · Habitación de Kaladin",
+          "placeId": "place-kaladin-private-pr52",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Barracón del Puente Cuatro · Habitación de Kaladin",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -90269,11 +91821,201 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-kaladin-fire76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Hoguera exterior",
+          "placeId": "place-barracks-fire-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Barracón del Puente Cuatro · Hoguera exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Lopen se levanta de la hoguera y lo ayuda a caminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lopen se levanta de la hoguera y lo ayuda a caminar."
+          ]
+        },
+        {
+          "id": "primary160-kaladin-walk76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Camino entre los barracones",
+          "placeId": "place-kaladin-march-walk-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Campamento Kholin · Camino entre los barracones",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Cruzan los barracones vacíos sin usar palanquín.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruzan los barracones vacíos sin usar palanquín."
+          ]
+        },
+        {
+          "id": "primary160-kaladin-terrace76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Terraza sobre los terrenos de desfile",
+          "placeId": "place-march-terrace-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Terraza sobre los terrenos de desfile",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Observan los ejércitos desde la terraza natural.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observan los ejércitos desde la terraza natural."
+          ]
+        },
+        {
+          "id": "primary160-kaladin-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llegan al grupo de hombres del puente para despedirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan al grupo de hombres del puente para despedirse."
+          ]
         },
         {
           "id": "wor-kaladin-chapter-77-01",
@@ -90283,23 +92025,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Nuevo barracón del Puente Cuatro",
-          "placeId": "place-campamento-kholin-nuevo-barracon-puente-cuatro",
+          "place": "Barracón del Puente Cuatro · Habitación de Kaladin",
+          "placeId": "place-kaladin-private-pr52",
           "realm": "physical",
           "placeNotes": [
-            "Dependencia y traducción por cotejar con la edición; el anclaje cartográfico solo sitúa la ciudad o región."
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Barracón del Puente Cuatro · Habitación de Kaladin",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c77",
           "sourceIds": [
-            "wor-c77"
+            "wor-c77",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -90316,10 +92060,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-77"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Habitación privada de Kaladin; Moash entra, conversa y se marcha.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -90330,23 +92072,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Nuevo barracón del Puente Cuatro",
-          "placeId": "place-campamento-kholin-nuevo-barracon-puente-cuatro",
+          "place": "Campamento Kholin · Circuito entre barracones bajo la lluvia",
+          "placeId": "place-kaladin-rain-circuit-pr80",
           "realm": "physical",
           "placeNotes": [
-            "Dependencia y traducción por cotejar con la edición; el anclaje cartográfico solo sitúa la ciudad o región."
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento Kholin · Circuito entre barracones bajo la lluvia",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -90363,11 +92107,104 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Camina solo por el campamento antes de regresar al barracón.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-kaladin-barracks80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Nuevo barracón del Puente Cuatro",
+          "placeId": "place-campamento-kholin-nuevo-barracon-puente-cuatro",
+          "realm": "physical",
+          "placeNotes": [
+            "Dependencia y traducción por cotejar con la edición; el anclaje cartográfico solo sitúa la ciudad o región."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Regresa de su circuito y encuentra el carruaje real.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa de su circuito y encuentra el carruaje real."
+          ]
+        },
+        {
+          "id": "primary160-kaladin-room80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Habitación de Kaladin",
+          "placeId": "place-kaladin-private-pr52",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Barracón del Puente Cuatro · Habitación de Kaladin",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Entra y conversa con Elhokar a solas después de despedir a los guardias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra y conversa con Elhokar a solas después de despedir a los guardias."
+          ]
         },
         {
           "id": "wor-kaladin-chapter-81-01",
@@ -102141,7 +103978,7 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamento Kholin · Preparación de la marcha",
@@ -102155,12 +103992,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -102177,18 +104015,64 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-shallan-mounted77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Convoy al inicio de la marcha; Gaz aún no ha llegado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Convoy al inicio de la marcha; Gaz aún no ha llegado."
+          ]
         },
         {
           "id": "wor-shallan-chapter-77-01",
           "scene": "wor-chapter-77",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Expedición · Carruaje de Shallan",
@@ -102202,12 +104086,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c77",
           "sourceIds": [
-            "wor-c77"
+            "wor-c77",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -102224,22 +104109,20 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-77"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Interior del carruaje durante el segundo día, con llegada posterior de Navani.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-shallan-chapter-78-01",
-          "scene": "wor-chapter-78",
+          "id": "primary160-shallan-read77",
+          "scene": "wor-chapter-77",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Carruaje de Shallan",
+          "placeId": "place-expedition-carriage",
           "realm": "physical",
           "placeNotes": [
             "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
@@ -102249,12 +104132,61 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Al segundo día, estudia con Patrón y recurre a eruditas para interpretar el dialecto antiguo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al segundo día, estudia con Patrón y recurre a eruditas para interpretar el dialecto antiguo."
+          ]
+        },
+        {
+          "id": "wor-shallan-chapter-78-01",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Pabellón de investigación bajo la lluvia",
+          "placeId": "place-shallan-research-pavilion-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Pabellón de investigación bajo la lluvia",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c78",
           "sourceIds": [
-            "wor-c78"
+            "wor-c78",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -102271,11 +104203,153 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-78"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Pabellón de investigación, antes del aviso de los exploradores.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-shallan-outside78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Salida del pabellón y camino privado",
+          "placeId": "place-research-pavilion-exit-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Salida del pabellón y camino privado",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Caminan bajo la lluvia con el perímetro ampliado; acuerdan mantener el secreto incluso ante Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Caminan bajo la lluvia con el perímetro ampliado; acuerdan mantener el secreto incluso ante Navani."
+          ]
+        },
+        {
+          "id": "primary160-shallan-corpse78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Puente donde traen al parshendi muerto",
+          "placeId": "place-stormform-corpse-bridge-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Puente donde traen al parshendi muerto",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Inspeccionan el cadáver y Shallan muestra sus ojos rojos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Inspeccionan el cadáver y Shallan muestra sus ojos rojos."
+          ]
+        },
+        {
+          "id": "primary160-shallan-surrender78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Orilla alezi ante la roca de Rlain",
+          "placeId": "place-rlain-bridge-army-side-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Orilla alezi ante la roca de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Se acercan al puente ante la roca del parshendi, sin confundir ambas orillas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acercan al puente ante la roca del parshendi, sin confundir ambas orillas."
+          ]
         },
         {
           "id": "wor-shallan-chapter-80-01",
@@ -102285,23 +104359,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Interior de las Llanuras · Cima rocosa de la exploración",
+          "placeId": "place-central-plains-scout-crest-pr80",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Cima rocosa de la exploración",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -102318,11 +104394,153 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Exploración de la cima y reunión posterior, sin haber llegado todavía al portal.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-shallan-withdraw80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Interior de las Llanuras · Bajada y retorno por el puente",
+          "placeId": "place-scout-withdrawal-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Bajada y retorno por el puente",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Bajan, se reúnen con exploradores y cruzan el puente hacia el campamento; Vathah evita que Shallan caiga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bajan, se reúnen con exploradores y cruzan el puente hacia el campamento; Vathah evita que Shallan caiga."
+          ]
+        },
+        {
+          "id": "primary160-shallan-council80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Asisten al consejo de guerra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asisten al consejo de guerra."
+          ]
+        },
+        {
+          "id": "primary160-shallan-private80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo."
+          ]
         },
         {
           "id": "wor-shallan-chapter-81-01",
@@ -115400,53 +117618,6 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c76",
-          "sourceIds": [
-            "wor-c76"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia dentro de la escena; sin fecha exacta ni simultaneidad asegurada entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-76"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
-        },
-        {
-          "id": "wor-dalinar-chapter-76-02",
-          "scene": "wor-chapter-76",
-          "retrospective": false,
-          "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
@@ -115461,12 +117632,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -115483,11 +117655,247 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-dalinar-sebarial76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Reunión de ejércitos · Carruaje de Sebarial",
+          "placeId": "place-sebarial-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reunión de ejércitos · Carruaje de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar."
+          ]
+        },
+        {
+          "id": "primary160-dalinar-aladar76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Contingente de Aladar",
+          "placeId": "place-aladar-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Contingente de Aladar",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Galopan por delante hasta Aladar, dejando atrás a Roion y Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Galopan por delante hasta Aladar, dejando atrás a Roion y Amaram."
+          ]
+        },
+        {
+          "id": "wor-dalinar-chapter-76-02",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "wor-c76",
+          "sourceIds": [
+            "wor-c76",
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "frame": "present",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia dentro de la escena; sin fecha exacta ni simultaneidad asegurada entre tramas."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
+          "notes": []
+        },
+        {
+          "id": "primary160-dalinar-back76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Regresan al grupo; Dalinar desmonta antes de la confrontación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan al grupo; Dalinar desmonta antes de la confrontación."
+          ]
+        },
+        {
+          "id": "primary160-dalinar-carriage77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Exterior junto al carruaje, segundo día",
+          "placeId": "place-expedition-carriage-outside-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB OEBPS/Text/05_077.xhtml: Dalinar sostiene el paraguas y cierra la puerta del carruaje, ya durante el segundo día."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Está fuera del carruaje y cierra la puerta tras Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está fuera del carruaje y cierra la puerta tras Navani."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-78-01",
@@ -115497,23 +117905,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Pabellón de investigación bajo la lluvia",
+          "placeId": "place-shallan-research-pavilion-pr78",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Pabellón de investigación bajo la lluvia",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c78",
           "sourceIds": [
-            "wor-c78"
+            "wor-c78",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -115530,11 +117940,153 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-78"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Pabellón de investigación, antes del aviso de los exploradores.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-dalinar-outside78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Salida del pabellón y camino privado",
+          "placeId": "place-research-pavilion-exit-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Salida del pabellón y camino privado",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Caminan bajo la lluvia con el perímetro ampliado; acuerdan mantener el secreto incluso ante Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Caminan bajo la lluvia con el perímetro ampliado; acuerdan mantener el secreto incluso ante Navani."
+          ]
+        },
+        {
+          "id": "primary160-dalinar-corpse78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Puente donde traen al parshendi muerto",
+          "placeId": "place-stormform-corpse-bridge-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Puente donde traen al parshendi muerto",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Inspeccionan el cadáver y Shallan muestra sus ojos rojos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Inspeccionan el cadáver y Shallan muestra sus ojos rojos."
+          ]
+        },
+        {
+          "id": "primary160-dalinar-surrender78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Orilla alezi ante la roca de Rlain",
+          "placeId": "place-rlain-bridge-army-side-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Orilla alezi ante la roca de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Se acercan al puente ante la roca del parshendi, sin confundir ambas orillas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acercan al puente ante la roca del parshendi, sin confundir ambas orillas."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-79-01",
@@ -115544,23 +118096,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c79",
           "sourceIds": [
-            "wor-c79"
+            "wor-c79",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -115577,10 +118131,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-79"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Un día después del hallazgo, en la tienda de mando; Shallan no está presente.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -115588,26 +118140,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-80",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -115624,11 +118178,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Exploración de la cima y reunión posterior, sin haber llegado todavía al portal.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-dalinar-private80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo."
+          ]
         },
         {
           "id": "wor-dalinar-chapter-81-01",
@@ -122524,7 +125124,7 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamento Kholin · Preparación de la marcha",
@@ -122538,12 +125138,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -122560,11 +125161,201 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-adolin-mounted77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Convoy al inicio de la marcha; Gaz aún no ha llegado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Convoy al inicio de la marcha; Gaz aún no ha llegado."
+          ]
+        },
+        {
+          "id": "primary160-adolin-arrive79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Adolin entra escoltando a Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin entra escoltando a Navani."
+          ]
+        },
+        {
+          "id": "primary160-adolin-arrive80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Entra después de Shallan y comunica el número estimado de enemigos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra después de Shallan y comunica el número estimado de enemigos."
+          ]
+        },
+        {
+          "id": "primary160-adolin-private80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo."
+          ]
         },
         {
           "id": "wor-adolin-chapter-81-01",
@@ -125984,6 +128775,102 @@ window.ATLAS_DATA = {
           "notes": []
         },
         {
+          "id": "primary160-renarin-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en la despedida, sin contactos automáticos con todos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en la despedida, sin contactos automáticos con todos."
+          ]
+        },
+        {
+          "id": "primary160-renarin-tactics79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Otra tienda, reunión táctica",
+          "placeId": "place-expedition-tactics-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Otra tienda, reunión táctica",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Están en otra tienda revisando tácticas, no en el interrogatorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Están en otra tienda revisando tácticas, no en el interrogatorio."
+          ]
+        },
+        {
           "id": "wor-renarin-chapter-81-01",
           "scene": "wor-chapter-81",
           "retrospective": false,
@@ -128425,26 +131312,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-80",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Nuevo barracón del Puente Cuatro",
-          "placeId": "place-campamento-kholin-nuevo-barracon-puente-cuatro",
+          "place": "Barracón del Puente Cuatro · Habitación de Kaladin",
+          "placeId": "place-kaladin-private-pr52",
           "realm": "physical",
           "placeNotes": [
-            "Dependencia y traducción por cotejar con la edición; el anclaje cartográfico solo sitúa la ciudad o región."
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Barracón del Puente Cuatro · Habitación de Kaladin",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -128461,11 +131350,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Espera en la habitación privada, no en el salón común.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-elhokar-exit80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Habitación de Kaladin · Salida de Elhokar",
+          "placeId": "place-elhokar-barracks-exit-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Barracón del Puente Cuatro · Salida de Elhokar",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Se marcha después de hablar de las sombras y disculparse; no se narra regreso al palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marcha después de hablar de las sombras y disculparse; no se narra regreso al palacio."
+          ]
         },
         {
           "id": "wor-elhokar-chapter-82-01",
@@ -130000,27 +132935,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento de Sadeas",
-          "placeId": "place-campamento-de-sadeas",
+          "place": "Oeste de los campamentos · Colina ante las granjas de Sebarial",
+          "placeId": "place-sadeas-west-hill-pr76",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Oeste de los campamentos · Colina ante las granjas de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -130037,12 +132973,58 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": [
             "No se anticipa su traslado a Urithiru."
+          ]
+        },
+        {
+          "id": "primary160-sadeas-ride76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Colina occidental · Continuación del paseo lejos de las Llanuras",
+          "placeId": "place-sadeas-west-ride-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Colina occidental · Continuación del paseo lejos de las Llanuras",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Continúan el paseo; no ejecutan el golpe de Estado propuesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Continúan el paseo; no ejecutan el golpe de Estado propuesto."
           ]
         },
         {
@@ -132423,7 +135405,7 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-77",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Expedición · Carruaje de Shallan",
@@ -132437,12 +135419,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c77",
           "sourceIds": [
-            "wor-c77"
+            "wor-c77",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -132459,22 +135442,20 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-77"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Interior del carruaje durante el segundo día, con llegada posterior de Navani.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-navani-chapter-79-01",
-          "scene": "wor-chapter-79",
+          "id": "primary160-navani-door77",
+          "scene": "wor-chapter-77",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Carruaje de Shallan",
+          "placeId": "place-expedition-carriage",
           "realm": "physical",
           "placeNotes": [
             "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
@@ -132484,12 +135465,61 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Sube al vehículo mientras Dalinar le sostiene un paraguas; no se narra su salida al final.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube al vehículo mientras Dalinar le sostiene un paraguas; no se narra su salida al final."
+          ]
+        },
+        {
+          "id": "wor-navani-chapter-79-01",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c79",
           "sourceIds": [
-            "wor-c79"
+            "wor-c79",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -132506,11 +135536,153 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-79"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Un día después del hallazgo, en la tienda de mando; Shallan no está presente.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-navani-arrive79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Adolin entra escoltando a Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin entra escoltando a Navani."
+          ]
+        },
+        {
+          "id": "primary160-navani-council80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Asisten al consejo de guerra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asisten al consejo de guerra."
+          ]
+        },
+        {
+          "id": "primary160-navani-private80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Quedan en la tienda; Dalinar presenta el portal como plan de contingencia, aún sin encontrarlo ni activarlo."
+          ]
         },
         {
           "id": "wor-navani-chapter-81-01",
@@ -135861,6 +139033,150 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary160-rock-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en la despedida, sin contactos automáticos con todos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en la despedida, sin contactos automáticos con todos."
+          ]
+        },
+        {
+          "id": "primary160-rock-interview79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Teleb trae al prisionero y entran después los hombres del puente invitados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Teleb trae al prisionero y entran después los hombres del puente invitados."
+          ]
+        },
+        {
+          "id": "primary160-rock-leave79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de mando · Salida del grupo de Rlain",
+          "placeId": "place-interview-exit-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Tienda de mando · Salida del grupo de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada."
+          ]
+        },
+        {
           "id": "wor-rock-chapter-87-01",
           "scene": "wor-chapter-87",
           "retrospective": false,
@@ -138535,6 +141851,54 @@ window.ATLAS_DATA = {
           "locator": "EPUB español aportado, OEBPS/Text/04_071.xhtml. Vigilia en el borde oriental, con llegada posterior de Dalinar.",
           "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-teft-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en la despedida, sin contactos automáticos con todos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en la despedida, sin contactos automáticos con todos."
+          ]
         },
         {
           "id": "wor-teft-chapter-87-01",
@@ -141501,23 +144865,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Nuevo barracón del Puente Cuatro",
-          "placeId": "place-campamento-kholin-nuevo-barracon-puente-cuatro",
+          "place": "Barracón del Puente Cuatro · Habitación de Kaladin",
+          "placeId": "place-kaladin-private-pr52",
           "realm": "physical",
           "placeNotes": [
-            "Dependencia y traducción por cotejar con la edición; el anclaje cartográfico solo sitúa la ciudad o región."
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Barracón del Puente Cuatro · Habitación de Kaladin",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c77",
           "sourceIds": [
-            "wor-c77"
+            "wor-c77",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -141534,11 +144900,153 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-77"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Habitación privada de Kaladin; Moash entra, conversa y se marcha.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-moash-leave77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Salida de la visita de Moash",
+          "placeId": "place-moash-room-exit-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Barracón del Puente Cuatro · Salida de la visita de Moash",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Se marcha después de la conversación; no se inventa llegada de vuelta al rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marcha después de la conversación; no se inventa llegada de vuelta al rey."
+          ]
+        },
+        {
+          "id": "primary160-moash-door80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Puerta durante la visita real",
+          "placeId": "place-kaladin-royal-visit-door-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Barracón del Puente Cuatro · Puerta durante la visita real",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Guarda la puerta de la habitación del rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Guarda la puerta de la habitación del rey."
+          ]
+        },
+        {
+          "id": "primary160-moash-dismissed80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Puerta durante la visita real",
+          "placeId": "place-kaladin-royal-visit-door-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Barracón del Puente Cuatro · Puerta durante la visita real",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Se retiran de la habitación por orden del rey y cierran la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se retiran de la habitación por orden del rey y cierran la puerta."
+          ]
         },
         {
           "id": "wor-moash-chapter-82-01",
@@ -146897,6 +150405,54 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary160-gaz-arrival77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Alcanza el convoy corriendo y entrega el libro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza el convoy corriendo y entrega el libro."
+          ]
+        },
+        {
           "id": "wor-gaz-chapter-80-01",
           "scene": "wor-chapter-80",
           "retrospective": false,
@@ -146904,23 +150460,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Interior de las Llanuras · Cima rocosa de la exploración",
+          "placeId": "place-central-plains-scout-crest-pr80",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Cima rocosa de la exploración",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -146937,11 +150495,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Exploración de la cima y reunión posterior, sin haber llegado todavía al portal.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-gaz-withdraw80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Interior de las Llanuras · Bajada y retorno por el puente",
+          "placeId": "place-scout-withdrawal-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Bajada y retorno por el puente",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Bajan, se reúnen con exploradores y cruzan el puente hacia el campamento; Vathah evita que Shallan caiga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bajan, se reúnen con exploradores y cruzan el puente hacia el campamento; Vathah evita que Shallan caiga."
+          ]
         },
         {
           "id": "ob-gaz-chapter-21-03",
@@ -148295,6 +151899,245 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Participa en la excursión y en las tareas expresamente descritas, sin posición final deducida."
+          ]
+        },
+        {
+          "id": "primary160-lopen-fire76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Hoguera exterior",
+          "placeId": "place-barracks-fire-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Barracón del Puente Cuatro · Hoguera exterior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Lopen se levanta de la hoguera y lo ayuda a caminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lopen se levanta de la hoguera y lo ayuda a caminar."
+          ]
+        },
+        {
+          "id": "primary160-lopen-walk76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Camino entre los barracones",
+          "placeId": "place-kaladin-march-walk-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Campamento Kholin · Camino entre los barracones",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Cruzan los barracones vacíos sin usar palanquín.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruzan los barracones vacíos sin usar palanquín."
+          ]
+        },
+        {
+          "id": "primary160-lopen-terrace76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Terraza sobre los terrenos de desfile",
+          "placeId": "place-march-terrace-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Terraza sobre los terrenos de desfile",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Observan los ejércitos desde la terraza natural.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observan los ejércitos desde la terraza natural."
+          ]
+        },
+        {
+          "id": "primary160-lopen-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llegan al grupo de hombres del puente para despedirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan al grupo de hombres del puente para despedirse."
+          ]
+        },
+        {
+          "id": "primary160-lopen80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Nuevo barracón del Puente Cuatro",
+          "placeId": "place-campamento-kholin-nuevo-barracon-puente-cuatro",
+          "realm": "physical",
+          "placeNotes": [
+            "Dependencia y traducción por cotejar con la edición; el anclaje cartográfico solo sitúa la ciudad o región."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Sale corriendo a recibirlo; hoy no lo había acompañado en el circuito.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale corriendo a recibirlo; hoy no lo había acompañado en el circuito."
           ]
         },
         {
@@ -150993,26 +154836,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-78",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Roca de Rlain al otro lado del puente",
+          "placeId": "place-rlain-surrender-rock-pr78",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Roca de Rlain al otro lado del puente",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c78",
           "sourceIds": [
-            "wor-c78"
+            "wor-c78",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -151029,10 +154874,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-78"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Está en una roca, al otro lado de un puente portátil. No entra todavía en la tienda de interrogatorio.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -151040,26 +154883,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-79",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c79",
           "sourceIds": [
-            "wor-c79"
+            "wor-c79",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -151076,11 +154921,105 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-79"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Un día después del hallazgo, en la tienda de mando; Shallan no está presente.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-shen-interview79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Teleb trae al prisionero y entran después los hombres del puente invitados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Teleb trae al prisionero y entran después los hombres del puente invitados."
+          ]
+        },
+        {
+          "id": "primary160-shen-leave79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de mando · Salida del grupo de Rlain",
+          "placeId": "place-interview-exit-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Tienda de mando · Salida del grupo de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada."
+          ]
         },
         {
           "id": "ob-shen-chapter-9-01",
@@ -154033,27 +157972,27 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento de Sadeas",
-          "placeId": "place-campamento-de-sadeas",
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -154070,12 +158009,202 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": [
             "No se anticipa su traslado a Urithiru."
+          ]
+        },
+        {
+          "id": "primary160-amaram-sebarial76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Reunión de ejércitos · Carruaje de Sebarial",
+          "placeId": "place-sebarial-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reunión de ejércitos · Carruaje de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar."
+          ]
+        },
+        {
+          "id": "primary160-amaram-aladar-later76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Contingente de Aladar",
+          "placeId": "place-aladar-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Contingente de Aladar",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llegan después de Dalinar y Galante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan después de Dalinar y Galante."
+          ]
+        },
+        {
+          "id": "primary160-amaram-back76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Regresan al grupo; Dalinar desmonta antes de la confrontación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan al grupo; Dalinar desmonta antes de la confrontación."
+          ]
+        },
+        {
+          "id": "primary160-amaram-out76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida del lugar de confrontación · Amaram y su guardia",
+          "placeId": "place-amaram-departure-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida del lugar de confrontación · Amaram y su guardia",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Se marcha tras soltar la capa, seguido por su guardia; no se narra llegada al campamento de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marcha tras soltar la capa, seguido por su guardia; no se narra llegada al campamento de Sadeas."
           ]
         },
         {
@@ -155169,6 +159298,246 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se alejan para inspeccionar; no se narra llegada al batallón."
+          ]
+        },
+        {
+          "id": "primary160-skar-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en la despedida, sin contactos automáticos con todos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en la despedida, sin contactos automáticos con todos."
+          ]
+        },
+        {
+          "id": "primary160-skar-cross78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Roca de Rlain al otro lado del puente",
+          "placeId": "place-rlain-surrender-rock-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Roca de Rlain al otro lado del puente",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Cruza con otros hombres del puente y reconoce a Shen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza con otros hombres del puente y reconoce a Shen."
+          ]
+        },
+        {
+          "id": "primary160-skar-return78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Orilla alezi ante la roca de Rlain",
+          "placeId": "place-rlain-bridge-army-side-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Orilla alezi ante la roca de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Regresa y susurra a Dalinar que Shen quiere rendirse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa y susurra a Dalinar que Shen quiere rendirse."
+          ]
+        },
+        {
+          "id": "primary160-skar-interview79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Teleb trae al prisionero y entran después los hombres del puente invitados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Teleb trae al prisionero y entran después los hombres del puente invitados."
+          ]
+        },
+        {
+          "id": "primary160-skar-leave79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de mando · Salida del grupo de Rlain",
+          "placeId": "place-interview-exit-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Tienda de mando · Salida del grupo de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada."
           ]
         },
         {
@@ -162382,7 +166751,7 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-77",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Expedición · Carruaje de Shallan",
@@ -162396,12 +166765,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c77",
           "sourceIds": [
-            "wor-c77"
+            "wor-c77",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162418,10 +166788,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-77"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Interior del carruaje durante el segundo día, con llegada posterior de Navani.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -162432,23 +166800,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Pabellón de investigación bajo la lluvia",
+          "placeId": "place-shallan-research-pavilion-pr78",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Pabellón de investigación bajo la lluvia",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c78",
           "sourceIds": [
-            "wor-c78"
+            "wor-c78",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162465,57 +166835,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-78"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
-        },
-        {
-          "id": "wor-pattern-chapter-80-01",
-          "scene": "wor-chapter-80",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
-          "realm": "physical",
-          "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c80",
-          "sourceIds": [
-            "wor-c80"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia dentro de la escena; sin fecha exacta ni simultaneidad asegurada entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-80"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Pabellón de investigación, antes del aviso de los exploradores.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -164731,26 +169052,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Salida a las Llanuras · Contingente de Aladar",
+          "placeId": "place-aladar-arrival-pr76",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Contingente de Aladar",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -164767,37 +169090,85 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-aladar-chapter-80-01",
-          "scene": "wor-chapter-80",
+          "id": "primary160-aladar-tactics79",
+          "scene": "wor-chapter-79",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Expedición · Otra tienda, reunión táctica",
+          "placeId": "place-expedition-tactics-tent-pr79",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Otra tienda, reunión táctica",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Están en otra tienda revisando tácticas, no en el interrogatorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Están en otra tienda revisando tácticas, no en el interrogatorio."
+          ]
+        },
+        {
+          "id": "wor-aladar-chapter-80-01",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -164814,11 +169185,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Exploración de la cima y reunión posterior, sin haber llegado todavía al portal.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-aladar-council-exit80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Consejo de guerra · Salida de los altos príncipes",
+          "placeId": "place-central-council-exit-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Consejo de guerra · Salida de los altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. La reunión termina y salen, sin destino posterior precisado.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión termina y salen, sin destino posterior precisado."
+          ]
         },
         {
           "id": "wor-aladar-chapter-81-01",
@@ -171856,6 +176273,246 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary160-vathah-mounted77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Convoy al inicio de la marcha; Gaz aún no ha llegado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Convoy al inicio de la marcha; Gaz aún no ha llegado."
+          ]
+        },
+        {
+          "id": "primary160-vathah-excused78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pabellón de investigación · Exterior de los ayudantes excusados",
+          "placeId": "place-research-helpers-exit-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Pabellón de investigación · Exterior de los ayudantes excusados",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Shallan lo excusa junto con dos soldados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan lo excusa junto con dos soldados."
+          ]
+        },
+        {
+          "id": "primary160-vathah-surrender78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Orilla alezi ante la roca de Rlain",
+          "placeId": "place-rlain-bridge-army-side-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Orilla alezi ante la roca de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Acompañan el acercamiento a Rlain.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan el acercamiento a Rlain."
+          ]
+        },
+        {
+          "id": "primary160-vathah-crest80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Interior de las Llanuras · Cima rocosa de la exploración",
+          "placeId": "place-central-plains-scout-crest-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Cima rocosa de la exploración",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Alcanza a Shallan con Gaz.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza a Shallan con Gaz."
+          ]
+        },
+        {
+          "id": "primary160-vathah-withdraw80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Interior de las Llanuras · Bajada y retorno por el puente",
+          "placeId": "place-scout-withdrawal-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Bajada y retorno por el puente",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Bajan, se reúnen con exploradores y cruzan el puente hacia el campamento; Vathah evita que Shallan caiga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bajan, se reúnen con exploradores y cruzan el puente hacia el campamento; Vathah evita que Shallan caiga."
+          ]
+        },
+        {
           "id": "ob-vathah-chapter-21-03",
           "scene": "ob-chapter-21",
           "retrospective": false,
@@ -173958,27 +178615,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento de Sadeas",
-          "placeId": "place-campamento-de-sadeas",
+          "place": "Oeste de los campamentos · Colina ante las granjas de Sebarial",
+          "placeId": "place-sadeas-west-hill-pr76",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Oeste de los campamentos · Colina ante las granjas de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -173995,12 +178653,60 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": [
             "No se anticipa su traslado a Urithiru."
+          ]
+        },
+        {
+          "id": "primary160-ialai-ride76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Colina occidental · Continuación del paseo lejos de las Llanuras",
+          "placeId": "place-sadeas-west-ride-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Colina occidental · Continuación del paseo lejos de las Llanuras",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "inferred",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Continúan el paseo; no ejecutan el golpe de Estado propuesto.",
+          "needsConfirmation": [
+            "La última frase describe a Sadeas continuando el paseo; que Ialai siga con él es inferencia del grupo."
+          ],
+          "notes": [
+            "Continúan el paseo; no ejecutan el golpe de Estado propuesto."
           ]
         },
         {
@@ -175430,26 +180136,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Reunión de ejércitos · Carruaje de Sebarial",
+          "placeId": "place-sebarial-arrival-pr76",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reunión de ejércitos · Carruaje de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -175466,10 +180174,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -175477,26 +180183,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-80",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Expedición · Campamento durante el avance",
-          "placeId": "place-expedition-advance-camp",
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c80",
           "sourceIds": [
-            "wor-c80"
+            "wor-c80",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -175513,11 +180221,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-80"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Exploración de la cima y reunión posterior, sin haber llegado todavía al portal.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-sebarial-council-exit80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Consejo de guerra · Salida de los altos príncipes",
+          "placeId": "place-central-council-exit-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Consejo de guerra · Salida de los altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. La reunión termina y salen, sin destino posterior precisado.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión termina y salen, sin destino posterior precisado."
+          ]
         },
         {
           "id": "wor-sebarial-chapter-81-01",
@@ -176056,26 +180810,28 @@ window.ATLAS_DATA = {
           "scene": "wor-chapter-76",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Campamento Kholin · Preparación de la marcha",
-          "placeId": "place-kholin-march-staging",
+          "place": "Reunión de ejércitos · Carruaje de Sebarial",
+          "placeId": "place-sebarial-arrival-pr76",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reunión de ejércitos · Carruaje de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c76",
           "sourceIds": [
-            "wor-c76"
+            "wor-c76",
+            "primary160-wor76-80"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -176092,11 +180848,105 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-chapter-76"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Preparación y reuniones antes de marchar; Sadeas e Ialai observan desde una colina occidental, no desde su campamento.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary160-palona-council80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Asisten al consejo de guerra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asisten al consejo de guerra."
+          ]
+        },
+        {
+          "id": "primary160-palona-council-exit80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Consejo de guerra · Salida de los altos príncipes",
+          "placeId": "place-central-council-exit-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Consejo de guerra · Salida de los altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. La reunión termina y salen, sin destino posterior precisado.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión termina y salen, sin destino posterior precisado."
+          ]
         },
         {
           "id": "wor-palona-chapter-81-01",
@@ -185325,6 +190175,294 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary160-roion-sebarial76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Reunión de ejércitos · Carruaje de Sebarial",
+          "placeId": "place-sebarial-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reunión de ejércitos · Carruaje de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar."
+          ]
+        },
+        {
+          "id": "primary160-roion-aladar-later76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Contingente de Aladar",
+          "placeId": "place-aladar-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Contingente de Aladar",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Llegan después de Dalinar y Galante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan después de Dalinar y Galante."
+          ]
+        },
+        {
+          "id": "primary160-roion-back76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Regresan al grupo; Dalinar desmonta antes de la confrontación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan al grupo; Dalinar desmonta antes de la confrontación."
+          ]
+        },
+        {
+          "id": "primary160-roion-tactics79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Otra tienda, reunión táctica",
+          "placeId": "place-expedition-tactics-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Otra tienda, reunión táctica",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Están en otra tienda revisando tácticas, no en el interrogatorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Están en otra tienda revisando tácticas, no en el interrogatorio."
+          ]
+        },
+        {
+          "id": "primary160-roion-council80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+          "placeId": "place-central-army-council-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Campamento de las seis tiendas · Consejo de los cuatro altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Asisten al consejo de guerra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asisten al consejo de guerra."
+          ]
+        },
+        {
+          "id": "primary160-roion-council-exit80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Consejo de guerra · Salida de los altos príncipes",
+          "placeId": "place-central-council-exit-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Consejo de guerra · Salida de los altos príncipes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. La reunión termina y salen, sin destino posterior precisado.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión termina y salen, sin destino posterior precisado."
+          ]
+        },
+        {
           "id": "wor-roion-chapter-83-01",
           "scene": "wor-chapter-83",
           "retrospective": false,
@@ -193779,6 +198917,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la reunión cuando regresa Adolin; Teleb observa desde un lado."
           ]
+        },
+        {
+          "id": "primary160-general-khal-tactics79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Otra tienda, reunión táctica",
+          "placeId": "place-expedition-tactics-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Otra tienda, reunión táctica",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Están en otra tienda revisando tácticas, no en el interrogatorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Están en otra tienda revisando tácticas, no en el interrogatorio."
+          ]
         }
       ]
     },
@@ -199889,6 +205075,54 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary160-bisig-farewell76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en la despedida, sin contactos automáticos con todos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en la despedida, sin contactos automáticos con todos."
+          ]
+        },
+        {
           "id": "ob81-bisig-37-1",
           "scene": "ob-chapter-37",
           "retrospective": false,
@@ -202358,6 +207592,198 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary160-teleb-corpse78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Puente donde traen al parshendi muerto",
+          "placeId": "place-stormform-corpse-bridge-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Puente donde traen al parshendi muerto",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Vuelve e informa del segundo parshendi, vivo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve e informa del segundo parshendi, vivo."
+          ]
+        },
+        {
+          "id": "primary160-teleb-surrender78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Orilla alezi ante la roca de Rlain",
+          "placeId": "place-rlain-bridge-army-side-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Orilla alezi ante la roca de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Acompañan el acercamiento a Rlain.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan el acercamiento a Rlain."
+          ]
+        },
+        {
+          "id": "primary160-teleb-interview79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Tienda de mando del interrogatorio",
+          "placeId": "place-dalinar-command-tent-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Expedición · Tienda de mando del interrogatorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Teleb trae al prisionero y entran después los hombres del puente invitados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Teleb trae al prisionero y entran después los hombres del puente invitados."
+          ]
+        },
+        {
+          "id": "primary160-teleb-leave79",
+          "scene": "wor-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de mando · Salida del grupo de Rlain",
+          "placeId": "place-interview-exit-pr79",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_079.xhtml. Tienda de mando · Salida del grupo de Rlain",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-79"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_079.xhtml. Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen tras las órdenes. Reunirse con Shallan y preparar el mapa todavía es un encargo, no llegada narrada."
+          ]
+        },
+        {
           "id": "audit87-teleb-remains-pr83",
           "scene": "wor-chapter-83",
           "retrospective": false,
@@ -203379,7 +208805,104 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary160-bashin-report78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Salida del pabellón y camino privado",
+          "placeId": "place-research-pavilion-exit-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Salida del pabellón y camino privado",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Su grupo se acerca y él informa de las pérdidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su grupo se acerca y él informa de las pérdidas."
+          ]
+        },
+        {
+          "id": "primary160-bashin-corpse78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Puente donde traen al parshendi muerto",
+          "placeId": "place-stormform-corpse-bridge-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Puente donde traen al parshendi muerto",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Explica las formas y las quemaduras; no se convierte su explicación en taxonomía comprobada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica las formas y las quemaduras; no se convierte su explicación en taxonomía comprobada."
+          ]
+        }
+      ]
     },
     {
       "id": "vartian",
@@ -204153,6 +209676,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Adolin llega montado en Galante; desmonta para negociar."
           ]
+        },
+        {
+          "id": "primary160-gallant-sebarial76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Reunión de ejércitos · Carruaje de Sebarial",
+          "placeId": "place-sebarial-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Reunión de ejércitos · Carruaje de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acercan al carruaje de Sebarial; Galante es la montura de Dalinar."
+          ]
+        },
+        {
+          "id": "primary160-gallant-aladar76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Contingente de Aladar",
+          "placeId": "place-aladar-arrival-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Contingente de Aladar",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Galopan por delante hasta Aladar, dejando atrás a Roion y Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Galopan por delante hasta Aladar, dejando atrás a Roion y Amaram."
+          ]
+        },
+        {
+          "id": "primary160-gallant-back76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida a las Llanuras · Despedida y confrontación con Amaram",
+          "placeId": "place-bridge4-farewell-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida a las Llanuras · Despedida y confrontación con Amaram",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Regresan al grupo; Dalinar desmonta antes de la confrontación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan al grupo; Dalinar desmonta antes de la confrontación."
+          ]
         }
       ]
     },
@@ -204210,6 +209877,101 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin monta a Sangre Segura al emprender el regreso."
+          ]
+        },
+        {
+          "id": "primary160-sureblood-march76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en el grupo de Adolin y Shallan o en el séquito de cartógrafas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en el grupo de Adolin y Shallan o en el séquito de cartógrafas."
+          ]
+        },
+        {
+          "id": "primary160-sureblood-mounted77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Convoy al inicio de la marcha; Gaz aún no ha llegado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Convoy al inicio de la marcha; Gaz aún no ha llegado."
           ]
         }
       ]
@@ -208418,7 +214180,55 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Mención primaria con contexto propio, sin coordenadas añadidas para habilitar su ficha.",
-      "events": []
+      "events": [
+        {
+          "id": "primary160-isasik-shulin-march76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en el grupo de Adolin y Shallan o en el séquito de cartógrafas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en el grupo de Adolin y Shallan o en el séquito de cartógrafas."
+          ]
+        }
+      ]
     },
     {
       "id": "moratel",
@@ -220998,6 +226808,788 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
       "events": []
+    },
+    {
+      "id": "amaram-fifty-guards-pr76",
+      "name": "Guardia de cincuenta hombres de Amaram (PR76)",
+      "role": "Grupo que lo sigue al marcharse; no se individualizan nombres ni destino.",
+      "initial": "G",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-guards-out76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Salida del lugar de confrontación · Amaram y su guardia",
+          "placeId": "place-amaram-departure-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salida del lugar de confrontación · Amaram y su guardia",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Salen con Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen con Amaram."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ialai-letter-messenger-pr76",
+      "name": "Mensajera de la carta a Ialai (PR76)",
+      "role": "Llega a caballo, entrega una carta y recibe después el catalejo de Sadeas.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-messenger76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Oeste de los campamentos · Colina ante las granjas de Sebarial",
+          "placeId": "place-sadeas-west-hill-pr76",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_076.xhtml. Oeste de los campamentos · Colina ante las granjas de Sebarial",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Los guardias la dejan pasar hasta la pareja.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los guardias la dejan pasar hasta la pareja."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lopen-hat-cousin-pr76",
+      "name": "Prima de Lopen que hace sombreros",
+      "role": "Lopen dice que tiene una prima que hace sombreros; no se identifica con otros familiares sin nombre.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "shallan-brown-mare-pr76",
+      "name": "Jaca marrón prestada a Shallan",
+      "role": "Una de las monturas de Adolin, pequeña y tranquila; no tiene nombre revelado.",
+      "initial": "J",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-shallan-brown-mare-pr76-march76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Presencia nominal en el grupo de Adolin y Shallan o en el séquito de cartógrafas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia nominal en el grupo de Adolin y Shallan o en el séquito de cartógrafas."
+          ]
+        },
+        {
+          "id": "primary160-shallan-brown-mare-pr76-mounted77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Convoy al inicio de la marcha; Gaz aún no ha llegado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Convoy al inicio de la marcha; Gaz aún no ha llegado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amaram-warhorse-pr76",
+      "name": "Caballo de guerra de Amaram (PR76)",
+      "role": "Montura grande de la raza usada en Shinovar para carga; sin nombre ni parentesco.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-amaram-horse76",
+          "scene": "wor-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Preparación de la marcha",
+          "placeId": "place-kholin-march-staging",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-76"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_076.xhtml. Amaram se acerca a caballo antes de la reunión con Sebarial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Amaram se acerca a caballo antes de la reunión con Sebarial."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marri-maid-pr77",
+      "name": "Marri",
+      "role": "Doncella de Shallan que forma parte del convoy; Shallan no quiere su compañía en el carruaje donde está Patrón.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-marri-maid-pr77-mounted77",
+          "scene": "wor-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Marcha inicial a caballo",
+          "placeId": "place-expedition-mounted-pr77",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_077.xhtml. Expedición · Marcha inicial a caballo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-77"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_077.xhtml. Convoy al inicio de la marcha; Gaz aún no ha llegado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Convoy al inicio de la marcha; Gaz aún no ha llegado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "words-radiance-author-unknown-pr77",
+      "name": "Autora anónima de Palabras radiantes",
+      "role": "La autora admite usar habladurías; escribió doscientos años después de la Traición. Sin nombre revelado.",
+      "initial": "A",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "words-radiance-merchant-pr77",
+      "name": "Mercader del ejemplar conseguido por Gaz",
+      "role": "Gaz informa del precio pendiente del libro; no se representa un encuentro de Shallan con el mercader.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "chanaranach-temple-name-pr77",
+      "name": "Chanaranach (nombre del templo)",
+      "role": "Nombre del templo al que pertenece un mural recreado desde referencias de Sedetormenta; no se añade presencia ni correspondencia nominal por parecido.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "dalinar-umbrella-aide-pr78",
+      "name": "Ayudante del paraguas (PR78)",
+      "role": "Acompaña a Dalinar y avisa a las eruditas para que salgan; no se identifica con otro ayudante sin nombre.",
+      "initial": "A",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-aide78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Pabellón de investigación bajo la lluvia",
+          "placeId": "place-shallan-research-pavilion-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Pabellón de investigación bajo la lluvia",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Sostiene el paraguas al entrar Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sostiene el paraguas al entrar Dalinar."
+          ]
+        },
+        {
+          "id": "primary160-aide-excused78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pabellón de investigación · Exterior de los ayudantes excusados",
+          "placeId": "place-research-helpers-exit-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Pabellón de investigación · Exterior de los ayudantes excusados",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Sale con las eruditas; no escucha la revelación privada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale con las eruditas; no escucha la revelación privada."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parshendi-sighting-messenger-pr78",
+      "name": "Mensajera del avistamiento parshendi (PR78)",
+      "role": "Llega empapada al pabellón y transmite el avistamiento.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-message78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Pabellón de investigación bajo la lluvia",
+          "placeId": "place-shallan-research-pavilion-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Pabellón de investigación bajo la lluvia",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. Interrumpe después de que la ilusión se ha disipado; no se afirma que la haya visto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interrumpe después de que la ilusión se ha disipado; no se afirma que la haya visto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bashin-three-scouts-pr78",
+      "name": "Tres exploradores perdidos del grupo de Bashin",
+      "role": "Bashin relata la pérdida de tres exploradores y habla de muertos con quemaduras. No se dan nombres ni posiciones corporales exactas.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "stormform-corpse-pr78",
+      "name": "Parshendi muerto de ojos rojos (PR78)",
+      "role": "Cadáver de forma desconocida para los alezi que arrastran hasta el puente; no se identifica con un adversario anterior.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-corpse78",
+          "scene": "wor-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Expedición · Puente donde traen al parshendi muerto",
+          "placeId": "place-stormform-corpse-bridge-pr78",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_078.xhtml. Expedición · Puente donde traen al parshendi muerto",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-78"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_078.xhtml. El cadáver llega arrastrado; Dalinar ordena arrojarlo al abismo, pero no se narra la ejecución de esa orden.",
+          "needsConfirmation": [],
+          "notes": [
+            "El cadáver llega arrastrado; Dalinar ordena arrojarlo al abismo, pero no se narra la ejecución de esa orden."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "long-armed-bridgeman-pr80",
+      "name": "Hombre del puente de brazos largos (PR80)",
+      "role": "Lleva la orden de regresar desde la cima; no se identifica por su descripción con un miembro nombrado.",
+      "initial": "H",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-bridgeman80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Interior de las Llanuras · Cima rocosa de la exploración",
+          "placeId": "place-central-plains-scout-crest-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Interior de las Llanuras · Cima rocosa de la exploración",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Sube para transmitir la orden de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube para transmitir la orden de Dalinar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taka-royal-guard-pr80",
+      "name": "Taka",
+      "role": "Antiguo guardia del rey que acompaña a Elhokar a la habitación de Kaladin; sin identidad adicional.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary160-taka-room80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Habitación de Kaladin",
+          "placeId": "place-kaladin-private-pr52",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/03_052.xhtml. Barracón del Puente Cuatro · Habitación de Kaladin",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Está junto a Elhokar cuando llega Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a Elhokar cuando llega Kaladin."
+          ]
+        },
+        {
+          "id": "primary160-taka-royal-guard-pr80-dismissed80",
+          "scene": "wor-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barracón del Puente Cuatro · Puerta durante la visita real",
+          "placeId": "place-kaladin-royal-visit-door-pr80",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_080.xhtml. Barracón del Puente Cuatro · Puerta durante la visita real",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary160-wor76-80",
+          "sourceIds": [
+            "primary160-wor76-80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-80"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_080.xhtml. Se retiran de la habitación por orden del rey y cierran la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se retiran de la habitación por orden del rey y cierran la puerta."
+          ]
+        }
+      ]
     }
   ]
 };
