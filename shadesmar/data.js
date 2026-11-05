@@ -2076,26 +2076,41 @@ window.ATLAS_DATA = {
       "stormfather"
     ],
     "wor-interlude-12": [
+      "aesudan",
+      "kholinar-charitable-ardent-i12",
       "lhan",
+      "oolelen-painter-i12",
       "pai"
     ],
     "wor-interlude-13": [
       "eshonai",
-      "venli"
+      "venli",
+      "venli-former-companion-i13",
+      "venli-scholars-i13"
     ],
     "wor-interlude-14": [
       "adrotagia",
       "adrotagia-husband",
       "boriar",
       "dova",
+      "fabrisan",
       "maben",
       "moelach",
       "mrall",
       "nergaoul",
+      "nightwatcher",
+      "pali-invocation-i14",
       "redin",
       "szeth",
       "taravangian",
-      "valam"
+      "taravangian-claimed-veden-princess-i14",
+      "taravangian-cloth-servant-i14",
+      "taravangian-rowers-i14",
+      "taravangian-table-servant-i14",
+      "taravangian-three-assessors-i14",
+      "valam",
+      "valam-succession-scribes-i14",
+      "valam-three-room-guards-i14"
     ],
     "wor-chapter-76": [
       "adolin",
@@ -5930,11 +5945,13 @@ window.ATLAS_DATA = {
           "sceneId": "wor-interlude-14"
         },
         "sourceIds": [
-          "mention89-2fdc4e6bd038ef"
+          "mention89-2fdc4e6bd038ef",
+          "primary159-wor-i12-i14"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, interludio 14: Taravangian y sus colaboradores comentan la disminución de los estertores y el desplazamiento de Moelach. Referencia de la auditoría89; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Conversación sobre Moelach, Susurros de Muerte, Nergaoul y Emoción.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Nombres y atribuciones en la conversación: hipótesis sobre desplazamiento de Moelach y fuerza de la Emoción; no presencia corporal ni localización exacta."
       },
       {
         "id": "archive106-mention89-fact-moelach-91-0",
@@ -5946,11 +5963,13 @@ window.ATLAS_DATA = {
           "sceneId": "wor-interlude-14"
         },
         "sourceIds": [
-          "mention89-2fdc4e6bd038ef"
+          "mention89-2fdc4e6bd038ef",
+          "primary159-wor-i12-i14"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, interludio 14: Taravangian y sus colaboradores comentan la disminución de los estertores y el desplazamiento de Moelach. Referencia de la auditoría89; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Conversación sobre Moelach, Susurros de Muerte, Nergaoul y Emoción.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Nombres y atribuciones en la conversación: hipótesis sobre desplazamiento de Moelach y fuerza de la Emoción; no presencia corporal ni localización exacta."
       },
       {
         "id": "archive106-mention89-fact-moelach-91",
@@ -5979,11 +5998,13 @@ window.ATLAS_DATA = {
           "sceneId": "wor-interlude-14"
         },
         "sourceIds": [
-          "mention89-2fdc4e6bd038ef"
+          "mention89-2fdc4e6bd038ef",
+          "primary159-wor-i12-i14"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, interludio 14: conversación de Taravangian y Adrotagia sobre Nergaoul, la Emoción y la guerra veden. Referencia de la auditoría89; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Conversación sobre Moelach, Susurros de Muerte, Nergaoul y Emoción.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Nombres y atribuciones en la conversación: hipótesis sobre desplazamiento de Moelach y fuerza de la Emoción; no presencia corporal ni localización exacta."
       },
       {
         "id": "archive106-mention89-fact-nergaoul-93",
@@ -5995,11 +6016,13 @@ window.ATLAS_DATA = {
           "sceneId": "wor-interlude-14"
         },
         "sourceIds": [
-          "mention89-2fdc4e6bd038ef"
+          "mention89-2fdc4e6bd038ef",
+          "primary159-wor-i12-i14"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, interludio 14: conversación de Taravangian y Adrotagia sobre Nergaoul, la Emoción y la guerra veden. Referencia de la auditoría89; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Conversación sobre Moelach, Susurros de Muerte, Nergaoul y Emoción.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Nombres y atribuciones en la conversación: hipótesis sobre desplazamiento de Moelach y fuerza de la Emoción; no presencia corporal ni localización exacta."
       },
       {
         "id": "archive107-sja-name",
@@ -8594,6 +8617,74 @@ window.ATLAS_DATA = {
         "supersedes": [],
         "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Sustituyen a los agotaspren cuando Kaladin presenta la gema corazón.",
         "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Sustituyen a los agotaspren cuando Kaladin presenta la gema corazón."
+      },
+      {
+        "id": "primary159-stormform13",
+        "entryId": "spren-type-stormspren",
+        "field": "description",
+        "value": "Venli deja jugar energía entre los dedos y Eshonai organiza a los transformados. La escena describe las nuevas formas, sin introducir aquí un spren individual visible ni ejecutar la tormenta planeada.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-13"
+        },
+        "sourceIds": [
+          "primary159-wor-i12-i14"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Venli deja jugar energía entre los dedos y Eshonai organiza a los transformados. La escena describe las nuevas formas, sin introducir aquí un spren individual visible ni ejecutar la tormenta planeada.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Venli deja jugar energía entre los dedos y Eshonai organiza a los transformados. La escena describe las nuevas formas, sin introducir aquí un spren individual visible ni ejecutar la tormenta planeada."
+      },
+      {
+        "id": "primary159-moelach14",
+        "entryId": "spren-person-moelach",
+        "field": "description",
+        "value": "Taravangian interpreta la caída de Susurros como movimiento hacia el oeste y prefiere averiguar su destino. No conoce una ubicación exacta ni lo ve.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-14"
+        },
+        "sourceIds": [
+          "primary159-wor-i12-i14"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian interpreta la caída de Susurros como movimiento hacia el oeste y prefiere averiguar su destino. No conoce una ubicación exacta ni lo ve.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian interpreta la caída de Susurros como movimiento hacia el oeste y prefiere averiguar su destino. No conoce una ubicación exacta ni lo ve."
+      },
+      {
+        "id": "primary159-nergaoul14",
+        "entryId": "spren-person-nergaoul",
+        "field": "description",
+        "value": "Taravangian lo piensa como un spren antiguo y maligno; Adrotagia propone usar la intensidad de la Emoción para buscarlo. Es una investigación, no hallazgo.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-14"
+        },
+        "sourceIds": [
+          "primary159-wor-i12-i14"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian lo piensa como un spren antiguo y maligno; Adrotagia propone usar la intensidad de la Emoción para buscarlo. Es una investigación, no hallazgo.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian lo piensa como un spren antiguo y maligno; Adrotagia propone usar la intensidad de la Emoción para buscarlo. Es una investigación, no hallazgo."
+      },
+      {
+        "id": "primary159-nightwatcher14",
+        "entryId": "spren-person-nightwatcher",
+        "field": "description",
+        "value": "Taravangian atribuye su condición de inteligencia y compasión opuestas a dones y maldiciones de la Vigilante Nocturna. Recuerda que pidió capacidad para salvar a la humanidad; no se narra una visita actual.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-14"
+        },
+        "sourceIds": [
+          "primary159-wor-i12-i14"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian atribuye su condición de inteligencia y compasión opuestas a dones y maldiciones de la Vigilante Nocturna. Recuerda que pidió capacidad para salvar a la humanidad; no se narra una visita actual.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian atribuye su condición de inteligencia y compasión opuestas a dones y maldiciones de la Vigilante Nocturna. Recuerda que pidió capacidad para salvar a la humanidad; no se narra una visita actual."
       }
     ],
     "links": [
@@ -10830,9 +10921,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-12"
       },
       "sourceIds": [
-        "audit-wore-i12"
+        "audit-wore-i12",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -10845,7 +10937,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance/Interlude_I-12"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Lhan ha sido asignado expresamente como mentor de Pai para el servicio de la reina."
     },
     {
       "id": "audit-wore-rel-lin-davar-shallan-mother-wor-chapter-10",
@@ -13149,9 +13242,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "family74-wor-interlude-14"
+        "family74-wor-interlude-14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "former",
       "supersedes": [],
@@ -13164,7 +13258,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Recuerda al esposo fallecido de Adrotagia, por quien ella quema una glifoguarda cada mañana."
     },
     {
       "id": "family74-roion-roion-son-parent-ob-chapter-2",
@@ -16111,9 +16206,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "audit87-source-5c3a601aa7de2a"
+        "audit87-source-5c3a601aa7de2a",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -16124,7 +16220,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Adrotagia"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vínculo o colaboración explícitos en el pasaje; sin convertir comunicación de Dova en presencia física."
     },
     {
       "id": "review87p1-adolin-rilla",
@@ -16624,9 +16721,10 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "audit87-p2-mrall",
-        "audit87-source-d470798e98dab0"
+        "audit87-source-d470798e98dab0",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -16639,7 +16737,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Mrall"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vínculo o colaboración explícitos en el pasaje; sin convertir comunicación de Dova en presencia física."
     },
     {
       "id": "audit87-p2-hauka-rez",
@@ -17092,7 +17191,7 @@ window.ATLAS_DATA = {
         "bookId": "wor",
         "sceneId": "wor-interlude-14"
       },
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -17101,7 +17200,8 @@ window.ATLAS_DATA = {
       ],
       "sourceIds": [
         "audit87-p3-source-10",
-        "audit87-source-a8aab48e47e368"
+        "audit87-source-a8aab48e47e368",
+        "primary159-wor-i12-i14"
       ],
       "networkEvidence": {
         "kind": "relationship",
@@ -17109,7 +17209,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://es.coppermind.net/wiki/Maben"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vínculo o colaboración explícitos en el pasaje; sin convertir comunicación de Dova en presencia física."
     },
     {
       "id": "audit87-p3-rel-roshone-aric-chapter-5",
@@ -19080,9 +19181,10 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "mention89-417442dc53dd96"
+        "mention89-417442dc53dd96",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
@@ -19095,7 +19197,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://coppermind.net/wiki/Diagram_(group)?mobileaction=toggle_view_mobile"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vínculo o colaboración explícitos en el pasaje; sin convertir comunicación de Dova en presencia física."
     },
     {
       "id": "mention89-rel-cael-95-0",
@@ -22770,6 +22873,33 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "El texto dice que son viudas de oficiales fallecidos."
+      }
+    },
+    {
+      "id": "primary159-claimed-maternal-ancestry",
+      "from": "taravangian-claimed-veden-princess-i14",
+      "to": "taravangian",
+      "kind": "relative",
+      "category": "family",
+      "label": "Ascendencia materna alegada · grado impreciso",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "pending",
+      "certainty": "reported",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam pregunta por un matrimonio con una princesa veden hará unas tres generaciones; Taravangian finge no conocerlo.",
+      "notes": [
+        "No se fija distancia exacta ni se inventan progenitores intermedios o el cónyuge de la princesa."
+      ],
+      "networkEvidence": {
+        "kind": "uncertain",
+        "reason": "Ascendencia alegada y grado aproximado; no corresponde convertirla en genealogía precisa o arista confirmada."
       }
     }
   ],
@@ -28867,13 +28997,14 @@ window.ATLAS_DATA = {
       "type": "conversation",
       "summary": "Analizan el Diagrama y al potenciador que protegió a Dalinar.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -28887,7 +29018,8 @@ window.ATLAS_DATA = {
             "adrotagia"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Intercambios expresos cotejados: evaluación, discusión del Diagrama y sucesión. No añadir Redin–Taravangian por mera copresencia."
     },
     {
       "id": "audit-wore-event-wor-interlude-14-taravangian-mrall-maben",
@@ -28903,13 +29035,14 @@ window.ATLAS_DATA = {
       "type": "conversation",
       "summary": "Mrall exige la evaluación del rey antes de permitirle desayunar.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -28931,7 +29064,8 @@ window.ATLAS_DATA = {
             "maben"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Intercambios expresos cotejados: evaluación, discusión del Diagrama y sucesión. No añadir Redin–Taravangian por mera copresencia."
     },
     {
       "id": "audit-wore-event-wor-interlude-14-valam-redin-taravangian",
@@ -28947,13 +29081,14 @@ window.ATLAS_DATA = {
       "type": "conversation",
       "summary": "Valam determina su sucesión y pide a Redin que termine con su vida.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -28971,7 +29106,8 @@ window.ATLAS_DATA = {
             "taravangian"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Intercambios expresos cotejados: evaluación, discusión del Diagrama y sucesión. No añadir Redin–Taravangian por mera copresencia."
     },
     {
       "id": "audit-wore-event-wor-chapter-81-inadara-pattern",
@@ -29458,13 +29594,14 @@ window.ATLAS_DATA = {
       "type": "conversation",
       "summary": "Debaten la pobreza de la población y los privilegios de los ardientes.",
       "sourceIds": [
-        "audit-wore-i12"
+        "audit-wore-i12",
+        "primary159-wor-i12-i14"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -29478,7 +29615,8 @@ window.ATLAS_DATA = {
             "pai"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Conversan durante el recorrido y al anochecer; desacuerdo sobre privilegios, fe y ejemplo."
     },
     {
       "id": "audit-ob-interaction-2",
@@ -47614,6 +47752,186 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary159-sisters13",
+      "participants": [
+        "eshonai",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-13"
+      },
+      "type": "conversation",
+      "summary": "Debaten cuándo provocar la tormenta; Eshonai la sujeta del hombro y pregunta qué sabe.",
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Debaten cuándo provocar la tormenta; Eshonai la sujeta del hombro y pregunta qué sabe.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Debaten cuándo provocar la tormenta; Eshonai la sujeta del hombro y pregunta qué sabe.",
+        "pairs": [
+          [
+            "eshonai",
+            "venli"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary159-assessors14",
+      "participants": [
+        "taravangian",
+        "taravangian-three-assessors-i14",
+        "mrall"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "type": "conversation",
+      "summary": "Los examinadores comunican restricciones a Mrall y Taravangian las acepta.",
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Los examinadores comunican restricciones a Mrall y Taravangian las acepta.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los examinadores comunican restricciones a Mrall y Taravangian las acepta.",
+        "pairs": [
+          [
+            "taravangian",
+            "taravangian-three-assessors-i14"
+          ],
+          [
+            "mrall",
+            "taravangian-three-assessors-i14"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary159-szeth14",
+      "participants": [
+        "taravangian",
+        "szeth",
+        "adrotagia"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "type": "conversation",
+      "summary": "Szeth describe al potenciador; Taravangian inventa la hoja de Honor desaparecida y le ordena matar a Dalinar evitando al otro hombre.",
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Szeth describe al potenciador; Taravangian inventa la hoja de Honor desaparecida y le ordena matar a Dalinar evitando al otro hombre.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth describe al potenciador; Taravangian inventa la hoja de Honor desaparecida y le ordena matar a Dalinar evitando al otro hombre.",
+        "pairs": [
+          [
+            "taravangian",
+            "szeth"
+          ],
+          [
+            "adrotagia",
+            "szeth"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary159-orders14",
+      "participants": [
+        "taravangian",
+        "adrotagia",
+        "mrall"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "type": "conversation",
+      "summary": "Interpretan la supervivencia de los hombres del puente; ordena activar agentes y Mrall avisa de Valam.",
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Interpretan la supervivencia de los hombres del puente; ordena activar agentes y Mrall avisa de Valam.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Interpretan la supervivencia de los hombres del puente; ordena activar agentes y Mrall avisa de Valam.",
+        "pairs": [
+          [
+            "taravangian",
+            "adrotagia"
+          ],
+          [
+            "taravangian",
+            "mrall"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary159-scribes14",
+      "participants": [
+        "valam",
+        "valam-succession-scribes-i14"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "type": "conversation",
+      "summary": "Valam llama a las escribas y nombra heredero a Taravangian.",
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam llama a las escribas y nombra heredero a Taravangian.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Valam llama a las escribas y nombra heredero a Taravangian.",
+        "pairs": [
+          [
+            "valam",
+            "valam-succession-scribes-i14"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -50663,10 +50981,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Ayuda a interpretar el Diagrama y analiza con Taravangian la situación de Jah Keved.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "audit-wore-fact-mrall-wor-interlude-14",
@@ -50678,10 +50998,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Controla el acceso al rey hasta que se evalúa su capacidad intelectual de ese día.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "audit-wore-fact-maben-wor-interlude-14",
@@ -50693,10 +51015,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Atiende a Taravangian y le lleva la comida durante la escala en Vedenar.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "audit-wore-fact-valam-wor-interlude-14",
@@ -50708,10 +51032,12 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "En su lecho de muerte nombra heredero a Taravangian y pide a Redin que lo mate.",
       "sourceIds": [
-        "audit-wore-i14"
+        "audit-wore-i14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "audit-wore-fact-inadara-wor-chapter-81",
@@ -51049,10 +51375,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Ardiente de la corte de Kholinar que intenta acomodar a Pai a su vida privilegiada.",
       "sourceIds": [
-        "audit-wore-i12"
+        "audit-wore-i12",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Relato completo de la mentoría, denuncia escrita y ejecución narrada; sin destino inventado para Lhan."
     },
     {
       "id": "audit-wore-fact-pai-wor-interlude-12",
@@ -51064,10 +51392,12 @@ window.ATLAS_DATA = {
       "kind": "goals",
       "text": "Denuncia la hipocresía de la corte con glifos de los diez atributos necios y es ejecutada.",
       "sourceIds": [
-        "audit-wore-i12"
+        "audit-wore-i12",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Relato completo de la mentoría, denuncia escrita y ejecución narrada; sin destino inventado para Lhan."
     },
     {
       "id": "audit-wore-fact-black-sword-wor-chapter-88",
@@ -57201,10 +57531,12 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "mention89-2fdc4e6bd038ef"
+        "mention89-2fdc4e6bd038ef",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "mention89-fact-dova-92",
@@ -57217,10 +57549,12 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-2fdc4e6bd038ef",
-        "mention89-417442dc53dd96"
+        "mention89-417442dc53dd96",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "mention89-fact-nergaoul-93",
@@ -57232,10 +57566,12 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "mention89-2fdc4e6bd038ef"
+        "mention89-2fdc4e6bd038ef",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "mention89-fact-boriar-94",
@@ -57248,10 +57584,12 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-9f7bcfea40044c",
-        "mention89-8aa6f6ead5f86e"
+        "mention89-8aa6f6ead5f86e",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes."
     },
     {
       "id": "mention89-fact-cael-95",
@@ -70946,6 +71284,448 @@ window.ATLAS_DATA = {
       "primaryLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llama tía a Navani durante la conversación; no se añade ascendencia intermedia ni nuevo matrimonio.",
       "readingLocator": "EPUB español aportado, OEBPS/Text/04_075.xhtml. Llama tía a Navani durante la conversación; no se añade ascendencia intermedia ni nuevo matrimonio.",
       "supersedes": []
+    },
+    {
+      "id": "primary159-oolelen-painter-i12-12",
+      "characterId": "oolelen-painter-i12",
+      "kind": "background",
+      "text": "Pintor fervoroso al que se atribuye el techo del gran salón oriental. Referencia histórica, sin presencia actual.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-12"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Pintor fervoroso al que se atribuye el techo del gran salón oriental. Referencia histórica, sin presencia actual.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Pintor fervoroso al que se atribuye el techo del gran salón oriental. Referencia histórica, sin presencia actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-kholinar-charitable-ardent-i12-12",
+      "characterId": "kholinar-charitable-ardent-i12",
+      "kind": "background",
+      "text": "Lhan cuenta que repartía los alimentos entre los pobres y murió hace unos años; sin nombre revelado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-12"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Lhan cuenta que repartía los alimentos entre los pobres y murió hace unos años; sin nombre revelado.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Lhan cuenta que repartía los alimentos entre los pobres y murió hace unos años; sin nombre revelado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-aesudan12",
+      "characterId": "aesudan",
+      "kind": "background",
+      "text": "Es esposa de Elhokar y gobierna mientras él está en las Llanuras. Lhan y Pai discrepan sobre su gobierno; no se narra un encuentro con ella en este interludio.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-12"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Es esposa de Elhokar y gobierna mientras él está en las Llanuras. Lhan y Pai discrepan sobre su gobierno; no se narra un encuentro con ella en este interludio.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Es esposa de Elhokar y gobierna mientras él está en las Llanuras. Lhan y Pai discrepan sobre su gobierno; no se narra un encuentro con ella en este interludio.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-lhan-future12",
+      "characterId": "lhan",
+      "kind": "background",
+      "text": "La noticia de revueltas no prueba que muera ni que abandone la ciudad. El milagro de Rener es el nombre de un incendio apagado por una tormenta hace trescientos años, no un personaje presente.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-12"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. La noticia de revueltas no prueba que muera ni que abandone la ciudad. El milagro de Rener es el nombre de un incendio apagado por una tormenta hace trescientos años, no un personaje presente.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. La noticia de revueltas no prueba que muera ni que abandone la ciudad. El milagro de Rener es el nombre de un incendio apagado por una tormenta hace trescientos años, no un personaje presente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-pai-devotary12",
+      "characterId": "pai",
+      "kind": "background",
+      "text": "Pertenece al Devotario de Negación. Su supuesto cambio de nombre al hacerse fervorosa es conjetura de Lhan, no nombre anterior conocido.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-12"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Pertenece al Devotario de Negación. Su supuesto cambio de nombre al hacerse fervorosa es conjetura de Lhan, no nombre anterior conocido.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Pertenece al Devotario de Negación. Su supuesto cambio de nombre al hacerse fervorosa es conjetura de Lhan, no nombre anterior conocido.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-venli-former-companion-i13-13",
+      "characterId": "venli-former-companion-i13",
+      "kind": "background",
+      "text": "Sale con Venli y varias eruditas. El pasaje no da su nombre; no se confirma una correspondencia nominal solo por esta referencia.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-13"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Sale con Venli y varias eruditas. El pasaje no da su nombre; no se confirma una correspondencia nominal solo por esta referencia.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Sale con Venli y varias eruditas. El pasaje no da su nombre; no se confirma una correspondencia nominal solo por esta referencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-venli-scholars-i13-13",
+      "characterId": "venli-scholars-i13",
+      "kind": "background",
+      "text": "Grupo sin número individualizado, cómodo en sus nuevas formas, que la sigue al marcharse.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-13"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Grupo sin número individualizado, cómodo en sus nuevas formas, que la sigue al marcharse.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Grupo sin número individualizado, cómodo en sus nuevas formas, que la sigue al marcharse.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-storm-plan13",
+      "characterId": "venli",
+      "kind": "background",
+      "text": "Afirma que la tormenta soplará en el sentido contrario y lo atribuye a las canciones. Acuerdan esperar la llegada de los humanos; la tormenta todavía no se invoca.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-13"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Afirma que la tormenta soplará en el sentido contrario y lo atribuye a las canciones. Acuerdan esperar la llegada de los humanos; la tormenta todavía no se invoca.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Afirma que la tormenta soplará en el sentido contrario y lo atribuye a las canciones. Acuerdan esperar la llegada de los humanos; la tormenta todavía no se invoca.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-voice13",
+      "characterId": "eshonai",
+      "kind": "background",
+      "text": "La voz interior sigue gritando aunque no armonice con el antiguo Ritmo de la Paz. No se identifica un cuerpo separado del hablante ni un viaje cognitivo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-13"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. La voz interior sigue gritando aunque no armonice con el antiguo Ritmo de la Paz. No se identifica un cuerpo separado del hablante ni un viaje cognitivo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. La voz interior sigue gritando aunque no armonice con el antiguo Ritmo de la Paz. No se identifica un cuerpo separado del hablante ni un viaje cognitivo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-report13",
+      "characterId": "eshonai",
+      "kind": "background",
+      "text": "Venli transmite un informe de un agente no identificado sobre la marcha alezi; no crea un encuentro entre las hermanas y ese agente.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-13"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Venli transmite un informe de un agente no identificado sobre la marcha alezi; no crea un encuentro entre las hermanas y ese agente.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Venli transmite un informe de un agente no identificado sobre la marcha alezi; no crea un encuentro entre las hermanas y ese agente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-taravangian-three-assessors-i14-14",
+      "characterId": "taravangian-three-assessors-i14",
+      "kind": "background",
+      "text": "Grupo de tres predicetormentas que evalúa sus facultades; uno comunica el resultado, sin nombre individual.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Grupo de tres predicetormentas que evalúa sus facultades; uno comunica el resultado, sin nombre individual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-taravangian-table-servant-i14-14",
+      "characterId": "taravangian-table-servant-i14",
+      "kind": "background",
+      "text": "Entra en el camarote con la mesa antes del desayuno.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Entra en el camarote con la mesa antes del desayuno.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-taravangian-cloth-servant-i14-14",
+      "characterId": "taravangian-cloth-servant-i14",
+      "kind": "background",
+      "text": "Lleva un paño húmedo y caliente para limpiarle los ojos y las manos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Lleva un paño húmedo y caliente para limpiarle los ojos y las manos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-taravangian-rowers-i14-14",
+      "characterId": "taravangian-rowers-i14",
+      "kind": "background",
+      "text": "Sirvientes del Diagrama que llevan el bote a las rocas y ayudan a desembarcar.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Sirvientes del Diagrama que llevan el bote a las rocas y ayudan a desembarcar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-valam-three-room-guards-i14-14",
+      "characterId": "valam-three-room-guards-i14",
+      "kind": "background",
+      "text": "Grupo de tres en el pequeño dormitorio del carro; no se confunde con los guardias de la visita a los heridos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Grupo de tres en el pequeño dormitorio del carro; no se confunde con los guardias de la visita a los heridos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-valam-succession-scribes-i14-14",
+      "characterId": "valam-succession-scribes-i14",
+      "kind": "background",
+      "text": "Esperan fuera del dormitorio y asoman al llamarlas el rey; sin nombres ni número individualizado.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Pasaje cotejado en I14; conservar informes e hipótesis como tales, sin nuevas posiciones de sus referentes.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Esperan fuera del dormitorio y asoman al llamarlas el rey; sin nombres ni número individualizado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-lie14",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "La hoja de Honor desaparecida es una explicación que inventa para contener a Szeth, no una noticia comprobada. No se identifica por ello a Kaladin como portador de una hoja de Honor.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. La hoja de Honor desaparecida es una explicación que inventa para contener a Szeth, no una noticia comprobada. No se identifica por ello a Kaladin como portador de una hoja de Honor.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. La hoja de Honor desaparecida es una explicación que inventa para contener a Szeth, no una noticia comprobada. No se identifica por ello a Kaladin como portador de una hoja de Honor.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-diagram14",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "Interpreta que uno de los hombres del puente ha pronunciado al menos el Primer Ideal. Ordena buscarlo: todavía no conoce su nombre. El Diagrama contiene deducciones e interpretaciones fallibles, no omnisciencia confirmada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Interpreta que uno de los hombres del puente ha pronunciado al menos el Primer Ideal. Ordena buscarlo: todavía no conoce su nombre. El Diagrama contiene deducciones e interpretaciones fallibles, no omnisciencia confirmada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Interpreta que uno de los hombres del puente ha pronunciado al menos el Primer Ideal. Ordena buscarlo: todavía no conoce su nombre. El Diagrama contiene deducciones e interpretaciones fallibles, no omnisciencia confirmada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-jasnah14",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "Ante el informe de un potenciador, sospecha primero que Jasnah haya fingido su muerte, y Adrotagia propone a su pupila. Son hipótesis, no encuentros ni una revelación de supervivencia.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Ante el informe de un potenciador, sospecha primero que Jasnah haya fingido su muerte, y Adrotagia propone a su pupila. Son hipótesis, no encuentros ni una revelación de supervivencia.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Ante el informe de un potenciador, sospecha primero que Jasnah haya fingido su muerte, y Adrotagia propone a su pupila. Son hipótesis, no encuentros ni una revelación de supervivencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-mrall14",
+      "characterId": "mrall",
+      "kind": "background",
+      "text": "Afirma que puede desconectar sus emociones a voluntad; se conserva como su afirmación, sin revelar naturaleza o identidad nuevas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Afirma que puede desconectar sus emociones a voluntad; se conserva como su afirmación, sin revelar naturaleza o identidad nuevas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Afirma que puede desconectar sus emociones a voluntad; se conserva como su afirmación, sin revelar naturaleza o identidad nuevas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-fabrisan14",
+      "characterId": "fabrisan",
+      "kind": "background",
+      "text": "Taravangian recuerda haber resuelto el Problema de Fabrisan en un día de gran inteligencia. Es una referencia al problema, no un encuentro con su autor.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian recuerda haber resuelto el Problema de Fabrisan en un día de gran inteligencia. Es una referencia al problema, no un encuentro con su autor.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian recuerda haber resuelto el Problema de Fabrisan en un día de gran inteligencia. Es una referencia al problema, no un encuentro con su autor.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-pali-invocation-i14-14",
+      "characterId": "pali-invocation-i14",
+      "kind": "background",
+      "text": "Nombre invocado por Adrotagia al sorprenderse ante los vítores; no se añade naturaleza, identidad ni presencia.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Nombre invocado por Adrotagia al sorprenderse ante los vítores; no se añade naturaleza, identidad ni presencia.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Nombre invocado por Adrotagia al sorprenderse ante los vítores; no se añade naturaleza, identidad ni presencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-visions14",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "Recuerda que Gavilar le contó sus visiones seis años antes, la noche de su muerte. Se registra como relato histórico; no se trasladan al presente ni se crea una nueva escena de reunión.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Recuerda que Gavilar le contó sus visiones seis años antes, la noche de su muerte. Se registra como relato histórico; no se trasladan al presente ni se crea una nueva escena de reunión.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Recuerda que Gavilar le contó sus visiones seis años antes, la noche de su muerte. Se registra como relato histórico; no se trasladan al presente ni se crea una nueva escena de reunión.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-valam-family14",
+      "characterId": "valam",
+      "kind": "background",
+      "text": "Dice que Redin es el único de sus hijos que sigue vivo. No se convierten sus palabras en muertes individuales de otros hijos identificados ni se inventa la madre de Redin.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Dice que Redin es el único de sus hijos que sigue vivo. No se convierten sus palabras en muertes individuales de otros hijos identificados ni se inventa la madre de Redin.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Dice que Redin es el único de sus hijos que sigue vivo. No se convierten sus palabras en muertes individuales de otros hijos identificados ni se inventa la madre de Redin.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-redin14",
+      "characterId": "redin",
+      "kind": "background",
+      "text": "Es el hijo bastardo que Valam llama padre e hijo en el diálogo. Lo apuñala a petición suya; no se identifica por mero parentesco con la figura sin nombre del rumor de PR34.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Es el hijo bastardo que Valam llama padre e hijo en el diálogo. Lo apuñala a petición suya; no se identifica por mero parentesco con la figura sin nombre del rumor de PR34.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Es el hijo bastardo que Valam llama padre e hijo en el diálogo. Lo apuñala a petición suya; no se identifica por mero parentesco con la figura sin nombre del rumor de PR34.",
+      "supersedes": []
+    },
+    {
+      "id": "primary159-taravangian-claimed-veden-princess-i14-14",
+      "characterId": "taravangian-claimed-veden-princess-i14",
+      "kind": "background",
+      "text": "Valam alude a un matrimonio con una princesa veden unas tres generaciones atrás, por parte materna de Taravangian. Sin nombre, cónyuge ni generaciones exactas demostradas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-14"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam alude a un matrimonio con una princesa veden unas tres generaciones atrás, por parte materna de Taravangian. Sin nombre, cónyuge ni generaciones exactas demostradas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam alude a un matrimonio con una princesa veden unas tres generaciones atrás, por parte materna de Taravangian. Sin nombre, cónyuge ni generaciones exactas demostradas.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -73443,6 +74223,10 @@ window.ATLAS_DATA = {
         {
           "revision": 157,
           "notes": "PR71 padres de Teft y modo de muerte atribuido a su relato; sin posiciones ficticias. PR73 un año antes: padres de Eylita de viaje planeado, Malise hallada muerta y Lin estrangulado tras parálisis. PR74 hijo de Honor/Tanavast no es filiación biológica. PR75 tío Sebarial es cobertura y tía Navani parentesco conocido, sin nuevos padres ni matrimonio cumplido."
+        },
+        {
+          "revision": 159,
+          "notes": "I12 Aesudan esposa de Elhokar conocida; mentoría Lhan/Pai no parentesco. I13 hermanas conocidas y antiguo compañero sin nombre, sin matrimonio nuevo ni identificación por deducción. I14 esposo muerto de Adrotagia, Redin hijo de Valam ya conocido; afirmación de único hijo vivo sin muerte individual de otros hijos. Princesa veden de ascendencia materna alegada: vínculo pendiente de grado impreciso, sin padres intermedios ni cónyuge inventados. Rumor34 no se retrospecta como esta muerte por puñalada."
         }
       ]
     }
@@ -73832,12 +74616,14 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-12"
       },
       "sourceIds": [
-        "wor-i12"
+        "wor-i12",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "La muerte se conoce en este interludio; el destino de Lhan no se deduce de los disturbios."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. El narrador afirma que Pai fue ejecutada a la mañana siguiente del hallazgo de sus glifos. Las revueltas empiezan esa tarde, no la misma noche de la conversación."
     },
     {
       "id": "life-valam-wor-chapter-34",
@@ -73867,12 +74653,14 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "wor-i14"
+        "wor-i14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "El interludio narra el fallecimiento. Su posición de lectura no implica que ocurra después del informe del capítulo 34."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam pide a Redin que lo apuñale; muere y aparece su hoja. No se demuestra que sea la muerte por enfermedad rumoreada en PR34."
     },
     {
       "id": "life-syl-wor-chapter-84",
@@ -74295,12 +75083,14 @@ window.ATLAS_DATA = {
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "family74-wor-interlude-14"
+        "family74-wor-interlude-14",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Familiar descrito como fallecido en el pasaje que revela el vínculo; no implica ubicación de la muerte."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. El marido de Adrotagia está muerto, sin fecha o lugar indicados."
     },
     {
       "id": "family74-early-death-lin-davar",
@@ -74962,12 +75752,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-9f7bcfea40044c",
-        "mention89-8aa6f6ead5f86e"
+        "mention89-8aa6f6ead5f86e",
+        "primary159-wor-i12-i14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Taravangian dice que Boriar y los demás altos príncipes están muertos; noticia sin cuerpo ni ubicación."
     },
     {
       "id": "mention89-life-cael",
@@ -76030,6 +76822,23 @@ window.ATLAS_DATA = {
       "notes": [
         "No se inventa culpable del veneno ni posición del cadáver."
       ]
+    },
+    {
+      "id": "primary159-charitable-ardent-death12",
+      "characterId": "kholinar-charitable-ardent-i12",
+      "state": "reported-dead",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-interlude-12"
+      },
+      "sourceIds": [
+        "primary159-wor-i12-i14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Lhan dice que murió hace unos años; no fija fecha ni lugar de muerte.",
+      "notes": [
+        "Muerte relatada, sin marcador corporal."
+      ]
     }
   ],
   "bookId": "wok",
@@ -76060,7 +76869,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 158,
+  "revision": 159,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -106338,7 +107147,7 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Vedenar · Campamento de asistencia en el campo de batalla",
@@ -106353,13 +107162,14 @@ window.ATLAS_DATA = {
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -106376,11 +107186,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-szeth-leaves14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Salida de Szeth del campamento",
+          "placeId": "place-szeth-camp-exit-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Salida de Szeth del campamento",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Se marcha tras aceptar la orden; no se narra llegada a Dalinar ni asesinato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marcha tras aceptar la orden; no se narra llegada a Dalinar ni asesinato."
+          ]
         },
         {
           "id": "wor-szeth-chapter-84-01",
@@ -143869,25 +144725,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Barco de Taravangian",
-          "placeId": "place-taravangian-vedenar-ship",
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "El punto de ciudad no identifica el muelle ni el fondeo."
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             594.958,
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -143904,18 +144761,160 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-taravangian-deck14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Cubierta junto a la borda",
+          "placeId": "place-taravangian-deck-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Cubierta junto a la borda",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Salen del camarote y observan la ciudad destruida desde la borda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen del camarote y observan la ciudad destruida desde la borda."
+          ]
+        },
+        {
+          "id": "primary159-taravangian-boat14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Bote hacia la orilla",
+          "placeId": "place-vedenar-rowboat-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Bote hacia la orilla",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Van en bote a la orilla; no se trata de un nuevo viaje a Kharbranth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Van en bote a la orilla; no se trata de un nuevo viaje a Kharbranth."
+          ]
+        },
+        {
+          "id": "primary159-taravangian-shore14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Desembarco en las rocas de la bahía",
+          "placeId": "place-vedenar-rocky-shore-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Desembarco en las rocas de la bahía",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Desembarcan y caminan entre las rocas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desembarcan y caminan entre las rocas."
+          ]
         },
         {
           "id": "wor-taravangian-interlude-14-02",
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Vedenar · Campamento de asistencia en el campo de batalla",
@@ -143930,13 +144929,14 @@ window.ATLAS_DATA = {
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -143953,10 +144953,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -143964,28 +144962,29 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 9,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Campamento de asistencia en el campo de batalla",
-          "placeId": "place-vedenar-healing-camp",
+          "place": "Vedenar · Tienda provisional del Diagrama en el sendero",
+          "placeId": "place-taravangian-diagram-tent-i14",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "El campo exterior se aproxima con el anclaje urbano; no representa una ubicación dentro de la ciudad."
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Tienda provisional del Diagrama en el sendero",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             594.958,
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -144002,12 +145001,106 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": [
             "La consulta del Diagrama no localiza por sí sola a las personas o spren mencionados."
+          ]
+        },
+        {
+          "id": "primary159-taravangian-caravans14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 12,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Círculo de carros al otro lado de la colina",
+          "placeId": "place-valam-wagon-ring-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Círculo de carros al otro lado de la colina",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Cruzan la colina y entran en el círculo de carros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruzan la colina y entran en el círculo de carros."
+          ]
+        },
+        {
+          "id": "primary159-taravangian-threshold14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 13,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carromato de Valam · Puerta del dormitorio",
+          "placeId": "place-valam-wagon-threshold-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Carromato de Valam · Puerta del dormitorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Se detienen inicialmente fuera del dormitorio lleno de guardias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se detienen inicialmente fuera del dormitorio lleno de guardias."
           ]
         },
         {
@@ -144015,10 +145108,10 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 4,
+          "memoryOrder": 14,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Dependencias de Valam moribundo",
+          "place": "Vedenar · Carromato de Valam · Dormitorio",
           "placeId": "place-vedenar-valam-tent",
           "realm": "physical",
           "placeNotes": [
@@ -144030,13 +145123,14 @@ window.ATLAS_DATA = {
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -144053,11 +145147,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-taravangian-alone14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 17,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Carromato de Valam · Dormitorio",
+          "placeId": "place-vedenar-valam-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada.",
+            "Dependencia exacta pendiente de cotejo; no se afirma una coordenada de tienda o edificio."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Permanece solo junto al cadáver; finge querer rezar, pero se sienta a pensar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece solo junto al cadáver; finge querer rezar, pero se sienta a pensar."
+          ]
         },
         {
           "id": "ob-taravangian-chapter-12-01",
@@ -166059,24 +167199,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Narak · Meseta central",
-          "placeId": "place-narak",
+          "place": "Narak · Meseta circular de instrucción ante la ciudad",
+          "placeId": "place-narak-circular-training-i13",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta.",
-            "Se conserva el anclaje general de las Llanuras Quebradas hasta disponer de un plano regional calibrado."
+            "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Narak · Meseta circular de instrucción ante la ciudad",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i13",
           "sourceIds": [
-            "wor-i13"
+            "wor-i13",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -166093,11 +167234,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-13"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Caminan por la meseta perfectamente circular situada ante Narak, donde organizan las tropas.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-eshonai-remains13",
+          "scene": "wor-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Meseta circular de instrucción ante la ciudad",
+          "placeId": "place-narak-circular-training-i13",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Narak · Meseta circular de instrucción ante la ciudad",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-13"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Permanece organizando otro batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece organizando otro batallón."
+          ]
         },
         {
           "id": "wor-eshonai-chapter-83-01",
@@ -166783,24 +167970,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Narak · Meseta central",
-          "placeId": "place-narak",
+          "place": "Narak · Meseta circular de instrucción ante la ciudad",
+          "placeId": "place-narak-circular-training-i13",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta.",
-            "Se conserva el anclaje general de las Llanuras Quebradas hasta disponer de un plano regional calibrado."
+            "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Narak · Meseta circular de instrucción ante la ciudad",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             756.972,
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i13",
           "sourceIds": [
-            "wor-i13"
+            "wor-i13",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -166817,11 +168005,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-13"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Caminan por la meseta perfectamente circular situada ante Narak, donde organizan las tropas.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-venli-exit13",
+          "scene": "wor-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Salida de la meseta de instrucción",
+          "placeId": "place-narak-training-exit-i13",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Narak · Salida de la meseta de instrucción",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-13"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Se marchan de la meseta, sin llegada a un destino declarado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marchan de la meseta, sin llegada a un destino declarado."
+          ]
         },
         {
           "id": "ob78-venli-i3-1",
@@ -176331,10 +177565,10 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 14,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Dependencias de Valam moribundo",
+          "place": "Vedenar · Carromato de Valam · Dormitorio",
           "placeId": "place-vedenar-valam-tent",
           "realm": "physical",
           "placeNotes": [
@@ -176346,13 +177580,14 @@ window.ATLAS_DATA = {
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -176369,11 +177604,57 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-redin-exit14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 15,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Círculo de carros al otro lado de la colina",
+          "placeId": "place-valam-wagon-ring-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Círculo de carros al otro lado de la colina",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Tras apuñalar a su padre sale del carro hacia la luz del día.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras apuñalar a su padre sale del carro hacia la luz del día."
+          ]
         }
       ]
     },
@@ -181685,11 +182966,58 @@ window.ATLAS_DATA = {
       "importanceReason": "Protagoniza un interludio con perspectiva propia sobre Kholinar.",
       "events": [
         {
-          "id": "wor-lhan-interlude-12-01",
+          "id": "primary159-lhan-monastery12",
           "scene": "wor-interlude-12",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Monasterio de los ardientes",
+          "placeId": "place-kholinar-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Lhan presenta su función de mentor antes de salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lhan presenta su función de mentor antes de salir."
+          ]
+        },
+        {
+          "id": "wor-lhan-interlude-12-01",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Kholinar · Círculo de los Recuerdos",
@@ -181703,13 +183031,14 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i12",
           "sourceIds": [
             "wor-i12",
-            "wor-i12-coppermind"
+            "wor-i12-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -181726,18 +183055,64 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Entran juntos en el Círculo de Memorias.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-lhan-sun12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Galería cubierta y camino del sol",
+          "placeId": "place-kholinar-sun-walk-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Kholinar · Galería cubierta y camino del sol",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Recorren galerías cubiertas y el camino del sol; Kholinar se ve desde allí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorren galerías cubiertas y el camino del sol; Kholinar se ve desde allí."
+          ]
         },
         {
           "id": "wor-lhan-interlude-12-02",
           "scene": "wor-interlude-12",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Kholinar · Palacio · Salón oriental",
@@ -181751,13 +183126,14 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i12",
           "sourceIds": [
             "wor-i12",
-            "wor-i12-coppermind"
+            "wor-i12-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -181774,11 +183150,345 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Entran en el gran salón oriental del palacio.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-lhan-stairs12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Escaleras hacia las cocinas",
+          "placeId": "place-kholinar-stairs-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Escaleras hacia las cocinas",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Bajan por las escaleras hacia las cocinas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bajan por las escaleras hacia las cocinas."
+          ]
+        },
+        {
+          "id": "primary159-lhan-kitchen12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Cocinas",
+          "placeId": "place-kholinar-kitchen-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Cocinas",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Cruzan las cocinas; Lhan toma pan frito.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruzan las cocinas; Lhan toma pan frito."
+          ]
+        },
+        {
+          "id": "primary159-lhan-yard12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Patio de servicio bajo el alero",
+          "placeId": "place-kholinar-service-yard-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Patio de servicio bajo el alero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Discuten ante los alimentos desperdiciados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discuten ante los alimentos desperdiciados."
+          ]
+        },
+        {
+          "id": "primary159-lhan-watch12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Interior junto al patio de servicio",
+          "placeId": "place-kholinar-service-door-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Interior junto al patio de servicio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Se aparta y observa a Pai desde el interior antes de irse; no se precisa dónde recibe el masaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se aparta y observa a Pai desde el interior antes de irse; no se precisa dónde recibe el masaje."
+          ]
+        },
+        {
+          "id": "primary159-lhan-dinner12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Cocinas",
+          "placeId": "place-kholinar-kitchen-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Cocinas",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Cena en las cocinas después del masaje, mientras Pai sigue junto a los alimentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cena en las cocinas después del masaje, mientras Pai sigue junto a los alimentos."
+          ]
+        },
+        {
+          "id": "primary159-lhan-last-talk12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Patio de servicio bajo el alero",
+          "placeId": "place-kholinar-service-yard-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Patio de servicio bajo el alero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Al anochecer retoman la discusión; Pai decide permanecer en Kholinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al anochecer retoman la discusión; Pai decide permanecer en Kholinar."
+          ]
+        },
+        {
+          "id": "primary159-lhan-peoples-hall12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 12,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Salón del Pueblo",
+          "placeId": "place-kholinar-peoples-hall-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Kholinar · Salón del Pueblo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Acude por la mañana y se abre paso entre los fervorosos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acude por la mañana y se abre paso entre los fervorosos."
+          ]
         }
       ]
     },
@@ -181792,11 +183502,58 @@ window.ATLAS_DATA = {
       "importanceReason": "Conduce la acción del interludio de Kholinar con una iniciativa propia.",
       "events": [
         {
-          "id": "wor-pai-interlude-12-01",
+          "id": "primary159-pai-monastery12",
           "scene": "wor-interlude-12",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Monasterio de los ardientes",
+          "placeId": "place-kholinar-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Lhan presenta su función de mentor antes de salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lhan presenta su función de mentor antes de salir."
+          ]
+        },
+        {
+          "id": "wor-pai-interlude-12-01",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Kholinar · Círculo de los Recuerdos",
@@ -181810,13 +183567,14 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i12",
           "sourceIds": [
             "wor-i12",
-            "wor-i12-coppermind"
+            "wor-i12-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -181833,18 +183591,64 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Entran juntos en el Círculo de Memorias.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-pai-sun12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Galería cubierta y camino del sol",
+          "placeId": "place-kholinar-sun-walk-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Kholinar · Galería cubierta y camino del sol",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Recorren galerías cubiertas y el camino del sol; Kholinar se ve desde allí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorren galerías cubiertas y el camino del sol; Kholinar se ve desde allí."
+          ]
         },
         {
           "id": "wor-pai-interlude-12-02",
           "scene": "wor-interlude-12",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Kholinar · Palacio · Salón oriental",
@@ -181858,13 +183662,14 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i12",
           "sourceIds": [
             "wor-i12",
-            "wor-i12-coppermind"
+            "wor-i12-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -181881,61 +183686,296 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Entran en el gran salón oriental del palacio.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-pai-interlude-12-03",
+          "id": "primary159-pai-stairs12",
           "scene": "wor-interlude-12",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 3,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Kholinar · Lugar de ejecución por precisar",
-          "placeId": "place-kholinar-pai-execution",
+          "place": "Palacio de Kholinar · Escaleras hacia las cocinas",
+          "placeId": "place-kholinar-stairs-i12",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "No se deduce una plaza o un edificio concreto a partir de la ejecución."
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Escaleras hacia las cocinas",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             721.177,
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-i12",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
           "sourceIds": [
-            "wor-i12",
-            "wor-i12-coppermind"
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
           "coordinateAnchorName": "Kholinar · anclaje de ciudad",
           "storyTime": {
+            "frame": "present",
             "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
             "date": null,
             "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura; los interludios no prueban simultaneidad ni sucesión histórica exacta respecto a los capítulos vecinos."
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-interlude-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Bajan por las escaleras hacia las cocinas.",
+          "needsConfirmation": [],
           "notes": [
-            "El lugar exacto de la ejecución está pendiente; conservar el anclaje de ciudad."
+            "Bajan por las escaleras hacia las cocinas."
+          ]
+        },
+        {
+          "id": "primary159-pai-kitchen12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Cocinas",
+          "placeId": "place-kholinar-kitchen-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Cocinas",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Cruzan las cocinas; Lhan toma pan frito.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruzan las cocinas; Lhan toma pan frito."
+          ]
+        },
+        {
+          "id": "primary159-pai-yard12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Patio de servicio bajo el alero",
+          "placeId": "place-kholinar-service-yard-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Patio de servicio bajo el alero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Discuten ante los alimentos desperdiciados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discuten ante los alimentos desperdiciados."
+          ]
+        },
+        {
+          "id": "primary159-pai-last-talk12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Patio de servicio bajo el alero",
+          "placeId": "place-kholinar-service-yard-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Patio de servicio bajo el alero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Al anochecer retoman la discusión; Pai decide permanecer en Kholinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al anochecer retoman la discusión; Pai decide permanecer en Kholinar."
+          ]
+        },
+        {
+          "id": "primary159-pai-exit12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 11,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Salida del patio tras la conversación",
+          "placeId": "place-pai-service-exit-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Palacio de Kholinar · Salida del patio tras la conversación",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Se marcha sin destino declarado en ese momento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marcha sin destino declarado en ese momento."
+          ]
+        },
+        {
+          "id": "primary159-pai-peoples-hall12",
+          "scene": "wor-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 12,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Salón del Pueblo",
+          "placeId": "place-kholinar-peoples-hall-i12",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Kholinar · Salón del Pueblo",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-12"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_012.xhtml. Está arrodillada ante sus glifos de condena del gobierno; el trabajo nocturno se conoce por el relato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está arrodillada ante sus glifos de condena del gobierno; el trabajo nocturno se conoce por el relato."
           ]
         }
       ]
@@ -181957,25 +183997,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Campamento de asistencia en el campo de batalla",
-          "placeId": "place-vedenar-healing-camp",
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "El campo exterior se aproxima con el anclaje urbano; no representa una ubicación dentro de la ciudad."
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             594.958,
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -181992,39 +184033,230 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-adrotagia-interlude-14-02",
+          "id": "primary159-adrotagia-deck14",
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Campamento de asistencia en el campo de batalla",
-          "placeId": "place-vedenar-healing-camp",
+          "place": "Vedenar · Cubierta junto a la borda",
+          "placeId": "place-taravangian-deck-i14",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "El campo exterior se aproxima con el anclaje urbano; no representa una ubicación dentro de la ciudad."
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Cubierta junto a la borda",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             594.958,
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Salen del camarote y observan la ciudad destruida desde la borda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen del camarote y observan la ciudad destruida desde la borda."
+          ]
+        },
+        {
+          "id": "primary159-adrotagia-boat14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Bote hacia la orilla",
+          "placeId": "place-vedenar-rowboat-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Bote hacia la orilla",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Van en bote a la orilla; no se trata de un nuevo viaje a Kharbranth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Van en bote a la orilla; no se trata de un nuevo viaje a Kharbranth."
+          ]
+        },
+        {
+          "id": "primary159-adrotagia-shore14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Desembarco en las rocas de la bahía",
+          "placeId": "place-vedenar-rocky-shore-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Desembarco en las rocas de la bahía",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Desembarcan y caminan entre las rocas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desembarcan y caminan entre las rocas."
+          ]
+        },
+        {
+          "id": "primary159-adro-ship14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Barco de Taravangian",
+          "placeId": "place-taravangian-vedenar-ship",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada.",
+            "El punto de ciudad no identifica el muelle ni el fondeo."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vuelve al barco para buscar el Diagrama y los examinadores.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al barco para buscar el Diagrama y los examinadores."
+          ]
+        },
+        {
+          "id": "wor-adrotagia-interlude-14-02",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Tienda provisional del Diagrama en el sendero",
+          "placeId": "place-taravangian-diagram-tent-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Tienda provisional del Diagrama en el sendero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -182041,12 +184273,58 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": [
             "La consulta del Diagrama no localiza por sí sola a las personas o spren mencionados."
+          ]
+        },
+        {
+          "id": "primary159-adro-exit14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda del Diagrama · Salida de Adrotagia para enviar órdenes",
+          "placeId": "place-adrotagia-orders-exit-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Tienda del Diagrama · Salida de Adrotagia para enviar órdenes",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Sale para ordenar el envío de agentes; no se la sitúa después con Valam.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale para ordenar el envío de agentes; no se la sitúa después con Valam."
           ]
         },
         {
@@ -182256,25 +184534,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Barco de Taravangian",
-          "placeId": "place-taravangian-vedenar-ship",
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "El punto de ciudad no identifica el muelle ni el fondeo."
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             594.958,
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -182291,11 +184570,441 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary159-mrall-deck14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Cubierta junto a la borda",
+          "placeId": "place-taravangian-deck-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Cubierta junto a la borda",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Salen del camarote y observan la ciudad destruida desde la borda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen del camarote y observan la ciudad destruida desde la borda."
+          ]
+        },
+        {
+          "id": "primary159-mrall-boat14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Bote hacia la orilla",
+          "placeId": "place-vedenar-rowboat-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Bote hacia la orilla",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Van en bote a la orilla; no se trata de un nuevo viaje a Kharbranth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Van en bote a la orilla; no se trata de un nuevo viaje a Kharbranth."
+          ]
+        },
+        {
+          "id": "primary159-mrall-shore14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Desembarco en las rocas de la bahía",
+          "placeId": "place-vedenar-rocky-shore-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Desembarco en las rocas de la bahía",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Desembarcan y caminan entre las rocas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desembarcan y caminan entre las rocas."
+          ]
+        },
+        {
+          "id": "primary159-mrall-camp14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Campamento de asistencia en el campo de batalla",
+          "placeId": "place-vedenar-healing-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada.",
+            "El campo exterior se aproxima con el anclaje urbano; no representa una ubicación dentro de la ciudad."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Acompaña la visita a los soldados y ordena separarlos al advertir el problema con Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña la visita a los soldados y ordena separarlos al advertir el problema con Szeth."
+          ]
+        },
+        {
+          "id": "primary159-mrall-tent14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 11,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Tienda provisional del Diagrama en el sendero",
+          "placeId": "place-taravangian-diagram-tent-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Tienda provisional del Diagrama en el sendero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Entra para avisar que Valam se muere.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra para avisar que Valam se muere."
+          ]
+        },
+        {
+          "id": "primary159-mrall-caravans14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 12,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Círculo de carros al otro lado de la colina",
+          "placeId": "place-valam-wagon-ring-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Círculo de carros al otro lado de la colina",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Cruzan la colina y entran en el círculo de carros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruzan la colina y entran en el círculo de carros."
+          ]
+        },
+        {
+          "id": "primary159-mrall-threshold14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 13,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carromato de Valam · Puerta del dormitorio",
+          "placeId": "place-valam-wagon-threshold-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Carromato de Valam · Puerta del dormitorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Se detienen inicialmente fuera del dormitorio lleno de guardias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se detienen inicialmente fuera del dormitorio lleno de guardias."
+          ]
+        },
+        {
+          "id": "primary159-mrall-room14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 14,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Carromato de Valam · Dormitorio",
+          "placeId": "place-vedenar-valam-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada.",
+            "Dependencia exacta pendiente de cotejo; no se afirma una coordenada de tienda o edificio."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Está en el dormitorio antes de salir con los demás para dejar solo a Taravangian.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el dormitorio antes de salir con los demás para dejar solo a Taravangian."
+          ]
+        },
+        {
+          "id": "primary159-mrall-outside14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 16,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Círculo de carros al otro lado de la colina",
+          "placeId": "place-valam-wagon-ring-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Círculo de carros al otro lado de la colina",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Salen del dormitorio para dejar a Taravangian a solas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen del dormitorio para dejar a Taravangian a solas."
+          ]
         },
         {
           "id": "ob-mrall-chapter-24-03",
@@ -182365,25 +185074,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Barco de Taravangian",
-          "placeId": "place-taravangian-vedenar-ship",
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; la dependencia exacta no está cartografiada.",
-            "El punto de ciudad no identifica el muelle ni el fondeo."
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             594.958,
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -182400,10 +185110,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
         }
       ]
@@ -182422,10 +185130,10 @@ window.ATLAS_DATA = {
           "scene": "wor-interlude-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 14,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Vedenar · Dependencias de Valam moribundo",
+          "place": "Vedenar · Carromato de Valam · Dormitorio",
           "placeId": "place-vedenar-valam-tent",
           "realm": "physical",
           "placeNotes": [
@@ -182437,13 +185145,14 @@ window.ATLAS_DATA = {
             426.334
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-i14",
           "sourceIds": [
             "wor-i14",
-            "wor-i14-coppermind"
+            "wor-i14-coppermind",
+            "primary159-wor-i12-i14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -182460,10 +185169,8 @@ window.ATLAS_DATA = {
             "bookId": "wor",
             "sceneId": "wor-interlude-14"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia, secuencia y traducción con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Presencia individual cotejada; se conservan las fases de barco, costa, campo, tienda y carromato.",
+          "needsConfirmation": [],
           "notes": []
         }
       ]
@@ -217587,6 +220294,710 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "oolelen-painter-i12",
+      "name": "Oolelen",
+      "role": "Pintor fervoroso al que se atribuye el techo del gran salón oriental. Referencia histórica, sin presencia actual.",
+      "initial": "O",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "kholinar-charitable-ardent-i12",
+      "name": "Fervorosa que distribuía alimentos (I12)",
+      "role": "Lhan cuenta que repartía los alimentos entre los pobres y murió hace unos años; sin nombre revelado.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "venli-former-companion-i13",
+      "name": "Antiguo compañero que sigue a Venli (I13)",
+      "role": "Sale con Venli y varias eruditas. El pasaje no da su nombre; no se confirma una correspondencia nominal solo por esta referencia.",
+      "initial": "A",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-venli-former-companion-i13-exit13",
+          "scene": "wor-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Salida de la meseta de instrucción",
+          "placeId": "place-narak-training-exit-i13",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Narak · Salida de la meseta de instrucción",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-13"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Se marchan de la meseta, sin llegada a un destino declarado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marchan de la meseta, sin llegada a un destino declarado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venli-scholars-i13",
+      "name": "Eruditas que acompañan a Venli (I13)",
+      "role": "Grupo sin número individualizado, cómodo en sus nuevas formas, que la sigue al marcharse.",
+      "initial": "E",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-venli-scholars-i13-exit13",
+          "scene": "wor-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Salida de la meseta de instrucción",
+          "placeId": "place-narak-training-exit-i13",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Narak · Salida de la meseta de instrucción",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-13"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_013.xhtml. Se marchan de la meseta, sin llegada a un destino declarado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se marchan de la meseta, sin llegada a un destino declarado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taravangian-three-assessors-i14",
+      "name": "Tres examinadores de Taravangian (I14)",
+      "role": "Grupo de tres predicetormentas que evalúa sus facultades; uno comunica el resultado, sin nombre individual.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-taravangian-three-assessors-i14-cabin14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Servicio y evaluación matutina, sin desplazamiento posterior supuesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Servicio y evaluación matutina, sin desplazamiento posterior supuesto."
+          ]
+        },
+        {
+          "id": "primary159-assessors-retire14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Barco de Taravangian · Camarotes de los examinadores",
+          "placeId": "place-assessors-cabins-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Barco de Taravangian · Camarotes de los examinadores",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Se retiran a sus propios camarotes al terminar las pruebas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se retiran a sus propios camarotes al terminar las pruebas."
+          ]
+        },
+        {
+          "id": "primary159-assessors-tent14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Tienda provisional del Diagrama en el sendero",
+          "placeId": "place-taravangian-diagram-tent-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Tienda provisional del Diagrama en el sendero",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Regresan con Adrotagia e instalan la tienda alrededor de Taravangian.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan con Adrotagia e instalan la tienda alrededor de Taravangian."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taravangian-table-servant-i14",
+      "name": "Criado que lleva la mesa (I14)",
+      "role": "Entra en el camarote con la mesa antes del desayuno.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-taravangian-table-servant-i14-cabin14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Servicio y evaluación matutina, sin desplazamiento posterior supuesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Servicio y evaluación matutina, sin desplazamiento posterior supuesto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taravangian-cloth-servant-i14",
+      "name": "Criado del paño caliente (I14)",
+      "role": "Lleva un paño húmedo y caliente para limpiarle los ojos y las manos.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-taravangian-cloth-servant-i14-cabin14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Camarote de Taravangian",
+          "placeId": "place-taravangian-cabin-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Camarote de Taravangian",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Servicio y evaluación matutina, sin desplazamiento posterior supuesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Servicio y evaluación matutina, sin desplazamiento posterior supuesto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taravangian-rowers-i14",
+      "name": "Remeros del desembarco (I14)",
+      "role": "Sirvientes del Diagrama que llevan el bote a las rocas y ayudan a desembarcar.",
+      "initial": "R",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-rowers-boat14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Bote hacia la orilla",
+          "placeId": "place-vedenar-rowboat-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Bote hacia la orilla",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Reman hasta las rocas de la bahía.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reman hasta las rocas de la bahía."
+          ]
+        },
+        {
+          "id": "primary159-rowers-shore14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Desembarco en las rocas de la bahía",
+          "placeId": "place-vedenar-rocky-shore-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Desembarco en las rocas de la bahía",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Saltan al agua, tiran de las cuerdas y ayudan al rey a desembarcar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Saltan al agua, tiran de las cuerdas y ayudan al rey a desembarcar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valam-three-room-guards-i14",
+      "name": "Tres guardias del dormitorio de Valam (I14)",
+      "role": "Grupo de tres en el pequeño dormitorio del carro; no se confunde con los guardias de la visita a los heridos.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-guards-room14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 14,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Carromato de Valam · Dormitorio",
+          "placeId": "place-vedenar-valam-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; la dependencia exacta no está cartografiada.",
+            "Dependencia exacta pendiente de cotejo; no se afirma una coordenada de tienda o edificio."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Tres guardias ocupan el dormitorio y dejan paso por orden del rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tres guardias ocupan el dormitorio y dejan paso por orden del rey."
+          ]
+        },
+        {
+          "id": "primary159-valam-three-room-guards-i14-outside14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 16,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Círculo de carros al otro lado de la colina",
+          "placeId": "place-valam-wagon-ring-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Vedenar · Círculo de carros al otro lado de la colina",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Salen del dormitorio para dejar a Taravangian a solas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen del dormitorio para dejar a Taravangian a solas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valam-succession-scribes-i14",
+      "name": "Escribas de la sucesión de Valam (I14)",
+      "role": "Esperan fuera del dormitorio y asoman al llamarlas el rey; sin nombres ni número individualizado.",
+      "initial": "E",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary159-scribes-door14",
+          "scene": "wor-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 14,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carromato de Valam · Puerta del dormitorio",
+          "placeId": "place-valam-wagon-threshold-i14",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Carromato de Valam · Puerta del dormitorio",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary159-wor-i12-i14",
+          "sourceIds": [
+            "primary159-wor-i12-i14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-interlude-14"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Se levantan fuera de la habitación y asoman la cabeza al ser llamadas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se levantan fuera de la habitación y asoman la cabeza al ser llamadas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pali-invocation-i14",
+      "name": "Pali",
+      "role": "Nombre invocado por Adrotagia al sorprenderse ante los vítores; no se añade naturaleza, identidad ni presencia.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "taravangian-claimed-veden-princess-i14",
+      "name": "Princesa veden de la ascendencia alegada",
+      "role": "Valam alude a un matrimonio con una princesa veden unas tres generaciones atrás, por parte materna de Taravangian. Sin nombre, cónyuge ni generaciones exactas demostradas.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
     }
   ]
 };
