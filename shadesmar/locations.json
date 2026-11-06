@@ -1003,6 +1003,7 @@
       "mart",
       "moash",
       "navani",
+      "nazh-note-pr-end",
       "pinnacle-questioning-guard-pr5",
       "renarin",
       "rock",
@@ -1072,6 +1073,7 @@
       "shallan-mother"
     ],
     "wor-chapter-11": [
+      "nazh-note-pr-end",
       "pattern",
       "shallan",
       "tvlakv",
@@ -1175,6 +1177,7 @@
     ],
     "wor-chapter-17": [
       "bluth",
+      "nazh-note-pr-end",
       "pattern",
       "shallan",
       "tag",
@@ -1239,6 +1242,7 @@
       "kaladin",
       "kalishor",
       "leyten",
+      "liafor-fashion-model-reference-pr22",
       "lopen",
       "lopen-mother",
       "mart",
@@ -1597,9 +1601,11 @@
       "balat",
       "davar-fair-messenger-pr45",
       "dreder-mentioned-pr45",
+      "elhokar",
       "eylita",
       "eylita-mother",
       "fair-bird-merchant-pr45",
+      "gavilar",
       "hasheh-tutor",
       "helaran",
       "jix",
@@ -1690,6 +1696,7 @@
       "adolin",
       "adolin-guard-pr49-1",
       "adolin-guard-pr49-2",
+      "azir-fashion-models-reference-pr49",
       "navani",
       "pattern",
       "shallan",
@@ -1760,6 +1767,7 @@
       "shallan"
     ],
     "wor-chapter-54": [
+      "cora-hacha-illustration-author-pr54",
       "hills-hired-driver-pr54",
       "hills-parshmen-porters-pr54",
       "iyatil",
@@ -9258,6 +9266,23 @@
         "supersedes": [],
         "primaryLocator": "EPUB español aportado, OEBPS/Text/08_ars.xhtml. Las Diez Potencias y asociaciones históricas.",
         "readingLocator": "Ars Arcanum, no epílogo narrativo."
+      },
+      {
+        "id": "primary174-pattern-study",
+        "entryId": "spren-person-pattern",
+        "field": "appearance",
+        "value": "Lámina de estudio: formas de líneas cambiantes, ritmos variables y divisiones que parecen consistentes. La autora no conoce aún la causa de las diferencias; las partes tachadas permanecen ilegibles.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-17"
+        },
+        "sourceIds": [
+          "primary174-wor-illustrations"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA05.xhtml; OEBPS/Images/Ilustracion_05.jpeg. Estudio ilustrado de Patrón, anotación y tachaduras conservadas.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA05.xhtml; OEBPS/Images/Ilustracion_05.jpeg. Lámina situada entrePR16 yPR17."
       }
     ],
     "links": [
@@ -77302,6 +77327,193 @@
       "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Corre a ofrecer ayuda a Amaram antes de distraerse con los jóvenes; no se fuerza equivalencia con otro fervoroso.",
       "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Corre a ofrecer ayuda a Amaram antes de distraerse con los jóvenes; no se fuerza equivalencia con otro fervoroso.",
       "supersedes": []
+    },
+    {
+      "id": "primary174-nazh-early-signature",
+      "characterId": "nazh-note-pr-end",
+      "kind": "background",
+      "text": "Firma Nazh la lámina de glifos del Puente Cuatro; dice haber observado durante horas a los hombres del puente. No identifica una figura disfrazada ni demuestra un encuentro personal con Kaladin. Se representa como anotación retrospectiva, sin punto geográfico ni fecha exacta.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-5"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA02.xhtml; OEBPS/Images/Ilustracion_02.jpeg. Firma Nazh la lámina de glifos del Puente Cuatro; dice haber observado durante horas a los hombres del puente. No identifica una figura disfrazada ni demuestra un encuentro personal con Kaladin. Se representa como anotación retrospectiva, sin punto geográfico ni fecha exacta.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA02.xhtml; OEBPS/Images/Ilustracion_02.jpeg. Firma Nazh la lámina de glifos del Puente Cuatro; dice haber observado durante horas a los hombres del puente. No identifica una figura disfrazada ni demuestra un encuentro personal con Kaladin. Se representa como anotación retrospectiva, sin punto geográfico ni fecha exacta.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-kaladin-glyphs",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "La lámina reúne los glifos de su frente, el emblema del uniforme y variantes de los signos de libertad, Puente Cuatro, Kholin y Tanat. Es un estudio gráfico; no prueba una nueva aplicación duradera del tatuaje.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-5"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA02.xhtml; OEBPS/Images/Ilustracion_02.jpeg. La lámina reúne los glifos de su frente, el emblema del uniforme y variantes de los signos de libertad, Puente Cuatro, Kholin y Tanat. Es un estudio gráfico; no prueba una nueva aplicación duradera del tatuaje.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA02.xhtml; OEBPS/Images/Ilustracion_02.jpeg. La lámina reúne los glifos de su frente, el emblema del uniforme y variantes de los signos de libertad, Puente Cuatro, Kholin y Tanat. Es un estudio gráfico; no prueba una nueva aplicación duradera del tatuaje.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-nazh-landing-map",
+      "characterId": "nazh-note-pr-end",
+      "kind": "background",
+      "text": "Firma la anotación del mapa que indica el lugar donde desembarcó Shallan. La firma no lo sitúa allí ni convierte la flecha dibujada en coordenadas exactas del atlas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-11"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA03.xhtml; OEBPS/Images/Ilustracion_03.jpeg. Firma la anotación del mapa que indica el lugar donde desembarcó Shallan. La firma no lo sitúa allí ni convierte la flecha dibujada en coordenadas exactas del atlas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA03.xhtml; OEBPS/Images/Ilustracion_03.jpeg. Firma la anotación del mapa que indica el lugar donde desembarcó Shallan. La firma no lo sitúa allí ni convierte la flecha dibujada en coordenadas exactas del atlas.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-nazh-salvage",
+      "characterId": "nazh-note-pr-end",
+      "kind": "background",
+      "text": "En la hoja de estudio de Patrón, Nazh afirma haberla recuperado del fondo del océano de Roshar y reclama un abrigo nuevo. Relato de recuperación sin ubicación, fecha o interlocutora identificada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-17"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA05.xhtml; OEBPS/Images/Ilustracion_05.jpeg. En la hoja de estudio de Patrón, Nazh afirma haberla recuperado del fondo del océano de Roshar y reclama un abrigo nuevo. Relato de recuperación sin ubicación, fecha o interlocutora identificada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA05.xhtml; OEBPS/Images/Ilustracion_05.jpeg. En la hoja de estudio de Patrón, Nazh afirma haberla recuperado del fondo del océano de Roshar y reclama un abrigo nuevo. Relato de recuperación sin ubicación, fecha o interlocutora identificada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-pattern-study",
+      "characterId": "pattern",
+      "kind": "background",
+      "text": "El estudio dibujado describe cambios de forma y ritmo y líneas que se dividen, se combinan y se separan; la observadora admite desconocer la causa de esas variaciones. Las partes tachadas no se completan.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-17"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA05.xhtml; OEBPS/Images/Ilustracion_05.jpeg. El estudio dibujado describe cambios de forma y ritmo y líneas que se dividen, se combinan y se separan; la observadora admite desconocer la causa de esas variaciones. Las partes tachadas no se completan.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA05.xhtml; OEBPS/Images/Ilustracion_05.jpeg. El estudio dibujado describe cambios de forma y ritmo y líneas que se dividen, se combinan y se separan; la observadora admite desconocer la causa de esas variaciones. Las partes tachadas no se completan.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-liafor-fashion-model-reference-pr22",
+      "characterId": "liafor-fashion-model-reference-pr22",
+      "kind": "background",
+      "text": "La leyenda identifica al modelo como alezi y dice que la ficha se vendía en mercados alezi y veden. No revela su nombre ni una ciudad de residencia.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-22"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA06.xhtml; OEBPS/Images/Ilustracion_06.jpeg. La leyenda identifica al modelo como alezi y dice que la ficha se vendía en mercados alezi y veden. No revela su nombre ni una ciudad de residencia.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA06.xhtml; OEBPS/Images/Ilustracion_06.jpeg. La leyenda identifica al modelo como alezi y dice que la ficha se vendía en mercados alezi y veden. No revela su nombre ni una ciudad de residencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-gavilar-sword-label",
+      "characterId": "gavilar",
+      "kind": "background",
+      "text": "La lámina de armas rotula su espada como Tormenta de Fuego. Es una atribución en el dibujo, sin presencia nueva del rey.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-45"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA09.xhtml; OEBPS/Images/Ilustracion_09.jpeg. La lámina de armas rotula su espada como Tormenta de Fuego. Es una atribución en el dibujo, sin presencia nueva del rey.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA09.xhtml; OEBPS/Images/Ilustracion_09.jpeg. La lámina de armas rotula su espada como Tormenta de Fuego. Es una atribución en el dibujo, sin presencia nueva del rey.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-elhokar-sword-label",
+      "characterId": "elhokar",
+      "kind": "background",
+      "text": "La lámina de armas rotula su espada como Amanecer. No se deduce una ubicación del monarca a partir de la ilustración.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-45"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA09.xhtml; OEBPS/Images/Ilustracion_09.jpeg. La lámina de armas rotula su espada como Amanecer. No se deduce una ubicación del monarca a partir de la ilustración.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA09.xhtml; OEBPS/Images/Ilustracion_09.jpeg. La lámina de armas rotula su espada como Amanecer. No se deduce una ubicación del monarca a partir de la ilustración.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-azir-fashion-models-reference-pr49",
+      "characterId": "azir-fashion-models-reference-pr49",
+      "kind": "background",
+      "text": "La lámina presenta atuendos contemporáneos de burócratas masculinos y dice usar modelos locales. No se identifican con Gawx u otros personajes por parecido.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-49"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA10.xhtml; OEBPS/Images/Ilustracion_10.jpeg. La lámina presenta atuendos contemporáneos de burócratas masculinos y dice usar modelos locales. No se identifican con Gawx u otros personajes por parecido.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA10.xhtml; OEBPS/Images/Ilustracion_10.jpeg. La lámina presenta atuendos contemporáneos de burócratas masculinos y dice usar modelos locales. No se identifican con Gawx u otros personajes por parecido.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-cora-hacha-illustration-author-pr54",
+      "characterId": "cora-hacha-illustration-author-pr54",
+      "kind": "background",
+      "text": "La lámina sobre el paso de una dama atribuye su autoría a la brillante Cora-hacha. No se conoce parentesco, ubicación ni correspondencia con otra mujer nombrada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-54"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA11.xhtml; OEBPS/Images/Ilustracion_11.jpeg. La lámina sobre el paso de una dama atribuye su autoría a la brillante Cora-hacha. No se conoce parentesco, ubicación ni correspondencia con otra mujer nombrada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA11.xhtml; OEBPS/Images/Ilustracion_11.jpeg. La lámina sobre el paso de una dama atribuye su autoría a la brillante Cora-hacha. No se conoce parentesco, ubicación ni correspondencia con otra mujer nombrada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary174-unidentified-fauna-spren",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "La anotación del estudio de la gran criatura pregunta si sus spren son los mismos que los de las anguilas aéreas de Kharbranth y qué relación existe. Se conserva como pregunta de la lámina, sin confirmar equivalencia, nombre de especie o vínculo Nahel.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-75"
+      },
+      "sourceIds": [
+        "primary174-wor-illustrations"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA15.xhtml; OEBPS/Images/Ilustracion_15.jpeg. La anotación del estudio de la gran criatura pregunta si sus spren son los mismos que los de las anguilas aéreas de Kharbranth y qué relación existe. Se conserva como pregunta de la lámina, sin confirmar equivalencia, nombre de especie o vínculo Nahel.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/ILUSTRA15.xhtml; OEBPS/Images/Ilustracion_15.jpeg. La anotación del estudio de la gran criatura pregunta si sus spren son los mismos que los de las anguilas aéreas de Kharbranth y qué relación existe. Se conserva como pregunta de la lámina, sin confirmar equivalencia, nombre de especie o vínculo Nahel.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -82553,7 +82765,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 173,
+  "revision": 174,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -240108,7 +240320,7 @@
     {
       "id": "nazh-note-pr-end",
       "name": "Nazh",
-      "role": "Firma la nota final ilustrada sobre el ketek de la cubierta del diario de Jasnah. No se deduce dónde está ni su relación con figuras anónimas anteriores.",
+      "role": "Firmante de anotaciones ilustradas; identidad personal y destinataria no identificadas.",
       "initial": "N",
       "importance": "tertiary",
       "color": "#a8b8c5",
@@ -240444,6 +240656,36 @@
           ]
         }
       ]
+    },
+    {
+      "id": "liafor-fashion-model-reference-pr22",
+      "name": "Modelo alezi de la ficha de Liafor",
+      "role": "La leyenda identifica al modelo como alezi y dice que la ficha se vendía en mercados alezi y veden. No revela su nombre ni una ciudad de residencia.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o modelos documentados por una lámina, sin presencia física ni identidad por parecido.",
+      "events": []
+    },
+    {
+      "id": "azir-fashion-models-reference-pr49",
+      "name": "Modelos locales de la ficha de Azir",
+      "role": "La lámina presenta atuendos contemporáneos de burócratas masculinos y dice usar modelos locales. No se identifican con Gawx u otros personajes por parecido.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o modelos documentados por una lámina, sin presencia física ni identidad por parecido.",
+      "events": []
+    },
+    {
+      "id": "cora-hacha-illustration-author-pr54",
+      "name": "Brillante Cora-hacha",
+      "role": "La lámina sobre el paso de una dama atribuye su autoría a la brillante Cora-hacha. No se conoce parentesco, ubicación ni correspondencia con otra mujer nombrada.",
+      "initial": "B",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o modelos documentados por una lámina, sin presencia física ni identidad por parecido.",
+      "events": []
     }
   ]
 }
