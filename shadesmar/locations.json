@@ -4007,11 +4007,14 @@
           "sceneId": "wor-chapter-83"
         },
         "sourceIds": [
-          "archive93-4b468cf1ae1f"
+          "archive93-4b468cf1ae1f",
+          "primary182-pr-pending-wok-ars"
         ],
-        "status": "pending",
+        "status": "inferred",
         "supersedes": [],
-        "readingLocator": "Epígrafe del capítulo 83 de la novela: referencia al Antiguo de las Piedras y a los milenios de paz."
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_083.xhtml. El epígrafe nombra alAntiguo de las Piedras y atribuye a su voluntad más de cuatro milenios de paz; no diceTalenel. La correspondencia conTalenel queda señalada como inferencia, no como nombre expresamente identificado.",
+        "primaryReviewed": true,
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_083.xhtml. El epígrafe nombra alAntiguo de las Piedras y atribuye a su voluntad más de cuatro milenios de paz; no diceTalenel. La correspondencia conTalenel queda señalada como inferencia, no como nombre expresamente identificado."
       },
       {
         "id": "archive93-fact-18",
@@ -4023,11 +4026,14 @@
           "sceneId": "wor-chapter-83"
         },
         "sourceIds": [
-          "archive93-4b468cf1ae1f"
+          "archive93-4b468cf1ae1f",
+          "primary182-pr-pending-wok-ars"
         ],
-        "status": "pending",
+        "status": "inferred",
         "supersedes": [],
-        "readingLocator": "Epígrafe del capítulo 83 de la novela: referencia al Antiguo de las Piedras y a los milenios de paz."
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_083.xhtml. El epígrafe nombra alAntiguo de las Piedras y atribuye a su voluntad más de cuatro milenios de paz; no diceTalenel. La correspondencia conTalenel queda señalada como inferencia, no como nombre expresamente identificado.",
+        "primaryReviewed": true,
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_083.xhtml. El epígrafe nombra alAntiguo de las Piedras y atribuye a su voluntad más de cuatro milenios de paz; no diceTalenel. La correspondencia conTalenel queda señalada como inferencia, no como nombre expresamente identificado."
       },
       {
         "id": "archive93-fact-19",
@@ -4387,11 +4393,14 @@
           "sceneId": "wor-chapter-59"
         },
         "sourceIds": [
-          "archive93-612432d9ec13"
+          "archive93-612432d9ec13",
+          "primary182-pr-pending-wok-ars"
         ],
-        "status": "pending",
+        "status": "confirmed",
         "supersedes": [],
-        "readingLocator": "Conversación de Kaladin y Syl en la prisión, antes del relato de Sagaz, en el capítulo 59."
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Syl nombra a los altospren al distinguirse de ellos. No los identifica como su tipo ni añade aquí una orden asociada.",
+        "primaryReviewed": true,
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Syl nombra a los altospren al distinguirse de ellos. No los identifica como su tipo ni añade aquí una orden asociada."
       },
       {
         "id": "archive93-fact-40",
@@ -4403,11 +4412,14 @@
           "sceneId": "wor-chapter-59"
         },
         "sourceIds": [
-          "archive93-612432d9ec13"
+          "archive93-612432d9ec13",
+          "primary182-pr-pending-wok-ars"
         ],
-        "status": "pending",
+        "status": "confirmed",
         "supersedes": [],
-        "readingLocator": "Conversación de Kaladin y Syl en la prisión, antes del relato de Sagaz, en el capítulo 59."
+        "readingLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Syl contrapone la ley con hacer lo que está bien. Es una afirmación deSyl sobre la diferencia, no un catálogo completo de conducta de todos los altospren.",
+        "primaryReviewed": true,
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/04_059.xhtml. Syl contrapone la ley con hacer lo que está bien. Es una afirmación deSyl sobre la diferencia, no un catálogo completo de conducta de todos los altospren."
       },
       {
         "id": "archive93-fact-41",
@@ -9988,6 +10000,24 @@
         "status": "confirmed",
         "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/020.xhtml. Se convierte en tenedor plateado y luego vuelve a ser enredadera en la pared. Los arcos son historias que cuenta, no una forma que adopta aquí.",
         "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/020.xhtml. Se convierte en tenedor plateado y luego vuelve a ser enredadera en la pared. Los arcos son historias que cuenta, no una forma que adopta aquí.",
+        "supersedes": []
+      },
+      {
+        "id": "primary182-wok-ars-table",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "El Ars Arcanum presenta las Diez Esencias mediante números,gemas,focos corporales,propiedades animistas y atributos. La compilación lo llama simbolismo tradicional imperfecto y menciona asociaciones clásicas de los Heraldos, sin identificar por ello a personas contemporáneas ni revelar órdenes nuevas.",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "epilogue"
+        },
+        "sourceIds": [
+          "primary182-pr-pending-wok-ars"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "El camino de los reyes, OEBPS/Text/08_ars.xhtml y Images/img_tabla_ars.jpg; tabla vista y texto leído completos. Anexo situado al cierre del libro, sin escena adicional.",
+        "readingLocator": "Ars Arcanum al final de El camino de los reyes; Diez Esencias y asociaciones históricas.",
         "supersedes": []
       }
     ],
@@ -19434,22 +19464,22 @@
         "sceneId": "wor-chapter-54"
       },
       "sourceIds": [
-        "mention89-3f922d313cc3d4"
+        "mention89-3f922d313cc3d4",
+        "primary182-pr-pending-wok-ars"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Se conserva la mención y el plan en la ficha deThaidakar; no genera arista conMraize."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Mraize ordena enviar documentos a maestro Thaidakar: cooperación previa relatada, no solo cita de un nombre; no afirma encuentro de Shallan con él.",
-        "sourceUrls": [
-          "https://reactormag.com/words-of-radiance-reread-chapter-54/"
-        ]
-      }
+        "kind": "rejected",
+        "reason": "La orden de enviar documentos es un plan dirigido a un interlocutor presente distinto; no prueba trato personal previo o comunicación consumada conThaidakar."
+      },
+      "primaryReviewed": true,
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_054.xhtml. Mraize ordena llevar páginas al maestroThaidakar. No se narra que el envío se realice ni queThaidakar conteste; un plan no acredita cooperación previa."
     },
     {
       "id": "mention89-rel-restares-1-0",
@@ -20269,20 +20299,22 @@
         "sceneId": "wor-chapter-1"
       },
       "sourceIds": [
-        "mention89-65a7b534dceffa"
+        "mention89-65a7b534dceffa",
+        "primary182-pr-pending-wok-ars"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "PR1:951 menciona a Beznk como destinatario anterior de una broma de Yalb. Este pasaje solo no demuestra su cargo, presencia física ni relación laboral con Tozbek; vínculo heredado pendiente de otro pasaje."
+        "Rechazado por falta de evidencia del vínculo en el libro cotejado; no se afirma que sea imposible una relación fuera del pasaje."
       ],
       "networkEvidence": {
-        "kind": "uncertain",
-        "reason": "PR1:951 solo acredita que Yalb mencionó a Beznk; no demuestra trato laboral con Tozbek. Se conserva el vínculo heredado pendiente sin generar arista.",
-        "pairs": []
-      }
+        "kind": "rejected",
+        "reason": "El pasaje no acredita relación laboral conTozbek. Se retira esa atribución heredada, conservando la referencia nominal deBeznk."
+      },
+      "primaryReviewed": true,
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/01_001.xhtml. Única mención nominal localizada en el texto: destinatario de una broma deYalb; no prueba cargo, presencia o empleo bajoTozbek."
     },
     {
       "id": "mention89-rel-talak-77-0",
@@ -20877,30 +20909,30 @@
       "id": "mention89-rel-jin-109-0",
       "from": "jin",
       "to": "mraize",
-      "kind": "companion",
+      "kind": "cooperation",
       "category": "social",
-      "label": "Colaboración en los Sangre Espectral",
+      "label": "Cooperación en la prueba del dibujo",
       "revealedAt": {
         "bookId": "wor",
         "sceneId": "wor-chapter-54"
       },
       "sourceIds": [
-        "mention89-db37be96833237"
+        "mention89-db37be96833237",
+        "primary182-pr-pending-wok-ars"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Cooperación operativa observada, sin afirmar amistad o conversación entreShallan yJin."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Jin coopera en la prueba organizada por Mraize para Shallan; vínculo operativo, no solo coincidir en una lista.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Jin"
-        ]
-      }
+        "reason": "Jin coopera expresamente con las órdenes deMraize durante la prueba. No se deduce de compartir una estancia."
+      },
+      "primaryReviewed": true,
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/03_054.xhtml. Mraize llama aJin, quien se levanta y se marcha a su orden para la prueba de dibujo."
     },
     {
       "id": "mention89-rel-chanada-110-0",
@@ -24258,20 +24290,22 @@
         "sceneId": "wor-interlude-14"
       },
       "sourceIds": [
-        "primary159-wor-i12-i14"
+        "primary159-wor-i12-i14",
+        "primary182-pr-pending-wok-ars"
       ],
-      "status": "pending",
+      "status": "inferred",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
-      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam pregunta por un matrimonio con una princesa veden hará unas tres generaciones; Taravangian finge no conocerlo.",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/I4_014.xhtml. Valam alega ascendencia materna por un matrimonio con una princesa veden unas tres generaciones atrás. Taravangian reconoce el guion político, pero no confirma árbol, cónyuge o número exacto de generaciones.",
       "notes": [
-        "No se fija distancia exacta ni se inventan progenitores intermedios o el cónyuge de la princesa."
+        "Cotejo terminado; la ascendencia permanece alegada y de grado impreciso. No se inventan progenitores intermedios ni se confirma genealogía."
       ],
       "networkEvidence": {
         "kind": "uncertain",
-        "reason": "Ascendencia alegada y grado aproximado; no corresponde convertirla en genealogía precisa o arista confirmada."
-      }
+        "reason": "El relato deValam acredita una alegación dinástica, no una genealogía comprobada. Se mantiene fuera de los vínculos confirmados."
+      },
+      "primaryReviewed": true
     },
     {
       "id": "primary160-lopen-hat-cousin",
@@ -57943,10 +57977,13 @@
       "kind": "affiliation",
       "text": "Mercenario contratado por Tvlakv y conductor del carro en el que viaja Shallan.",
       "sourceIds": [
-        "audit-wore-c13"
+        "audit-wore-c13",
+        "primary182-pr-pending-wok-ars"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryReviewed": true,
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/02_013.xhtml. La apertura dice queBluth es uno de los mercenarios empleados porTvlakv y guía el chull del carromato."
     },
     {
       "id": "audit-wore-fact-abrobadar-wor-chapter-56",
@@ -85521,6 +85558,10 @@
         {
           "revision": 181,
           "notes": "DF17 voz que echa de menos a su madre: parentesco relatado sin muerte ni ubicación de la adulta; no identificación conMik. Mik reafirma tener madre. DF18 hermanosInsomnes sin genealogía biológica; cuatro vigilados sin nombres por títulos. DF20 madre deMik regresa según conversación; no traslado a casa mostrado. Cuidado deHuisi solo contextual e inferido, sin tutela expresa o adopción. Refugiados sin familiares individuales inventados."
+        },
+        {
+          "revision": 182,
+          "notes": "Ascendencia materna alegada deTaravangian cotejada enPR I14; se conserva como inferencia relatada, sin grado exacto,cónyuge o progenitores intermedios. No nuevos parentescos por números delArs o títulos deHeraldos."
         }
       ]
     }
@@ -88308,7 +88349,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 181,
+  "revision": 182,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -232920,7 +232961,7 @@
     {
       "id": "beznk",
       "name": "Beznk",
-      "role": "Marinero",
+      "role": "Persona mencionada porYalb",
       "initial": "B",
       "color": "#b8b6a4",
       "importance": "tertiary",
