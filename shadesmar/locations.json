@@ -2388,29 +2388,48 @@
       "amaram",
       "black-sword",
       "crescent-scar-stranger",
-      "iyatil",
+      "davar-room-dead-man-pr10",
+      "gaz",
       "lin-davar",
+      "masked-dart-attacker-pr88",
       "mraize",
+      "pama-pr88",
       "pattern",
+      "restares",
       "shallan",
+      "shallan-brother-skybreakers-reference-pr88",
+      "shallan-mother",
       "szeth",
-      "talenel"
+      "talenel",
+      "taravangian",
+      "temple-help-ardent-pr88",
+      "temple-petitioning-husband-pr88",
+      "temple-petitioning-wife-pr88",
+      "temple-prayer-ardent-pr88",
+      "temple-young-sibling-one-pr88",
+      "temple-young-sibling-two-pr88",
+      "temple-young-siblings-father-pr88"
     ],
     "wor-chapter-89": [
       "adolin",
       "dalinar",
+      "elhokar",
       "glys",
+      "hatham",
+      "ialai",
       "kaladin",
-      "pattern",
       "renarin",
       "sadeas",
       "shallan",
       "stormfather",
-      "syl"
+      "taravangian"
     ],
     "wor-epilogue": [
+      "ars-compiler-pr-end",
       "ivory",
       "jasnah",
+      "nazh-note-pr-end",
+      "tanavast-mentioned",
       "wit"
     ],
     "ed-chapter-1": [
@@ -4462,11 +4481,13 @@
           "sceneId": "wor-chapter-89"
         },
         "sourceIds": [
-          "spren85-reread89"
+          "spren85-reread89",
+          "primary172-wor88-end"
         ],
-        "status": "pending",
+        "status": "confirmed",
         "supersedes": [],
-        "readingLocator": "Palabras radiantes, capítulo 89: reunión de Dalinar, Shallan, Kaladin y Renarin en Urithiru; Renarin nombra a Glys y declara su orden. Referencia secundaria; cotejo directo pendiente."
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior.",
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior."
       },
       {
         "id": "archive93-person-spark",
@@ -4627,11 +4648,13 @@
           "sceneId": "wor-chapter-89"
         },
         "sourceIds": [
-          "spren85-reread89"
+          "spren85-reread89",
+          "primary172-wor88-end"
         ],
-        "status": "pending",
+        "status": "confirmed",
         "supersedes": [],
-        "readingLocator": "Palabras radiantes, capítulo 89: Dalinar sube al tejado de Urithiru, habla con Padre Tormenta y pronuncia sus juramentos. Referencia secundaria; cotejo directo pendiente."
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior.",
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior."
       },
       {
         "id": "archive93-fact-62",
@@ -5995,11 +6018,13 @@
           "sceneId": "wor-chapter-89"
         },
         "sourceIds": [
-          "spren85-reread89"
+          "spren85-reread89",
+          "primary172-wor88-end"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, capítulo 89: Dalinar sube al tejado de Urithiru, habla con Padre Tormenta y pronuncia sus juramentos. Referencia secundaria; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior."
       },
       {
         "id": "spren104-visions",
@@ -6011,11 +6036,13 @@
           "sceneId": "wor-chapter-89"
         },
         "sourceIds": [
-          "spren85-reread89"
+          "spren85-reread89",
+          "primary172-wor88-end"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, capítulo 89: Dalinar sube al tejado de Urithiru, habla con Padre Tormenta y pronuncia sus juramentos. Referencia secundaria; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior."
       },
       {
         "id": "spren105-ym-appearance",
@@ -6063,11 +6090,13 @@
           "sceneId": "wor-chapter-89"
         },
         "sourceIds": [
-          "spren85-reread89"
+          "spren85-reread89",
+          "primary172-wor88-end"
         ],
-        "status": "pending",
-        "readingLocator": "Palabras radiantes, capítulo 89: reunión de Dalinar, Shallan, Kaladin y Renarin en Urithiru; Renarin nombra a Glys y declara su orden. Referencia secundaria; cotejo directo pendiente.",
-        "supersedes": []
+        "status": "confirmed",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior.",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declaraciones de Padre Tormenta y de Renarin cotejadas en la cima y sala superior."
       },
       {
         "id": "archive106-moelach-name",
@@ -9127,6 +9156,108 @@
         "supersedes": [],
         "primaryLocator": "EPUB español aportado, OEBPS/Text/05_087.xhtml. Patrón dice que los Tejedores de Luz no hacen más juramentos después del primero: deben decir verdades.",
         "readingLocator": "EPUB español aportado, OEBPS/Text/05_087.xhtml. Patrón dice que los Tejedores de Luz no hacen más juramentos después del primero: deben decir verdades."
+      },
+      {
+        "id": "primary172-nalan-recognized88",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Szeth reconoce a Nin, llamado Nalan o Nale, como Heraldo de la Justicia; le ofrece formación con los Rompedores del Cielo. La cicatriz no permitía adelantar esta identidad en sus apariciones anteriores.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-88"
+        },
+        "sourceIds": [
+          "primary172-wor88-end"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Szeth reconoce a Nin, llamado Nalan o Nale, como Heraldo de la Justicia; le ofrece formación con los Rompedores del Cielo. La cicatriz no permitía adelantar esta identidad en sus apariciones anteriores.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Szeth reconoce a Nin, llamado Nalan o Nale, como Heraldo de la Justicia; le ofrece formación con los Rompedores del Cielo. La cicatriz no permitía adelantar esta identidad en sus apariciones anteriores."
+      },
+      {
+        "id": "primary172-pattern-childhood88",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Durante la recreación del recuerdo, Patrón confirma que era la pequeña hoja de la caja fuerte. No se importa ninguna explicación posterior sobre esa espada.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-88"
+        },
+        "sourceIds": [
+          "primary172-wor88-end"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Durante la recreación del recuerdo, Patrón confirma que era la pequeña hoja de la caja fuerte. No se importa ninguna explicación posterior sobre esa espada.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Durante la recreación del recuerdo, Patrón confirma que era la pequeña hoja de la caja fuerte. No se importa ninguna explicación posterior sobre esa espada."
+      },
+      {
+        "id": "primary172-stormfather-not-sword89",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Acepta las palabras de Dalinar, pero rechaza ser su espada o acudir a su llamada; le exige apartarse de la hoja que lleva. Niega haber enviado el sueño de esa mañana.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-89"
+        },
+        "sourceIds": [
+          "primary172-wor88-end"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Acepta las palabras de Dalinar, pero rechaza ser su espada o acudir a su llamada; le exige apartarse de la hoja que lleva. Niega haber enviado el sueño de esa mañana.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Acepta las palabras de Dalinar, pero rechaza ser su espada o acudir a su llamada; le exige apartarse de la hoja que lleva. Niega haber enviado el sueño de esa mañana."
+      },
+      {
+        "id": "primary172-glys-only-mention89",
+        "entryId": "spren-person-glys",
+        "field": "description",
+        "value": "Renarin nombra a Glys y se declara Vigilante de la Verdad. No aparece un cuerpo del spren ni se describe aquí su tipo o naturaleza posterior.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-89"
+        },
+        "sourceIds": [
+          "primary172-wor88-end"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Renarin nombra a Glys y se declara Vigilante de la Verdad. No aparece un cuerpo del spren ni se describe aquí su tipo o naturaleza posterior.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Renarin nombra a Glys y se declara Vigilante de la Verdad. No aparece un cuerpo del spren ni se describe aquí su tipo o naturaleza posterior."
+      },
+      {
+        "id": "primary172-highspren-reference",
+        "entryId": "spren-type-highspren",
+        "field": "description",
+        "value": "Jasnah menciona las palabras de los altospren, pero teme que los conocimientos del pasado no expliquen lo que ocurre ahora. No identifica por esa referencia el tipo de Marfil.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-epilogue"
+        },
+        "sourceIds": [
+          "primary172-wor88-end"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Jasnah menciona las palabras de los altospren, pero teme que los conocimientos del pasado no expliquen lo que ocurre ahora. No identifica por esa referencia el tipo de Marfil.",
+        "readingLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Jasnah menciona las palabras de los altospren, pero teme que los conocimientos del pasado no expliquen lo que ocurre ahora. No identifica por esa referencia el tipo de Marfil."
+      },
+      {
+        "id": "primary172-ars-cognitive-spren",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Ars Arcanum: las diez Potencias se presentan como capacidades de Heraldos y Radiantes mediante vínculos. La tabla de las Esencias es simbolismo histórico imperfecto, no una prueba de identidades modernas.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-epilogue"
+        },
+        "sourceIds": [
+          "primary172-wor88-end"
+        ],
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español aportado, OEBPS/Text/08_ars.xhtml. Las Diez Potencias y asociaciones históricas.",
+        "readingLocator": "Ars Arcanum, no epílogo narrativo."
       }
     ],
     "links": [
@@ -10910,9 +11041,10 @@
         "sceneId": "wor-chapter-88"
       },
       "sourceIds": [
-        "wor-c88"
+        "wor-c88",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -10925,7 +11057,8 @@
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-reread-chapter-88/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Oferta directa de formación y entrega de espada parlante cotejadas."
     },
     {
       "id": "rel-szeth-black-sword-wor-chapter-88",
@@ -10939,9 +11072,10 @@
         "sceneId": "wor-chapter-88"
       },
       "sourceIds": [
-        "wor-c88"
+        "wor-c88",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -10954,7 +11088,8 @@
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-reread-chapter-88/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Oferta directa de formación y entrega de espada parlante cotejadas."
     },
     {
       "id": "audit-72-relation-1",
@@ -15620,9 +15755,10 @@
         "sceneId": "wor-chapter-89"
       },
       "sourceIds": [
-        "spren85-reread89"
+        "spren85-reread89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -15633,7 +15769,8 @@
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-reread-chapter-89/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Dalinar acuerda el vínculo con Padre Tormenta; Renarin nombra a Glys y declara su orden, sin revelar tipo o rasgos posteriores."
     },
     {
       "id": "spren85-rel-renarin-glys-wor-chapter-89",
@@ -15647,9 +15784,10 @@
         "sceneId": "wor-chapter-89"
       },
       "sourceIds": [
-        "spren85-reread89"
+        "spren85-reread89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
@@ -15662,7 +15800,8 @@
         "sourceUrls": [
           "https://reactormag.com/words-of-radiance-reread-chapter-89/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Dalinar acuerda el vínculo con Padre Tormenta; Renarin nombra a Glys y declara su orden, sin revelar tipo o rasgos posteriores."
     },
     {
       "id": "spren85-rel-kaladin-syl-chapter-67",
@@ -17117,14 +17256,15 @@
       },
       "sourceIds": [
         "audit87-p2-jasnah-wit",
-        "audit87-source-516030a223a853"
+        "audit87-source-516030a223a853",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Primera referencia localizada en fuente secundaria; pendiente de cotejo primario."
+        "Acuerdo expreso durante el encuentro y la marcha; sin llegada mostrada a una ciudad."
       ],
       "networkEvidence": {
         "kind": "relationship",
@@ -17132,7 +17272,8 @@
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Words_of_Radiance/Epilogue"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Acuerdo directo de intercambiar información cotejado."
     },
     {
       "id": "audit87-p2-thresh-vstim",
@@ -23473,6 +23614,141 @@
         "kind": "relationship",
         "reason": "La mensajera es pupila de Teshav, no hija."
       }
+    },
+    {
+      "id": "audit173-brother-reference",
+      "from": "shallan",
+      "to": "shallan-brother-skybreakers-reference-pr88",
+      "kind": "sibling",
+      "label": "Hermanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Referencia familiar expresada por Mraize; identidad nominal pendiente.",
+      "notes": [
+        "Referencia familiar expresada por Mraize; identidad nominal pendiente."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Referencia familiar expresada por Mraize; identidad nominal pendiente."
+      }
+    },
+    {
+      "id": "audit173-petition-spouses",
+      "from": "temple-petitioning-wife-pr88",
+      "to": "temple-petitioning-husband-pr88",
+      "kind": "spouse",
+      "label": "Esposos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. La mujer pide una plegaria por su marido.",
+      "notes": [
+        "La mujer pide una plegaria por su marido."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "La mujer pide una plegaria por su marido."
+      }
+    },
+    {
+      "id": "audit173-old-father-one",
+      "from": "temple-young-siblings-father-pr88",
+      "to": "temple-young-sibling-one-pr88",
+      "kind": "parent",
+      "label": "Padre → hijo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Los dos jóvenes piden ayuda para su padre.",
+      "notes": [
+        "Los dos jóvenes piden ayuda para su padre."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Los dos jóvenes piden ayuda para su padre."
+      }
+    },
+    {
+      "id": "audit173-old-father-two",
+      "from": "temple-young-siblings-father-pr88",
+      "to": "temple-young-sibling-two-pr88",
+      "kind": "parent",
+      "label": "Padre → hijo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Los dos jóvenes comparten padre; no se inventa madre.",
+      "notes": [
+        "Los dos jóvenes comparten padre; no se inventa madre."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Los dos jóvenes comparten padre; no se inventa madre."
+      }
+    },
+    {
+      "id": "audit173-young-siblings",
+      "from": "temple-young-sibling-one-pr88",
+      "to": "temple-young-sibling-two-pr88",
+      "kind": "sibling",
+      "label": "Hermanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Los dos aluden al mismo padre.",
+      "notes": [
+        "Los dos aluden al mismo padre."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Los dos aluden al mismo padre."
+      }
     }
   ],
   "interactions": [
@@ -23825,9 +24101,10 @@
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "wor-c89"
+        "wor-c89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -23841,7 +24118,8 @@
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Shallan pregunta a Kaladin si recorrerá la distancia volando y él responde cayendo; contacto directo, no simple coincidencia."
     },
     {
       "id": "interaction-wor-chapter-74-kaladin-helaran-11",
@@ -25770,9 +26048,10 @@
         "note": "Encuentro explícito, independiente de la coincidencia espacial."
       },
       "sourceIds": [
-        "wor-c88"
+        "wor-c88",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -25786,7 +26065,8 @@
             "crescent-scar-stranger"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Diálogo directo cotejado en el despertar de Szeth."
     },
     {
       "id": "interaction-wor-chapter-88-szeth-black-sword-reviewed",
@@ -25805,9 +26085,10 @@
         "note": "Encuentro explícito, independiente de la coincidencia espacial."
       },
       "sourceIds": [
-        "wor-c88"
+        "wor-c88",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -25821,7 +26102,8 @@
             "black-sword"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Diálogo directo cotejado en el despertar de Szeth."
     },
     {
       "id": "interaction-ed-chapter-15-szeth-lift-reviewed",
@@ -34234,7 +34516,7 @@
         "ivory"
       ],
       "type": "cooperation",
-      "summary": "Marfil se manifiesta como Hoja y Jasnah la disipa tras regresar.",
+      "summary": "Jasnah invoca y disipa una hoja; se infiere que es Marfil por el vínculo conocido, sin mención nominal en este pasaje.",
       "revealedAt": {
         "bookId": "wor",
         "sceneId": "wor-epilogue"
@@ -34244,9 +34526,10 @@
         "note": "Secuencia de esta escena, sin fechar un viaje posterior."
       },
       "sourceIds": [
-        "wor-epilogue-source"
+        "wor-epilogue-source",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "inferred",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -34260,7 +34543,8 @@
             "ivory"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Manifestación como hoja inferida por el vínculo previo; el epílogo no nombra al spren."
     },
     {
       "id": "ob86-interaction-0",
@@ -34931,9 +35215,10 @@
       },
       "sourceIds": [
         "audit87-p2-jasnah-wit",
-        "audit87-source-ade2a9c8262ac5"
+        "audit87-source-ade2a9c8262ac5",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -34947,7 +35232,8 @@
             "wit"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Conversación directa y acuerdo para compartir conocimientos en el camino."
     },
     {
       "id": "audit87-p2-falksi18",
@@ -50417,6 +50703,501 @@
           ]
         ]
       }
+    },
+    {
+      "id": "primary172-mraize-talk88",
+      "participants": [
+        "shallan",
+        "mraize"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conversation",
+      "summary": "Mraize conoce la identidad de Shallan, habla de sus hermanos y ofrece respuestas; no se registra encuentro con los hermanos ausentes.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Mraize conoce la identidad de Shallan, habla de sus hermanos y ofrece respuestas; no se registra encuentro con los hermanos ausentes.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mraize conoce la identidad de Shallan, habla de sus hermanos y ofrece respuestas; no se registra encuentro con los hermanos ausentes.",
+        "pairs": [
+          [
+            "shallan",
+            "mraize"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-adolin-kiss88",
+      "participants": [
+        "shallan",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conversation",
+      "summary": "Hablan y se besan ante la cámara de Shallan.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Hablan y se besan ante la cámara de Shallan.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan y se besan ante la cámara de Shallan.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-pattern-truth88",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conversation",
+      "summary": "Patrón guía la recreación y Shallan admite la verdad de la muerte de su madre.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Patrón guía la recreación y Shallan admite la verdad de la muerte de su madre.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Patrón guía la recreación y Shallan admite la verdad de la muerte de su madre.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-gaz-wait88",
+      "participants": [
+        "shallan",
+        "gaz"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conversation",
+      "summary": "Shallan detiene a Gaz y deja a sus guardias esperando.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Shallan detiene a Gaz y deja a sus guardias esperando.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan detiene a Gaz y deja a sus guardias esperando.",
+        "pairs": [
+          [
+            "shallan",
+            "gaz"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-letter-hand88",
+      "participants": [
+        "amaram",
+        "pama-pr88"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "cooperation",
+      "summary": "Entrega la carta a Pama para que la transmita; escribir no confirma recepción por Restares.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Entrega la carta a Pama para que la transmita; escribir no confirma recepción por Restares.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Entrega la carta a Pama para que la transmita; escribir no confirma recepción por Restares.",
+        "pairs": [
+          [
+            "amaram",
+            "pama-pr88"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-taln-help88",
+      "participants": [
+        "amaram",
+        "talenel"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "cooperation",
+      "summary": "Amaram intenta sacar a Talenel; este atrapa los dardos disparados contra Amaram.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram intenta sacar a Talenel; este atrapa los dardos disparados contra Amaram.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Amaram intenta sacar a Talenel; este atrapa los dardos disparados contra Amaram.",
+        "pairs": [
+          [
+            "amaram",
+            "talenel"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-dart-attack88",
+      "participants": [
+        "masked-dart-attacker-pr88",
+        "amaram",
+        "talenel"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conflict",
+      "summary": "La figura dispara contra Amaram y Talenel intercepta dos dardos.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. La figura dispara contra Amaram y Talenel intercepta dos dardos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La figura dispara contra Amaram y Talenel intercepta dos dardos.",
+        "pairs": [
+          [
+            "masked-dart-attacker-pr88",
+            "amaram"
+          ],
+          [
+            "masked-dart-attacker-pr88",
+            "talenel"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-davar-memory88",
+      "participants": [
+        "shallan",
+        "shallan-mother",
+        "lin-davar",
+        "davar-room-dead-man-pr10"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conflict",
+      "summary": "Recuerdo de la agresión a Shallan y lucha de Lin con el amigo de su madre; no ocurre en el presente.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Recuerdo de la agresión a Shallan y lucha de Lin con el amigo de su madre; no ocurre en el presente.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Incidente de seis años antes dePR10; aclaración enPR88."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Recuerdo de la agresión a Shallan y lucha de Lin con el amigo de su madre; no ocurre en el presente.",
+        "pairs": [
+          [
+            "shallan",
+            "shallan-mother"
+          ],
+          [
+            "lin-davar",
+            "shallan-mother"
+          ],
+          [
+            "lin-davar",
+            "davar-room-dead-man-pr10"
+          ],
+          [
+            "shallan",
+            "davar-room-dead-man-pr10"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-sadeas-murder89",
+      "participants": [
+        "adolin",
+        "sadeas"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "type": "conflict",
+      "summary": "Tras discutir, Adolin mata a Sadeas con un puñal. Ialai ya se ha marchado; ninguno usa la hoja esquirlada en la pelea.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Tras discutir, Adolin mata a Sadeas con un puñal. Ialai ya se ha marchado; ninguno usa la hoja esquirlada en la pelea.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Tras discutir, Adolin mata a Sadeas con un puñal. Ialai ya se ha marchado; ninguno usa la hoja esquirlada en la pelea.",
+        "pairs": [
+          [
+            "adolin",
+            "sadeas"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-stormfather-oaths89",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "type": "conversation",
+      "summary": "Intercambio de voz en la cima: juramentos aceptados y vínculo; la voz no crea un cuerpo del spren junto a Dalinar.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Intercambio de voz en la cima: juramentos aceptados y vínculo; la voz no crea un cuerpo del spren junto a Dalinar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Intercambio de voz en la cima: juramentos aceptados y vínculo; la voz no crea un cuerpo del spren junto a Dalinar.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-four-talk89",
+      "participants": [
+        "dalinar",
+        "kaladin",
+        "shallan",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "type": "conversation",
+      "summary": "Dalinar muestra su poder, Renarin declara su orden, Kaladin pregunta qué hace y solicita partir; parejas con intercambio expreso.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Dalinar muestra su poder, Renarin declara su orden, Kaladin pregunta qué hace y solicita partir; parejas con intercambio expreso.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Solo parejas con intercambio expreso; comunicación remota sin traslado."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar muestra su poder, Renarin declara su orden, Kaladin pregunta qué hace y solicita partir; parejas con intercambio expreso.",
+        "pairs": [
+          [
+            "dalinar",
+            "kaladin"
+          ],
+          [
+            "dalinar",
+            "shallan"
+          ],
+          [
+            "dalinar",
+            "renarin"
+          ],
+          [
+            "kaladin",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary172-wit-tanavast-report",
+      "participants": [
+        "wit",
+        "tanavast-mentioned"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "type": "conversation",
+      "summary": "Sagaz cuenta que Tanavast le invitó a beber una vez; trato pasado relatado, sin ubicación o fecha y sin encuentro en el presente.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Sagaz cuenta que Tanavast le invitó a beber una vez; trato pasado relatado, sin ubicación o fecha y sin encuentro en el presente.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Encuentro pasado relatado por Sagaz; fecha no indicada."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sagaz cuenta que Tanavast le invitó a beber una vez; trato pasado relatado, sin ubicación o fecha y sin encuentro en el presente.",
+        "pairs": [
+          [
+            "wit",
+            "tanavast-mentioned"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "audit173-petition-dialog",
+      "participants": [
+        "temple-petitioning-wife-pr88",
+        "temple-prayer-ardent-pr88"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conversation",
+      "summary": "La mujer pide la plegaria y el fervoroso le responde que prepare la marcha.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. La mujer pide la plegaria y el fervoroso le responde que prepare la marcha.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Intercambio expreso en el recinto del templo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "pairs": [
+          [
+            "temple-petitioning-wife-pr88",
+            "temple-prayer-ardent-pr88"
+          ]
+        ],
+        "reason": "La mujer pide la plegaria y el fervoroso le responde que prepare la marcha."
+      }
+    },
+    {
+      "id": "audit173-ardent-amaram",
+      "participants": [
+        "temple-help-ardent-pr88",
+        "amaram"
+      ],
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "type": "conversation",
+      "summary": "La fervorosa se acerca a Amaram y le pregunta si necesita algo.",
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. La fervorosa se acerca a Amaram y le pregunta si necesita algo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Intercambio expreso en el recinto del templo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "pairs": [
+          [
+            "temple-help-ardent-pr88",
+            "amaram"
+          ]
+        ],
+        "reason": "La fervorosa se acerca a Amaram y le pregunta si necesita algo."
+      }
     }
   ],
   "characterFacts": [
@@ -50999,15 +51780,17 @@
         "sceneId": "wor-chapter-89"
       },
       "kind": "experience",
-      "text": "Visión: Visión de luz y calor al despertar.",
+      "text": "Sueña con su hogar infantil y una luz cálida. Padre Tormenta niega haberlo enviado; no se confirma una visión suya ni un desplazamiento corporal.",
       "sourceIds": [
-        "wor-c89"
+        "wor-c89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "notes": [
         "Una experiencia no equivale por sí sola a un desplazamiento corporal."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Sueño en sus aposentos: Padre Tormenta niega haberlo enviado; no se determina origen."
     },
     {
       "id": "fact-experience-wor-jasnah-epilogue-cognitive-return",
@@ -51019,13 +51802,15 @@
       "kind": "experience",
       "text": "Experiencia en Shadesmar: Shadesmar · Retorno a Roshar.",
       "sourceIds": [
-        "wor-epilogue-source"
+        "wor-epilogue-source",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "notes": [
         "Una experiencia no equivale por sí sola a un desplazamiento corporal."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Retorno físico y estancia anterior relatada; sin ruta cognitiva inventada."
     },
     {
       "id": "fact-experience-wor-jasnah-prologue-cognitive-memory",
@@ -51129,10 +51914,12 @@
       "kind": "abilities",
       "text": "Se presenta como Forjador de Vínculos.",
       "sourceIds": [
-        "wor-c89"
+        "wor-c89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Orden declarada en la sala superior; Glys mencionado, sin aparición corporal."
     },
     {
       "id": "fact-renarin-wor-chapter-89",
@@ -51144,10 +51931,12 @@
       "kind": "abilities",
       "text": "Se identifica como Vigilante de la Verdad.",
       "sourceIds": [
-        "wor-c89"
+        "wor-c89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Orden declarada en la sala superior; Glys mencionado, sin aparición corporal."
     },
     {
       "id": "audit-72-fact-2",
@@ -53902,10 +54691,12 @@
       "kind": "identity",
       "text": "Espada negra entregada a Szeth; al recibirla escucha una voz.",
       "sourceIds": [
-        "audit-wore-c88"
+        "audit-wore-c88",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Recibe la espada negra y oye la voz, sin importar nombre externo."
     },
     {
       "id": "audit-wore-fact-shallan-mother-wor-chapter-10",
@@ -56938,10 +57729,12 @@
         "sceneId": "wor-chapter-89"
       },
       "sourceIds": [
-        "spren85-reread89"
+        "spren85-reread89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Orden declarada en la sala superior; Glys mencionado, sin aparición corporal."
     },
     {
       "id": "ob86-fact-guff-0",
@@ -75914,6 +76707,601 @@
       "primaryLocator": "EPUB español aportado, OEBPS/Text/05_087.xhtml. El Diagrama ordena sembrar caos en Alezkar; propone a Dalinar como aliado si actúa como caudillo y asesinarlo si persigue la paz. Se conserva como orden del documento.",
       "readingLocator": "EPUB español aportado, OEBPS/Text/05_087.xhtml. El Diagrama ordena sembrar caos en Alezkar; propone a Dalinar como aliado si actúa como caudillo y asesinarlo si persigue la paz. Se conserva como orden del documento.",
       "supersedes": []
+    },
+    {
+      "id": "primary172-pama-pr88-88",
+      "characterId": "pama-pr88",
+      "kind": "background",
+      "text": "Conductora de Amaram: recibe su carta y busca la vinculacaña para enviar la comunicación.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Conductora de Amaram: recibe su carta y busca la vinculacaña para enviar la comunicación.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Conductora de Amaram: recibe su carta y busca la vinculacaña para enviar la comunicación.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-masked-dart-attacker-pr88-88",
+      "characterId": "masked-dart-attacker-pr88",
+      "kind": "background",
+      "text": "Dispara dos dardos contra Amaram desde el hueco del monasterio. No se identifica nominalmente en el pasaje.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dispara dos dardos contra Amaram desde el hueco del monasterio. No se identifica nominalmente en el pasaje.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dispara dos dardos contra Amaram desde el hueco del monasterio. No se identifica nominalmente en el pasaje.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-davar-truth88",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Reconoce que mató a su madre y al amigo que la acompañaba. Lin se interpuso para protegerla y dejó que lo culparan; la relación amorosa entre los dos muertos era lo que otros creían, no una revelación comprobada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Reconoce que mató a su madre y al amigo que la acompañaba. Lin se interpuso para protegerla y dejó que lo culparan; la relación amorosa entre los dos muertos era lo que otros creían, no una revelación comprobada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Reconoce que mató a su madre y al amigo que la acompañaba. Lin se interpuso para protegerla y dejó que lo culparan; la relación amorosa entre los dos muertos era lo que otros creían, no una revelación comprobada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-davar-man88",
+      "characterId": "davar-room-dead-man-pr10",
+      "kind": "background",
+      "text": "Es el amigo que acompañó a la madre de Shallan; lucha con Lin y lo sujeta. No se revela su nombre ni se confirma que fuera amante de la madre.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Es el amigo que acompañó a la madre de Shallan; lucha con Lin y lo sujeta. No se revela su nombre ni se confirma que fuera amante de la madre.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Es el amigo que acompañó a la madre de Shallan; lucha con Lin y lo sujeta. No se revela su nombre ni se confirma que fuera amante de la madre.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-pattern-memory88",
+      "characterId": "pattern",
+      "kind": "background",
+      "text": "Confirma que era la pequeña hoja guardada por Lin en la caja fuerte; la recreación no mueve a Patrón físicamente al pasado. Su predicción de que Shallan lo matará no es una muerte ocurrida.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Confirma que era la pequeña hoja guardada por Lin en la caja fuerte; la recreación no mueve a Patrón físicamente al pasado. Su predicción de que Shallan lo matará no es una muerte ocurrida.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Confirma que era la pequeña hoja guardada por Lin en la caja fuerte; la recreación no mueve a Patrón físicamente al pasado. Su predicción de que Shallan lo matará no es una muerte ocurrida.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-mraize-brothers88",
+      "characterId": "mraize",
+      "kind": "background",
+      "text": "Dice haber rescatado a los hermanos de Shallan y que los llevará a Urithiru; no se muestra su llegada ni se revela su posición actual. Su presencia anterior entre los ejércitos es una deducción de Shallan.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dice haber rescatado a los hermanos de Shallan y que los llevará a Urithiru; no se muestra su llegada ni se revela su posición actual. Su presencia anterior entre los ejércitos es una deducción de Shallan.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dice haber rescatado a los hermanos de Shallan y que los llevará a Urithiru; no se muestra su llegada ni se revela su posición actual. Su presencia anterior entre los ejércitos es una deducción de Shallan.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-helaran-skybreakers88",
+      "characterId": "shallan-brother-skybreakers-reference-pr88",
+      "kind": "background",
+      "text": "Mraize alude a un hermano de Shallan que buscó a los Rompedores del Cielo; el pasaje no lo nombra ni prueba membresía, misión o identidad con Helaran.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pregunta de Mraize: por qué su hermano buscó a los Rompedores del Cielo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Mraize pregunta por qué su hermano buscó a los Rompedores del Cielo. Se conserva como afirmación de Mraize; no prueba aquí membresía ni quién lo envió.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-lin-ghostblood88",
+      "characterId": "lin-davar",
+      "kind": "background",
+      "text": "Mraize afirma que Lin se unió a los Sangre Espectral. No se identifica un interlocutor en la visita histórica ni se inventa un contacto personal con Mraize.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Mraize afirma que Lin se unió a los Sangre Espectral. No se identifica un interlocutor en la visita histórica ni se inventa un contacto personal con Mraize.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Mraize afirma que Lin se unió a los Sangre Espectral. No se identifica un interlocutor en la visita histórica ni se inventa un contacto personal con Mraize.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-amaram-restares88",
+      "characterId": "amaram",
+      "kind": "background",
+      "text": "Escribe a Restares como Hijo de Honor: cree haber provocado el regreso de los Heraldos mediante una crisis. Su deseo de escribir desde Urithiru no es llegada; la justificación es suya.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Escribe a Restares como Hijo de Honor: cree haber provocado el regreso de los Heraldos mediante una crisis. Su deseo de escribir desde Urithiru no es llegada; la justificación es suya.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Escribe a Restares como Hijo de Honor: cree haber provocado el regreso de los Heraldos mediante una crisis. Su deseo de escribir desde Urithiru no es llegada; la justificación es suya.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-restares-letter88",
+      "characterId": "restares",
+      "kind": "background",
+      "text": "Destinatario de la carta que Amaram entrega a Pama para transmitir; no se muestra recepción ni encuentro corporal.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Destinatario de la carta que Amaram entrega a Pama para transmitir; no se muestra recepción ni encuentro corporal.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Destinatario de la carta que Amaram entrega a Pama para transmitir; no se muestra recepción ni encuentro corporal.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-nale-recognition88",
+      "characterId": "crescent-scar-stranger",
+      "kind": "background",
+      "text": "Szeth lo reconoce como Nin, Nalan o Nale, Heraldo de la Justicia. Afirma haber esperado al impacto y restaurado a Szeth inmediatamente con la potenciación adecuada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Szeth lo reconoce como Nin, Nalan o Nale, Heraldo de la Justicia. Afirma haber esperado al impacto y restaurado a Szeth inmediatamente con la potenciación adecuada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Szeth lo reconoce como Nin, Nalan o Nale, Heraldo de la Justicia. Afirma haber esperado al impacto y restaurado a Szeth inmediatamente con la potenciación adecuada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-szeth-revival88",
+      "characterId": "szeth",
+      "kind": "background",
+      "text": "Despierta vivo. Nalan dice que murió al chocar y lo restauró antes de que muriera su cerebro. Szeth había liberado el vínculo con la hoja. Es una explicación relatada en88, no muerte observada por Kaladin en86.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Despierta vivo. Nalan dice que murió al chocar y lo restauró antes de que muriera su cerebro. Szeth había liberado el vínculo con la hoja. Es una explicación relatada en88, no muerte observada por Kaladin en86.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Despierta vivo. Nalan dice que murió al chocar y lo restauró antes de que muriera su cerebro. Szeth había liberado el vínculo con la hoja. Es una explicación relatada en88, no muerte observada por Kaladin en86.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-black-sword88",
+      "characterId": "black-sword",
+      "kind": "background",
+      "text": "Nalan entrega a Szeth una espada de hoja negra y vaina metálica; una voz alegre le habla mentalmente. El capítulo no revela un nombre propio ni autoría, procedencia o especie.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Nalan entrega a Szeth una espada de hoja negra y vaina metálica; una voz alegre le habla mentalmente. El capítulo no revela un nombre propio ni autoría, procedencia o especie.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Nalan entrega a Szeth una espada de hoja negra y vaina metálica; una voz alegre le habla mentalmente. El capítulo no revela un nombre propio ni autoría, procedencia o especie.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-epigraph88",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "La coda enumera fechas cuya relevancia declara desconocida; no se inventa una explicación.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. La coda enumera fechas cuya relevancia declara desconocida; no se inventa una explicación.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. La coda enumera fechas cuya relevancia declara desconocida; no se inventa una explicación.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-dalinar-oaths89",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Pronuncia los Ideales y el Padre Tormenta lo llama Forjador de Vínculos. Rompe el vínculo con su hoja, oye sus gritos y luego absorbe luz; no representa el sueño como encuentro físico con Gavilar o su madre.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Pronuncia los Ideales y el Padre Tormenta lo llama Forjador de Vínculos. Rompe el vínculo con su hoja, oye sus gritos y luego absorbe luz; no representa el sueño como encuentro físico con Gavilar o su madre.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Pronuncia los Ideales y el Padre Tormenta lo llama Forjador de Vínculos. Rompe el vínculo con su hoja, oye sus gritos y luego absorbe luz; no representa el sueño como encuentro físico con Gavilar o su madre.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-renarin-reveal89",
+      "characterId": "renarin",
+      "kind": "background",
+      "text": "Declara Vigilante de la Verdad y nombra a Glys; asiente a la explicación de su vista curada. Se aclara por qué los gritos de la hoja lo paralizaron en el duelo; no se revela especie o condición ulterior de Glys.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declara Vigilante de la Verdad y nombra a Glys; asiente a la explicación de su vista curada. Se aclara por qué los gritos de la hoja lo paralizaron en el duelo; no se revela especie o condición ulterior de Glys.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Declara Vigilante de la Verdad y nombra a Glys; asiente a la explicación de su vista curada. Se aclara por qué los gritos de la hoja lo paralizaron en el duelo; no se revela especie o condición ulterior de Glys.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-kaladin-plan89",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Pide luz para ir a Piedralar a ayudar a sus padres. Sale a preparar la mochila: plan de vuelo, sin llegada ni despegue mostrados.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Pide luz para ir a Piedralar a ayudar a sus padres. Sale a preparar la mochila: plan de vuelo, sin llegada ni despegue mostrados.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Pide luz para ir a Piedralar a ayudar a sus padres. Sale a preparar la mochila: plan de vuelo, sin llegada ni despegue mostrados.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-hatham-arrival89",
+      "characterId": "hatham",
+      "kind": "background",
+      "text": "Dalinar ve llegar un grupo con la bandera de Hatham; la bandera no individualiza el cuerpo de Hatham en esa plataforma.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Dalinar ve llegar un grupo con la bandera de Hatham; la bandera no individualiza el cuerpo de Hatham en esa plataforma.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Dalinar ve llegar un grupo con la bandera de Hatham; la bandera no individualiza el cuerpo de Hatham en esa plataforma.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-sadeas-blade89",
+      "characterId": "adolin",
+      "kind": "background",
+      "text": "Mata a Sadeas, arroja la hoja de su padre por una ventana a un saliente inferior, borra su señal y se aleja; no queda con la hoja ni junto al cadáver.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Mata a Sadeas, arroja la hoja de su padre por una ventana a un saliente inferior, borra su señal y se aleja; no queda con la hoja ni junto al cadáver.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Mata a Sadeas, arroja la hoja de su padre por una ventana a un saliente inferior, borra su señal y se aleja; no queda con la hoja ni junto al cadáver.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-dalinar-news89",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Ha hablado por vinculacaña con el nuevo emperador de Azir y recibió respuesta de Taravangian. Noticias de Kholinar y Lagopuro no crean presencias suyas allí.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Ha hablado por vinculacaña con el nuevo emperador de Azir y recibió respuesta de Taravangian. Noticias de Kholinar y Lagopuro no crean presencias suyas allí.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Ha hablado por vinculacaña con el nuevo emperador de Azir y recibió respuesta de Taravangian. Noticias de Kholinar y Lagopuro no crean presencias suyas allí.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-epigraph89",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "El Diagrama busca una respuesta ligada a los parshendi y exige presionar a los alezi antes de que él obtenga su poder; no se adjudican pronombres a identidades que el epígrafe no explicita.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-89"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. El Diagrama busca una respuesta ligada a los parshendi y exige presionar a los alezi antes de que él obtenga su poder; no se adjudican pronombres a identidades que el epígrafe no explicita.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. El Diagrama busca una respuesta ligada a los parshendi y exige presionar a los alezi antes de que él obtenga su poder; no se adjudican pronombres a identidades que el epígrafe no explicita.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-jasnah-return",
+      "characterId": "jasnah",
+      "kind": "background",
+      "text": "Regresa físicamente del otro lado y admite haber aprendido allí; las palabras de los altospren no identifican a Marfil como miembro de ese tipo. Los acontecimientos actuales no coinciden necesariamente con los registros antiguos.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Regresa físicamente del otro lado y admite haber aprendido allí; las palabras de los altospren no identifican a Marfil como miembro de ese tipo. Los acontecimientos actuales no coinciden necesariamente con los registros antiguos.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Regresa físicamente del otro lado y admite haber aprendido allí; las palabras de los altospren no identifican a Marfil como miembro de ese tipo. Los acontecimientos actuales no coinciden necesariamente con los registros antiguos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-tanavast-name",
+      "characterId": "tanavast-mentioned",
+      "kind": "background",
+      "text": "Sagaz llama Tanavast al Todopoderoso al discutir con Jasnah y dice que le invitó a beber una vez. Se conserva como relato de Sagaz, no encuentro actual.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Sagaz llama Tanavast al Todopoderoso al discutir con Jasnah y dice que le invitó a beber una vez. Se conserva como relato de Sagaz, no encuentro actual.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Sagaz llama Tanavast al Todopoderoso al discutir con Jasnah y dice que le invitó a beber una vez. Se conserva como relato de Sagaz, no encuentro actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-nazh-note-pr-end-89",
+      "characterId": "nazh-note-pr-end",
+      "kind": "background",
+      "text": "Firma la nota final ilustrada sobre el ketek de la cubierta del diario de Jasnah. No se deduce dónde está ni su relación con figuras anónimas anteriores.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/07_nta.xhtml; OEBPS/Images/img_nota_final.jpeg. Nota final ilustrada firmada Nazh.",
+      "readingLocator": "Nota final, imagen original vista localmente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-nazh-ketek",
+      "characterId": "nazh-note-pr-end",
+      "kind": "background",
+      "text": "La nota final, firmada Nazh, fecha el ketek en Día Claro, Jeseses1175; describe dos tormentas entrelazadas en los glifos y el diario de Jasnah. No afirma que Nazh escribiera el poema ni crea una presencia espacial.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/07_nta.xhtml; OEBPS/Images/img_nota_final.jpeg. Nota final ilustrada firmada Nazh.",
+      "readingLocator": "Nota final, imagen original vista localmente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-ars-compiler-pr-end-89",
+      "characterId": "ars-compiler-pr-end",
+      "kind": "background",
+      "text": "Voz de investigación del anexo: expone conocimientos y dudas; no se importa su nombre de otras obras.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/08_ars.xhtml; OEBPS/Images/img_tabla_ars.jpg. Texto y tabla del Ars Arcanum.",
+      "readingLocator": "Ars Arcanum completo y tabla vista localmente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary172-ars-scope",
+      "characterId": "ars-compiler-pr-end",
+      "kind": "background",
+      "text": "El Ars reúne diez Potencias y asociaciones históricas vorin, distingue fabriales y enlaces, y compara el Tejer Luz de Roshar con variantes de Sel y la yolish. Conserva como hipótesis su interpretación de los spren cautivos, la Antigua Magia y los focos corporales.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-epilogue"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/08_ars.xhtml; OEBPS/Images/img_tabla_ars.jpg. Texto y tabla del Ars Arcanum.",
+      "readingLocator": "Ars Arcanum completo y tabla vista localmente.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-shallan-brother-skybreakers-reference-pr88",
+      "characterId": "shallan-brother-skybreakers-reference-pr88",
+      "kind": "background",
+      "text": "Mraize dice que un hermano de Shallan buscó a los Rompedores del Cielo, sin nombrarlo en este pasaje. Referencia sin correspondencia nominal confirmada.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Mraize dice que un hermano de Shallan buscó a los Rompedores del Cielo, sin nombrarlo en este pasaje. Referencia sin correspondencia nominal confirmada.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Mraize dice que un hermano de Shallan buscó a los Rompedores del Cielo, sin nombrarlo en este pasaje. Referencia sin correspondencia nominal confirmada.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-petitioning-wife-pr88",
+      "characterId": "temple-petitioning-wife-pr88",
+      "kind": "background",
+      "text": "Amaram pasa junto a una madre que pide una plegaria por su marido, que lucha con Dalinar. No se individualiza a su hijo.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram pasa junto a una madre que pide una plegaria por su marido, que lucha con Dalinar. No se individualiza a su hijo.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram pasa junto a una madre que pide una plegaria por su marido, que lucha con Dalinar. No se individualiza a su hijo.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-petitioning-husband-pr88",
+      "characterId": "temple-petitioning-husband-pr88",
+      "kind": "background",
+      "text": "Marido de la mujer del templo; ella dice que lucha con el ejército de Dalinar. No se muestra su presencia ni se conoce su nombre.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Marido de la mujer del templo; ella dice que lucha con el ejército de Dalinar. No se muestra su presencia ni se conoce su nombre.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Marido de la mujer del templo; ella dice que lucha con el ejército de Dalinar. No se muestra su presencia ni se conoce su nombre.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-young-sibling-one-pr88",
+      "characterId": "temple-young-sibling-one-pr88",
+      "kind": "background",
+      "text": "Uno de los dos jóvenes asustados que dicen que su padre es demasiado viejo para viajar; no se revela su nombre.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Uno de los dos jóvenes asustados que dicen que su padre es demasiado viejo para viajar; no se revela su nombre.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Uno de los dos jóvenes asustados que dicen que su padre es demasiado viejo para viajar; no se revela su nombre.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-young-sibling-two-pr88",
+      "characterId": "temple-young-sibling-two-pr88",
+      "kind": "background",
+      "text": "Segundo de los jóvenes que piden ayuda para transportar a su padre; no se determina género ni identidad nominal de cada uno.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Segundo de los jóvenes que piden ayuda para transportar a su padre; no se determina género ni identidad nominal de cada uno.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Segundo de los jóvenes que piden ayuda para transportar a su padre; no se determina género ni identidad nominal de cada uno.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-young-siblings-father-pr88",
+      "characterId": "temple-young-siblings-father-pr88",
+      "kind": "background",
+      "text": "Los dos jóvenes dicen que su padre es demasiado viejo para el viaje. No se muestra el lugar donde está ni se lo vincula con la otra familia.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Los dos jóvenes dicen que su padre es demasiado viejo para el viaje. No se muestra el lugar donde está ni se lo vincula con la otra familia.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Los dos jóvenes dicen que su padre es demasiado viejo para el viaje. No se muestra el lugar donde está ni se lo vincula con la otra familia.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-prayer-ardent-pr88",
+      "characterId": "temple-prayer-ardent-pr88",
+      "kind": "background",
+      "text": "Dice a la mujer que recoja sus cosas y se una a las caravanas.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dice a la mujer que recoja sus cosas y se una a las caravanas.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dice a la mujer que recoja sus cosas y se una a las caravanas.",
+      "supersedes": []
+    },
+    {
+      "id": "audit173-temple-help-ardent-pr88",
+      "characterId": "temple-help-ardent-pr88",
+      "kind": "background",
+      "text": "Corre a ofrecer ayuda a Amaram antes de distraerse con los jóvenes; no se fuerza equivalencia con otro fervoroso.",
+      "revealedAt": {
+        "bookId": "wor",
+        "sceneId": "wor-chapter-88"
+      },
+      "sourceIds": [
+        "primary172-wor88-end"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Corre a ofrecer ayuda a Amaram antes de distraerse con los jóvenes; no se fuerza equivalencia con otro fervoroso.",
+      "readingLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Corre a ofrecer ayuda a Amaram antes de distraerse con los jóvenes; no se fuerza equivalencia con otro fervoroso.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -78427,6 +79815,14 @@
         {
           "revision": 169,
           "notes": "PR86 cadáver de Mart, hermano de Eth ya revelado32; Pedin distinto, sin parentesco inferido. Syl llama padre al Padre Tormenta: filiación de spren, no genealogía humana. PR87 Rod primo de Lopen muerto según Teft; Chilinko tío, sin progenitor intermedio inventado; casa de la madre y primos vigilantes sin identificarlos con otros primos."
+        },
+        {
+          "revision": 172,
+          "notes": "PR88 aclaración de la muerte de la madre, amigo sin romance confirmado; Lin protege a Shallan. Hermanos y prometida de Balat siguen ausentes sin llegada inventada. PR89 Ialai se marcha antes de la muerte; el sueño de Dalinar no resucita a Gavilar o a su madre. Kaladin quiere ayudar a sus padres, aún no llega a Piedralar. Renarin hijo explícito de Dalinar, sin nuevas madres o progenitores inferidos."
+        },
+        {
+          "revision": 173,
+          "notes": "Dos familias distintas del recinto del templo: mujer/marido y dos jóvenes/padre. Sin hijos inventados para la madre, sin madre inventada para los hermanos y sin lugares para familiares mencionados. Hermano aludido por Mraize sin correspondencia nominal adelantada."
         }
       ]
     }
@@ -78925,12 +80321,14 @@
         "sceneId": "wor-chapter-88"
       },
       "sourceIds": [
-        "wor-c88"
+        "wor-c88",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Despierta vivo en un lugar sin localizar; no borrar el informe anterior."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Despierta vivo y conversa con Nalan; conservar el informe de muerte87 sin sustituirlo."
     },
     {
       "id": "life-sadeas-wor-chapter-89",
@@ -78941,12 +80339,14 @@
         "sceneId": "wor-chapter-89"
       },
       "sourceIds": [
-        "wor-c89"
+        "wor-c89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Fallecimiento en el encuentro con Adolin."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Adolin lo apuñala; la hoja aparece junto al cadáver. Muerte confirmada sin arrastrar el cuerpo con Adolin."
     },
     {
       "id": "life-jasnah-wor-epilogue",
@@ -78957,12 +80357,14 @@
         "sceneId": "wor-epilogue"
       },
       "sourceIds": [
-        "wor-epilogue-source"
+        "wor-epilogue-source",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "El retorno confirma su supervivencia; el aviso del capítulo 34 se conserva hasta esta revelación."
-      ]
+      ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Jasnah reaparece viva y conversa, conservando el informe de su muerte enPR7."
     },
     {
       "id": "wok-miasal-death-chapter-20",
@@ -81151,7 +82553,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 171,
+  "revision": 173,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -84105,16 +85507,18 @@
       "id": "wor-dalinar-chapter-89-warmth",
       "characterId": "dalinar",
       "sceneId": "wor-chapter-89",
-      "type": "vision",
-      "experiencedPlace": "Visión de luz y calor al despertar",
+      "type": "dream",
+      "experiencedPlace": "Sueño del hogar infantil, luz y calor; origen no identificado",
       "physicalPlaceId": "place-urithiru-dalinar-rooms",
       "sourceIds": [
-        "wor-c89"
+        "wor-c89",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "El cuerpo permanece en Urithiru; no se confunde la visión con una ubicación histórica."
       ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Sueña con su hogar infantil y luz cálida; Padre Tormenta niega haber enviado la experiencia.",
       "entryAnchor": {
         "placeId": "place-urithiru-dalinar-rooms",
         "name": "Urithiru · Dependencias de Dalinar",
@@ -84135,12 +85539,14 @@
       "entryPlaceId": "place-winds-pleasure-frostlands-coast",
       "cognitivePlaceId": "place-shadesmar-jasnah-journey",
       "sourceIds": [
-        "wor-epilogue-source"
+        "wor-epilogue-source",
+        "primary172-wor88-end"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "El epílogo revela la estancia corporal anterior y muestra el retorno. El representante usa el punto de entrada del barco, no una coordenada del lugar de salida. Al terminar la escena su última referencia corporal vuelve a ser física."
       ],
+      "primaryLocator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. El epílogo muestra el retorno y confirma estancia anterior en el otro lado; el instante de entrada no se representa.",
       "entryAnchor": {
         "placeId": "place-winds-pleasure-frostlands-coast",
         "name": "Wind’s Pleasure · Frente a las Tierras Heladas",
@@ -96137,10 +97543,10 @@
           "scene": "wor-chapter-89",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de los Radiantes",
+          "place": "Urithiru · Sala de columnas bajo la cima",
           "placeId": "place-urithiru-radiants-meeting",
           "realm": "physical",
           "placeNotes": [
@@ -96151,12 +97557,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -96173,11 +97580,57 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary172-kaladin-exit89",
+          "scene": "wor-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Escaleras de salida de la sala superior",
+          "placeId": "place-upper-stairs-pr89",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_089.xhtml. Urithiru · Escaleras de salida de la sala superior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-89"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Sale para preparar una mochila; no se muestra aún despegue ni llegada a Piedralar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale para preparar una mochila; no se muestra aún despegue ni llegada a Piedralar."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-5-01",
@@ -108658,11 +110111,155 @@
           "notes": []
         },
         {
-          "id": "wor-shallan-chapter-88-01",
+          "id": "primary172-shallan-card88",
           "scene": "wor-chapter-88",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la tarjeta de los Sangre Espectral",
+          "placeId": "place-urithiru-card-corridor-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Pasillo de la tarjeta de los Sangre Espectral",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Encuentra una tarjeta con su nombre real y deja atrás a los guardias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra una tarjeta con su nombre real y deja atrás a los guardias."
+          ]
+        },
+        {
+          "id": "primary172-shallan-mraize88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala con ventana interior donde espera Mraize",
+          "placeId": "place-urithiru-mraize-room-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Sala con ventana interior donde espera Mraize",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Entra sola y habla con Mraize; invoca a Patrón como hoja.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra sola y habla con Mraize; invoca a Patrón como hoja."
+          ]
+        },
+        {
+          "id": "primary172-shallan-adolin88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo ante la cámara de Shallan",
+          "placeId": "place-shallan-room-threshold-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Pasillo ante la cámara de Shallan",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Habla y besa a Adolin antes de entrar en su propia cámara.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla y besa a Adolin antes de entrar en su propia cámara."
+          ]
+        },
+        {
+          "id": "wor-shallan-chapter-88-01",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Dependencias de Shallan",
@@ -108676,12 +110273,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -108698,10 +110296,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -108712,24 +110308,25 @@
           "memoryOrder": 50,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Jah Keved · Propiedad Davar",
-          "placeId": "place-jah-keved-propiedad-davar",
+          "place": "Propiedad Davar · Habitación del recuerdo",
+          "placeId": "place-davar-room-memory-pr10",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Jah Keved · anclaje regional aproximado. La coordenada concreta de esta escena sigue pendiente."
+            "Palabras radiantes, EPUB español aportado (13234909 bytes), capítulo 10; líneas 5531-5579 de la extracción de 52283 líneas. El recuerdo transcurre en una habitación con dos cuerpos y una caja fuerte en la pared.",
+            "La dependencia está cotejada; el anclaje compartido no identifica su punto exacto."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -108740,16 +110337,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 6,
-            "note": "El recuerdo aclara el incidente de seis años antes; su orden exacto respecto al asesinato sigue pendiente."
+            "note": "Aclaración del recuerdo de seis años antes ya presentado enPR10; fecha respecto a Gavilar no resuelta."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Fechar el incidente respecto al inicio del recorrido antes de incorporarlo."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Recuerdo reconstruido mediante ilusión en Urithiru: remite a la habitación de la propiedad Davar, no traslada allí el cuerpo presente de Shallan.",
+          "needsConfirmation": [],
           "notes": [
             "No desplaza la posición presente de Shallan ni devuelve a Lin a la vida."
           ]
@@ -108759,10 +110354,10 @@
           "scene": "wor-chapter-89",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de los Radiantes",
+          "place": "Urithiru · Sala de columnas bajo la cima",
           "placeId": "place-urithiru-radiants-meeting",
           "realm": "physical",
           "placeNotes": [
@@ -108773,12 +110368,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -108795,10 +110391,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -108857,7 +110451,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -111971,10 +113565,11 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-epilogue-source",
           "sourceIds": [
-            "wor-epilogue-source"
+            "wor-epilogue-source",
+            "primary172-wor88-end"
           ],
           "status": "inferred",
           "coordinateStatus": "unlocated",
@@ -111993,12 +113588,13 @@
             "bookId": "wor",
             "sceneId": "wor-epilogue"
           },
-          "locator": null,
+          "locator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Jasnah habla de su huida y de lo aprendido en el otro lado; no se narra el instante de entrada desde el barco.",
           "needsConfirmation": [
-            "Cotejar el momento de la entrada, su duración y el itinerario con texto primario."
+            "La conexión temporal exacta con el ataque del barco sigue inferida; no se reconstruye el momento de entrada."
           ],
           "notes": [
-            "La conexión con la desaparición del barco se deduce del retorno y del relato de estancia; falta cotejo primario del instante de entrada. No se reconstruye el itinerario cognitivo."
+            "La conexión con la desaparición del barco se deduce del retorno y del relato de estancia; falta cotejo primario del instante de entrada. No se reconstruye el itinerario cognitivo.",
+            "Retrospección cotejada, pero la vinculación exacta conPR7 conserva inferencia."
           ]
         },
         {
@@ -112066,12 +113662,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-epilogue-source",
           "sourceIds": [
-            "wor-epilogue-source"
+            "wor-epilogue-source",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-jasnah-wit-epilogue-return",
@@ -112088,12 +113685,55 @@
             "bookId": "wor",
             "sceneId": "wor-epilogue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Retorno físico mostrado y encuentro con Sagaz; no se identifica región exacta ni una llegada posterior a una ciudad.",
+          "needsConfirmation": [],
           "notes": [
             "El lugar de salida de Shadesmar y la población siguiente no se localizan en este libro con precisión suficiente."
+          ]
+        },
+        {
+          "id": "primary172-jasnah-walk-end",
+          "scene": "wor-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Colinas sin localizar · Camino hacia la civilización",
+          "placeId": "place-jasnah-wit-walk-epilogue",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Colinas sin localizar · Camino hacia la civilización",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-jasnah-wit-epilogue-return",
+          "coordinateAnchorName": "Lugar del retorno de Jasnah y encuentro con Sagaz · Sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-epilogue"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Se ponen a caminar y hablan; no llegan a una población.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se ponen a caminar y hablan; no llegan a una población."
           ]
         },
         {
@@ -113010,7 +114650,7 @@
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -113587,12 +115227,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-szeth-revival-unknown",
@@ -113609,10 +115250,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": [
             "Lugar desconocido: se conserva el punto anterior si existe, sin confirmar una presencia actual allí."
           ]
@@ -117291,53 +118930,6 @@
           "notes": [
             "Kaladin vuela hasta Dalinar y Navani, donde está Shallan, informa y deja la hoja en la roca."
           ]
-        },
-        {
-          "id": "wor-syl-chapter-89-01",
-          "scene": "wor-chapter-89",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de los Radiantes",
-          "placeId": "place-urithiru-radiants-meeting",
-          "realm": "physical",
-          "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
-          ],
-          "xy": [
-            474.647,
-            410.831
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c89",
-          "sourceIds": [
-            "wor-c89"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "city-anchor",
-          "coordinateAnchorId": "place-urithiru",
-          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia dentro de la escena; sin fecha exacta ni simultaneidad asegurada entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-89"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
         },
         {
           "id": "ob-syl-chapter-5-01",
@@ -123458,12 +125050,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123480,10 +125073,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -123494,7 +125085,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -123505,12 +125096,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123527,10 +125119,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -123541,7 +125131,7 @@
           "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de los Radiantes",
+          "place": "Urithiru · Sala de columnas bajo la cima",
           "placeId": "place-urithiru-radiants-meeting",
           "realm": "physical",
           "placeNotes": [
@@ -123552,12 +125142,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123574,10 +125165,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -123828,7 +125417,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -131185,26 +132774,28 @@
           "scene": "wor-chapter-88",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Dependencias de Shallan",
-          "placeId": "place-urithiru-shallan-rooms",
+          "place": "Urithiru · Pasillo ante la cámara de Shallan",
+          "placeId": "place-shallan-room-threshold-pr88",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Pasillo ante la cámara de Shallan",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -131221,10 +132812,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -131246,12 +132835,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -131268,11 +132858,57 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary172-adolin-end89",
+          "scene": "wor-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sector donde Adolin se reúne con exploradores",
+          "placeId": "place-adolin-explorers-pr89",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_089.xhtml. Urithiru · Sector donde Adolin se reúne con exploradores",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-89"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Se aleja, borra su marca y se reúne con un grupo de exploradores fingiendo haber estado allí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se aleja, borra su marca y se reúne con un grupo de exploradores fingiendo haber estado allí."
+          ]
         },
         {
           "id": "ob-adolin-chapter-2-01",
@@ -131378,7 +133014,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -134795,10 +136431,10 @@
           "scene": "wor-chapter-89",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de los Radiantes",
+          "place": "Urithiru · Sala de columnas bajo la cima",
           "placeId": "place-urithiru-radiants-meeting",
           "realm": "physical",
           "placeNotes": [
@@ -134809,12 +136445,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -134831,11 +136468,57 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary172-renarin-exit89",
+          "scene": "wor-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Escaleras de salida de la sala superior",
+          "placeId": "place-upper-stairs-pr89",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_089.xhtml. Urithiru · Escaleras de salida de la sala superior",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-89"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Se dispone a buscar al rey para pedir esmeraldas; no se muestra encuentro ni presencia en la sala del rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se dispone a buscar al rey para pedir esmeraldas; no se muestra encuentro ni presencia en la sala del rey."
+          ]
         },
         {
           "id": "ob-renarin-chapter-2-02",
@@ -134893,7 +136576,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -137372,6 +139055,54 @@
           "notes": []
         },
         {
+          "id": "primary172-elhokar-arrived89",
+          "scene": "wor-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada del rey, dependencia sin precisar",
+          "placeId": "place-urithiru-king-unspecified-pr89",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_089.xhtml. Urithiru · Llegada del rey, dependencia sin precisar",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-89"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. El narrador confirma que Elhokar ha llegado con herdazianos; no concreta sala ni identifica nominalmente a cada acompañante.",
+          "needsConfirmation": [],
+          "notes": [
+            "El narrador confirma que Elhokar ha llegado con herdazianos; no concreta sala ni identifica nominalmente a cada acompañante."
+          ]
+        },
+        {
           "id": "ob-elhokar-chapter-4-02",
           "scene": "ob-chapter-4",
           "retrospective": false,
@@ -137379,7 +139110,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -138827,12 +140558,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c89",
           "sourceIds": [
-            "wor-c89"
+            "wor-c89",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -138849,10 +140581,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-89"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Presencia nominal cotejada: habitaciones, corredor, cima y sala de columnas distintos.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -142187,7 +143917,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -143350,12 +145080,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-epilogue-source",
           "sourceIds": [
-            "wor-epilogue-source"
+            "wor-epilogue-source",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-jasnah-wit-epilogue-return",
@@ -143372,12 +145103,55 @@
             "bookId": "wor",
             "sceneId": "wor-epilogue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Retorno físico mostrado y encuentro con Sagaz; no se identifica región exacta ni una llegada posterior a una ciudad.",
+          "needsConfirmation": [],
           "notes": [
             "El lugar de salida de Shadesmar y la población siguiente no se localizan en este libro con precisión suficiente."
+          ]
+        },
+        {
+          "id": "primary172-wit-walk-end",
+          "scene": "wor-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Colinas sin localizar · Camino hacia la civilización",
+          "placeId": "place-jasnah-wit-walk-epilogue",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Colinas sin localizar · Camino hacia la civilización",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-jasnah-wit-epilogue-return",
+          "coordinateAnchorName": "Lugar del retorno de Jasnah y encuentro con Sagaz · Sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-epilogue"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Se ponen a caminar y hablan; no llegan a una población.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se ponen a caminar y hablan; no llegan a una población."
           ]
         }
       ]
@@ -156899,6 +158673,54 @@
           ]
         },
         {
+          "id": "primary172-gaz-card88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la tarjeta de los Sangre Espectral",
+          "placeId": "place-urithiru-card-corridor-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Pasillo de la tarjeta de los Sangre Espectral",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Gaz se dispone a investigar; Shallan lo detiene y pide que esperen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Gaz se dispone a investigar; Shallan lo detiene y pide que esperen."
+          ]
+        },
+        {
           "id": "ob-gaz-chapter-21-03",
           "scene": "ob-chapter-21",
           "retrospective": false,
@@ -164765,12 +166587,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -164787,18 +166610,16 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
-          "id": "wor-amaram-chapter-88-02",
+          "id": "primary172-amaram-coach-before88",
           "scene": "wor-chapter-88",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamento Kholin · Carruaje de Amaram",
@@ -164812,12 +166633,203 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Escribe la carta a Restares mientras entra en el campamento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escribe la carta a Restares mientras entra en el campamento."
+          ]
+        },
+        {
+          "id": "audit173-temple-amaram",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Recinto del templo y peticiones de ayuda",
+          "placeId": "place-temple-petitions-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram atraviesa el recinto del templo antes de llegar al muro trasero del monasterio."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Antes de abrir el muro del monasterio; no fecha absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Petición de plegaria y ayuda a los jóvenes, en el recinto del templo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individualizada; los familiares solo mencionados no se sitúan aquí."
+          ]
+        },
+        {
+          "id": "primary172-amaram-wall88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio Kholin · Exterior del muro cortado",
+          "placeId": "place-monastery-breach-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Monasterio Kholin · Exterior del muro cortado",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Llega al muro trasero e invoca la hoja para abrir un hueco.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al muro trasero e invoca la hoja para abrir un hueco."
+          ]
+        },
+        {
+          "id": "primary172-amaram-pursuit88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio Kholin · Exterior del muro cortado",
+          "placeId": "place-monastery-breach-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Monasterio Kholin · Exterior del muro cortado",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Persigue brevemente a la figura y vuelve para sacar a Talenel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Persigue brevemente a la figura y vuelve para sacar a Talenel."
+          ]
+        },
+        {
+          "id": "wor-amaram-chapter-88-02",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Carruaje de Amaram",
+          "placeId": "place-amaram-taln-coach",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -164834,10 +166846,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -170154,12 +172164,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -170176,10 +172187,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -170187,7 +172196,7 @@
           "scene": "wor-chapter-88",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Campamento Kholin · Carruaje de Amaram",
@@ -170201,12 +172210,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -170223,10 +172233,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         }
       ]
@@ -174277,11 +176285,59 @@
           ]
         },
         {
+          "id": "primary172-pattern-mraize88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala con ventana interior donde espera Mraize",
+          "placeId": "place-urithiru-mraize-room-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Sala con ventana interior donde espera Mraize",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Shallan invoca expresamente a Patrón durante la conversación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan invoca expresamente a Patrón durante la conversación."
+          ]
+        },
+        {
           "id": "wor-pattern-chapter-88-01",
           "scene": "wor-chapter-88",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Dependencias de Shallan",
@@ -174295,12 +176351,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174317,57 +176374,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
-          "notes": []
-        },
-        {
-          "id": "wor-pattern-chapter-89-01",
-          "scene": "wor-chapter-89",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de los Radiantes",
-          "placeId": "place-urithiru-radiants-meeting",
-          "realm": "physical",
-          "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
-          ],
-          "xy": [
-            474.647,
-            410.831
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c89",
-          "sourceIds": [
-            "wor-c89"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "city-anchor",
-          "coordinateAnchorId": "place-urithiru",
-          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia dentro de la escena; sin fecha exacta ni simultaneidad asegurada entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-89"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
         },
         {
@@ -176588,7 +178596,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -177764,24 +179772,25 @@
           "memoryOrder": 50,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Jah Keved · Propiedad Davar",
-          "placeId": "place-jah-keved-propiedad-davar",
+          "place": "Propiedad Davar · Habitación del recuerdo",
+          "placeId": "place-davar-room-memory-pr10",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Jah Keved · anclaje regional aproximado. La coordenada concreta de esta escena sigue pendiente."
+            "Palabras radiantes, EPUB español aportado (13234909 bytes), capítulo 10; líneas 5531-5579 de la extracción de 52283 líneas. El recuerdo transcurre en una habitación con dos cuerpos y una caja fuerte en la pared.",
+            "La dependencia está cotejada; el anclaje compartido no identifica su punto exacto."
           ],
           "xy": [
             616.735,
             337.023
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-jah-keved-region",
@@ -177792,16 +179801,14 @@
             "precision": "relative-only",
             "frame": "flashback",
             "relativeYearsBeforePresent": 6,
-            "note": "El recuerdo aclara el incidente de seis años antes; su orden exacto respecto al asesinato sigue pendiente."
+            "note": "Aclaración del recuerdo de seis años antes ya presentado enPR10; fecha respecto a Gavilar no resuelta."
           },
           "revealedAt": {
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Fechar el incidente respecto al inicio del recorrido antes de incorporarlo."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Recuerdo reconstruido mediante ilusión en Urithiru: remite a la habitación de la propiedad Davar, no traslada allí el cuerpo presente de Shallan.",
+          "needsConfirmation": [],
           "notes": [
             "No desplaza la posición presente de Shallan ni devuelve a Lin a la vida."
           ]
@@ -180087,9 +182094,11 @@
             "sceneId": "wor-chapter-88"
           },
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending"
+          "status": "confirmed",
+          "primaryLocator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Szeth reconoce a Nin, llamado Nalan o Nale, Heraldo de la Justicia."
         }
       ],
       "importanceReason": "Reaparece como impulsor de conflictos en varias escenas y recorridos.",
@@ -180441,12 +182450,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-szeth-revival-unknown",
@@ -180463,10 +182473,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": [
             "Lugar desconocido: se conserva el punto anterior si existe, sin confirmar una presencia actual allí."
           ]
@@ -185860,6 +187868,101 @@
           ]
         },
         {
+          "id": "primary172-ialai-before89",
+          "scene": "wor-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor del encuentro con Sadeas",
+          "placeId": "place-urithiru-corridor-sadeas",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-89"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. La esposa de Sadeas está con su partida antes de tomar otro ramal.",
+          "needsConfirmation": [],
+          "notes": [
+            "La esposa de Sadeas está con su partida antes de tomar otro ramal."
+          ]
+        },
+        {
+          "id": "primary172-ialai-fork89",
+          "scene": "wor-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Bifurcación por donde sigue Ialai",
+          "placeId": "place-ialai-fork-pr89",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_089.xhtml. Urithiru · Bifurcación por donde sigue Ialai",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-89"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_089.xhtml. Se aleja con escribas y dos soldados antes de la pelea. No presencia la muerte.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se aleja con escribas y dos soldados antes de la pelea. No presencia la muerte."
+          ]
+        },
+        {
           "id": "ob-ialai-chapter-19-03",
           "scene": "ob-chapter-19",
           "retrospective": false,
@@ -187621,7 +189724,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -188200,7 +190303,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -189127,26 +191230,28 @@
           "scene": "wor-chapter-88",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Dependencias de Shallan",
-          "placeId": "place-urithiru-shallan-rooms",
+          "place": "Urithiru · Sala con ventana interior donde espera Mraize",
+          "placeId": "place-urithiru-mraize-room-pr88",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Sala con ventana interior donde espera Mraize",
+            "Anclaje aproximado sin coordenadas nuevas."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -189163,11 +191268,57 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary172-mraize-exit88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la tarjeta de los Sangre Espectral",
+          "placeId": "place-urithiru-card-corridor-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Urithiru · Pasillo de la tarjeta de los Sangre Espectral",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Sale de la sala y desaparece por el pasillo, sin llegada a otro lugar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la sala y desaparece por el pasillo, sin llegada a otro lugar."
+          ]
         },
         {
           "id": "ob-mraize-chapter-21-04",
@@ -194641,53 +196792,6 @@
           },
           "locator": "EPUB español aportado, OEBPS/Text/04_064.xhtml. Celda y visita observadas, con Kaladin en prisión en su propia trama.",
           "needsConfirmation": [],
-          "notes": []
-        },
-        {
-          "id": "wor-iyatil-chapter-88-01",
-          "scene": "wor-chapter-88",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Monasterio Kholin · Celda de Talenel",
-          "placeId": "place-taln-monastery-cell",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "wor-c88",
-          "sourceIds": [
-            "wor-c88"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "date": null,
-            "precision": "relative-only",
-            "frame": "present",
-            "relativeYearsBeforePresent": null,
-            "note": "Secuencia dentro de la escena; sin fecha exacta ni simultaneidad asegurada entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "wor",
-            "sceneId": "wor-chapter-88"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
-          ],
           "notes": []
         }
       ]
@@ -200710,12 +202814,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-c88",
           "sourceIds": [
-            "wor-c88"
+            "wor-c88",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-szeth-revival-unknown",
@@ -200732,10 +202837,8 @@
             "bookId": "wor",
             "sceneId": "wor-chapter-88"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar el pasaje de entrega y la denominación; no anticipar el nombre propio."
-          ],
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Pasaje primario cotejado: salas, celda, carruaje y lugar desconocido del despertar separados.",
+          "needsConfirmation": [],
           "notes": [
             "Se incorpora una presencia que el capítulo ya mostraba, sin atribuir coordenadas al lugar."
           ]
@@ -201283,7 +203386,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -202218,7 +204321,7 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru (asignación secundaria) · Cima de la torre",
+          "place": "Urithiru · Cima de la torre",
           "placeId": "place-urithiru-tower-roof",
           "realm": "physical",
           "placeNotes": [
@@ -206420,6 +208523,54 @@
           "needsConfirmation": [],
           "notes": [
             "Shallan ve a su madre tendida boca abajo, con ropa azul y dorada."
+          ]
+        },
+        {
+          "id": "primary172-shallan-mother-memory88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 50,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Propiedad Davar · Habitación del recuerdo",
+          "placeId": "place-davar-room-memory-pr10",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado (13234909 bytes), capítulo 10; líneas 5531-5579 de la extracción de 52283 líneas. El recuerdo transcurre en una habitación con dos cuerpos y una caja fuerte en la pared.",
+            "La dependencia está cotejada; el anclaje compartido no identifica su punto exacto."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "unresolved",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Recuerdo dePR10 aclarado en88, no regreso corporal desdeUrithiru."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Shallan recuerda a su madre con el cuchillo y al amigo de esta forcejeando con Lin; reconoce haber matado a ambos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan recuerda a su madre con el cuchillo y al amigo de esta forcejeando con Lin; reconoce haber matado a ambos."
           ]
         }
       ]
@@ -214803,12 +216954,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "wor-epilogue-source",
           "sourceIds": [
-            "wor-epilogue-source"
+            "wor-epilogue-source",
+            "primary172-wor88-end"
           ],
-          "status": "pending",
+          "status": "inferred",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-jasnah-wit-epilogue-return",
@@ -214825,12 +216977,12 @@
             "bookId": "wor",
             "sceneId": "wor-epilogue"
           },
-          "locator": null,
+          "locator": "EPUB español aportado, OEBPS/Text/06_epi.xhtml. Jasnah invoca una espada fina y la disipa; no se nombra al spren.",
           "needsConfirmation": [
-            "Cotejar presencia, dependencia y secuencia con la edición usada."
+            "La hoja no se llama Marfil en el epílogo; manifestación inferida por el vínculo previo."
           ],
           "notes": [
-            "Aparición explícita; no se arrastra con Jasnah a lugares posteriores por el mero vínculo."
+            "Manifestación como hoja inferida por continuidad del vínculo; no presencia nominal explícita de Marfil."
           ]
         },
         {
@@ -224662,6 +226814,54 @@
           "needsConfirmation": [],
           "notes": [
             "El cuerpo permanece en la habitación cuando el padre sale con Shallan."
+          ]
+        },
+        {
+          "id": "primary172-davar-room-dead-man-pr10-memory88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 50,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Propiedad Davar · Habitación del recuerdo",
+          "placeId": "place-davar-room-memory-pr10",
+          "realm": "physical",
+          "placeNotes": [
+            "Palabras radiantes, EPUB español aportado (13234909 bytes), capítulo 10; líneas 5531-5579 de la extracción de 52283 líneas. El recuerdo transcurre en una habitación con dos cuerpos y una caja fuerte en la pared.",
+            "La dependencia está cotejada; el anclaje compartido no identifica su punto exacto."
+          ],
+          "xy": [
+            616.735,
+            337.023
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-jah-keved-region",
+          "coordinateAnchorName": "Jah Keved · anclaje regional aproximado",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "unresolved",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Recuerdo dePR10 aclarado en88, no regreso corporal desdeUrithiru."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Shallan recuerda a su madre con el cuchillo y al amigo de esta forcejeando con Lin; reconoce haber matado a ambos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan recuerda a su madre con el cuchillo y al amigo de esta forcejeando con Lin; reconoce haber matado a ambos."
           ]
         }
       ]
@@ -237784,6 +239984,463 @@
           "needsConfirmation": [],
           "notes": [
             "Cadáver observado por Kaladin en la meseta de combate. Los muertos quedan atrás durante la retirada."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pama-pr88",
+      "name": "Pama",
+      "role": "Conductora de Amaram: recibe su carta y busca la vinculacaña para enviar la comunicación.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary172-pama-coach88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Carruaje de Amaram",
+          "placeId": "place-amaram-taln-coach",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Está junto al carruaje cuando Amaram le entrega la carta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al carruaje cuando Amaram le entrega la carta."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "masked-dart-attacker-pr88",
+      "name": "Figura enmascarada de la cerbatana (PR88)",
+      "role": "Dispara dos dardos contra Amaram desde el hueco del monasterio. No se identifica nominalmente en el pasaje.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary172-dart-attacker88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio Kholin · Exterior del muro cortado",
+          "placeId": "place-monastery-breach-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Monasterio Kholin · Exterior del muro cortado",
+            "Anclaje aproximado sin coordenadas nuevas."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la trama; no simultaneidad absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Dispara desde la abertura, maldice y huye.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dispara desde la abertura, maldice y huye."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nazh-note-pr-end",
+      "name": "Nazh",
+      "role": "Firma la nota final ilustrada sobre el ketek de la cubierta del diario de Jasnah. No se deduce dónde está ni su relación con figuras anónimas anteriores.",
+      "initial": "N",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "ars-compiler-pr-end",
+      "name": "Compiladora del Ars Arcanum (sin nombre)",
+      "role": "Voz de investigación del anexo: expone conocimientos y dudas; no se importa su nombre de otras obras.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Figura individualizable del pasaje, sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "shallan-brother-skybreakers-reference-pr88",
+      "name": "Hermano aludido por Mraize (PR88)",
+      "role": "Mraize dice que un hermano de Shallan buscó a los Rompedores del Cielo, sin nombrarlo en este pasaje. Referencia sin correspondencia nominal confirmada.",
+      "initial": "H",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": []
+    },
+    {
+      "id": "temple-petitioning-wife-pr88",
+      "name": "Mujer que pide una plegaria (PR88)",
+      "role": "Amaram pasa junto a una madre que pide una plegaria por su marido, que lucha con Dalinar. No se individualiza a su hijo.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": [
+        {
+          "id": "audit173-temple-temple-petitioning-wife-pr88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Recinto del templo y peticiones de ayuda",
+          "placeId": "place-temple-petitions-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram atraviesa el recinto del templo antes de llegar al muro trasero del monasterio."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Antes de abrir el muro del monasterio; no fecha absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Petición de plegaria y ayuda a los jóvenes, en el recinto del templo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individualizada; los familiares solo mencionados no se sitúan aquí."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temple-petitioning-husband-pr88",
+      "name": "Marido por quien se pide la plegaria (PR88)",
+      "role": "Marido de la mujer del templo; ella dice que lucha con el ejército de Dalinar. No se muestra su presencia ni se conoce su nombre.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": []
+    },
+    {
+      "id": "temple-young-sibling-one-pr88",
+      "name": "Primer joven que pide ayuda para su padre (PR88)",
+      "role": "Uno de los dos jóvenes asustados que dicen que su padre es demasiado viejo para viajar; no se revela su nombre.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": [
+        {
+          "id": "audit173-temple-temple-young-sibling-one-pr88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Recinto del templo y peticiones de ayuda",
+          "placeId": "place-temple-petitions-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram atraviesa el recinto del templo antes de llegar al muro trasero del monasterio."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Antes de abrir el muro del monasterio; no fecha absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Petición de plegaria y ayuda a los jóvenes, en el recinto del templo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individualizada; los familiares solo mencionados no se sitúan aquí."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temple-young-sibling-two-pr88",
+      "name": "Segundo joven que pide ayuda para su padre (PR88)",
+      "role": "Segundo de los jóvenes que piden ayuda para transportar a su padre; no se determina género ni identidad nominal de cada uno.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": [
+        {
+          "id": "audit173-temple-temple-young-sibling-two-pr88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Recinto del templo y peticiones de ayuda",
+          "placeId": "place-temple-petitions-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram atraviesa el recinto del templo antes de llegar al muro trasero del monasterio."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Antes de abrir el muro del monasterio; no fecha absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Petición de plegaria y ayuda a los jóvenes, en el recinto del templo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individualizada; los familiares solo mencionados no se sitúan aquí."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temple-young-siblings-father-pr88",
+      "name": "Padre anciano de los dos jóvenes (PR88)",
+      "role": "Los dos jóvenes dicen que su padre es demasiado viejo para el viaje. No se muestra el lugar donde está ni se lo vincula con la otra familia.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": []
+    },
+    {
+      "id": "temple-prayer-ardent-pr88",
+      "name": "Fervoroso de la petición de plegaria (PR88)",
+      "role": "Dice a la mujer que recoja sus cosas y se una a las caravanas.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": [
+        {
+          "id": "audit173-temple-temple-prayer-ardent-pr88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Recinto del templo y peticiones de ayuda",
+          "placeId": "place-temple-petitions-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram atraviesa el recinto del templo antes de llegar al muro trasero del monasterio."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Antes de abrir el muro del monasterio; no fecha absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Petición de plegaria y ayuda a los jóvenes, en el recinto del templo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individualizada; los familiares solo mencionados no se sitúan aquí."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temple-help-ardent-pr88",
+      "name": "Fervorosa que ofrece ayuda a Amaram (PR88)",
+      "role": "Corre a ofrecer ayuda a Amaram antes de distraerse con los jóvenes; no se fuerza equivalencia con otro fervoroso.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Referencia individualizable del pasaje, sin identidad externa ni coordenadas nuevas.",
+      "events": [
+        {
+          "id": "audit173-temple-temple-help-ardent-pr88",
+          "scene": "wor-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Recinto del templo y peticiones de ayuda",
+          "placeId": "place-temple-petitions-pr88",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español aportado, OEBPS/Text/05_088.xhtml. Amaram atraviesa el recinto del templo antes de llegar al muro trasero del monasterio."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary172-wor88-end",
+          "sourceIds": [
+            "primary172-wor88-end"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Antes de abrir el muro del monasterio; no fecha absoluta."
+          },
+          "revealedAt": {
+            "bookId": "wor",
+            "sceneId": "wor-chapter-88"
+          },
+          "locator": "EPUB español aportado, OEBPS/Text/05_088.xhtml. Petición de plegaria y ayuda a los jóvenes, en el recinto del templo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individualizada; los familiares solo mencionados no se sitúan aquí."
           ]
         }
       ]
