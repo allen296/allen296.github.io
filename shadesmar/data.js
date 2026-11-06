@@ -2502,34 +2502,54 @@ window.ATLAS_DATA = {
       "wyndle"
     ],
     "ed-chapter-8": [
+      "box-shopkeeper-ed8",
       "crescent-scar-stranger",
+      "crying-market-boy-ed8",
+      "fruit-vendor-ed8",
       "lift",
+      "lodging-door-guard-ed8",
+      "other-market-boy-ed8",
+      "tashi-name-ed3",
       "tiqqa",
       "wyndle"
     ],
     "ed-chapter-9": [
+      "alley-family-husband-ed9",
+      "alley-family-wife-ed9",
       "black-sword",
       "crescent-scar-stranger",
       "ishar-mentioned",
       "lift",
+      "lodging-door-guard-ed8",
       "szeth",
       "wyndle",
       "yeddaw-makabaki-initiate",
       "yeddaw-reshi-initiate"
     ],
     "ed-chapter-10": [
+      "earmuff-child-ed10",
+      "gawx",
+      "gawx-groomer-ed10",
       "lift",
       "mik",
+      "mik-mother",
+      "nightwatcher",
+      "stone-dropping-girl-ed10",
+      "stone-listening-girl-ed10",
       "stump",
+      "tall-alezi-passerby-ed10",
       "wyndle",
       "yeddaw-philosopher"
     ],
     "ed-chapter-11": [
+      "garden-information-woman-ed11",
       "lift",
+      "lift-palace-tutors-ed11",
       "wyndle"
     ],
     "ed-chapter-12": [
       "lift",
+      "whitehair-lift-memory-ed12",
       "wyndle"
     ],
     "ed-chapter-13": [
@@ -3915,10 +3935,13 @@ window.ATLAS_DATA = {
           "sceneId": "ed-chapter-9"
         },
         "sourceIds": [
-          "archive93-ff5da3bee1bc"
+          "archive93-ff5da3bee1bc",
+          "primary178-ed8-12"
         ],
-        "status": "pending",
-        "supersedes": []
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan atribuye aIshar su política; cotejo del relato, no certificación del contenido.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Discusión conSzeth ante los iniciados."
       },
       {
         "id": "archive93-fact-17",
@@ -9519,6 +9542,193 @@ window.ATLAS_DATA = {
         "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/007.xhtml. Lift espanta vidaspren al despertar en el campo de treb; las enredaderas se le engancharon a la ropa. No se deduce causa extraordinaria ni poderes nuevos.",
         "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/007.xhtml. Lift espanta vidaspren al despertar en el campo de treb; las enredaderas se le engancharon a la ropa. No se deduce causa extraordinaria ni poderes nuevos.",
         "supersedes": []
+      },
+      {
+        "id": "primary178-nalan-unseen8",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Wyndle supone que un spren invisible acompaña aOscuridad. Conjetura sin individuo,tipo o presencia observados.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-8"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Wyndle supone que un spren invisible acompaña aOscuridad. Conjetura sin individuo,tipo o presencia observados.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Wyndle supone que un spren invisible acompaña aOscuridad. Conjetura sin individuo,tipo o presencia observados.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-angerspren-market8",
+        "entryId": "spren-type-angerspren",
+        "field": "description",
+        "value": "Furiaspren como charcos rojos rodean al vendedor tras la muerte deTiqqa.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-8"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Furiaspren como charcos rojos rodean al vendedor tras la muerte deTiqqa.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Furiaspren como charcos rojos rodean al vendedor tras la muerte deTiqqa.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-lifespren-entry8",
+        "entryId": "spren-type-lifespren",
+        "field": "description",
+        "value": "Motas verdes aparecen al crecer el árbol y las enredaderas con el poder deLift; algunas la siguen a la sala de entrada. No es una transición cognitiva.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-8"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Motas verdes aparecen al crecer el árbol y las enredaderas con el poder deLift; algunas la siguen a la sala de entrada. No es una transición cognitiva.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Motas verdes aparecen al crecer el árbol y las enredaderas con el poder deLift; algunas la siguen a la sala de entrada. No es una transición cognitiva.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-nale-recognized-by-wyndle9",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Wyndle reconoceNin como otro nombre deNalan al salir conLift. No se adelanta ese reconocimiento deWyndle al primer encuentro de la muchacha.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-9"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Wyndle reconoceNin como otro nombre deNalan al salir conLift. No se adelanta ese reconocimiento deWyndle al primer encuentro de la muchacha.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Wyndle reconoceNin como otro nombre deNalan al salir conLift. No se adelanta ese reconocimiento deWyndle al primer encuentro de la muchacha.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-voidspren-claim9",
+        "entryId": "spren-type-voidspren",
+        "field": "description",
+        "value": "Nalan admite la convocatoria de un grupo de vacíospren, pero niega que la tormenta signifique lo queSzeth afirma. Se conserva la discrepancia sin identificar individuos.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-9"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan admite la convocatoria de un grupo de vacíospren, pero niega que la tormenta signifique lo queSzeth afirma. Se conserva la discrepancia sin identificar individuos.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan admite la convocatoria de un grupo de vacíospren, pero niega que la tormenta signifique lo queSzeth afirma. Se conserva la discrepancia sin identificar individuos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-nightwatcher-attribution10",
+        "entryId": "spren-person-nightwatcher",
+        "field": "description",
+        "value": "Lift atribuye a laVigilanteNocturna su petición de no cambiar. Se conserva como su relato, sin identificar a otra interlocutora ni convertir el recuerdo en presencia actual.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-10"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift atribuye a laVigilanteNocturna su petición de no cambiar. Se conserva como su relato, sin identificar a otra interlocutora ni convertir el recuerdo en presencia actual.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift atribuye a laVigilanteNocturna su petición de no cambiar. Se conserva como su relato, sin identificar a otra interlocutora ni convertir el recuerdo en presencia actual.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-laughterspren-fish10",
+        "entryId": "spren-type-laughterspren",
+        "field": "description",
+        "value": "Risaspren como pececillos plateados surcan el aire sobre los niños del anfiteatro.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-10"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Risaspren como pececillos plateados surcan el aire sobre los niños del anfiteatro.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Risaspren como pececillos plateados surcan el aire sobre los niños del anfiteatro.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-wyndle-words11",
+        "entryId": "spren-person-wyndle",
+        "field": "description",
+        "value": "Habla dePalabras e ideas con poder y del progreso hacia una hoja. Explicación y posibilidades, no manifestación realizada enDF11.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-11"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Habla dePalabras e ideas con poder y del progreso hacia una hoja. Explicación y posibilidades, no manifestación realizada enDF11.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Habla dePalabras e ideas con poder y del progreso hacia una hoja. Explicación y posibilidades, no manifestación realizada enDF11.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-lifespren-garden11",
+        "entryId": "spren-type-lifespren",
+        "field": "description",
+        "value": "Flotan cerca de los dedos deLift en el jardín.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-11"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Flotan cerca de los dedos deLift en el jardín.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Flotan cerca de los dedos deLift en el jardín.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-fearspren-purple12",
+        "entryId": "spren-type-fearspren",
+        "field": "description",
+        "value": "Pegotes morados viscosos aparecen entre los montículos donde trabajan granjeros preocupados por el tiempo.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-12"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Pegotes morados viscosos aparecen entre los montículos donde trabajan granjeros preocupados por el tiempo.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Pegotes morados viscosos aparecen entre los montículos donde trabajan granjeros preocupados por el tiempo.",
+        "supersedes": []
+      },
+      {
+        "id": "primary178-lifespren-polyp12",
+        "entryId": "spren-type-lifespren",
+        "field": "description",
+        "value": "Se desprenden de los pólipos en formación y siguen aLift como polvo verde brillante; no se deduce un nuevo vínculo.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-12"
+        },
+        "sourceIds": [
+          "primary178-ed8-12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Se desprenden de los pólipos en formación y siguen aLift como polvo verde brillante; no se deduce un nuevo vínculo.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Se desprenden de los pólipos en formación y siguen aLift como polvo verde brillante; no se deduce un nuevo vínculo.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -9564,10 +9774,13 @@ window.ATLAS_DATA = {
           "sceneId": "ed-chapter-9"
         },
         "sourceIds": [
-          "archive93-ff5da3bee1bc"
+          "archive93-ff5da3bee1bc",
+          "primary178-ed8-12"
         ],
-        "status": "pending",
-        "supersedes": []
+        "status": "confirmed",
+        "supersedes": [],
+        "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan dice que sigue el consejo atribuido aIshar; relación relatada.",
+        "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Explicación deNalan sobre su conversación conIshar."
       },
       {
         "id": "archive93-link-3",
@@ -18906,9 +19119,10 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "audit88-p0-source-6",
-        "review88-source-61228c8d7c96cd"
+        "review88-source-61228c8d7c96cd",
+        "primary178-ed8-12"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -18922,7 +19136,8 @@ window.ATLAS_DATA = {
           "https://stormlightarchive.fandom.com/wiki/Edgedancer%3A_Chapter_9",
           "https://reactormag.com/edgedancer-reread-chapters-9-and-10/"
         ]
-      }
+      },
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Formación y órdenes del maestro al iniciado makabaki explícitas."
     },
     {
       "id": "mention89-rel-thaidakar-0-0",
@@ -24232,6 +24447,62 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "La escena identifica una familia formada por madre,padre y tres hijos; sin matrimonio ni progenitores intermedios."
+      }
+    },
+    {
+      "id": "primary178-alley-spouses9",
+      "from": "alley-family-husband-ed9",
+      "to": "alley-family-wife-ed9",
+      "kind": "spouse",
+      "label": "Esposos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. El narrador dice su esposa; no se crean hijos individuales por la expresión padre de familia.",
+      "notes": [
+        "El narrador dice su esposa; no se crean hijos individuales por la expresión padre de familia."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El narrador dice su esposa; no se crean hijos individuales por la expresión padre de familia."
+      }
+    },
+    {
+      "id": "primary178-mik-mother-clarified10",
+      "from": "mik-mother",
+      "to": "mik",
+      "kind": "parent",
+      "label": "Madre → hijo, según el diálogo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "certainty": "reported",
+      "state": "known",
+      "supersedes": [
+        "family74-mik-mother-mik-parent-ed-chapter-6"
+      ],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift identifica al niño dejado por su madre yMik pregunta cuándo vuelve. Aclaración referida en el diálogo, no presencia actual de la madre.",
+      "notes": [
+        "Lift identifica al niño dejado por su madre yMik pregunta cuándo vuelve. Aclaración referida en el diálogo, no presencia actual de la madre."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Lift identifica al niño dejado por su madre yMik pregunta cuándo vuelve. Aclaración referida en el diálogo, no presencia actual de la madre."
       }
     }
   ],
@@ -30692,13 +30963,14 @@ window.ATLAS_DATA = {
       "type": "conflict",
       "summary": "El perseguidor detiene a Tiqqa y la ejecuta alegando la ley.",
       "sourceIds": [
-        "audit-wore-ed8"
+        "audit-wore-ed8",
+        "primary178-ed8-12"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -30712,7 +30984,8 @@ window.ATLAS_DATA = {
             "crescent-scar-stranger"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Captura, resistencia, intento de cuchillada y golpe mortal observados."
     },
     {
       "id": "audit-wore-event-ed-chapter-9-crescent-scar-stranger-yeddaw-makabaki-initiate-yeddaw-reshi-initiate",
@@ -30728,13 +31001,14 @@ window.ATLAS_DATA = {
       "type": "conversation",
       "summary": "El maestro los reprende y les ordena buscar al potenciador que lleva más tiempo en la ciudad.",
       "sourceIds": [
-        "ed-c9-10"
+        "ed-c9-10",
+        "primary178-ed8-12"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita en la escena, no inferida por compartir ubicación."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -30752,7 +31026,8 @@ window.ATLAS_DATA = {
             "yeddaw-reshi-initiate"
           ]
         ]
-      }
+      },
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Órdenes y respuestas directas, sin parejas creadas entre todos los presentes."
     },
     {
       "id": "audit-wore-event-ed-chapter-14-lift-ghenna",
@@ -52161,6 +52436,582 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary178-boxes8",
+      "participants": [
+        "lift",
+        "box-shopkeeper-ed8"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "type": "encounter",
+      "summary": "El tendero la echa de las cajas junto con otros chicos.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. El tendero la echa de las cajas junto con otros chicos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El tendero la echa de las cajas junto con otros chicos.",
+        "pairs": [
+          [
+            "lift",
+            "box-shopkeeper-ed8"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-fruit-market8",
+      "participants": [
+        "crescent-scar-stranger",
+        "fruit-vendor-ed8",
+        "tiqqa",
+        "lift"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "type": "conversation",
+      "summary": "Robo y recuperación de cesta, papeles entregados al vendedor;Lift luego toma fruta ante él.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Robo y recuperación de cesta, papeles entregados al vendedor;Lift luego toma fruta ante él.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Robo y recuperación de cesta, papeles entregados al vendedor;Lift luego toma fruta ante él.",
+        "pairs": [
+          [
+            "crescent-scar-stranger",
+            "fruit-vendor-ed8"
+          ],
+          [
+            "tiqqa",
+            "fruit-vendor-ed8"
+          ],
+          [
+            "lift",
+            "fruit-vendor-ed8"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-healing-tiqqa8",
+      "participants": [
+        "lift",
+        "tiqqa"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "type": "encounter",
+      "summary": "Lift toca el cuerpo e intenta curarlo, sin lograr revivir aTiqqa.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift toca el cuerpo e intenta curarlo, sin lograr revivir aTiqqa.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift toca el cuerpo e intenta curarlo, sin lograr revivir aTiqqa.",
+        "pairs": [
+          [
+            "lift",
+            "tiqqa"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-wyndle-cure8",
+      "participants": [
+        "lift",
+        "wyndle"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "type": "conversation",
+      "summary": "Hablan de la cura fallida, de los supuestos ojos invisibles y de cómo infiltrarse.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Hablan de la cura fallida, de los supuestos ojos invisibles y de cómo infiltrarse.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de la cura fallida, de los supuestos ojos invisibles y de cómo infiltrarse.",
+        "pairs": [
+          [
+            "lift",
+            "wyndle"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-szeth-nale9",
+      "participants": [
+        "szeth",
+        "crescent-scar-stranger"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "type": "conversation",
+      "summary": "Szeth contradice aNin sobre los oyentes y la tormenta;Nalan invoca lo que le aseguróIshar.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Szeth contradice aNin sobre los oyentes y la tormenta;Nalan invoca lo que le aseguróIshar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth contradice aNin sobre los oyentes y la tormenta;Nalan invoca lo que le aseguróIshar.",
+        "pairs": [
+          [
+            "szeth",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-ishar-report9",
+      "participants": [
+        "crescent-scar-stranger",
+        "ishar-mentioned"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "type": "message",
+      "summary": "Nalan dice que se puso en contacto conIshar y que este le aseguró su interpretación. Contacto pasado relatado, sin medio,lugar o fecha precisos.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan dice que se puso en contacto conIshar y que este le aseguró su interpretación. Contacto pasado relatado, sin medio,lugar o fecha precisos.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Comunicación anterior relatada porNalan, sin corroborar la verdad del consejo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Nalan dice que se puso en contacto conIshar y que este le aseguró su interpretación. Contacto pasado relatado, sin medio,lugar o fecha precisos.",
+        "pairs": [
+          [
+            "crescent-scar-stranger",
+            "ishar-mentioned"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-wyndle-recognition9",
+      "participants": [
+        "lift",
+        "wyndle"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "type": "conversation",
+      "summary": "Fuera del alojamiento, Wyndle reconoce el nombreNin como variante deNalan. No es una presentación directa entreLift y los reunidos.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Fuera del alojamiento, Wyndle reconoce el nombreNin como variante deNalan. No es una presentación directa entreLift y los reunidos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Fuera del alojamiento, Wyndle reconoce el nombreNin como variante deNalan. No es una presentación directa entreLift y los reunidos.",
+        "pairs": [
+          [
+            "lift",
+            "wyndle"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-mik-talk10",
+      "participants": [
+        "lift",
+        "mik"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "Lift le da pan, él revela el nombreMik y pregunta por su madre; no se atribuye la mejoría aLift.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift le da pan, él revela el nombreMik y pregunta por su madre; no se atribuye la mejoría aLift.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift le da pan, él revela el nombreMik y pregunta por su madre; no se atribuye la mejoría aLift.",
+        "pairs": [
+          [
+            "lift",
+            "mik"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-stump-talk10",
+      "participants": [
+        "lift",
+        "stump",
+        "earmuff-child-ed10"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "LaTocón cuenta la segunda comida, acusa de fingir y entrega orejeras al niño; su acusación no prueba engaño.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. LaTocón cuenta la segunda comida, acusa de fingir y entrega orejeras al niño; su acusación no prueba engaño.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "LaTocón cuenta la segunda comida, acusa de fingir y entrega orejeras al niño; su acusación no prueba engaño.",
+        "pairs": [
+          [
+            "lift",
+            "stump"
+          ],
+          [
+            "stump",
+            "earmuff-child-ed10"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-stone-game10",
+      "participants": [
+        "stone-dropping-girl-ed10",
+        "stone-listening-girl-ed10"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "type": "cooperation",
+      "summary": "Las dos niñas juegan juntas: una deja caer piedras y la otra identifica sonidos.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Las dos niñas juegan juntas: una deja caer piedras y la otra identifica sonidos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Las dos niñas juegan juntas: una deja caer piedras y la otra identifica sonidos.",
+        "pairs": [
+          [
+            "stone-dropping-girl-ed10",
+            "stone-listening-girl-ed10"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-oldman-talk10",
+      "participants": [
+        "lift",
+        "yeddaw-philosopher"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "Conversan sobre decisiones y ser humano; las metáforas no revelan anatomía,nombre o especie del anciano.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Conversan sobre decisiones y ser humano; las metáforas no revelan anatomía,nombre o especie del anciano.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobre decisiones y ser humano; las metáforas no revelan anatomía,nombre o especie del anciano.",
+        "pairs": [
+          [
+            "lift",
+            "yeddaw-philosopher"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-wyndle-wishes10",
+      "participants": [
+        "lift",
+        "wyndle"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "Lift refiere su deseo de no cambiar y asiente cuandoWyndle menciona a laVigilanteNocturna.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift refiere su deseo de no cambiar y asiente cuandoWyndle menciona a laVigilanteNocturna.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift refiere su deseo de no cambiar y asiente cuandoWyndle menciona a laVigilanteNocturna.",
+        "pairs": [
+          [
+            "lift",
+            "wyndle"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-gawx-grooming-report10",
+      "participants": [
+        "gawx",
+        "gawx-groomer-ed10"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "type": "encounter",
+      "summary": "Lift relata haber visto a una mujer arreglar aGawx; no se presume trato entreLift y esa mujer.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift relata haber visto a una mujer arreglar aGawx; no se presume trato entreLift y esa mujer.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Relato previo sin fecha o lugar exactos."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift relata haber visto a una mujer arreglar aGawx; no se presume trato entreLift y esa mujer.",
+        "pairs": [
+          [
+            "gawx",
+            "gawx-groomer-ed10"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-garden-directions11",
+      "participants": [
+        "lift",
+        "garden-information-woman-ed11"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-11"
+      },
+      "type": "conversation",
+      "summary": "La mujer responde y señala la estructura central; no la acompaña al archivo.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. La mujer responde y señala la estructura central; no la acompaña al archivo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La mujer responde y señala la estructura central; no la acompaña al archivo.",
+        "pairs": [
+          [
+            "lift",
+            "garden-information-woman-ed11"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-wyndle-plan11",
+      "participants": [
+        "lift",
+        "wyndle"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-11"
+      },
+      "type": "conversation",
+      "summary": "Conversan sobrePalabras, información y el modo de encontrar a la presa deOscuridad.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Conversan sobrePalabras, información y el modo de encontrar a la presa deOscuridad.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobrePalabras, información y el modo de encontrar a la presa deOscuridad.",
+        "pairs": [
+          [
+            "lift",
+            "wyndle"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-whitehair-report12",
+      "participants": [
+        "lift",
+        "whitehair-lift-memory-ed12"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-12"
+      },
+      "type": "encounter",
+      "summary": "Lift recuerda aPeloblanco y el guiño dirigido a ella al saltar al grancaparazón; encuentro pasado relatado sin fecha o lugar exactos.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Lift recuerda aPeloblanco y el guiño dirigido a ella al saltar al grancaparazón; encuentro pasado relatado sin fecha o lugar exactos.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Recuerdo deLift sin fecha o ubicación del encuentro."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift recuerda aPeloblanco y el guiño dirigido a ella al saltar al grancaparazón; encuentro pasado relatado sin fecha o lugar exactos.",
+        "pairs": [
+          [
+            "lift",
+            "whitehair-lift-memory-ed12"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary178-wyndle-research12",
+      "participants": [
+        "lift",
+        "wyndle"
+      ],
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-12"
+      },
+      "type": "conversation",
+      "summary": "Discuten cómo buscar entre registros; pedir lectura no es una investigación ya realizada dentro delIndicium.",
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Discuten cómo buscar entre registros; pedir lectura no es una investigación ya realizada dentro delIndicium.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten cómo buscar entre registros; pedir lectura no es una investigación ya realizada dentro delIndicium.",
+        "pairs": [
+          [
+            "lift",
+            "wyndle"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -55442,10 +56293,12 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Joven ladrona ejecutada por el perseguidor tras sacar un cuchillo; Lift no logra revivirla.",
       "sourceIds": [
-        "audit-wore-ed8"
+        "audit-wore-ed8",
+        "primary178-ed8-12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Ejecución observada y tentativa de curación sin éxito."
     },
     {
       "id": "audit-wore-fact-yeddaw-makabaki-initiate-ed-chapter-9",
@@ -55457,10 +56310,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Aspira a servir al perseguidor y recibe el encargo de localizar a un potenciador de la ciudad.",
       "sourceIds": [
-        "ed-c9-10"
+        "ed-c9-10",
+        "primary178-ed8-12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Son iniciados que buscan progresar; no se añaden nombres ni spren individuales."
     },
     {
       "id": "audit-wore-fact-yeddaw-reshi-initiate-ed-chapter-9",
@@ -55472,10 +56327,12 @@ window.ATLAS_DATA = {
       "kind": "affiliation",
       "text": "Aspirante enviada a buscar al potenciador de Yeddaw mientras su maestro se ocupa de Lift.",
       "sourceIds": [
-        "ed-c9-10"
+        "ed-c9-10",
+        "primary178-ed8-12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Son iniciados que buscan progresar; no se añaden nombres ni spren individuales."
     },
     {
       "id": "audit-wore-fact-mik-ed-chapter-10",
@@ -55487,10 +56344,12 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Aparece notablemente recuperado y pregunta por su madre; no se explica aún la causa.",
       "sourceIds": [
-        "ed-c9-10"
+        "ed-c9-10",
+        "primary178-ed8-12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Ahora habla,no babea y pide por su madre; no se revela la causa de la mejoría."
     },
     {
       "id": "audit-wore-fact-ghenna-ed-chapter-14",
@@ -79144,6 +80003,465 @@ window.ATLAS_DATA = {
       "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/007.xhtml. Visita aHauka con documentos de operativo especial del príncipe. Sus afirmaciones sobre jurisdicción y órdenes se conservan como diálogo, no validación jurídica externa.",
       "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/007.xhtml. Visita aHauka con documentos de operativo especial del príncipe. Sus afirmaciones sobre jurisdicción y órdenes se conservan como diálogo, no validación jurídica externa.",
       "supersedes": []
+    },
+    {
+      "id": "primary178-box-shopkeeper-ed8-8",
+      "characterId": "box-shopkeeper-ed8",
+      "kind": "background",
+      "text": "Echa aLift y otros chicos de unas cajas durante el seguimiento; no se identifica con el vendedor posterior de fruta.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Echa aLift y otros chicos de unas cajas durante el seguimiento; no se identifica con el vendedor posterior de fruta.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Echa aLift y otros chicos de unas cajas durante el seguimiento; no se identifica con el vendedor posterior de fruta.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-fruit-vendor-ed8-8",
+      "characterId": "fruit-vendor-ed8",
+      "kind": "background",
+      "text": "Tiqqa le roba una cesta;recibe los papeles deOscuridad después de presenciar la muerte.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Tiqqa le roba una cesta;recibe los papeles deOscuridad después de presenciar la muerte.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Tiqqa le roba una cesta;recibe los papeles deOscuridad después de presenciar la muerte.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-crying-market-boy-ed8-8",
+      "characterId": "crying-market-boy-ed8",
+      "kind": "background",
+      "text": "Uno de los dos chicos junto aLift, horrorizado tras la muerte deTiqqa. Sin nombre o parentesco revelados.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Uno de los dos chicos junto aLift, horrorizado tras la muerte deTiqqa. Sin nombre o parentesco revelados.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Uno de los dos chicos junto aLift, horrorizado tras la muerte deTiqqa. Sin nombre o parentesco revelados.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-other-market-boy-ed8-8",
+      "characterId": "other-market-boy-ed8",
+      "kind": "background",
+      "text": "Segundo chico junto aLift durante el incidente; no se lo une a otros pillastres por coincidencia.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Segundo chico junto aLift durante el incidente; no se lo une a otros pillastres por coincidencia.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Segundo chico junto aLift durante el incidente; no se lo une a otros pillastres por coincidencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-lodging-door-guard-ed8-8",
+      "characterId": "lodging-door-guard-ed8",
+      "kind": "background",
+      "text": "Uniforme blanco y negro, vigila la puerta y luego se aparta; no se identifica con los sicarios del prólogo.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Uniforme blanco y negro, vigila la puerta y luego se aparta; no se identifica con los sicarios del prólogo.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Uniforme blanco y negro, vigila la puerta y luego se aparta; no se identifica con los sicarios del prólogo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-tiqqa-healing8",
+      "characterId": "tiqqa",
+      "kind": "background",
+      "text": "Muere anteLift. La luminiscencia humana fugaz se desvanece y el cuerpo no responde. Wyndle distingue este caso deGawx, expresa dudas y añade que falta poder; no se establece una regla absoluta de resurrección.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Muere anteLift. La luminiscencia humana fugaz se desvanece y el cuerpo no responde. Wyndle distingue este caso deGawx, expresa dudas y añade que falta poder; no se establece una regla absoluta de resurrección.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Muere anteLift. La luminiscencia humana fugaz se desvanece y el cuerpo no responde. Wyndle distingue este caso deGawx, expresa dudas y añade que falta poder; no se establece una regla absoluta de resurrección.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-nalan-spren-hypothesis8",
+      "characterId": "wyndle",
+      "kind": "background",
+      "text": "Supone queOscuridad lleva un spren invisible. No lo observa ni identifica su nombre,tipo o forma; no se añade un cuerpo invisible por inferencia.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Supone queOscuridad lleva un spren invisible. No lo observa ni identifica su nombre,tipo o forma; no se añade un cuerpo invisible por inferencia.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Supone queOscuridad lleva un spren invisible. No lo observa ni identifica su nombre,tipo o forma; no se añade un cuerpo invisible por inferencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-tashi-mural8",
+      "characterId": "tashi-name-ed3",
+      "kind": "background",
+      "text": "Lift ve un mural deTashi ylosNueve. Es una imagen religiosa, no diez presencias corporales o una correspondencia nominal nueva.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-8"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift ve un mural deTashi ylosNueve. Es una imagen religiosa, no diez presencias corporales o una correspondencia nominal nueva.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift ve un mural deTashi ylosNueve. Es una imagen religiosa, no diez presencias corporales o una correspondencia nominal nueva.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-alley-family-husband-ed9-9",
+      "characterId": "alley-family-husband-ed9",
+      "kind": "background",
+      "text": "El padre de la familia toma una cachiporra mientras su esposa cierra la cortina. No se conocen hijos concretos ni identidad con la familia deDF5.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. El padre de la familia toma una cachiporra mientras su esposa cierra la cortina. No se conocen hijos concretos ni identidad con la familia deDF5.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. El padre de la familia toma una cachiporra mientras su esposa cierra la cortina. No se conocen hijos concretos ni identidad con la familia deDF5.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-alley-family-wife-ed9-9",
+      "characterId": "alley-family-wife-ed9",
+      "kind": "background",
+      "text": "Cierra la cortina de la choza. Se afirma que es esposa, no se la identifica con otra mujer del barrio.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Cierra la cortina de la choza. Se afirma que es esposa, no se la identifica con otra mujer del barrio.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Cierra la cortina de la choza. Se afirma que es esposa, no se la identifica con otra mujer del barrio.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-ishar-claims9",
+      "characterId": "ishar-mentioned",
+      "kind": "background",
+      "text": "Nalan atribuye aIshar el consejo y una comunicación sin fecha indicada que avalaría su negación del regreso de losPortadores. Es lo queNalan cuenta, no verdad independiente ni presencia deIshar enYeddaw.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan atribuye aIshar el consejo y una comunicación reciente que avalaría su negación del regreso de losPortadores. Es lo queNalan cuenta, no verdad independiente ni presencia deIshar enYeddaw.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Nalan atribuye aIshar el consejo y una comunicación reciente que avalaría su negación del regreso de losPortadores. Es lo queNalan cuenta, no verdad independiente ni presencia deIshar enYeddaw.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-initiate-light9",
+      "characterId": "yeddaw-reshi-initiate",
+      "kind": "background",
+      "text": "La iniciada empieza a brillar al oscurecerse la sala. El brillo no revela nombre o tipo de su spren, ni prueba que ya tenga hoja.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. La iniciada empieza a brillar al oscurecerse la sala. El brillo no revela nombre o tipo de su spren, ni prueba que ya tenga hoja.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. La iniciada empieza a brillar al oscurecerse la sala. El brillo no revela nombre o tipo de su spren, ni prueba que ya tenga hoja.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-no-hidden-contact9",
+      "characterId": "lift",
+      "kind": "background",
+      "text": "Espía desde fuera de la puerta. Estar cerca deSzeth no se convierte en diálogo, encuentro personal reconocido o membresía en la reunión.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-9"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Espía desde fuera de la puerta. Estar cerca deSzeth no se convierte en diálogo, encuentro personal reconocido o membresía en la reunión.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Espía desde fuera de la puerta. Estar cerca deSzeth no se convierte en diálogo, encuentro personal reconocido o membresía en la reunión.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-stone-dropping-girl-ed10-10",
+      "characterId": "stone-dropping-girl-ed10",
+      "kind": "background",
+      "text": "Una de las dos niñas ciegas del juego; produce los sonidos con piedras. No se afirma diagnóstico adicional,parentesco o curación.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Una de las dos niñas ciegas del juego; produce los sonidos con piedras. No se afirma diagnóstico adicional,parentesco o curación.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Una de las dos niñas ciegas del juego; produce los sonidos con piedras. No se afirma diagnóstico adicional,parentesco o curación.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-stone-listening-girl-ed10-10",
+      "characterId": "stone-listening-girl-ed10",
+      "kind": "background",
+      "text": "Otra niña ciega del juego; no se afirma parentesco con la primera ni poderes.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Otra niña ciega del juego; no se afirma parentesco con la primera ni poderes.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Otra niña ciega del juego; no se afirma parentesco con la primera ni poderes.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-earmuff-child-ed10-10",
+      "characterId": "earmuff-child-ed10",
+      "kind": "background",
+      "text": "Tras el conflicto, laTocón le entrega orejeras y él cierra los ojos. No se diagnostica su condición.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Tras el conflicto, laTocón le entrega orejeras y él cierra los ojos. No se diagnostica su condición.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Tras el conflicto, laTocón le entrega orejeras y él cierra los ojos. No se diagnostica su condición.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-tall-alezi-passerby-ed10-10",
+      "characterId": "tall-alezi-passerby-ed10",
+      "kind": "background",
+      "text": "Lift lo ve pasar por la calle; no se identifica por aspecto o actitud con un personaje nombrado.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift lo ve pasar por la calle; no se identifica por aspecto o actitud con un personaje nombrado.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift lo ve pasar por la calle; no se identifica por aspecto o actitud con un personaje nombrado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-gawx-groomer-ed10-10",
+      "characterId": "gawx-groomer-ed10",
+      "kind": "background",
+      "text": "Lift cuenta que vio cómo lo peinaba y usaba unas pincitas en su nariz; no se revela nombre ni lugar actual.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift cuenta que vio cómo lo peinaba y usaba unas pincitas en su nariz; no se revela nombre ni lugar actual.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift cuenta que vio cómo lo peinaba y usaba unas pincitas en su nariz; no se revela nombre ni lugar actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-mother-dialogue10",
+      "characterId": "mik-mother",
+      "kind": "background",
+      "text": "La conversación deLift yMik la refiere como su madre. La afirmación deLift de que nunca vuelven no es una muerte, abandono futuro comprobado o presencia actual.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. La conversación deLift yMik la refiere como su madre. La afirmación deLift de que nunca vuelven no es una muerte, abandono futuro comprobado o presencia actual.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. La conversación deLift yMik la refiere como su madre. La afirmación deLift de que nunca vuelven no es una muerte, abandono futuro comprobado o presencia actual.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-lift-wish10",
+      "characterId": "lift",
+      "kind": "background",
+      "text": "Dice que pidió no cambiar y asiente a la mención de laVigilanteNocturna. Cree haber crecido durante tres años; no se confirma quién la atendió realmente ni el contenido efectivo del don.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Dice que pidió no cambiar y asiente a la mención de laVigilanteNocturna. Cree haber crecido durante tres años; no se confirma quién la atendió realmente ni el contenido efectivo del don.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Dice que pidió no cambiar y asiente a la mención de laVigilanteNocturna. Cree haber crecido durante tres años; no se confirma quién la atendió realmente ni el contenido efectivo del don.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-mik-no-fraud10",
+      "characterId": "mik",
+      "kind": "background",
+      "text": "Habla,come y pregunta por su madre. LaTocón cree que finge; el capítulo no demuestra fraude ni explica la mejoría.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-10"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Habla,come y pregunta por su madre. LaTocón cree que finge; el capítulo no demuestra fraude ni explica la mejoría.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Habla,come y pregunta por su madre. LaTocón cree que finge; el capítulo no demuestra fraude ni explica la mejoría.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-garden-information-woman-ed11-11",
+      "characterId": "garden-information-woman-ed11",
+      "kind": "background",
+      "text": "Responde aLift y le señala elGranIndicium; sin identidad con las mujeres de otras calles.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-11"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Responde aLift y le señala elGranIndicium; sin identidad con las mujeres de otras calles.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Responde aLift y le señala elGranIndicium; sin identidad con las mujeres de otras calles.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-lift-palace-tutors-ed11-11",
+      "characterId": "lift-palace-tutors-ed11",
+      "kind": "background",
+      "text": "Wyndle dice que acudía a escuchar en lugar deLift. No se individualizan profesores ni un encuentro personal visible del spren con ellos.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-11"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Wyndle dice que acudía a escuchar en lugar deLift. No se individualizan profesores ni un encuentro personal visible del spren con ellos.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Wyndle dice que acudía a escuchar en lugar deLift. No se individualizan profesores ni un encuentro personal visible del spren con ellos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-wyndle-oaths11",
+      "characterId": "wyndle",
+      "kind": "background",
+      "text": "ExplicaPalabras como ideas vivas que deben entrar en el alma y menciona la futura obtención de hoja de los iniciados. No se manifiesta aquí como arma.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-11"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. ExplicaPalabras como ideas vivas que deben entrar en el alma y menciona la futura obtención de hoja de los iniciados. No se manifiesta aquí como arma.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. ExplicaPalabras como ideas vivas que deben entrar en el alma y menciona la futura obtención de hoja de los iniciados. No se manifiesta aquí como arma.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-whitehair-lift-memory-ed12-12",
+      "characterId": "whitehair-lift-memory-ed12",
+      "kind": "background",
+      "text": "Lift recuerda sus comentarios de arte y que saltó a las fauces de un grancaparazón marabeziano guiñándole un ojo. No se confirma muerte,ubicación presente o identidad conSagaz por semejanza del relato.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-12"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Lift recuerda sus comentarios de arte y que saltó a las fauces de un grancaparazón marabeziano guiñándole un ojo. No se confirma muerte,ubicación presente o identidad conSagaz por semejanza del relato.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Lift recuerda sus comentarios de arte y que saltó a las fauces de un grancaparazón marabeziano guiñándole un ojo. No se confirma muerte,ubicación presente o identidad conSagaz por semejanza del relato.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-whitehair-no-death12",
+      "characterId": "whitehair-lift-memory-ed12",
+      "kind": "background",
+      "text": "Lift quiere creer que no murió devorado. Se registra la escena relatada, no una muerte confirmada ni resurrección o viaje actuales.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-12"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Lift quiere creer que no murió devorado. Se registra la escena relatada, no una muerte confirmada ni resurrección o viaje actuales.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Lift quiere creer que no murió devorado. Se registra la escena relatada, no una muerte confirmada ni resurrección o viaje actuales.",
+      "supersedes": []
+    },
+    {
+      "id": "primary178-indicium-plan12",
+      "characterId": "lift",
+      "kind": "background",
+      "text": "Observa elGranIndicium desde los campos y decide buscar ropa para entrar de otra manera. Ni la entrada,el robo de ropa o una consulta al archivo se muestran todavía.",
+      "revealedAt": {
+        "bookId": "edgedancer",
+        "sceneId": "ed-chapter-12"
+      },
+      "sourceIds": [
+        "primary178-ed8-12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Observa elGranIndicium desde los campos y decide buscar ropa para entrar de otra manera. Ni la entrada,el robo de ropa o una consulta al archivo se muestran todavía.",
+      "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Observa elGranIndicium desde los campos y decide buscar ropa para entrar de otra manera. Ni la entrada,el robo de ropa o una consulta al archivo se muestran todavía.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -81673,6 +82991,10 @@ window.ATLAS_DATA = {
         {
           "revision": 176,
           "notes": "DF5 familia bajo lona: madre,padre y tres hijos; seis vínculos parentales,sin matrimonio inferido. DF6 mujer que deja al niño: parentesco no expreso; rechazada atribución materna6 heredada y retirado el nombreMik antes de10. Supuestos otros hijos no se inventarían. Metáfora hija deescoba/moho deTocón no genealogía. Recuerdo de la madre deLift sin coordenadas o nueva presencia. Zapatero candidato sin identidad conYm."
+        },
+        {
+          "revision": 178,
+          "notes": "DF9 pareja de choza con matrimonio expreso, sin inventar hijos individuales ni vincularla a la familiaDF5. DF10 conversación deMik yLift refiere maternidad: nuevo vínculo10 supersede atribución6 rechazada; nombreMadredeMik solo desde10. No muerte de la madre por predicción deLift. Niñas del juego sin parentesco supuesto. Preguntar al anciano por sus padres no identifica progenitores. Peloblanco sin identidad conSagaz ni muerte inferidas."
         }
       ]
     }
@@ -82264,12 +83586,14 @@ window.ATLAS_DATA = {
         "sceneId": "ed-chapter-8"
       },
       "sourceIds": [
-        "ed-c7-8"
+        "ed-c7-8",
+        "primary178-ed8-12"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte presenciada en el mercado; el intento de curación de Lift no se presenta como una resurrección."
-      ]
+        "Tiqqa permanece muerta; el resplandor fugaz de forma humana no se registra como resurrección o viaje corporal."
+      ],
+      "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Muerte observada con hoja esquirlada; la cura posterior falla."
     },
     {
       "id": "ed-yeddaw-makabaki-initiate-death-chapter-18",
@@ -84437,7 +85761,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 177,
+  "revision": 179,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -117148,23 +118472,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Sala de la reunión deOscuridad",
+          "placeId": "place-nalan-meeting-room-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Sala de la reunión deOscuridad",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -117181,10 +118507,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -184508,30 +185832,80 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ed-crescent-scar-stranger-chapter-8-01",
+          "id": "primary178-crescent-scar-stranger-follow8",
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Mercado",
-          "placeId": "place-yeddaw-market",
+          "place": "Yeddaw · Calle del seguimiento y cajas",
+          "placeId": "place-darkness-follow-ed8",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Calle del seguimiento y cajas",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift sigue aOscuridad;Wyndle va a su lado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift sigue aOscuridad;Wyndle va a su lado."
+          ]
+        },
+        {
+          "id": "ed-crescent-scar-stranger-chapter-8-01",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -184548,12 +185922,106 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-crescent-scar-stranger-cistern8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Borde de la gran cisterna",
+          "placeId": "place-yeddaw-cistern-rim-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Borde de la gran cisterna",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Oscuridad rodea la cisterna;Lift duda en seguir esa plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Oscuridad rodea la cisterna;Lift duda en seguir esa plataforma."
+          ]
+        },
+        {
+          "id": "primary178-darkness-enter8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Entrada y guardia",
+          "placeId": "place-nalan-lodging-door-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Entrada y guardia",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Sube los escalones y entra; no se observa en su dormitorio conLift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube los escalones y entra; no se observa en su dormitorio conLift."
           ]
         },
         {
@@ -184561,7 +186029,7 @@ window.ATLAS_DATA = {
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Yeddaw · Alojamiento de Nalan",
@@ -184575,12 +186043,13 @@ window.ATLAS_DATA = {
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -184597,10 +186066,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -184613,23 +186080,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Sala de la reunión deOscuridad",
+          "placeId": "place-nalan-meeting-room-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Sala de la reunión deOscuridad",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -184646,10 +186115,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -196446,30 +197913,80 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ed-lift-chapter-8-01",
+          "id": "primary178-lift-follow8",
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Mercado",
-          "placeId": "place-yeddaw-market",
+          "place": "Yeddaw · Calle del seguimiento y cajas",
+          "placeId": "place-darkness-follow-ed8",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Calle del seguimiento y cajas",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift sigue aOscuridad;Wyndle va a su lado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift sigue aOscuridad;Wyndle va a su lado."
+          ]
+        },
+        {
+          "id": "ed-lift-chapter-8-01",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -196486,12 +198003,298 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-lift-healing8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Intenta curarla después de queOscuridad se marche; la tentativa no tiene éxito.",
+          "needsConfirmation": [],
+          "notes": [
+            "Intenta curarla después de queOscuridad se marche; la tentativa no tiene éxito."
+          ]
+        },
+        {
+          "id": "primary178-lift-cistern8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Borde de la gran cisterna",
+          "placeId": "place-yeddaw-cistern-rim-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Borde de la gran cisterna",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Oscuridad rodea la cisterna;Lift duda en seguir esa plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Oscuridad rodea la cisterna;Lift duda en seguir esa plataforma."
+          ]
+        },
+        {
+          "id": "primary178-lift-bridge8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puente sobre la cisterna",
+          "placeId": "place-yeddaw-cistern-bridge-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puente sobre la cisterna",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Toman el puente atestado y pierden de vista aOscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Toman el puente atestado y pierden de vista aOscuridad."
+          ]
+        },
+        {
+          "id": "primary178-lift-tree8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Árbol y ventana exterior",
+          "placeId": "place-nalan-lodging-tree-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Árbol y ventana exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift hace crecer la planta para ocultar la entrada por la ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift hace crecer la planta para ocultar la entrada por la ventana."
+          ]
+        },
+        {
+          "id": "primary178-lift-training8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Sala de armas y entrenamiento",
+          "placeId": "place-nalan-training-room-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Sala de armas y entrenamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Entran en una sala de armas; no es la reunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entran en una sala de armas; no es la reunión."
+          ]
+        },
+        {
+          "id": "primary178-lift-office8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Sala lateral con mapas y escritorio",
+          "placeId": "place-nalan-side-office-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Sala lateral con mapas y escritorio",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift registra la sala de mapas y escritorio;Wyndle la acompaña en el recorrido.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift registra la sala de mapas y escritorio;Wyndle la acompaña en el recorrido."
           ]
         },
         {
@@ -196499,26 +198302,28 @@ window.ATLAS_DATA = {
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Dormitorio y bandeja del desayuno",
+          "placeId": "place-nalan-bedroom-ed8",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Dormitorio y bandeja del desayuno",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -196535,10 +198340,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -196551,23 +198354,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Exterior de la puerta de reunión",
+          "placeId": "place-lift-listening-door-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Exterior de la puerta de reunión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -196584,12 +198389,202 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-lift-training-exit9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Sala de armas y entrenamiento",
+          "placeId": "place-nalan-training-room-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Sala de armas y entrenamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Regresan a la sala de entrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan a la sala de entrada."
+          ]
+        },
+        {
+          "id": "primary178-lift-tree-exit9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Árbol y ventana exterior",
+          "placeId": "place-nalan-lodging-tree-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Árbol y ventana exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Salen al árbol y cierran los postigos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen al árbol y cierran los postigos."
+          ]
+        },
+        {
+          "id": "primary178-lift-alley9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Callejón tras salir del alojamiento",
+          "placeId": "place-lift-after-lodging-ed9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Yeddaw · Callejón tras salir del alojamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Descansan fuera y hablan; no intervienen en la reunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descansan fuera y hablan; no intervienen en la reunión."
+          ]
+        },
+        {
+          "id": "primary178-lift-leave9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Camino de vuelta al barrio de inmigrantes",
+          "placeId": "place-lift-return-immigrants-ed9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Yeddaw · Camino de vuelta al barrio de inmigrantes",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift se pone en camino; no se narra aún llegada al orfanato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift se pone en camino; no se narra aún llegada al orfanato."
           ]
         },
         {
@@ -196600,23 +198595,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
-          "placeId": "place-yeddaw-orphanage",
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -196633,12 +198630,58 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Juegos y conversación ocurren en el anfiteatro exterior, no dentro del orfanato.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-lift-end10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Luz deTashi · Salida del anfiteatro hacia la calle",
+          "placeId": "place-lift-leaving-benches-ed10",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Luz deTashi · Salida del anfiteatro hacia la calle",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift termina de hablar con el anciano y se incorpora al flujo de la calle.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift termina de hablar con el anciano y se incorpora al flujo de la calle."
           ]
         },
         {
@@ -196660,12 +198703,13 @@ window.ATLAS_DATA = {
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c11-12",
           "sourceIds": [
-            "ed-c11-12"
+            "ed-c11-12",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -196682,10 +198726,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Conversación y búsqueda de información dentro del jardín; ver el archivo no es entrar.",
+          "needsConfirmation": [],
           "notes": [
             "Coordenadas de ciudad; no se fija un punto urbano exacto."
           ]
@@ -196698,23 +198740,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Superficie y campos junto a las hendiduras",
-          "placeId": "place-yeddaw-topside",
+          "place": "Yeddaw · Campo y borde frente alGranIndicium",
+          "placeId": "place-indicium-view-rim-ed12",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad, sin localizar calles, edificios, tejados ni trayectorias."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Yeddaw · Campo y borde frente alGranIndicium",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c11-12",
           "sourceIds": [
-            "ed-c11-12"
+            "ed-c11-12",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -196731,10 +198775,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Suben a los campos y se sientan al borde mirando el edificio; no entran en el archivo.",
+          "needsConfirmation": [],
           "notes": [
             "Coordenadas de ciudad; no se fija un punto urbano exacto."
           ]
@@ -198949,30 +200991,80 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ed-wyndle-chapter-8-01",
+          "id": "primary178-wyndle-follow8",
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Mercado",
-          "placeId": "place-yeddaw-market",
+          "place": "Yeddaw · Calle del seguimiento y cajas",
+          "placeId": "place-darkness-follow-ed8",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Calle del seguimiento y cajas",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift sigue aOscuridad;Wyndle va a su lado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift sigue aOscuridad;Wyndle va a su lado."
+          ]
+        },
+        {
+          "id": "ed-wyndle-chapter-8-01",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -198989,12 +201081,154 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-cistern8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Borde de la gran cisterna",
+          "placeId": "place-yeddaw-cistern-rim-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Borde de la gran cisterna",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Oscuridad rodea la cisterna;Lift duda en seguir esa plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Oscuridad rodea la cisterna;Lift duda en seguir esa plataforma."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-tree8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Árbol y ventana exterior",
+          "placeId": "place-nalan-lodging-tree-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Árbol y ventana exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Lift hace crecer la planta para ocultar la entrada por la ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift hace crecer la planta para ocultar la entrada por la ventana."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-training8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Sala de armas y entrenamiento",
+          "placeId": "place-nalan-training-room-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Sala de armas y entrenamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Entran en una sala de armas; no es la reunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entran en una sala de armas; no es la reunión."
           ]
         },
         {
@@ -199002,26 +201236,28 @@ window.ATLAS_DATA = {
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Dormitorio y bandeja del desayuno",
+          "placeId": "place-nalan-bedroom-ed8",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Dormitorio y bandeja del desayuno",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -199038,10 +201274,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -199054,23 +201288,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Exterior de la puerta de reunión",
+          "placeId": "place-lift-listening-door-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Exterior de la puerta de reunión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -199087,12 +201323,202 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-training-exit9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Sala de armas y entrenamiento",
+          "placeId": "place-nalan-training-room-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Sala de armas y entrenamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Regresan a la sala de entrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan a la sala de entrada."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-tree-exit9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Árbol y ventana exterior",
+          "placeId": "place-nalan-lodging-tree-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Árbol y ventana exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Salen al árbol y cierran los postigos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen al árbol y cierran los postigos."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-alley9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Callejón tras salir del alojamiento",
+          "placeId": "place-lift-after-lodging-ed9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Yeddaw · Callejón tras salir del alojamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Descansan fuera y hablan; no intervienen en la reunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descansan fuera y hablan; no intervienen en la reunión."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-leave9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Camino de vuelta al barrio de inmigrantes",
+          "placeId": "place-lift-return-immigrants-ed9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Yeddaw · Camino de vuelta al barrio de inmigrantes",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift se pone en camino; no se narra aún llegada al orfanato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift se pone en camino; no se narra aún llegada al orfanato."
           ]
         },
         {
@@ -199103,23 +201529,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
-          "placeId": "place-yeddaw-orphanage",
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -199136,12 +201564,58 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Juegos y conversación ocurren en el anfiteatro exterior, no dentro del orfanato.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-wyndle-end10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Luz deTashi · Salida del anfiteatro hacia la calle",
+          "placeId": "place-lift-leaving-benches-ed10",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Luz deTashi · Salida del anfiteatro hacia la calle",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift termina de hablar con el anciano y se incorpora al flujo de la calle.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift termina de hablar con el anciano y se incorpora al flujo de la calle."
           ]
         },
         {
@@ -199163,12 +201637,13 @@ window.ATLAS_DATA = {
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c11-12",
           "sourceIds": [
-            "ed-c11-12"
+            "ed-c11-12",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -199185,10 +201660,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Conversación y búsqueda de información dentro del jardín; ver el archivo no es entrar.",
+          "needsConfirmation": [],
           "notes": [
             "Coordenadas de ciudad; no se fija un punto urbano exacto."
           ]
@@ -199201,23 +201674,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Superficie y campos junto a las hendiduras",
-          "placeId": "place-yeddaw-topside",
+          "place": "Yeddaw · Campo y borde frente alGranIndicium",
+          "placeId": "place-indicium-view-rim-ed12",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad, sin localizar calles, edificios, tejados ni trayectorias."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Yeddaw · Campo y borde frente alGranIndicium",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c11-12",
           "sourceIds": [
-            "ed-c11-12"
+            "ed-c11-12",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -199234,10 +201709,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/012.xhtml. Suben a los campos y se sientan al borde mirando el edificio; no entran en el archivo.",
+          "needsConfirmation": [],
           "notes": [
             "Coordenadas de ciudad; no se fija un punto urbano exacto."
           ]
@@ -206250,23 +208723,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
-          "placeId": "place-yeddaw-orphanage",
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -206283,12 +208758,105 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Juegos y conversación ocurren en el anfiteatro exterior, no dentro del orfanato.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-stump-bread10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Luz de Tashi · Puerta del callejón",
+          "placeId": "place-orphanage-back-door-ed6",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Puerta del callejón",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Reparte pan antes de atender a los niños.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reparte pan antes de atender a los niños."
+          ]
+        },
+        {
+          "id": "primary178-stump-inside10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
+          "placeId": "place-yeddaw-orphanage",
+          "realm": "physical",
+          "placeNotes": [
+            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. LaTocón lleva a los niños dentro para la siesta y permite entrar aMik.",
+          "needsConfirmation": [],
+          "notes": [
+            "LaTocón lleva a los niños dentro para la siesta y permite entrar aMik."
           ]
         },
         {
@@ -206456,9 +209024,11 @@ window.ATLAS_DATA = {
             "sceneId": "ed-chapter-10"
           },
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending"
+          "status": "confirmed",
+          "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. El niño dice que se llamaMik."
         }
       ],
       "events": [
@@ -206614,23 +209184,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
-          "placeId": "place-yeddaw-orphanage",
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -206647,12 +209219,57 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Juegos y conversación ocurren en el anfiteatro exterior, no dentro del orfanato.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-mik-inside10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
+          "placeId": "place-yeddaw-orphanage",
+          "realm": "physical",
+          "placeNotes": [
+            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. LaTocón lleva a los niños dentro para la siesta y permite entrar aMik.",
+          "needsConfirmation": [],
+          "notes": [
+            "LaTocón lleva a los niños dentro para la siesta y permite entrar aMik."
           ]
         },
         {
@@ -206834,23 +209451,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Orfanato y anfiteatro contiguo",
-          "placeId": "place-yeddaw-orphanage",
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -206867,10 +209486,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Juegos y conversación ocurren en el anfiteatro exterior, no dentro del orfanato.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -206940,26 +209557,28 @@ window.ATLAS_DATA = {
           "scene": "ed-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Mercado",
-          "placeId": "place-yeddaw-market",
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c7-8",
           "sourceIds": [
-            "ed-c7-8"
+            "ed-c7-8",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -206976,12 +209595,58 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Cotejo de mercado y alojamiento; se distinguen las habitaciones y el cuerpo permanece en el puesto.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
+          ]
+        },
+        {
+          "id": "primary178-tiqqa-body8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. La hoja le atraviesa el pecho y los ojos se queman; queda inmóvil en el suelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "La hoja le atraviesa el pecho y los ojos se queman; queda inmóvil en el suelo."
           ]
         }
       ]
@@ -207003,23 +209668,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Sala de la reunión deOscuridad",
+          "placeId": "place-nalan-meeting-room-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Sala de la reunión deOscuridad",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -207036,10 +209703,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -207210,23 +209875,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Sala de la reunión deOscuridad",
+          "placeId": "place-nalan-meeting-room-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Sala de la reunión deOscuridad",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -207243,10 +209910,8 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
-          ],
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
+          "needsConfirmation": [],
           "notes": [
             "Anclaje de ciudad; no afirma precisión de edificio o calle."
           ]
@@ -207462,23 +210127,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Yeddaw · Alojamiento de Nalan",
-          "placeId": "place-yeddaw-nalan-lodging",
+          "place": "Alojamiento · Sala de la reunión deOscuridad",
+          "placeId": "place-nalan-meeting-room-ed9",
           "realm": "physical",
           "placeNotes": [
-            "Hereda el punto de la ciudad. Edificio, calle y recorrido urbano sin localizar con precisión."
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Alojamiento · Sala de la reunión deOscuridad",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             390.502,
             429.65
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ed-c9-10",
           "sourceIds": [
-            "ed-c9-10"
+            "ed-c9-10",
+            "primary178-ed8-12"
           ],
-          "status": "pending",
+          "status": "inferred",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-yeddaw",
@@ -207495,12 +210162,13 @@ window.ATLAS_DATA = {
             "bookId": "edgedancer",
             "sceneId": "ed-chapter-9"
           },
-          "locator": null,
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Lift escucha desde el pasillo; los hablantes están dentro ySzeth está sentado junto al otro lado de la puerta.",
           "needsConfirmation": [
-            "Cotejar presencia, secuencia y traducción en la edición usada."
+            "Identificación por continuidad con la espada recibida antes, no por nombre nuevo enDF9."
           ],
           "notes": [
-            "Anclaje de ciudad; no afirma precisión de edificio o calle."
+            "Anclaje de ciudad; no afirma precisión de edificio o calle.",
+            "Se ve la espada deSzeth envainada, no la hoja negra ni una nueva identificación nominal; continuidad del arma inferida."
           ]
         },
         {
@@ -215148,10 +217816,24 @@ window.ATLAS_DATA = {
       "id": "mik-mother",
       "name": "Mujer que acompaña al niño (DF6)",
       "initial": "M",
-      "role": "Adulta de relación familiar no confirmada que deja al niño en el orfanato.",
+      "role": "Adulta del episodio del orfanato; identidad y relación limitadas por capítulo.",
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Figura vista en una escena concreta; no se anticipa el nombre del niño ni un parentesco no expresado.",
+      "nameRevelations": [
+        {
+          "name": "Madre de Mik",
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Lift lo identifica como el niño que dejó su madre yMik pregunta por ella."
+        }
+      ],
       "events": [
         {
           "id": "primary176-adult-arrival6",
@@ -246421,6 +249103,790 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "box-shopkeeper-ed8",
+      "name": "Tendero de las cajas (DF8)",
+      "role": "Echa aLift y otros chicos de unas cajas durante el seguimiento; no se identifica con el vendedor posterior de fruta.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-boxes-vendor8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Calle del seguimiento y cajas",
+          "placeId": "place-darkness-follow-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Calle del seguimiento y cajas",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. El tendero intenta echar a los chicos de las cajas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El tendero intenta echar a los chicos de las cajas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fruit-vendor-ed8",
+      "name": "Vendedor de fruta (DF8)",
+      "role": "Tiqqa le roba una cesta;recibe los papeles deOscuridad después de presenciar la muerte.",
+      "initial": "V",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-fruit-vendor-ed8-market8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. El vendedor y los dos chicos están presentes en el incidente.",
+          "needsConfirmation": [],
+          "notes": [
+            "El vendedor y los dos chicos están presentes en el incidente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crying-market-boy-ed8",
+      "name": "Chico que llora en el mercado (DF8)",
+      "role": "Uno de los dos chicos junto aLift, horrorizado tras la muerte deTiqqa. Sin nombre o parentesco revelados.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-crying-market-boy-ed8-market8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. El vendedor y los dos chicos están presentes en el incidente.",
+          "needsConfirmation": [],
+          "notes": [
+            "El vendedor y los dos chicos están presentes en el incidente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other-market-boy-ed8",
+      "name": "Otro chico junto al carro roto (DF8)",
+      "role": "Segundo chico junto aLift durante el incidente; no se lo une a otros pillastres por coincidencia.",
+      "initial": "O",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-other-market-boy-ed8-market8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Puesto de fruta y cadáver deTiqqa",
+          "placeId": "place-fruit-stall-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Yeddaw · Puesto de fruta y cadáver deTiqqa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. El vendedor y los dos chicos están presentes en el incidente.",
+          "needsConfirmation": [],
+          "notes": [
+            "El vendedor y los dos chicos están presentes en el incidente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lodging-door-guard-ed8",
+      "name": "Anciano guardia del alojamiento (DF8)",
+      "role": "Uniforme blanco y negro, vigila la puerta y luego se aparta; no se identifica con los sicarios del prólogo.",
+      "initial": "A",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-elder-door8",
+          "scene": "ed-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Entrada y guardia",
+          "placeId": "place-nalan-lodging-door-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Entrada y guardia",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-8"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Vigila la mirilla y se aleja; no se conoce su destino.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vigila la mirilla y se aleja; no se conoce su destino."
+          ]
+        },
+        {
+          "id": "primary178-elder-door9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alojamiento · Entrada y guardia",
+          "placeId": "place-nalan-lodging-door-ed8",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/008.xhtml. Alojamiento · Entrada y guardia",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. El anciano está dormitando cuandoLift atraviesa la intersección al salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "El anciano está dormitando cuandoLift atraviesa la intersección al salir."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alley-family-husband-ed9",
+      "name": "Hombre de la choza del callejón (DF9)",
+      "role": "El padre de la familia toma una cachiporra mientras su esposa cierra la cortina. No se conocen hijos concretos ni identidad con la familia deDF5.",
+      "initial": "H",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-alley-family-husband-ed9-home9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Callejón tras salir del alojamiento",
+          "placeId": "place-lift-after-lodging-ed9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Yeddaw · Callejón tras salir del alojamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Comen en la choza y reaccionan a la presencia deLift; no hay diálogo expreso con ella.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comen en la choza y reaccionan a la presencia deLift; no hay diálogo expreso con ella."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alley-family-wife-ed9",
+      "name": "Esposa del hombre de la choza (DF9)",
+      "role": "Cierra la cortina de la choza. Se afirma que es esposa, no se la identifica con otra mujer del barrio.",
+      "initial": "E",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-alley-family-wife-ed9-home9",
+          "scene": "ed-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Callejón tras salir del alojamiento",
+          "placeId": "place-lift-after-lodging-ed9",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Yeddaw · Callejón tras salir del alojamiento",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-9"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/009.xhtml. Comen en la choza y reaccionan a la presencia deLift; no hay diálogo expreso con ella.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comen en la choza y reaccionan a la presencia deLift; no hay diálogo expreso con ella."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stone-dropping-girl-ed10",
+      "name": "Niña que deja caer piedras (DF10)",
+      "role": "Una de las dos niñas ciegas del juego; produce los sonidos con piedras. No se afirma diagnóstico adicional,parentesco o curación.",
+      "initial": "N",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-stone-dropping-girl-ed10-play10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Presencia individual en juegos o atención de la encargada, sin causa sobrenatural añadida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individual en juegos o atención de la encargada, sin causa sobrenatural añadida."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stone-listening-girl-ed10",
+      "name": "Niña que reconoce las piedras por el sonido (DF10)",
+      "role": "Otra niña ciega del juego; no se afirma parentesco con la primera ni poderes.",
+      "initial": "N",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-stone-listening-girl-ed10-play10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Presencia individual en juegos o atención de la encargada, sin causa sobrenatural añadida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individual en juegos o atención de la encargada, sin causa sobrenatural añadida."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "earmuff-child-ed10",
+      "name": "Niño al que entregan orejeras (DF10)",
+      "role": "Tras el conflicto, laTocón le entrega orejeras y él cierra los ojos. No se diagnostica su condición.",
+      "initial": "N",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-earmuff-child-ed10-play10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Luz de Tashi · Bancos del anfiteatro exterior",
+          "placeId": "place-orphanage-benches-ed6",
+          "realm": "physical",
+          "placeNotes": [
+            "EPUB español Danzante del Filo aportado, OEBPS/Text/006.xhtml. Luz de Tashi · Bancos del anfiteatro exterior",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Presencia individual en juegos o atención de la encargada, sin causa sobrenatural añadida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia individual en juegos o atención de la encargada, sin causa sobrenatural añadida."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tall-alezi-passerby-ed10",
+      "name": "Transeúnte alezi alto (DF10)",
+      "role": "Lift lo ve pasar por la calle; no se identifica por aspecto o actitud con un personaje nombrado.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-alezi-pass10",
+          "scene": "ed-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · calles de la ciudad",
+          "placeId": "place-yeddaw-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad, sin inventar calles o recorrido de persecución."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-10"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/010.xhtml. Transeúnte visto desde el anfiteatro; no se crea encuentro conLift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Transeúnte visto desde el anfiteatro; no se crea encuentro conLift."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gawx-groomer-ed10",
+      "name": "Mujer que arregla aGawx (recuerdo,DF10)",
+      "role": "Lift cuenta que vio cómo lo peinaba y usaba unas pincitas en su nariz; no se revela nombre ni lugar actual.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "garden-information-woman-ed11",
+      "name": "Mujer del jardín que indica el archivo (DF11)",
+      "role": "Responde aLift y le señala elGranIndicium; sin identidad con las mujeres de otras calles.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary178-garden-woman11",
+          "scene": "ed-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Yeddaw · Jardín y calles",
+          "placeId": "place-yeddaw-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad, sin localizar calles, edificios, tejados ni trayectorias."
+          ],
+          "xy": [
+            390.502,
+            429.65
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary178-ed8-12",
+          "sourceIds": [
+            "primary178-ed8-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-yeddaw",
+          "coordinateAnchorName": "Yeddaw",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden de escena, sin fecha absoluta ni simultaneidad con el epílogo dePR."
+          },
+          "revealedAt": {
+            "bookId": "edgedancer",
+            "sceneId": "ed-chapter-11"
+          },
+          "locator": "EPUB español Danzante del Filo aportado, OEBPS/Text/011.xhtml. Está en el banco cuandoLift se acerca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el banco cuandoLift se acerca."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lift-palace-tutors-ed11",
+      "name": "Tutores deLift mencionados (DF11)",
+      "role": "Wyndle dice que acudía a escuchar en lugar deLift. No se individualizan profesores ni un encuentro personal visible del spren con ellos.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "whitehair-lift-memory-ed12",
+      "name": "Peloblanco (recuerdo deLift,DF12)",
+      "role": "Lift recuerda sus comentarios de arte y que saltó a las fauces de un grancaparazón marabeziano guiñándole un ojo. No se confirma muerte,ubicación presente o identidad conSagaz por semejanza del relato.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
     }
   ]
 };
