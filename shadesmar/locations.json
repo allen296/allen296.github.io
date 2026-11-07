@@ -2665,10 +2665,21 @@
     ],
     "ob-prologue": [
       "amaram",
+      "brianlia",
+      "dock-parshmen-ob-prologue",
+      "elder-ob-prologue",
       "eshonai",
+      "five-listener-council-ob-prologue",
       "gavilar",
       "gitgeth",
-      "szeth"
+      "jaxlim",
+      "klade",
+      "navani",
+      "officer-ob-prologue",
+      "other-woman-ob-prologue",
+      "signalling-woman-ob-prologue",
+      "szeth",
+      "venli"
     ],
     "ob-chapter-1": [
       "dalinar",
@@ -10018,6 +10029,40 @@
         "primaryReviewed": true,
         "primaryLocator": "El camino de los reyes, OEBPS/Text/08_ars.xhtml y Images/img_tabla_ars.jpg; tabla vista y texto leído completos. Anexo situado al cierre del libro, sin escena adicional.",
         "readingLocator": "Ars Arcanum al final de El camino de los reyes; Diez Esencias y asociaciones históricas.",
+        "supersedes": []
+      },
+      {
+        "id": "primary183-heater-spren",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Gavilar relaciona su proyecto con una tormenta que, según él, hará salir a los Heraldos. Es su propósito declarado, no un nuevo encuentro con ellos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-prologue"
+        },
+        "sourceIds": [
+          "primary183-ob-prologue"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gavilar relaciona su proyecto con una tormenta que, según él, hará salir a los Heraldos. Es su propósito declarado, no un nuevo encuentro con ellos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gavilar relaciona su proyecto con una tormenta que, según él, hará salir a los Heraldos. Es su propósito declarado, no un nuevo encuentro con ellos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary183-forms-claim",
+        "entryId": "spren-type-voidspren",
+        "field": "description",
+        "value": "Eshonai recuerda que las canciones relacionan las formas de poder con una luz oscura. El fabrial contiene un spren no identificado y la esfera oscura es otro objeto; no se confirma que contenga un individuo o tipo de spren.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-prologue"
+        },
+        "sourceIds": [
+          "primary183-ob-prologue"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai recuerda que las canciones relacionan las formas de poder con una luz oscura. El fabrial contiene un spren no identificado y la esfera oscura es otro objeto; no se confirma que contenga un individuo o tipo de spren.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai recuerda que las canciones relacionan las formas de poder con una luz oscura. El fabrial contiene un spren no identificado y la esfera oscura es otro objeto; no se confirma que contenga un individuo o tipo de spren.",
         "supersedes": []
       }
     ],
@@ -31724,9 +31769,10 @@
         "note": "Recuerdo histórico; no cambia la ubicación presente."
       },
       "sourceIds": [
-        "audit-ob-primary-prologue"
+        "audit-ob-primary-prologue",
+        "primary183-ob-prologue"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -31740,7 +31786,8 @@
             "gitgeth"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Se pasan un tambor, hablan y Gitgeth hace un gesto para que Eshonai se marche."
     },
     {
       "id": "audit-ob-interaction-4",
@@ -54543,6 +54590,148 @@
           ]
         ]
       }
+    },
+    {
+      "id": "primary183-dock-talk",
+      "participants": [
+        "eshonai",
+        "brianlia",
+        "dock-parshmen-ob-prologue"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "type": "conversation",
+      "summary": "Eshonai se dirige al grupo y Brianlia le responde sobre su situación.",
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai se dirige al grupo y Brianlia le responde sobre su situación.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Eshonai se dirige al grupo y Brianlia le responde sobre su situación.",
+        "pairs": [
+          [
+            "eshonai",
+            "brianlia"
+          ],
+          [
+            "eshonai",
+            "dock-parshmen-ob-prologue"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary183-meridas-entry",
+      "participants": [
+        "amaram",
+        "eshonai",
+        "gavilar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "type": "conversation",
+      "summary": "Meridas transmite la invitación, acompaña a Eshonai y recibe las gracias de Gavilar.",
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Meridas transmite la invitación, acompaña a Eshonai y recibe las gracias de Gavilar.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Meridas transmite la invitación, acompaña a Eshonai y recibe las gracias de Gavilar.",
+        "pairs": [
+          [
+            "amaram",
+            "eshonai"
+          ],
+          [
+            "amaram",
+            "gavilar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary183-gavilar-talk",
+      "participants": [
+        "eshonai",
+        "gavilar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "type": "conversation",
+      "summary": "Conversación privada con el fabrial, el mapa y la esfera oscura, después de que los demás salgan.",
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Conversación privada con el fabrial, el mapa y la esfera oscura, después de que los demás salgan.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversación privada con el fabrial, el mapa y la esfera oscura, después de que los demás salgan.",
+        "pairs": [
+          [
+            "eshonai",
+            "gavilar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary183-council-report",
+      "participants": [
+        "eshonai",
+        "five-listener-council-ob-prologue"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "type": "conversation",
+      "summary": "Eshonai informa al consejo y participa en la decisión. No se deducen parejas entre todos los miembros.",
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai informa al consejo y participa en la decisión. No se deducen parejas entre todos los miembros.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Eshonai informa al consejo y participa en la decisión. No se deducen parejas entre todos los miembros.",
+        "pairs": [
+          [
+            "eshonai",
+            "five-listener-council-ob-prologue"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -58098,10 +58287,12 @@
       "text": "Ayuda a descargar los tambores de la delegación oyente.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-prologue"
+        "audit-ob-primary-prologue",
+        "primary183-ob-prologue"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gitgeth recibe un tambor de Eshonai y le indica que puede marcharse."
     },
     {
       "id": "audit-ob-profile-3",
@@ -83017,6 +83208,227 @@
       "primaryLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/020.xhtml. Ghenna explica que la décima tortita dedicada aTashi es una idea conmemorativa; solo se cocinan nueve variedades. No es aparición corporal o nueva identidad.",
       "readingLocator": "EPUB español Danzante del Filo aportado, OEBPS/Text/020.xhtml. Ghenna explica que la décima tortita dedicada aTashi es una idea conmemorativa; solo se cocinan nueve variedades. No es aparición corporal o nueva identidad.",
       "supersedes": []
+    },
+    {
+      "id": "primary183-brianlia-intro",
+      "characterId": "brianlia",
+      "kind": "background",
+      "text": "Oyente que comenta a Eshonai la situación de los parshmenios durante la descarga.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Oyente que comenta a Eshonai la situación de los parshmenios durante la descarga.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Oyente que comenta a Eshonai la situación de los parshmenios durante la descarga.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-dock-parshmen-ob-prologue-intro",
+      "characterId": "dock-parshmen-ob-prologue",
+      "kind": "background",
+      "text": "Grupo que se reúne junto a la descarga; Eshonai les habla. Sin censo ni identidades individuales.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Grupo que se reúne junto a la descarga; Eshonai les habla. Sin censo ni identidades individuales.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Grupo que se reúne junto a la descarga; Eshonai les habla. Sin censo ni identidades individuales.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-five-listener-council-ob-prologue-intro",
+      "characterId": "five-listener-council-ob-prologue",
+      "kind": "background",
+      "text": "Consejo al que Eshonai comunica el plan del rey. Klade es integrante expresa; no se completa el elenco por conjetura.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Consejo al que Eshonai comunica el plan del rey. Klade es integrante expresa; no se completa el elenco por conjetura.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Consejo al que Eshonai comunica el plan del rey. Klade es integrante expresa; no se completa el elenco por conjetura.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-officer-ob-prologue-intro",
+      "characterId": "officer-ob-prologue",
+      "kind": "background",
+      "text": "Uno de los dos oficiales; no se identifica con otros oficiales de la noche.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Uno de los dos oficiales; no se identifica con otros oficiales de la noche.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Uno de los dos oficiales; no se identifica con otros oficiales de la noche.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-signalling-woman-ob-prologue-intro",
+      "characterId": "signalling-woman-ob-prologue",
+      "kind": "background",
+      "text": "Una de las dos mujeres advierte al rey de la presencia de Eshonai.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Una de las dos mujeres advierte al rey de la presencia de Eshonai.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Una de las dos mujeres advierte al rey de la presencia de Eshonai.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-other-woman-ob-prologue-intro",
+      "characterId": "other-woman-ob-prologue",
+      "kind": "background",
+      "text": "Segunda mujer de la reunión; sin identidad por coincidencia.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Segunda mujer de la reunión; sin identidad por coincidencia.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Segunda mujer de la reunión; sin identidad por coincidencia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-elder-ob-prologue-intro",
+      "characterId": "elder-ob-prologue",
+      "kind": "background",
+      "text": "Asistente de la sala sin nombre; no se identifica por aspecto.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Asistente de la sala sin nombre; no se identifica por aspecto.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Asistente de la sala sin nombre; no se identifica por aspecto.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-eshonai-perspective",
+      "characterId": "eshonai",
+      "kind": "background",
+      "text": "Recuerda el primer encuentro con humanos, conversaciones con su hermana y un consejo de su madre. La referencia a que no ha visto a Venli desde temprano no la coloca en la sala. El primer encuentro ocurrió más de un año antes de esta visita; sin lugar exacto.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Recuerda el primer encuentro con humanos, conversaciones con su hermana y un consejo de su madre. La referencia a que no ha visto a Venli desde temprano no la coloca en la sala. El primer encuentro ocurrió más de un año antes de esta visita; sin lugar exacto.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Recuerda el primer encuentro con humanos, conversaciones con su hermana y un consejo de su madre. La referencia a que no ha visto a Venli desde temprano no la coloca en la sala. El primer encuentro ocurrió más de un año antes de esta visita; sin lugar exacto.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-jaxlim-advice",
+      "characterId": "jaxlim",
+      "kind": "background",
+      "text": "Eshonai recuerda el consejo de su madre de buscar los ritmos y las canciones. No es presencia en Kholinar ni nueva revelación de nombre.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai recuerda el consejo de su madre de buscar los ritmos y las canciones. No es presencia en Kholinar ni nueva revelación de nombre.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai recuerda el consejo de su madre de buscar los ritmos y las canciones. No es presencia en Kholinar ni nueva revelación de nombre.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-venli-reported",
+      "characterId": "venli",
+      "kind": "background",
+      "text": "Según el relato, acompañó a Klade en la adquisición del esclavo. Eshonai no presencia ese episodio ni identifica por sí misma a la voz.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Según el relato, acompañó a Klade en la adquisición del esclavo. Eshonai no presencia ese episodio ni identifica por sí misma a la voz.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Según el relato, acompañó a Klade en la adquisición del esclavo. Eshonai no presencia ese episodio ni identifica por sí misma a la voz.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-klade-purchase",
+      "characterId": "klade",
+      "kind": "background",
+      "text": "Integrante de los Cinco. Se relata la adquisición del asesino y el interrogatorio, y Klade atribuye a una voz el haberlo encontrado. No se identifica a la voz ni se recrea una ubicación exacta del trato.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Integrante de los Cinco. Se relata la adquisición del asesino y el interrogatorio, y Klade atribuye a una voz el haberlo encontrado. No se identifica a la voz ni se recrea una ubicación exacta del trato.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Integrante de los Cinco. Se relata la adquisición del asesino y el interrogatorio, y Klade atribuye a una voz el haberlo encontrado. No se identifica a la voz ni se recrea una ubicación exacta del trato.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-gavilar-proposal",
+      "characterId": "gavilar",
+      "kind": "background",
+      "text": "Expone a Eshonai su plan de devolver a los dioses de los oyentes y afirma que se capturó un spren antiguo. Le entrega una esfera oscura, distinta del fabrial que mostró. Sus explicaciones no certifican la identidad ni el contenido de la esfera.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Expone a Eshonai su plan de devolver a los dioses de los oyentes y afirma que se capturó un spren antiguo. Le entrega una esfera oscura, distinta del fabrial que mostró. Sus explicaciones no certifican la identidad ni el contenido de la esfera.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Expone a Eshonai su plan de devolver a los dioses de los oyentes y afirma que se capturó un spren antiguo. Le entrega una esfera oscura, distinta del fabrial que mostró. Sus explicaciones no certifican la identidad ni el contenido de la esfera.",
+      "supersedes": []
+    },
+    {
+      "id": "primary183-navani-heater-mentioned",
+      "characterId": "navani",
+      "kind": "background",
+      "text": "Gavilar atribuye a su esposa la confianza en que las eruditas podrán calentar una habitación con un fabrial. No la presenta en esta reunión.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-prologue"
+      },
+      "sourceIds": [
+        "primary183-ob-prologue"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gavilar atribuye a su esposa la confianza en que las eruditas podrán calentar una habitación con un fabrial. No la presenta en esta reunión.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gavilar atribuye a su esposa la confianza en que las eruditas podrán calentar una habitación con un fabrial. No la presenta en esta reunión.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -85562,6 +85974,10 @@
         {
           "revision": 182,
           "notes": "Ascendencia materna alegada deTaravangian cotejada enPR I14; se conserva como inferencia relatada, sin grado exacto,cónyuge o progenitores intermedios. No nuevos parentescos por números delArs o títulos deHeraldos."
+        },
+        {
+          "revision": 183,
+          "notes": "Eshonai recuerda a su hermana Venli y a su madre; se conservan los vínculos ya registrados, sin presencias nuevas. La esposa mencionada por Gavilar no se identifica con las asistentes ni se coloca en la reunión. Los antepasados aludidos no se individualizan."
         }
       ]
     }
@@ -88349,7 +88765,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 182,
+  "revision": 183,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -121251,28 +121667,29 @@
           "scene": "ob-prologue",
           "retrospective": false,
           "memoryPhase": "before",
-          "memoryOrder": 2,
+          "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Kholinar · Palacio",
-          "placeId": "place-kholinar-palacio",
+          "place": "Palacio de Kholinar · Sala de los tambores",
+          "placeId": "place-ob-palace-drums",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Kholinar · anclaje de ciudad. La coordenada concreta de esta escena sigue pendiente."
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de los tambores",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             721.177,
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-prologue-source",
           "sourceIds": [
             "ob-prologue-source",
-            "ob-prologue-summary"
+            "ob-prologue-summary",
+            "primary183-ob-prologue"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -121289,11 +121706,11 @@
             "bookId": "ob",
             "sceneId": "ob-prologue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. El asesino de blanco sale de la sala mientras Eshonai toca. Identidad por el episodio ya narrado, sin situarlo en la reunión de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "El asesino de blanco sale de la sala mientras Eshonai toca. Identidad por el episodio ya narrado, sin situarlo en la reunión de Gavilar."
+          ]
         }
       ]
     },
@@ -172698,28 +173115,29 @@
           "scene": "ob-prologue",
           "retrospective": false,
           "memoryPhase": "before",
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Kholinar · Palacio",
-          "placeId": "place-kholinar-palacio",
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Kholinar · anclaje de ciudad. La coordenada concreta de esta escena sigue pendiente."
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             721.177,
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-prologue-source",
           "sourceIds": [
             "ob-prologue-source",
-            "ob-prologue-summary"
+            "ob-prologue-summary",
+            "primary183-ob-prologue"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -172736,11 +173154,11 @@
             "bookId": "ob",
             "sceneId": "ob-prologue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai ve a Gavilar y el oficial al que llama Meridas en la sala de libros; Meridas sale al pasillo y la acompaña dentro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai ve a Gavilar y el oficial al que llama Meridas en la sala de libros; Meridas sale al pasillo y la acompaña dentro."
+          ]
         },
         {
           "id": "ob75-amaram-27-1",
@@ -186820,13 +187238,14 @@
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-prologue-source",
           "sourceIds": [
             "ob-prologue-source",
-            "ob-prologue-summary"
+            "ob-prologue-summary",
+            "primary183-ob-prologue"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -186843,39 +187262,184 @@
             "bookId": "ob",
             "sceneId": "ob-prologue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Descarga en el muelle occidental del palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descarga en el muelle occidental del palacio."
+          ]
         },
         {
-          "id": "ob-eshonai-prologue-02",
+          "id": "primary183-eshonai-steps",
           "scene": "ob-prologue",
           "retrospective": false,
           "memoryPhase": "before",
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Kholinar · Palacio",
-          "placeId": "place-kholinar-palacio",
+          "place": "Palacio de Kholinar · Escalones desde el muelle",
+          "placeId": "place-ob-palace-stairs",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Kholinar · anclaje de ciudad. La coordenada concreta de esta escena sigue pendiente."
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Escalones desde el muelle",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             721.177,
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Sube desde el muelle.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube desde el muelle."
+          ]
+        },
+        {
+          "id": "primary183-eshonai-galleries",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Galerías inferiores",
+          "placeId": "place-ob-palace-galleries",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Galerías inferiores",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Recorre el nivel inferior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorre el nivel inferior."
+          ]
+        },
+        {
+          "id": "primary183-eshonai-upper",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Pasillos superiores",
+          "placeId": "place-ob-palace-upper",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Pasillos superiores",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Curiosea en el pasillo superior antes de ser invitada a entrar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Curiosea en el pasillo superior antes de ser invitada a entrar."
+          ]
+        },
+        {
+          "id": "ob-eshonai-prologue-02",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "ob-prologue-source",
           "sourceIds": [
             "ob-prologue-source",
-            "ob-prologue-summary"
+            "ob-prologue-summary",
+            "primary183-ob-prologue"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -186892,11 +187456,107 @@
             "bookId": "ob",
             "sceneId": "ob-prologue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai ve a Gavilar y el oficial al que llama Meridas en la sala de libros; Meridas sale al pasillo y la acompaña dentro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai ve a Gavilar y el oficial al que llama Meridas en la sala de libros; Meridas sale al pasillo y la acompaña dentro."
+          ]
+        },
+        {
+          "id": "primary183-eshonai-council",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Mesa de los Cinco",
+          "placeId": "place-ob-five-feast",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Mesa de los Cinco",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. El recuerdo intercalado la muestra contando lo ocurrido a los Cinco.",
+          "needsConfirmation": [],
+          "notes": [
+            "El recuerdo intercalado la muestra contando lo ocurrido a los Cinco."
+          ]
+        },
+        {
+          "id": "primary183-eshonai-drums",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de los tambores",
+          "placeId": "place-ob-palace-drums",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de los tambores",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Toca y solloza hasta que se la llevan, sin destino mostrado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Toca y solloza hasta que se la llevan, sin destino mostrado."
+          ]
         },
         {
           "id": "ob78-eshonai-i3-2",
@@ -212388,28 +213048,29 @@
           "scene": "ob-prologue",
           "retrospective": false,
           "memoryPhase": "before",
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Kholinar · Palacio",
-          "placeId": "place-kholinar-palacio",
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Kholinar · anclaje de ciudad. La coordenada concreta de esta escena sigue pendiente."
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             721.177,
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-prologue-source",
           "sourceIds": [
             "ob-prologue-source",
-            "ob-prologue-summary"
+            "ob-prologue-summary",
+            "primary183-ob-prologue"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -212426,11 +213087,11 @@
             "bookId": "ob",
             "sceneId": "ob-prologue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai ve a Gavilar y el oficial al que llama Meridas en la sala de libros; Meridas sale al pasillo y la acompaña dentro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai ve a Gavilar y el oficial al que llama Meridas en la sala de libros; Meridas sale al pasillo y la acompaña dentro."
+          ]
         },
         {
           "id": "ob-gavilar-chapter-11-01",
@@ -214883,13 +215544,14 @@
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-prologue-source",
           "sourceIds": [
             "ob-prologue-source",
-            "ob-prologue-summary"
+            "ob-prologue-summary",
+            "primary183-ob-prologue"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -214906,11 +215568,11 @@
             "bookId": "ob",
             "sceneId": "ob-prologue"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Descarga en el muelle occidental del palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descarga en el muelle occidental del palacio."
+          ]
         }
       ]
     },
@@ -233214,6 +233876,54 @@
           "notes": [
             "Klade permanece con Gangnah y Varnali después del asesinato.",
             "El anclaje regional no identifica una habitación o coordenada exacta."
+          ]
+        },
+        {
+          "id": "primary183-klade-council",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Mesa de los Cinco",
+          "placeId": "place-ob-five-feast",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Mesa de los Cinco",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Klade integra el consejo; la adquisición y el interrogatorio anteriores se cuentan, no se muestran aquí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Klade integra el consejo; la adquisición y el interrogatorio anteriores se cuentan, no se muestran aquí."
           ]
         }
       ]
@@ -255408,6 +256118,417 @@
           "needsConfirmation": [],
           "notes": [
             "Lift recorre la cola e insufla luz tormentosa a heridos; no se inventa censo individual."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brianlia",
+      "name": "Brianlia",
+      "role": "Oyente que comenta a Eshonai la situación de los parshmenios durante la descarga.",
+      "initial": "B",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-brianlia-dock",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Llegada de la delegación oyente",
+          "placeId": "place-ob-kholinar-delegation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Presencia en el muelle durante el diálogo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en el muelle durante el diálogo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dock-parshmen-ob-prologue",
+      "name": "Parshmenios del muelle (grupo)",
+      "role": "Grupo que se reúne junto a la descarga; Eshonai les habla. Sin censo ni identidades individuales.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-dock-parshmen-ob-prologue-dock",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Llegada de la delegación oyente",
+          "placeId": "place-ob-kholinar-delegation",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Presencia en el muelle durante el diálogo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en el muelle durante el diálogo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "five-listener-council-ob-prologue",
+      "name": "Los Cinco (consejo oyente)",
+      "role": "Consejo al que Eshonai comunica el plan del rey. Klade es integrante expresa; no se completa el elenco por conjetura.",
+      "initial": "L",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-five-council",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Mesa de los Cinco",
+          "placeId": "place-ob-five-feast",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Mesa de los Cinco",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Los Cinco oyen a Eshonai y debaten.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Cinco oyen a Eshonai y debaten."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "officer-ob-prologue",
+      "name": "Otro oficial (prólogo OB)",
+      "role": "Uno de los dos oficiales; no se identifica con otros oficiales de la noche.",
+      "initial": "O",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-officer-ob-prologue-room",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Uno de los dos oficiales; no se identifica con otros oficiales de la noche.",
+          "needsConfirmation": [],
+          "notes": [
+            "Uno de los dos oficiales; no se identifica con otros oficiales de la noche."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signalling-woman-ob-prologue",
+      "name": "Mujer que señala a Eshonai (prólogo OB)",
+      "role": "Una de las dos mujeres advierte al rey de la presencia de Eshonai.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-signalling-woman-ob-prologue-room",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Una de las dos mujeres advierte al rey de la presencia de Eshonai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Una de las dos mujeres advierte al rey de la presencia de Eshonai."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other-woman-ob-prologue",
+      "name": "Otra mujer de la sala (prólogo OB)",
+      "role": "Segunda mujer de la reunión; sin identidad por coincidencia.",
+      "initial": "O",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-other-woman-ob-prologue-room",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Segunda mujer de la reunión; sin identidad por coincidencia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Segunda mujer de la reunión; sin identidad por coincidencia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elder-ob-prologue",
+      "name": "Anciano con túnica (prólogo OB)",
+      "role": "Asistente de la sala sin nombre; no se identifica por aspecto.",
+      "initial": "A",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary183-elder-ob-prologue-room",
+          "scene": "ob-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de libros y mapa",
+          "placeId": "place-ob-gavilar-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Palacio de Kholinar · Sala de libros y mapa",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary183-ob-prologue",
+          "sourceIds": [
+            "primary183-ob-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 6,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis años antes, en la noche de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-prologue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Asistente de la sala sin nombre; no se identifica por aspecto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asistente de la sala sin nombre; no se identifica por aspecto."
           ]
         }
       ]
