@@ -2682,8 +2682,15 @@ window.ATLAS_DATA = {
       "venli"
     ],
     "ob-chapter-1": [
+      "aesudan",
       "dalinar",
-      "navani"
+      "navani",
+      "nine-shadow-figure-ob1",
+      "odium",
+      "sadeas",
+      "stormfather",
+      "unmade-collective-pr81",
+      "urithiru-sadeas-report-scout-ob1"
     ],
     "ob-chapter-2": [
       "adolin",
@@ -10063,6 +10070,40 @@ window.ATLAS_DATA = {
         "status": "confirmed",
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai recuerda que las canciones relacionan las formas de poder con una luz oscura. El fabrial contiene un spren no identificado y la esfera oscura es otro objeto; no se confirma que contenga un individuo o tipo de spren.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Eshonai recuerda que las canciones relacionan las formas de poder con una luz oscura. El fabrial contiene un spren no identificado y la esfera oscura es otro objeto; no se confirma que contenga un individuo o tipo de spren.",
+        "supersedes": []
+      },
+      {
+        "id": "primary184-stormfather-vision",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "El Padre Tormenta modifica el punto de vista de Dalinar dentro de una visión y distingue el escenario del mensaje original. Afirma que no vio la luz dorada.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-1"
+        },
+        "sourceIds": [
+          "primary184-ob1"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. El Padre Tormenta modifica el punto de vista de Dalinar dentro de una visión y distingue el escenario del mensaje original. Afirma que no vio la luz dorada.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. El Padre Tormenta modifica el punto de vista de Dalinar dentro de una visión y distingue el escenario del mensaje original. Afirma que no vio la luz dorada.",
+        "supersedes": []
+      },
+      {
+        "id": "primary184-heralds-expected",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Dalinar recuerda la expectativa de que los Heraldos dirijan la lucha y constata que no ve señales de su ayuda. El pasaje no muestra una aparición de los Heraldos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-1"
+        },
+        "sourceIds": [
+          "primary184-ob1"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar recuerda la expectativa de que los Heraldos dirijan la lucha y constata que no ve señales de su ayuda. El pasaje no muestra una aparición de los Heraldos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar recuerda la expectativa de que los Heraldos dirijan la lucha y constata que no ve señales de su ayuda. El pasaje no muestra una aparición de los Heraldos.",
         "supersedes": []
       }
     ],
@@ -54732,6 +54773,110 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary184-dalinar-stormfather",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "type": "conversation",
+      "summary": "Dalinar pide al Padre Tormenta que lo lleve a las ruinas dentro de la visión y le describe la luz tras despertar.",
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar pide al Padre Tormenta que lo lleve a las ruinas dentro de la visión y le describe la luz tras despertar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pide al Padre Tormenta que lo lleve a las ruinas dentro de la visión y le describe la luz tras despertar.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary184-dalinar-navani",
+      "participants": [
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "type": "conversation",
+      "summary": "Navani sostiene a Dalinar al despertar. Hablan de suministros, apoyo entre reinos y uso futuro de las Puertas Juradas.",
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Navani sostiene a Dalinar al despertar. Hablan de suministros, apoyo entre reinos y uso futuro de las Puertas Juradas.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani sostiene a Dalinar al despertar. Hablan de suministros, apoyo entre reinos y uso futuro de las Puertas Juradas.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary184-scout-report",
+      "participants": [
+        "dalinar",
+        "urithiru-sadeas-report-scout-ob1",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "type": "conversation",
+      "summary": "Navani concede el paso y la exploradora responde a las preguntas de Dalinar sobre el hallazgo.",
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Navani concede el paso y la exploradora responde a las preguntas de Dalinar sobre el hallazgo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani concede el paso y la exploradora responde a las preguntas de Dalinar sobre el hallazgo.",
+        "pairs": [
+          [
+            "dalinar",
+            "urithiru-sadeas-report-scout-ob1"
+          ],
+          [
+            "navani",
+            "urithiru-sadeas-report-scout-ob1"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -55375,16 +55520,18 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-1"
       },
       "kind": "experience",
-      "text": "Visión: Kholinar destruida dentro de una visión.",
+      "text": "Dalinar recorre las ruinas simuladas de Kholinar y percibe una figura de nueve sombras al final. Su cuerpo permanece en la habitación de Urithiru.",
       "sourceIds": [
         "ob-c1",
-        "ob-summary"
+        "ob-summary",
+        "primary184-ob1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "notes": [
         "Una experiencia no equivale por sí sola a un desplazamiento corporal."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. La escena muestra una visión que Dalinar puede repetir a voluntad."
     },
     {
       "id": "fact-shallan-wor-chapter-3",
@@ -83429,6 +83576,125 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gavilar atribuye a su esposa la confianza en que las eruditas podrán calentar una habitación con un fabrial. No la presenta en esta reunión.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/Prologo-Sollozar.xhtml. Gavilar atribuye a su esposa la confianza en que las eruditas podrán calentar una habitación con un fabrial. No la presenta en esta reunión.",
       "supersedes": []
+    },
+    {
+      "id": "primary184-urithiru-sadeas-report-scout-ob1-intro",
+      "characterId": "urithiru-sadeas-report-scout-ob1",
+      "kind": "background",
+      "text": "Exploradora sin nombre que anuncia el hallazgo del cadáver de Sadeas desde el umbral.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Exploradora sin nombre que anuncia el hallazgo del cadáver de Sadeas desde el umbral.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Exploradora sin nombre que anuncia el hallazgo del cadáver de Sadeas desde el umbral.",
+      "supersedes": []
+    },
+    {
+      "id": "primary184-nine-shadow-figure-ob1-intro",
+      "characterId": "nine-shadow-figure-ob1",
+      "kind": "background",
+      "text": "Silueta con armadura negra y ojos rojos que Dalinar interpreta como el campeón del enemigo. Identidad y paradero físico sin determinar.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Silueta con armadura negra y ojos rojos que Dalinar interpreta como el campeón del enemigo. Identidad y paradero físico sin determinar.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Silueta con armadura negra y ojos rojos que Dalinar interpreta como el campeón del enemigo. Identidad y paradero físico sin determinar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary184-odium-light-attribution",
+      "characterId": "odium",
+      "kind": "background",
+      "text": "El Padre Tormenta atribuye a Odium la luz dorada que Dalinar describe. El Padre Tormenta dice que él no vio esa luz.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. El Padre Tormenta atribuye a Odium la luz dorada que Dalinar describe. El Padre Tormenta dice que él no vio esa luz.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. El Padre Tormenta atribuye a Odium la luz dorada que Dalinar describe. El Padre Tormenta dice que él no vio esa luz.",
+      "supersedes": []
+    },
+    {
+      "id": "primary184-unmade-shadows-attribution",
+      "characterId": "unmade-collective-pr81",
+      "kind": "background",
+      "text": "El Padre Tormenta interpreta las nueve sombras descritas por Dalinar como los Deshechos y los llama spren antiguos. No enumera individuos.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. El Padre Tormenta interpreta las nueve sombras descritas por Dalinar como los Deshechos y los llama spren antiguos. No enumera individuos.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. El Padre Tormenta interpreta las nueve sombras descritas por Dalinar como los Deshechos y los llama spren antiguos. No enumera individuos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary184-sadeas-report",
+      "characterId": "sadeas",
+      "kind": "background",
+      "text": "Una exploradora anuncia que han hallado su cadáver en los pasillos. La muerte ya se narra en Palabras radiantes 89.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Una exploradora anuncia que han hallado su cadáver en los pasillos. La muerte ya se narra en Palabras radiantes 89.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Una exploradora anuncia que han hallado su cadáver en los pasillos. La muerte ya se narra en Palabras radiantes 89.",
+      "supersedes": []
+    },
+    {
+      "id": "primary184-queen-reports",
+      "characterId": "aesudan",
+      "kind": "background",
+      "text": "Dalinar piensa en informes de revueltas en Kholinar y en el silencio de la reina. El capítulo no muestra su paradero.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar piensa en informes de revueltas en Kholinar y en el silencio de la reina. El capítulo no muestra su paradero.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar piensa en informes de revueltas en Kholinar y en el silencio de la reina. El capítulo no muestra su paradero.",
+      "supersedes": []
+    },
+    {
+      "id": "primary184-dalinar-timing-gates",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Han pasado seis días desde la llegada de sus fuerzas. Solo está activo el par de puertas de Urithiru y las Llanuras Quebradas. El uso de los demás pares se plantea como plan y depende de desbloquear ambos lados.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-1"
+      },
+      "sourceIds": [
+        "primary184-ob1"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Han pasado seis días desde la llegada de sus fuerzas. Solo está activo el par de puertas de Urithiru y las Llanuras Quebradas. El uso de los demás pares se plantea como plan y depende de desbloquear ambos lados.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Han pasado seis días desde la llegada de sus fuerzas. Solo está activo el par de puertas de Urithiru y las Llanuras Quebradas. El uso de los demás pares se plantea como plan y depende de desbloquear ambos lados.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -85978,6 +86244,10 @@ window.ATLAS_DATA = {
         {
           "revision": 183,
           "notes": "Eshonai recuerda a su hermana Venli y a su madre; se conservan los vínculos ya registrados, sin presencias nuevas. La esposa mencionada por Gavilar no se identifica con las asistentes ni se coloca en la reunión. Los antepasados aludidos no se individualizan."
+        },
+        {
+          "revision": 184,
+          "notes": "Capítulo 1 revisado. Se conserva el vínculo de Dalinar y Navani en la etapa ya acreditada. Hijo de Honor es una forma de dirigirse a Dalinar, sin filiación genealógica."
         }
       ]
     }
@@ -88765,7 +89035,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 183,
+  "revision": 184,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -91802,19 +92072,22 @@ window.ATLAS_DATA = {
       "characterId": "dalinar",
       "sceneId": "ob-chapter-1",
       "type": "vision",
-      "experiencedPlace": "Kholinar destruida dentro de una visión",
-      "physicalPlaceId": "place-urithiru",
+      "experiencedPlace": "Kholinar en ruinas: risco, llanura y murallas dentro de la visión",
+      "physicalPlaceId": "place-ob-urithiru-vision-chamber",
       "sourceIds": [
         "ob-c1",
-        "ob-summary"
+        "ob-summary",
+        "primary184-ob1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "La visión no es un desplazamiento corporal a Kholinar ni una visita al plano cognitivo. No se representa como recuerdo personal de Dalinar."
+        "El Padre Tormenta cambia el punto de vista dentro de la visión. Dalinar despierta en Urithiru.",
+        "El Padre Tormenta atribuye la luz a Odium tras oír la descripción. Dalinar interpreta la figura como el campeón del enemigo. La identidad individual y el origen de la exhortación siguen abiertos."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. La visión comienza en el risco, pasa a la llanura y las murallas y termina con una oleada, una luz dorada y una figura de nueve sombras.",
       "entryAnchor": {
-        "placeId": "place-urithiru",
-        "name": "Urithiru · Anclaje de ciudad",
+        "placeId": "place-ob-urithiru-vision-chamber",
+        "name": "Urithiru · Habitación de Dalinar y Navani",
         "xy": [
           474.647,
           410.831
@@ -131437,24 +131710,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Anclaje de ciudad",
-          "placeId": "place-urithiru",
+          "place": "Urithiru · Habitación de Dalinar y Navani",
+          "placeId": "place-ob-urithiru-vision-chamber",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
-            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+            "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Urithiru · Habitación de Dalinar y Navani",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c1",
           "sourceIds": [
-            "ob-c1"
+            "ob-c1",
+            "primary184-ob1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -131471,11 +131745,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar despierta sentado junto a Navani en una sala de piedra de Urithiru. El recorrido por Kholinar sucede dentro de la visión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar despierta sentado junto a Navani en una sala de piedra de Urithiru. El recorrido por Kholinar sucede dentro de la visión."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-2-01",
@@ -149985,24 +150259,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Anclaje de ciudad",
-          "placeId": "place-urithiru",
+          "place": "Urithiru · Habitación de Dalinar y Navani",
+          "placeId": "place-ob-urithiru-vision-chamber",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
-            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+            "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Urithiru · Habitación de Dalinar y Navani",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c1",
           "sourceIds": [
-            "ob-c1"
+            "ob-c1",
+            "primary184-ob1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150019,11 +150294,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar despierta sentado junto a Navani en una sala de piedra de Urithiru. El recorrido por Kholinar sucede dentro de la visión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar despierta sentado junto a Navani en una sala de piedra de Urithiru. El recorrido por Kholinar sucede dentro de la visión."
+          ]
         },
         {
           "id": "ob-navani-chapter-2-01",
@@ -256532,6 +256807,75 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "urithiru-sadeas-report-scout-ob1",
+      "name": "Exploradora que avisa a Dalinar",
+      "role": "Exploradora sin nombre que anuncia el hallazgo del cadáver de Sadeas desde el umbral.",
+      "initial": "E",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary184-scout-threshold",
+          "scene": "ob-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Umbral de la habitación",
+          "placeId": "place-ob-urithiru-vision-threshold",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Urithiru · Umbral de la habitación",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary184-ob1",
+          "sourceIds": [
+            "primary184-ob1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Seis días después de la llegada de las fuerzas a Urithiru."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-1"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Asoma la cabeza, saluda y responde a Dalinar. El cadáver se menciona en su informe.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asoma la cabeza, saluda y responde a Dalinar. El cadáver se menciona en su informe."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nine-shadow-figure-ob1",
+      "name": "Figura de nueve sombras en la visión",
+      "role": "Silueta con armadura negra y ojos rojos que Dalinar interpreta como el campeón del enemigo. Identidad y paradero físico sin determinar.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
     }
   ]
 };
