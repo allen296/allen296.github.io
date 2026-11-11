@@ -2694,22 +2694,35 @@
     ],
     "ob-chapter-2": [
       "adolin",
+      "adolin-messenger-ob2",
       "aladar",
       "cael",
       "dalinar",
+      "elhokar",
+      "general-khal",
+      "ialai",
+      "ilamar",
+      "kaladin",
       "kalami",
       "lopen",
+      "may-aladar",
       "navani",
       "palona",
+      "perethom",
       "renarin",
       "roion",
       "roion-son",
       "rushu",
       "sadeas",
+      "sadeas-officer-ob2",
+      "sadeas-searcher-ob2",
       "sebarial",
       "shallan",
       "sigzil",
-      "teft"
+      "sunmaker",
+      "teft",
+      "unloading-worker-ob2",
+      "urithiru-sadeas-report-scout-ob1"
     ],
     "ob-chapter-3": [
       "blue-tattoo-archer",
@@ -10105,6 +10118,74 @@
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar recuerda la expectativa de que los Heraldos dirijan la lucha y constata que no ve señales de su ayuda. El pasaje no muestra una aparición de los Heraldos.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Dalinar recuerda la expectativa de que los Heraldos dirijan la lucha y constata que no ve señales de su ayuda. El pasaje no muestra una aparición de los Heraldos.",
         "supersedes": []
+      },
+      {
+        "id": "primary185-angerspren-corridor",
+        "entryId": "spren-type-angerspren",
+        "field": "description",
+        "value": "Surgen del suelo como charcos de sangre durante el enfrentamiento de los soldados.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-2"
+        },
+        "sourceIds": [
+          "primary185-ob2"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Surgen del suelo como charcos de sangre durante el enfrentamiento de los soldados.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Surgen del suelo como charcos de sangre durante el enfrentamiento de los soldados.",
+        "supersedes": []
+      },
+      {
+        "id": "primary185-windspren-terrace",
+        "entryId": "spren-type-windspren",
+        "field": "description",
+        "value": "Junto a Dalinar en la terraza adoptan la apariencia de pequeñas figuras translúcidas que cabalgan el aire.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-2"
+        },
+        "sourceIds": [
+          "primary185-ob2"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Junto a Dalinar en la terraza adoptan la apariencia de pequeñas figuras translúcidas que cabalgan el aire.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Junto a Dalinar en la terraza adoptan la apariencia de pequeñas figuras translúcidas que cabalgan el aire.",
+        "supersedes": []
+      },
+      {
+        "id": "primary185-voidbringer-traditions",
+        "entryId": "spren-type-voidspren",
+        "field": "description",
+        "value": "Kalami cita tradiciones que describen a los Portadores del Vacío como espíritus de muertos o spren de Condenación. El diálogo no verifica ninguna explicación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-2"
+        },
+        "sourceIds": [
+          "primary185-ob2"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami cita tradiciones que describen a los Portadores del Vacío como espíritus de muertos o spren de Condenación. El diálogo no verifica ninguna explicación.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami cita tradiciones que describen a los Portadores del Vacío como espíritus de muertos o spren de Condenación. El diálogo no verifica ninguna explicación.",
+        "supersedes": []
+      },
+      {
+        "id": "primary185-heralds-desolations",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Kalami relata la tradición del retroceso entre Desolaciones y menciona lo que los Heraldos hallaban al volver.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-2"
+        },
+        "sourceIds": [
+          "primary185-ob2"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami relata la tradición del retroceso entre Desolaciones y menciona lo que los Heraldos hallaban al volver.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami relata la tradición del retroceso entre Desolaciones y menciona lo que los Heraldos hallaban al volver.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -12431,15 +12512,16 @@
       "to": "may-aladar",
       "revealedAt": {
         "bookId": "ob",
-        "sceneId": "ob-chapter-12"
+        "sceneId": "ob-chapter-2"
       },
       "kind": "parent",
       "category": "family",
       "label": "Padre → hija",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary185-ob2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -12452,7 +12534,8 @@
         "sourceUrls": [
           "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. La narración presenta a May como hija de Aladar mientras se incorpora al grupo."
     },
     {
       "id": "audit-ob-tie-26",
@@ -14733,10 +14816,11 @@
         "sceneId": "ob-chapter-2"
       },
       "sourceIds": [
-        "family74-ob-chapter-2"
+        "family74-ob-chapter-2",
+        "primary185-ob2"
       ],
-      "status": "pending",
-      "certainty": "stated",
+      "status": "confirmed",
+      "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
@@ -14748,7 +14832,8 @@
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aladar menciona al hijo de Roion."
     },
     {
       "id": "family74-mik-mother-mik-parent-ed-chapter-6",
@@ -25044,6 +25129,33 @@
         "kind": "relationship",
         "reason": "El niño dice que echa de menos a su madre; no se infiere muerte, abandono u orfandad."
       }
+    },
+    {
+      "id": "primary185-sunmaker-dalinar",
+      "from": "sunmaker",
+      "to": "dalinar",
+      "kind": "relative",
+      "label": "Ascendencia de grado sin precisar",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "certainty": "reported",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar llama antepasado al Hacedor del Sol. No especifica el número de generaciones.",
+      "notes": [
+        "Dalinar llama antepasado al Hacedor del Sol. No especifica el número de generaciones."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Dalinar llama antepasado al Hacedor del Sol. No especifica el número de generaciones."
+      }
     }
   ],
   "interactions": [
@@ -31847,9 +31959,10 @@
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-primary-1-3"
+        "audit-ob-primary-1-3",
+        "primary185-ob2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -31863,7 +31976,8 @@
             "rushu"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Rushu y Adolin intercambian información sobre los cargamentos."
     },
     {
       "id": "audit-ob-interaction-6",
@@ -31882,9 +31996,10 @@
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-primary-1-3"
+        "audit-ob-primary-1-3",
+        "primary185-ob2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -31898,7 +32013,8 @@
             "kalami"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami advierte a Dalinar en la sala lateral y responde a sus preguntas en la terraza."
     },
     {
       "id": "audit-ob-interaction-9",
@@ -54877,6 +54993,225 @@
           ]
         ]
       }
+    },
+    {
+      "id": "primary185-unloading-orders",
+      "participants": [
+        "adolin",
+        "unloading-worker-ob2",
+        "adolin-messenger-ob2"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "type": "conversation",
+      "summary": "Adolin ordena redistribuir el cargamento y recibe el aviso del mensajero.",
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Adolin ordena redistribuir el cargamento y recibe el aviso del mensajero.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin ordena redistribuir el cargamento y recibe el aviso del mensajero.",
+        "pairs": [
+          [
+            "adolin",
+            "unloading-worker-ob2"
+          ],
+          [
+            "adolin",
+            "adolin-messenger-ob2"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary185-corridor-dispute",
+      "participants": [
+        "dalinar",
+        "teft",
+        "sadeas-officer-ob2",
+        "sadeas-searcher-ob2"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "type": "conversation",
+      "summary": "Intervención de Dalinar y respuestas durante la disputa.",
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Intervención de Dalinar y respuestas durante la disputa.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Intervención de Dalinar y respuestas durante la disputa.",
+        "pairs": [
+          [
+            "dalinar",
+            "teft"
+          ],
+          [
+            "dalinar",
+            "sadeas-officer-ob2"
+          ],
+          [
+            "dalinar",
+            "sadeas-searcher-ob2"
+          ],
+          [
+            "teft",
+            "sadeas-officer-ob2"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary185-examination-conversation",
+      "participants": [
+        "dalinar",
+        "navani",
+        "sebarial"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "type": "conversation",
+      "summary": "Navani comenta el asesinato y Sebarial responde a Dalinar sobre Sadeas.",
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Navani comenta el asesinato y Sebarial responde a Dalinar sobre Sadeas.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani comenta el asesinato y Sebarial responde a Dalinar sobre Sadeas.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "sebarial"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary185-terrace-report",
+      "participants": [
+        "navani",
+        "aladar",
+        "may-aladar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "type": "conversation",
+      "summary": "Navani comunica el hallazgo a Aladar y May.",
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Navani comunica el hallazgo a Aladar y May.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani comunica el hallazgo a Aladar y May.",
+        "pairs": [
+          [
+            "navani",
+            "aladar"
+          ],
+          [
+            "navani",
+            "may-aladar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary185-terrace-orders",
+      "participants": [
+        "dalinar",
+        "aladar",
+        "sebarial",
+        "adolin",
+        "teft",
+        "renarin",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "type": "conversation",
+      "summary": "Dalinar asigna cometidos. Las órdenes y el diálogo se registran sin asumir que se ejecuten en el capítulo.",
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar asigna cometidos. Las órdenes y el diálogo se registran sin asumir que se ejecuten en el capítulo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar asigna cometidos. Las órdenes y el diálogo se registran sin asumir que se ejecuten en el capítulo.",
+        "pairs": [
+          [
+            "dalinar",
+            "aladar"
+          ],
+          [
+            "dalinar",
+            "sebarial"
+          ],
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "dalinar",
+            "teft"
+          ],
+          [
+            "dalinar",
+            "renarin"
+          ],
+          [
+            "dalinar",
+            "shallan"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -58448,13 +58783,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-2"
       },
-      "text": "Ardiente que revisa con Adolin los cargamentos de Urithiru.",
+      "text": "Rushu, descrita como joven fervorosa, revisa los manifiestos de los carros con Adolin.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-1-3"
+        "audit-ob-primary-1-3",
+        "primary185-ob2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Rushu consulta los manifiestos de los carros con Adolin."
     },
     {
       "id": "audit-ob-profile-5",
@@ -58466,10 +58803,12 @@
       "text": "Escriba veterana de Dalinar; insiste en seguir de servicio tras perder a su marido Teleb.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-1-3"
+        "audit-ob-primary-1-3",
+        "primary185-ob2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda que Kalami perdió a su marido Teleb y sigue de servicio."
     },
     {
       "id": "audit-ob-profile-7",
@@ -64629,10 +64968,12 @@
         "sceneId": "ob-chapter-2"
       },
       "sourceIds": [
-        "mention89-81b8689db2baa7"
+        "mention89-81b8689db2baa7",
+        "primary185-ob2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda que Cael cayó en el choque de la tormenta eterna y la alta tormenta."
     },
     {
       "id": "mention89-fact-apara-96",
@@ -83695,6 +84036,261 @@
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Han pasado seis días desde la llegada de sus fuerzas. Solo está activo el par de puertas de Urithiru y las Llanuras Quebradas. El uso de los demás pares se plantea como plan y depende de desbloquear ambos lados.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1.Rotos.xhtml. Han pasado seis días desde la llegada de sus fuerzas. Solo está activo el par de puertas de Urithiru y las Llanuras Quebradas. El uso de los demás pares se plantea como plan y depende de desbloquear ambos lados.",
       "supersedes": []
+    },
+    {
+      "id": "primary185-unloading-worker-ob2-intro",
+      "characterId": "unloading-worker-ob2",
+      "kind": "background",
+      "text": "Explica que estaba descargando el carro.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Explica que estaba descargando el carro.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Explica que estaba descargando el carro.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-adolin-messenger-ob2-intro",
+      "characterId": "adolin-messenger-ob2",
+      "kind": "background",
+      "text": "Avisa a Adolin de un hallazgo en los pasillos del tercer piso. El texto lo presenta en la caverna de descarga.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Avisa a Adolin de un hallazgo en los pasillos del tercer piso. El texto lo presenta en la caverna de descarga.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Avisa a Adolin de un hallazgo en los pasillos del tercer piso. El texto lo presenta en la caverna de descarga.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-sadeas-officer-ob2-intro",
+      "characterId": "sadeas-officer-ob2",
+      "kind": "background",
+      "text": "Acusa a los hombres de Dalinar y explica que buscaban al alto príncipe.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Acusa a los hombres de Dalinar y explica que buscaban al alto príncipe.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Acusa a los hombres de Dalinar y explica que buscaban al alto príncipe.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-sadeas-searcher-ob2-intro",
+      "characterId": "sadeas-searcher-ob2",
+      "kind": "background",
+      "text": "Cuenta que buscaron a Sadeas toda la noche en otra parte de la torre.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Cuenta que buscaron a Sadeas toda la noche en otra parte de la torre.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Cuenta que buscaron a Sadeas toda la noche en otra parte de la torre.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-sadeas-body",
+      "characterId": "sadeas",
+      "kind": "background",
+      "text": "El cuerpo pasa de la intersección a la sala lateral. Los guardias entran después de que Dalinar se marche.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. El cuerpo pasa de la intersección a la sala lateral. Los guardias entran después de que Dalinar se marche.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. El cuerpo pasa de la intersección a la sala lateral. Los guardias entran después de que Dalinar se marche.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-adolin-yesterday",
+      "characterId": "adolin",
+      "kind": "background",
+      "text": "Recuerda haber matado a Sadeas el día anterior. Supervisa la descarga y recibe el encargo de organizar el entrenamiento.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Recuerda haber matado a Sadeas el día anterior. Supervisa la descarga y recibe el encargo de organizar el entrenamiento.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Recuerda haber matado a Sadeas el día anterior. Supervisa la descarga y recibe el encargo de organizar el entrenamiento.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-aladar-appointment",
+      "characterId": "aladar",
+      "kind": "background",
+      "text": "Dalinar lo nombra Alto Príncipe de Información y le encarga establecer una fuerza de vigilancia.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar lo nombra Alto Príncipe de Información y le encarga establecer una fuerza de vigilancia.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar lo nombra Alto Príncipe de Información y le encarga establecer una fuerza de vigilancia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-sebarial-appointment",
+      "characterId": "sebarial",
+      "kind": "background",
+      "text": "Dalinar lo nombra Alto Príncipe de Comercio y le encarga inventariar recursos y fundar mercados.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar lo nombra Alto Príncipe de Comercio y le encarga inventariar recursos y fundar mercados.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar lo nombra Alto Príncipe de Comercio y le encarga inventariar recursos y fundar mercados.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-khal-injury",
+      "characterId": "general-khal",
+      "kind": "background",
+      "text": "Dalinar recuerda que Khal se recupera de una herida del enfrentamiento con los Portadores del Vacío, sin indicar dónde convalece.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda que Khal se recupera de una herida del enfrentamiento con los Portadores del Vacío, sin indicar dónde convalece.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda que Khal se recupera de una herida del enfrentamiento con los Portadores del Vacío, sin indicar dónde convalece.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-elhokar-injury",
+      "characterId": "elhokar",
+      "kind": "background",
+      "text": "Dalinar recuerda que Elhokar convalece tras el atentado y se pregunta si acudirá. El capítulo no muestra su llegada.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda que Elhokar convalece tras el atentado y se pregunta si acudirá. El capítulo no muestra su llegada.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda que Elhokar convalece tras el atentado y se pregunta si acudirá. El capítulo no muestra su llegada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-kaladin-departure-report",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "La conversación da por ocurrida su partida hacia Alezkar. No establece su destino exacto ni su posición durante la reunión.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. La conversación da por ocurrida su partida hacia Alezkar. No establece su destino exacto ni su posición durante la reunión.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. La conversación da por ocurrida su partida hacia Alezkar. No establece su destino exacto ni su posición durante la reunión.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-ialai-summons",
+      "characterId": "ialai",
+      "kind": "background",
+      "text": "Dalinar ordena enviar a buscarla. La escena no muestra su llegada.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar ordena enviar a buscarla. La escena no muestra su llegada.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar ordena enviar a buscarla. La escena no muestra su llegada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-fallen-officers",
+      "characterId": "ilamar",
+      "kind": "background",
+      "text": "Dalinar recuerda su pérdida en la Torre junto con Perethon.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda su pérdida en la Torre junto con Perethon.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda su pérdida en la Torre junto con Perethon.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-perethon-recalled",
+      "characterId": "perethom",
+      "kind": "background",
+      "text": "Dalinar recuerda su pérdida en la Torre junto con Ilamar.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda su pérdida en la Torre junto con Ilamar.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Dalinar recuerda su pérdida en la Torre junto con Ilamar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary185-may-intro",
+      "characterId": "may-aladar",
+      "kind": "background",
+      "text": "Hija de Aladar. Se incorpora a la reunión con él.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-2"
+      },
+      "sourceIds": [
+        "primary185-ob2"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Hija de Aladar. Se incorpora a la reunión con él.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Hija de Aladar. Se incorpora a la reunión con él.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -86248,6 +86844,10 @@
         {
           "revision": 184,
           "notes": "Capítulo 1 revisado. Se conserva el vínculo de Dalinar y Navani en la etapa ya acreditada. Hijo de Honor es una forma de dirigirse a Dalinar, sin filiación genealógica."
+        },
+        {
+          "revision": 185,
+          "notes": "May se presenta como hija de Aladar en el capítulo 2. Se coteja la mención del hijo de Roion y la ascendencia sin grado de Dalinar. Se conserva el vínculo previo entre Teleb y Kalami, así como las etapas de parentesco y pareja ya documentadas."
         }
       ]
     }
@@ -87818,12 +88418,14 @@
       },
       "sourceIds": [
         "mention89-81b8689db2baa7",
-        "mention89-9aa3056f982442"
+        "mention89-9aa3056f982442",
+        "primary185-ob2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. La muerte de Cael se comunica en el recuerdo de Dalinar. Se conserva como muerte relatada."
     },
     {
       "id": "mention89-life-ned",
@@ -89035,7 +89637,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 184,
+  "revision": 185,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -116881,11 +117483,59 @@
           "notes": []
         },
         {
+          "id": "primary185-shallan-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
           "id": "ob-shallan-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -116899,13 +117549,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -116922,11 +117573,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-shallan-chapter-4-02",
@@ -131756,7 +132407,7 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Corredor del encuentro con Sadeas",
@@ -131770,13 +132421,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -131793,18 +132445,66 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Intersección del tercer piso antes de llevar el cuerpo a la sala lateral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Intersección del tercer piso antes de llevar el cuerpo a la sala lateral."
+          ]
+        },
+        {
+          "id": "primary185-dalinar-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -131818,13 +132518,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -131841,11 +132542,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-3-01",
@@ -139452,24 +140153,26 @@
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Corredor del encuentro con Sadeas",
-          "placeId": "place-urithiru-corridor-sadeas",
+          "place": "Urithiru · Caverna de descarga",
+          "placeId": "place-ob-urithiru-unloading",
           "realm": "physical",
           "placeNotes": [
-            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Caverna de descarga",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139486,18 +140189,66 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Supervisión de los carros y sus manifiestos en la caverna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Supervisión de los carros y sus manifiestos en la caverna."
+          ]
+        },
+        {
+          "id": "primary185-adolin-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
         },
         {
           "id": "ob-adolin-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -139511,13 +140262,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139534,11 +140286,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-adolin-chapter-4-02",
@@ -143055,11 +143807,59 @@
           ]
         },
         {
+          "id": "primary185-renarin-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
           "id": "ob-renarin-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -143073,13 +143873,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -143096,11 +143897,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-renarin-chapter-4-02",
@@ -147124,7 +147925,7 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Corredor del encuentro con Sadeas",
@@ -147138,13 +147939,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147161,11 +147963,59 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Intersección del tercer piso antes de llevar el cuerpo a la sala lateral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Intersección del tercer piso antes de llevar el cuerpo a la sala lateral."
+          ]
+        },
+        {
+          "id": "primary185-sadeas-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
         },
         {
           "id": "ob-sadeas-chapter-3-01",
@@ -150305,7 +151155,7 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Corredor del encuentro con Sadeas",
@@ -150319,13 +151169,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150342,18 +151193,66 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Intersección del tercer piso antes de llevar el cuerpo a la sala lateral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Intersección del tercer piso antes de llevar el cuerpo a la sala lateral."
+          ]
+        },
+        {
+          "id": "primary185-navani-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
         },
         {
           "id": "ob-navani-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -150367,13 +151266,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150390,11 +151290,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-navani-chapter-4-01",
@@ -156564,7 +157464,7 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Corredor del encuentro con Sadeas",
@@ -156578,13 +157478,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -156601,11 +157502,106 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Intersección del tercer piso antes de llevar el cuerpo a la sala lateral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Intersección del tercer piso antes de llevar el cuerpo a la sala lateral."
+          ]
+        },
+        {
+          "id": "primary185-teft-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
+          "id": "primary185-teft-terrace",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Balcón de la reunión de mando",
+          "placeId": "place-urithiru-command-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. El teniente pregunta por el cometido del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "El teniente pregunta por el cometido del Puente Cuatro."
+          ]
         },
         {
           "id": "ob75-teft-29-5",
@@ -166899,7 +167895,7 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -166913,12 +167909,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2-summary",
           "sourceIds": [
-            "ob-c2-summary"
+            "ob-c2-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -166935,11 +167932,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-lopen-chapter-9-01",
@@ -168472,11 +169469,59 @@
           "notes": []
         },
         {
+          "id": "primary185-sigzil-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
           "id": "ob-sigzil-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -168490,12 +169535,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2-summary",
           "sourceIds": [
-            "ob-c2-summary"
+            "ob-c2-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -168512,11 +169558,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob80-sigzil-35-1",
@@ -185081,7 +186127,7 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -185095,13 +186141,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -185118,11 +186165,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-aladar-chapter-4-02",
@@ -196827,11 +197874,59 @@
           "notes": []
         },
         {
+          "id": "primary185-sebarial-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
           "id": "ob-sebarial-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -196845,13 +197940,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -196868,11 +197964,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-sebarial-chapter-4-02",
@@ -197406,11 +198502,59 @@
           "notes": []
         },
         {
+          "id": "primary185-palona-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
           "id": "ob-palona-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -197424,13 +198568,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -197447,11 +198592,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-palona-chapter-4-02",
@@ -216736,29 +217881,30 @@
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Anclaje de ciudad",
-          "placeId": "place-urithiru",
+          "place": "Urithiru · Caverna de descarga",
+          "placeId": "place-ob-urithiru-unloading",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
-            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Caverna de descarga",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
             "ob-summary",
-            "ob-c2-summary"
+            "ob-c2-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -216775,12 +217921,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Supervisión de los carros y sus manifiestos en la caverna.",
+          "needsConfirmation": [],
           "notes": [
-            "Presencia en Urithiru; dependencia y etapa del capítulo pendientes de cotejo."
+            "Supervisión de los carros y sus manifiestos en la caverna."
           ]
         }
       ]
@@ -216845,11 +217989,59 @@
           ]
         },
         {
+          "id": "primary185-kalami-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
+        },
+        {
           "id": "ob-kalami-chapter-2-02",
           "scene": "ob-chapter-2",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Balcón de la reunión de mando",
@@ -216863,13 +218055,14 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c2",
           "sourceIds": [
             "ob-c2",
-            "ob-summary"
+            "ob-summary",
+            "primary185-ob2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -216886,11 +218079,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Aparece en la reunión de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la reunión de la terraza."
+          ]
         },
         {
           "id": "ob-kalami-chapter-4-02",
@@ -217801,6 +218994,53 @@
       "importance": "secondary",
       "importanceReason": "Participa como escriba en las negociaciones del entorno político Kholin.",
       "events": [
+        {
+          "id": "primary185-may-aladar-terrace",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Balcón de la reunión de mando",
+          "placeId": "place-urithiru-command-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Se incorpora con su padre camino de la terraza y oye el informe de Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se incorpora con su padre camino de la terraza y oye el informe de Navani."
+          ]
+        },
         {
           "id": "ob-may-aladar-chapter-12-01",
           "scene": "ob-chapter-12",
@@ -256864,6 +258104,101 @@
           "notes": [
             "Asoma la cabeza, saluda y responde a Dalinar. El cadáver se menciona en su informe."
           ]
+        },
+        {
+          "id": "primary185-scout-intersection",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor del encuentro con Sadeas",
+          "placeId": "place-urithiru-corridor-sadeas",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. La exploradora llega con Navani al borde del enfrentamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "La exploradora llega con Navani al borde del enfrentamiento."
+          ]
+        },
+        {
+          "id": "primary185-urithiru-sadeas-report-scout-ob1-examination",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala lateral de inspección",
+          "placeId": "place-ob-sadeas-examination",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Sala lateral de inspección",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la sala lateral mientras Dalinar examina el cuerpo de Sadeas."
+          ]
         }
       ]
     },
@@ -256876,6 +258211,240 @@
       "color": "#a8b8c5",
       "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
       "events": []
+    },
+    {
+      "id": "unloading-worker-ob2",
+      "name": "Trabajador que responde a Adolin",
+      "role": "Explica que estaba descargando el carro.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary185-unloading-worker-ob2-unloading",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Caverna de descarga",
+          "placeId": "place-ob-urithiru-unloading",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Caverna de descarga",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Habla con Adolin durante la descarga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Adolin durante la descarga."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adolin-messenger-ob2",
+      "name": "Mensajero de Adolin",
+      "role": "Avisa a Adolin de un hallazgo en los pasillos del tercer piso. El texto lo presenta en la caverna de descarga.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary185-adolin-messenger-ob2-unloading",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Caverna de descarga",
+          "placeId": "place-ob-urithiru-unloading",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Urithiru · Caverna de descarga",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Habla con Adolin durante la descarga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Adolin durante la descarga."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sadeas-officer-ob2",
+      "name": "Oficial de Sadeas en la intersección",
+      "role": "Acusa a los hombres de Dalinar y explica que buscaban al alto príncipe.",
+      "initial": "O",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary185-sadeas-officer-ob2-intersection",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor del encuentro con Sadeas",
+          "placeId": "place-urithiru-corridor-sadeas",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Habla en la intersección ante el cadáver.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en la intersección ante el cadáver."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sadeas-searcher-ob2",
+      "name": "Soldado que relata la búsqueda",
+      "role": "Cuenta que buscaron a Sadeas toda la noche en otra parte de la torre.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary185-sadeas-searcher-ob2-intersection",
+          "scene": "ob-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor del encuentro con Sadeas",
+          "placeId": "place-urithiru-corridor-sadeas",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary185-ob2",
+          "sourceIds": [
+            "primary185-ob2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Durante la organización de Urithiru tras la batalla."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-2"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Habla en la intersección ante el cadáver.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en la intersección ante el cadáver."
+          ]
+        }
+      ]
     }
   ]
 }
