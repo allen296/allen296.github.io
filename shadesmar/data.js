@@ -2955,12 +2955,14 @@ window.ATLAS_DATA = {
       "kaladin",
       "khen",
       "parshman-card-player",
-      "syl"
+      "syl",
+      "yellow-ribbon-spren"
     ],
     "ob-chapter-21": [
       "adolin",
       "gaz",
       "ialai",
+      "marri-maid-pr77",
       "mraize",
       "palona",
       "pattern",
@@ -2970,6 +2972,8 @@ window.ATLAS_DATA = {
     ],
     "ob-chapter-22": [
       "adolin",
+      "amaram",
+      "helaran",
       "ialai",
       "mraize",
       "shallan"
@@ -2978,6 +2982,7 @@ window.ATLAS_DATA = {
       "hesh",
       "kaladin",
       "khen",
+      "parshman-card-player",
       "waystop-owner",
       "yellow-ribbon-spren"
     ],
@@ -11106,6 +11111,40 @@ window.ATLAS_DATA = {
         "status": "confirmed",
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Aparecen alrededor de Toh y Evi tras el ataque. Parecen triángulos amarillos que se parten y se recomponen.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Aparecen alrededor de Toh y Evi tras el ataque. Parecen triángulos amarillos que se parten y se recomponen.",
+        "supersedes": []
+      },
+      {
+        "id": "primary194-ribbon-sah-report",
+        "entryId": "spren-person-yellow-ribbon-spren",
+        "field": "description",
+        "value": "Sah dice que apremia al grupo y que los reprende cuando se detienen. Kaladin sigue sin verla.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-20"
+        },
+        "sourceIds": [
+          "primary194-ob20"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Sah dice que apremia al grupo y que los reprende cuando se detienen. Kaladin sigue sin verla.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Sah dice que apremia al grupo y que los reprende cuando se detienen. Kaladin sigue sin verla.",
+        "supersedes": []
+      },
+      {
+        "id": "primary194-ribbon-waystop-form",
+        "entryId": "spren-person-yellow-ribbon-spren",
+        "field": "description",
+        "value": "Se deja ver como una mujer diminuta de brillo amarillo. Avanza sobre agujas doradas que surgen bajo sus pies y se presenta como mensajera. Su identidad sigue abierta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-23"
+        },
+        "sourceIds": [
+          "primary194-ob23"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Se deja ver como una mujer diminuta de brillo amarillo. Avanza sobre agujas doradas que surgen bajo sus pies y se presenta como mensajera. Su identidad sigue abierta.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Se deja ver como una mujer diminuta de brillo amarillo. Avanza sobre agujas doradas que surgen bajo sus pies y se presenta como mensajera. Su identidad sigue abierta.",
         "supersedes": []
       }
     ],
@@ -27733,29 +27772,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-20"
       },
       "type": "conversation",
-      "summary": "Hablan sobre libertad y decisiones.",
+      "summary": "Kaladin enseña a Sah a fijar la cabeza del hacha. Hablan de la libertad y del temor a que los vuelvan a esclavizar.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary194-ob20"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan sobre libertad y decisiones. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Kaladin enseña a Sah a fijar la cabeza del hacha. Hablan de la libertad y del temor a que los vuelvan a esclavizar.",
         "pairs": [
           [
             "kaladin",
             "parshman-card-player"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Kaladin enseña a Sah a fijar la cabeza del hacha. Hablan de la libertad y del temor a que los vuelvan a esclavizar."
     },
     {
       "id": "interaction-ob-chapter-20-kaladin-khen-42",
@@ -27768,29 +27806,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-20"
       },
       "type": "cooperation",
-      "summary": "Kaladin atiende su herida.",
+      "summary": "Kaladin cura la herida que Khen se hizo al cortar leña.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary194-ob20"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Kaladin atiende su herida. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Kaladin cura la herida que Khen se hizo al cortar leña.",
         "pairs": [
           [
             "kaladin",
             "khen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Kaladin cura la herida que Khen se hizo al cortar leña."
     },
     {
       "id": "interaction-ob-chapter-21-shallan-adolin-43",
@@ -27803,29 +27840,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-21"
       },
       "type": "conversation",
-      "summary": "Conversan antes de visitar a Ialai.",
+      "summary": "Adolin visita a Shallan y le cuenta que Ialai ha accedido a recibirlo.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary194-ob21"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan antes de visitar a Ialai. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Adolin visita a Shallan y le cuenta que Ialai ha accedido a recibirlo.",
         "pairs": [
           [
             "shallan",
             "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Adolin visita a Shallan y le cuenta que Ialai ha accedido a recibirlo."
     },
     {
       "id": "interaction-ob-chapter-21-shallan-sebarial-palona-44",
@@ -27839,33 +27875,32 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-21"
       },
       "type": "conversation",
-      "summary": "Hablan en el balcón.",
+      "summary": "Shallan habla con Sebarial y Palona interviene al oír el comentario de Sebarial.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary194-ob21"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan en el balcón. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Shallan habla con Sebarial y Palona interviene al oír el comentario de Sebarial.",
         "pairs": [
           [
             "shallan",
             "sebarial"
           ],
           [
-            "shallan",
-            "palona"
+            "palona",
+            "sebarial"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Shallan habla con Sebarial y Palona interviene al oír el comentario de Sebarial."
     },
     {
       "id": "interaction-ob-chapter-22-shallan-ialai-adolin-45",
@@ -27879,22 +27914,20 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-22"
       },
       "type": "conversation",
-      "summary": "Conversan sobre la investigación.",
+      "summary": "Ialai se dirige a Shallan y discute con Adolin la investigación de la muerte de Sadeas.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob22"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan sobre la investigación. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "Ialai se dirige a Shallan y discute con Adolin la investigación de la muerte de Sadeas.",
         "pairs": [
           [
             "shallan",
@@ -27903,13 +27936,10 @@ window.ATLAS_DATA = {
           [
             "adolin",
             "ialai"
-          ],
-          [
-            "shallan",
-            "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Ialai se dirige a Shallan y discute con Adolin la investigación de la muerte de Sadeas."
     },
     {
       "id": "interaction-ob-chapter-22-shallan-mraize-46",
@@ -27922,29 +27952,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-22"
       },
       "type": "conversation",
-      "summary": "Conversación privada durante la visita.",
+      "summary": "Hablan en privado sobre la investigación, los hermanos de Shallan, Helaran y la tarea propuesta.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob22"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversación privada durante la visita. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "Hablan en privado sobre la investigación, los hermanos de Shallan, Helaran y la tarea propuesta.",
         "pairs": [
           [
             "shallan",
             "mraize"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Hablan en privado sobre la investigación, los hermanos de Shallan, Helaran y la tarea propuesta."
     },
     {
       "id": "interaction-ob-chapter-23-kaladin-yellow-ribbon-spren-47",
@@ -27957,29 +27986,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-23"
       },
       "type": "conversation",
-      "summary": "Conversan en el refugio.",
+      "summary": "La spren se muestra a Kaladin, dice ser mensajera y pregunta cómo predijo la llegada de la alta tormenta.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob23"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan en el refugio. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "La spren se muestra a Kaladin, dice ser mensajera y pregunta cómo predijo la llegada de la alta tormenta.",
         "pairs": [
           [
             "kaladin",
             "yellow-ribbon-spren"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. La spren se muestra a Kaladin, dice ser mensajera y pregunta cómo predijo la llegada de la alta tormenta."
     },
     {
       "id": "interaction-ob-chapter-24-dalinar-taravangian-adrotagia-malata-48",
@@ -29723,29 +29751,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-22"
       },
       "type": "conversation",
-      "summary": "Adolin pregunta por el asesinato de Sadeas y rechaza que Dalinar fuese responsable.",
+      "summary": "Adolin pregunta por el asesinato de Sadeas y rechaza que Dalinar sea responsable.",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob22"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita, sin derivación por coincidencia espacial."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Adolin pregunta por el asesinato de Sadeas y rechaza que Dalinar fuese responsable. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "Adolin pregunta por el asesinato de Sadeas y rechaza que Dalinar sea responsable.",
         "pairs": [
           [
             "adolin",
             "ialai"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Adolin pregunta por el asesinato de Sadeas y rechaza que Dalinar sea responsable."
     },
     {
       "id": "audit-wok-contact-6",
@@ -33435,29 +33462,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-23"
       },
       "type": "conversation",
-      "summary": "Kaladin alquila el búnker para su supuesto señor y compra comida.",
+      "summary": "Kaladin alquila todo el refugio y compra provisiones al dueño, que esperaba caravanas de Revolar.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob23"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Kaladin alquila el búnker para su supuesto señor y compra comida. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "Kaladin alquila todo el refugio y compra provisiones al dueño, que esperaba caravanas de Revolar.",
         "pairs": [
           [
             "kaladin",
             "waystop-owner"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Kaladin alquila todo el refugio y compra provisiones al dueño, que esperaba caravanas de Revolar."
     },
     {
       "id": "audit-ob-interaction-55",
@@ -57482,6 +57508,138 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary194-kaladin-syl-outlook",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-20"
+      },
+      "type": "conversation",
+      "summary": "Syl se acerca cuando Sah se marcha. Kaladin le explica por qué teme que el conflicto termine en guerra.",
+      "sourceIds": [
+        "primary194-ob20"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Syl se acerca cuando Sah se marcha. Kaladin le explica por qué teme que el conflicto termine en guerra.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl se acerca cuando Sah se marcha. Kaladin le explica por qué teme que el conflicto termine en guerra.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary194-adolin-escort",
+      "participants": [
+        "adolin",
+        "vathah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-21"
+      },
+      "type": "conversation",
+      "summary": "Adolin indica a Vathah que prosiga al consultar su plano.",
+      "sourceIds": [
+        "primary194-ob21"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Adolin indica a Vathah que prosiga al consultar su plano.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin indica a Vathah que prosiga al consultar su plano.",
+        "pairs": [
+          [
+            "adolin",
+            "vathah"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary194-shallan-adolin-outside",
+      "participants": [
+        "shallan",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-22"
+      },
+      "type": "conversation",
+      "summary": "Al salir hablan del papel de Amaram y de la posibilidad de que haya varios asesinos.",
+      "sourceIds": [
+        "primary194-ob22"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Al salir hablan del papel de Amaram y de la posibilidad de que haya varios asesinos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Al salir hablan del papel de Amaram y de la posibilidad de que haya varios asesinos.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary194-kaladin-khen-spheres",
+      "participants": [
+        "kaladin",
+        "khen"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-23"
+      },
+      "type": "conversation",
+      "summary": "Khen hace pasar a Kaladin antes de atrancar la puerta contra la tormenta.",
+      "sourceIds": [
+        "primary194-ob23"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Khen hace pasar a Kaladin antes de atrancar la puerta contra la tormenta.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Khen hace pasar a Kaladin antes de atrancar la puerta contra la tormenta.",
+        "pairs": [
+          [
+            "kaladin",
+            "khen"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -58588,12 +58746,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-22"
       },
       "kind": "experience",
-      "text": "Se hace pasar por soldado de Sadeas para vigilar a Ialai.",
+      "text": "Mraize lleva uniforme del ejército de Sadeas. Dice a Shallan que vigila a Ialai.",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob22"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Mraize lleva uniforme del ejército de Sadeas. Dice a Shallan que vigila a Ialai."
     },
     {
       "id": "audit-72-fact-50",
@@ -58603,12 +58763,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-22"
       },
       "kind": "affiliation",
-      "text": "Según Mraize, ni ella ni su marido pertenecían a los Sangre Espectral.",
+      "text": "Según Mraize, Ialai y Sadeas no pertenecían a los Sangre Espectral.",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob22"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Según Mraize, Ialai y Sadeas no pertenecían a los Sangre Espectral."
     },
     {
       "id": "audit-wok-fact-1",
@@ -61345,13 +61507,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-23"
       },
-      "text": "Acompaña y guía al grupo; interroga a Kaladin sobre cómo predijo la tormenta.",
+      "text": "Guía al grupo, se presenta como mensajera e interroga a Kaladin acerca de la tormenta.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob23"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Guía al grupo, se presenta como mensajera e interroga a Kaladin acerca de la tormenta."
     },
     {
       "id": "audit-ob-profile-31",
@@ -61581,13 +61745,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-23"
       },
-      "text": "Había trabajado en las cocinas de una mansión.",
+      "text": "Había trabajado en la cocina de una mansión. Inspecciona las verduras al abrir los sacos.",
       "kind": "background",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob23"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Había trabajado en la cocina de una mansión. Inspecciona las verduras al abrir los sacos."
     },
     {
       "id": "audit-ob-profile-50",
@@ -61596,13 +61762,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-23"
       },
-      "text": "Alquila el refugio y vende provisiones; esperaba caravanas que no llegaron.",
+      "text": "Alquila el refugio a Kaladin y le vende provisiones tras faltar las caravanas que esperaba.",
       "kind": "affiliation",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary194-ob23"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Alquila el refugio a Kaladin y le vende provisiones tras faltar las caravanas que esperaba."
     },
     {
       "id": "audit-ob-profile-52",
@@ -87743,6 +87911,74 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Shallan nota que usa la mano derecha y recuerda que Renarin le curó la muñeca.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Shallan nota que usa la mano derecha y recuerda que Renarin le curó la muñeca.",
       "supersedes": []
+    },
+    {
+      "id": "primary194-sah-rhythms",
+      "characterId": "parshman-card-player",
+      "kind": "background",
+      "text": "Se queja de la guía amarilla y del trato que reciben. Kaladin refiere que el grupo dice oír ritmos lejanos.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-20"
+      },
+      "sourceIds": [
+        "primary194-ob20"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Se queja de la guía amarilla y del trato que reciben. Kaladin refiere que el grupo dice oír ritmos lejanos.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Se queja de la guía amarilla y del trato que reciben. Kaladin refiere que el grupo dice oír ritmos lejanos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary194-marri-mentioned",
+      "characterId": "marri-maid-pr77",
+      "kind": "background",
+      "text": "Shallan menciona que suele pedirle que salga de su cuarto para preservar sus secretos.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-21"
+      },
+      "sourceIds": [
+        "primary194-ob21"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Shallan menciona que suele pedirle que salga de su cuarto para preservar sus secretos.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Shallan menciona que suele pedirle que salga de su cuarto para preservar sus secretos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary194-helaran-mraize",
+      "characterId": "helaran",
+      "kind": "background",
+      "text": "Mraize insinúa que tiene información sobre él. Shallan recuerda que su hermano mayor murió hace tiempo.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-22"
+      },
+      "sourceIds": [
+        "primary194-ob22"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Mraize insinúa que tiene información sobre él. Shallan recuerda que su hermano mayor murió hace tiempo.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Mraize insinúa que tiene información sobre él. Shallan recuerda que su hermano mayor murió hace tiempo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary194-amaram-ialai",
+      "characterId": "amaram",
+      "kind": "background",
+      "text": "Ialai dice que lo ha acogido y lo cuenta entre los generales más aclamados de su marido.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-22"
+      },
+      "sourceIds": [
+        "primary194-ob22"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Ialai dice que lo ha acogido y lo cuenta entre los generales más aclamados de su marido.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Ialai dice que lo ha acogido y lo cuenta entre los generales más aclamados de su marido.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -90332,6 +90568,10 @@ window.ATLAS_DATA = {
         {
           "revision": 193,
           "notes": "Se confirma el matrimonio de Dalinar y Evi, los vínculos explícitos de la familia Khal, la filiación de la niña del campamento, el matrimonio de Ned y Rem y el parentesco de Evi y Toh. La maternidad de Halam queda pendiente de evidencia primaria."
+        },
+        {
+          "revision": 194,
+          "notes": "Se conserva la filiación ya revelada de la hija de Sah, el matrimonio de Ialai y Sadeas y el vínculo de Shallan con sus hermanos. El capítulo 22 ofrece información de Mraize, sin acreditar una llegada de los hermanos."
         }
       ]
     }
@@ -93148,7 +93388,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 193,
+  "revision": 194,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -109548,9 +109788,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob20"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp-20",
@@ -109567,11 +109808,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-20"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 20, place-ob-parsh-camp-20",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Cura a Khen, enseña a fijar la cabeza de un hacha y habla con Sah sobre la libertad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cura a Khen, enseña a fijar la cabeza de un hacha y habla con Sah sobre la libertad."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-23-01",
@@ -109581,24 +109822,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Tierras de Cadilar · Refugio rural sin localizar",
+          "place": "Refugio de tormentas en tierras de Calidar",
           "placeId": "place-ob-cadilar-waystop",
           "realm": "physical",
           "placeNotes": [
-            "Sin punto cartográfico verificable."
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
           "xy": null,
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-cadilar-waystop",
-          "coordinateAnchorName": "Tierras de Cadilar · Refugio rural sin localizar",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -109611,11 +109853,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, place-ob-cadilar-waystop",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Negocia el alquiler del refugio y compra comida al dueño.",
+          "needsConfirmation": [],
+          "notes": [
+            "Negocia el alquiler del refugio y compra comida al dueño."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-23-02",
@@ -109625,24 +109867,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Tierras de Cadilar · Refugio rural sin localizar",
+          "place": "Refugio de tormentas en tierras de Calidar",
           "placeId": "place-ob-cadilar-waystop",
           "realm": "physical",
           "placeNotes": [
-            "Sin punto cartográfico verificable."
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
           "xy": null,
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-cadilar-waystop",
-          "coordinateAnchorName": "Tierras de Cadilar · Refugio rural sin localizar",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -109655,11 +109898,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, place-ob-cadilar-waystop",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Recibe al grupo antes de la alta tormenta y habla con la spren amarilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe al grupo antes de la alta tormenta y habla con la spren amarilla."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-23-03",
@@ -109680,9 +109923,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-abandoned-mine",
@@ -109699,11 +109943,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, estancia del día anterior durante la tormenta",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Recuerda que el grupo se refugió en una mina abandonada durante la tormenta eterna del día anterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recuerda que el grupo se refugió en una mina abandonada durante la tormenta eterna del día anterior."
+          ]
         },
         {
           "id": "ob76-kaladin-31-1",
@@ -122663,9 +122907,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122682,11 +122927,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Descansa en su cuarto y acepta acompañar a Adolin a la entrevista.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descansa en su cuarto y acepta acompañar a Adolin a la entrevista."
+          ]
         },
         {
           "id": "ob-shallan-chapter-21-02",
@@ -122710,9 +122955,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122729,11 +122975,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sebarial-balcony",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Se reúne con Adolin, Sebarial y Palona en la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Adolin, Sebarial y Palona en la terraza."
+          ]
         },
         {
           "id": "ob-shallan-chapter-21-03",
@@ -122757,9 +123003,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122776,11 +123023,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sadeas-sector-corridor",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Atraviesa los puestos de control del sector de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Atraviesa los puestos de control del sector de Sadeas."
+          ]
         },
         {
           "id": "ob-shallan-chapter-21-04",
@@ -122804,9 +123051,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122823,11 +123071,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Entra y reconoce a Mraize junto a Ialai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra y reconoce a Mraize junto a Ialai."
+          ]
         },
         {
           "id": "ob-shallan-chapter-22-01",
@@ -122851,9 +123099,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122870,11 +123119,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Presencia el comienzo de la entrevista y sigue a Mraize a la sala contigua.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia el comienzo de la entrevista y sigue a Mraize a la sala contigua."
+          ]
         },
         {
           "id": "ob-shallan-chapter-22-02",
@@ -122898,9 +123147,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122917,11 +123167,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-storage",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Habla en privado con Mraize y pregunta por sus hermanos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en privado con Mraize y pregunta por sus hermanos."
+          ]
         },
         {
           "id": "ob-shallan-chapter-22-03",
@@ -122945,9 +123195,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122964,11 +123215,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Regresa con las tazas y escucha el cierre de la entrevista.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa con las tazas y escucha el cierre de la entrevista."
+          ]
         },
         {
           "id": "ob-shallan-chapter-22-04",
@@ -122992,9 +123243,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123011,11 +123263,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-sadeas-sector-corridor",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Sale con Adolin y le cuenta lo que dedujo la noche anterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale con Adolin y le cuenta lo que dedujo la noche anterior."
+          ]
         },
         {
           "id": "ob75-shallan-25-1",
@@ -131372,9 +131624,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob20"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp-20",
@@ -131391,11 +131644,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-20"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 20, place-ob-parsh-camp-20",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Sale del matorral después de que Sah se marche y escucha a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale del matorral después de que Sah se marche y escucha a Kaladin."
+          ]
         },
         {
           "id": "ob76-syl-31-1",
@@ -146516,9 +146769,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146535,11 +146789,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Visita a Shallan y le trae agua para lavarse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Visita a Shallan y le trae agua para lavarse."
+          ]
         },
         {
           "id": "ob-adolin-chapter-21-02",
@@ -146563,9 +146817,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146582,11 +146837,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sebarial-balcony",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Espera junto a la barandilla antes de partir hacia el sector de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera junto a la barandilla antes de partir hacia el sector de Sadeas."
+          ]
         },
         {
           "id": "ob-adolin-chapter-21-03",
@@ -146610,9 +146865,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146629,11 +146885,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sadeas-sector-corridor",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Consulta el plano y guía a la comitiva hacia los aposentos de Ialai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Consulta el plano y guía a la comitiva hacia los aposentos de Ialai."
+          ]
         },
         {
           "id": "ob-adolin-chapter-21-04",
@@ -146657,9 +146913,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146676,11 +146933,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Entra en los aposentos de Ialai con Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en los aposentos de Ialai con Shallan."
+          ]
         },
         {
           "id": "ob-adolin-chapter-22-01",
@@ -146704,9 +146961,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146723,11 +146981,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Pregunta a Ialai por el asesinato de Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pregunta a Ialai por el asesinato de Sadeas."
+          ]
         },
         {
           "id": "ob-adolin-chapter-22-03",
@@ -146751,9 +147009,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146770,11 +147029,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Rechaza la sospecha sobre Dalinar y oye que Ialai ha acogido a Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rechaza la sospecha sobre Dalinar y oye que Ialai ha acogido a Amaram."
+          ]
         },
         {
           "id": "ob-adolin-chapter-22-04",
@@ -146798,9 +147057,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -146817,11 +147077,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-sadeas-sector-corridor",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Sale con Shallan y pregunta a un guardia por el regreso de las altas tormentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale con Shallan y pregunta a un guardia por el regreso de las altas tormentas."
+          ]
         },
         {
           "id": "ob75-adolin-27-1",
@@ -172517,9 +172777,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -172536,11 +172797,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sadeas-sector-corridor",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Escolta a Shallan junto con Vathah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta a Shallan junto con Vathah."
+          ]
         },
         {
           "id": "ob75-gaz-27-4",
@@ -191281,9 +191542,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191300,11 +191562,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Zumba desde la pared mientras Shallan y Adolin conversan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Zumba desde la pared mientras Shallan y Adolin conversan."
+          ]
         },
         {
           "id": "ob75-pattern-25-1",
@@ -200672,9 +200934,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -200691,11 +200954,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sadeas-sector-corridor",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Escolta a Shallan junto con Gaz y sigue la señal de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta a Shallan junto con Gaz y sigue la señal de Adolin."
+          ]
         },
         {
           "id": "ob75-vathah-27-4",
@@ -203012,9 +203275,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -203031,11 +203295,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Recibe a los visitantes sentada en el centro de la sala.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a los visitantes sentada en el centro de la sala."
+          ]
         },
         {
           "id": "ob-ialai-chapter-22-01",
@@ -203059,9 +203323,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -203078,11 +203343,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Interroga a Adolin y ordena traerle una silla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interroga a Adolin y ordena traerle una silla."
+          ]
         },
         {
           "id": "ob-ialai-chapter-22-03",
@@ -203106,9 +203371,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -203125,11 +203391,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Sugiere investigar a los soldados del propio Sadeas y menciona a Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sugiere investigar a los soldados del propio Sadeas y menciona a Amaram."
+          ]
         },
         {
           "id": "ob75-ialai-27-1",
@@ -204817,9 +205083,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -204836,11 +205103,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sebarial-balcony",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Habla con Shallan desde la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Shallan desde la terraza."
+          ]
         }
       ]
     },
@@ -205446,9 +205713,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -205465,11 +205733,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-sebarial-balcony",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Interviene en la conversación de la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene en la conversación de la terraza."
+          ]
         },
         {
           "id": "ob76-palona-32-1",
@@ -206423,9 +206691,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob21"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -206442,11 +206711,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-21"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 21, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/21.Ardidfracaso.xhtml. Está de pie junto a Ialai cuando entran los visitantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está de pie junto a Ialai cuando entran los visitantes."
+          ]
         },
         {
           "id": "ob-mraize-chapter-22-01",
@@ -206470,9 +206739,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -206489,11 +206759,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Se presenta como un soldado de Sadeas y sale a buscar una silla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se presenta como un soldado de Sadeas y sale a buscar una silla."
+          ]
         },
         {
           "id": "ob-mraize-chapter-22-02",
@@ -206517,9 +206787,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -206536,11 +206807,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-storage",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Propone una tarea a Shallan y menciona a Helaran antes de volver con la silla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Propone una tarea a Shallan y menciona a Helaran antes de volver con la silla."
+          ]
         },
         {
           "id": "ob-mraize-chapter-22-03",
@@ -206564,9 +206835,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob22"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -206583,11 +206855,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-22"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 22, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Vuelve a la sala con la silla y mantiene su papel de soldado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a la sala con la silla y mantiene su papel de soldado."
+          ]
         }
       ]
     },
@@ -227090,9 +227362,11 @@ window.ATLAS_DATA = {
             "sceneId": "ob-chapter-20"
           },
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob20"
           ],
-          "status": "pending"
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. El narrador y Kaladin llaman Sah al hombre que trabaja con el hacha."
         }
       ],
       "events": [
@@ -227250,9 +227524,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob20"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp-20",
@@ -227269,11 +227544,54 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-20"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 20, place-ob-parsh-camp-20",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Se revela como Sah. Rehace el atado del hacha y discute con Kaladin sobre la esclavitud.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se revela como Sah. Rehace el atado del hacha y discute con Kaladin sobre la esclavitud."
+          ]
+        },
+        {
+          "id": "primary194-sah-waystop",
+          "scene": "ob-chapter-23",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Refugio de tormentas en tierras de Calidar",
+          "placeId": "place-ob-cadilar-waystop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
-          "notes": []
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary194-ob23",
+          "sourceIds": [
+            "primary194-ob23"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-cadilar-waystop",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-23"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Acompaña al grupo al refugio después de esperar fuera.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña al grupo al refugio después de esperar fuera."
+          ]
         },
         {
           "id": "ob76-parshman-card-player-31-1",
@@ -227543,9 +227861,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary194-ob20"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp-20",
@@ -227562,11 +227881,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-20"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 20, place-ob-parsh-camp-20",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/20.Cuerdasatar.xhtml. Kaladin atiende el corte que se hizo al cortar ramas para leña.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin atiende el corte que se hizo al cortar ramas para leña."
+          ]
         },
         {
           "id": "ob-khen-chapter-23-02",
@@ -227576,24 +227895,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Tierras de Cadilar · Refugio rural sin localizar",
+          "place": "Refugio de tormentas en tierras de Calidar",
           "placeId": "place-ob-cadilar-waystop",
           "realm": "physical",
           "placeNotes": [
-            "Sin punto cartográfico verificable."
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
           "xy": null,
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-cadilar-waystop",
-          "coordinateAnchorName": "Tierras de Cadilar · Refugio rural sin localizar",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -227606,11 +227926,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, place-ob-cadilar-waystop",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Deja el saquito de esferas dentro de la lámpara exterior y hace pasar a Kaladin antes de atrancar la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Deja el saquito de esferas dentro de la lámpara exterior y hace pasar a Kaladin antes de atrancar la puerta."
+          ]
         },
         {
           "id": "ob76-khen-31-1",
@@ -227826,24 +228146,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Tierras de Cadilar · Refugio rural sin localizar",
+          "place": "Refugio de tormentas en tierras de Calidar",
           "placeId": "place-ob-cadilar-waystop",
           "realm": "physical",
           "placeNotes": [
-            "Sin punto cartográfico verificable."
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
           "xy": null,
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-cadilar-waystop",
-          "coordinateAnchorName": "Tierras de Cadilar · Refugio rural sin localizar",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -227856,11 +228177,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, place-ob-cadilar-waystop",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Se deja ver ante Kaladin y le pregunta cómo predijo la tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se deja ver ante Kaladin y le pregunta cómo predijo la tormenta."
+          ]
         },
         {
           "id": "ob76-yellow-ribbon-spren-31-2",
@@ -229038,24 +229359,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Tierras de Cadilar · Refugio rural sin localizar",
+          "place": "Refugio de tormentas en tierras de Calidar",
           "placeId": "place-ob-cadilar-waystop",
           "realm": "physical",
           "placeNotes": [
-            "Sin punto cartográfico verificable."
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
           "xy": null,
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-cadilar-waystop",
-          "coordinateAnchorName": "Tierras de Cadilar · Refugio rural sin localizar",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -229068,11 +229390,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, place-ob-cadilar-waystop",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Abre los sacos de provisiones e inspecciona las verduras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Abre los sacos de provisiones e inspecciona las verduras."
+          ]
         }
       ]
     },
@@ -229093,24 +229415,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Tierras de Cadilar · Refugio rural sin localizar",
+          "place": "Refugio de tormentas en tierras de Calidar",
           "placeId": "place-ob-cadilar-waystop",
           "realm": "physical",
           "placeNotes": [
-            "Sin punto cartográfico verificable."
+            "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. El dueño sitúa el refugio en tierras de Calidar. No se fija su punto exacto."
           ],
           "xy": null,
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary194-ob23"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-cadilar-waystop",
-          "coordinateAnchorName": "Tierras de Cadilar · Refugio rural sin localizar",
+          "coordinateAnchorName": "Refugio de tormentas en tierras de Calidar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -229123,11 +229446,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-23"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 23, place-ob-cadilar-waystop",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Enseña el refugio, lo alquila y vende provisiones a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Enseña el refugio, lo alquila y vende provisiones a Kaladin."
+          ]
         }
       ]
     },
