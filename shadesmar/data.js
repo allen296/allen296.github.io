@@ -2774,12 +2774,18 @@ window.ATLAS_DATA = {
     ],
     "ob-chapter-6": [
       "aric",
+      "hav",
       "hesina",
       "kaladin",
-      "laral",
       "lirin",
+      "lirin-splinted-patient-ob6",
+      "mara-ob6",
+      "moash",
       "roshone",
-      "syl"
+      "roshone-guard-captain-ob6",
+      "syl",
+      "tien",
+      "toravi-ob6"
     ],
     "ob-chapter-7": [
       "aric",
@@ -3743,6 +3749,10 @@ window.ATLAS_DATA = {
       },
       {
         "id": "spren-type-melancholyspren",
+        "section": "spren-types"
+      },
+      {
+        "id": "spren-type-surprisespren",
         "section": "spren-types"
       }
     ],
@@ -10496,6 +10506,57 @@ window.ATLAS_DATA = {
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Alterna formas durante el camino. Recuerda a una honorspren cuyo nombre ha olvidado y explica el apelativo afectivo de tía.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Alterna formas durante el camino. Recuerda a una honorspren cuyo nombre ha olvidado y explica el apelativo afectivo de tía.",
         "supersedes": []
+      },
+      {
+        "id": "primary189-surprisespren-name",
+        "entryId": "spren-type-surprisespren",
+        "field": "name",
+        "value": "Sorpresaspren",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-6"
+        },
+        "sourceIds": [
+          "primary189-ob6"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Sorpresaspren",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Sorpresaspren",
+        "supersedes": []
+      },
+      {
+        "id": "primary189-surprisespren-appearance",
+        "entryId": "spren-type-surprisespren",
+        "field": "description",
+        "value": "Aparecen tras Hesina como triángulos amarillo claro que se rompen y se recomponen.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-6"
+        },
+        "sourceIds": [
+          "primary189-ob6"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Aparecen tras Hesina como triángulos amarillo claro que se rompen y se recomponen.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Aparecen tras Hesina como triángulos amarillo claro que se rompen y se recomponen.",
+        "supersedes": []
+      },
+      {
+        "id": "primary189-syl-connections",
+        "entryId": "spren-person-syl",
+        "field": "description",
+        "value": "Syl habla de conexiones, de los vientos y de una voz lejana cuyo origen queda abierto.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-6"
+        },
+        "sourceIds": [
+          "primary189-ob6"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Syl habla de conexiones, de los vientos y de una voz lejana cuyo origen queda abierto.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Syl habla de conexiones, de los vientos y de una voz lejana cuyo origen queda abierto.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -11783,19 +11844,20 @@ window.ATLAS_DATA = {
       "category": "family",
       "revealedAt": {
         "bookId": "ob",
-        "sceneId": "ob-chapter-6"
+        "sceneId": "ob-chapter-7"
       },
       "sourceIds": [
-        "ob-c5-6"
+        "ob-c5-6",
+        "primary189-ob7-laral-marriage"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [
         "review87p1-laral-roshone-early"
       ],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "El capítulo 7 presenta el matrimonio en palabras de Laral."
       ],
       "networkEvidence": {
         "kind": "relationship",
@@ -11803,7 +11865,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-five-and-six/"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/7.Unvigilante.xhtml. En su discusión con Kaladin, Laral llama a Roshone su marido."
     },
     {
       "id": "rel-sadeas-ialai-wor-chapter-29",
@@ -25504,6 +25567,33 @@ window.ATLAS_DATA = {
         "kind": "relationship",
         "reason": "El joven llama a su madre. La narración solo muestra al lancero."
       }
+    },
+    {
+      "id": "primary189-roshone-captain-service",
+      "from": "roshone",
+      "to": "roshone-guard-captain-ob6",
+      "kind": "employer",
+      "label": "Señor → capitán de guardia",
+      "category": "social",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. La narración lo identifica como capitán de la guardia de Roshone.",
+      "notes": [
+        "La narración lo identifica como capitán de la guardia de Roshone."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "La narración lo identifica como capitán de la guardia de Roshone."
+      }
     }
   ],
   "interactions": [
@@ -26422,22 +26512,19 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-6"
       },
       "type": "encounter",
-      "summary": "Reencuentro en Hearthstone.",
+      "summary": "Kaladin se reúne con sus padres en el salón y más tarde habla con Roshone y lo golpea fuera del salón.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-c5-6"
+        "ob-c5-6",
+        "primary189-ob6"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Reencuentro en Hearthstone. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-five-and-six/"
-        ],
         "pairs": [
           [
             "kaladin",
@@ -26451,8 +26538,10 @@ window.ATLAS_DATA = {
             "kaladin",
             "roshone"
           ]
-        ]
-      }
+        ],
+        "reason": "Kaladin se reúne con sus padres en el salón y más tarde habla con Roshone y lo golpea fuera del salón."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin se reúne con sus padres en el salón y más tarde habla con Roshone y lo golpea fuera del salón."
     },
     {
       "id": "interaction-ob-chapter-7-kaladin-laral-oroden-25",
@@ -55921,6 +56010,176 @@ window.ATLAS_DATA = {
           [
             "kaladin",
             "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary189-guard-escort",
+      "participants": [
+        "kaladin",
+        "aric"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "type": "conversation",
+      "summary": "El guardia acompaña y empuja a Kaladin. Más tarde responde a su pregunta sobre los heridos.",
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. El guardia acompaña y empuja a Kaladin. Más tarde responde a su pregunta sobre los heridos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El guardia acompaña y empuja a Kaladin. Más tarde responde a su pregunta sobre los heridos.",
+        "pairs": [
+          [
+            "kaladin",
+            "aric"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary189-triage-care",
+      "participants": [
+        "lirin",
+        "lirin-splinted-patient-ob6"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "type": "encounter",
+      "summary": "Lirin entablilla el brazo del paciente.",
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Lirin entablilla el brazo del paciente.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lirin entablilla el brazo del paciente.",
+        "pairs": [
+          [
+            "lirin",
+            "lirin-splinted-patient-ob6"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary189-triage-discussion",
+      "participants": [
+        "lirin",
+        "roshone-guard-captain-ob6",
+        "hesina"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "type": "conversation",
+      "summary": "Lirin discute con el capitán y pide a Hesina que escriba a los administradores.",
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Lirin discute con el capitán y pide a Hesina que escriba a los administradores.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lirin discute con el capitán y pide a Hesina que escriba a los administradores.",
+        "pairs": [
+          [
+            "lirin",
+            "roshone-guard-captain-ob6"
+          ],
+          [
+            "lirin",
+            "hesina"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary189-roshone-guard-talk",
+      "participants": [
+        "roshone",
+        "aric"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "type": "conversation",
+      "summary": "Roshone habla con el guardia del casco oxidado fuera del salón.",
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Roshone habla con el guardia del casco oxidado fuera del salón.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Roshone habla con el guardia del casco oxidado fuera del salón.",
+        "pairs": [
+          [
+            "roshone",
+            "aric"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary189-syl-connection",
+      "participants": [
+        "syl",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "type": "conversation",
+      "summary": "Syl comenta el reencuentro y habla con Kaladin sobre sus recuerdos y conexiones.",
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Syl comenta el reencuentro y habla con Kaladin sobre sus recuerdos y conexiones.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl comenta el reencuentro y habla con Kaladin sobre sus recuerdos y conexiones.",
+        "pairs": [
+          [
+            "syl",
+            "kaladin"
           ]
         ]
       }
@@ -85397,6 +85656,193 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Se muestra como lazo o cinta de luz, joven con havah, nube y réplica de un lurg. Recuerda a la honorspren a la que llamaba tía.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Se muestra como lazo o cinta de luz, joven con havah, nube y réplica de un lurg. Recuerda a la honorspren a la que llamaba tía.",
       "supersedes": []
+    },
+    {
+      "id": "primary189-toravi-ob6-intro",
+      "characterId": "toravi-ob6",
+      "kind": "background",
+      "text": "Granjero de Piedralar al que Kaladin reconoce en el pasillo.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Granjero de Piedralar al que Kaladin reconoce en el pasillo.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Granjero de Piedralar al que Kaladin reconoce en el pasillo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-roshone-guard-captain-ob6-intro",
+      "characterId": "roshone-guard-captain-ob6",
+      "kind": "background",
+      "text": "Oficial que discute con Lirin sobre las marcas de esclavo de Kaladin.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Oficial que discute con Lirin sobre las marcas de esclavo de Kaladin.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Oficial que discute con Lirin sobre las marcas de esclavo de Kaladin.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-lirin-splinted-patient-ob6-intro",
+      "characterId": "lirin-splinted-patient-ob6",
+      "kind": "background",
+      "text": "Persona atendida por Lirin en un catre del salón de triaje.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Persona atendida por Lirin en un catre del salón de triaje.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Persona atendida por Lirin en un catre del salón de triaje.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-mara-ob6-intro",
+      "characterId": "mara-ob6",
+      "kind": "background",
+      "text": "Lirin duda que pueda ocupar su puesto tras unos años de aprendizaje.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Lirin duda que pueda ocupar su puesto tras unos años de aprendizaje.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Lirin duda que pueda ocupar su puesto tras unos años de aprendizaje.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-hesina-return",
+      "characterId": "hesina",
+      "kind": "background",
+      "text": "Cuenta que su casa sigue en pie y que la familia recibió la carta de Kaladin y un informe posterior de su supuesta muerte.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Cuenta que su casa sigue en pie y que la familia recibió la carta de Kaladin y un informe posterior de su supuesta muerte.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Cuenta que su casa sigue en pie y que la familia recibió la carta de Kaladin y un informe posterior de su supuesta muerte.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-lirin-response",
+      "characterId": "lirin",
+      "kind": "background",
+      "text": "Atiende a los heridos, abraza a Kaladin y propone escribir a los administradores del alto príncipe.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Atiende a los heridos, abraza a Kaladin y propone escribir a los administradores del alto príncipe.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Atiende a los heridos, abraza a Kaladin y propone escribir a los administradores del alto príncipe.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-kaladin-return",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Vuelve a ver a sus padres, recuerda a Tien y observa que los heridos presentan lesiones propias de un desastre natural. Golpea a Roshone tras hablar con él.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Vuelve a ver a sus padres, recuerda a Tien y observa que los heridos presentan lesiones propias de un desastre natural. Golpea a Roshone tras hablar con él.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Vuelve a ver a sus padres, recuerda a Tien y observa que los heridos presentan lesiones propias de un desastre natural. Golpea a Roshone tras hablar con él.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-tien-recalled",
+      "characterId": "tien",
+      "kind": "background",
+      "text": "Kaladin recuerda a Tien y habla con sus padres de su muerte.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda a Tien y habla con sus padres de su muerte.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda a Tien y habla con sus padres de su muerte.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-hav-training",
+      "characterId": "hav",
+      "kind": "background",
+      "text": "Kaladin recuerda que Hav le enseñó a dar el tipo de puñetazo que usa contra Roshone.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda que Hav le enseñó a dar el tipo de puñetazo que usa contra Roshone.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda que Hav le enseñó a dar el tipo de puñetazo que usa contra Roshone.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-roshone-recalled-exile",
+      "characterId": "roshone",
+      "kind": "background",
+      "text": "Kaladin recuerda su destierro desde Kholinar por su implicación en la muerte de los abuelos de Moash.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda su destierro desde Kholinar por su implicación en la muerte de los abuelos de Moash.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda su destierro desde Kholinar por su implicación en la muerte de los abuelos de Moash.",
+      "supersedes": []
+    },
+    {
+      "id": "primary189-moash-grandparents-recalled",
+      "characterId": "moash",
+      "kind": "background",
+      "text": "Kaladin recuerda la implicación de Roshone en la muerte de los abuelos de Moash y le dedica el golpe.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-6"
+      },
+      "sourceIds": [
+        "primary189-ob6"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda la implicación de Roshone en la muerte de los abuelos de Moash y le dedica el golpe.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Kaladin recuerda la implicación de Roshone en la muerte de los abuelos de Moash y le dedica el golpe.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -87966,6 +88412,10 @@ window.ATLAS_DATA = {
         {
           "revision": 188,
           "notes": "Kaladin recuerda a su hermano. Syl aclara que tía era un apelativo y no acredita parentesco. Se registra la honorspren como mención."
+        },
+        {
+          "revision": 189,
+          "notes": "El reencuentro reafirma la filiación de Kaladin y los vínculos previos de su familia. El relato menciona a Tien y a los abuelos de Moash. El matrimonio de Laral y Roshone se acredita desde el capítulo 7."
         }
       ]
     }
@@ -90759,7 +91209,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 188,
+  "revision": 189,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -106210,25 +106660,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Pasillo de entrada de la mansión",
+          "placeId": "place-ob6-mansion-entry-hall",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo de entrada de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary189-ob6"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -106245,11 +106696,155 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-6"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Entra y cruza el pasillo acompañado por el guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra y cruza el pasillo acompañado por el guardia."
+          ]
+        },
+        {
+          "id": "primary189-kaladin-kitchen",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Cocina de la mansión",
+          "placeId": "place-ob6-mansion-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Cocina de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Cruza la cocina y se zafa del empujón del guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza la cocina y se zafa del empujón del guardia."
+          ]
+        },
+        {
+          "id": "primary189-kaladin-triage",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Salón de triaje",
+          "placeId": "place-ob6-mansion-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Se reúne con Lirin y Hesina. Después toma sopa entre los heridos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Lirin y Hesina. Después toma sopa entre los heridos."
+          ]
+        },
+        {
+          "id": "primary189-kaladin-roshone",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Pasillo y umbral del salón de triaje",
+          "placeId": "place-ob6-triage-threshold",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo y umbral del salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Se acerca a sus padres y golpea a Roshone fuera del salón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acerca a sus padres y golpea a Roshone fuera del salón."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-7-01",
@@ -127748,28 +128343,29 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-6",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Cocina de la mansión",
+          "placeId": "place-ob6-mansion-kitchen",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Cocina de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary189-ob6"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -127786,11 +128382,59 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-6"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Habla con Kaladin mientras bordean la encimera.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Kaladin mientras bordean la encimera."
+          ]
+        },
+        {
+          "id": "primary189-syl-triage",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Salón de triaje",
+          "placeId": "place-ob6-mansion-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Revolotea durante el reencuentro y habla con Kaladin entre los heridos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Revolotea durante el reencuentro y habla con Kaladin entre los heridos."
+          ]
         },
         {
           "id": "ob-syl-chapter-7-01",
@@ -173920,28 +174564,29 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-6",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Salón de triaje",
+          "placeId": "place-ob6-mansion-triage",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary189-ob6"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -173958,11 +174603,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-6"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Entablilla un brazo y reconoce a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entablilla un brazo y reconoce a Kaladin."
+          ]
         },
         {
           "id": "ob-lirin-chapter-7-01",
@@ -174227,28 +174872,29 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-6",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Pasillo y umbral del salón de triaje",
+          "placeId": "place-ob6-triage-threshold",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo y umbral del salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary189-ob6"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -174265,11 +174911,59 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-6"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Aparece en el umbral con una bandeja de vendas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en el umbral con una bandeja de vendas."
+          ]
+        },
+        {
+          "id": "primary189-hesina-triage",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Salón de triaje",
+          "placeId": "place-ob6-mansion-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Abraza a Kaladin y le habla mientras él toma sopa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Abraza a Kaladin y le habla mientras él toma sopa."
+          ]
         },
         {
           "id": "ob-hesina-chapter-7-01",
@@ -175098,28 +175792,29 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-6",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Pasillo y umbral del salón de triaje",
+          "placeId": "place-ob6-triage-threshold",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo y umbral del salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary189-ob6"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -175136,11 +175831,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-6"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Habla con el guardia fuera del salón. Kaladin le da un puñetazo y Roshone cae.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con el guardia fuera del salón. Kaladin le da un puñetazo y Roshone cae."
+          ]
         },
         {
           "id": "ob-roshone-chapter-7-01",
@@ -220103,25 +220798,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Pasillo de entrada de la mansión",
+          "placeId": "place-ob6-mansion-entry-hall",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo de entrada de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary189-ob6"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -220138,11 +220834,107 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-6"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Escolta a Kaladin por el pasillo de entrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta a Kaladin por el pasillo de entrada."
+          ]
+        },
+        {
+          "id": "primary189-guard-kitchen",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Cocina de la mansión",
+          "placeId": "place-ob6-mansion-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Cocina de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Amenaza a Kaladin y tropieza tras empujarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Amenaza a Kaladin y tropieza tras empujarlo."
+          ]
+        },
+        {
+          "id": "primary189-guard-roshone",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Pasillo y umbral del salón de triaje",
+          "placeId": "place-ob6-triage-threshold",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo y umbral del salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Habla con Roshone fuera del salón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Roshone fuera del salón."
+          ]
         },
         {
           "id": "ob-aric-chapter-7-01",
@@ -261604,6 +262396,241 @@ window.ATLAS_DATA = {
       "name": "Honorspren a la que Syl llamaba tía",
       "role": "Syl recuerda a una honorspren de nombre olvidado y aclara que el apelativo tía era afectivo.",
       "initial": "H",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "toravi-ob6",
+      "name": "Toravi",
+      "role": "Granjero de Piedralar al que Kaladin reconoce en el pasillo.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary189-toravi-hall",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Pasillo de entrada de la mansión",
+          "placeId": "place-ob6-mansion-entry-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo de entrada de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Pasa junto a Kaladin sin mostrar que lo reconoce.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa junto a Kaladin sin mostrar que lo reconoce."
+          ]
+        },
+        {
+          "id": "primary189-toravi-side-room",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Cámara lateral de refugiados",
+          "placeId": "place-ob6-mansion-refuge-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Cámara lateral de refugiados",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Entra en una cámara lateral ocupada por refugiados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en una cámara lateral ocupada por refugiados."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roshone-guard-captain-ob6",
+      "name": "Capitán de la guardia de Roshone",
+      "role": "Oficial que discute con Lirin sobre las marcas de esclavo de Kaladin.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary189-captain-threshold",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Pasillo y umbral del salón de triaje",
+          "placeId": "place-ob6-triage-threshold",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Pasillo y umbral del salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Discute con Lirin cerca del umbral del salón de triaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute con Lirin cerca del umbral del salón de triaje."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lirin-splinted-patient-ob6",
+      "name": "Paciente al que Lirin entablilla el brazo",
+      "role": "Persona atendida por Lirin en un catre del salón de triaje.",
+      "initial": "P",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary189-patient-triage",
+          "scene": "ob-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Salón de triaje",
+          "placeId": "place-ob6-mansion-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Piedralar · Salón de triaje",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary189-ob6",
+          "sourceIds": [
+            "primary189-ob6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Después de entrar en la mansión de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-6"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/6.Cuatrovidas.xhtml. Lirin le entablilla un brazo roto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lirin le entablilla un brazo roto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mara-ob6",
+      "name": "Mara",
+      "role": "Lirin duda que pueda ocupar su puesto tras unos años de aprendizaje.",
+      "initial": "M",
       "importance": "tertiary",
       "color": "#a8b8c5",
       "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
