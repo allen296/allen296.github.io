@@ -2914,7 +2914,7 @@ window.ATLAS_DATA = {
       "rembrinor",
       "renarin",
       "rial",
-      "teshav",
+      "stormfather",
       "zahel"
     ],
     "ob-chapter-17": [
@@ -10988,6 +10988,125 @@ window.ATLAS_DATA = {
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Patrón cambia el filo de su forma de hoja para permitir la práctica de Shallan con Adolin.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Patrón cambia el filo de su forma de hoja para permitir la práctica de Shallan con Adolin.",
         "supersedes": []
+      },
+      {
+        "id": "primary193-stormfather-oaths",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Explica a Dalinar que los antiguos Radiantes rompieron sus juramentos y que sus spren murieron como consecuencia.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-16"
+        },
+        "sourceIds": [
+          "primary193-ob16"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Explica a Dalinar que los antiguos Radiantes rompieron sus juramentos y que sus spren murieron como consecuencia.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Explica a Dalinar que los antiguos Radiantes rompieron sus juramentos y que sus spren murieron como consecuencia.",
+        "supersedes": []
+      },
+      {
+        "id": "primary193-joy-flowers",
+        "entryId": "spren-type-joyspren",
+        "field": "appearance",
+        "value": "Siguen a la niña como hojas azules mientras vuelve con las flores.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-17"
+        },
+        "sourceIds": [
+          "primary193-ob17"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Siguen a la niña como hojas azules mientras vuelve con las flores.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Siguen a la niña como hojas azules mientras vuelve con las flores.",
+        "supersedes": []
+      },
+      {
+        "id": "primary193-ribbon-syl-report",
+        "entryId": "spren-person-yellow-ribbon-spren",
+        "field": "description",
+        "value": "Kaladin no lo vuelve a ver. Syl dice que sigue cerca, lo describe como vacíospren y refiere que quiere que el grupo marche de día.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-17"
+        },
+        "sourceIds": [
+          "primary193-ob17"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Kaladin no lo vuelve a ver. Syl dice que sigue cerca, lo describe como vacíospren y refiere que quiere que el grupo marche de día.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Kaladin no lo vuelve a ver. Syl dice que sigue cerca, lo describe como vacíospren y refiere que quiere que el grupo marche de día.",
+        "supersedes": []
+      },
+      {
+        "id": "primary193-cold-field",
+        "entryId": "spren-type-coldspren",
+        "field": "appearance",
+        "value": "Brotan alrededor de los pies de Shallan cuando baja al sembradío por la noche.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-18"
+        },
+        "sourceIds": [
+          "primary193-ob18"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Brotan alrededor de los pies de Shallan cuando baja al sembradío por la noche.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Brotan alrededor de los pies de Shallan cuando baja al sembradío por la noche.",
+        "supersedes": []
+      },
+      {
+        "id": "primary193-fears-refuge",
+        "entryId": "spren-type-fearspren",
+        "field": "appearance",
+        "value": "Rodean a los soldados que se ponen en guardia cuando Dalinar abre la puerta del refugio.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-19"
+        },
+        "sourceIds": [
+          "primary193-ob19"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Rodean a los soldados que se ponen en guardia cuando Dalinar abre la puerta del refugio.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Rodean a los soldados que se ponen en guardia cuando Dalinar abre la puerta del refugio.",
+        "supersedes": []
+      },
+      {
+        "id": "primary193-hunger-banquet",
+        "entryId": "spren-type-hungerspren",
+        "field": "appearance",
+        "value": "Un hambrespren aletea como una mosca marrón cerca de Dalinar mientras intenta cortar el filete.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-19"
+        },
+        "sourceIds": [
+          "primary193-ob19"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Un hambrespren aletea como una mosca marrón cerca de Dalinar mientras intenta cortar el filete.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Un hambrespren aletea como una mosca marrón cerca de Dalinar mientras intenta cortar el filete.",
+        "supersedes": []
+      },
+      {
+        "id": "primary193-surprise-banquet",
+        "entryId": "spren-type-surprisespren",
+        "field": "appearance",
+        "value": "Aparecen alrededor de Toh y Evi tras el ataque. Parecen triángulos amarillos que se parten y se recomponen.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-19"
+        },
+        "sourceIds": [
+          "primary193-ob19"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Aparecen alrededor de Toh y Evi tras el ataque. Parecen triángulos amarillos que se parten y se recomponen.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Aparecen alrededor de Toh y Evi tras el ataque. Parecen triángulos amarillos que se parten y se recomponen.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -11665,22 +11784,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "Navani recuerda que Dalinar obtuvo la armadura por su matrimonio y él reconoce de nuevo el nombre de su esposa."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio anterior. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ]
-      }
+        "reason": "Navani recuerda que Dalinar obtuvo la armadura por su matrimonio y él reconoce de nuevo el nombre de su esposa."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Navani recuerda que Dalinar obtuvo la armadura por su matrimonio y él reconoce de nuevo el nombre de su esposa."
     },
     {
       "id": "rel-evi-toh-ob-chapter-19",
@@ -11694,22 +11812,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "El narrador identifica a Evi como hermana de Toh."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto sibling: Hermanos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ]
-      }
+        "reason": "El narrador identifica a Evi como hermana de Toh."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. El narrador identifica a Evi como hermana de Toh."
     },
     {
       "id": "rel-lirin-kaladin-chapter-10",
@@ -12419,22 +12536,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-17"
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "El captor habla de su hija, a la que lleva en brazos."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hija. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ]
-      }
+        "reason": "El captor habla de su hija, a la que lleva en brazos."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. El captor habla de su hija, a la que lleva en brazos."
     },
     {
       "id": "rel-lopen-mother-lopen-wor-chapter-87",
@@ -13380,22 +13496,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "El texto presenta a Aratin como segundo hijo del general Khal. Mención familiar: no asigna ubicación corporal al padre."
+        "El narrador identifica a Aratin como hijo del general Khal."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ]
-      }
+        "reason": "El narrador identifica a Aratin como hijo del general Khal."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. El narrador identifica a Aratin como hijo del general Khal."
     },
     {
       "id": "audit-73-correct-eshonai-venli",
@@ -14561,22 +14676,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "family74-ob-chapter-16"
+        "family74-ob-chapter-16",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Capítulo localizado; la primera mención absoluta sigue pendiente de cotejo primario."
+        "Dalinar distingue a Halam de Aratin al identificar a los hijos del general Khal."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Dalinar distingue a Halam de Aratin al identificar a los hijos del general Khal."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar distingue a Halam de Aratin al identificar a los hijos del general Khal."
     },
     {
       "id": "family74-halam-khal-aratin-sibling-ob-chapter-16",
@@ -14590,22 +14704,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "family74-ob-chapter-16"
+        "family74-ob-chapter-16",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Capítulo localizado; la primera mención absoluta sigue pendiente de cotejo primario."
+        "Halam y Aratin son hijos del general Khal."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto sibling: Hermanos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Halam y Aratin son hijos del general Khal."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Halam y Aratin son hijos del general Khal."
     },
     {
       "id": "family74-general-khal-teshav-spouse-wor-chapter-5",
@@ -14651,22 +14764,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-17"
       },
       "sourceIds": [
-        "family74-ob-chapter-17"
+        "family74-ob-chapter-17",
+        "primary193-ob17"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Capítulo localizado; la primera mención absoluta sigue pendiente de cotejo primario."
+        "El captor cuenta que vendieron a la madre de la niña; su nombre no se revela."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → hija. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "El captor cuenta que vendieron a la madre de la niña; su nombre no se revela."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. El captor cuenta que vendieron a la madre de la niña; su nombre no se revela."
     },
     {
       "id": "family74-rock-father-rock-parent-chapter-27",
@@ -18171,22 +18283,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "audit87-source-6688da17a20ed9"
+        "audit87-source-6688da17a20ed9",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Rial es sargento del Puente Trece y sirve en la escolta de Dalinar."
+        "Rial forma parte de la guardia asignada a Dalinar."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Superior → guardia. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ]
-      }
+        "reason": "Rial forma parte de la guardia asignada a Dalinar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Rial forma parte de la guardia asignada a Dalinar."
     },
     {
       "id": "audit87-kalami-teleb-spouse",
@@ -19615,24 +19726,23 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Primera mención absoluta pendiente de cotejo primario."
+        "El capítulo identifica al padre de Halam, pero no nombra a su madre. Se retira esta atribución del corte actual y queda pendiente de fuente."
       ],
       "sourceIds": [
         "audit87-p3-source-14",
-        "audit87-source-f37b175532238f"
+        "audit87-source-f37b175532238f",
+        "primary193-ob16"
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Halam_Khal"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "El capítulo identifica al padre de Halam, pero no nombra a su madre. Se retira esta atribución del corte actual y queda pendiente de fuente."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. El capítulo identifica al padre de Halam, pero no nombra a su madre. Se retira esta atribución del corte actual y queda pendiente de fuente."
     },
     {
       "id": "audit87-p3-rel-shallan-zendid-chapter-40",
@@ -21951,23 +22061,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-6d868631492497",
-        "mention89-bd7eac7c0ecf6e"
+        "mention89-bd7eac7c0ecf6e",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Dalinar recuerda a Harth como su primer maestro de espada."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Primer instructor de espada de Dalinar. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/",
-          "https://coppermind.net/wiki/Harth?mobileaction=toggle_view_desktop"
-        ]
-      }
+        "reason": "Dalinar recuerda a Harth como su primer maestro de espada."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar recuerda a Harth como su primer maestro de espada."
     },
     {
       "id": "mention89-rel-harth-master-113-0",
@@ -21981,22 +22089,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "mention89-6d868631492497"
+        "mention89-6d868631492497",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Dalinar cuenta que el maestro de Harth le transmitió la forma de atarse la takama."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Maestro de Harth. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ]
-      }
+        "reason": "Dalinar cuenta que el maestro de Harth le transmitió la forma de atarse la takama."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar cuenta que el maestro de Harth le transmitió la forma de atarse la takama."
     },
     {
       "id": "mention89-rel-harth-masters-master-114-0",
@@ -22010,22 +22117,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "mention89-6d868631492497"
+        "mention89-6d868631492497",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "El fervoroso anciano fue maestro del maestro de Harth."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Maestro de su instructor. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ]
-      }
+        "reason": "El fervoroso anciano fue maestro del maestro de Harth."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. El fervoroso anciano fue maestro del maestro de Harth."
     },
     {
       "id": "mention89-rel-ned-115-0",
@@ -22040,23 +22146,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Betha identifica a Rem como esposa de Ned."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/",
-          "https://coppermind.net/wiki/Rem"
-        ]
-      }
+        "reason": "Betha identifica a Rem como esposa de Ned."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Betha identifica a Rem como esposa de Ned."
     },
     {
       "id": "mention89-rel-ned-115-1",
@@ -22071,23 +22175,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Ur admite haber matado a Ned, a quien el grupo acusa de dos asesinatos."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto conflict: Ur admite haberlo matado. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/",
-          "https://coppermind.net/wiki/Rem"
-        ]
-      }
+        "reason": "Ur admite haber matado a Ned, a quien el grupo acusa de dos asesinatos."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Ur admite haber matado a Ned, a quien el grupo acusa de dos asesinatos."
     },
     {
       "id": "mention89-rel-princess-yezier-121-0",
@@ -27316,29 +27418,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "type": "conversation",
-      "summary": "Conversan en la sala de entrenamiento.",
+      "summary": "Zahel y Dalinar hablan en la sala de entrenamiento.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan en la sala de entrenamiento. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Zahel y Dalinar hablan en la sala de entrenamiento.",
         "pairs": [
           [
             "dalinar",
             "zahel"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Zahel y Dalinar hablan en la sala de entrenamiento."
     },
     {
       "id": "interaction-ob-chapter-16-dalinar-kadash-34",
@@ -27351,69 +27452,71 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "type": "conflict",
-      "summary": "Debaten mientras practican.",
+      "summary": "Debaten mientras practican y Dalinar fija a Kadash al suelo con luz tormentosa.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Debaten mientras practican. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Debaten mientras practican y Dalinar fija a Kadash al suelo con luz tormentosa.",
         "pairs": [
           [
             "dalinar",
             "kadash"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Debaten mientras practican y Dalinar fija a Kadash al suelo con luz tormentosa."
     },
     {
       "id": "interaction-ob-chapter-16-dalinar-iriali-queen-navani-35",
       "participants": [
         "dalinar",
-        "iriali-queen",
-        "navani"
+        "navani",
+        "iriali-queen"
       ],
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "type": "message",
-      "summary": "Intercambian mensajes sobre una alianza.",
+      "summary": "Navani transmite a Dalinar los mensajes de la reina de Iri y le hace llegar la respuesta.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "La reina y Dalinar intercambian propuestas; Navani transcribe para Dalinar. No acreditar trato personal reina–Navani solo porque esta lea o escriba las palabras de él.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Navani transmite a Dalinar los mensajes de la reina de Iri y le hace llegar la respuesta.",
         "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
           [
             "dalinar",
             "iriali-queen"
           ],
           [
-            "dalinar",
-            "navani"
+            "navani",
+            "iriali-queen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Navani transmite a Dalinar los mensajes de la reina de Iri y le hace llegar la respuesta."
     },
     {
       "id": "interaction-ob-chapter-17-kaladin-parshman-card-player-captor-daughter-36",
@@ -27427,22 +27530,20 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-17"
       },
       "type": "conversation",
-      "summary": "Conversan durante la marcha.",
+      "summary": "El captor habla con Kaladin y recoge a su hija. Ella ofrece agua a Kaladin y le pregunta por qué no pueden marcharse.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Cotejo primarioOB17: Kaladin conversa con el padre; después la hija le lleva agua y conversa con él. Padre e hija se abrazan. Las tres parejas sí tienen acciones concretas.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "El captor habla con Kaladin y recoge a su hija. Ella ofrece agua a Kaladin y le pregunta por qué no pueden marcharse.",
         "pairs": [
           [
             "kaladin",
@@ -27457,7 +27558,8 @@ window.ATLAS_DATA = {
             "captor-daughter"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. El captor habla con Kaladin y recoge a su hija. Ella ofrece agua a Kaladin y le pregunta por qué no pueden marcharse."
     },
     {
       "id": "interaction-ob-chapter-17-kaladin-nalma-37",
@@ -27470,29 +27572,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-17"
       },
       "type": "cooperation",
-      "summary": "Se recuerda una fuga compartida.",
+      "summary": "Kaladin recuerda su fuga de Tasinar y el tacto de la mano de Nalma.",
       "storyTime": {
         "frame": "flashback",
         "note": "Evocación de la fuga de Tasinar."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se recuerda una fuga compartida. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Kaladin recuerda su fuga de Tasinar y el tacto de la mano de Nalma.",
         "pairs": [
           [
             "kaladin",
             "nalma"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Kaladin recuerda su fuga de Tasinar y el tacto de la mano de Nalma."
     },
     {
       "id": "interaction-ob-chapter-18-shallan-jor-38",
@@ -27505,29 +27606,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-18"
       },
       "type": "conversation",
-      "summary": "Conversan en la taberna.",
+      "summary": "Jor habla con Shallan, se ofrece a ayudarla y le indica una taberna donde puede investigar.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan en la taberna. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Jor habla con Shallan, se ofrece a ayudarla y le indica una taberna donde puede investigar.",
         "pairs": [
           [
             "shallan",
             "jor"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Jor habla con Shallan, se ofrece a ayudarla y le indica una taberna donde puede investigar."
     },
     {
       "id": "interaction-ob-chapter-18-shallan-betha-ur-39",
@@ -27541,22 +27641,20 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-18"
       },
       "type": "conflict",
-      "summary": "Encuentro durante la investigación.",
+      "summary": "Shallan interroga a Betha y se enfrenta a Ur. Betha y Ur hablan entre ellos de Ned y la segunda víctima.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Encuentro durante la investigación. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Shallan interroga a Betha y se enfrenta a Ur. Betha y Ur hablan entre ellos de Ned y la segunda víctima.",
         "pairs": [
           [
             "shallan",
@@ -27565,9 +27663,14 @@ window.ATLAS_DATA = {
           [
             "shallan",
             "ur"
+          ],
+          [
+            "betha",
+            "ur"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Shallan interroga a Betha y se enfrenta a Ur. Betha y Ur hablan entre ellos de Ned y la segunda víctima."
     },
     {
       "id": "interaction-ob-chapter-19-dalinar-gavilar-navani-ialai-sadeas-toh-evi-40",
@@ -27576,7 +27679,6 @@ window.ATLAS_DATA = {
         "gavilar",
         "navani",
         "ialai",
-        "sadeas",
         "toh",
         "evi"
       ],
@@ -27585,57 +27687,40 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "type": "encounter",
-      "summary": "El banquete revela negociaciones y vínculos familiares.",
+      "summary": "Gavilar discute la negociación con los Kholin e Ialai. Toh entrega una bebida a su hermana Evi.",
       "storyTime": {
         "frame": "flashback",
         "note": "Escena del pasado revelada en este capítulo."
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Cotejo primarioOB19: Evi cena en otro comedor y Dalinar aún no la ha conocido; solo la observa. Se conservan negociaciones y tertulia realmente narradas; no enlaces derivados de compartir banquete.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Gavilar discute la negociación con los Kholin e Ialai. Toh entrega una bebida a su hermana Evi.",
         "pairs": [
-          [
-            "gavilar",
-            "toh"
-          ],
           [
             "dalinar",
             "gavilar"
           ],
           [
-            "dalinar",
-            "sadeas"
-          ],
-          [
-            "dalinar",
-            "navani"
-          ],
-          [
-            "dalinar",
-            "ialai"
-          ],
-          [
             "navani",
-            "ialai"
+            "gavilar"
           ],
           [
-            "gavilar",
-            "navani"
+            "ialai",
+            "gavilar"
           ],
           [
-            "gavilar",
-            "ialai"
+            "toh",
+            "evi"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Gavilar discute la negociación con los Kholin e Ialai. Toh entrega una bebida a su hermana Evi."
     },
     {
       "id": "interaction-ob-chapter-20-kaladin-parshman-card-player-41",
@@ -29492,29 +29577,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "type": "conversation",
-      "summary": "Dalinar busca su cuchillo y Teleb le recuerda que ya se lo devolvió.",
+      "summary": "Teleb le recuerda a Dalinar que le devolvió el cuchillo.",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
       "storyTime": {
         "frame": "flashback",
         "note": "Escena histórica; la información se incorpora al leer este capítulo."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Dalinar busca su cuchillo y Teleb le recuerda que ya se lo devolvió. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Teleb le recuerda a Dalinar que le devolvió el cuchillo.",
         "pairs": [
           [
             "dalinar",
             "blue-tattoo-archer"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Teleb le recuerda a Dalinar que le devolvió el cuchillo."
     },
     {
       "id": "audit-72-event-43",
@@ -29527,29 +29611,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "type": "conversation",
-      "summary": "Hablan de las campañas alezi y de cómo se protegen de las tormentas.",
+      "summary": "Toh y Gavilar hablan de las campañas, los asedios y las altas tormentas.",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
       "storyTime": {
         "frame": "flashback",
         "note": "Escena histórica; la información se incorpora al leer este capítulo."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de las campañas alezi y de cómo se protegen de las tormentas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Toh y Gavilar hablan de las campañas, los asedios y las altas tormentas.",
         "pairs": [
           [
             "gavilar",
             "toh"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Toh y Gavilar hablan de las campañas, los asedios y las altas tormentas."
     },
     {
       "id": "audit-72-event-44",
@@ -29562,36 +29645,35 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "type": "conversation",
-      "summary": "Conversan sobre la impresión que Dalinar ha causado a Toh.",
+      "summary": "Hablan de la impresión que causó a Toh la salida de Dalinar durante la tormenta.",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
       "storyTime": {
         "frame": "flashback",
         "note": "Escena histórica; la información se incorpora al leer este capítulo."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan sobre la impresión que Dalinar ha causado a Toh. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Hablan de la impresión que causó a Toh la salida de Dalinar durante la tormenta.",
         "pairs": [
           [
             "dalinar",
             "gavilar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Hablan de la impresión que causó a Toh la salida de Dalinar durante la tormenta."
     },
     {
       "id": "audit-72-event-45",
       "participants": [
         "dalinar",
-        "navani",
         "gavilar",
+        "navani",
         "ialai"
       ],
       "revealedAt": {
@@ -29599,49 +29681,36 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "type": "conversation",
-      "summary": "Valoran a los visitantes y sus motivos para buscar protección.",
+      "summary": "Valoran la protección que buscan los visitantes y el posible acuerdo.",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
       "storyTime": {
         "frame": "flashback",
         "note": "Escena histórica; la información se incorpora al leer este capítulo."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Valoran a los visitantes y sus motivos para buscar protección. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "Valoran la protección que buscan los visitantes y el posible acuerdo.",
         "pairs": [
           [
             "dalinar",
-            "navani"
-          ],
-          [
-            "dalinar",
             "gavilar"
-          ],
-          [
-            "dalinar",
-            "ialai"
           ],
           [
             "navani",
             "gavilar"
           ],
           [
-            "navani",
-            "ialai"
-          ],
-          [
-            "gavilar",
-            "ialai"
+            "ialai",
+            "gavilar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Valoran la protección que buscan los visitantes y el posible acuerdo."
     },
     {
       "id": "audit-72-event-48",
@@ -33187,29 +33256,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-17"
       },
       "type": "conversation",
-      "summary": "Ton cuestiona la propuesta de matar a Kaladin.",
+      "summary": "Ton pregunta si Khen mataría personalmente a Kaladin para evitar que vuelvan a capturarlos.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ton cuestiona la propuesta de matar a Kaladin. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Ton pregunta si Khen mataría personalmente a Kaladin para evitar que vuelvan a capturarlos.",
         "pairs": [
           [
             "ton",
             "khen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Ton pregunta si Khen mataría personalmente a Kaladin para evitar que vuelvan a capturarlos."
     },
     {
       "id": "audit-ob-interaction-35",
@@ -33222,29 +33290,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "type": "conversation",
-      "summary": "Rial comenta la escolta y el reloj de su superior.",
+      "summary": "Rial se presenta como sargento del Puente Trece y comenta el reloj de Dalinar.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Rial comenta la escolta y el reloj de su superior. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Rial se presenta como sargento del Puente Trece y comenta el reloj de Dalinar.",
         "pairs": [
           [
             "dalinar",
             "rial"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Rial se presenta como sargento del Puente Trece y comenta el reloj de Dalinar."
     },
     {
       "id": "audit-ob-interaction-37",
@@ -33257,29 +33324,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "type": "conversation",
-      "summary": "Dalinar pide ampliar la sala y encontrarle contrincante.",
+      "summary": "Dalinar le pide ampliar el espacio con ayuda de Ivis y buscarle contrincante.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Dalinar pide ampliar la sala y encontrarle contrincante. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Dalinar le pide ampliar el espacio con ayuda de Ivis y buscarle contrincante.",
         "pairs": [
           [
             "dalinar",
             "kelerand"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar le pide ampliar el espacio con ayuda de Ivis y buscarle contrincante."
     },
     {
       "id": "audit-ob-interaction-39",
@@ -33292,29 +33358,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "type": "cooperation",
-      "summary": "Practican lucha; Dalinar reconoce la victoria de Aratin.",
+      "summary": "Aratin vence en la práctica y Dalinar reconoce la victoria.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Practican lucha; Dalinar reconoce la victoria de Aratin. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-16-18/"
-        ],
+        "reason": "Aratin vence en la práctica y Dalinar reconoce la victoria.",
         "pairs": [
           [
             "dalinar",
             "aratin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Aratin vence en la práctica y Dalinar reconoce la victoria."
     },
     {
       "id": "audit-ob-interaction-48",
@@ -33328,22 +33393,20 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "type": "conflict",
-      "summary": "Dalinar frustra el ataque y mata al agresor.",
+      "summary": "El agresor hiere a Gavilar en la oreja. Dalinar aparta a su hermano y mata al atacante.",
       "storyTime": {
         "frame": "flashback",
         "note": "Recuerdo histórico; no cambia la ubicación presente."
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Dalinar frustra el ataque y mata al agresor. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-19-21/"
-        ],
+        "reason": "El agresor hiere a Gavilar en la oreja. Dalinar aparta a su hermano y mata al atacante.",
         "pairs": [
           [
             "dalinar",
@@ -33358,7 +33421,8 @@ window.ATLAS_DATA = {
             "gavilar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. El agresor hiere a Gavilar en la oreja. Dalinar aparta a su hermano y mata al atacante."
     },
     {
       "id": "audit-ob-interaction-51",
@@ -57347,6 +57411,77 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary193-kaladin-syl-fire",
+      "participants": [
+        "kaladin",
+        "syl",
+        "khen"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-17"
+      },
+      "type": "conversation",
+      "summary": "Syl ayuda a cortar la cuerda. Khen aparta a Kaladin del rocabrote cuando intenta mostrar cómo encender fuego.",
+      "sourceIds": [
+        "primary193-ob17"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Syl ayuda a cortar la cuerda. Khen aparta a Kaladin del rocabrote cuando intenta mostrar cómo encender fuego.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl ayuda a cortar la cuerda. Khen aparta a Kaladin del rocabrote cuando intenta mostrar cómo encender fuego.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "khen"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary193-veil-pattern",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-18"
+      },
+      "type": "conversation",
+      "summary": "Shallan y Patrón hablan del disfraz de Velo y de sus hermanos; su llegada sigue pendiente.",
+      "sourceIds": [
+        "primary193-ob18"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Shallan y Patrón hablan del disfraz de Velo y de sus hermanos; su llegada sigue pendiente.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan y Patrón hablan del disfraz de Velo y de sus hermanos; su llegada sigue pendiente.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -57528,12 +57663,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "kind": "background",
-      "text": "Recupera el nombre y el rostro de Evi.",
+      "text": "Al oír el nombre de Evi de boca de Navani, recupera el nombre y recuerda el rostro de su esposa.",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Al oír el nombre de Evi de boca de Navani, recupera el nombre y recuerda el rostro de su esposa."
     },
     {
       "id": "fact-malata-10",
@@ -58383,12 +58520,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "kind": "goals",
-      "text": "Investiga los conductos y el saneamiento de Urithiru.",
+      "text": "Navani sospecha que los conductos forman parte de una red más amplia de saneamiento.",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Navani sospecha que los conductos forman parte de una red más amplia de saneamiento."
     },
     {
       "id": "audit-72-fact-41",
@@ -58398,12 +58537,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-16"
       },
       "kind": "experience",
-      "text": "Estudia la Hoja de Honor recuperada del Asesino de Blanco.",
+      "text": "Dalinar estudia la Hoja de Honor recuperada del Asesino de Blanco.",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar estudia la Hoja de Honor recuperada del Asesino de Blanco."
     },
     {
       "id": "audit-72-fact-46",
@@ -58413,12 +58554,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "kind": "goals",
-      "text": "Busca protección y muestra interés por las esquirlas y los moldeadores de almas.",
+      "text": "Busca protección para sí y su hermana. Pregunta por los asedios y la logística de las campañas.",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Busca protección para sí y su hermana. Pregunta por los asedios y la logística de las campañas."
     },
     {
       "id": "audit-72-fact-47",
@@ -58428,12 +58571,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "kind": "affiliation",
-      "text": "Participa en las maniobras políticas del círculo de Gavilar.",
+      "text": "Ialai, esposa de Sadeas, comenta el acuerdo que buscan Evi y Toh.",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Ialai, esposa de Sadeas, comenta el acuerdo que buscan Evi y Toh."
     },
     {
       "id": "audit-72-fact-49",
@@ -61215,13 +61360,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-17"
       },
-      "text": "Se refugia detrás de su padre mientras este increpa a Kaladin.",
+      "text": "Se esconde detrás de su padre durante el enfrentamiento y ofrece agua a Kaladin en el descanso.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Se esconde detrás de su padre durante el enfrentamiento y ofrece agua a Kaladin en el descanso."
     },
     {
       "id": "audit-ob-profile-32",
@@ -61230,13 +61377,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-17"
       },
-      "text": "Cuestiona que Khen esté dispuesta a matar al prisionero.",
+      "text": "Pregunta a Khen si sería capaz de matar personalmente al prisionero.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Pregunta a Khen si sería capaz de matar personalmente al prisionero."
     },
     {
       "id": "audit-ob-profile-34",
@@ -61245,13 +61394,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
-      "text": "Sargento del Puente Trece, asignado a la guardia de Dalinar.",
+      "text": "Rial se presenta como sargento del Puente Trece y escolta a Dalinar.",
       "kind": "affiliation",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Rial se presenta como sargento del Puente Trece y escolta a Dalinar."
     },
     {
       "id": "audit-ob-profile-36",
@@ -61260,13 +61411,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
-      "text": "Maestro de espada ardiente; rehúsa elegir voluntariamente a Dalinar como contrincante.",
+      "text": "Maestro espadachín que prefiere declinar la práctica contra Dalinar si puede elegir.",
       "kind": "affiliation",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Maestro espadachín que prefiere declinar la práctica contra Dalinar si puede elegir."
     },
     {
       "id": "audit-ob-profile-38",
@@ -61275,13 +61428,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
-      "text": "Segundo hijo del general Khal; vence a Dalinar luchando.",
+      "text": "Aratin Khal, segundo hijo del general Khal, vence a Dalinar en la lucha.",
       "kind": "abilities",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Aratin Khal, segundo hijo del general Khal, vence a Dalinar en la lucha."
     },
     {
       "id": "audit-ob-profile-40",
@@ -61290,13 +61445,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
-      "text": "Plantea aceptar las condiciones enemigas y reclama una armadura de esquirlas.",
+      "text": "La reina de Iri negocia a distancia y exige un acuerdo sobre bienes que considera robados.",
       "kind": "goals",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. La reina de Iri negocia a distancia y exige un acuerdo sobre bienes que considera robados."
     },
     {
       "id": "audit-ob-profile-41",
@@ -61305,13 +61462,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-17"
       },
-      "text": "Compartió con Kaladin una fuga de cinco días durante su esclavitud.",
+      "text": "Kaladin recuerda a Nalma y su fuga de Tasinar, que duró cinco días.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob17"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Kaladin recuerda a Nalma y su fuga de Tasinar, que duró cinco días."
     },
     {
       "id": "audit-ob-profile-42",
@@ -61320,13 +61479,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-18"
       },
-      "text": "Portero que advierte a Shallan del peligro y le indica dónde hubo un asesinato.",
+      "text": "Habla con Shallan en la primera taberna, intenta ayudarla y le indica dónde preguntar por un asesinato.",
       "kind": "affiliation",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob18"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Habla con Shallan en la primera taberna, intenta ayudarla y le indica dónde preguntar por un asesinato."
     },
     {
       "id": "audit-ob-profile-43",
@@ -61335,13 +61496,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-18"
       },
-      "text": "Dirige un grupo de la taberna y reconoce el símbolo de los Sangre Espectral.",
+      "text": "Reconoce el símbolo de los Sangre Espectral y cuenta cómo hallaron los dos cuerpos.",
       "kind": "affiliation",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob18"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Reconoce el símbolo de los Sangre Espectral y cuenta cómo hallaron los dos cuerpos."
     },
     {
       "id": "audit-ob-profile-44",
@@ -61350,13 +61513,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-18"
       },
-      "text": "Miembro del grupo de Betha; admite haber arrojado a Ned al vacío.",
+      "text": "Se enfrenta a Shallan. Afirma que arrojó a Ned desde la meseta.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob18"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Se enfrenta a Shallan. Afirma que arrojó a Ned desde la meseta."
     },
     {
       "id": "audit-ob-profile-45",
@@ -61365,13 +61530,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
-      "text": "La esposa de Dalinar recordada por fin procede de Rira.",
+      "text": "Navani nombra a Evi al recordar el matrimonio de Dalinar con una ojos claros de Rira.",
       "kind": "background",
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Navani nombra a Evi al recordar el matrimonio de Dalinar con una ojos claros de Rira."
     },
     {
       "id": "audit-ob-profile-46",
@@ -61380,13 +61547,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-19"
       },
-      "text": "Viaja con su hermano y encuentra difíciles las costumbres alezi.",
+      "text": "Llega desde Rira con su hermano Toh y se reúne con él en el salón.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Llega desde Rira con su hermano Toh y se reúne con él en el salón."
     },
     {
       "id": "audit-ob-profile-47",
@@ -61395,13 +61564,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-19"
       },
-      "text": "Ataca a Gavilar con un cuchillo durante el banquete.",
+      "text": "Ataca a Gavilar haciéndose pasar por sirviente.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Ataca a Gavilar haciéndose pasar por sirviente."
     },
     {
       "id": "audit-ob-profile-49",
@@ -61484,16 +61655,18 @@ window.ATLAS_DATA = {
       "id": "audit-73-general-khal",
       "characterId": "general-khal",
       "kind": "background",
-      "text": "General y padre de Aratin.",
+      "text": "El general Khal es padre de Halam y Aratin.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "ob-primary-16-18"
+        "ob-primary-16-18",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. El general Khal es padre de Halam y Aratin."
     },
     {
       "id": "family74-fact-rock-chapter-27",
@@ -66933,16 +67106,18 @@ window.ATLAS_DATA = {
       "id": "mention89-fact-ivis-85-0",
       "characterId": "ivis",
       "kind": "background",
-      "text": "Continúa la instrucción en Urithiru bajo Kelerand; Dalinar pide ampliar los campos de entrenamiento.",
+      "text": "Dalinar pide a Kelerand consultar a Ivis sobre ampliar la sala de entrenamiento.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "mention89-d834f070119258"
+        "mention89-d834f070119258",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar pide a Kelerand consultar a Ivis sobre ampliar la sala de entrenamiento."
     },
     {
       "id": "mention89-fact-nall-86",
@@ -67425,125 +67600,141 @@ window.ATLAS_DATA = {
       "id": "mention89-fact-harth-111",
       "characterId": "harth",
       "kind": "background",
-      "text": "Fue el primer instructor de espada de Dalinar, contratado por su padre.",
+      "text": "Primer instructor de espada de Dalinar, contratado por su padre.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
         "mention89-6d868631492497",
-        "mention89-bd7eac7c0ecf6e"
+        "mention89-bd7eac7c0ecf6e",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Primer instructor de espada de Dalinar, contratado por su padre."
     },
     {
       "id": "mention89-fact-rembrinor-112",
       "characterId": "rembrinor",
       "kind": "background",
-      "text": "Kadash pregunta si fue el primer maestro de Dalinar; Dalinar lo niega y nombra a Harth.",
+      "text": "Kadash propone su nombre, pero Dalinar identifica a Harth como primer maestro.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "mention89-6d868631492497"
+        "mention89-6d868631492497",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Kadash propone su nombre, pero Dalinar identifica a Harth como primer maestro."
     },
     {
       "id": "mention89-fact-harth-master-113",
       "characterId": "harth-master",
       "kind": "background",
-      "text": "Enseñó a Harth y transmitió la costumbre de anudarse el takama con tres vueltas.",
+      "text": "Aprendió de su maestro la costumbre de envolver tres veces el cinturón.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "mention89-6d868631492497"
+        "mention89-6d868631492497",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Aprendió de su maestro la costumbre de envolver tres veces el cinturón."
     },
     {
       "id": "mention89-fact-harth-masters-master-114",
       "characterId": "harth-masters-master",
       "kind": "background",
-      "text": "Anciano ardiente de baja estatura que explica a Dalinar el origen práctico de las tres vueltas del cinturón.",
+      "text": "Dalinar cuenta que el fervoroso daba tres vueltas al cinturón para evitar tropezar con él.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-16"
       },
       "sourceIds": [
-        "mention89-6d868631492497"
+        "mention89-6d868631492497",
+        "primary193-ob16"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Dalinar cuenta que el fervoroso daba tres vueltas al cinturón para evitar tropezar con él."
     },
     {
       "id": "mention89-fact-ned-115",
       "characterId": "ned",
       "kind": "background",
-      "text": "Esposo de Rem, acusado de estrangularla. Ur admite haberlo matado; Ned negaba un segundo asesinato.",
+      "text": "El grupo lo acusa de matar a Rem y a la camarera. Ur dice que Ned negó la segunda muerte antes de que lo arrojaran.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-18"
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. El grupo lo acusa de matar a Rem y a la camarera. Ur dice que Ned negó la segunda muerte antes de que lo arrojaran."
     },
     {
       "id": "mention89-fact-rem-116",
       "characterId": "rem",
       "kind": "background",
-      "text": "Esposa de Ned, estrangulada según el relato que Shallan escucha en la taberna.",
+      "text": "Betha identifica a Rem como esposa de Ned y dice que murió estrangulada.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-18"
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Betha identifica a Rem como esposa de Ned y dice que murió estrangulada."
     },
     {
       "id": "mention89-fact-alls-alley-murdered-barmaid-117",
       "characterId": "alls-alley-murdered-barmaid",
       "kind": "background",
-      "text": "Camarera cuya muerte reproduce las marcas de la de Rem. La atribución a Ned está discutida.",
+      "text": "Betha dice que la camarera apareció estrangulada, con la misma postura y marcas que Rem. Ned negó haberla matado.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-18"
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Betha dice que la camarera apareció estrangulada, con la misma postura y marcas que Rem. Ned negó haberla matado."
     },
     {
       "id": "mention89-fact-shubreth-son-mashalan-118",
       "characterId": "shubreth-son-mashalan",
       "kind": "background",
-      "text": "Gavilar lo cita como conquistador histórico que se expandió demasiado.",
+      "text": "Gavilar usa el nombre Shubreth-hijo-Mashalan al hablar del Hacedor de Soles y de sus campañas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-19"
       },
       "sourceIds": [
-        "mention89-514c2eb8e1667d"
+        "mention89-514c2eb8e1667d",
+        "primary193-ob19"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Gavilar usa el nombre Shubreth-hijo-Mashalan al hablar del Hacedor de Soles y de sus campañas."
     },
     {
       "id": "mention89-fact-uli-da-119",
@@ -90137,6 +90328,10 @@ window.ATLAS_DATA = {
         {
           "revision": 192,
           "notes": "May aparece como hija de Aladar. Elhokar se dirige a su madre y a su tío. Las asistentes de Teshav son discípulas; no se acredita parentesco. Shallan y Adolin reafirman su compromiso y recuerdan familiares ausentes; en el campamento del capítulo 14 no se revelan parentescos."
+        },
+        {
+          "revision": 193,
+          "notes": "Se confirma el matrimonio de Dalinar y Evi, los vínculos explícitos de la familia Khal, la filiación de la niña del campamento, el matrimonio de Ned y Rem y el parentesco de Evi y Toh. La maternidad de Halam queda pendiente de evidencia primaria."
         }
       ]
     }
@@ -90856,12 +91051,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-19"
       },
       "sourceIds": [
-        "ob-primary-19-21"
+        "ob-primary-19-21",
+        "primary193-ob19"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muere durante el atentado del recuerdo."
-      ]
+        "El agresor muere durante el banquete del recuerdo."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Dalinar apuñala al agresor y comprueba su muerte. El capítulo transcurre treinta y un años antes."
     },
     {
       "id": "ob-evi-dead-report-24",
@@ -91739,12 +91936,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+        "Ur cuenta que mató a Ned arrojándolo desde la meseta."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Ur cuenta que mató a Ned arrojándolo desde la meseta."
     },
     {
       "id": "mention89-life-rem",
@@ -91756,12 +91955,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+        "Betha y su grupo dicen que Rem murió estrangulada."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Betha y su grupo dicen que Rem murió estrangulada."
     },
     {
       "id": "mention89-life-alls-alley-murdered-barmaid",
@@ -91773,12 +91974,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-2a3046d9228fc0",
-        "mention89-ac35a58338ad12"
+        "mention89-ac35a58338ad12",
+        "primary193-ob18"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+        "Betha relata el hallazgo del cadáver de la camarera."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Betha relata el hallazgo del cadáver de la camarera."
     },
     {
       "id": "mention89-life-yezriar",
@@ -92945,7 +93148,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 192,
+  "revision": 193,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -109210,9 +109413,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -109229,11 +109433,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Sigue atado junto al árbol al comienzo del capítulo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigue atado junto al árbol al comienzo del capítulo."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-17-02",
@@ -109254,9 +109458,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-march",
@@ -109273,11 +109478,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Marcha atado, se libera con ayuda de Syl y demuestra cómo encender fuego con madera húmeda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Marcha atado, se libera con ayuda de Syl y demuestra cómo encender fuego con madera húmeda."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-17-03",
@@ -109298,9 +109503,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-tasinar-escape-memory",
@@ -109317,62 +109523,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, evocación de la fuga de Tasinar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Recuerda su fuga de Tasinar, posterior a la condena de Amaram y anterior a su envío a las Llanuras Quebradas.",
+          "needsConfirmation": [],
           "notes": [
-            "Fuga entre la condena y el traslado; fecha y recorrido pendientes."
-          ]
-        },
-        {
-          "id": "ob-kaladin-chapter-17-04",
-          "scene": "ob-chapter-17",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 4,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Abismo del Honor",
-          "placeId": "place-abismo-del-honor",
-          "realm": "physical",
-          "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
-            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
-          ],
-          "xy": [
-            756.972,
-            453.279
-          ],
-          "kind": "scene",
-          "review": "primary-text",
-          "source": "ob-primary-16-18",
-          "sourceIds": [
-            "ob-primary-16-18"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "region-approximate",
-          "coordinateAnchorId": "place-llanuras-quebradas",
-          "coordinateAnchorName": "Llanuras Quebradas",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "flashback",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Recuerdo anterior al presente; no altera su ubicación."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-17"
-          },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, evocación del borde del abismo",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": [
-            "Recuerda el episodio ya conocido; no es un segundo viaje presente."
+            "Recuerda su fuga de Tasinar, posterior a la condena de Amaram y anterior a su envío a las Llanuras Quebradas."
           ]
         },
         {
@@ -122221,9 +122375,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122240,11 +122395,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Adopta el aspecto de Velo antes de salir del cuarto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adopta el aspecto de Velo antes de salir del cuarto."
+          ]
         },
         {
           "id": "ob-shallan-chapter-18-02",
@@ -122268,9 +122423,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122287,11 +122443,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-shallan-balcony-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Baja al sembradío y vuelve al interior por una portezuela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Baja al sembradío y vuelve al interior por una portezuela."
+          ]
         },
         {
           "id": "ob-shallan-chapter-18-03",
@@ -122315,9 +122471,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122334,11 +122491,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Recorre el mercado del Apartado y escucha conversaciones junto al pozo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorre el mercado del Apartado y escucha conversaciones junto al pozo."
+          ]
         },
         {
           "id": "ob-shallan-chapter-18-04",
@@ -122362,9 +122519,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122381,11 +122539,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-jor-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Habla con Jor y aprende de él dónde preguntar por otro asesinato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Jor y aprende de él dónde preguntar por otro asesinato."
+          ]
         },
         {
           "id": "ob-shallan-chapter-18-05",
@@ -122409,9 +122567,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122428,11 +122587,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-alls-alley",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Entra en la segunda taberna, habla con Betha y oye el relato sobre Rem y otra camarera.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la segunda taberna, habla con Betha y oye el relato sobre Rem y otra camarera."
+          ]
         },
         {
           "id": "ob-shallan-chapter-18-06",
@@ -122456,9 +122615,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -122475,11 +122635,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Sale de la segunda taberna hacia la noche con una jarra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la segunda taberna hacia la noche con una jarra."
+          ]
         },
         {
           "id": "ob-shallan-chapter-21-01",
@@ -131122,9 +131282,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -131141,11 +131302,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Se mantiene apartada porque cree que algunos podrían verla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se mantiene apartada porque cree que algunos podrían verla."
+          ]
         },
         {
           "id": "ob-syl-chapter-17-02",
@@ -131166,9 +131327,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-march",
@@ -131185,11 +131347,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Advierte a Kaladin de la presencia del otro spren y se convierte en cuchillo para cortar la cuerda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Advierte a Kaladin de la presencia del otro spren y se convierte en cuchillo para cortar la cuerda."
+          ]
         },
         {
           "id": "ob-syl-chapter-20-01",
@@ -138573,9 +138735,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -138592,11 +138755,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-honorblade-room",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Examina la Hoja de Honor y la vuelve a dejar en su escondite.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina la Hoja de Honor y la vuelve a dejar en su escondite."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-16-02",
@@ -138620,9 +138783,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -138639,11 +138803,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-dalinar-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Regresa a sus aposentos para buscar el brazal con reloj que le envió Navani.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a sus aposentos para buscar el brazal con reloj que le envió Navani."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-16-03",
@@ -138667,9 +138831,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -138686,11 +138851,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Practica con Aratin y Kadash. Al oír a Navani, vuelve a reconocer el nombre y el rostro de Evi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Practica con Aratin y Kadash. Al oír a Navani, vuelve a reconocer el nombre y el rostro de Evi."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-19-01",
@@ -138714,9 +138879,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -138733,11 +138899,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Cena en la mesa principal mientras Gavilar habla con Toh.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cena en la mesa principal mientras Gavilar habla con Toh."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-19-02",
@@ -138761,9 +138927,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -138780,11 +138947,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-teleb-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Cruza la tormenta hasta el edificio de los soldados y pregunta por su cuchillo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza la tormenta hasta el edificio de los soldados y pregunta por su cuchillo."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-19-03",
@@ -138808,9 +138975,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -138827,11 +138995,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Regresa a la mesa y mata al agresor que intenta apuñalar a Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a la mesa y mata al agresor que intenta apuñalar a Gavilar."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-24-02",
@@ -154070,9 +154238,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -154089,11 +154258,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Está en una mesa del salón, con un grupo de ojos claros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en una mesa del salón, con un grupo de ojos claros."
+          ]
         }
       ]
     },
@@ -157683,9 +157852,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -157702,11 +157872,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Llega a la sala, transmite los mensajes de Iri y pronuncia el nombre de Evi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la sala, transmite los mensajes de Iri y pronuncia el nombre de Evi."
+          ]
         },
         {
           "id": "ob-navani-chapter-19-03",
@@ -157730,9 +157900,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -157749,11 +157920,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Comenta las negociaciones y atiende la oreja herida de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta las negociaciones y atiende la oreja herida de Gavilar."
+          ]
         },
         {
           "id": "ob-navani-chapter-24-04",
@@ -190822,9 +190993,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -190841,11 +191013,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Pasa de la pared a la piel y al chaquetón de Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa de la pared a la piel y al chaquetón de Shallan."
+          ]
         },
         {
           "id": "ob-pattern-chapter-18-02",
@@ -190869,9 +191041,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -190888,11 +191061,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-shallan-balcony-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Acompaña a Shallan durante el descenso y la salida por el sembradío.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan durante el descenso y la salida por el sembradío."
+          ]
         },
         {
           "id": "ob-pattern-chapter-18-03",
@@ -190916,9 +191089,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -190935,11 +191109,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Acompaña a Shallan mientras esta empieza a buscar pistas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan mientras esta empieza a buscar pistas."
+          ]
         },
         {
           "id": "ob-pattern-chapter-18-04",
@@ -190963,9 +191137,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -190982,11 +191157,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-jor-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Sigue con Shallan, que le pide que la ayude a sostener su papel de Velo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigue con Shallan, que le pide que la ayude a sostener su papel de Velo."
+          ]
         },
         {
           "id": "ob-pattern-chapter-18-05",
@@ -191010,9 +191185,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191029,11 +191205,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-alls-alley",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Acompaña a Shallan en su recorrido por el Apartado y la segunda taberna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan en su recorrido por el Apartado y la segunda taberna."
+          ]
         },
         {
           "id": "ob-pattern-chapter-18-06",
@@ -191057,9 +191233,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191076,11 +191253,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Acompaña a Shallan cuando termina la visita a la taberna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan cuando termina la visita a la taberna."
+          ]
         },
         {
           "id": "ob-pattern-chapter-21-01",
@@ -199292,9 +199469,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -199311,11 +199489,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Habla con Dalinar sobre los cambios que vive.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Dalinar sobre los cambios que vive."
+          ]
         }
       ]
     },
@@ -202786,9 +202964,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -202805,11 +202984,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Opina sobre los visitantes y sobre el acuerdo que buscan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Opina sobre los visitantes y sobre el acuerdo que buscan."
+          ]
         },
         {
           "id": "ob-ialai-chapter-21-04",
@@ -221230,9 +221409,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -221249,11 +221429,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Explica a Toh cómo protege a su ejército de las altas tormentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica a Toh cómo protege a su ejército de las altas tormentas."
+          ]
         },
         {
           "id": "ob-gavilar-chapter-19-03",
@@ -221277,9 +221457,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -221296,11 +221477,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Habla de las negociaciones y resulta herido en la oreja durante el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de las negociaciones y resulta herido en la oreja durante el ataque."
+          ]
         },
         {
           "id": "ob75-gavilar-26-2",
@@ -223969,9 +224150,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -223988,11 +224170,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Practica con Dalinar y debate sobre la tradición y los Heraldos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Practica con Dalinar y debate sobre la tradición y los Heraldos."
+          ]
         },
         {
           "id": "ob75-kadash-26-3",
@@ -224235,9 +224417,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -224254,11 +224437,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-teleb-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Teleb le recuerda que ya le devolvió el cuchillo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Teleb le recuerda que ya le devolvió el cuchillo."
+          ]
         }
       ]
     },
@@ -226977,9 +227160,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -226996,11 +227180,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Desata a Kaladin del árbol pero le deja las manos atadas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desata a Kaladin del árbol pero le deja las manos atadas."
+          ]
         },
         {
           "id": "ob-parshman-card-player-chapter-17-02",
@@ -227021,9 +227205,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-march",
@@ -227040,11 +227225,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Conduce al prisionero y cuenta que vendieron a la madre de su hija.",
+          "needsConfirmation": [],
+          "notes": [
+            "Conduce al prisionero y cuenta que vendieron a la madre de su hija."
+          ]
         },
         {
           "id": "ob-parshman-card-player-chapter-20-01",
@@ -227268,9 +227453,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -227287,11 +227473,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Discute con Ton qué hacer con el prisionero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute con Ton qué hacer con el prisionero."
+          ]
         },
         {
           "id": "ob-khen-chapter-17-02",
@@ -227312,9 +227498,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-march",
@@ -227331,11 +227518,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Vigila durante la marcha y reacciona cuando Kaladin se suelta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vigila durante la marcha y reacciona cuando Kaladin se suelta."
+          ]
         },
         {
           "id": "ob-khen-chapter-20-01",
@@ -227605,9 +227792,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-march",
@@ -227624,11 +227812,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Según Syl sigue cerca y quiere que el grupo marche de día; Kaladin no vuelve a verlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Según Syl sigue cerca y quiere que el grupo marche de día; Kaladin no vuelve a verlo."
+          ]
         },
         {
           "id": "ob-yellow-ribbon-spren-chapter-23-02",
@@ -227745,50 +227933,6 @@ window.ATLAS_DATA = {
       ],
       "events": [
         {
-          "id": "ob-captor-daughter-chapter-17-01",
-          "scene": "ob-chapter-17",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Alethkar · Campamento rural de parshmen",
-          "placeId": "place-ob-parsh-camp",
-          "realm": "physical",
-          "placeNotes": [
-            "Sin coordenadas verificadas."
-          ],
-          "xy": null,
-          "kind": "scene",
-          "review": "primary-text",
-          "source": "ob-primary-16-18",
-          "sourceIds": [
-            "ob-primary-16-18"
-          ],
-          "status": "pending",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob-parsh-camp",
-          "coordinateAnchorName": "Alethkar · Campamento rural de parshmen",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "present",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura; sin sincronizar puntos de vista."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-17"
-          },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
-        },
-        {
           "id": "ob-captor-daughter-chapter-17-02",
           "scene": "ob-chapter-17",
           "retrospective": false,
@@ -227807,9 +227951,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-march",
@@ -227826,11 +227971,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Recoge flores y más tarde ofrece agua a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recoge flores y más tarde ofrece agua a Kaladin."
+          ]
         },
         {
           "id": "ob76-captor-daughter-31-1",
@@ -227952,9 +228097,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -227971,55 +228117,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
-        },
-        {
-          "id": "ob-ton-chapter-17-02",
-          "scene": "ob-chapter-17",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 2,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Alethkar · Marcha y alto junto a un río sin identificar",
-          "placeId": "place-ob-parsh-march",
-          "realm": "physical",
-          "placeNotes": [
-            "Sin coordenadas verificadas."
-          ],
-          "xy": null,
-          "kind": "scene",
-          "review": "primary-text",
-          "source": "ob-primary-16-18",
-          "sourceIds": [
-            "ob-primary-16-18"
-          ],
-          "status": "pending",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob-parsh-march",
-          "coordinateAnchorName": "Alethkar · Marcha y alto junto a un río sin identificar",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "present",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura; sin sincronizar puntos de vista."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-17"
-          },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, place-ob-parsh-march",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Discute con Khen y le pregunta si sería capaz de matarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute con Khen y le pregunta si sería capaz de matarlo."
+          ]
         }
       ]
     },
@@ -228054,9 +228156,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228073,11 +228176,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-dalinar-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Espera junto a los aposentos con la guardia del Puente Trece.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera junto a los aposentos con la guardia del Puente Trece."
+          ]
         },
         {
           "id": "ob-rial-chapter-16-03",
@@ -228101,9 +228204,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228120,11 +228224,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Cuenta para iniciar las prácticas de lucha y espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cuenta para iniciar las prácticas de lucha y espada."
+          ]
         }
       ]
     },
@@ -228159,9 +228263,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228178,11 +228283,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Recibe instrucciones de ampliar la zona de entrenamiento y buscar un oponente.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe instrucciones de ampliar la zona de entrenamiento y buscar un oponente."
+          ]
         }
       ]
     },
@@ -228217,9 +228322,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228236,11 +228342,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-urithiru-training-hall",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Vence a Dalinar en el cuadrilátero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vence a Dalinar en el cuadrilátero."
+          ]
         }
       ]
     },
@@ -228272,9 +228378,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob16"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-remote-unknown",
@@ -228291,11 +228398,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-16"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 16, place-ob-remote-unknown",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/16.Envueltotres.xhtml. Negocia a distancia por vinculacaña y pide un acuerdo para devolver lo que considera bienes robados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Negocia a distancia por vinculacaña y pide un acuerdo para devolver lo que considera bienes robados."
+          ]
         }
       ]
     },
@@ -228327,9 +228434,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob17"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-tasinar-escape-memory",
@@ -228346,12 +228454,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-17"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 17, evocación de la fuga de Tasinar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/17.Atrapadosombras.xhtml. Kaladin recuerda su mano y que la fuga duró cinco días.",
+          "needsConfirmation": [],
           "notes": [
-            "Fuga entre la condena y el traslado; fecha y recorrido pendientes."
+            "Kaladin recuerda su mano y que la fuga duró cinco días."
           ]
         }
       ]
@@ -228387,9 +228493,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228406,11 +228513,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-jor-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Habla con Shallan y trata de ayudarla al verla afectada por la bebida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Shallan y trata de ayudarla al verla afectada por la bebida."
+          ]
         }
       ]
     },
@@ -228445,9 +228552,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228464,11 +228572,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-alls-alley",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Reconoce el símbolo que Shallan dibuja y relata las dos muertes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconoce el símbolo que Shallan dibuja y relata las dos muertes."
+          ]
         }
       ]
     },
@@ -228503,9 +228611,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-16-18",
           "sourceIds": [
-            "ob-primary-16-18"
+            "ob-primary-16-18",
+            "primary193-ob18"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228522,11 +228631,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-18"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 18, place-urithiru-alls-alley",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/18.Visiondoble.xhtml. Forcejea con Shallan y luego admite que arrojó a Ned desde la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forcejea con Shallan y luego admite que arrojó a Ned desde la meseta."
+          ]
         }
       ]
     },
@@ -228575,9 +228684,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -228594,11 +228704,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Cruza el salón para reunirse con su hermano Toh.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza el salón para reunirse con su hermano Toh."
+          ]
         },
         {
           "id": "ob75-evi-26-1",
@@ -228776,9 +228886,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -228795,11 +228906,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Pregunta por los asedios, las tormentas y los moldeadores de almas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pregunta por los asedios, las tormentas y los moldeadores de almas."
+          ]
         },
         {
           "id": "ob-toh-chapter-19-03",
@@ -228823,9 +228934,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -228842,11 +228954,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Entrega una bebida a Evi y presencia el ataque desde el otro lado del salón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega una bebida a Evi y presencia el ataque desde el otro lado del salón."
+          ]
         }
       ]
     },
@@ -228881,9 +228993,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-19-21",
           "sourceIds": [
-            "ob-primary-19-21"
+            "ob-primary-19-21",
+            "primary193-ob19"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -228900,11 +229013,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-19"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 19, place-ob-waystop-feast-memory",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/19.Sutilarte.xhtml. Disfrazado de sirviente, intenta apuñalar a Gavilar y muere a manos de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Disfrazado de sirviente, intenta apuñalar a Gavilar y muere a manos de Dalinar."
+          ]
         }
       ]
     },
