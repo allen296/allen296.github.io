@@ -2742,16 +2742,24 @@ window.ATLAS_DATA = {
     "ob-chapter-4": [
       "adolin",
       "aladar",
+      "bridge-thirteen-guards-ob4",
       "chanada",
       "dalinar",
       "elhokar",
+      "evi",
+      "gavilar",
       "kadash",
       "kalami",
+      "ladent",
+      "may-aladar",
       "navani",
       "palona",
       "renarin",
+      "rushu",
       "sebarial",
-      "shallan"
+      "shallan",
+      "stormfather",
+      "teshav"
     ],
     "ob-chapter-5": [
       "aric",
@@ -10292,6 +10300,108 @@ window.ATLAS_DATA = {
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Thakka exclama el nombre de Kelek al acudir a proteger a Dalinar.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Thakka exclama el nombre de Kelek al acudir a proteger a Dalinar.",
         "supersedes": []
+      },
+      {
+        "id": "primary187-stormfather-oaths",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Declara que respeta los juramentos, llama Forjador de Vínculos a Dalinar y ratifica el matrimonio. Dice que Dalinar es el primero en vincularlo en milenios.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-4"
+        },
+        "sourceIds": [
+          "primary187-ob4"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Declara que respeta los juramentos, llama Forjador de Vínculos a Dalinar y ratifica el matrimonio. Dice que Dalinar es el primero en vincularlo en milenios.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Declara que respeta los juramentos, llama Forjador de Vínculos a Dalinar y ratifica el matrimonio. Dice que Dalinar es el primero en vincularlo en milenios.",
+        "supersedes": []
+      },
+      {
+        "id": "primary187-passion-balcony",
+        "entryId": "spren-type-passionspren",
+        "field": "description",
+        "value": "Revolotean como copos cristalinos en el balcón.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-4"
+        },
+        "sourceIds": [
+          "primary187-ob4"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Revolotean como copos cristalinos en el balcón.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Revolotean como copos cristalinos en el balcón.",
+        "supersedes": []
+      },
+      {
+        "id": "primary187-stars-roof",
+        "entryId": "spren-type-starspren",
+        "field": "description",
+        "value": "Zigzaguean en el cielo y componen patrones lejanos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-4"
+        },
+        "sourceIds": [
+          "primary187-ob4"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Zigzaguean en el cielo y componen patrones lejanos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Zigzaguean en el cielo y componen patrones lejanos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary187-awe-roof",
+        "entryId": "spren-type-awespren",
+        "field": "description",
+        "value": "Surgen como anillos de humo azulado sobre los invitados tras los votos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-4"
+        },
+        "sourceIds": [
+          "primary187-ob4"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Surgen como anillos de humo azulado sobre los invitados tras los votos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Surgen como anillos de humo azulado sobre los invitados tras los votos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary187-glory-navani",
+        "entryId": "spren-type-gloryspren",
+        "field": "description",
+        "value": "Rodean a Navani como luces doradas tras los votos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-4"
+        },
+        "sourceIds": [
+          "primary187-ob4"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Rodean a Navani como luces doradas tras los votos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Rodean a Navani como luces doradas tras los votos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary187-joy-adolin",
+        "entryId": "spren-type-joyspren",
+        "field": "description",
+        "value": "Siguen a Adolin con forma de hojas azules.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-4"
+        },
+        "sourceIds": [
+          "primary187-ob4"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Siguen a Adolin con forma de hojas azules.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Siguen a Adolin con forma de hojas azules.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -10934,9 +11044,10 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-4"
       },
       "sourceIds": [
-        "ob-c4"
+        "ob-c4",
+        "primary187-ob4"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [
@@ -10951,7 +11062,8 @@ window.ATLAS_DATA = {
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-four/"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Intercambian votos y el Padre Tormenta los ratifica en la azotea. El capítulo presenta a Navani como esposa al terminar."
     },
     {
       "id": "rel-dalinar-evi-ob-chapter-16",
@@ -21224,14 +21336,15 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "mention89-7b08be8e3b89e4",
-        "mention89-66a22e2a7c33e2"
+        "mention89-66a22e2a7c33e2",
+        "primary187-ob4"
       ],
-      "status": "pending",
-      "certainty": "stated",
+      "status": "confirmed",
+      "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Oposición relatada por Dalinar. Chanada no aparece en la escena."
       ],
       "networkEvidence": {
         "kind": "relationship",
@@ -21240,7 +21353,8 @@ window.ATLAS_DATA = {
           "https://coppermind.net/wiki/Chanada",
           "https://coppermind.net/wiki/Summary%3AOathbringer/Chapter_4?mobileaction=toggle_view_mobile"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar atribuye a Chanada la intervención con Kadash y los demás fervorosos."
     },
     {
       "id": "mention89-rel-harth-111-0",
@@ -26182,9 +26296,10 @@ window.ATLAS_DATA = {
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-c4"
+        "ob-c4",
+        "primary187-ob4"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -26198,7 +26313,8 @@ window.ATLAS_DATA = {
             "navani"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar y Navani intercambian votos en la azotea."
     },
     {
       "id": "interaction-ob-chapter-6-kaladin-lirin-hesina-roshone-24",
@@ -32176,9 +32292,10 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-primary-4-6"
+        "audit-ob-primary-4-6",
+        "primary187-ob4"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -32192,7 +32309,8 @@ window.ATLAS_DATA = {
             "kadash"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Tras la ceremonia, Kadash advierte a Dalinar de que tiene que informar y cuestiona sus afirmaciones sobre el Todopoderoso."
     },
     {
       "id": "audit-ob-interaction-11",
@@ -55468,6 +55586,219 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary187-stormfather-balcony",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "type": "conversation",
+      "summary": "Dalinar pregunta por la tormenta y por las impresiones. El Padre Tormenta responde.",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar pregunta por la tormenta y por las impresiones. El Padre Tormenta responde.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pregunta por la tormenta y por las impresiones. El Padre Tormenta responde.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary187-balcony-and-rooms",
+      "participants": [
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "type": "conversation",
+      "summary": "Conversan sobre las noticias, los votos y los recuerdos de la difunta esposa de Dalinar.",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Conversan sobre las noticias, los votos y los recuerdos de la difunta esposa de Dalinar.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobre las noticias, los votos y los recuerdos de la difunta esposa de Dalinar.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary187-stormfather-elevator",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "type": "conversation",
+      "summary": "Conversan sobre el significado de los juramentos durante la subida.",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Conversan sobre el significado de los juramentos durante la subida.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobre el significado de los juramentos durante la subida.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary187-ceremony-officiant",
+      "participants": [
+        "stormfather",
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "type": "conversation",
+      "summary": "El Padre Tormenta se manifiesta en el cielo y ratifica los votos.",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. El Padre Tormenta se manifiesta en el cielo y ratifica los votos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Padre Tormenta se manifiesta en el cielo y ratifica los votos.",
+        "pairs": [
+          [
+            "stormfather",
+            "dalinar"
+          ],
+          [
+            "stormfather",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary187-elhokar-family",
+      "participants": [
+        "elhokar",
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "type": "conversation",
+      "summary": "Dalinar pide la bendición de su sobrino. Elhokar habla con él y besa y abraza a su madre.",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar pide la bendición de su sobrino. Elhokar habla con él y besa y abraza a su madre.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pide la bendición de su sobrino. Elhokar habla con él y besa y abraza a su madre.",
+        "pairs": [
+          [
+            "elhokar",
+            "dalinar"
+          ],
+          [
+            "elhokar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary187-adolin-congratulates",
+      "participants": [
+        "adolin",
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "type": "conversation",
+      "summary": "Adolin celebra los votos y abraza a ambos.",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Adolin celebra los votos y abraza a ambos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin celebra los votos y abraza a ambos.",
+        "pairs": [
+          [
+            "adolin",
+            "dalinar"
+          ],
+          [
+            "adolin",
+            "navani"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -59093,10 +59424,12 @@ window.ATLAS_DATA = {
       "text": "Antiguo soldado y compañero de Dalinar, ahora ardiente; cuestiona su matrimonio y doctrina.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-4-6"
+        "audit-ob-primary-4-6",
+        "primary187-ob4"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Kadash recuerda que combatió junto a Dalinar y cuestiona la autoridad del Padre Tormenta y las afirmaciones religiosas de Dalinar."
     },
     {
       "id": "audit-ob-profile-10",
@@ -65484,17 +65817,19 @@ window.ATLAS_DATA = {
       "id": "mention89-fact-chanada-110",
       "characterId": "chanada",
       "kind": "background",
-      "text": "Dirige a los ardientes y ordena que no oficien el matrimonio de Dalinar y Navani.",
+      "text": "Superior fervorosa de los campamentos de guerra. Dalinar dice que habló con Kadash e hizo que acudiera a los demás fervorosos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-4"
       },
       "sourceIds": [
         "mention89-7b08be8e3b89e4",
-        "mention89-66a22e2a7c33e2"
+        "mention89-66a22e2a7c33e2",
+        "primary187-ob4"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar la llama superior fervorosa y le atribuye la intervención con Kadash."
     },
     {
       "id": "mention89-fact-harth-111",
@@ -84646,6 +84981,159 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar encuentra las cabezas expuestas después de la batalla y comunica a Sadeas su promesa de impedir el saqueo y la toma de esclavos.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar encuentra las cabezas expuestas después de la batalla y comunica a Sadeas su promesa de impedir el saqueo y la toma de esclavos.",
       "supersedes": []
+    },
+    {
+      "id": "primary187-bridge-thirteen-guards-ob4-intro",
+      "characterId": "bridge-thirteen-guards-ob4",
+      "kind": "background",
+      "text": "Guardias que acompañan a Dalinar y abren las puertas en el piso superior.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Guardias que acompañan a Dalinar y abren las puertas en el piso superior.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Guardias que acompañan a Dalinar y abren las puertas en el piso superior.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-navani-oaths",
+      "characterId": "navani",
+      "kind": "background",
+      "text": "Escribe sus memorias, conversa con Dalinar sobre la tormenta y se casa con él en la azotea.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Escribe sus memorias, conversa con Dalinar sobre la tormenta y se casa con él en la azotea.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Escribe sus memorias, conversa con Dalinar sobre la tormenta y se casa con él en la azotea.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-dalinar-forgotten-wife",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Dice que conserva algunos acontecimientos relacionados con su difunta esposa y que pierde su nombre, rostro y detalles al intentar recordarlos. La conversación lo vincula con la Antigua Magia.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dice que conserva algunos acontecimientos relacionados con su difunta esposa y que pierde su nombre, rostro y detalles al intentar recordarlos. La conversación lo vincula con la Antigua Magia.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dice que conserva algunos acontecimientos relacionados con su difunta esposa y que pierde su nombre, rostro y detalles al intentar recordarlos. La conversación lo vincula con la Antigua Magia.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-first-wife-recalled",
+      "characterId": "evi",
+      "kind": "background",
+      "text": "Navani recuerda que el matrimonio se alentó por la armadura esquirlada. Dalinar no puede retener el nombre ni recordar las circunstancias precisas de su muerte.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Navani recuerda que el matrimonio se alentó por la armadura esquirlada. Dalinar no puede retener el nombre ni recordar las circunstancias precisas de su muerte.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Navani recuerda que el matrimonio se alentó por la armadura esquirlada. Dalinar no puede retener el nombre ni recordar las circunstancias precisas de su muerte.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-ladent-refusal",
+      "characterId": "ladent",
+      "kind": "background",
+      "text": "Navani cuenta que Ladent rechazó oficiar la boda.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Navani cuenta que Ladent rechazó oficiar la boda.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Navani cuenta que Ladent rechazó oficiar la boda.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-rushu-refusal",
+      "characterId": "rushu",
+      "kind": "background",
+      "text": "Navani cuenta que Rushu se marchó al oír la petición.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Navani cuenta que Rushu se marchó al oír la petición.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Navani cuenta que Rushu se marchó al oír la petición.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-teshav-witness",
+      "characterId": "teshav",
+      "kind": "background",
+      "text": "Asiste a la boda como testigo junto con Kalami.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Asiste a la boda como testigo junto con Kalami.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Asiste a la boda como testigo junto con Kalami.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-elhokar-recovery",
+      "characterId": "elhokar",
+      "kind": "background",
+      "text": "Acude a la boda en la azotea mientras sigue convaleciente del atentado.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Acude a la boda en la azotea mientras sigue convaleciente del atentado.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Acude a la boda en la azotea mientras sigue convaleciente del atentado.",
+      "supersedes": []
+    },
+    {
+      "id": "primary187-gavilar-family-recollection",
+      "characterId": "gavilar",
+      "kind": "background",
+      "text": "Dalinar piensa en cómo habría juzgado Gavilar el trato dado a su hijo Elhokar.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-4"
+      },
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar piensa en cómo habría juzgado Gavilar el trato dado a su hijo Elhokar.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar piensa en cómo habría juzgado Gavilar el trato dado a su hijo Elhokar.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -87207,6 +87695,10 @@ window.ATLAS_DATA = {
         {
           "revision": 186,
           "notes": "Se conserva el vínculo de Dalinar y Gavilar. Se documenta la madre mencionada por el lancero y se mantiene como inferencia la filiación de Yezriar. La familia del arquero queda como mención colectiva."
+        },
+        {
+          "revision": 187,
+          "notes": "Votos de Dalinar y Navani y su efecto en la ficha de pareja. El diálogo acredita madre e hijo, tío y sobrino, y la relación de May con Aladar ya documentada. Se conserva la identidad de la difunta esposa según el corte de lectura."
         }
       ]
     }
@@ -90000,7 +90492,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 186,
+  "revision": 187,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -93487,6 +93979,31 @@ window.ATLAS_DATA = {
         "xy": [
           756.972,
           453.279
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "id": "primary187-everstorm-impressions",
+      "characterId": "dalinar",
+      "sceneId": "ob-chapter-4",
+      "type": "perception",
+      "physicalPlaceId": "place-ob4-dalinar-balcony",
+      "experiencedPlace": "Impresiones del paso de la tormenta eterna por Roshar",
+      "sourceIds": [
+        "primary187-ob4"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar percibe impresiones de destrucción y ojos rojos desde el balcón.",
+      "notes": [
+        "El Padre Tormenta afirma que las impresiones son reales. La escena mantiene el cuerpo de Dalinar en el balcón y no individualiza las personas o lugares percibidos."
+      ],
+      "entryAnchor": {
+        "placeId": "place-ob4-dalinar-balcony",
+        "name": "Urithiru · Balcón de los aposentos",
+        "xy": [
+          474.647,
+          410.831
         ],
         "coordinateStatus": "pending-calibration"
       }
@@ -117943,11 +118460,59 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary187-shallan-elevator",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del hueco central",
+          "placeId": "place-ob4-urithiru-elevator",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Ascensor del hueco central",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Sube en el ascensor hacia el piso superior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube en el ascensor hacia el piso superior."
+          ]
+        },
+        {
           "id": "ob-shallan-chapter-4-02",
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -117961,13 +118526,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -117984,11 +118550,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-shallan-chapter-8-01",
@@ -133268,13 +133834,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -133291,59 +133858,59 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar y Navani están en los aposentos antes de salir al balcón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Navani están en los aposentos antes de salir al balcón."
+          ]
         },
         {
-          "id": "ob-dalinar-chapter-4-02",
+          "id": "primary187-dalinar-balcony",
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Cima de la torre",
-          "placeId": "place-urithiru-tower-roof",
+          "place": "Urithiru · Balcón de los aposentos",
+          "placeId": "place-ob4-dalinar-balcony",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Balcón de los aposentos",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob-c4",
+          "review": "primary-text",
+          "source": "primary187-ob4",
           "sourceIds": [
-            "ob-c4",
-            "ob-c4-summary"
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
           "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
           "storyTime": {
-            "relationToStart": "after-start",
             "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
             "date": null,
             "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura, sin afirmar simultaneidad entre tramas."
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Observan la tormenta eterna desde el balcón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observan la tormenta eterna desde el balcón."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-4-03",
@@ -133364,13 +133931,14 @@ window.ATLAS_DATA = {
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -133387,12 +133955,57 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar recuerda a Kadash arrodillado y ensangrentado en La Grieta, Rathalas. La fecha y la causa concreta quedan abiertas.",
+          "needsConfirmation": [],
           "notes": [
             "Recuerdo breve de Kadash arrodillado tras lo ocurrido en La Grieta; no se adelanta la causa ni se fija aún la fecha respecto al asesinato."
+          ]
+        },
+        {
+          "id": "primary187-dalinar-rooms-return",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Regresan a los aposentos y hablan de la memoria de Dalinar y de los juramentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan a los aposentos y hablan de la memoria de Dalinar y de los juramentos."
           ]
         },
         {
@@ -133445,6 +134058,151 @@ window.ATLAS_DATA = {
           ],
           "notes": [
             "Correspondencia de topónimo inferida, pendiente de cotejo. No asignar al recuerdo del 4 los treinta y tres años de la batalla del 11: son episodios distintos."
+          ]
+        },
+        {
+          "id": "primary187-dalinar-elevator",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del hueco central",
+          "placeId": "place-ob4-urithiru-elevator",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Ascensor del hueco central",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Sube en el ascensor hacia el piso superior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube en el ascensor hacia el piso superior."
+          ]
+        },
+        {
+          "id": "ob-dalinar-chapter-4-02",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cima de la torre",
+          "placeId": "place-urithiru-tower-roof",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "ob-c4",
+          "sourceIds": [
+            "ob-c4",
+            "ob-c4-summary",
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "relationToStart": "after-start",
+            "frame": "present",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden de lectura, sin afirmar simultaneidad entre tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
+        },
+        {
+          "id": "primary187-dalinar-descent",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Descenso desde la azotea",
+          "placeId": "place-ob4-roof-descent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Descenso desde la azotea",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Baja de la azotea hacia el nivel inferior, donde se ha dispuesto el banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Baja de la azotea hacia el nivel inferior, donde se ha dispuesto el banquete."
           ]
         },
         {
@@ -140946,11 +141704,59 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary187-adolin-elevator",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del hueco central",
+          "placeId": "place-ob4-urithiru-elevator",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Ascensor del hueco central",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Sube en el ascensor hacia el piso superior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube en el ascensor hacia el piso superior."
+          ]
+        },
+        {
           "id": "ob-adolin-chapter-4-02",
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -140964,13 +141770,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140987,11 +141794,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-adolin-chapter-8-02",
@@ -144557,11 +145364,59 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary187-renarin-elevator",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del hueco central",
+          "placeId": "place-ob4-urithiru-elevator",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Ascensor del hueco central",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Sube en el ascensor hacia el piso superior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube en el ascensor hacia el piso superior."
+          ]
+        },
+        {
           "id": "ob-renarin-chapter-4-02",
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -144575,13 +145430,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -144598,11 +145454,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-renarin-chapter-8-02",
@@ -147095,7 +147951,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -147109,13 +147965,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147132,11 +147989,59 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
+        },
+        {
+          "id": "primary187-elhokar-descent",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Descenso desde la azotea",
+          "placeId": "place-ob4-roof-descent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Descenso desde la azotea",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Se retira hacia abajo tras felicitar a su madre y a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se retira hacia abajo tras felicitar a su madre y a Dalinar."
+          ]
         },
         {
           "id": "ob-elhokar-chapter-12-01",
@@ -151970,13 +152875,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -151993,18 +152899,113 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar y Navani están en los aposentos antes de salir al balcón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Navani están en los aposentos antes de salir al balcón."
+          ]
+        },
+        {
+          "id": "primary187-navani-balcony",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Balcón de los aposentos",
+          "placeId": "place-ob4-dalinar-balcony",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Balcón de los aposentos",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Observan la tormenta eterna desde el balcón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observan la tormenta eterna desde el balcón."
+          ]
+        },
+        {
+          "id": "primary187-navani-rooms-return",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Regresan a los aposentos y hablan de la memoria de Dalinar y de los juramentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresan a los aposentos y hablan de la memoria de Dalinar y de los juramentos."
+          ]
         },
         {
           "id": "ob-navani-chapter-4-02",
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -152018,13 +153019,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -152041,11 +153043,59 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
+        },
+        {
+          "id": "primary187-navani-descent",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Descenso desde la azotea",
+          "placeId": "place-ob4-roof-descent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Descenso desde la azotea",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Baja de la azotea hacia el nivel inferior, donde se ha dispuesto el banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Baja de la azotea hacia el nivel inferior, donde se ha dispuesto el banquete."
+          ]
         },
         {
           "id": "ob-navani-chapter-7-01",
@@ -186831,7 +187881,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -186845,13 +187895,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -186868,11 +187919,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-aladar-chapter-12-01",
@@ -198630,7 +199681,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -198644,13 +199695,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -198667,11 +199719,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-sebarial-chapter-21-02",
@@ -199258,7 +200310,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -199272,13 +200324,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -199295,11 +200348,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-palona-chapter-21-02",
@@ -217758,54 +218811,6 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ob-kadash-chapter-4-02",
-          "scene": "ob-chapter-4",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 2,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Urithiru · Cima de la torre",
-          "placeId": "place-urithiru-tower-roof",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
-          ],
-          "xy": [
-            474.647,
-            410.831
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob-c4",
-          "sourceIds": [
-            "ob-c4",
-            "ob-c4-summary"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "city-anchor",
-          "coordinateAnchorId": "place-urithiru",
-          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "present",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura, sin afirmar simultaneidad entre tramas."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-4"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
-        },
-        {
           "id": "ob-kadash-chapter-4-03",
           "scene": "ob-chapter-4",
           "retrospective": false,
@@ -217824,13 +218829,14 @@ window.ATLAS_DATA = {
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -217847,10 +218853,8 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar recuerda a Kadash arrodillado y ensangrentado en La Grieta, Rathalas. La fecha y la causa concreta quedan abiertas.",
+          "needsConfirmation": [],
           "notes": [
             "Recuerdo breve de Kadash arrodillado tras lo ocurrido en La Grieta; no se adelanta la causa ni se fija aún la fecha respecto al asesinato."
           ]
@@ -217905,6 +218909,55 @@ window.ATLAS_DATA = {
           ],
           "notes": [
             "Correspondencia de topónimo inferida, pendiente de cotejo. No asignar al recuerdo del 4 los treinta y tres años de la batalla del 11: son episodios distintos."
+          ]
+        },
+        {
+          "id": "ob-kadash-chapter-4-02",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cima de la torre",
+          "placeId": "place-urithiru-tower-roof",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "ob-c4",
+          "sourceIds": [
+            "ob-c4",
+            "ob-c4-summary",
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "relationToStart": "after-start",
+            "frame": "present",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden de lectura, sin afirmar simultaneidad entre tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
           ]
         },
         {
@@ -218795,7 +219848,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-4",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Cima de la torre",
@@ -218809,13 +219862,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c4",
           "sourceIds": [
             "ob-c4",
-            "ob-c4-summary"
+            "ob-c4-summary",
+            "primary187-ob4"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -218832,11 +219886,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-4"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencia en la ceremonia de la azotea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencia en la ceremonia de la azotea."
+          ]
         },
         {
           "id": "ob-kalami-chapter-12-01",
@@ -219747,6 +220801,53 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary187-may-aladar-ceremony",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cima de la torre",
+          "placeId": "place-urithiru-tower-roof",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Asiste con su padre Aladar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste con su padre Aladar."
+          ]
+        },
+        {
           "id": "ob-may-aladar-chapter-12-01",
           "scene": "ob-chapter-12",
           "retrospective": false,
@@ -219990,6 +221091,53 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la reunión cuando regresa Adolin; Teleb observa desde un lado."
+          ]
+        },
+        {
+          "id": "primary187-teshav-ceremony",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cima de la torre",
+          "placeId": "place-urithiru-tower-roof",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Asiste como testigo junto a Kalami.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste como testigo junto a Kalami."
           ]
         },
         {
@@ -259622,6 +260770,112 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
       "events": []
+    },
+    {
+      "id": "bridge-thirteen-guards-ob4",
+      "name": "Guardias del Puente Trece en la boda",
+      "role": "Guardias que acompañan a Dalinar y abren las puertas en el piso superior.",
+      "initial": "G",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary187-guards-elevator",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del hueco central",
+          "placeId": "place-ob4-urithiru-elevator",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Urithiru · Ascensor del hueco central",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Acompañan a Dalinar en el ascensor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompañan a Dalinar en el ascensor."
+          ]
+        },
+        {
+          "id": "primary187-guards-ceremony",
+          "scene": "ob-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cima de la torre",
+          "placeId": "place-urithiru-tower-roof",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary187-ob4",
+          "sourceIds": [
+            "primary187-ob4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Dos días después del hallazgo del cadáver de Sadeas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-4"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Presencian la manifestación del Padre Tormenta y flaquean al terminar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presencian la manifestación del Padre Tormenta y flaquean al terminar."
+          ]
+        }
+      ]
     }
   ]
 };
