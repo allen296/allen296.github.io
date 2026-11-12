@@ -2763,9 +2763,14 @@ window.ATLAS_DATA = {
     ],
     "ob-chapter-5": [
       "aric",
+      "elhokar",
       "kaladin",
+      "moash",
       "roshone",
-      "syl"
+      "sabecojo-ob5",
+      "syl",
+      "syl-honorspren-aunt-ob5",
+      "tien"
     ],
     "ob-chapter-6": [
       "aric",
@@ -3734,6 +3739,10 @@ window.ATLAS_DATA = {
       },
       {
         "id": "spren-type-concentrationspren",
+        "section": "spren-types"
+      },
+      {
+        "id": "spren-type-melancholyspren",
         "section": "spren-types"
       }
     ],
@@ -10401,6 +10410,91 @@ window.ATLAS_DATA = {
         "status": "confirmed",
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Siguen a Adolin con forma de hojas azules.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Siguen a Adolin con forma de hojas azules.",
+        "supersedes": []
+      },
+      {
+        "id": "primary188-melancholyspren-name",
+        "entryId": "spren-type-melancholyspren",
+        "field": "name",
+        "value": "Melancospren",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-5"
+        },
+        "sourceIds": [
+          "primary188-ob5"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Melancospren",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Melancospren",
+        "supersedes": []
+      },
+      {
+        "id": "primary188-melancholyspren-appearance",
+        "entryId": "spren-type-melancholyspren",
+        "field": "description",
+        "value": "Syl lo nombra al verlo. Kaladin lo describe como un banderín gris, largo y deshilachado.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-5"
+        },
+        "sourceIds": [
+          "primary188-ob5"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Syl lo nombra al verlo. Kaladin lo describe como un banderín gris, largo y deshilachado.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Syl lo nombra al verlo. Kaladin lo describe como un banderín gris, largo y deshilachado.",
+        "supersedes": []
+      },
+      {
+        "id": "primary188-lifespren-field",
+        "entryId": "spren-type-lifespren",
+        "field": "description",
+        "value": "Salpican el prado como motas de polvo verde.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-5"
+        },
+        "sourceIds": [
+          "primary188-ob5"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Salpican el prado como motas de polvo verde.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Salpican el prado como motas de polvo verde.",
+        "supersedes": []
+      },
+      {
+        "id": "primary188-rainspren-puddles",
+        "entryId": "spren-type-rainspren",
+        "field": "description",
+        "value": "Crecen en los charcos como velas azules con ojos en la punta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-5"
+        },
+        "sourceIds": [
+          "primary188-ob5"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Crecen en los charcos como velas azules con ojos en la punta.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Crecen en los charcos como velas azules con ojos en la punta.",
+        "supersedes": []
+      },
+      {
+        "id": "primary188-syl-piedralar",
+        "entryId": "spren-person-syl",
+        "field": "description",
+        "value": "Alterna formas durante el camino. Recuerda a una honorspren cuyo nombre ha olvidado y explica el apelativo afectivo de tía.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-5"
+        },
+        "sourceIds": [
+          "primary188-ob5"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Alterna formas durante el camino. Recuerda a una honorspren cuyo nombre ha olvidado y explica el apelativo afectivo de tía.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Alterna formas durante el camino. Recuerda a una honorspren cuyo nombre ha olvidado y explica el apelativo afectivo de tía.",
         "supersedes": []
       }
     ],
@@ -19003,8 +19097,8 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-5"
       },
-      "status": "pending",
-      "certainty": "stated",
+      "status": "inferred",
+      "certainty": "inferred",
       "state": "known",
       "supersedes": [],
       "notes": [
@@ -19012,15 +19106,14 @@ window.ATLAS_DATA = {
       ],
       "sourceIds": [
         "audit87-p3-source-13",
-        "audit87-source-8a41bb09d1638b"
+        "audit87-source-8a41bb09d1638b",
+        "primary188-ob5"
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto employer: Señor → guardia. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Aric"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "La presencia en la mansión no acredita que el guardia sirva a Roshone en este capítulo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. El guardia sale de la mansión, pero Kaladin todavía se pregunta quién lo ha enviado."
     },
     {
       "id": "audit87-p3-rel-teshav-halam-khal-chapter-16",
@@ -32323,29 +32416,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-5"
       },
       "type": "encounter",
-      "summary": "Aric conduce al desconocido Kaladin al interior de la mansión.",
+      "summary": "El guardia del casco oxidado descubre a Kaladin y lo conduce al interior.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-aric"
+        "audit-ob-aric",
+        "primary188-ob5"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Aric conduce al desconocido Kaladin al interior de la mansión. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Aric"
-        ],
         "pairs": [
           [
             "aric",
             "kaladin"
           ]
-        ]
-      }
+        ],
+        "reason": "El guardia del casco oxidado descubre a Kaladin y lo conduce al interior."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. El guardia del casco oxidado descubre a Kaladin y lo conduce al interior."
     },
     {
       "id": "audit-ob-interaction-14",
@@ -55799,6 +55891,39 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary188-kaladin-syl-walk",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "type": "conversation",
+      "summary": "Examinan los restos y hablan de Piedralar, del cambio de color de los ojos y de los recuerdos de Syl.",
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Examinan los restos y hablan de Piedralar, del cambio de color de los ojos y de los recuerdos de Syl.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Examinan los restos y hablan de Piedralar, del cambio de color de los ojos y de los recuerdos de Syl.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -59438,13 +59563,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-5"
       },
-      "text": "Guardia de Roshone: descubre a Kaladin junto al alojamiento de los parshmen.",
+      "text": "Un guardia humano de casco oxidado sorprende a Kaladin junto al alojamiento y lo conduce al interior.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-aric"
+        "audit-ob-aric",
+        "primary188-ob5"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Un guardia humano de casco oxidado sorprende a Kaladin y lo conduce al interior."
     },
     {
       "id": "audit-ob-profile-12",
@@ -85134,6 +85261,142 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar piensa en cómo habría juzgado Gavilar el trato dado a su hijo Elhokar.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/4.Juramento.xhtml. Dalinar piensa en cómo habría juzgado Gavilar el trato dado a su hijo Elhokar.",
       "supersedes": []
+    },
+    {
+      "id": "primary188-sabecojo-ob5-intro",
+      "characterId": "sabecojo-ob5",
+      "kind": "background",
+      "text": "Kaladin atribuye a Sabecojo los campos que divisa. La escena muestra los campos.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin atribuye a Sabecojo los campos que divisa. La escena muestra los campos.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin atribuye a Sabecojo los campos que divisa. La escena muestra los campos.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-syl-honorspren-aunt-ob5-intro",
+      "characterId": "syl-honorspren-aunt-ob5",
+      "kind": "background",
+      "text": "Syl recuerda a una honorspren de nombre olvidado y aclara que el apelativo tía era afectivo.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Syl recuerda a una honorspren de nombre olvidado y aclara que el apelativo tía era afectivo.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Syl recuerda a una honorspren de nombre olvidado y aclara que el apelativo tía era afectivo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-kaladin-route-report",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Recuerda haber pasado por la Puerta Jurada cuatro días antes, volar hacia el noroeste y quedarse sin luz tormentosa en algún lugar del principado de Aladar. El resto del trayecto fue a pie. Durante la tormenta se refugió en un sepulcro que vació con Syl como hoja.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Recuerda haber pasado por la Puerta Jurada cuatro días antes, volar hacia el noroeste y quedarse sin luz tormentosa en algún lugar del principado de Aladar. El resto del trayecto fue a pie. Durante la tormenta se refugió en un sepulcro que vació con Syl como hoja.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Recuerda haber pasado por la Puerta Jurada cuatro días antes, volar hacia el noroeste y quedarse sin luz tormentosa en algún lugar del principado de Aladar. El resto del trayecto fue a pie. Durante la tormenta se refugió en un sepulcro que vació con Syl como hoja.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-tien-recalled",
+      "characterId": "tien",
+      "kind": "background",
+      "text": "Kaladin recuerda que jugaba en campos de hierba alta con su hermano.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin recuerda que jugaba en campos de hierba alta con su hermano.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin recuerda que jugaba en campos de hierba alta con su hermano.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-roshone-mansion",
+      "characterId": "roshone",
+      "kind": "background",
+      "text": "Kaladin identifica la mansión como la de Roshone y recuerda su autoridad en Piedralar. Se pregunta qué habrá sido de él.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin identifica la mansión como la de Roshone y recuerda su autoridad en Piedralar. Se pregunta qué habrá sido de él.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin identifica la mansión como la de Roshone y recuerda su autoridad en Piedralar. Se pregunta qué habrá sido de él.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-moash-recalled",
+      "characterId": "moash",
+      "kind": "background",
+      "text": "Kaladin recuerda la traición de Moash y el atentado contra Elhokar.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin recuerda la traición de Moash y el atentado contra Elhokar.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin recuerda la traición de Moash y el atentado contra Elhokar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-elhokar-attempt-recalled",
+      "characterId": "elhokar",
+      "kind": "background",
+      "text": "Kaladin recuerda que el intento de asesinato de Elhokar fracasó.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin recuerda que el intento de asesinato de Elhokar fracasó.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin recuerda que el intento de asesinato de Elhokar fracasó.",
+      "supersedes": []
+    },
+    {
+      "id": "primary188-syl-forms",
+      "characterId": "syl",
+      "kind": "background",
+      "text": "Se muestra como lazo o cinta de luz, joven con havah, nube y réplica de un lurg. Recuerda a la honorspren a la que llamaba tía.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-5"
+      },
+      "sourceIds": [
+        "primary188-ob5"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Se muestra como lazo o cinta de luz, joven con havah, nube y réplica de un lurg. Recuerda a la honorspren a la que llamaba tía.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Se muestra como lazo o cinta de luz, joven con havah, nube y réplica de un lurg. Recuerda a la honorspren a la que llamaba tía.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -87699,6 +87962,10 @@ window.ATLAS_DATA = {
         {
           "revision": 187,
           "notes": "Votos de Dalinar y Navani y su efecto en la ficha de pareja. El diálogo acredita madre e hijo, tío y sobrino, y la relación de May con Aladar ya documentada. Se conserva la identidad de la difunta esposa según el corte de lectura."
+        },
+        {
+          "revision": 188,
+          "notes": "Kaladin recuerda a su hermano. Syl aclara que tía era un apelativo y no acredita parentesco. Se registra la honorspren como mención."
         }
       ]
     }
@@ -90492,7 +90759,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 187,
+  "revision": 188,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -105607,24 +105874,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · población y alrededores del recuerdo",
-          "placeId": "place-hearthstone-village-memory",
+          "place": "Piedralar · Campo con escombros",
+          "placeId": "place-ob5-hearthstone-debris-field",
           "realm": "physical",
           "placeNotes": [
-            "No se afirma una plaza o edificio concreto. Anclaje regional de Alethkar; localidad sin precisar en el mapa."
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Campo con escombros",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary188-ob5"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -105641,11 +105910,297 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-5"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin y Syl examinan restos en el campo.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary188-kaladin-creek",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Altura frente al arroyo del Cojo",
+          "placeId": "place-ob5-limping-creek-fields",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Altura frente al arroyo del Cojo",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin divisa el arroyo que cree reconocer y señala los campos de Sabecojo mientras habla con Syl.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin divisa el arroyo que cree reconocer y señala los campos de Sabecojo mientras habla con Syl."
+          ]
+        },
+        {
+          "id": "primary188-kaladin-last-hill",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Última colina de lavis",
+          "placeId": "place-ob5-hearthstone-lavis-hill",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Última colina de lavis",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Desde la colina de lavis contempla Piedralar en ruinas y busca su casa con la mirada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desde la colina de lavis contempla Piedralar en ruinas y busca su casa con la mirada."
+          ]
+        },
+        {
+          "id": "primary188-kaladin-approach",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Cuesta hacia la mansión",
+          "placeId": "place-ob5-roshone-mansion-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Cuesta hacia la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin bordea el pueblo por el noroeste. En la cuesta, él y Syl observan un melancospren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin bordea el pueblo por el noroeste. En la cuesta, él y Syl observan un melancospren."
+          ]
+        },
+        {
+          "id": "primary188-kaladin-quarters",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Alojamiento junto a la mansión",
+          "placeId": "place-ob5-parshmen-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Alojamiento junto a la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Rodea la mansión por el norte y encuentra un agujero en el alojamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rodea la mansión por el norte y encuentra un agujero en el alojamiento."
+          ]
+        },
+        {
+          "id": "primary188-kaladin-back-door",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puerta trasera de la mansión",
+          "placeId": "place-ob5-mansion-back-door",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Puerta trasera de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Se oculta tras la cortezapizarra cuando se abre la puerta trasera.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se oculta tras la cortezapizarra cuando se abre la puerta trasera."
+          ]
+        },
+        {
+          "id": "primary188-kaladin-mansion-entry",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Hearthstone · Mansión de Roshone",
+          "placeId": "place-hearthstone-mansion-de-roshone",
+          "realm": "physical",
+          "placeNotes": [
+            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
+            "Representación regional de Alethkar; ubicación exacta sin localizar."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. El guardia lo mete en el edificio al final del capítulo.",
+          "needsConfirmation": [],
+          "notes": [
+            "El guardia lo mete en el edificio al final del capítulo."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-6-01",
@@ -127052,24 +127607,26 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · población y alrededores del recuerdo",
-          "placeId": "place-hearthstone-village-memory",
+          "place": "Piedralar · Campo con escombros",
+          "placeId": "place-ob5-hearthstone-debris-field",
           "realm": "physical",
           "placeNotes": [
-            "No se afirma una plaza o edificio concreto. Anclaje regional de Alethkar; localidad sin precisar en el mapa."
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Campo con escombros",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary188-ob5"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -127086,11 +127643,105 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-5"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin y Syl examinan restos en el campo.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary188-syl-creek",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Altura frente al arroyo del Cojo",
+          "placeId": "place-ob5-limping-creek-fields",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Altura frente al arroyo del Cojo",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin divisa el arroyo que cree reconocer y señala los campos de Sabecojo mientras habla con Syl.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin divisa el arroyo que cree reconocer y señala los campos de Sabecojo mientras habla con Syl."
+          ]
+        },
+        {
+          "id": "primary188-syl-approach",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Cuesta hacia la mansión",
+          "placeId": "place-ob5-roshone-mansion-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Cuesta hacia la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Kaladin bordea el pueblo por el noroeste. En la cuesta, él y Syl observan un melancospren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin bordea el pueblo por el noroeste. En la cuesta, él y Syl observan un melancospren."
+          ]
         },
         {
           "id": "ob-syl-chapter-6-01",
@@ -219327,40 +219978,55 @@ window.ATLAS_DATA = {
     },
     {
       "id": "aric",
-      "name": "Aric",
-      "initial": "A",
-      "role": "Guardia de Hearthstone",
+      "name": "Guardia del casco oxidado",
+      "initial": "G",
+      "role": "Guardia que encuentra a Kaladin en la mansión de Piedralar",
       "color": "#aab8ca",
       "importance": "tertiary",
       "importanceReason": "Su intervención documentada se concentra en la entrada de Kaladin en Hearthstone.",
+      "nameRevelations": [
+        {
+          "name": "Aric",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-7"
+          },
+          "sourceIds": [
+            "primary188-ob7-guard-naming"
+          ],
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/7.Unvigilante.xhtml. El diálogo nombra a Aric e identifica al guardia del casco oxidado."
+        }
+      ],
       "events": [
         {
           "id": "ob-aric-chapter-5-01",
           "scene": "ob-chapter-5",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hearthstone · Mansión de Roshone",
-          "placeId": "place-hearthstone-mansion-de-roshone",
+          "place": "Piedralar · Puerta trasera de la mansión",
+          "placeId": "place-ob5-mansion-back-door",
           "realm": "physical",
           "placeNotes": [
-            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
-            "Representación regional de Alethkar; ubicación exacta sin localizar."
+            "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Piedralar · Puerta trasera de la mansión",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c5-6",
           "sourceIds": [
             "ob-c5-6",
-            "ob-summary"
+            "ob-summary",
+            "primary188-ob5"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -219377,11 +220043,57 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-5"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. Sale de la puerta trasera con una lámpara y una maza. Kaladin no lo reconoce.",
+          "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary188-guard-mansion-entry",
+          "scene": "ob-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Hearthstone · Mansión de Roshone",
+          "placeId": "place-hearthstone-mansion-de-roshone",
+          "realm": "physical",
+          "placeNotes": [
+            "Topónimo o dependencia pendiente de cotejo con la edición y de calibración.",
+            "Representación regional de Alethkar; ubicación exacta sin localizar."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary188-ob5",
+          "sourceIds": [
+            "primary188-ob5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "relativeYearsBeforePresent": null,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Tras el paso de la tormenta eterna por los alrededores de Piedralar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-5"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/5.Piedralar.xhtml. El guardia conduce a Kaladin al interior.",
+          "needsConfirmation": [],
+          "notes": [
+            "El guardia conduce a Kaladin al interior."
+          ]
         },
         {
           "id": "ob-aric-chapter-6-01",
@@ -260876,6 +261588,26 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "sabecojo-ob5",
+      "name": "Sabecojo",
+      "role": "Kaladin atribuye a Sabecojo los campos que divisa. La escena muestra los campos.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "syl-honorspren-aunt-ob5",
+      "name": "Honorspren a la que Syl llamaba tía",
+      "role": "Syl recuerda a una honorspren de nombre olvidado y aclara que el apelativo tía era afectivo.",
+      "initial": "H",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
     }
   ]
 };
