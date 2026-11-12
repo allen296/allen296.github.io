@@ -2991,8 +2991,8 @@
       "dalinar",
       "evi",
       "malata",
-      "mrall",
       "navani",
+      "nightwatcher",
       "taravangian",
       "teshav",
       "tezim"
@@ -3021,6 +3021,7 @@
     ],
     "ob-chapter-27": [
       "adolin",
+      "aladar",
       "amaram",
       "dalinar",
       "elhokar",
@@ -3033,6 +3034,7 @@
       "pattern",
       "red",
       "renarin",
+      "ruthar",
       "shallan",
       "shob",
       "spark",
@@ -11146,6 +11148,142 @@
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Se deja ver como una mujer diminuta de brillo amarillo. Avanza sobre agujas doradas que surgen bajo sus pies y se presenta como mensajera. Su identidad sigue abierta.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/23.Rarotormentas.xhtml. Se deja ver como una mujer diminuta de brillo amarillo. Avanza sobre agujas doradas que surgen bajo sus pies y se presenta como mensajera. Su identidad sigue abierta.",
         "supersedes": []
+      },
+      {
+        "id": "primary195-nightwatcher-dalinar",
+        "entryId": "spren-person-nightwatcher",
+        "field": "description",
+        "value": "Dalinar recuerda haber pedido que le quitaran el dolor. Él y Navani discuten si su trato con la Vigilante Nocturna explica la pérdida de recuerdos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-24"
+        },
+        "sourceIds": [
+          "primary195-ob24"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Dalinar recuerda haber pedido que le quitaran el dolor. Él y Navani discuten si su trato con la Vigilante Nocturna explica la pérdida de recuerdos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Dalinar recuerda haber pedido que le quitaran el dolor. Él y Navani discuten si su trato con la Vigilante Nocturna explica la pérdida de recuerdos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-wind-platform",
+        "entryId": "spren-type-windspren",
+        "field": "appearance",
+        "value": "Dos vientospren danzan cerca de Dalinar en la explanada.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-24"
+        },
+        "sourceIds": [
+          "primary195-ob24"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Dos vientospren danzan cerca de Dalinar en la explanada.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Dos vientospren danzan cerca de Dalinar en la explanada.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-creation-theater",
+        "entryId": "spren-type-creationspren",
+        "field": "appearance",
+        "value": "Aparecen en los bancos mientras Shallan amplía la ilusión.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-25"
+        },
+        "sourceIds": [
+          "primary195-ob25"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Aparecen en los bancos mientras Shallan amplía la ilusión.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Aparecen en los bancos mientras Shallan amplía la ilusión.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-music-ryshadium",
+        "entryId": "spren-type-musicspren",
+        "field": "appearance",
+        "value": "Dalinar ve musispren revoloteando tras unos ryshadios.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-26"
+        },
+        "sourceIds": [
+          "primary195-ob26"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Dalinar ve musispren revoloteando tras unos ryshadios.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Dalinar ve musispren revoloteando tras unos ryshadios.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-passion-battle",
+        "entryId": "spren-type-passionspren",
+        "field": "appearance",
+        "value": "Caen como copos cristalinos alrededor de Dalinar después del combate.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-26"
+        },
+        "sourceIds": [
+          "primary195-ob26"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Caen como copos cristalinos alrededor de Dalinar después del combate.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Caen como copos cristalinos alrededor de Dalinar después del combate.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-shame-battle",
+        "entryId": "spren-type-shamespren",
+        "field": "appearance",
+        "value": "Dalinar ve un solo spren con forma de pétalo al avergonzarse tras reconocer a Gavilar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-26"
+        },
+        "sourceIds": [
+          "primary195-ob26"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Dalinar ve un solo spren con forma de pétalo al avergonzarse tras reconocer a Gavilar.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Dalinar ve un solo spren con forma de pétalo al avergonzarse tras reconocer a Gavilar.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-chispa-mention",
+        "entryId": "spren-person-spark",
+        "field": "description",
+        "value": "Malata dice que Chispa le sugirió ir a Urithiru. Shallan no lo ve durante la conversación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-27"
+        },
+        "sourceIds": [
+          "primary195-ob27"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Malata dice que Chispa le sugirió ir a Urithiru. Shallan no lo ve durante la conversación.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Malata dice que Chispa le sugirió ir a Urithiru. Shallan no lo ve durante la conversación.",
+        "supersedes": []
+      },
+      {
+        "id": "primary195-creation-auditorium",
+        "entryId": "spren-type-creationspren",
+        "field": "appearance",
+        "value": "Aparecen sobre el cuaderno de Shallan mientras dibuja en el auditorio.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-27"
+        },
+        "sourceIds": [
+          "primary195-ob27"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Aparecen sobre el cuaderno de Shallan mientras dibuja en el auditorio.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Aparecen sobre el cuaderno de Shallan mientras dibuja en el auditorio.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -15956,20 +16094,21 @@
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "El relato identifica a Loradar Vamah como primo de Kalanor."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cousin: Primos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ]
-      }
+        "reason": "El relato identifica a Loradar Vamah como primo de Kalanor."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. El relato identifica a Loradar Vamah como primo de Kalanor."
     },
     {
       "id": "ob75-rel-ialai-ialai-nephew-27",
@@ -15983,22 +16122,21 @@
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Sobrino y heredero menor de edad. No se identifican sus progenitores ni se afirma que Amaram sea un familiar."
+        "Ialai llama sobrino a su heredero y dice que es demasiado joven para dirigir la casa."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto uncle: Tía → sobrino. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ]
-      }
+        "reason": "Ialai llama sobrino a su heredero y dice que es demasiado joven para dirigir la casa."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Ialai llama sobrino a su heredero y dice que es demasiado joven para dirigir la casa."
     },
     {
       "id": "ob75-rel-ialai-amaram-27",
@@ -16012,20 +16150,21 @@
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ialai nombra a Amaram regente y heredero del título. Es un nombramiento político."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Regencia de la Casa Sadeas. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ]
-      }
+        "reason": "Ialai nombra a Amaram regente y heredero del título. Es un nombramiento político."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Ialai nombra a Amaram regente y heredero del título. Es un nombramiento político."
     },
     {
       "id": "ob75-rel-malata-spark-27",
@@ -16039,22 +16178,21 @@
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Vínculo social entre humano y spren; no parentesco. Sin anticipar juramentos, identidad u origen posteriores."
+        "Malata llama Chispa a su spren y dice que le sugirió acudir a Urithiru."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto companion: Vínculo Nahel declarado por Malata. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ]
-      }
+        "reason": "Malata llama Chispa a su spren y dice que le sugirió acudir a Urithiru."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Malata llama Chispa a su spren y dice que le sugirió acudir a Urithiru."
     },
     {
       "id": "ob75-rel-renarin-glys-29",
@@ -20522,22 +20660,21 @@
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "audit87-source-29404fe233c850"
+        "audit87-source-29404fe233c850",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Fuente secundaria con capítulo localizado; pendiente de cotejo primario."
+        "Shob forma parte del grupo de soldados que Shallan visita en el cuartel."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Patrona y soldado de su guardia. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Shob"
-        ]
-      }
+        "reason": "Shob forma parte del grupo de soldados que Shallan visita en el cuartel."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Shob forma parte del grupo de soldados que Shallan visita en el cuartel."
     },
     {
       "id": "audit88-nale-makabaki-initiate-ed9",
@@ -22519,22 +22656,21 @@
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "mention89-4f35c7ce21748e"
+        "mention89-4f35c7ce21748e",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Rien es uno de los soldados de Dalinar y le pide órdenes antes del asalto."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Soldado a las órdenes de Dalinar. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Rien"
-        ]
-      }
+        "reason": "Rien es uno de los soldados de Dalinar y le pide órdenes antes del asalto."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Rien es uno de los soldados de Dalinar y le pide órdenes antes del asalto."
     },
     {
       "id": "mention89-rel-fullnight-131-0",
@@ -28022,37 +28158,40 @@
         "sceneId": "ob-chapter-24"
       },
       "type": "encounter",
-      "summary": "Llegada y presentación de la comitiva.",
+      "summary": "Dalinar recibe a la delegación; Adrotagia llama la atención de Taravangian sobre Malata y el rey la presenta.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Llegada y presentación de la comitiva. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "Dalinar recibe a la delegación; Adrotagia llama la atención de Taravangian sobre Malata y el rey la presenta.",
         "pairs": [
           [
             "dalinar",
             "taravangian"
           ],
           [
-            "dalinar",
+            "taravangian",
             "adrotagia"
           ],
           [
             "dalinar",
             "malata"
+          ],
+          [
+            "taravangian",
+            "malata"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Dalinar recibe a la delegación; Adrotagia llama la atención de Taravangian sobre Malata y el rey la presenta."
     },
     {
       "id": "interaction-ob-chapter-24-dalinar-navani-taravangian-adrotagia-teshav-49",
@@ -28068,41 +28207,48 @@
         "sceneId": "ob-chapter-24"
       },
       "type": "conversation",
-      "summary": "Conversación en la Sala de Iniciación.",
+      "summary": "Teshav explica la sala a la delegación y Dalinar y Navani hablan con Taravangian y Adrotagia.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversación en la Sala de Iniciación. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
+        "reason": "Teshav explica la sala a la delegación y Dalinar y Navani hablan con Taravangian y Adrotagia.",
         "pairs": [
-          [
-            "dalinar",
-            "taravangian"
-          ],
           [
             "dalinar",
             "navani"
           ],
           [
             "dalinar",
+            "taravangian"
+          ],
+          [
+            "navani",
+            "taravangian"
+          ],
+          [
+            "navani",
             "adrotagia"
           ],
           [
-            "dalinar",
-            "teshav"
+            "teshav",
+            "taravangian"
+          ],
+          [
+            "teshav",
+            "adrotagia"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Teshav explica la sala a la delegación y Dalinar y Navani hablan con Taravangian y Adrotagia."
     },
     {
       "id": "interaction-wor-chapter-24-shallan-tyn",
@@ -33496,29 +33642,22 @@
         "sceneId": "ob-chapter-24"
       },
       "type": "message",
-      "summary": "Su mensaje es leído ante Dalinar y la delegación.",
+      "summary": "Se lee la advertencia atribuida a Tezim.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
-        "kind": "interaction",
-        "reason": "Es una comunicación de Tezim dirigida a Dalinar y leída por su equipo: mensaje con destinatario real, no lectura de un libro ni cita académica. No implica encuentro presencial.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-22-24/"
-        ],
-        "pairs": [
-          [
-            "tezim",
-            "dalinar"
-          ]
-        ]
-      }
+        "kind": "mention-only",
+        "reason": "Lectura de una proclama; no hubo diálogo entre Tezim y Dalinar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Navani lee una proclama atribuida a Tezim. El capítulo no presenta un diálogo con él."
     },
     {
       "id": "ob75-interaction-25-0",
@@ -33527,7 +33666,7 @@
         "pattern"
       ],
       "type": "conversation",
-      "summary": "Comenta el cuento representado con ilusiones.",
+      "summary": "Shallan y Patrón hablan del cuento representado mediante ilusiones.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-25"
@@ -33537,23 +33676,22 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Comenta el cuento representado con ilusiones. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Shallan y Patrón hablan del cuento representado mediante ilusiones.",
         "pairs": [
           [
             "shallan",
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Shallan y Patrón hablan del cuento representado mediante ilusiones."
     },
     {
       "id": "ob75-interaction-25-1",
@@ -33562,7 +33700,7 @@
         "rock"
       ],
       "type": "conversation",
-      "summary": "Pregunta por el ataque del mercado.",
+      "summary": "Shallan pregunta a Roca por el ataque; él dice que lo hirieron en la mano y que no murió nadie.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-25"
@@ -33572,23 +33710,22 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Pregunta por el ataque del mercado. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Shallan pregunta a Roca por el ataque; él dice que lo hirieron en la mano y que no murió nadie.",
         "pairs": [
           [
             "shallan",
             "rock"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Shallan pregunta a Roca por el ataque; él dice que lo hirieron en la mano y que no murió nadie."
     },
     {
       "id": "ob75-interaction-25-2",
@@ -33597,7 +33734,7 @@
         "ishnah"
       ],
       "type": "conversation",
-      "summary": "Ishnah pide incorporarse a su grupo.",
+      "summary": "Ishnah reconoce a Velo, le dice su nombre y le pide incorporarse a su grupo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-25"
@@ -33607,23 +33744,22 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ishnah pide incorporarse a su grupo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Ishnah reconoce a Velo, le dice su nombre y le pide incorporarse a su grupo.",
         "pairs": [
           [
             "shallan",
             "ishnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Ishnah reconoce a Velo, le dice su nombre y le pide incorporarse a su grupo."
     },
     {
       "id": "ob75-interaction-26-3",
@@ -33632,7 +33768,7 @@
         "evi"
       ],
       "type": "conversation",
-      "summary": "Hablan antes de la batalla.",
+      "summary": "Evi y Dalinar, aún prometidos, hablan antes de la batalla.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
@@ -33642,23 +33778,22 @@
         "note": "Recuerdo de veintinueve años antes."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan antes de la batalla. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Evi y Dalinar, aún prometidos, hablan antes de la batalla.",
         "pairs": [
           [
             "dalinar",
             "evi"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Evi y Dalinar, aún prometidos, hablan antes de la batalla."
     },
     {
       "id": "ob75-interaction-26-4",
@@ -33667,7 +33802,7 @@
         "gavilar"
       ],
       "type": "conversation",
-      "summary": "Acuerdan enfrentarse a Kalanor.",
+      "summary": "Gavilar pide a su hermano que derribe a Kalanor.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
@@ -33677,23 +33812,22 @@
         "note": "Recuerdo de veintinueve años antes."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Acuerdan enfrentarse a Kalanor. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Gavilar pide a su hermano que derribe a Kalanor.",
         "pairs": [
           [
             "dalinar",
             "gavilar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Gavilar pide a su hermano que derribe a Kalanor."
     },
     {
       "id": "ob75-interaction-26-5",
@@ -33702,7 +33836,7 @@
         "kadash"
       ],
       "type": "conversation",
-      "summary": "Kadash interrumpe su combate.",
+      "summary": "Kadash interviene y Dalinar detiene el combate.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
@@ -33712,23 +33846,22 @@
         "note": "Recuerdo de veintinueve años antes."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Kadash interrumpe su combate. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Kadash interviene y Dalinar detiene el combate.",
         "pairs": [
           [
             "dalinar",
             "kadash"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Kadash interviene y Dalinar detiene el combate."
     },
     {
       "id": "ob75-interaction-26-6",
@@ -33737,7 +33870,7 @@
         "kalanor"
       ],
       "type": "conflict",
-      "summary": "Se enfrentan en las agujas rocosas.",
+      "summary": "Los dos combaten en el campo y luego en las agujas; Kalanor muere.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
@@ -33747,23 +33880,22 @@
         "note": "Recuerdo de veintinueve años antes."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se enfrentan en las agujas rocosas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Los dos combaten en el campo y luego en las agujas; Kalanor muere.",
         "pairs": [
           [
             "dalinar",
             "kalanor"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Los dos combaten en el campo y luego en las agujas; Kalanor muere."
     },
     {
       "id": "ob75-interaction-27-7",
@@ -33772,7 +33904,7 @@
         "malata"
       ],
       "type": "conversation",
-      "summary": "Conversan durante la reunión.",
+      "summary": "Malata se presenta y menciona a Chispa ante Shallan.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
@@ -33782,23 +33914,22 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan durante la reunión. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Malata se presenta y menciona a Chispa ante Shallan.",
         "pairs": [
           [
             "shallan",
             "malata"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Malata se presenta y menciona a Chispa ante Shallan."
     },
     {
       "id": "ob75-interaction-27-8",
@@ -33806,11 +33937,10 @@
         "dalinar",
         "ialai",
         "amaram",
-        "elhokar",
-        "navani"
+        "elhokar"
       ],
       "type": "conversation",
-      "summary": "Se discute y ratifica la regencia.",
+      "summary": "Ialai anuncia el nombramiento de Amaram y Elhokar se pronuncia después de la intervención de Dalinar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
@@ -33820,31 +33950,34 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Debate de regencia con intercambios concretos. Navani asiste, pero no se conserva enlace Navani–Ialai por presencia o aprobación general sin interlocución acreditada.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Ialai anuncia el nombramiento de Amaram y Elhokar se pronuncia después de la intervención de Dalinar.",
         "pairs": [
           [
             "dalinar",
             "ialai"
           ],
           [
-            "dalinar",
+            "ialai",
             "amaram"
           ],
           [
-            "elhokar",
-            "amaram"
+            "dalinar",
+            "elhokar"
+          ],
+          [
+            "ialai",
+            "elhokar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Ialai anuncia el nombramiento de Amaram y Elhokar se pronuncia después de la intervención de Dalinar."
     },
     {
       "id": "ob75-interaction-27-9",
@@ -33853,7 +33986,7 @@
         "adolin"
       ],
       "type": "conversation",
-      "summary": "Adolin explica el origen de la espada de Helaran.",
+      "summary": "Adolin relata que Kaladin mató al portador de la hoja que acabó en manos de Amaram.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
@@ -33863,23 +33996,22 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Adolin explica el origen de la espada de Helaran. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Adolin relata que Kaladin mató al portador de la hoja que acabó en manos de Amaram.",
         "pairs": [
           [
             "shallan",
             "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Adolin relata que Kaladin mató al portador de la hoja que acabó en manos de Amaram."
     },
     {
       "id": "ob75-interaction-27-10",
@@ -33891,7 +34023,7 @@
         "shob"
       ],
       "type": "conversation",
-      "summary": "Les encarga vigilar el mercado.",
+      "summary": "Shallan habla con sus soldados en el cuartel y les encarga vigilar el mercado.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
@@ -33901,16 +34033,14 @@
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Les encarga vigilar el mercado. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-25-27/"
-        ],
+        "reason": "Shallan habla con sus soldados en el cuartel y les encarga vigilar el mercado.",
         "pairs": [
           [
             "shallan",
@@ -33927,9 +34057,14 @@
           [
             "shallan",
             "shob"
+          ],
+          [
+            "vathah",
+            "shob"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Shallan habla con sus soldados en el cuartel y les encarga vigilar el mercado."
     },
     {
       "id": "ob75-interaction-28-11",
@@ -57838,12 +57973,14 @@
         "sceneId": "ob-chapter-24"
       },
       "kind": "abilities",
-      "text": "Es presentada como Radiante de Jah Keved y Portadora del Polvo.",
+      "text": "Taravangian presenta a Malata. Ella afirma pertenecer a los Liberadores, llamados Portadores del Polvo.",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Taravangian presenta a Malata. Ella afirma pertenecer a los Liberadores, llamados Portadores del Polvo."
     },
     {
       "id": "fact-taravangian-11",
@@ -57853,12 +57990,14 @@
         "sceneId": "ob-chapter-24"
       },
       "kind": "affiliation",
-      "text": "Llega a Urithiru como rey de Kharbranth y Jah Keved.",
+      "text": "Llega a Urithiru por la Puerta Jurada tras asumir el trono de Jah Keved.",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Llega a Urithiru por la Puerta Jurada tras asumir el trono de Jah Keved."
     },
     {
       "id": "fact-experience-wok-kaladin-chapter-38-dream",
@@ -61779,13 +61918,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-24"
       },
-      "text": "Es presentada por Taravangian y muestra su espada.",
+      "text": "Taravangian la presenta después de que activara la Puerta Jurada de Vedenar.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Taravangian la presenta después de que activara la Puerta Jurada de Vedenar."
     },
     {
       "id": "audit-ob-profile-53",
@@ -61811,13 +61952,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-24"
       },
-      "text": "Se atribuye títulos de Heraldo en su mensaje; son sus afirmaciones.",
+      "text": "En la advertencia que lee Navani, Tezim se atribuye títulos de Heraldo. Quedan como afirmaciones del mensaje.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. En la advertencia que lee Navani, Tezim se atribuye títulos de Heraldo. Quedan como afirmaciones del mensaje."
     },
     {
       "id": "audit-73-general-khal",
@@ -61882,136 +62025,154 @@
       "id": "ob75-fact-ishnah-25-0",
       "characterId": "ishnah",
       "kind": "background",
-      "text": "Se identifica como Ishnah; es la observadora de All’s Alley.",
+      "text": "La mujer reconoce a Velo del encuentro anterior y se presenta como Ishnah.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-25"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. La mujer reconoce a Velo del encuentro anterior y se presenta como Ishnah."
     },
     {
       "id": "ob75-fact-rock-25-1",
       "characterId": "rock",
       "kind": "background",
-      "text": "Resulta herido en la mano; no muere en el ataque.",
+      "text": "Sufre una herida en la mano. Roca dice que el atacante huyó y que nadie murió.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-25"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Sufre una herida en la mano. Roca dice que el atacante huyó y que nadie murió."
     },
     {
       "id": "ob75-fact-kalanor-26-2",
       "characterId": "kalanor",
       "kind": "background",
-      "text": "Loradar Vamah es su primo.",
+      "text": "Alto príncipe y primo de Loradar Vamah. Muere combatiendo con Dalinar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Alto príncipe y primo de Loradar Vamah. Muere combatiendo con Dalinar."
     },
     {
       "id": "ob75-fact-ruthar-26-3",
       "characterId": "ruthar",
       "kind": "background",
-      "text": "Se menciona que obtuvo esquirlas para un hijo sin identificar; no se identifica automáticamente con Relis.",
+      "text": "Gavilar dice que derrotó a Gallam y ganó esquirlas para un hijo al que no nombra.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Gavilar dice que derrotó a Gallam y ganó esquirlas para un hijo al que no nombra."
     },
     {
       "id": "ob75-fact-dalinar-26-4",
       "characterId": "dalinar",
       "kind": "background",
-      "text": "El recuerdo muestra su compromiso con Evi antes de casarse.",
+      "text": "Está comprometido con Evi en este recuerdo, anterior a su boda.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Está comprometido con Evi en este recuerdo, anterior a su boda."
     },
     {
       "id": "ob75-fact-ialai-27-5",
       "characterId": "ialai",
       "kind": "background",
-      "text": "Presenta a un sobrino menor como heredero y nombra regente a Amaram.",
+      "text": "Dice que su sobrino heredero es demasiado joven y nombra a Amaram regente y heredero del título.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Dice que su sobrino heredero es demasiado joven y nombra a Amaram regente y heredero del título."
     },
     {
       "id": "ob75-fact-amaram-27-6",
       "characterId": "amaram",
       "kind": "background",
-      "text": "Es reconocido como regente y heredero de la Casa Sadeas; no implica parentesco.",
+      "text": "Ialai lo nombra regente y heredero del título de la Casa Sadeas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Ialai lo nombra regente y heredero del título de la Casa Sadeas."
     },
     {
       "id": "ob75-fact-shallan-27-7",
       "characterId": "shallan",
       "kind": "background",
-      "text": "Adolin le comunica que Kaladin mató al portador de la espada de Helaran.",
+      "text": "Adolin dice que Kaladin mató al portador de la hoja que vio en manos de Helaran. Shallan deduce las consecuencias.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Adolin dice que Kaladin mató al portador de la hoja que vio en manos de Helaran. Shallan deduce las consecuencias."
     },
     {
       "id": "ob75-fact-malata-27-8",
       "characterId": "malata",
       "kind": "background",
-      "text": "Nombra a su spren Spark, que no se muestra.",
+      "text": "Malata nombra a Chispa. Shallan no ve al spren.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Malata nombra a Chispa. Shallan no ve al spren."
     },
     {
       "id": "ob75-fact-dalinar-28-9",
@@ -62093,121 +62254,137 @@
       "id": "ob75-fact-midnight-creatures-25-14",
       "characterId": "midnight-creatures",
       "kind": "background",
-      "text": "Imitaciones de formas humanas.",
+      "text": "Shallan observa una silueta que no es una de sus propias ilusiones y luego detecta movimiento en una rendija.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-25"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Shallan observa una silueta que no es una de sus propias ilusiones y luego detecta movimiento en una rendija."
     },
     {
       "id": "ob75-fact-loradar-vamah-26-15",
       "characterId": "loradar-vamah",
       "kind": "background",
-      "text": "Primo de Kalanor.",
+      "text": "Es primo de Kalanor.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Es primo de Kalanor."
     },
     {
       "id": "ob75-fact-tearim-26-16",
       "characterId": "tearim",
       "kind": "background",
-      "text": "Capitán de la guardia de Gavilar.",
+      "text": "Capitán de la guardia de Gavilar; usa una armadura prestada para la batalla.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Capitán de la guardia de Gavilar; usa una armadura prestada para la batalla."
     },
     {
       "id": "ob75-fact-ilamar-26-17",
       "characterId": "ilamar",
       "kind": "background",
-      "text": "Mando de caballería del recuerdo.",
+      "text": "Mando de caballería durante la batalla.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Mando de caballería durante la batalla."
     },
     {
       "id": "ob75-fact-jevena-26-18",
       "characterId": "jevena",
       "kind": "background",
-      "text": "Fervorosa de Gavilar.",
+      "text": "Dalinar recuerda el consejo de Jevena, la fervorosa jefa de Gavilar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Dalinar recuerda el consejo de Jevena, la fervorosa jefa de Gavilar."
     },
     {
       "id": "ob75-fact-gallam-26-19",
       "characterId": "gallam",
       "kind": "background",
-      "text": "Combatiente mencionado.",
+      "text": "Gavilar afirma que Ruthar lo derrotó y obtuvo sus esquirlas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Gavilar afirma que Ruthar lo derrotó y obtuvo sus esquirlas."
     },
     {
       "id": "ob75-fact-talanor-26-20",
       "characterId": "talanor",
       "kind": "background",
-      "text": "Combatiente mencionado.",
+      "text": "Gavilar dice que obtuvo una hoja.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Gavilar dice que obtuvo una hoja."
     },
     {
       "id": "ob75-fact-shob-27-21",
       "characterId": "shob",
       "kind": "background",
-      "text": "Soldado de Shallan.",
+      "text": "Está vivo y habla desde su catre en el cuartel de los soldados de Shallan.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está vivo y habla desde su catre en el cuartel de los soldados de Shallan."
     },
     {
       "id": "ob75-fact-glurv-29-22",
@@ -62258,16 +62435,18 @@
       "id": "ob75-fact-ialai-nephew-27-25",
       "characterId": "ialai-nephew",
       "kind": "background",
-      "text": "Heredero mencionado.",
+      "text": "Ialai menciona a su sobrino como heredero demasiado joven, sin nombrarlo ni situarlo en la reunión.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-27"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob27"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Ialai menciona a su sobrino como heredero demasiado joven, sin nombrarlo ni situarlo en la reunión."
     },
     {
       "id": "ob75-fact-skar-courtship-29-26",
@@ -68120,16 +68299,18 @@
       "id": "mention89-fact-rien-130",
       "characterId": "rien",
       "kind": "background",
-      "text": "Soldado de las élites que pide instrucciones a Dalinar antes de combatir contra Kalanor en el recuerdo.",
+      "text": "Pide órdenes a Dalinar antes de la carga.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "mention89-4f35c7ce21748e"
+        "mention89-4f35c7ce21748e",
+        "primary195-ob26"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Pide órdenes a Dalinar antes de la carga."
     },
     {
       "id": "mention89-fact-fullnight-131",
@@ -90572,6 +90753,10 @@
         {
           "revision": 194,
           "notes": "Se conserva la filiación ya revelada de la hija de Sah, el matrimonio de Ialai y Sadeas y el vínculo de Shallan con sus hermanos. El capítulo 22 ofrece información de Mraize, sin acreditar una llegada de los hermanos."
+        },
+        {
+          "revision": 195,
+          "notes": "Evi y Toh se recuerdan como hermanos. El capítulo 26 distingue el compromiso de Evi y Dalinar del matrimonio posterior, acredita a Kalanor y Vamah como primos y deja anónimo al hijo de Ruthar. El capítulo 27 confirma al sobrino de Ialai y distingue el nombramiento de Amaram de un parentesco."
         }
       ]
     }
@@ -91309,12 +91494,14 @@
         "sceneId": "ob-chapter-24"
       },
       "sourceIds": [
-        "ob-primary-22-24"
+        "ob-primary-22-24",
+        "primary195-ob24"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Su fallecimiento pertenece al pasado; no se precisa aquí su lugar, causa ni fecha. El recuerdo del 19 conserva su presencia viva."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Dalinar recuerda los años que siguieron a la muerte de Evi, sin identificar aún su fecha, lugar ni causa."
     },
     {
       "id": "life-shallan-mother-wor-10",
@@ -91535,12 +91722,14 @@
         "sceneId": "ob-chapter-26"
       },
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Muerte durante el recuerdo; no implica presencia en el presente."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Dalinar atraviesa a Kalanor con la hoja. El narrador describe su cadáver al caer de la aguja."
     },
     {
       "id": "ob75-life-midnight-mother-30",
@@ -91892,12 +92081,14 @@
       },
       "sourceIds": [
         "audit87-p2-gallam",
-        "audit87-source-b2624a29de2093"
+        "audit87-source-b2624a29de2093",
+        "primary195-ob26"
       ],
-      "status": "pending",
+      "status": "rejected",
       "notes": [
-        "Ruthar lo mató y obtuvo sus esquirlas. No fija lugar ni fecha del combate. PR37 menciona las esquirlas entregadas a Relis; comprobar si la muerte ya se explicita allí antes de adelantar el estado."
-      ]
+        "Se conserva el informe de derrota en la ficha. La muerte queda pendiente de un pasaje explícito."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Gavilar dice que Ruthar derrotó a Gallam; no confirma su muerte en este pasaje."
     },
     {
       "id": "audit87-p2-mart-death",
@@ -93388,7 +93579,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 194,
+  "revision": 195,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -96456,12 +96647,14 @@
       "experiencedPlace": "Cuento representado mediante ilusiones",
       "physicalPlaceId": "place-urithiru-theater-25",
       "sourceIds": [
-        "ob-primary-25-27"
+        "ob-primary-25-27",
+        "primary195-ob25"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "No crea posiciones corporales de personajes figurados ni presencia en Shadesmar."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Shallan proyecta el cuento en el teatro. Las figuras son ilusiones y la observación de la silueta posterior es un suceso separado.",
       "entryAnchor": {
         "placeId": "place-urithiru-theater-25",
         "name": "Urithiru · Teatro del tercer nivel",
@@ -123291,9 +123484,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123310,11 +123504,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-theater-25",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Representa con ilusiones el cuento de la niña que miró arriba.",
+          "needsConfirmation": [],
+          "notes": [
+            "Representa con ilusiones el cuento de la niña que miró arriba."
+          ]
         },
         {
           "id": "ob75-shallan-25-2",
@@ -123338,9 +123532,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123357,11 +123552,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-ventilation-25",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Examina las rendijas de la cámara del tercer nivel y ve moverse algo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina las rendijas de la cámara del tercer nivel y ve moverse algo."
+          ]
         },
         {
           "id": "ob75-shallan-25-3",
@@ -123385,9 +123580,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123404,11 +123600,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Llega al mercado como Velo, encuentra herido a Roca y habla con Ishnah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al mercado como Velo, encuentra herido a Roca y habla con Ishnah."
+          ]
         },
         {
           "id": "ob75-shallan-27-1",
@@ -123432,9 +123628,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123451,11 +123648,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Bosqueja durante la reunión y compara los ataques. Habla con Malata.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bosqueja durante la reunión y compara los ataques. Habla con Malata."
+          ]
         },
         {
           "id": "ob75-shallan-27-2",
@@ -123479,9 +123676,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123498,11 +123696,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-atrium-lift",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Sale del auditorio; Shallan y Adolin hablan de Helaran.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale del auditorio; Shallan y Adolin hablan de Helaran."
+          ]
         },
         {
           "id": "ob75-shallan-27-3",
@@ -123526,9 +123724,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123545,12 +123744,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Cruza el sector de Sadeas camino al cuartel.",
+          "needsConfirmation": [],
           "notes": [
-            "Se dirige hacia sus dependencias, pero se desvía al cuartel; no se afirma llegada a la habitación."
+            "Cruza el sector de Sadeas camino al cuartel."
           ]
         },
         {
@@ -123575,9 +123772,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123594,11 +123792,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-sebarial-barracks",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está en el cuartel durante la conversación con los soldados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el cuartel durante la conversación con los soldados."
+          ]
         },
         {
           "id": "ob75-shallan-29-1",
@@ -139276,9 +139474,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139295,11 +139494,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-oathgate-arrival",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Espera junto a la plataforma y recibe a Taravangian y su comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera junto a la plataforma y recibe a Taravangian y su comitiva."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-24-03",
@@ -139323,9 +139522,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139342,11 +139542,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-lift-tour",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Sube en el elevador con la delegación y conversa con Taravangian.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube en el elevador con la delegación y conversa con Taravangian."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-24-04",
@@ -139370,9 +139570,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139389,11 +139590,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-initiation-room",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Habla con Navani sobre Evi y escucha el mensaje atribuido a Tezim.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Navani sobre Evi y escucha el mensaje atribuido a Tezim."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-24-05",
@@ -139414,9 +139615,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-dalinar-battle-recollection-24",
@@ -139433,12 +139635,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, evocación de una batalla y sus celos",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Evoca un campo de batalla y sus celos de Gavilar. El capítulo no ubica el lugar.",
+          "needsConfirmation": [],
           "notes": [
-            "No se afirma que Evi estuviera físicamente en ese campo ni se anticipa la escena posterior."
+            "Evoca un campo de batalla y sus celos de Gavilar. El capítulo no ubica el lugar."
           ]
         },
         {
@@ -139463,9 +139663,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -139482,11 +139683,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Habla con su prometida Evi antes de ponerse la armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con su prometida Evi antes de ponerse la armadura."
+          ]
         },
         {
           "id": "ob75-dalinar-26-2",
@@ -139510,9 +139711,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -139529,11 +139731,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Cabalga con Gavilar a inspeccionar el frente.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cabalga con Gavilar a inspeccionar el frente."
+          ]
         },
         {
           "id": "ob75-dalinar-26-3",
@@ -139557,9 +139759,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -139576,11 +139779,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Combate y se detiene al intervenir Kadash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Combate y se detiene al intervenir Kadash."
+          ]
         },
         {
           "id": "ob75-dalinar-26-4",
@@ -139604,9 +139807,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -139623,11 +139827,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-spires",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Persigue a Kalanor hasta las agujas y lo mata.",
+          "needsConfirmation": [],
+          "notes": [
+            "Persigue a Kalanor hasta las agujas y lo mata."
+          ]
         },
         {
           "id": "ob75-dalinar-26-5",
@@ -139651,9 +139855,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -139670,11 +139875,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Regresa al campo y se detiene al reconocer a Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa al campo y se detiene al reconocer a Gavilar."
+          ]
         },
         {
           "id": "ob75-dalinar-27-1",
@@ -139698,9 +139903,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139717,11 +139923,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob75-dalinar-28-1",
@@ -147105,9 +147311,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147124,11 +147331,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob75-adolin-27-2",
@@ -147152,9 +147359,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147171,11 +147379,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-atrium-lift",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Sale del auditorio; Shallan y Adolin hablan de Helaran.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale del auditorio; Shallan y Adolin hablan de Helaran."
+          ]
         },
         {
           "id": "ob75-adolin-29-5",
@@ -150387,9 +150595,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150406,11 +150615,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob75-renarin-29-5",
@@ -152916,9 +153125,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -152935,11 +153145,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob81-elhokar-37-2",
@@ -158208,9 +158418,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -158227,11 +158438,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-initiation-room",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Recibe a los visitantes y lee en voz alta la advertencia de Tezim.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a los visitantes y lee en voz alta la advertencia de Tezim."
+          ]
         },
         {
           "id": "ob75-navani-27-1",
@@ -158255,9 +158466,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -158274,11 +158486,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob75-navani-28-1",
@@ -161169,9 +161381,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -161188,11 +161401,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Tiene una herida en la mano y un compañero se la venda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tiene una herida en la mano y un compañero se la venda."
+          ]
         },
         {
           "id": "ob75-rock-29-5",
@@ -170935,9 +171148,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -170954,11 +171168,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-oathgate-arrival",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Llega por la Puerta Jurada y presenta a Malata.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega por la Puerta Jurada y presenta a Malata."
+          ]
         },
         {
           "id": "ob-taravangian-chapter-24-03",
@@ -170982,9 +171196,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -171001,11 +171216,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-lift-tour",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Asciende con Dalinar y habla de la guerra en Jah Keved.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asciende con Dalinar y habla de la guerra en Jah Keved."
+          ]
         },
         {
           "id": "ob-taravangian-chapter-24-04",
@@ -171029,9 +171244,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -171048,11 +171264,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-initiation-room",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Examina la sala y conversa con Dalinar sobre la alianza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina la sala y conversa con Dalinar sobre la alianza."
+          ]
         },
         {
           "id": "ob75-taravangian-27-1",
@@ -171076,9 +171292,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -171095,11 +171312,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob75-taravangian-28-1",
@@ -172825,9 +173042,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -172844,11 +173062,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-sebarial-barracks",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está en el cuartel durante la conversación con los soldados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el cuartel durante la conversación con los soldados."
+          ]
         },
         {
           "id": "ob75-gaz-29-1",
@@ -181533,9 +181751,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -181552,11 +181771,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Llega con Ialai y recibe el nombramiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega con Ialai y recibe el nombramiento."
+          ]
         },
         {
           "id": "ob75-amaram-28-3",
@@ -191590,9 +191809,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191609,11 +191829,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-theater-25",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Acompaña a Shallan durante la representación del cuento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan durante la representación del cuento."
+          ]
         },
         {
           "id": "ob75-pattern-25-2",
@@ -191637,9 +191857,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191656,11 +191877,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-ventilation-25",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Acompaña a Shallan entre la cámara del teatro y los pasajes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan entre la cámara del teatro y los pasajes."
+          ]
         },
         {
           "id": "ob75-pattern-25-3",
@@ -191684,9 +191905,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191703,11 +191925,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Acompaña a Shallan al Apartado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Shallan al Apartado."
+          ]
         },
         {
           "id": "ob75-pattern-27-1",
@@ -191731,9 +191953,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191750,11 +191973,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob75-pattern-27-2",
@@ -191778,9 +192001,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191797,11 +192021,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-atrium-lift",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Sale del auditorio; Shallan y Adolin hablan de Helaran.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale del auditorio; Shallan y Adolin hablan de Helaran."
+          ]
         },
         {
           "id": "ob75-pattern-27-3",
@@ -191825,9 +192049,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191844,12 +192069,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Cruza el sector de Sadeas camino al cuartel.",
+          "needsConfirmation": [],
           "notes": [
-            "Se dirige hacia sus dependencias, pero se desvía al cuartel; no se afirma llegada a la habitación."
+            "Cruza el sector de Sadeas camino al cuartel."
           ]
         },
         {
@@ -191874,9 +192097,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -191893,11 +192117,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-sebarial-barracks",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está en el cuartel durante la conversación con los soldados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el cuartel durante la conversación con los soldados."
+          ]
         },
         {
           "id": "ob75-pattern-29-1",
@@ -193302,6 +193526,52 @@
           "needsConfirmation": [],
           "notes": [
             "Participa en las negociaciones y se excusa al final de la última conferencia."
+          ]
+        },
+        {
+          "id": "primary195-aladar-auditorium",
+          "scene": "ob-chapter-27",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Auditorio de la reunión política",
+          "placeId": "place-urithiru-upper-auditorium",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary195-ob27",
+          "sourceIds": [
+            "primary195-ob27"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-27"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Interviene en el debate de la coalición en el auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene en el debate de la coalición en el auditorio."
           ]
         }
       ]
@@ -200982,9 +201252,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -201001,11 +201272,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-sebarial-barracks",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está en el cuartel durante la conversación con los soldados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el cuartel durante la conversación con los soldados."
+          ]
         },
         {
           "id": "ob75-vathah-29-2",
@@ -201371,9 +201642,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -201390,11 +201662,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-sebarial-barracks",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está en el cuartel durante la conversación con los soldados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el cuartel durante la conversación con los soldados."
+          ]
         },
         {
           "id": "ob75-red-29-1",
@@ -203419,9 +203691,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -203438,11 +203711,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Presenta su decisión sobre la sucesión y regencia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presenta su decisión sobre la sucesión y regencia."
+          ]
         },
         {
           "id": "ob75-ialai-28-3",
@@ -218064,9 +218337,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -218083,11 +218357,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-oathgate-arrival",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Llega con la comitiva e indica a Taravangian que presente a Malata.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega con la comitiva e indica a Taravangian que presente a Malata."
+          ]
         },
         {
           "id": "ob-adrotagia-chapter-24-03",
@@ -218111,9 +218385,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -218130,11 +218405,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-lift-tour",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Reconforta a Taravangian durante la subida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconforta a Taravangian durante la subida."
+          ]
         },
         {
           "id": "ob-adrotagia-chapter-24-04",
@@ -218158,9 +218433,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -218177,11 +218453,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-initiation-room",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Se queda junto a Taravangian y escucha el mensaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se queda junto a Taravangian y escucha el mensaje."
+          ]
         },
         {
           "id": "ob84-obs-37-adrotagia",
@@ -218719,55 +218995,6 @@
           "needsConfirmation": [],
           "notes": [
             "Salen del dormitorio para dejar a Taravangian a solas."
-          ]
-        },
-        {
-          "id": "ob-mrall-chapter-24-03",
-          "scene": "ob-chapter-24",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 3,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Urithiru · Ascensor durante la visita de la comitiva",
-          "placeId": "place-urithiru-lift-tour",
-          "realm": "physical",
-          "placeNotes": [
-            "Referencia general del anclaje; no fija edificio ni calle."
-          ],
-          "xy": [
-            474.647,
-            410.831
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob-c24-summary",
-          "sourceIds": [
-            "ob-c24-summary"
-          ],
-          "status": "inferred",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "city-anchor",
-          "coordinateAnchorId": "place-urithiru",
-          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "present",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura; sin sincronizar puntos de vista."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-24"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": [
-            "Identificación secundaria del guardaespaldas; pendiente de cotejo nominal."
           ]
         }
       ]
@@ -221777,9 +222004,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -221796,11 +222024,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Encarga a Dalinar enfrentarse a Kalanor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encarga a Dalinar enfrentarse a Kalanor."
+          ]
         },
         {
           "id": "ob75-gavilar-26-5",
@@ -221824,9 +222052,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -221843,11 +222072,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Celebra la victoria y anuncia los resultados de los otros enfrentamientos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Celebra la victoria y anuncia los resultados de los otros enfrentamientos."
+          ]
         },
         {
           "id": "ob81-gavilar-36-2",
@@ -224470,9 +224699,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -224489,11 +224719,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Interrumpe el combate de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interrumpe el combate de Dalinar."
+          ]
         }
       ]
     },
@@ -225559,9 +225789,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -225578,11 +225809,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Participa en la reunión del auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión del auditorio."
+          ]
         },
         {
           "id": "ob84-obs-41-kalami",
@@ -226800,9 +227031,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226819,11 +227051,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-initiation-room",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Explica a la delegación las columnas y láminas de cristal de la sala.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica a la delegación las columnas y láminas de cristal de la sala."
+          ]
         },
         {
           "id": "ob75-teshav-28-1",
@@ -229053,9 +229285,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -229072,11 +229305,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Quema glifoguardas y pide a Dalinar que no se deje llevar por la ira.",
+          "needsConfirmation": [],
+          "notes": [
+            "Quema glifoguardas y pide a Dalinar que no se deje llevar por la ira."
+          ]
         },
         {
           "id": "ob81-evi-36-1",
@@ -229485,9 +229718,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-vedenar",
@@ -229504,11 +229738,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, apertura de la puerta de Vedenar recordada durante la visita",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Activa la Puerta Jurada de Vedenar según la explicación posterior de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Activa la Puerta Jurada de Vedenar según la explicación posterior de Dalinar."
+          ]
         },
         {
           "id": "ob-malata-chapter-24-02",
@@ -229532,9 +229766,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -229551,11 +229786,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-oathgate-arrival",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Se presenta como Radiante recién llegada de Vedenar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se presenta como Radiante recién llegada de Vedenar."
+          ]
         },
         {
           "id": "ob-malata-chapter-24-03",
@@ -229579,9 +229814,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -229598,11 +229834,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-lift-tour",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Viaja en el elevador con la delegación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja en el elevador con la delegación."
+          ]
         },
         {
           "id": "ob-malata-chapter-24-04",
@@ -229626,9 +229862,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -229645,11 +229882,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-urithiru-initiation-room",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Se sienta cerca del sello de los Portadores del Polvo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se sienta cerca del sello de los Portadores del Polvo."
+          ]
         },
         {
           "id": "ob75-malata-27-1",
@@ -229673,9 +229910,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -229692,11 +229930,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-upper-auditorium",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Habla con Shallan y menciona a Chispa, que no se muestra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Shallan y menciona a Chispa, que no se muestra."
+          ]
         }
       ]
     },
@@ -229728,9 +229966,10 @@
           "review": "primary-text",
           "source": "ob-primary-22-24",
           "sourceIds": [
-            "ob-primary-22-24"
+            "ob-primary-22-24",
+            "primary195-ob24"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-remote-unknown",
@@ -229747,12 +229986,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-24"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 24, place-ob-remote-unknown",
-          "needsConfirmation": [
-            "Cotejar traducción, dependencia y precisión cartográfica."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/24.Hombres.xhtml. Su advertencia llega por vinculacaña; Navani lee el mensaje.",
+          "needsConfirmation": [],
           "notes": [
-            "Se lee un mensaje; no implica presencia del remitente en Urithiru."
+            "Su advertencia llega por vinculacaña; Navani lee el mensaje."
           ]
         }
       ]
@@ -231618,6 +231855,52 @@
           "notes": [
             "Presencia individualizada en el banquete; no contacto automático con todos los asistentes."
           ]
+        },
+        {
+          "id": "primary195-ruthar-auditorium",
+          "scene": "ob-chapter-27",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Auditorio de la reunión política",
+          "placeId": "place-urithiru-upper-auditorium",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary195-ob27",
+          "sourceIds": [
+            "primary195-ob27"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-27"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Interviene en el debate de la coalición en el auditorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene en el debate de la coalición en el auditorio."
+          ]
         }
       ]
     },
@@ -231959,9 +232242,11 @@
             "sceneId": "ob-chapter-25"
           },
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending"
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. La observadora reconoce a Velo y se presenta como Ishnah."
         }
       ],
       "events": [
@@ -232037,9 +232322,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -232056,11 +232342,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Reconoce a Velo y se presenta como Ishnah al pedirle que la acepte en su grupo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconoce a Velo y se presenta como Ishnah al pedirle que la acepte en su grupo."
+          ]
         },
         {
           "id": "ob83-ishnah-40-2",
@@ -232191,9 +232477,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob25"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -232210,11 +232497,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-25"
           },
-          "locator": "Capítulo 25, place-urithiru-ventilation-25",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/25.Lanina.xhtml. Algo se mueve junto a la rendija. Shallan sospecha que puede ser un spren, cuya identidad aún desconoce.",
+          "needsConfirmation": [],
+          "notes": [
+            "Algo se mueve junto a la rendija. Shallan sospecha que puede ser un spren, cuya identidad aún desconoce."
+          ]
         },
         {
           "id": "ob75-midnight-creatures-29-3",
@@ -232343,9 +232630,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -232362,11 +232650,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-spires",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Se enfrenta a Dalinar y cae de la aguja después de recibir la estocada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se enfrenta a Dalinar y cae de la aguja después de recibir la estocada."
+          ]
         }
       ]
     },
@@ -232460,9 +232748,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -232479,11 +232768,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Capitán de Gavilar; lleva la otra armadura de Dalinar para la batalla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Capitán de Gavilar; lleva la otra armadura de Dalinar para la batalla."
+          ]
         }
       ]
     },
@@ -232618,9 +232907,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob26"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -232637,11 +232927,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-26"
           },
-          "locator": "Capítulo 26, place-ob-kalanor-field",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/26.Espinanegra.xhtml. Participa al mando de caballería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa al mando de caballería."
+          ]
         }
       ]
     },
@@ -232706,9 +232996,10 @@
           "review": "primary-text",
           "source": "ob-primary-25-27",
           "sourceIds": [
-            "ob-primary-25-27"
+            "ob-primary-25-27",
+            "primary195-ob27"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -232725,11 +233016,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-27"
           },
-          "locator": "Capítulo 27, place-urithiru-sebarial-barracks",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Está vivo en su catre y bromea sobre las heridas que sufrió.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está vivo en su catre y bromea sobre las heridas que sufrió."
+          ]
         },
         {
           "id": "ob83-shob-40-2",
