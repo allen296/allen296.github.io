@@ -2814,6 +2814,7 @@ window.ATLAS_DATA = {
       "pattern",
       "renarin",
       "shallan",
+      "stormfather",
       "tezim"
     ],
     "ob-chapter-9": [
@@ -2821,10 +2822,11 @@ window.ATLAS_DATA = {
       "colot",
       "dalinar",
       "lopen",
-      "lyn",
       "malan",
       "navani",
+      "niter",
       "pattern",
+      "peet",
       "renarin",
       "shallan",
       "shen",
@@ -2833,8 +2835,15 @@ window.ATLAS_DATA = {
     ],
     "ob-chapter-10": [
       "adolin",
+      "cuernohueco-ardent-ob10",
+      "cuernohueco-consistor-ob10",
+      "cuernohueco-trapper-ob10",
+      "gallant",
+      "glys",
       "kaladin",
+      "kelek-puuli",
       "renarin",
+      "sot-ob10",
       "sureblood",
       "syl"
     ],
@@ -2845,6 +2854,7 @@ window.ATLAS_DATA = {
       "gavilar",
       "kadash",
       "sadeas",
+      "sadees-sunmaker-ob11",
       "sunmaker",
       "tanalan-elder",
       "tanalan-wife",
@@ -3760,6 +3770,10 @@ window.ATLAS_DATA = {
       },
       {
         "id": "spren-type-surprisespren",
+        "section": "spren-types"
+      },
+      {
+        "id": "spren-type-coldspren",
         "section": "spren-types"
       }
     ],
@@ -10632,6 +10646,261 @@ window.ATLAS_DATA = {
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/7.Unvigilante.xhtml. Syl adopta forma de hoja y de lanza esquirlada y explica a Kaladin su visión de la personificación de los spren.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/7.Unvigilante.xhtml. Syl adopta forma de hoja y de lanza esquirlada y explica a Kaladin su visión de la personificación de los spren.",
         "supersedes": []
+      },
+      {
+        "id": "primary191-coldspren-name",
+        "entryId": "spren-type-coldspren",
+        "field": "name",
+        "value": "Friospren",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-8"
+        },
+        "sourceIds": [
+          "primary191-ob8"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Friospren",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Friospren",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-coldspren-platform",
+        "entryId": "spren-type-coldspren",
+        "field": "appearance",
+        "value": "Crecen como estacas alrededor de Shallan mientras dibuja al aire libre.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-8"
+        },
+        "sourceIds": [
+          "primary191-ob8"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Crecen como estacas alrededor de Shallan mientras dibuja al aire libre.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Crecen como estacas alrededor de Shallan mientras dibuja al aire libre.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-windspren-platform",
+        "entryId": "spren-type-windspren",
+        "field": "appearance",
+        "value": "Un vientospren pasa frente a Shallan y remueve las hojas del cuaderno.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-8"
+        },
+        "sourceIds": [
+          "primary191-ob8"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Un vientospren pasa frente a Shallan y remueve las hojas del cuaderno.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Un vientospren pasa frente a Shallan y remueve las hojas del cuaderno.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-stormfather-map",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Dalinar atribuye a la perspectiva del Padre Tormenta el relieve de la proyección que crea con Shallan.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-8"
+        },
+        "sourceIds": [
+          "primary191-ob8"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Dalinar atribuye a la perspectiva del Padre Tormenta el relieve de la proyección que crea con Shallan.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Dalinar atribuye a la perspectiva del Padre Tormenta el relieve de la proyección que crea con Shallan.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-shamespren-bath",
+        "entryId": "spren-type-shamespren",
+        "field": "appearance",
+        "value": "Flotan alrededor de Shallan como pétalos blancos y rojos después de que Renarin la sobresalte.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-9"
+        },
+        "sourceIds": [
+          "primary191-ob9"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Flotan alrededor de Shallan como pétalos blancos y rojos después de que Renarin la sobresalte.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Flotan alrededor de Shallan como pétalos blancos y rojos después de que Renarin la sobresalte.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-rain-road",
+        "entryId": "spren-type-rainspren",
+        "field": "appearance",
+        "value": "Kaladin aterriza en la piedra mojada entre lluviaspren que parecen velitas azules.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-10"
+        },
+        "sourceIds": [
+          "primary191-ob10"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Kaladin aterriza en la piedra mojada entre lluviaspren que parecen velitas azules.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Kaladin aterriza en la piedra mojada entre lluviaspren que parecen velitas azules.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-anticipation-square",
+        "entryId": "spren-type-anticipationspren",
+        "field": "appearance",
+        "value": "Aletean entre los vecinos de Cuernohueco congregados en la plaza.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-10"
+        },
+        "sourceIds": [
+          "primary191-ob10"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Aletean entre los vecinos de Cuernohueco congregados en la plaza.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Aletean entre los vecinos de Cuernohueco congregados en la plaza.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-syl-creation",
+        "entryId": "spren-person-syl",
+        "field": "description",
+        "value": "Syl dice que el Padre Tormenta la creó, y explica que ayudó a dar forma y voz a algunos spren.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-10"
+        },
+        "sourceIds": [
+          "primary191-ob10"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Syl dice que el Padre Tormenta la creó, y explica que ayudó a dar forma y voz a algunos spren.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Syl dice que el Padre Tormenta la creó, y explica que ayudó a dar forma y voz a algunos spren.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-glys-blade",
+        "entryId": "spren-person-glys",
+        "field": "description",
+        "value": "Renarin invoca su hoja viva ante Adolin y explica que Glys no sabía si podría hacerlo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-10"
+        },
+        "sourceIds": [
+          "primary191-ob10"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Renarin invoca su hoja viva ante Adolin y explica que Glys no sabía si podría hacerlo.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Renarin invoca su hoja viva ante Adolin y explica que Glys no sabía si podría hacerlo.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-kelek-oath",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "El trampero de Cuernohueco invoca a Kelek al afirmar que los fugitivos iban hacia Kholinar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-10"
+        },
+        "sourceIds": [
+          "primary191-ob10"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. El trampero de Cuernohueco invoca a Kelek al afirmar que los fugitivos iban hacia Kholinar.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. El trampero de Cuernohueco invoca a Kelek al afirmar que los fugitivos iban hacia Kholinar.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-anticipation-rathalas",
+        "entryId": "spren-type-anticipationspren",
+        "field": "appearance",
+        "value": "Revolotean cerca de Dalinar antes de la carga.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-11"
+        },
+        "sourceIds": [
+          "primary191-ob11"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Revolotean cerca de Dalinar antes de la carga.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Revolotean cerca de Dalinar antes de la carga.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-angerspren-rathalas",
+        "entryId": "spren-type-angerspren",
+        "field": "appearance",
+        "value": "Bullen como charcos de sangre alrededor de Dalinar tras la caída.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-11"
+        },
+        "sourceIds": [
+          "primary191-ob11"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Bullen como charcos de sangre alrededor de Dalinar tras la caída.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Bullen como charcos de sangre alrededor de Dalinar tras la caída.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-lifespren-rathalas",
+        "entryId": "spren-type-lifespren",
+        "field": "appearance",
+        "value": "Aparecen en los jardines de Rathalas y se dispersan en la plataforma de Tanalan.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-11"
+        },
+        "sourceIds": [
+          "primary191-ob11"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Aparecen en los jardines de Rathalas y se dispersan en la plataforma de Tanalan.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Aparecen en los jardines de Rathalas y se dispersan en la plataforma de Tanalan.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-painspren-rathalas",
+        "entryId": "spren-type-painspren",
+        "field": "appearance",
+        "value": "Reptan por el suelo del refugio junto a Tanalan herido.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-11"
+        },
+        "sourceIds": [
+          "primary191-ob11"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Reptan por el suelo del refugio junto a Tanalan herido.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Reptan por el suelo del refugio junto a Tanalan herido.",
+        "supersedes": []
+      },
+      {
+        "id": "primary191-exhaustion-rathalas",
+        "entryId": "spren-type-exhaustionspren",
+        "field": "appearance",
+        "value": "Ruedan sobre la cabeza de Gavilar cuando se sienta junto a Dalinar tras la batalla.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-11"
+        },
+        "sourceIds": [
+          "primary191-ob11"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Ruedan sobre la cabeza de Gavilar cuando se sienta junto a Dalinar tras la batalla.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Ruedan sobre la cabeza de Gavilar cuando se sienta junto a Dalinar tras la batalla.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -10836,10 +11105,12 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob-c11",
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary191-ob11"
       ],
       "notes": [
-        "Conocer a Teleb en CR26 no identifica al arquero anónimo de OB3. Solo se reúnen las fichas al revelarse la identidad en OB11."
+        "Conocer a Teleb en CR26 no identifica al arquero anónimo de OB3. Solo se reúnen las fichas al revelarse la identidad en OB11.",
+        "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar reconoce al arquero del arco negro y lo llama Teleb."
       ]
     },
     {
@@ -11977,22 +12248,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
-        "ob-c11"
+        "ob-c11",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "El niño llama padre a Tanalan e intenta levantar su hoja."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-eleven/"
-        ]
-      }
+        "reason": "El niño llama padre a Tanalan e intenta levantar su hoja."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. El niño llama padre a Tanalan e intenta levantar su hoja."
     },
     {
       "id": "rel-tanalan-wife-tanalan-younger-ob-chapter-11",
@@ -12006,22 +12276,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
-        "ob-c11"
+        "ob-c11",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "La identidad familiar de la mujer queda pendiente en este corte."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-eleven/"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "El capítulo no enuncia su vínculo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. El refugio reúne al padre, al niño y a una mujer que llora. El texto del capítulo no explicita el parentesco de ella."
     },
     {
       "id": "rel-tanalan-elder-tanalan-wife-ob-chapter-11",
@@ -12035,22 +12304,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
-        "ob-c11"
+        "ob-c11",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Relación documentada; primera revelación y traducción pendientes de cotejo."
+        "La identidad familiar de la mujer queda pendiente en este corte."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-eleven/"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "El capítulo no enuncia su vínculo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. El refugio reúne al padre, al niño y a una mujer que llora. El texto del capítulo no explicita el parentesco de ella."
     },
     {
       "id": "rel-parshman-card-player-captor-daughter-ob-chapter-17",
@@ -17439,20 +17707,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "ob86-tallan"
+        "ob86-tallan",
+        "primary191-ob9"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "former",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Colot llama buen amigo suyo a Tallan, capitán de la Octava Compañía."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto companion: Amistad relatada. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Tallan"
-        ]
-      }
+        "reason": "Colot llama buen amigo suyo a Tallan, capitán de la Octava Compañía."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Colot llama buen amigo suyo a Tallan, capitán de la Octava Compañía."
     },
     {
       "id": "ob86-rel-bisig-bisig-prospective-partner-8",
@@ -21989,34 +22258,32 @@ window.ATLAS_DATA = {
     },
     {
       "id": "mention89-rel-febin-129-0",
-      "from": "gavilar",
+      "from": "dalinar",
       "to": "febin",
       "kind": "employer",
       "category": "social",
-      "label": "Escolta de Gavilar en el recuerdo",
+      "label": "Jefe de la élite → escolta",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
         "mention89-94e9db0d667a7b",
-        "mention89-9b49ab4b746a62"
+        "mention89-9b49ab4b746a62",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Febin es de la élite de Dalinar y ese día escolta a Gavilar."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Escolta de Gavilar en el recuerdo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Febin",
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/"
-        ]
-      }
+        "reason": "Febin es de la élite de Dalinar y ese día escolta a Gavilar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Febin es de la élite de Dalinar y ese día escolta a Gavilar."
     },
     {
       "id": "mention89-rel-rien-130-0",
@@ -26718,22 +26985,20 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-8"
       },
       "type": "cooperation",
-      "summary": "Participan en la reunión de cartografía.",
+      "summary": "Debaten cómo contactar con otros reinos y observan el mapa ilusorio creado por Shallan y Dalinar.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-c8-9"
+        "ob-c8-9",
+        "primary191-ob8"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "La reunión y el mapa justifican los intercambios indicados con Shallan. Renarin como asistente no crea por sí solo vínculo individual con todos los presentes.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-eight-and-nine/"
-        ],
+        "reason": "Debaten cómo contactar con otros reinos y observan el mapa ilusorio creado por Shallan y Dalinar.",
         "pairs": [
           [
             "shallan",
@@ -26746,9 +27011,30 @@ window.ATLAS_DATA = {
           [
             "shallan",
             "navani"
+          ],
+          [
+            "shallan",
+            "renarin"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "dalinar",
+            "renarin"
+          ],
+          [
+            "adolin",
+            "renarin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Debaten cómo contactar con otros reinos y observan el mapa ilusorio creado por Shallan y Dalinar."
     },
     {
       "id": "interaction-ob-chapter-11-dalinar-tanalan-elder-28",
@@ -26761,29 +27047,32 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-11"
       },
       "type": "conflict",
-      "summary": "Se enfrentan durante el recuerdo de Rathalas.",
+      "summary": "Dalinar y Tanalan combaten y discuten la conquista de Rathalas en la plataforma.",
       "storyTime": {
         "frame": "flashback",
-        "note": "Escena del pasado revelada en este capítulo."
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 33,
+        "note": "Treinta y tres años antes, según el encabezado del capítulo."
       },
       "sourceIds": [
-        "ob-c11"
+        "ob-c11",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se enfrentan durante el recuerdo de Rathalas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-eleven/"
-        ],
+        "reason": "Dalinar y Tanalan combaten y discuten la conquista de Rathalas en la plataforma.",
         "pairs": [
           [
             "dalinar",
             "tanalan-elder"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar y Tanalan combaten y discuten la conquista de Rathalas en la plataforma."
     },
     {
       "id": "interaction-ob-chapter-12-dalinar-taravangian-29",
@@ -32620,29 +32909,28 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-8"
       },
       "type": "conversation",
-      "summary": "Hablan de los dibujos y de la espada de Shallan.",
+      "summary": "Lyn admira los dibujos y pregunta por la condición de Radiante y la hoja de Shallan.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-primary-7-9"
+        "audit-ob-primary-7-9",
+        "primary191-ob8"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de los dibujos y de la espada de Shallan. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-7-9/"
-        ],
+        "reason": "Lyn admira los dibujos y pregunta por la condición de Radiante y la hoja de Shallan.",
         "pairs": [
           [
             "lyn",
             "shallan"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Lyn admira los dibujos y pregunta por la condición de Radiante y la hoja de Shallan."
     },
     {
       "id": "audit-ob-interaction-19",
@@ -32728,37 +33016,39 @@ window.ATLAS_DATA = {
       "id": "audit-ob-interaction-25",
       "participants": [
         "dalinar",
-        "tanalan-younger",
-        "tanalan-wife"
+        "tanalan-younger"
       ],
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
       "type": "encounter",
-      "summary": "Dalinar llega al escondite donde están la mujer y el hijo de Tanalan.",
+      "summary": "En el refugio, el niño se dirige a Dalinar mientras trata de levantar la espada.",
       "storyTime": {
         "frame": "flashback",
-        "note": "Recuerdo histórico; no cambia la ubicación presente."
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 33,
+        "note": "Treinta y tres años antes, según el encabezado del capítulo."
       },
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "El niño confronta a Dalinar y defiende a su padre. La madre llora sobre Tanalan: estar en la habitación no demuestra intercambio con Dalinar. El parentesco madre–hijo existe en sus registros familiares separados.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/"
-        ],
+        "reason": "En el refugio, el niño se dirige a Dalinar mientras trata de levantar la espada.",
         "pairs": [
           [
             "dalinar",
             "tanalan-younger"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. En el refugio, el niño se dirige a Dalinar mientras trata de levantar la espada."
     },
     {
       "id": "audit-ob-interaction-29",
@@ -37086,7 +37376,7 @@ window.ATLAS_DATA = {
         "colot"
       ],
       "type": "cooperation",
-      "summary": "Colot recibe instrucciones de asegurar el perímetro.",
+      "summary": "Colot explica el despliegue de sus arqueros, recuerda a Tallan y recibe instrucciones sobre el perímetro.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-9"
@@ -37096,23 +37386,22 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-colot"
+        "ob86-colot",
+        "primary191-ob9"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Colot recibe instrucciones de asegurar el perímetro. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Colot"
-        ],
+        "reason": "Colot explica el despliegue de sus arqueros, recuerda a Tallan y recibe instrucciones sobre el perímetro.",
         "pairs": [
           [
             "dalinar",
             "colot"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Colot explica el despliegue de sus arqueros, recuerda a Tallan y recibe instrucciones sobre el perímetro."
     },
     {
       "id": "audit87-p2-adolin-jakamav-26",
@@ -56477,6 +56766,382 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary191-lyn-dalinar",
+      "participants": [
+        "lyn",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-8"
+      },
+      "type": "conversation",
+      "summary": "Lyn avisa a Dalinar del hallazgo desde la puerta.",
+      "sourceIds": [
+        "primary191-ob8"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Lyn avisa a Dalinar del hallazgo desde la puerta.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lyn avisa a Dalinar del hallazgo desde la puerta.",
+        "pairs": [
+          [
+            "lyn",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-shallan-pattern-ob8",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-8"
+      },
+      "type": "conversation",
+      "summary": "Hablan de la muerte de la madre de Shallan y de cómo se siente al invocar la hoja.",
+      "sourceIds": [
+        "primary191-ob8"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Hablan de la muerte de la madre de Shallan y de cómo se siente al invocar la hoja.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de la muerte de la madre de Shallan y de cómo se siente al invocar la hoja.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-peet-report",
+      "participants": [
+        "peet",
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-9"
+      },
+      "type": "conversation",
+      "summary": "Peet describe el hallazgo y Navani comenta la postura del cuerpo.",
+      "sourceIds": [
+        "primary191-ob9"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Peet describe el hallazgo y Navani comenta la postura del cuerpo.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Peet describe el hallazgo y Navani comenta la postura del cuerpo.",
+        "pairs": [
+          [
+            "peet",
+            "dalinar"
+          ],
+          [
+            "peet",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-murder-investigation",
+      "participants": [
+        "dalinar",
+        "adolin",
+        "shallan",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-9"
+      },
+      "type": "conversation",
+      "summary": "Dalinar encarga a Adolin la investigación; Shallan habla con Adolin y Renarin se disculpa por sobresaltarla.",
+      "sourceIds": [
+        "primary191-ob9"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Dalinar encarga a Adolin la investigación; Shallan habla con Adolin y Renarin se disculpa por sobresaltarla.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar encarga a Adolin la investigación; Shallan habla con Adolin y Renarin se disculpa por sobresaltarla.",
+        "pairs": [
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-cuernohueco-consistor",
+      "participants": [
+        "kaladin",
+        "cuernohueco-consistor-ob10",
+        "cuernohueco-ardent-ob10",
+        "cuernohueco-trapper-ob10"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "Kaladin intercambia esferas y escucha los informes de la fervorosa y el trampero.",
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Kaladin intercambia esferas y escucha los informes de la fervorosa y el trampero.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin intercambia esferas y escucha los informes de la fervorosa y el trampero.",
+        "pairs": [
+          [
+            "kaladin",
+            "cuernohueco-consistor-ob10"
+          ],
+          [
+            "kaladin",
+            "cuernohueco-ardent-ob10"
+          ],
+          [
+            "kaladin",
+            "cuernohueco-trapper-ob10"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-cuernohueco-syl",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "Hablan del Padre Tormenta y de si los spren pueden formar familias.",
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Hablan del Padre Tormenta y de si los spren pueden formar familias.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del Padre Tormenta y de si los spren pueden formar familias.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-brothers-pasture",
+      "participants": [
+        "adolin",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "type": "conversation",
+      "summary": "Renarin muestra su hoja esquirlada a Adolin, deja que Adolin le tome la mano durante la conversación y Adolin descubre después que su muñeca está curada.",
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Renarin muestra su hoja esquirlada a Adolin, deja que Adolin le tome la mano durante la conversación y Adolin descubre después que su muñeca está curada.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Renarin muestra su hoja esquirlada a Adolin, deja que Adolin le tome la mano durante la conversación y Adolin descubre después que su muñeca está curada.",
+        "pairs": [
+          [
+            "adolin",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-kholin-assault",
+      "participants": [
+        "dalinar",
+        "gavilar",
+        "sadeas"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-11"
+      },
+      "type": "conversation",
+      "summary": "Los tres hablan del plan y Sadeas proporciona su martillo a Dalinar durante el ataque.",
+      "sourceIds": [
+        "primary191-ob11"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Los tres hablan del plan y Sadeas proporciona su martillo a Dalinar durante el ataque.",
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 33,
+        "note": "Treinta y tres años antes, según el encabezado del capítulo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los tres hablan del plan y Sadeas proporciona su martillo a Dalinar durante el ataque.",
+        "pairs": [
+          [
+            "dalinar",
+            "gavilar"
+          ],
+          [
+            "dalinar",
+            "sadeas"
+          ],
+          [
+            "gavilar",
+            "sadeas"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-teleb-shots",
+      "participants": [
+        "dalinar",
+        "blue-tattoo-archer"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-11"
+      },
+      "type": "conversation",
+      "summary": "Teleb derriba a dos defensores que intentan cortar la pasarela de Dalinar.",
+      "sourceIds": [
+        "primary191-ob11"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Teleb derriba a dos defensores que intentan cortar la pasarela de Dalinar.",
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 33,
+        "note": "Treinta y tres años antes, según el encabezado del capítulo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Teleb derriba a dos defensores que intentan cortar la pasarela de Dalinar.",
+        "pairs": [
+          [
+            "dalinar",
+            "blue-tattoo-archer"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary191-gavilar-after-battle",
+      "participants": [
+        "dalinar",
+        "gavilar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-11"
+      },
+      "type": "conversation",
+      "summary": "Hablan de los cautivos, de la unificación y de la hoja Juramentada.",
+      "sourceIds": [
+        "primary191-ob11"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Hablan de los cautivos, de la unificación y de la hoja Juramentada.",
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 33,
+        "note": "Treinta y tres años antes, según el encabezado del capítulo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de los cautivos, de la unificación y de la hoja Juramentada.",
+        "pairs": [
+          [
+            "dalinar",
+            "gavilar"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -60153,10 +60818,12 @@ window.ATLAS_DATA = {
       "text": "Exploradora que admira los dibujos de Shallan y la conduce a la reunión.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-7-9"
+        "audit-ob-primary-7-9",
+        "primary191-ob8"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. La exploradora lleva a Shallan hasta la sala. Dalinar la llama Lyn al final."
     },
     {
       "id": "audit-ob-profile-15",
@@ -60165,13 +60832,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-9"
       },
-      "text": "Oficial del ejército de Sebarial, hallado muerto con una herida en el ojo.",
+      "text": "Vedekar Perel, oficial del ejército de Sebarial, yace muerto con una herida en el ojo.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-7-9"
+        "audit-ob-primary-7-9",
+        "primary191-ob9"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Vedekar Perel, oficial del ejército de Sebarial, yace muerto con una herida en el ojo."
     },
     {
       "id": "audit-ob-profile-16",
@@ -60225,13 +60894,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
-      "text": "Señor de Rathalas; defiende su ciudad frente a los Kholin.",
+      "text": "Tanalan defiende Rathalas con su hoja esquirlada y sus arqueros.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary191-ob11"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Tanalan defiende Rathalas con su hoja esquirlada y sus arqueros."
     },
     {
       "id": "audit-ob-profile-23",
@@ -60240,13 +60911,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
-      "text": "Intenta levantar la espada de su padre para defenderse.",
+      "text": "El niño trata de levantar la espada de su padre y pide a Dalinar que no se lo lleve.",
       "kind": "experience",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary191-ob11"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. El niño trata de levantar la espada de su padre y pide a Dalinar que no se lo lleve."
     },
     {
       "id": "audit-ob-profile-24",
@@ -60255,13 +60928,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
-      "text": "Llora junto al herido Tanalan en el escondite familiar.",
+      "text": "Una mujer llora junto a Tanalan herido. El pasaje no la nombra ni explicita su parentesco.",
       "kind": "experience",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary191-ob11"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Una mujer llora junto a Tanalan herido. El pasaje no la nombra ni explicita su parentesco."
     },
     {
       "id": "audit-ob-profile-27",
@@ -60555,13 +61230,15 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-8"
       },
-      "text": "Gobernante de Tukar que se proclama un aspecto del Todopoderoso.",
+      "text": "Navani nombra a Tezim como caudillo de Tukar y refiere que se proclama un aspecto del Todopoderoso.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-7-9"
+        "audit-ob-primary-7-9",
+        "primary191-ob8"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Navani dice que Tezim, caudillo de Tukar, afirma ser un aspecto del Todopoderoso."
     },
     {
       "id": "audit-ob-profile-54",
@@ -63242,16 +63919,18 @@ window.ATLAS_DATA = {
       "id": "ob86-fact-colot-12",
       "characterId": "colot",
       "kind": "background",
-      "text": "Capitán que colabora en asegurar el lugar del segundo asesinato.",
+      "text": "Colot, capitán arquero del Quinto Batallón, ofreció su compañía para explorar la torre y recibe instrucciones sobre el perímetro.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "ob86-colot"
+        "ob86-colot",
+        "primary191-ob9"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Colot, capitán arquero del Quinto Batallón, ofreció su compañía para explorar la torre y recibe instrucciones sobre el perímetro."
     },
     {
       "id": "ob86-fact-colot-13",
@@ -63272,16 +63951,18 @@ window.ATLAS_DATA = {
       "id": "ob86-fact-tallan-14",
       "characterId": "tallan",
       "kind": "background",
-      "text": "Amigo de Colot y capitán de la Octava Compañía; se relata su muerte durante la batalla de Narak.",
+      "text": "Colot dice que su amigo Tallan, capitán de la Octava Compañía, no sobrevivió. La frase no precisa por sí sola la fecha o el sitio.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "ob86-tallan"
+        "ob86-tallan",
+        "primary191-ob9"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Colot dice que su amigo Tallan, capitán de la Octava Compañía, no sobrevivió. La frase no precisa por sí sola la fecha o el sitio."
     },
     {
       "id": "ob86-fact-koen-15",
@@ -65138,16 +65819,18 @@ window.ATLAS_DATA = {
       "id": "mention89-fact-malan-43-0",
       "characterId": "malan",
       "kind": "background",
-      "text": "Dalinar lo recuerda como fallecido; no se precisa aquí cuándo murió.",
+      "text": "Dalinar menciona a Malan entre sus hombres fallecidos sin precisar cuándo murió.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "mention89-483ab154c736a1"
+        "mention89-483ab154c736a1",
+        "primary191-ob9"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Dalinar menciona a Malan entre sus hombres fallecidos sin precisar cuándo murió."
     },
     {
       "id": "mention89-fact-ati-44",
@@ -66811,33 +67494,37 @@ window.ATLAS_DATA = {
       "id": "mention89-fact-thakka-128-0",
       "characterId": "thakka",
       "kind": "background",
-      "text": "Muere al caer por la plataforma que cede en la Grieta.",
+      "text": "Dalinar ve caer a Thakka y a otros miembros de su élite. Después refiere la pérdida de la mitad de sus hombres.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
         "mention89-32f0a5ce4b7aa5",
-        "mention89-b01a589210063f"
+        "mention89-b01a589210063f",
+        "primary191-ob11"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar ve caer a Thakka y a otros miembros de su élite. Después refiere la pérdida de la mitad de sus hombres."
     },
     {
       "id": "mention89-fact-febin-129",
       "characterId": "febin",
       "kind": "background",
-      "text": "Soldado de las élites que escolta a Gavilar junto con Kadash tras la conquista de Rathalas.",
+      "text": "Febin y Kadash escoltan a Gavilar después de la batalla. Ambos pertenecen a la élite de Dalinar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
         "mention89-94e9db0d667a7b",
-        "mention89-9b49ab4b746a62"
+        "mention89-9b49ab4b746a62",
+        "primary191-ob11"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Febin y Kadash escoltan a Gavilar después de la batalla. Ambos pertenecen a la élite de Dalinar."
     },
     {
       "id": "mention89-fact-rien-130",
@@ -67315,10 +68002,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-10"
       },
       "sourceIds": [
-        "pending92-sureblood"
+        "pending92-sureblood",
+        "primary191-ob10"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Adolin recuerda cepillar a Sangre Segura y lamenta haberlo dado por sentado al visitar a Galante."
     },
     {
       "id": "archive94-cusicesh-known",
@@ -86343,6 +87032,176 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/7.Unvigilante.xhtml. Adopta forma de hoja y de lanza esquirlada. Habla de la personificación de los spren y afirma que algunos spren antiguos tienen cuatro géneros.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/7.Unvigilante.xhtml. Adopta forma de hoja y de lanza esquirlada. Habla de la personificación de los spren y afirma que algunos spren antiguos tienen cuatro géneros.",
       "supersedes": []
+    },
+    {
+      "id": "primary191-shallan-oathgate-map",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Recuerda haber operado la Puerta Jurada ese día. En la reunión proyecta un mapa junto con Dalinar; las ciudades recorridas son partes de la imagen.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-8"
+      },
+      "sourceIds": [
+        "primary191-ob8"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Recuerda haber operado la Puerta Jurada ese día. En la reunión proyecta un mapa junto con Dalinar; las ciudades recorridas son partes de la imagen.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Recuerda haber operado la Puerta Jurada ese día. En la reunión proyecta un mapa junto con Dalinar; las ciudades recorridas son partes de la imagen.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-dalinar-champion-report",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "Relata una visión de una figura de ojos rojos, armadura negra y nueve sombras. Su posible identidad queda abierta.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-8"
+      },
+      "sourceIds": [
+        "primary191-ob8"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Relata una visión de una figura de ojos rojos, armadura negra y nueve sombras. Su posible identidad queda abierta.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Relata una visión de una figura de ojos rojos, armadura negra y nueve sombras. Su posible identidad queda abierta.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-niter-recalled",
+      "characterId": "niter",
+      "kind": "background",
+      "text": "Dalinar lo menciona junto a Malan entre los hombres fallecidos con los que habría contado para investigar.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-9"
+      },
+      "sourceIds": [
+        "primary191-ob9"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Dalinar lo menciona junto a Malan entre los hombres fallecidos con los que habría contado para investigar.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Dalinar lo menciona junto a Malan entre los hombres fallecidos con los que habría contado para investigar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-cuernohueco-consistor-ob10-intro",
+      "characterId": "cuernohueco-consistor-ob10",
+      "kind": "background",
+      "text": "Recibe a Kaladin, intercambia esferas y lo pone en contacto con un trampero.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Recibe a Kaladin, intercambia esferas y lo pone en contacto con un trampero.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Recibe a Kaladin, intercambia esferas y lo pone en contacto con un trampero.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-cuernohueco-ardent-ob10-intro",
+      "characterId": "cuernohueco-ardent-ob10",
+      "kind": "background",
+      "text": "Expone los testimonios del robo del grano.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Expone los testimonios del robo del grano.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Expone los testimonios del robo del grano.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-cuernohueco-trapper-ob10-intro",
+      "characterId": "cuernohueco-trapper-ob10",
+      "kind": "background",
+      "text": "Dice que siguió a los fugitivos durante media jornada hacia Kholinar.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Dice que siguió a los fugitivos durante media jornada hacia Kholinar.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Dice que siguió a los fugitivos durante media jornada hacia Kholinar.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-sot-ob10-intro",
+      "characterId": "sot-ob10",
+      "kind": "background",
+      "text": "La fervorosa cuenta que dio la alarma en el granero.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. La fervorosa cuenta que dio la alarma en el granero.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. La fervorosa cuenta que dio la alarma en el granero.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-kaladin-grain-report",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Investiga el granero saqueado. El tamaño del grupo y el rumbo a Kholinar proceden de testigos. No se confirma una parada en Sabecuerda.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Investiga el granero saqueado. El tamaño del grupo y el rumbo a Kholinar proceden de testigos. No se confirma una parada en Sabecuerda.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Investiga el granero saqueado. El tamaño del grupo y el rumbo a Kholinar proceden de testigos. No se confirma una parada en Sabecuerda.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-renarin-blade-healing",
+      "characterId": "renarin",
+      "kind": "background",
+      "text": "Dice que dejó la hoja muerta con los fervorosos. Invoca su hoja viva y, tras el contacto con Adolin, la muñeca de este se cura.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-10"
+      },
+      "sourceIds": [
+        "primary191-ob10"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Dice que dejó la hoja muerta con los fervorosos. Invoca su hoja viva y, tras el contacto con Adolin, la muñeca de este se cura.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Dice que dejó la hoja muerta con los fervorosos. Invoca su hoja viva y, tras el contacto con Adolin, la muñeca de este se cura.",
+      "supersedes": []
+    },
+    {
+      "id": "primary191-sadees-sunmaker-ob11-intro",
+      "characterId": "sadees-sunmaker-ob11",
+      "kind": "background",
+      "text": "Dalinar recuerda que unificó Alezkar siglos antes. Gavilar identifica Juramentada como su antigua hoja.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-11"
+      },
+      "sourceIds": [
+        "primary191-ob11"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar recuerda que unificó Alezkar siglos antes. Gavilar identifica Juramentada como su antigua hoja.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar recuerda que unificó Alezkar siglos antes. Gavilar identifica Juramentada como su antigua hoja.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -88920,6 +89779,10 @@ window.ATLAS_DATA = {
         {
           "revision": 190,
           "notes": "Se confirma la filiación y presentación de Oroden y el matrimonio de Laral. El compromiso anterior con el hijo de Roshone y la muerte de Tien se recuerdan; no se crean presencias físicas. Los padres del paciente se mencionan sin nombre."
+        },
+        {
+          "revision": 191,
+          "notes": "OB8 recuerda a los padres de Shallan y reafirma los vínculos Kholin. OB9 Dalinar asigna la investigación a su hijo. OB10 se recuerda el compromiso de Shallan y se distingue el origen de Syl del parentesco biológico. OB11 el niño llama padre a Tanalan; los vínculos de la mujer quedan pendientes. El matrimonio y la hija de Gavilar aparecen como recuerdos, sin presencias en Rathalas."
         }
       ]
     }
@@ -89565,28 +90428,32 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "ob-c8-9"
+        "ob-c8-9",
+        "primary191-ob9"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Cadáver descubierto en este capítulo; no anticipar la autoría."
-      ]
+        "El cadáver de Vedekar Perel está en la cámara de baño; el parecido con el caso Sadeas no resuelve la autoría."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. El cadáver de Vedekar Perel está en la cámara de baño; el parecido con el caso Sadeas no resuelve la autoría."
     },
     {
       "id": "ob-tanalan-elder-dead-11",
       "characterId": "tanalan-elder",
-      "state": "dead",
+      "state": "reported-dead",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
-        "ob-c11"
+        "ob-c11",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte del señor de Rathalas conocida al cierre del recuerdo."
-      ]
+        "Gavilar afirma que Dalinar mató al señor de Rathalas. La muerte se comunica tras la elipsis."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Gavilar afirma que Dalinar mató al señor de Rathalas. La muerte se comunica tras la elipsis."
     },
     {
       "id": "ob-tanalan-younger-reported-dead-11",
@@ -89597,12 +90464,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
-        "ob-c11"
+        "ob-c11",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Gavilar da por muerto al heredero. Conservar como informe, sin resolver su fiabilidad con escenas posteriores."
-      ]
+        "Gavilar da al heredero por muerto; su última aparición narrada lo muestra vivo."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Gavilar da al heredero por muerto; su última aparición narrada lo muestra vivo."
     },
     {
       "id": "ob-blue-tattoo-archer-reported-dead-12",
@@ -90133,12 +91002,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "ob86-tallan"
+        "ob86-tallan",
+        "primary191-ob9"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte relatada en OB9; no crea presencia contemporánea en Urithiru."
-      ]
+        "Colot dice que Tallan no sobrevivió."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Colot dice que Tallan no sobrevivió."
     },
     {
       "id": "audit87-harl-wife-reported-dead",
@@ -90396,12 +91267,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-9"
       },
       "sourceIds": [
-        "mention89-483ab154c736a1"
+        "mention89-483ab154c736a1",
+        "primary191-ob9"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+        "Dalinar nombra a Malan entre los hombres muertos."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Dalinar nombra a Malan entre los hombres muertos."
     },
     {
       "id": "mention89-life-aona",
@@ -90591,19 +91464,21 @@ window.ATLAS_DATA = {
     {
       "id": "mention89-life-thakka",
       "characterId": "thakka",
-      "state": "dead",
+      "state": "reported-dead",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-11"
       },
       "sourceIds": [
         "mention89-32f0a5ce4b7aa5",
-        "mention89-9b49ab4b746a62"
+        "mention89-9b49ab4b746a62",
+        "primary191-ob11"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+        "Thakka cae con la cornisa y se pierde de vista. Dalinar refiere bajas entre su élite, sin mostrar su cadáver."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Thakka cae con la cornisa y se pierde de vista. Dalinar refiere bajas entre su élite, sin mostrar su cadáver."
     },
     {
       "id": "pending91-life-jaks",
@@ -91713,7 +92588,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 190,
+  "revision": 191,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -107737,32 +108612,165 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ob-kaladin-chapter-10-01",
+          "id": "primary191-kaladin-square",
           "scene": "ob-chapter-10",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hornhollow · Población sin localizar",
-          "placeId": "place-hornhollow-unlocated",
+          "place": "Cuernohueco · Plaza y aljibe",
+          "placeId": "place-ob10-cuernohueco-square",
           "realm": "physical",
           "placeNotes": [
-            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Plaza y aljibe",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob-c10",
+          "review": "primary-text",
+          "source": "primary191-ob10",
           "sourceIds": [
-            "ob-c10",
-            "ob-c10-summary"
+            "primary191-ob10"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-hornhollow-unlocated",
-          "coordinateAnchorName": "Hornhollow · Población sin localizar",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Llegan a la plaza; Syl adopta forma de hoja y los habitantes ofrecen esferas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan a la plaza; Syl adopta forma de hoja y los habitantes ofrecen esferas."
+          ]
+        },
+        {
+          "id": "primary191-kaladin-barn",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Granero de las afueras",
+          "placeId": "place-ob10-cuernohueco-barn",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Granero de las afueras",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Visitan el granero saqueado y escuchan el informe de la fervorosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Visitan el granero saqueado y escuchan el informe de la fervorosa."
+          ]
+        },
+        {
+          "id": "primary191-kaladin-house",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Casa del consistor",
+          "placeId": "place-ob10-cuernohueco-house",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Casa del consistor",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Van a la casa del consistor, donde Kaladin habla con el trampero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Van a la casa del consistor, donde Kaladin habla con el trampero."
+          ]
+        },
+        {
+          "id": "ob-kaladin-chapter-10-01",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Población sin localizar",
+          "placeId": "place-hornhollow-unlocated",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Kaladin lee el nombre en el mapa. Las referencias de la ruta no fijan coordenadas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "ob-c10",
+          "sourceIds": [
+            "ob-c10",
+            "ob-c10-summary",
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -107775,12 +108783,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Salen de Cuernohueco rumbo a Kholinar. No llegan a la capital en esta escena.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Salen de Cuernohueco rumbo a Kholinar. No llegan a la capital en esta escena."
           ]
         },
         {
@@ -120553,24 +121559,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Anclaje de ciudad",
-          "placeId": "place-urithiru",
+          "place": "Urithiru · Borde de la plataforma de la Puerta Jurada",
+          "placeId": "place-ob8-urithiru-oathgate-edge",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
-            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+            "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Urithiru · Borde de la plataforma de la Puerta Jurada",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -120587,12 +121594,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Dibuja en el borde de la plataforma y habla con Patrón.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Dibuja en el borde de la plataforma y habla con Patrón."
           ]
         },
         {
@@ -120600,7 +121605,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Reunión de cartografía",
@@ -120614,12 +121619,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -120636,12 +121642,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Participa en la creación del mapa tridimensional de Roshar.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Participa en la creación del mapa tridimensional de Roshar."
           ]
         },
         {
@@ -120649,27 +121653,29 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Sala del segundo asesinato",
-          "placeId": "place-urithiru-second-murder",
+          "place": "Urithiru · Repisa de la cámara de baño",
+          "placeId": "place-ob9-bath-ledge",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Urithiru · Repisa de la cámara de baño",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -120686,12 +121692,57 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Se detiene en la repisa, reconoce los caños y baja a la tina.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Se detiene en la repisa, reconoce los caños y baja a la tina."
+          ]
+        },
+        {
+          "id": "primary191-shallan-corridor-ob9",
+          "scene": "ob-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo junto a la cámara de baño",
+          "placeId": "place-ob9-bath-corridor",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Urithiru · Pasillo junto a la cámara de baño",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob9",
+          "sourceIds": [
+            "primary191-ob9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Salen al pasillo al final de la escena.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen al pasillo al final de la escena."
           ]
         },
         {
@@ -129470,32 +130521,165 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ob-syl-chapter-10-01",
+          "id": "primary191-syl-square",
           "scene": "ob-chapter-10",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Hornhollow · Población sin localizar",
-          "placeId": "place-hornhollow-unlocated",
+          "place": "Cuernohueco · Plaza y aljibe",
+          "placeId": "place-ob10-cuernohueco-square",
           "realm": "physical",
           "placeNotes": [
-            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Plaza y aljibe",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob-c10",
+          "review": "primary-text",
+          "source": "primary191-ob10",
           "sourceIds": [
-            "ob-c10",
-            "ob-c10-summary"
+            "primary191-ob10"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-hornhollow-unlocated",
-          "coordinateAnchorName": "Hornhollow · Población sin localizar",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Llegan a la plaza; Syl adopta forma de hoja y los habitantes ofrecen esferas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llegan a la plaza; Syl adopta forma de hoja y los habitantes ofrecen esferas."
+          ]
+        },
+        {
+          "id": "primary191-syl-barn",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Granero de las afueras",
+          "placeId": "place-ob10-cuernohueco-barn",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Granero de las afueras",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Visitan el granero saqueado y escuchan el informe de la fervorosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Visitan el granero saqueado y escuchan el informe de la fervorosa."
+          ]
+        },
+        {
+          "id": "primary191-syl-house",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Casa del consistor",
+          "placeId": "place-ob10-cuernohueco-house",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Casa del consistor",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Van a la casa del consistor, donde Kaladin habla con el trampero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Van a la casa del consistor, donde Kaladin habla con el trampero."
+          ]
+        },
+        {
+          "id": "ob-syl-chapter-10-01",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Población sin localizar",
+          "placeId": "place-hornhollow-unlocated",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Kaladin lee el nombre en el mapa. Las referencias de la ruta no fijan coordenadas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "ob-c10",
+          "sourceIds": [
+            "ob-c10",
+            "ob-c10-summary",
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
           "storyTime": {
             "relationToStart": "after-start",
             "frame": "present",
@@ -129508,12 +130692,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Salen de Cuernohueco rumbo a Kholinar. No llegan a la capital en esta escena.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Salen de Cuernohueco rumbo a Kholinar. No llegan a la capital en esta escena."
           ]
         },
         {
@@ -136533,7 +137715,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Reunión de cartografía",
@@ -136547,12 +137729,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -136569,12 +137752,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Colabora en la creación del mapa y propone proteger las ciudades con Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Colabora en la creación del mapa y propone proteger las ciudades con Puerta Jurada."
           ]
         },
         {
@@ -136582,7 +137763,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Sala del segundo asesinato",
@@ -136596,13 +137777,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -136619,12 +137801,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Examina el lugar y encarga a Adolin colaborar con Aladar.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Examina el lugar y encarga a Adolin colaborar con Aladar."
           ]
         },
         {
@@ -136646,35 +137826,130 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Asalta la muralla y destruye las catapultas.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Asalta la muralla y destruye las catapultas."
+          ]
+        },
+        {
+          "id": "primary191-dalinar-ledge-fall",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. La cornisa cede y cae a la ciudad junto con Thakka y otros miembros de la élite.",
+          "needsConfirmation": [],
+          "notes": [
+            "La cornisa cede y cae a la ciudad junto con Thakka y otros miembros de la élite."
+          ]
+        },
+        {
+          "id": "primary191-dalinar-garden",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Plataforma ajardinada",
+          "placeId": "place-ob11-rathalas-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Plataforma ajardinada",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Se enfrenta a Tanalan en la plataforma ajardinada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se enfrenta a Tanalan en la plataforma ajardinada."
           ]
         },
         {
@@ -136682,7 +137957,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Rathalas · Refugio familiar sin precisar",
@@ -136696,35 +137971,82 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Persigue a los soldados que trasladan a Tanalan y entra en el refugio.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Persigue a los soldados que trasladan a Tanalan y entra en el refugio."
+          ]
+        },
+        {
+          "id": "primary191-dalinar-after-battle",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Tras la batalla se sienta junto al borde y habla con Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras la batalla se sienta junto al borde y habla con Gavilar."
           ]
         },
         {
@@ -144081,7 +145403,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Reunión de cartografía",
@@ -144095,12 +145417,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -144117,12 +145440,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Interviene en la reunión y atraviesa la imagen proyectada.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Interviene en la reunión y atraviesa la imagen proyectada."
           ]
         },
         {
@@ -144130,7 +145451,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Sala del segundo asesinato",
@@ -144144,13 +145465,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -144167,12 +145489,57 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Baja a la tina, habla con Dalinar y sale con Shallan.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Baja a la tina, habla con Dalinar y sale con Shallan."
+          ]
+        },
+        {
+          "id": "primary191-adolin-corridor-ob9",
+          "scene": "ob-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo junto a la cámara de baño",
+          "placeId": "place-ob9-bath-corridor",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Urithiru · Pasillo junto a la cámara de baño",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob9",
+          "sourceIds": [
+            "primary191-ob9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Salen al pasillo al final de la escena.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen al pasillo al final de la escena."
           ]
         },
         {
@@ -144194,13 +145561,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c10",
           "sourceIds": [
             "ob-c10",
-            "ob-c10-summary"
+            "ob-c10-summary",
+            "primary191-ob10"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -144217,12 +145585,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Visita a Galante en el pasto exterior y habla con Renarin.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Visita a Galante en el pasto exterior y habla con Renarin."
           ]
         },
         {
@@ -147741,7 +149107,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Reunión de cartografía",
@@ -147755,12 +149121,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147777,12 +149144,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Discute la política azishiana, se acerca a su padre y comenta el origen de la luz.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Discute la política azishiana, se acerca a su padre y comenta el origen de la luz."
           ]
         },
         {
@@ -147790,27 +149155,29 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Sala del segundo asesinato",
-          "placeId": "place-urithiru-second-murder",
+          "place": "Urithiru · Repisa de la cámara de baño",
+          "placeId": "place-ob9-bath-ledge",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Urithiru · Repisa de la cámara de baño",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147827,12 +149194,57 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Se queda en la repisa observando a Adolin.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Se queda en la repisa observando a Adolin."
+          ]
+        },
+        {
+          "id": "primary191-renarin-door",
+          "scene": "ob-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Repisa de la cámara de baño",
+          "placeId": "place-ob9-bath-ledge",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Urithiru · Repisa de la cámara de baño",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob9",
+          "sourceIds": [
+            "primary191-ob9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Se queda en la entrada mirando cómo se alejan Shallan y Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se queda en la entrada mirando cómo se alejan Shallan y Adolin."
           ]
         },
         {
@@ -147840,7 +149252,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-10",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Caballerizas y pastos",
@@ -147854,13 +149266,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c10",
           "sourceIds": [
             "ob-c10",
-            "ob-c10-summary"
+            "ob-c10-summary",
+            "primary191-ob10"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147877,12 +149290,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-10"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Va al pasto, muestra su hoja y regresa a la torre tras curar la muñeca de Adolin.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Va al pasto, muestra su hoja y regresa a la torre tras curar la muñeca de Adolin."
           ]
         },
         {
@@ -151920,35 +153331,34 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Combate en el adarve y lanza su martillo a Dalinar.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Combate en el adarve y lanza su martillo a Dalinar."
           ]
         },
         {
@@ -155424,7 +156834,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Reunión de cartografía",
@@ -155438,12 +156848,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -155460,12 +156871,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Interviene en la discusión y comenta la luz tormentosa y la ubicación de varias puertas.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Interviene en la discusión y comenta la luz tormentosa y la ubicación de varias puertas."
           ]
         },
         {
@@ -155473,7 +156882,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Sala del segundo asesinato",
@@ -155487,13 +156896,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -155510,12 +156920,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Desciende y examina la postura y la herida del cadáver.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Desciende y examina la postura y la herida del cadáver."
           ]
         },
         {
@@ -171923,7 +173331,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Sala del segundo asesinato",
@@ -171937,13 +173345,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -171960,12 +173369,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Baja con Peet y Rlain; después se retira con los soldados.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Baja con Peet y Rlain; después se retira con los soldados."
           ]
         },
         {
@@ -174948,7 +176355,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Sala del segundo asesinato",
@@ -174962,13 +176369,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174985,12 +176393,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Rlain baja a la tina con Peet y Lopen.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Rlain baja a la tina con Peet y Lopen."
           ]
         },
         {
@@ -188475,24 +189881,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Anclaje de ciudad",
-          "placeId": "place-urithiru",
+          "place": "Urithiru · Borde de la plataforma de la Puerta Jurada",
+          "placeId": "place-ob8-urithiru-oathgate-edge",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
-            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+            "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Urithiru · Borde de la plataforma de la Puerta Jurada",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -188509,12 +189916,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Habla desde la falda de Shallan sobre lo ocurrido con su madre.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Habla desde la falda de Shallan sobre lo ocurrido con su madre."
           ]
         },
         {
@@ -188522,7 +189927,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Reunión de cartografía",
@@ -188536,12 +189941,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -188558,12 +189964,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Zumba desde la falda de Shallan.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Zumba desde la falda de Shallan."
           ]
         },
         {
@@ -188571,7 +189975,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-9",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Sala del segundo asesinato",
@@ -188585,13 +189989,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -188608,12 +190013,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Zumba en la falda de Shallan mientras ella observa a Renarin y Adolin.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Zumba en la falda de Shallan mientras ella observa a Renarin y Adolin."
           ]
         },
         {
@@ -219042,35 +220445,82 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Escala la muralla y abre los portones.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Escala la muralla y abre los portones."
+          ]
+        },
+        {
+          "id": "primary191-gavilar-after-battle",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Se sienta junto a Dalinar y le habla de los cautivos y de Juramentada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se sienta junto a Dalinar y le habla de los cautivos y de Juramentada."
           ]
         },
         {
@@ -221767,49 +223217,49 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 7,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Rathalas · Asalto y combate",
-          "placeId": "place-rathalas-battle",
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             709.366,
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Escolta a Gavilar junto a Febin después de la batalla.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Escolta a Gavilar junto a Febin después de la batalla."
           ]
         },
         {
@@ -222033,49 +223483,49 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Rathalas · Asalto y combate",
-          "placeId": "place-rathalas-battle",
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             709.366,
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Teleb dispara desde cerca de la sección caída y salva el paso de Dalinar.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Teleb dispara desde cerca de la sección caída y salva el paso de Dalinar."
           ]
         },
         {
@@ -223163,30 +224613,79 @@ window.ATLAS_DATA = {
           ]
         },
         {
-          "id": "ob-lyn-chapter-8-02",
+          "id": "primary191-lyn-platform",
           "scene": "ob-chapter-8",
           "retrospective": false,
           "memoryPhase": null,
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Reunión de cartografía",
-          "placeId": "place-urithiru-cartography-meeting",
+          "place": "Urithiru · Borde de la plataforma de la Puerta Jurada",
+          "placeId": "place-ob8-urithiru-oathgate-edge",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Urithiru · Borde de la plataforma de la Puerta Jurada",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
+          "source": "primary191-ob8",
+          "sourceIds": [
+            "primary191-ob8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Sube por la rampa a buscar a Shallan y mira sus dibujos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube por la rampa a buscar a Shallan y mira sus dibujos."
+          ]
+        },
+        {
+          "id": "ob-lyn-chapter-8-02",
+          "scene": "ob-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada de la sala de cartografía",
+          "placeId": "place-ob8-cartography-door",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Urithiru · Entrada de la sala de cartografía",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
-            "ob-c8-9"
+            "ob-c8-9",
+            "primary191-ob8"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -223203,62 +224702,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-8"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/8.Unamentira.xhtml. Monta guardia y avisa desde la puerta de que ha habido otro asesinato.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
-          ]
-        },
-        {
-          "id": "ob-lyn-chapter-9-01",
-          "scene": "ob-chapter-9",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 1,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Urithiru · Sala del segundo asesinato",
-          "placeId": "place-urithiru-second-murder",
-          "realm": "physical",
-          "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
-          ],
-          "xy": [
-            474.647,
-            410.831
-          ],
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob-c8-9",
-          "sourceIds": [
-            "ob-c8-9",
-            "ob-c9-summary"
-          ],
-          "status": "pending",
-          "coordinateStatus": "pending-calibration",
-          "coordinatePrecision": "city-anchor",
-          "coordinateAnchorId": "place-urithiru",
-          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "present",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de lectura; no afirma simultaneidad entre puntos de vista."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-9"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
-          "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Monta guardia y avisa desde la puerta de que ha habido otro asesinato."
           ]
         },
         {
@@ -223717,13 +225164,14 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c8-9",
           "sourceIds": [
             "ob-c8-9",
-            "ob-c9-summary"
+            "ob-c9-summary",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -223740,12 +225188,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Su cadáver yace al fondo de la tina, herido en el ojo.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Su cadáver yace al fondo de la tina, herido en el ojo."
           ]
         }
       ]
@@ -224546,11 +225992,59 @@ window.ATLAS_DATA = {
       "importanceReason": "Su intervención documentada corresponde a la defensa de una ciudad en un recuerdo concreto.",
       "events": [
         {
+          "id": "primary191-tanalan-garden",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Plataforma ajardinada",
+          "placeId": "place-ob11-rathalas-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Plataforma ajardinada",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dirige a los arqueros y combate contra Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dirige a los arqueros y combate contra Dalinar."
+          ]
+        },
+        {
           "id": "ob-tanalan-elder-chapter-11-02",
           "scene": "ob-chapter-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Rathalas · Refugio familiar sin precisar",
@@ -224564,35 +226058,34 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Sus soldados lo llevan herido a la estancia oculta.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Sus soldados lo llevan herido a la estancia oculta."
           ]
         }
       ]
@@ -224611,7 +226104,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Rathalas · Refugio familiar sin precisar",
@@ -224625,35 +226118,34 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Intenta levantar la hoja esquirlada de su padre.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Intenta levantar la hoja esquirlada de su padre."
           ]
         }
       ]
@@ -224672,7 +226164,7 @@ window.ATLAS_DATA = {
           "scene": "ob-chapter-11",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 2,
+          "memoryOrder": 6,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Rathalas · Refugio familiar sin precisar",
@@ -224686,35 +226178,34 @@ window.ATLAS_DATA = {
             397.55
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c11",
           "sourceIds": [
             "ob-c11",
-            "ob-c11-summary"
+            "ob-c11-summary",
+            "primary191-ob11"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-rathalas",
           "coordinateAnchorName": "Rathalas · La Grieta",
           "storyTime": {
-            "relationToStart": "before-start",
             "frame": "flashback",
+            "relationToStart": "before-start",
             "date": null,
             "precision": "relative-only",
             "relativeYearsBeforePresent": 33,
-            "note": "Recuerdo de treinta y tres años antes; separado del presente."
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
           },
           "revealedAt": {
             "bookId": "ob",
             "sceneId": "ob-chapter-11"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Llora sobre Tanalan herido.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Llora sobre Tanalan herido."
           ]
         }
       ]
@@ -230716,6 +232207,52 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary191-peet-bath",
+          "scene": "ob-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala del segundo asesinato",
+          "placeId": "place-urithiru-second-murder",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob9",
+          "sourceIds": [
+            "primary191-ob9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Informa a Dalinar y baja a la tina detrás de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Informa a Dalinar y baja a la tina detrás de Adolin."
+          ]
+        },
+        {
           "id": "ob75-peet-28-2",
           "scene": "ob-chapter-28",
           "retrospective": false,
@@ -231441,7 +232978,54 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Su aportación documentada se limita a una mención o intervención concreta, sin trama de perspectiva sostenida en la cobertura.",
-      "events": []
+      "events": [
+        {
+          "id": "primary191-glys-blade",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Caballerizas y pastos",
+          "placeId": "place-urithiru-stables",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Renarin dice que Glys ha logrado adoptar forma de hoja y muestra el arma a Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin dice que Glys ha logrado adoptar forma de hoja y muestra el arma a Adolin."
+          ]
+        }
+      ]
     },
     {
       "id": "midnight-mother",
@@ -236431,23 +238015,25 @@ window.ATLAS_DATA = {
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Sala del segundo asesinato",
-          "placeId": "place-urithiru-second-murder",
+          "place": "Urithiru · Repisa de la cámara de baño",
+          "placeId": "place-ob9-bath-ledge",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Urithiru · Repisa de la cámara de baño",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-colot",
           "sourceIds": [
-            "ob86-colot"
+            "ob86-colot",
+            "primary191-ob9"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -236464,11 +238050,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-9"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/9.Roscatornillo.xhtml. Informa a Dalinar y recibe órdenes para asegurar el perímetro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Informa a Dalinar y recibe órdenes para asegurar el perímetro."
+          ]
         },
         {
           "id": "ob86-obs-18-colot",
@@ -239385,6 +240971,52 @@ window.ATLAS_DATA = {
           "notes": [
             "Shallan ve a Dalinar y Navani junto a Galante tras el traslado."
           ]
+        },
+        {
+          "id": "primary191-gallant-pasture",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Caballerizas y pastos",
+          "placeId": "place-urithiru-stables",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Galopa en su campo y Adolin le da azúcar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Galopa en su campo y Adolin le da azúcar."
+          ]
         }
       ]
     },
@@ -242022,6 +243654,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Estima la distancia y presencia la demostración del arquero."
           ]
+        },
+        {
+          "id": "primary191-thakka-ledge",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Cae cuando se desprende la cornisa. Dalinar pierde de vista a los hombres que caen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cae cuando se desprende la cornisa. Dalinar pierde de vista a los hombres que caen."
+          ]
         }
       ]
     },
@@ -242033,7 +243713,56 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary191-febin-after-battle",
+          "scene": "ob-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cornisa y borde de la Grieta",
+          "placeId": "place-ob11-rathalas-overlook",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Rathalas · Cornisa y borde de la Grieta",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob11",
+          "sourceIds": [
+            "primary191-ob11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 33,
+            "note": "Treinta y tres años antes, según el encabezado del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Escolta a Gavilar junto con Kadash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta a Gavilar junto con Kadash."
+          ]
+        }
+      ]
     },
     {
       "id": "rien",
@@ -264475,6 +266204,235 @@ window.ATLAS_DATA = {
       "name": "Intermediaria de Tashikk",
       "role": "Laral tiene una corresponsal que puede transmitir un mensaje a Navani. No se identifica por nombre.",
       "initial": "I",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "cuernohueco-consistor-ob10",
+      "name": "Consistor de Cuernohueco",
+      "role": "Recibe a Kaladin, intercambia esferas y lo pone en contacto con un trampero.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary191-consistor-square",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Plaza y aljibe",
+          "placeId": "place-ob10-cuernohueco-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Plaza y aljibe",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Recibe a Kaladin en la plaza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a Kaladin en la plaza."
+          ]
+        },
+        {
+          "id": "primary191-consistor-house",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Casa del consistor",
+          "placeId": "place-ob10-cuernohueco-house",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Casa del consistor",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Conduce la conversación con el trampero en su casa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Conduce la conversación con el trampero en su casa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cuernohueco-ardent-ob10",
+      "name": "Fervorosa de Cuernohueco",
+      "role": "Expone los testimonios del robo del grano.",
+      "initial": "F",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary191-ardent-barn",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Granero de las afueras",
+          "placeId": "place-ob10-cuernohueco-barn",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Granero de las afueras",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Presenta a Kaladin el informe del saqueo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presenta a Kaladin el informe del saqueo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cuernohueco-trapper-ob10",
+      "name": "Trampero de Cuernohueco",
+      "role": "Dice que siguió a los fugitivos durante media jornada hacia Kholinar.",
+      "initial": "T",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary191-trapper-house",
+          "scene": "ob-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Cuernohueco · Casa del consistor",
+          "placeId": "place-ob10-cuernohueco-house",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Cuernohueco · Casa del consistor",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary191-ob10",
+          "sourceIds": [
+            "primary191-ob10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-hornhollow-unlocated",
+          "coordinateAnchorName": "Cuernohueco · Población sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/10.Distracciones.xhtml. Explica el rumbo que siguieron los fugitivos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica el rumbo que siguieron los fugitivos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sot-ob10",
+      "name": "Sot",
+      "role": "La fervorosa cuenta que dio la alarma en el granero.",
+      "initial": "S",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
+    },
+    {
+      "id": "sadees-sunmaker-ob11",
+      "name": "Sadees, el Hacedor de Soles",
+      "role": "Dalinar recuerda que unificó Alezkar siglos antes. Gavilar identifica Juramentada como su antigua hoja.",
+      "initial": "S",
       "importance": "tertiary",
       "color": "#a8b8c5",
       "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
