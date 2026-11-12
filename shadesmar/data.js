@@ -3101,6 +3101,7 @@ window.ATLAS_DATA = {
       "revolar-father",
       "revolar-fused-official",
       "revolar-fused-pursuers",
+      "revolar-rescued-woman-ob31",
       "revolar-son",
       "stormfather",
       "syl",
@@ -11284,6 +11285,91 @@ window.ATLAS_DATA = {
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Aparecen sobre el cuaderno de Shallan mientras dibuja en el auditorio.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/27.Juegofingir.xhtml. Aparecen sobre el cuaderno de Shallan mientras dibuja en el auditorio.",
         "supersedes": []
+      },
+      {
+        "id": "primary196-oathbringer-voice",
+        "entryId": "spren-person-stormfather",
+        "field": "description",
+        "value": "Habla con Dalinar sobre el spren muerto de Juramentada y sobre compartir visiones.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-28"
+        },
+        "sourceIds": [
+          "primary196-ob28"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Habla con Dalinar sobre el spren muerto de Juramentada y sobre compartir visiones.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Habla con Dalinar sobre el spren muerto de Juramentada y sobre compartir visiones.",
+        "supersedes": []
+      },
+      {
+        "id": "primary196-decay-chamber",
+        "entryId": "spren-type-decayspren",
+        "field": "appearance",
+        "value": "Shallan espanta a los deteriospren entre polvo y astillas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-29"
+        },
+        "sourceIds": [
+          "primary196-ob29"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan espanta a los deteriospren entre polvo y astillas.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan espanta a los deteriospren entre polvo y astillas.",
+        "supersedes": []
+      },
+      {
+        "id": "primary196-reshephir-contact",
+        "entryId": "spren-person-midnight-mother",
+        "field": "description",
+        "value": "Shallan reconoce a Re-Shephir durante el contacto. Percibe su interés por imitar a los humanos y la criatura se retira.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-30"
+        },
+        "sourceIds": [
+          "primary196-ob30"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Shallan reconoce a Re-Shephir durante el contacto. Percibe su interés por imitar a los humanos y la criatura se retira.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Shallan reconoce a Re-Shephir durante el contacto. Percibe su interés por imitar a los humanos y la criatura se retira.",
+        "supersedes": []
+      },
+      {
+        "id": "primary196-yixli-name",
+        "entryId": "spren-person-yellow-ribbon-spren",
+        "field": "name",
+        "value": "Yixli",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-31"
+        },
+        "sourceIds": [
+          "primary196-ob31"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Yixli",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Yixli",
+        "supersedes": []
+      },
+      {
+        "id": "primary196-windbreak-revolar",
+        "entryId": "spren-type-windspren",
+        "field": "appearance",
+        "value": "Acuden como cintas luminosas alrededor del brazo de Kaladin cuando desvía el viento.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-31"
+        },
+        "sourceIds": [
+          "primary196-ob31"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Acuden como cintas luminosas alrededor del brazo de Kaladin cuando desvía el viento.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Acuden como cintas luminosas alrededor del brazo de Kaladin cuando desvía el viento.",
+        "supersedes": []
       }
     ],
     "links": [
@@ -16235,22 +16321,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Eth lo menciona en una broma; no se da nombre ni se afirma matrimonio. No identificar con una pareja de libros posteriores."
+        "Eth dice que Skar está saliendo con una mujer; no la identifica."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Eth alude a una mujer con la que sale Skar: relación sentimental relatada, no vínculo entre Eth y esa mujer. Conservar carácter atribuido y anonimato.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ]
-      }
+        "reason": "Eth dice que Skar está saliendo con una mujer; no la identifica."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Eth dice que Skar está saliendo con una mujer; no la identifica."
     },
     {
       "id": "ob76-rel-revolar-father-revolar-son",
@@ -16264,20 +16349,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Kaladin ayuda a un padre que sostiene a su hijo, ambos sin nombre."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ]
-      }
+        "reason": "Kaladin ayuda a un padre que sostiene a su hijo, ambos sin nombre."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin ayuda a un padre que sostiene a su hijo, ambos sin nombre."
     },
     {
       "id": "ob76-rel-stormfather-syl",
@@ -16291,22 +16377,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Kaladin recuerda la afirmación del Padre Tormenta; Syl matiza que es complicado. No representa filiación biológica ni fija aquí su primera revelación absoluta."
+        "Syl llama padre al Padre Tormenta en el contexto de su origen como spren."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto companion: Tratamiento de padre; origen spren complejo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ]
-      }
+        "reason": "Syl llama padre al Padre Tormenta en el contexto de su origen como spren."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Syl llama padre al Padre Tormenta en el contexto de su origen como spren."
     },
     {
       "id": "ob78-rel-puuli-grandfather-puuli",
@@ -34075,7 +34160,7 @@ window.ATLAS_DATA = {
         "navani"
       ],
       "type": "message",
-      "summary": "Intercambian propuestas por vinculacaña.",
+      "summary": "Teshav transmite el intercambio con Fen y Dalinar consulta a Navani.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
@@ -34085,16 +34170,14 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Fen dirige los mensajes a Dalinar; Teshav/Navani ayudan localmente. No derivar enlaces personales Fen–escribas de la transmisión material de vinculacaña. Hay comunicaciones concretas, sin encuentro físico.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Teshav transmite el intercambio con Fen y Dalinar consulta a Navani.",
         "pairs": [
           [
             "dalinar",
@@ -34109,7 +34192,8 @@ window.ATLAS_DATA = {
             "navani"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Teshav transmite el intercambio con Fen y Dalinar consulta a Navani."
     },
     {
       "id": "ob75-interaction-28-12",
@@ -34120,7 +34204,7 @@ window.ATLAS_DATA = {
         "peet"
       ],
       "type": "encounter",
-      "summary": "Le muestran la espada encontrada.",
+      "summary": "Lyn guía a Dalinar y Leyten y Peet le muestran Juramentada.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
@@ -34130,16 +34214,14 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Le muestran la espada encontrada. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Lyn guía a Dalinar y Leyten y Peet le muestran Juramentada.",
         "pairs": [
           [
             "dalinar",
@@ -34154,7 +34236,8 @@ window.ATLAS_DATA = {
             "peet"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Lyn guía a Dalinar y Leyten y Peet le muestran Juramentada."
     },
     {
       "id": "ob75-interaction-28-13",
@@ -34164,7 +34247,7 @@ window.ATLAS_DATA = {
         "amaram"
       ],
       "type": "conflict",
-      "summary": "Devuelve la espada y discute con Amaram.",
+      "summary": "Devuelve Juramentada a la casa Sadeas y discute con Amaram.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
@@ -34174,27 +34257,26 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Devuelve la espada y discute con Amaram. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Devuelve Juramentada a la casa Sadeas y discute con Amaram.",
         "pairs": [
           [
             "dalinar",
-            "amaram"
+            "ialai"
           ],
           [
             "dalinar",
-            "ialai"
+            "amaram"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Devuelve Juramentada a la casa Sadeas y discute con Amaram."
     },
     {
       "id": "ob75-interaction-28-14",
@@ -34203,7 +34285,7 @@ window.ATLAS_DATA = {
         "taravangian"
       ],
       "type": "conversation",
-      "summary": "Debaten sobre justicia.",
+      "summary": "Hablan junto al fabrial de rubí y debaten sobre justicia.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
@@ -34213,23 +34295,22 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Debaten sobre justicia. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Hablan junto al fabrial de rubí y debaten sobre justicia.",
         "pairs": [
           [
             "dalinar",
             "taravangian"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Hablan junto al fabrial de rubí y debaten sobre justicia."
     },
     {
       "id": "ob75-interaction-28-15",
@@ -34238,7 +34319,7 @@ window.ATLAS_DATA = {
         "stormfather"
       ],
       "type": "conversation",
-      "summary": "Hablan de compartir las visiones.",
+      "summary": "Hablan de compartir las visiones. El pasaje no describe un viaje corporal.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
@@ -34248,23 +34329,22 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de compartir las visiones. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Hablan de compartir las visiones. El pasaje no describe un viaje corporal.",
         "pairs": [
           [
             "dalinar",
             "stormfather"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Hablan de compartir las visiones. El pasaje no describe un viaje corporal."
     },
     {
       "id": "ob75-interaction-29-16",
@@ -34274,7 +34354,7 @@ window.ATLAS_DATA = {
         "red"
       ],
       "type": "conversation",
-      "summary": "Organiza la vigilancia.",
+      "summary": "Velo habla con Gaz y Red durante la vigilancia del mercado.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
@@ -34284,16 +34364,14 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Organiza la vigilancia. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Velo habla con Gaz y Red durante la vigilancia del mercado.",
         "pairs": [
           [
             "shallan",
@@ -34304,7 +34382,8 @@ window.ATLAS_DATA = {
             "red"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Velo habla con Gaz y Red durante la vigilancia del mercado."
     },
     {
       "id": "ob75-interaction-29-17",
@@ -34314,7 +34393,7 @@ window.ATLAS_DATA = {
         "glurv"
       ],
       "type": "cooperation",
-      "summary": "Siguen al agresor.",
+      "summary": "Vathah indica a Shallan que Glurv sigue la pista y Glurv señala el túnel.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
@@ -34324,27 +34403,30 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Vathah informa de que Glurv sigue al agresor y Shallan recibe instrucciones. No consta trato directo Shallan–Glurv en la descripción revisada.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Vathah indica a Shallan que Glurv sigue la pista y Glurv señala el túnel.",
         "pairs": [
           [
             "shallan",
             "vathah"
           ],
           [
+            "shallan",
+            "glurv"
+          ],
+          [
             "vathah",
             "glurv"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Vathah indica a Shallan que Glurv sigue la pista y Glurv señala el túnel."
     },
     {
       "id": "ob75-interaction-29-18",
@@ -34353,7 +34435,7 @@ window.ATLAS_DATA = {
         "adolin"
       ],
       "type": "message",
-      "summary": "Pide ayuda para Shallan.",
+      "summary": "Patrón pide ayuda para Shallan.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
@@ -34363,23 +34445,22 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Pide ayuda para Shallan. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Patrón pide ayuda para Shallan.",
         "pairs": [
           [
             "pattern",
             "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Patrón pide ayuda para Shallan."
     },
     {
       "id": "ob75-interaction-29-19",
@@ -34391,7 +34472,7 @@ window.ATLAS_DATA = {
         "lyn"
       ],
       "type": "cooperation",
-      "summary": "Preparan y realizan el descenso.",
+      "summary": "Shallan informa del peligro y organiza el descenso y los planos con la partida.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
@@ -34401,16 +34482,14 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Pasaje primario: Renarin pregunta a Shallan, Adolin habla con Shallan y da órdenes concretas a Teft/Lyn; Teft y Lyn conversan sobre el escondite. No clique del grupo que baja.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Shallan informa del peligro y organiza el descenso y los planos con la partida.",
         "pairs": [
           [
             "shallan",
@@ -34421,31 +34500,25 @@ window.ATLAS_DATA = {
             "renarin"
           ],
           [
-            "adolin",
+            "shallan",
             "teft"
           ],
           [
-            "adolin",
-            "lyn"
-          ],
-          [
-            "teft",
+            "shallan",
             "lyn"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan informa del peligro y organiza el descenso y los planos con la partida."
     },
     {
       "id": "ob75-interaction-29-20",
       "participants": [
-        "renarin",
         "teft",
-        "lopen",
-        "rock",
         "drehy"
       ],
       "type": "conversation",
-      "summary": "Conversan antes del descenso.",
+      "summary": "Drehy pide instrucciones a Teft durante la preparación del descenso.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
@@ -34455,42 +34528,33 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Pasaje primario: Teft responde a Renarin; Lopen y Roca discuten quién es más raro; Drehy pregunta por las órdenes a Teft. No cinco participantes todos conectados.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Drehy pide instrucciones a Teft durante la preparación del descenso.",
         "pairs": [
-          [
-            "renarin",
-            "teft"
-          ],
-          [
-            "lopen",
-            "rock"
-          ],
           [
             "teft",
             "drehy"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Drehy pide instrucciones a Teft durante la preparación del descenso."
     },
     {
       "id": "ob75-interaction-29-21",
       "participants": [
         "shallan",
+        "midnight-mother",
         "adolin",
-        "renarin",
-        "midnight-mother"
+        "renarin"
       ],
       "type": "conflict",
-      "summary": "Se enfrentan a la masa oscura.",
+      "summary": "Shallan se dirige a la masa y Adolin agarra a Renarin para ayudarlo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
@@ -34500,16 +34564,14 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se enfrentan a la masa oscura. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Shallan se dirige a la masa y Adolin agarra a Renarin para ayudarlo.",
         "pairs": [
           [
             "shallan",
@@ -34517,22 +34579,11 @@ window.ATLAS_DATA = {
           ],
           [
             "adolin",
-            "midnight-mother"
-          ],
-          [
-            "renarin",
-            "midnight-mother"
-          ],
-          [
-            "shallan",
-            "adolin"
-          ],
-          [
-            "adolin",
             "renarin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan se dirige a la masa y Adolin agarra a Renarin para ayudarlo."
     },
     {
       "id": "ob75-interaction-30-22",
@@ -34542,7 +34593,7 @@ window.ATLAS_DATA = {
         "midnight-mother"
       ],
       "type": "conflict",
-      "summary": "Resisten el intento de alterar el vínculo.",
+      "summary": "Shallan y Patrón resisten el intento de Re-Shephir de alterar su vínculo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-30"
@@ -34552,16 +34603,14 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob30"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Resisten el intento de alterar el vínculo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Shallan y Patrón resisten el intento de Re-Shephir de alterar su vínculo.",
         "pairs": [
           [
             "shallan",
@@ -34570,13 +34619,10 @@ window.ATLAS_DATA = {
           [
             "shallan",
             "midnight-mother"
-          ],
-          [
-            "pattern",
-            "midnight-mother"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Shallan y Patrón resisten el intento de Re-Shephir de alterar su vínculo."
     },
     {
       "id": "ob75-interaction-30-23",
@@ -34585,7 +34631,7 @@ window.ATLAS_DATA = {
         "adolin"
       ],
       "type": "cooperation",
-      "summary": "Adolin la sostiene tras el enfrentamiento.",
+      "summary": "Adolin sostiene a Shallan tras el enfrentamiento y señala el túnel por el que se retiró la criatura.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-30"
@@ -34595,23 +34641,22 @@ window.ATLAS_DATA = {
         "note": "Escena explícita."
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob30"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Adolin la sostiene tras el enfrentamiento. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-28-30/"
-        ],
+        "reason": "Adolin sostiene a Shallan tras el enfrentamiento y señala el túnel por el que se retiró la criatura.",
         "pairs": [
           [
             "shallan",
             "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Adolin sostiene a Shallan tras el enfrentamiento y señala el túnel por el que se retiró la criatura."
     },
     {
       "id": "ob76-interaction-31-0",
@@ -34620,7 +34665,7 @@ window.ATLAS_DATA = {
         "parshman-card-player"
       ],
       "type": "conversation",
-      "summary": "Debaten sobre esclavitud y guerra.",
+      "summary": "Sah dice a Kaladin que teme que vuelvan a esclavizarlo a él y a Vai.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
@@ -34630,23 +34675,22 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Debaten sobre esclavitud y guerra. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
+        "reason": "Sah dice a Kaladin que teme que vuelvan a esclavizarlo a él y a Vai.",
         "pairs": [
           [
             "kaladin",
             "parshman-card-player"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Sah dice a Kaladin que teme que vuelvan a esclavizarlo a él y a Vai."
     },
     {
       "id": "ob76-interaction-31-1",
@@ -34655,7 +34699,7 @@ window.ATLAS_DATA = {
         "khen"
       ],
       "type": "conversation",
-      "summary": "Se despide antes de escapar.",
+      "summary": "Kaladin habla con Khen antes de separarse del grupo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
@@ -34665,23 +34709,22 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se despide antes de escapar. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
+        "reason": "Kaladin habla con Khen antes de separarse del grupo.",
         "pairs": [
           [
             "kaladin",
             "khen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin habla con Khen antes de separarse del grupo."
     },
     {
       "id": "ob76-interaction-31-2",
@@ -34690,7 +34733,7 @@ window.ATLAS_DATA = {
         "syl"
       ],
       "type": "conversation",
-      "summary": "Hablan durante el vuelo.",
+      "summary": "Hablan durante el vuelo y del modo en que interviene el Padre Tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
@@ -34700,23 +34743,22 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan durante el vuelo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
+        "reason": "Hablan durante el vuelo y del modo en que interviene el Padre Tormenta.",
         "pairs": [
           [
             "kaladin",
             "syl"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Hablan durante el vuelo y del modo en que interviene el Padre Tormenta."
     },
     {
       "id": "ob76-interaction-31-3",
@@ -34725,7 +34767,7 @@ window.ATLAS_DATA = {
         "stormfather"
       ],
       "type": "conversation",
-      "summary": "Pide protección para los civiles.",
+      "summary": "Kaladin pide al Padre Tormenta que proteja a los civiles expuestos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
@@ -34735,23 +34777,22 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Pide protección para los civiles. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
+        "reason": "Kaladin pide al Padre Tormenta que proteja a los civiles expuestos.",
         "pairs": [
           [
             "kaladin",
             "stormfather"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin pide al Padre Tormenta que proteja a los civiles expuestos."
     },
     {
       "id": "ob76-interaction-31-4",
@@ -34760,7 +34801,7 @@ window.ATLAS_DATA = {
         "revolar-fused-pursuers"
       ],
       "type": "conflict",
-      "summary": "Lo persiguen durante la tormenta.",
+      "summary": "Dos Fusionados atacan a Kaladin y lo persiguen en la tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
@@ -34770,23 +34811,22 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Lo persiguen durante la tormenta. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
+        "reason": "Dos Fusionados atacan a Kaladin y lo persiguen en la tormenta.",
         "pairs": [
           [
             "kaladin",
             "revolar-fused-pursuers"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Dos Fusionados atacan a Kaladin y lo persiguen en la tormenta."
     },
     {
       "id": "ob76-interaction-31-5",
@@ -34796,7 +34836,7 @@ window.ATLAS_DATA = {
         "revolar-son"
       ],
       "type": "cooperation",
-      "summary": "Ayuda a los civiles a llegar al refugio.",
+      "summary": "Kaladin ayuda al padre y lleva al niño hasta que el padre puede recuperarlo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
@@ -34806,16 +34846,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ayuda a los civiles a llegar al refugio. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
+        "reason": "Kaladin ayuda al padre y lleva al niño hasta que el padre puede recuperarlo.",
         "pairs": [
           [
             "kaladin",
@@ -34830,7 +34868,8 @@ window.ATLAS_DATA = {
             "revolar-son"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin ayuda al padre y lleva al niño hasta que el padre puede recuperarlo."
     },
     {
       "id": "ob76-interaction-32-6",
@@ -57775,6 +57814,39 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "id": "primary196-revolar-woman-help",
+      "participants": [
+        "kaladin",
+        "revolar-rescued-woman-ob31"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-31"
+      },
+      "type": "conversation",
+      "summary": "Kaladin ayuda a la mujer a avanzar hasta el grupo protegido del viento.",
+      "sourceIds": [
+        "primary196-ob31"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin ayuda a la mujer a avanzar hasta el grupo protegido del viento.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin ayuda a la mujer a avanzar hasta el grupo protegido del viento.",
+        "pairs": [
+          [
+            "kaladin",
+            "revolar-rescued-woman-ob31"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -62178,77 +62250,87 @@ window.ATLAS_DATA = {
       "id": "ob75-fact-dalinar-28-9",
       "characterId": "dalinar",
       "kind": "background",
-      "text": "Descubre que puede compartir las visiones sin traslado corporal.",
+      "text": "Averigua que puede invitar a otros a las visiones que recibe del Padre Tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Averigua que puede invitar a otros a las visiones que recibe del Padre Tormenta."
     },
     {
       "id": "ob75-fact-renarin-29-10",
       "characterId": "renarin",
       "kind": "background",
-      "text": "Nombra a Glys durante el descenso.",
+      "text": "Dice que Glys tiene miedo y permanece callado.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Dice que Glys tiene miedo y permanece callado."
     },
     {
       "id": "ob75-fact-skar-29-11",
       "characterId": "skar",
       "kind": "background",
-      "text": "Eth menciona que está viendo a una mujer, sin identificarla.",
+      "text": "Eth comenta que está saliendo con una mujer a la que no nombra.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Eth comenta que está saliendo con una mujer a la que no nombra."
     },
     {
       "id": "ob75-fact-midnight-mother-30-12",
       "characterId": "midnight-mother",
       "kind": "background",
-      "text": "Tras el contacto con Shallan y Patrón, huye con vida.",
+      "text": "Shallan reconoce a Re-Shephir durante el contacto. Se retira de la cámara por el túnel.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-30"
       },
       "sourceIds": [
         "ob-primary-28-30",
-        "review88-source-fda60099f49b36"
+        "review88-source-fda60099f49b36",
+        "primary196-ob30"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Shallan reconoce a Re-Shephir durante el contacto. Se retira de la cámara por el túnel."
     },
     {
       "id": "ob75-fact-shallan-30-13",
       "characterId": "shallan",
       "kind": "background",
-      "text": "El contacto mental no confirma una visita corporal a otro plano.",
+      "text": "Se imagina abrazada a Patrón mientras resiste a Re-Shephir. La escena física sigue en la cámara.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-30"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob30"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Se imagina abrazada a Patrón mientras resiste a Re-Shephir. La escena física sigue en la cámara."
     },
     {
       "id": "ob75-fact-midnight-creatures-25-14",
@@ -62390,46 +62472,52 @@ window.ATLAS_DATA = {
       "id": "ob75-fact-glurv-29-22",
       "characterId": "glurv",
       "kind": "background",
-      "text": "Soldado de Shallan.",
+      "text": "Soldado que sigue al sospechoso y señala el túnel oriental.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Soldado que sigue al sospechoso y señala el túnel oriental."
     },
     {
       "id": "ob75-fact-peet-28-23",
       "characterId": "peet",
       "kind": "background",
-      "text": "Miembro del Puente Cuatro.",
+      "text": "Miembro del Puente Cuatro que acompaña a Leyten cuando le muestran la espada a Dalinar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Miembro del Puente Cuatro que acompaña a Leyten cuando le muestran la espada a Dalinar."
     },
     {
       "id": "ob75-fact-eth-29-24",
       "characterId": "eth",
       "kind": "background",
-      "text": "Miembro del Puente Cuatro.",
+      "text": "Hombre del Puente Cuatro que participa en el descenso.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Hombre del Puente Cuatro que participa en el descenso."
     },
     {
       "id": "ob75-fact-ialai-nephew-27-25",
@@ -62452,17 +62540,19 @@ window.ATLAS_DATA = {
       "id": "ob75-fact-skar-courtship-29-26",
       "characterId": "skar-courtship",
       "kind": "background",
-      "text": "Eth menciona que Skar está saliendo con una mujer, sin identificarla.",
+      "text": "Eth menciona a la mujer con la que sale Skar, sin identificarla.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
         "ob-primary-28-30",
-        "review88-source-7c05184b28c937"
+        "review88-source-7c05184b28c937",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Eth menciona a la mujer con la que sale Skar, sin identificarla."
     },
     {
       "id": "ob75-fact-spark-27-27",
@@ -62485,91 +62575,103 @@ window.ATLAS_DATA = {
       "id": "ob75-fact-glys-29-28",
       "characterId": "glys",
       "kind": "background",
-      "text": "Spren mencionado por Renarin.",
+      "text": "Renarin dice que tiene miedo y no habla.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Renarin dice que tiene miedo y no habla."
     },
     {
       "id": "ob75-fact-stormfather-28-29",
       "characterId": "stormfather",
       "kind": "background",
-      "text": "Interlocutor de Dalinar.",
+      "text": "Habla con Dalinar de Juramentada y de la posibilidad de compartir visiones.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-28"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob28"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Habla con Dalinar de Juramentada y de la posibilidad de compartir visiones."
     },
     {
       "id": "ob76-fact-captor-daughter-0",
       "characterId": "captor-daughter",
       "kind": "background",
-      "text": "La hija de Sah se llama Vai.",
+      "text": "Sah llama Vai a su hija en la conversación de Revolar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Sah llama Vai a su hija en la conversación de Revolar."
     },
     {
       "id": "ob76-fact-yellow-ribbon-spren-1",
       "characterId": "yellow-ribbon-spren",
       "kind": "background",
-      "text": "Se la nombra Yixli.",
+      "text": "Sah llama Yixli a la spren amarilla al transmitir lo que dice.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Sah llama Yixli a la spren amarilla al transmitir lo que dice."
     },
     {
       "id": "ob76-fact-kaladin-2",
       "characterId": "kaladin",
       "kind": "background",
-      "text": "Llega a Urithiru tras salir de Revolar.",
+      "text": "Tras auxiliar a civiles y perder a sus perseguidores en la tormenta, llega a Urithiru.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Tras auxiliar a civiles y perder a sus perseguidores en la tormenta, llega a Urithiru."
     },
     {
       "id": "ob76-fact-syl-3",
       "characterId": "syl",
       "kind": "background",
-      "text": "Acompaña el regreso; matiza el tratamiento de padre del Padre Tormenta.",
+      "text": "Acompaña a Kaladin y llama padre al Padre Tormenta. La relación alude a su origen como spren.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Acompaña a Kaladin y llama padre al Padre Tormenta. La relación alude a su origen como spren."
     },
     {
       "id": "ob76-fact-jasnah-4",
@@ -62605,63 +62707,71 @@ window.ATLAS_DATA = {
       "id": "ob76-fact-revolar-father-6",
       "characterId": "revolar-father",
       "kind": "background",
-      "text": "Civil sin nombre.",
+      "text": "Civil que sostiene a su hijo y recibe ayuda de Kaladin en la tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Civil que sostiene a su hijo y recibe ayuda de Kaladin en la tormenta."
     },
     {
       "id": "ob76-fact-revolar-son-7",
       "characterId": "revolar-son",
       "kind": "background",
-      "text": "Niño sin nombre.",
+      "text": "Niño al que Kaladin sostiene mientras protege al grupo del viento.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Niño al que Kaladin sostiene mientras protege al grupo del viento."
     },
     {
       "id": "ob76-fact-revolar-fused-official-8",
       "characterId": "revolar-fused-official",
       "kind": "background",
-      "text": "En Revolar observa a Kaladin y se acerca al grupo de Khen; él huye antes de que ella llegue.",
+      "text": "Se acerca al grupo, pero Kaladin huye antes de que llegue hasta él.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
         "ob-primary-31-32",
-        "review88-source-90bb1d832e9c6d"
+        "review88-source-90bb1d832e9c6d",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Se acerca al grupo, pero Kaladin huye antes de que llegue hasta él."
     },
     {
       "id": "ob76-fact-revolar-fused-pursuers-9",
       "characterId": "revolar-fused-pursuers",
       "kind": "background",
-      "text": "Dos combatientes sin nombre atacan a Kaladin y lo persiguen por el aire dentro de la tormenta.",
+      "text": "Dos atacantes lo persiguen por el aire dentro de la tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-31"
       },
       "sourceIds": [
         "ob-primary-31-32",
-        "review88-source-0a87ac175f0d3f"
+        "review88-source-0a87ac175f0d3f",
+        "primary196-ob31"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Dos atacantes lo persiguen por el aire dentro de la tormenta."
     },
     {
       "id": "ob78-fact-puuli-0",
@@ -65461,17 +65571,19 @@ window.ATLAS_DATA = {
       "id": "audit88-midnight-creatures-ob30",
       "characterId": "midnight-creatures",
       "kind": "experience",
-      "text": "Cuando Re-Shephir abandona la sala, los restos de las criaturas de oscuridad se disuelven.",
+      "text": "Los restos de las criaturas se disuelven cuando Re-Shephir abandona la cámara.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-30"
       },
       "sourceIds": [
         "ob-primary-28-30",
-        "review88-source-e97e84956b4e41"
+        "review88-source-e97e84956b4e41",
+        "primary196-ob30"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Los restos de las criaturas se disuelven cuando Re-Shephir abandona la cámara."
     },
     {
       "id": "mention89-fact-thaidakar-0",
@@ -68103,17 +68215,19 @@ window.ATLAS_DATA = {
       "id": "mention89-fact-dilid-120",
       "characterId": "dilid",
       "kind": "background",
-      "text": "Uno de los Diez Necios de la tradición vorin, recordado por Shallan mediante la imagen de una carrera sin progreso.",
+      "text": "Shallan recuerda a Dilid, de los Diez Necios, al pensar en una carrera sin progreso.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-29"
       },
       "sourceIds": [
         "mention89-d79005ecf89b17",
-        "mention89-af15bc6f3bd7a8"
+        "mention89-af15bc6f3bd7a8",
+        "primary196-ob29"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan recuerda a Dilid, de los Diez Necios, al pensar en una carrera sin progreso."
     },
     {
       "id": "mention89-fact-princess-yezier-121",
@@ -88160,6 +88274,23 @@ window.ATLAS_DATA = {
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Ialai dice que lo ha acogido y lo cuenta entre los generales más aclamados de su marido.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/22.Oscuridadinterior.xhtml. Ialai dice que lo ha acogido y lo cuenta entre los generales más aclamados de su marido.",
       "supersedes": []
+    },
+    {
+      "id": "primary196-revolar-rescued-woman-ob31-intro",
+      "characterId": "revolar-rescued-woman-ob31",
+      "kind": "background",
+      "text": "Kaladin la sujeta durante la tormenta y la lleva con el grupo resguardado.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-31"
+      },
+      "sourceIds": [
+        "primary196-ob31"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin la sujeta durante la tormenta y la lleva con el grupo resguardado.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin la sujeta durante la tormenta y la lleva con el grupo resguardado.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -90757,6 +90888,10 @@ window.ATLAS_DATA = {
         {
           "revision": 195,
           "notes": "Evi y Toh se recuerdan como hermanos. El capítulo 26 distingue el compromiso de Evi y Dalinar del matrimonio posterior, acredita a Kalanor y Vamah como primos y deja anónimo al hijo de Ruthar. El capítulo 27 confirma al sobrino de Ialai y distingue el nombramiento de Amaram de un parentesco."
+        },
+        {
+          "revision": 196,
+          "notes": "Skar tiene una relación de cortejo relatada por Eth, sin nombre de su pareja. Sah nombra a Vai y se confirma el parentesco del padre y el niño de Revolar. El tratamiento de padre de Syl al Padre Tormenta alude a su origen."
         }
       ]
     }
@@ -91740,12 +91875,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-30"
       },
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob30"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "El texto distingue expresamente huida de muerte."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Re-Shephir huye tras el contacto; no muere en la escena."
     },
     {
       "id": "ob78-life-sakin-husband-1",
@@ -93579,7 +93716,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 195,
+  "revision": 196,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -96673,12 +96810,14 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Contacto mental con el gran spren; plano indeterminado",
       "physicalPlaceId": "place-urithiru-gem-pillar",
       "sourceIds": [
-        "ob-primary-28-30"
+        "ob-primary-28-30",
+        "primary196-ob30"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "No crea posiciones corporales de personajes figurados ni presencia en Shadesmar."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. El contacto con Re-Shephir incluye imágenes mentales. Shallan permanece en la cámara de la columna de gemas.",
       "entryAnchor": {
         "placeId": "place-urithiru-gem-pillar",
         "name": "Urithiru · Cámara del pilar de gemas",
@@ -96697,12 +96836,14 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Espacio perceptivo de conversación con el Padre Tormenta",
       "physicalPlaceId": "place-revolar-pens",
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary196-ob31"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Durante el vuelo sobre el entorno de Revolar. No confirma entrada corporal en Shadesmar ni localiza físicamente al Padre Tormenta."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin habla con el Padre Tormenta al cruzar la muralla de tormenta y vuelve a sentir el viento de inmediato. No se acredita un traslado corporal de reino.",
       "entryAnchor": {
         "placeId": "place-revolar-pens",
         "name": "Revolar · Corrales y refugios orientales",
@@ -110161,9 +110302,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -110180,11 +110322,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Entra en Revolar con el grupo de Sah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en Revolar con el grupo de Sah."
+          ]
         },
         {
           "id": "ob76-kaladin-31-2",
@@ -110205,9 +110347,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -110224,12 +110367,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         },
         {
@@ -110251,9 +110392,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -110270,11 +110412,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin se aparta del grupo y se dirige hacia los recintos, donde lo atacan los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin se aparta del grupo y se dirige hacia los recintos, donde lo atacan los Fusionados."
+          ]
         },
         {
           "id": "ob76-kaladin-31-4",
@@ -110295,9 +110437,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -110314,12 +110457,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin socorre a un padre, su hijo y una mujer durante la tormenta.",
+          "needsConfirmation": [],
           "notes": [
-            "Rescate en los corrales y acceso al refugio; no se identifica a estos civiles con personajes posteriores."
+            "Kaladin socorre a un padre, su hijo y una mujer durante la tormenta."
           ]
         },
         {
@@ -110341,9 +110482,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-storm-flight-31",
@@ -110360,12 +110502,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-ob-storm-flight-31",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin y Syl vuelan alejándose de Revolar dentro de la tormenta.",
+          "needsConfirmation": [],
           "notes": [
-            "Trayecto sin coordenadas; se registran solo salida y llegada, no una derrota aérea exacta."
+            "Kaladin y Syl vuelan alejándose de Revolar dentro de la tormenta."
           ]
         },
         {
@@ -110390,9 +110530,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -110409,11 +110550,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-urithiru-arrival-plateau",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El vuelo termina en la explanada de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "El vuelo termina en la explanada de Urithiru."
+          ]
         },
         {
           "id": "ob80-kaladin-35-2",
@@ -123820,9 +123961,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123839,11 +123981,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia."
+          ]
         },
         {
           "id": "ob75-shallan-29-2",
@@ -123867,9 +124009,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123886,11 +124029,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso.",
+          "needsConfirmation": [],
+          "notes": [
+            "En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso."
+          ]
         },
         {
           "id": "ob75-shallan-29-3",
@@ -123914,9 +124057,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123933,11 +124077,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-eastern-tunnels",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan y Patrón siguen al agresor por los túneles orientales. La figura pierde su apariencia humana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Patrón siguen al agresor por los túneles orientales. La figura pierde su apariencia humana."
+          ]
         },
         {
           "id": "ob75-shallan-29-4",
@@ -123961,9 +124105,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -123980,11 +124125,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La persecución termina ante el acceso oculto. Shallan esconde el abrigo y sombrero de Velo.",
+          "needsConfirmation": [],
+          "notes": [
+            "La persecución termina ante el acceso oculto. Shallan esconde el abrigo y sombrero de Velo."
+          ]
         },
         {
           "id": "ob75-shallan-29-5",
@@ -124008,9 +124153,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124027,12 +124173,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -124057,9 +124201,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124076,11 +124221,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-shallan-29-7",
@@ -124104,9 +124249,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124123,11 +124269,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-shallan-30-1",
@@ -124151,9 +124297,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124170,11 +124317,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob76-shallan-32-1",
@@ -131867,9 +132014,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -131886,11 +132034,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Entra en Revolar con el grupo de Sah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en Revolar con el grupo de Sah."
+          ]
         },
         {
           "id": "ob76-syl-31-2",
@@ -131911,9 +132059,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -131930,12 +132079,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         },
         {
@@ -131957,9 +132104,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -131976,11 +132124,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin se aparta del grupo y se dirige hacia los recintos, donde lo atacan los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin se aparta del grupo y se dirige hacia los recintos, donde lo atacan los Fusionados."
+          ]
         },
         {
           "id": "ob76-syl-31-4",
@@ -132001,9 +132149,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -132020,12 +132169,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin socorre a un padre, su hijo y una mujer durante la tormenta.",
+          "needsConfirmation": [],
           "notes": [
-            "Rescate en los corrales y acceso al refugio; no se identifica a estos civiles con personajes posteriores."
+            "Kaladin socorre a un padre, su hijo y una mujer durante la tormenta."
           ]
         },
         {
@@ -132047,9 +132194,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-storm-flight-31",
@@ -132066,12 +132214,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-ob-storm-flight-31",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin y Syl vuelan alejándose de Revolar dentro de la tormenta.",
+          "needsConfirmation": [],
           "notes": [
-            "Trayecto sin coordenadas; se registran solo salida y llegada, no una derrota aérea exacta."
+            "Kaladin y Syl vuelan alejándose de Revolar dentro de la tormenta."
           ]
         },
         {
@@ -132096,9 +132242,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -132115,11 +132262,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-urithiru-arrival-plateau",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El vuelo termina en la explanada de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "El vuelo termina en la explanada de Urithiru."
+          ]
         },
         {
           "id": "ob81-syl-37-1",
@@ -139951,9 +140098,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -139970,11 +140118,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-diplomatic-meeting",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen.",
+          "needsConfirmation": [],
+          "notes": [
+            "La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen."
+          ]
         },
         {
           "id": "ob75-dalinar-28-2",
@@ -139998,9 +140146,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140017,11 +140166,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-planters",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas."
+          ]
         },
         {
           "id": "ob75-dalinar-28-3",
@@ -140045,9 +140194,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140064,11 +140214,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada."
+          ]
         },
         {
           "id": "ob75-dalinar-28-4",
@@ -140092,9 +140242,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140111,11 +140262,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-ruby-hearth",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Dalinar y Taravangian conversan junto al fabrial calefactor de rubí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Taravangian conversan junto al fabrial calefactor de rubí."
+          ]
         },
         {
           "id": "ob75-dalinar-28-5",
@@ -140139,9 +140290,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140158,11 +140310,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-dalinar-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Dalinar habla con el Padre Tormenta sobre la posibilidad de compartir visiones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar habla con el Padre Tormenta sobre la posibilidad de compartir visiones."
+          ]
         },
         {
           "id": "ob80-dalinar-34-1",
@@ -147407,9 +147559,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147426,12 +147579,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -147456,9 +147607,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147475,11 +147627,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-adolin-29-7",
@@ -147503,9 +147655,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147522,11 +147675,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-adolin-30-1",
@@ -147550,9 +147703,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147569,11 +147723,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob76-adolin-32-2",
@@ -150643,9 +150797,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150662,12 +150817,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -150692,9 +150845,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150711,11 +150865,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-renarin-29-7",
@@ -150739,9 +150893,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150758,11 +150913,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-renarin-30-1",
@@ -150786,9 +150941,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -150805,11 +150961,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob81-renarin-37-1",
@@ -158514,9 +158670,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -158533,11 +158690,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-diplomatic-meeting",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen.",
+          "needsConfirmation": [],
+          "notes": [
+            "La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen."
+          ]
         },
         {
           "id": "ob83-navani-38-1",
@@ -161429,9 +161586,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -161448,12 +161606,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -161478,9 +161634,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -161497,11 +161654,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-rock-29-7",
@@ -161525,9 +161682,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -161544,11 +161702,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-rock-30-1",
@@ -161572,9 +161730,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -161591,11 +161750,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob81-rock-37-1",
@@ -164343,9 +164502,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -164362,12 +164522,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -164392,9 +164550,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -164411,11 +164570,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-teft-29-7",
@@ -164439,9 +164598,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -164458,11 +164618,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-teft-30-1",
@@ -164486,9 +164646,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -164505,11 +164666,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob84-obs-0-teft",
@@ -171340,9 +171501,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -171359,11 +171521,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-diplomatic-meeting",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen.",
+          "needsConfirmation": [],
+          "notes": [
+            "La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen."
+          ]
         },
         {
           "id": "ob75-taravangian-28-4",
@@ -171387,9 +171549,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -171406,11 +171569,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-ruby-hearth",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Dalinar y Taravangian conversan junto al fabrial calefactor de rubí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Taravangian conversan junto al fabrial calefactor de rubí."
+          ]
         }
       ]
     },
@@ -173090,9 +173253,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -173109,11 +173273,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia."
+          ]
         },
         {
           "id": "ob83-gaz-40-2",
@@ -174732,9 +174896,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174751,12 +174916,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -174781,9 +174944,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174800,11 +174964,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-lopen-29-7",
@@ -174828,9 +174992,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174847,11 +175012,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-lopen-30-1",
@@ -174875,9 +175040,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174894,11 +175060,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob80-lopen-35-1",
@@ -181799,9 +181965,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -181818,11 +181985,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada."
+          ]
         }
       ]
     },
@@ -183275,9 +183442,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -183294,12 +183462,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -183324,9 +183490,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -183343,11 +183510,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-skar-29-7",
@@ -183371,9 +183538,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -183390,11 +183558,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-skar-30-1",
@@ -183418,9 +183586,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -183437,11 +183606,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob81-skar-37-1",
@@ -184514,9 +184683,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -184533,12 +184703,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -184563,9 +184731,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -184582,11 +184751,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-drehy-29-7",
@@ -184610,9 +184779,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -184629,11 +184799,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-drehy-30-1",
@@ -184657,9 +184827,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -184676,11 +184847,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob81-drehy-37-1",
@@ -185751,9 +185922,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -185770,11 +185942,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-planters",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas."
+          ]
         },
         {
           "id": "ob81-leyten-37-1",
@@ -192145,9 +192317,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192164,11 +192337,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia."
+          ]
         },
         {
           "id": "ob75-pattern-29-2",
@@ -192192,9 +192365,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192211,11 +192385,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso.",
+          "needsConfirmation": [],
+          "notes": [
+            "En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso."
+          ]
         },
         {
           "id": "ob75-pattern-29-3",
@@ -192239,9 +192413,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192258,11 +192433,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-eastern-tunnels",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan y Patrón siguen al agresor por los túneles orientales. La figura pierde su apariencia humana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Patrón siguen al agresor por los túneles orientales. La figura pierde su apariencia humana."
+          ]
         },
         {
           "id": "ob75-pattern-29-4",
@@ -192286,9 +192461,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192305,11 +192481,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La persecución termina ante el acceso oculto. Shallan esconde el abrigo y sombrero de Velo.",
+          "needsConfirmation": [],
+          "notes": [
+            "La persecución termina ante el acceso oculto. Shallan esconde el abrigo y sombrero de Velo."
+          ]
         },
         {
           "id": "ob75-pattern-29-5",
@@ -192333,9 +192509,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192352,12 +192529,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -192382,9 +192557,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192401,11 +192577,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-pattern-29-7",
@@ -192429,9 +192605,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192448,11 +192625,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-pattern-30-1",
@@ -192476,9 +192653,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192495,11 +192673,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob83-pattern-39-1",
@@ -201300,9 +201478,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -201319,11 +201498,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso.",
+          "needsConfirmation": [],
+          "notes": [
+            "En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso."
+          ]
         },
         {
           "id": "ob83-vathah-40-2",
@@ -201690,9 +201869,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -201709,11 +201889,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway-tavern",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, como Velo, se reúne con Gaz y Red en una taberna durante la vigilancia."
+          ]
         },
         {
           "id": "ob83-red-40-2",
@@ -203739,9 +203919,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -203758,11 +203939,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-ialai-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada."
+          ]
         }
       ]
     },
@@ -226100,9 +226281,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226119,11 +226301,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-planters",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas."
+          ]
         },
         {
           "id": "ob75-lyn-29-5",
@@ -226147,9 +226329,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226166,12 +226349,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -226196,9 +226377,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226215,11 +226397,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-lyn-29-7",
@@ -226243,9 +226425,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226262,11 +226445,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-lyn-30-1",
@@ -226290,9 +226473,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226309,11 +226493,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob80-lyn-35-3",
@@ -227079,9 +227263,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -227098,11 +227283,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-diplomatic-meeting",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen.",
+          "needsConfirmation": [],
+          "notes": [
+            "La delegación de Urithiru debate sus opciones y Teshav transmite los mensajes de Fen."
+          ]
         },
         {
           "id": "ob83-teshav-38-2",
@@ -227275,9 +227460,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-remote-unknown",
@@ -227294,12 +227480,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-ob-remote-unknown",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Responde por vinculacaña desde una ubicación que el intercambio no precisa.",
+          "needsConfirmation": [],
           "notes": [
-            "Respuesta por vinculacaña; no sitúa su cuerpo en Urithiru."
+            "Responde por vinculacaña desde una ubicación que el intercambio no precisa."
           ]
         },
         {
@@ -227844,9 +228028,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -227863,11 +228048,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Entra en Revolar con el grupo de Sah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en Revolar con el grupo de Sah."
+          ]
         },
         {
           "id": "ob76-parshman-card-player-31-2",
@@ -227888,9 +228073,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -227907,12 +228093,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         }
       ]
@@ -228183,9 +228367,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -228202,11 +228387,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Entra en Revolar con el grupo de Sah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en Revolar con el grupo de Sah."
+          ]
         },
         {
           "id": "ob76-khen-31-2",
@@ -228227,9 +228412,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -228246,12 +228432,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         }
       ]
@@ -228272,10 +228456,11 @@ window.ATLAS_DATA = {
             "sceneId": "ob-chapter-31"
           },
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
           "status": "confirmed",
-          "primaryLocator": "Oathbringer, capítulo 31: Sah dice a Kaladin que Yixli habla a su favor durante el registro de los recién llegados en Revolar. Fragmento autorizado en inglés.",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Sah usa el nombre Yixli en Revolar.",
           "readingLocator": "Registro de los recién llegados en Revolar: Sah le dice a Kaladin que Yixli está hablando a su favor."
         }
       ],
@@ -228434,9 +228619,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -228453,12 +228639,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         }
       ]
@@ -228479,9 +228663,11 @@ window.ATLAS_DATA = {
             "sceneId": "ob-chapter-31"
           },
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending"
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Sah usa el nombre Vai en Revolar."
         }
       ],
       "events": [
@@ -228549,9 +228735,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -228568,11 +228755,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Entra en Revolar con el grupo de Sah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en Revolar con el grupo de Sah."
+          ]
         },
         {
           "id": "ob76-captor-daughter-31-2",
@@ -228593,9 +228780,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -228612,12 +228800,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         }
       ]
@@ -232525,9 +232711,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -232544,11 +232731,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-eastern-tunnels",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Shallan y Patrón siguen al agresor por los túneles orientales. La figura pierde su apariencia humana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Patrón siguen al agresor por los túneles orientales. La figura pierde su apariencia humana."
+          ]
         },
         {
           "id": "ob75-midnight-creatures-29-7",
@@ -232572,9 +232759,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -232591,11 +232779,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         }
       ]
     },
@@ -233104,9 +233292,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -233123,11 +233312,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-breakaway",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso.",
+          "needsConfirmation": [],
+          "notes": [
+            "En el Apartado, Vathah y Glurv indican a Shallan por dónde huyó el sospechoso."
+          ]
         },
         {
           "id": "ob83-glurv-40-2",
@@ -233685,9 +233874,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob28"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -233704,11 +233894,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-28"
           },
-          "locator": "Capítulo 28, place-urithiru-planters",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/28.Otraopcion.xhtml. Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lyn guía a Dalinar al campo exterior, donde Leyten y Peet le muestran Juramentada entre las macetas."
+          ]
         },
         {
           "id": "ob81-peet-37-1",
@@ -234167,9 +234357,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234186,12 +234377,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-hidden-stair",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida se reúne junto al acceso y prepara el descenso.",
+          "needsConfirmation": [],
           "notes": [
-            "Solo integrantes identificados explícitamente. La mención del Puente Cuatro no traslada a Kaladin desde su última ubicación conocida."
+            "La partida se reúne junto al acceso y prepara el descenso."
           ]
         },
         {
@@ -234216,9 +234405,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234235,11 +234425,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-lower-libraries",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a las salas inferiores y explora el corredor con murales y puertas metálicas."
+          ]
         },
         {
           "id": "ob75-eth-29-7",
@@ -234263,9 +234453,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234282,11 +234473,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-eth-30-1",
@@ -234310,9 +234501,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234329,11 +234521,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         }
       ]
     },
@@ -234483,9 +234675,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob29"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234502,11 +234695,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-29"
           },
-          "locator": "Capítulo 29, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/29.Nohayvuelta.xhtml. La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "La partida llega a la cámara de la columna de gemas y se enfrenta a la oscuridad y a sus criaturas."
+          ]
         },
         {
           "id": "ob75-midnight-mother-30-1",
@@ -234530,9 +234723,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234549,11 +234743,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-gem-pillar",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
+          ]
         },
         {
           "id": "ob75-midnight-mother-30-2",
@@ -234577,9 +234771,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-28-30",
           "sourceIds": [
-            "ob-primary-28-30"
+            "ob-primary-28-30",
+            "primary196-ob30"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -234596,12 +234791,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-30"
           },
-          "locator": "Capítulo 30, place-urithiru-escape-tunnel",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/30.Madrementiras.xhtml. Se retira por el túnel descendente que señala Adolin.",
+          "needsConfirmation": [],
           "notes": [
-            "Huye con vida; destino posterior desconocido. No se asigna un traslado a Shadesmar."
+            "Se retira por el túnel descendente que señala Adolin."
           ]
         }
       ]
@@ -234644,9 +234837,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -234663,12 +234857,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin socorre a un padre, su hijo y una mujer durante la tormenta.",
+          "needsConfirmation": [],
           "notes": [
-            "Rescate en los corrales y acceso al refugio; no se identifica a estos civiles con personajes posteriores."
+            "Kaladin socorre a un padre, su hijo y una mujer durante la tormenta."
           ]
         }
       ]
@@ -234701,9 +234893,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -234720,12 +234913,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin socorre a un padre, su hijo y una mujer durante la tormenta.",
+          "needsConfirmation": [],
           "notes": [
-            "Rescate en los corrales y acceso al refugio; no se identifica a estos civiles con personajes posteriores."
+            "Kaladin socorre a un padre, su hijo y una mujer durante la tormenta."
           ]
         }
       ]
@@ -234758,9 +234949,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -234777,12 +234969,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-processing",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli.",
+          "needsConfirmation": [],
           "notes": [
-            "Yixli se comunica con el grupo sin hacerse visible a Kaladin; no implica viaje a Shadesmar."
+            "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
         }
       ]
@@ -234815,9 +235005,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary196-ob31"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -234834,11 +235025,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-31"
           },
-          "locator": "OB31, place-revolar-pens",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin se aparta del grupo y se dirige hacia los recintos, donde lo atacan los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin se aparta del grupo y se dirige hacia los recintos, donde lo atacan los Fusionados."
+          ]
         }
       ]
     },
@@ -268034,6 +268225,60 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está sentado en un tocón al vigilar el campamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "revolar-rescued-woman-ob31",
+      "name": "Mujer auxiliada en Revolar",
+      "role": "Kaladin la sujeta durante la tormenta y la lleva con el grupo resguardado.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary196-revolar-rescued-woman",
+          "scene": "ob-chapter-31",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Revolar · Corrales y refugios orientales",
+          "placeId": "place-revolar-pens",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia sin plano interior calibrado."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary196-ob31",
+          "sourceIds": [
+            "primary196-ob31"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-revolar",
+          "coordinateAnchorName": "Revolar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-31"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin la ayuda a alcanzar al grupo junto con el padre y el niño.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin la ayuda a alcanzar al grupo junto con el padre y el niño."
           ]
         }
       ]
