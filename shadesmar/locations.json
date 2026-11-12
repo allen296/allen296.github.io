@@ -2729,11 +2729,15 @@
       "dalinar",
       "dym",
       "fullnight",
+      "gavilar",
       "jenin",
+      "kelek-puuli",
       "sadeas",
       "thakka",
       "yezriar",
-      "yezriar-father"
+      "yezriar-father",
+      "young-lancer-mother-ob3",
+      "young-lancer-ob3"
     ],
     "ob-chapter-4": [
       "adolin",
@@ -10185,6 +10189,108 @@
         "status": "confirmed",
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami relata la tradición del retroceso entre Desolaciones y menciona lo que los Heraldos hallaban al volver.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Kalami relata la tradición del retroceso entre Desolaciones y menciona lo que los Heraldos hallaban al volver.",
+        "supersedes": []
+      },
+      {
+        "id": "primary186-flames-field",
+        "entryId": "spren-type-flamespren",
+        "field": "description",
+        "value": "Danzan entre los rocabrotes incendiados.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-3"
+        },
+        "sourceIds": [
+          "primary186-ob3"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Danzan entre los rocabrotes incendiados.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Danzan entre los rocabrotes incendiados.",
+        "supersedes": []
+      },
+      {
+        "id": "primary186-anticipation-line",
+        "entryId": "spren-type-anticipationspren",
+        "field": "description",
+        "value": "Aparecen como gallardetes rojos junto a la línea de lanceros.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-3"
+        },
+        "sourceIds": [
+          "primary186-ob3"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Aparecen como gallardetes rojos junto a la línea de lanceros.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Aparecen como gallardetes rojos junto a la línea de lanceros.",
+        "supersedes": []
+      },
+      {
+        "id": "primary186-fear-lancer",
+        "entryId": "spren-type-fearspren",
+        "field": "description",
+        "value": "Se mezclan con dolorspren alrededor del joven lancero herido.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-3"
+        },
+        "sourceIds": [
+          "primary186-ob3"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Se mezclan con dolorspren alrededor del joven lancero herido.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Se mezclan con dolorspren alrededor del joven lancero herido.",
+        "supersedes": []
+      },
+      {
+        "id": "primary186-pain-battle",
+        "entryId": "spren-type-painspren",
+        "field": "description",
+        "value": "Aparecen alrededor del lancero herido y de Dalinar, con aspecto de manos de dedos largos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-3"
+        },
+        "sourceIds": [
+          "primary186-ob3"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Aparecen alrededor del lancero herido y de Dalinar, con aspecto de manos de dedos largos.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Aparecen alrededor del lancero herido y de Dalinar, con aspecto de manos de dedos largos.",
+        "supersedes": []
+      },
+      {
+        "id": "primary186-glory-victory",
+        "entryId": "spren-type-gloryspren",
+        "field": "description",
+        "value": "Brotan como esferas doradas junto a Dalinar al ceder la guardia enemiga.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-3"
+        },
+        "sourceIds": [
+          "primary186-ob3"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Brotan como esferas doradas junto a Dalinar al ceder la guardia enemiga.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Brotan como esferas doradas junto a Dalinar al ceder la guardia enemiga.",
+        "supersedes": []
+      },
+      {
+        "id": "primary186-kelek-invocation",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Thakka exclama el nombre de Kelek al acudir a proteger a Dalinar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-3"
+        },
+        "sourceIds": [
+          "primary186-ob3"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Thakka exclama el nombre de Kelek al acudir a proteger a Dalinar.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Thakka exclama el nombre de Kelek al acudir a proteger a Dalinar.",
         "supersedes": []
       }
     ],
@@ -21393,9 +21499,10 @@
       },
       "sourceIds": [
         "mention89-bb7383653e2083",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -21409,7 +21516,8 @@
           "https://coppermind.net/wiki/Yezriar",
           "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_3"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto muestra el combate contra Yezriar y la colaboración de Jenin, Dym y Thakka con Dalinar, según cada vínculo."
     },
     {
       "id": "mention89-rel-yezriar-father-125-0",
@@ -21424,23 +21532,21 @@
       },
       "sourceIds": [
         "mention89-bb7383653e2083",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "certainty": "stated",
+      "status": "inferred",
+      "certainty": "inferred",
       "state": "known",
       "supersedes": [],
       "notes": [
         "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Yezriar",
-          "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_3"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "El grado paterno se deduce del contexto de la sucesión y queda sin afirmación expresa."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El capítulo llama heredero a Yezriar y recoge la conjetura de Dalinar sobre un hijo."
     },
     {
       "id": "mention89-rel-jenin-126-0",
@@ -21455,9 +21561,10 @@
       },
       "sourceIds": [
         "mention89-16ffa9a026523d",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -21471,7 +21578,8 @@
           "https://pt.coppermind.net/wiki/Jenin",
           "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_3"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto muestra el combate contra Yezriar y la colaboración de Jenin, Dym y Thakka con Dalinar, según cada vínculo."
     },
     {
       "id": "mention89-rel-dym-127-0",
@@ -21486,9 +21594,10 @@
       },
       "sourceIds": [
         "mention89-5197f464a4be07",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -21502,7 +21611,8 @@
           "https://coppermind.net/wiki/Dym",
           "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_3"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto muestra el combate contra Yezriar y la colaboración de Jenin, Dym y Thakka con Dalinar, según cada vínculo."
     },
     {
       "id": "mention89-rel-thakka-128-0",
@@ -21517,9 +21627,10 @@
       },
       "sourceIds": [
         "mention89-eec6ea52694bed",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -21533,7 +21644,8 @@
           "https://coppermind.net/wiki/Thakka",
           "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_3"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto muestra el combate contra Yezriar y la colaboración de Jenin, Dym y Thakka con Dalinar, según cada vínculo."
     },
     {
       "id": "mention89-rel-febin-129-0",
@@ -21608,9 +21720,10 @@
       },
       "sourceIds": [
         "mention89-ac54417b343e2c",
-        "mention89-837362825d3c63"
+        "mention89-837362825d3c63",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -21624,7 +21737,8 @@
           "https://stormlightarchive.fandom.com/wiki/Fullnight",
           "https://reactormag.com/oathbringer-brandon-sanderson-chapter-1-3/"
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto presenta a Nochecerrada como montura de Dalinar."
     },
     {
       "from": "moash-uncle",
@@ -25156,6 +25270,33 @@
         "kind": "relationship",
         "reason": "Dalinar llama antepasado al Hacedor del Sol. No especifica el número de generaciones."
       }
+    },
+    {
+      "id": "primary186-lancer-mother",
+      "from": "young-lancer-mother-ob3",
+      "to": "young-lancer-ob3",
+      "kind": "parent",
+      "label": "Madre → hijo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "certainty": "reported",
+      "state": "known",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto muestra el combate contra Yezriar y la colaboración de Jenin, Dym y Thakka con Dalinar, según cada vínculo.",
+      "notes": [
+        "El joven llama a su madre. La narración solo muestra al lancero."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El joven llama a su madre. La narración solo muestra al lancero."
+      }
     }
   ],
   "interactions": [
@@ -26000,9 +26141,10 @@
         "note": "Escena del pasado revelada en este capítulo."
       },
       "sourceIds": [
-        "ob-c3"
+        "ob-c3",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
@@ -26020,7 +26162,8 @@
             "blue-tattoo-archer"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar habla con el arquero en la cima y después con Sadeas en el pueblo."
     },
     {
       "id": "interaction-ob-chapter-4-dalinar-navani-23",
@@ -55212,6 +55355,119 @@
           ]
         ]
       }
+    },
+    {
+      "id": "primary186-yezriar-combat",
+      "participants": [
+        "dalinar",
+        "yezriar",
+        "dym",
+        "jenin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "type": "conflict",
+      "summary": "El disparo de Jenin derriba a Yezriar de la montura. Dalinar combate con Yezriar y recibe ayuda de Dym, que remata al heredero.",
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El disparo de Jenin derriba a Yezriar de la montura. Dalinar combate con Yezriar y recibe ayuda de Dym, que remata al heredero.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El disparo de Jenin derriba a Yezriar de la montura. Dalinar combate con Yezriar y recibe ayuda de Dym, que remata al heredero.",
+        "pairs": [
+          [
+            "dalinar",
+            "yezriar"
+          ],
+          [
+            "dalinar",
+            "dym"
+          ],
+          [
+            "dym",
+            "yezriar"
+          ],
+          [
+            "dalinar",
+            "jenin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary186-thakka-protection",
+      "participants": [
+        "dalinar",
+        "thakka"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "type": "conversation",
+      "summary": "Thakka protege a Dalinar, recibe sus órdenes y responde sobre la distancia del disparo.",
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Thakka protege a Dalinar, recibe sus órdenes y responde sobre la distancia del disparo.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Thakka protege a Dalinar, recibe sus órdenes y responde sobre la distancia del disparo.",
+        "pairs": [
+          [
+            "dalinar",
+            "thakka"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary186-young-lancer-strike",
+      "participants": [
+        "dalinar",
+        "young-lancer-ob3"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "type": "conflict",
+      "summary": "Dalinar hiere al joven lancero junto a la línea quebrada.",
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar hiere al joven lancero junto a la línea quebrada.",
+      "storyTime": {
+        "frame": "flashback",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar hiere al joven lancero junto a la línea quebrada.",
+        "pairs": [
+          [
+            "dalinar",
+            "young-lancer-ob3"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -58817,13 +59073,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
-      "text": "Arquero enemigo cuya puntería impresiona a Dalinar.",
+      "text": "El arquero del tatuaje azul demuestra su puntería y recibe una oferta de incorporación. El capítulo no revela su nombre.",
       "kind": "abilities",
       "sourceIds": [
-        "audit-ob-primary-1-3"
+        "audit-ob-primary-1-3",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El arquero del tatuaje azul demuestra su puntería y recibe una oferta de incorporación. El capítulo no revela su nombre."
     },
     {
       "id": "audit-ob-profile-8",
@@ -65446,81 +65704,91 @@
       "id": "mention89-fact-yezriar-124",
       "characterId": "yezriar",
       "kind": "background",
-      "text": "Príncipe heredero enemigo al que Dalinar hiere mortalmente en el recuerdo; Dym acaba con su sufrimiento.",
+      "text": "El arquero nombra a Yezriar como heredero y Thakka lo identifica como el adversario caído. Dalinar lo hiere y Dym lo remata.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
       "sourceIds": [
         "mention89-bb7383653e2083",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El arquero nombra a Yezriar como heredero y Thakka lo identifica como el adversario caído. Dalinar lo hiere y Dym lo remata."
     },
     {
       "id": "mention89-fact-yezriar-father-125",
       "characterId": "yezriar-father",
       "kind": "background",
-      "text": "Alto príncipe sin nombre y padre de Yezriar; se informa de su ejecución por las fuerzas de Sadeas.",
+      "text": "Se ven las cabezas del alto príncipe y sus oficiales. El vínculo paterno se deduce de la condición de heredero y de la conjetura de Dalinar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
       "sourceIds": [
         "mention89-bb7383653e2083",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Se ven las cabezas del alto príncipe y sus oficiales. El vínculo paterno se deduce de la condición de heredero y de la conjetura de Dalinar."
     },
     {
       "id": "mention89-fact-jenin-126",
       "characterId": "jenin",
       "kind": "background",
-      "text": "Soldado de élite de Dalinar que dispara al caballo de Yezriar durante el recuerdo.",
+      "text": "Jenin dispara contra la yegua de Yezriar a una señal de Dalinar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
       "sourceIds": [
         "mention89-16ffa9a026523d",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Jenin dispara contra la yegua de Yezriar a una señal de Dalinar."
     },
     {
       "id": "mention89-fact-dym-127",
       "characterId": "dym",
       "kind": "background",
-      "text": "Soldado de élite que presta un hacha a Dalinar y remata a Yezriar a su señal.",
+      "text": "Dym lanza una alabarda a Dalinar y remata a Yezriar a su señal.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
       "sourceIds": [
         "mention89-5197f464a4be07",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dym lanza una alabarda a Dalinar y remata a Yezriar a su señal."
     },
     {
       "id": "mention89-fact-thakka-128",
       "characterId": "thakka",
       "kind": "background",
-      "text": "Capitán de las élites de Dalinar que intenta protegerlo tras recibir una flecha en el recuerdo.",
+      "text": "Thakka, capitán de la élite, cubre con su cuerpo a Dalinar tras el disparo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
       "sourceIds": [
         "mention89-eec6ea52694bed",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Thakka, capitán de la élite, cubre con su cuerpo a Dalinar tras el disparo."
     },
     {
       "id": "mention89-fact-thakka-128-0",
@@ -65573,17 +65841,19 @@
       "id": "mention89-fact-fullnight-131",
       "characterId": "fullnight",
       "kind": "background",
-      "text": "Caballo negro castrado que monta Dalinar al perseguir al arquero en el recuerdo.",
+      "text": "Nochecerrada es el semental negro que monta Dalinar al perseguir al arquero.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-3"
       },
       "sourceIds": [
         "mention89-ac54417b343e2c",
-        "mention89-837362825d3c63"
+        "mention89-837362825d3c63",
+        "primary186-ob3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Nochecerrada es el semental negro que monta Dalinar al perseguir al arquero."
     },
     {
       "id": "mention89-fact-ishar-mentioned-132",
@@ -84291,6 +84561,91 @@
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Hija de Aladar. Se incorpora a la reunión con él.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/2.Problemares.xhtml. Hija de Aladar. Se incorpora a la reunión con él.",
       "supersedes": []
+    },
+    {
+      "id": "primary186-young-lancer-ob3-intro",
+      "characterId": "young-lancer-ob3",
+      "kind": "background",
+      "text": "Lancero herido que llama a su madre y al que Dalinar clava la espada.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Lancero herido que llama a su madre y al que Dalinar clava la espada.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Lancero herido que llama a su madre y al que Dalinar clava la espada.",
+      "supersedes": []
+    },
+    {
+      "id": "primary186-young-lancer-mother-ob3-intro",
+      "characterId": "young-lancer-mother-ob3",
+      "kind": "background",
+      "text": "El lancero herido llama a su madre durante el combate.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El lancero herido llama a su madre durante el combate.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El lancero herido llama a su madre durante el combate.",
+      "supersedes": []
+    },
+    {
+      "id": "primary186-gavilar-orders",
+      "characterId": "gavilar",
+      "kind": "background",
+      "text": "Dalinar atribuye a su hermano la elección de las campañas. El recuerdo no muestra a Gavilar en el pueblo.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar atribuye a su hermano la elección de las campañas. El recuerdo no muestra a Gavilar en el pueblo.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar atribuye a su hermano la elección de las campañas. El recuerdo no muestra a Gavilar en el pueblo.",
+      "supersedes": []
+    },
+    {
+      "id": "primary186-dalinar-thrill",
+      "characterId": "dalinar",
+      "kind": "background",
+      "text": "El recuerdo describe la Emoción durante el combate y la persecución. La escena deja abierta la causa de la sensación.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El recuerdo describe la Emoción durante el combate y la persecución. La escena deja abierta la causa de la sensación.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El recuerdo describe la Emoción durante el combate y la persecución. La escena deja abierta la causa de la sensación.",
+      "supersedes": []
+    },
+    {
+      "id": "primary186-sadeas-aftermath",
+      "characterId": "sadeas",
+      "kind": "background",
+      "text": "Dalinar encuentra las cabezas expuestas después de la batalla y comunica a Sadeas su promesa de impedir el saqueo y la toma de esclavos.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-3"
+      },
+      "sourceIds": [
+        "primary186-ob3"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar encuentra las cabezas expuestas después de la batalla y comunica a Sadeas su promesa de impedir el saqueo y la toma de esclavos.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar encuentra las cabezas expuestas después de la batalla y comunica a Sadeas su promesa de impedir el saqueo y la toma de esclavos.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -86848,6 +87203,10 @@
         {
           "revision": 185,
           "notes": "May se presenta como hija de Aladar en el capítulo 2. Se coteja la mención del hijo de Roion y la ascendencia sin grado de Dalinar. Se conserva el vínculo previo entre Teleb y Kalami, así como las etapas de parentesco y pareja ya documentadas."
+        },
+        {
+          "revision": 186,
+          "notes": "Se conserva el vínculo de Dalinar y Gavilar. Se documenta la madre mencionada por el lancero y se mantiene como inferencia la filiación de Yezriar. La familia del arquero queda como mención colectiva."
         }
       ]
     }
@@ -88488,12 +88847,14 @@
       },
       "sourceIds": [
         "mention89-bb7383653e2083",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dym remata a Yezriar a la señal de Dalinar."
     },
     {
       "id": "mention89-life-yezriar-father",
@@ -88505,12 +88866,14 @@
       },
       "sourceIds": [
         "mention89-bb7383653e2083",
-        "mention89-e67db9968a4d8c"
+        "mention89-e67db9968a4d8c",
+        "primary186-ob3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
         "Estado comunicado en el capítulo indicado; sin posición corporal inventada."
-      ]
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar llega después de las ejecuciones y ve las cabezas expuestas. Se conserva el alcance del registro de muerte relatada."
     },
     {
       "id": "mention89-life-thakka",
@@ -89637,7 +90000,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 185,
+  "revision": 186,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -132556,24 +132919,26 @@
           "memoryOrder": 1,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Alethkar · Batalla de juventud de Dalinar sin localizar",
-          "placeId": "place-ob-young-dalinar-battle",
+          "place": "Batalla de juventud · Campo incendiado",
+          "placeId": "place-ob3-burning-field",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Campo incendiado",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c3",
           "sourceIds": [
             "ob-c3",
-            "ob-summary"
+            "ob-summary",
+            "primary186-ob3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -132590,11 +132955,299 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar carga a través del campo incendiado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar carga a través del campo incendiado."
+          ]
+        },
+        {
+          "id": "primary186-dalinar-line",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Línea de lanceros al sur",
+          "placeId": "place-ob3-south-line",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Línea de lanceros al sur",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar rompe la línea de lanceros al sur del pueblo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar rompe la línea de lanceros al sur del pueblo."
+          ]
+        },
+        {
+          "id": "primary186-dalinar-combat",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Calle del combate",
+          "placeId": "place-ob3-village-combat",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Calle del combate",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar lucha contra Yezriar y recibe la primera flecha más adelante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar lucha contra Yezriar y recibe la primera flecha más adelante."
+          ]
+        },
+        {
+          "id": "primary186-dalinar-climb",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Senda de la montaña",
+          "placeId": "place-ob3-mountain-path",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Senda de la montaña",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar toma la senda en zigzag con Nochecerrada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar toma la senda en zigzag con Nochecerrada."
+          ]
+        },
+        {
+          "id": "primary186-dalinar-summit",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Promontorio del arquero",
+          "placeId": "place-ob3-archer-summit",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Promontorio del arquero",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar alcanza al arquero y le pide una demostración.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar alcanza al arquero y le pide una demostración."
+          ]
+        },
+        {
+          "id": "primary186-dalinar-return",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Pueblo tras la rendición",
+          "placeId": "place-ob3-village-return",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Pueblo tras la rendición",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar vuelve al pueblo con el arquero y habla con Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar vuelve al pueblo con el arquero y habla con Sadeas."
+          ]
+        },
+        {
+          "id": "primary186-dalinar-camp",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Campamento de Dalinar",
+          "placeId": "place-ob3-dalinar-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Campamento de Dalinar",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar lleva su caballo hasta el campamento al terminar el recuerdo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar lleva su caballo hasta el campamento al terminar el recuerdo."
+          ]
         },
         {
           "id": "ob-dalinar-chapter-4-01",
@@ -148022,27 +148675,29 @@
           "scene": "ob-chapter-3",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Alethkar · Batalla de juventud de Dalinar sin localizar",
-          "placeId": "place-ob-young-dalinar-battle",
+          "place": "Batalla de juventud · Pueblo tras la rendición",
+          "placeId": "place-ob3-village-return",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Pueblo tras la rendición",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c3",
           "sourceIds": [
             "ob-c3",
-            "ob-summary"
+            "ob-summary",
+            "primary186-ob3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -148059,11 +148714,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Sadeas habla con Dalinar cuando este vuelve al pueblo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sadeas habla con Dalinar cuando este vuelve al pueblo."
+          ]
         },
         {
           "id": "ob-sadeas-chapter-11-01",
@@ -217425,27 +218080,29 @@
           "scene": "ob-chapter-3",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Alethkar · Batalla de juventud de Dalinar sin localizar",
-          "placeId": "place-ob-young-dalinar-battle",
+          "place": "Batalla de juventud · Promontorio del arquero",
+          "placeId": "place-ob3-archer-summit",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje de ciudad o región. No confirma muelles, edificios, campo de batalla ni la posición exacta del recuerdo."
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Promontorio del arquero",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             697.926,
             370.24
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c3",
           "sourceIds": [
             "ob-c3",
-            "ob-summary"
+            "ob-summary",
+            "primary186-ob3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-alethkar-memory-region",
@@ -217462,11 +218119,59 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, localización y secuencia con la edición usada."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El arquero dispara desde el promontorio y Dalinar lo alcanza.",
+          "needsConfirmation": [],
+          "notes": [
+            "El arquero dispara desde el promontorio y Dalinar lo alcanza."
+          ]
+        },
+        {
+          "id": "primary186-archer-return",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Pueblo tras la rendición",
+          "placeId": "place-ob3-village-return",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Pueblo tras la rendición",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Regresa con la élite y oye la conversación de Dalinar y Sadeas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa con la élite y oye la conversación de Dalinar y Sadeas."
+          ]
         },
         {
           "id": "ob-blue-tattoo-archer-chapter-11-01",
@@ -236880,7 +237585,56 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary186-yezriar-combat",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Calle del combate",
+          "placeId": "place-ob3-village-combat",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Calle del combate",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Cae del caballo, combate con Dalinar y Dym lo remata a su señal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cae del caballo, combate con Dalinar y Dym lo remata a su señal."
+          ]
+        }
+      ]
     },
     {
       "id": "yezriar-father",
@@ -236900,7 +237654,56 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary186-jenin-shot",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Calle del combate",
+          "placeId": "place-ob3-village-combat",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Calle del combate",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dispara contra la yegua de Yezriar a la señal de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dispara contra la yegua de Yezriar a la señal de Dalinar."
+          ]
+        }
+      ]
     },
     {
       "id": "dym",
@@ -236910,7 +237713,56 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary186-dym-halberd",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Calle del combate",
+          "placeId": "place-ob3-village-combat",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Calle del combate",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Lanza la alabarda a Dalinar y remata a Yezriar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lanza la alabarda a Dalinar y remata a Yezriar."
+          ]
+        }
+      ]
     },
     {
       "id": "thakka",
@@ -236920,7 +237772,104 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary186-thakka-shield",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Calle del combate",
+          "placeId": "place-ob3-village-combat",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Calle del combate",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Escuda a Dalinar tras el primer disparo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escuda a Dalinar tras el primer disparo."
+          ]
+        },
+        {
+          "id": "primary186-thakka-summit",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Promontorio del arquero",
+          "placeId": "place-ob3-archer-summit",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Promontorio del arquero",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Estima la distancia y presencia la demostración del arquero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Estima la distancia y presencia la demostración del arquero."
+          ]
+        }
+      ]
     },
     {
       "id": "febin",
@@ -236950,7 +237899,166 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "nameRevelations": [
+        {
+          "name": "Nochecerrada",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. El texto da el nombre del semental negro de Dalinar."
+        }
+      ],
+      "events": [
+        {
+          "id": "primary186-fullnight-climb",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Senda de la montaña",
+          "placeId": "place-ob3-mountain-path",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Senda de la montaña",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Nochecerrada lleva a Dalinar por la senda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Nochecerrada lleva a Dalinar por la senda."
+          ]
+        },
+        {
+          "id": "primary186-fullnight-summit",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Promontorio del arquero",
+          "placeId": "place-ob3-archer-summit",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Promontorio del arquero",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar monta a Nochecerrada al alcanzar el promontorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar monta a Nochecerrada al alcanzar el promontorio."
+          ]
+        },
+        {
+          "id": "primary186-fullnight-camp",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Campamento de Dalinar",
+          "placeId": "place-ob3-dalinar-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Campamento de Dalinar",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Dalinar lleva su caballo al campamento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar lleva su caballo al campamento."
+          ]
+        }
+      ]
     },
     {
       "id": "ishar-mentioned",
@@ -258445,6 +259553,75 @@
           ]
         }
       ]
+    },
+    {
+      "id": "young-lancer-ob3",
+      "name": "Lancero joven del límite sur",
+      "role": "Lancero herido que llama a su madre y al que Dalinar clava la espada.",
+      "initial": "L",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary186-young-lancer",
+          "scene": "ob-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Batalla de juventud · Línea de lanceros al sur",
+          "placeId": "place-ob3-south-line",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Batalla de juventud · Línea de lanceros al sur",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary186-ob3",
+          "sourceIds": [
+            "primary186-ob3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "relativeYearsBeforePresent": 34,
+            "date": null,
+            "precision": "relative-only",
+            "note": "Treinta y cuatro años antes, según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-3"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/3.Impetu.xhtml. Se arrastra junto a la línea quebrada y recibe el golpe de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se arrastra junto a la línea quebrada y recibe el golpe de Dalinar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "young-lancer-mother-ob3",
+      "name": "Madre del lancero joven",
+      "role": "El lancero herido llama a su madre durante el combate.",
+      "initial": "M",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": []
     }
   ]
 }
