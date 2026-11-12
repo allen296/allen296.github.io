@@ -2863,7 +2863,6 @@
     ],
     "ob-chapter-12": [
       "aladar",
-      "blue-tattoo-archer",
       "dalinar",
       "elhokar",
       "fen",
@@ -2879,12 +2878,15 @@
     ],
     "ob-chapter-13": [
       "adolin",
+      "kabsal",
+      "may-aladar",
       "pattern",
       "shallan"
     ],
     "ob-chapter-14": [
       "kaladin",
       "khen",
+      "parsh-camp-sentry-ob14",
       "parshman-card-player",
       "syl",
       "yellow-ribbon-spren"
@@ -10900,6 +10902,91 @@
         "status": "confirmed",
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Ruedan sobre la cabeza de Gavilar cuando se sienta junto a Dalinar tras la batalla.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Ruedan sobre la cabeza de Gavilar cuando se sienta junto a Dalinar tras la batalla.",
+        "supersedes": []
+      },
+      {
+        "id": "primary192-glory-elhokar",
+        "entryId": "spren-type-gloryspren",
+        "field": "appearance",
+        "value": "Surgen glorispren brillantes alrededor de Elhokar cuando Dalinar ofrece recursos para la misión de Kholinar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-12"
+        },
+        "sourceIds": [
+          "primary192-ob12"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Surgen glorispren brillantes alrededor de Elhokar cuando Dalinar ofrece recursos para la misión de Kholinar.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Surgen glorispren brillantes alrededor de Elhokar cuando Dalinar ofrece recursos para la misión de Kholinar.",
+        "supersedes": []
+      },
+      {
+        "id": "primary192-pattern-form",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Al ser presentado a Adolin se despliega en tres dimensiones y después vuelve a su forma bidimensional en un cuenco.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-13"
+        },
+        "sourceIds": [
+          "primary192-ob13"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Al ser presentado a Adolin se despliega en tres dimensiones y después vuelve a su forma bidimensional en un cuenco.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Al ser presentado a Adolin se despliega en tres dimensiones y después vuelve a su forma bidimensional en un cuenco.",
+        "supersedes": []
+      },
+      {
+        "id": "primary192-shame-chaperone",
+        "entryId": "spren-type-shamespren",
+        "field": "appearance",
+        "value": "Asoman brevemente alrededor de Shallan cuando Patrón explica en voz alta cómo entiende su tarea.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-13"
+        },
+        "sourceIds": [
+          "primary192-ob13"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Asoman brevemente alrededor de Shallan cuando Patrón explica en voz alta cómo entiende su tarea.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Asoman brevemente alrededor de Shallan cuando Patrón explica en voz alta cómo entiende su tarea.",
+        "supersedes": []
+      },
+      {
+        "id": "primary192-ribbon-warning",
+        "entryId": "spren-person-yellow-ribbon-spren",
+        "field": "description",
+        "value": "El spren se manifiesta como una cinta de luz amarilla y avisa de que Kaladin está oculto en el matorral.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-14"
+        },
+        "sourceIds": [
+          "primary192-ob14"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. El spren se manifiesta como una cinta de luz amarilla y avisa de que Kaladin está oculto en el matorral.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. El spren se manifiesta como una cinta de luz amarilla y avisa de que Kaladin está oculto en el matorral.",
+        "supersedes": []
+      },
+      {
+        "id": "primary192-pattern-blunted-blade",
+        "entryId": "spren-person-pattern",
+        "field": "description",
+        "value": "Patrón cambia el filo de su forma de hoja para permitir la práctica de Shallan con Adolin.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-15"
+        },
+        "sourceIds": [
+          "primary192-ob15"
+        ],
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Patrón cambia el filo de su forma de hoja para permitir la práctica de Shallan con Adolin.",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Patrón cambia el filo de su forma de hoja para permitir la práctica de Shallan con Adolin.",
         "supersedes": []
       }
     ],
@@ -22015,9 +22102,10 @@
       },
       "sourceIds": [
         "mention89-9f821a777dc4bb",
-        "mention89-81675c4e9d2e2a"
+        "mention89-81675c4e9d2e2a",
+        "primary192-ob12"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -22025,13 +22113,10 @@
         "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Conversaciones diplomáticas por vinculacaña. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/",
-          "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_12"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "El contacto consta como interacción por vinculacaña."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. El pasaje confirma una conversación, sin un compromiso o vínculo continuado."
     },
     {
       "id": "mention89-rel-prince-tashikk-122-0",
@@ -22046,9 +22131,10 @@
       },
       "sourceIds": [
         "mention89-9f821a777dc4bb",
-        "mention89-81675c4e9d2e2a"
+        "mention89-81675c4e9d2e2a",
+        "primary192-ob12"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
@@ -22056,13 +22142,10 @@
         "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Conversaciones diplomáticas por vinculacaña. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/",
-          "https://coppermind.net/wiki/Oathbringer/Summary/Chapter_12"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "El contacto consta como interacción por vinculacaña."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. El pasaje confirma una conversación, sin un compromiso o vínculo continuado."
     },
     {
       "id": "mention89-rel-teshav-senior-wards-123-0",
@@ -22070,30 +22153,28 @@
       "to": "teshav-senior-wards",
       "kind": "mentor",
       "category": "social",
-      "label": "Tuteladas y ayudantes de investigación",
+      "label": "Mentora → discípulas",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "sourceIds": [
         "mention89-9f821a777dc4bb",
-        "mention89-8a8135284f4d99"
+        "mention89-8a8135284f4d99",
+        "primary192-ob12"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Referencia localizada; no implica encuentro presencial ni ubicación compartida."
+        "Las dos mujeres son las discípulas más antiguas de Teshav. El texto las presenta como asistentes y discípulas."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Tuteladas y ayudantes de investigación. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/",
-          "https://reactormag.com/oathbringer-reread-chapter-12//"
-        ]
-      }
+        "reason": "Las dos mujeres son las discípulas más antiguas de Teshav. El texto las presenta como asistentes y discípulas."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Las dos mujeres son las discípulas más antiguas de Teshav. El texto las presenta como asistentes y discípulas."
     },
     {
       "id": "mention89-rel-yezriar-124-0",
@@ -27078,36 +27159,40 @@
       "id": "interaction-ob-chapter-12-dalinar-taravangian-29",
       "participants": [
         "dalinar",
-        "taravangian"
+        "taravangian",
+        "kalami"
       ],
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "type": "message",
-      "summary": "Negocian mediante vinculacaña.",
+      "summary": "Kalami lee a Dalinar la respuesta de Taravangian a su invitación.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-c12"
+        "ob-c12",
+        "primary192-ob12"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Negocian mediante vinculacaña. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-12/"
-        ],
+        "reason": "Kalami lee a Dalinar la respuesta de Taravangian a su invitación.",
         "pairs": [
           [
             "dalinar",
             "taravangian"
+          ],
+          [
+            "kalami",
+            "dalinar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Kalami lee a Dalinar la respuesta de Taravangian a su invitación."
     },
     {
       "id": "interaction-ob-chapter-13-shallan-adolin-pattern-30",
@@ -27121,22 +27206,20 @@
         "sceneId": "ob-chapter-13"
       },
       "type": "cooperation",
-      "summary": "Visita a las dependencias de Shallan.",
+      "summary": "Shallan presenta a Patrón a Adolin. Los tres hablan de las ilusiones y del papel de Patrón como carabina.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob13"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Visita a las dependencias de Shallan. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-13-15/"
-        ],
+        "reason": "Shallan presenta a Patrón a Adolin. Los tres hablan de las ilusiones y del papel de Patrón como carabina.",
         "pairs": [
           [
             "shallan",
@@ -27151,7 +27234,8 @@
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Shallan presenta a Patrón a Adolin. Los tres hablan de las ilusiones y del papel de Patrón como carabina."
     },
     {
       "id": "interaction-ob-chapter-15-shallan-adolin-pattern-31",
@@ -27165,22 +27249,20 @@
         "sceneId": "ob-chapter-15"
       },
       "type": "cooperation",
-      "summary": "Practican con la espada.",
+      "summary": "Discuten el informe y entrenan con hojas esquirladas. Patrón habla con Shallan y embota su filo para la práctica.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob15"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Entrenamiento de Shallan con Adolin y conversación de Shallan con Patrón. Patrón actúa como espada; no convertir su mera presencia en diálogo Adolin–Patrón en este episodio.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-13-15/"
-        ],
+        "reason": "Discuten el informe y entrenan con hojas esquirladas. Patrón habla con Shallan y embota su filo para la práctica.",
         "pairs": [
           [
             "shallan",
@@ -27191,7 +27273,8 @@
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Discuten el informe y entrenan con hojas esquirladas. Patrón habla con Shallan y embota su filo para la práctica."
     },
     {
       "id": "interaction-ob-chapter-14-kaladin-parshman-card-player-khen-32",
@@ -27205,37 +27288,22 @@
         "sceneId": "ob-chapter-14"
       },
       "type": "encounter",
-      "summary": "Primer encuentro con el grupo rural.",
+      "summary": "Kaladin se entrega al grupo del campamento.",
       "storyTime": {
         "frame": "present",
         "note": "Escena narrativa; no presupone simultaneidad con otros puntos de vista."
       },
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
-        "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Primer encuentro con el grupo rural. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-13-15/"
-        ],
-        "pairs": [
-          [
-            "kaladin",
-            "parshman-card-player"
-          ],
-          [
-            "kaladin",
-            "khen"
-          ],
-          [
-            "parshman-card-player",
-            "khen"
-          ]
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "La rendición se dirige al grupo; no hay interlocutor individual identificado en este capítulo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Kaladin se entrega al grupo tras ser descubierto. El texto no atribuye un intercambio individual con Khen o el jugador."
     },
     {
       "id": "interaction-ob-chapter-16-dalinar-zahel-33",
@@ -29356,29 +29424,28 @@
         "sceneId": "ob-chapter-13"
       },
       "type": "encounter",
-      "summary": "Adolin visita a Shallan en su nueva habitación y le lleva comida y libros.",
+      "summary": "Adolin lleva comida enviada por Palona, libros sobre los makabaki y el informe sobre Vedekar Perel.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob13"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita, sin derivación por coincidencia espacial."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Adolin visita a Shallan en su nueva habitación y le lleva comida y libros. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-13-15/"
-        ],
+        "reason": "Adolin lleva comida enviada por Palona, libros sobre los makabaki y el informe sobre Vedekar Perel.",
         "pairs": [
           [
             "shallan",
             "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Adolin lleva comida enviada por Palona, libros sobre los makabaki y el informe sobre Vedekar Perel."
     },
     {
       "id": "audit-72-event-38",
@@ -29391,29 +29458,28 @@
         "sceneId": "ob-chapter-13"
       },
       "type": "conversation",
-      "summary": "Comentan la voz y la apariencia del disfraz de Velo.",
+      "summary": "Patrón comenta la voz de Velo mientras Shallan practica sola con él.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob13"
       ],
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita, sin derivación por coincidencia espacial."
       },
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Comentan la voz y la apariencia del disfraz de Velo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-13-15/"
-        ],
+        "reason": "Patrón comenta la voz de Velo mientras Shallan practica sola con él.",
         "pairs": [
           [
             "shallan",
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Patrón comenta la voz de Velo mientras Shallan practica sola con él."
     },
     {
       "id": "audit-72-event-42",
@@ -32936,35 +33002,35 @@
       "id": "audit-ob-interaction-19",
       "participants": [
         "dalinar",
-        "teshav",
+        "gawx",
         "kalami",
-        "navani"
+        "navani",
+        "teshav",
+        "aladar"
       ],
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "type": "cooperation",
-      "summary": "Preparan y transmiten respuestas al emperador de Azir.",
+      "summary": "El equipo prepara y transmite las respuestas a la corte de Azir.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary192-ob12"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Preparan y transmiten respuestas al emperador de Azir. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/"
-        ],
+        "reason": "El equipo prepara y transmite las respuestas a la corte de Azir.",
         "pairs": [
           [
             "dalinar",
-            "teshav"
+            "gawx"
           ],
           [
             "dalinar",
@@ -32973,44 +33039,70 @@
           [
             "dalinar",
             "navani"
+          ],
+          [
+            "dalinar",
+            "teshav"
+          ],
+          [
+            "navani",
+            "kalami"
+          ],
+          [
+            "teshav",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "aladar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. El equipo prepara y transmite las respuestas a la corte de Azir."
     },
     {
       "id": "audit-ob-interaction-21",
       "participants": [
         "dalinar",
-        "fen"
+        "fen",
+        "kalami",
+        "aladar"
       ],
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "type": "message",
-      "summary": "Negocian por vinculacaña sin acordar una visita.",
+      "summary": "Fen escribe personalmente. Dalinar dicta sus respuestas a Kalami y Aladar plantea si podrán cumplir la oferta.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary192-ob12"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Negocian por vinculacaña sin acordar una visita. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-10-12/"
-        ],
+        "reason": "Fen escribe personalmente. Dalinar dicta sus respuestas a Kalami y Aladar plantea si podrán cumplir la oferta.",
         "pairs": [
           [
             "dalinar",
             "fen"
+          ],
+          [
+            "dalinar",
+            "kalami"
+          ],
+          [
+            "dalinar",
+            "aladar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Fen escribe personalmente. Dalinar dicta sus respuestas a Kalami y Aladar plantea si podrán cumplir la oferta."
     },
     {
       "id": "audit-ob-interaction-25",
@@ -33061,29 +33153,28 @@
         "sceneId": "ob-chapter-14"
       },
       "type": "conversation",
-      "summary": "Discuten cómo capturan las cartas de escudero.",
+      "summary": "Discuten las reglas del juego, en particular las capturas de los escuderos.",
       "storyTime": {
         "frame": "present",
         "note": "Interacción explícita del pasaje."
       },
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob14"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Discuten cómo capturan las cartas de escudero. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-13-15/"
-        ],
+        "reason": "Discuten las reglas del juego, en particular las capturas de los escuderos.",
         "pairs": [
           [
             "parshman-card-player",
             "khen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Discuten las reglas del juego, en particular las capturas de los escuderos."
     },
     {
       "id": "audit-ob-interaction-33",
@@ -57142,6 +57233,120 @@
           ]
         ]
       }
+    },
+    {
+      "id": "primary192-dalinar-yez-tash",
+      "participants": [
+        "dalinar",
+        "princess-yezier",
+        "prince-tashikk"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-12"
+      },
+      "type": "message",
+      "summary": "Dalinar conversa a distancia con los dos gobernantes. El relato no reproduce acuerdos concretos.",
+      "sourceIds": [
+        "primary192-ob12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Dalinar conversa a distancia con los dos gobernantes. El relato no reproduce acuerdos concretos.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar conversa a distancia con los dos gobernantes. El relato no reproduce acuerdos concretos.",
+        "pairs": [
+          [
+            "dalinar",
+            "princess-yezier"
+          ],
+          [
+            "dalinar",
+            "prince-tashikk"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary192-elhokar-high-king",
+      "participants": [
+        "elhokar",
+        "dalinar",
+        "navani",
+        "teshav"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-12"
+      },
+      "type": "conversation",
+      "summary": "Elhokar llama a Navani y Teshav como testigos, y conversa con Dalinar y Navani sobre el alcance de su propuesta.",
+      "sourceIds": [
+        "primary192-ob12"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Elhokar llama a Navani y Teshav como testigos, y conversa con Dalinar y Navani sobre el alcance de su propuesta.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Elhokar llama a Navani y Teshav como testigos, y conversa con Dalinar y Navani sobre el alcance de su propuesta.",
+        "pairs": [
+          [
+            "elhokar",
+            "dalinar"
+          ],
+          [
+            "elhokar",
+            "navani"
+          ],
+          [
+            "elhokar",
+            "teshav"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "primary192-kaladin-syl-camp",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-14"
+      },
+      "type": "conversation",
+      "summary": "Kaladin comenta que sus expectativas sobre el grupo eran erróneas y pide a Syl que no se transforme en arma.",
+      "sourceIds": [
+        "primary192-ob14"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Kaladin comenta que sus expectativas sobre el grupo eran erróneas y pide a Syl que no se transforme en arma.",
+      "storyTime": {
+        "frame": "present",
+        "note": "Parejas con intercambio o contacto expreso; sin cliques de grupo."
+      },
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin comenta que sus expectativas sobre el grupo eran erróneas y pide a Syl que no se transforme en arma.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -57255,12 +57460,14 @@
         "sceneId": "ob-chapter-13"
       },
       "kind": "abilities",
-      "text": "Practica la apariencia y la voz de Velo.",
+      "text": "Ensaya la apariencia, la voz y la forma de caminar de Velo.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob13"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Ensaya la apariencia, la voz y la forma de caminar de Velo."
     },
     {
       "id": "fact-shallan-6",
@@ -57270,12 +57477,14 @@
         "sceneId": "ob-chapter-15"
       },
       "kind": "identity",
-      "text": "Crea la personalidad de Radiante para afrontar el uso de la espada.",
+      "text": "Bosqueja a Radiante inspirándose en el temple de Jasnah y adopta esa apariencia para entrenar con la hoja.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob15"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Bosqueja y adopta la apariencia de Radiante para afrontar el entrenamiento con la hoja."
     },
     {
       "id": "fact-pattern-7",
@@ -57285,12 +57494,14 @@
         "sceneId": "ob-chapter-13"
       },
       "kind": "identity",
-      "text": "Shallan lo presenta como un críptico.",
+      "text": "Shallan presenta formalmente a Patrón como críptico ante Adolin.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob13"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Shallan presenta formalmente a Patrón como críptico ante Adolin."
     },
     {
       "id": "fact-kaladin-8",
@@ -57300,12 +57511,14 @@
         "sceneId": "ob-chapter-14"
       },
       "kind": "goals",
-      "text": "Se entrega voluntariamente al grupo rural.",
+      "text": "Se entrega voluntariamente al grupo después de observarlo y ser descubierto.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Se entrega voluntariamente al grupo después de observarlo y ser descubierto."
     },
     {
       "id": "fact-dalinar-9",
@@ -58153,12 +58366,14 @@
         "sceneId": "ob-chapter-13"
       },
       "kind": "experience",
-      "text": "Se traslada al sector de Sebarial y practica la voz de Velo.",
+      "text": "Se instala en un cuarto con terraza en el sector de Sebarial y practica el disfraz de Velo.",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob13"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Se instala en un cuarto con terraza en el sector de Sebarial y practica el disfraz de Velo."
     },
     {
       "id": "audit-72-fact-40",
@@ -60849,13 +61064,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
-      "text": "Hija de Aladar; acompaña al equipo diplomático de Dalinar.",
+      "text": "May es hija de Aladar. Recopila informes para Navani con las escribas.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary192-ob12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. May es hija de Aladar. Recopila informes para Navani con las escribas."
     },
     {
       "id": "audit-ob-profile-18",
@@ -60864,13 +61081,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
-      "text": "Asesora política que interpreta las respuestas diplomáticas azish.",
+      "text": "Teshav Khal interpreta las respuestas de Azir y está acompañada de dos discípulas veteranas.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary192-ob12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Teshav Khal interpreta las respuestas de Azir y está acompañada de dos discípulas veteranas."
     },
     {
       "id": "audit-ob-profile-20",
@@ -60879,13 +61098,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
-      "text": "Reina de Thaylenah; evita aceptar la visita propuesta por Dalinar.",
+      "text": "Fen Rnamdi, reina de Thaylenah, escribe personalmente y declina la cumbre para ocuparse de la reconstrucción.",
       "kind": "affiliation",
       "sourceIds": [
-        "audit-ob-primary-10-12"
+        "audit-ob-primary-10-12",
+        "primary192-ob12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Fen Rnamdi, reina de Thaylenah, escribe personalmente y declina la cumbre para ocuparse de la reconstrucción."
     },
     {
       "id": "audit-ob-profile-22",
@@ -60945,13 +61166,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-14"
       },
-      "text": "Aprende un juego de cartas recordando a los humanos a quienes servía.",
+      "text": "Juega con Khen y recuerda haber observado partidas mientras llevaba una bandeja de bebidas.",
       "kind": "background",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Juega con Khen y recuerda haber observado partidas mientras llevaba una bandeja de bebidas."
     },
     {
       "id": "audit-ob-profile-28",
@@ -60960,13 +61183,15 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-14"
       },
-      "text": "Discute las reglas de cartas con el hombre del campamento.",
+      "text": "El jugador la llama Khen. Ella discute las reglas y luego se acerca al grupo de la hoguera.",
       "kind": "experience",
       "sourceIds": [
-        "ob-primary-13-15"
+        "ob-primary-13-15",
+        "primary192-ob14"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. El jugador la llama Khen. Ella discute las reglas y luego se acerca al grupo de la hoguera."
     },
     {
       "id": "audit-ob-profile-30",
@@ -67356,49 +67581,55 @@
       "id": "mention89-fact-princess-yezier-121",
       "characterId": "princess-yezier",
       "kind": "background",
-      "text": "Habla por vinculacaña con Dalinar sobre cooperación, sin aceptar un compromiso firme.",
+      "text": "Conversa a distancia con Dalinar. El capítulo no reproduce sus palabras.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "sourceIds": [
         "mention89-9f821a777dc4bb",
-        "mention89-81675c4e9d2e2a"
+        "mention89-81675c4e9d2e2a",
+        "primary192-ob12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Conversa a distancia con Dalinar. El capítulo no reproduce sus palabras."
     },
     {
       "id": "mention89-fact-prince-tashikk-122",
       "characterId": "prince-tashikk",
       "kind": "background",
-      "text": "Interlocutor de Dalinar por vinculacaña en sus intentos de cooperación internacional.",
+      "text": "Conversa a distancia con Dalinar después de la princesa de Yezier.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "sourceIds": [
         "mention89-9f821a777dc4bb",
-        "mention89-81675c4e9d2e2a"
+        "mention89-81675c4e9d2e2a",
+        "primary192-ob12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Conversa a distancia con Dalinar después de la princesa de Yezier."
     },
     {
       "id": "mention89-fact-teshav-senior-wards-123",
       "characterId": "teshav-senior-wards",
       "kind": "background",
-      "text": "Dos tuteladas veteranas acompañan a Teshav para ayudar con investigación y traducción.",
+      "text": "Dos discípulas veteranas se sientan junto a Teshav, preparadas para ayudar con datos o traducciones.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-12"
       },
       "sourceIds": [
         "mention89-9f821a777dc4bb",
-        "mention89-8a8135284f4d99"
+        "mention89-8a8135284f4d99",
+        "primary192-ob12"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Dos discípulas veteranas se sientan junto a Teshav, preparadas para ayudar con datos o traducciones."
     },
     {
       "id": "mention89-fact-yezriar-124",
@@ -87202,6 +87433,125 @@
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar recuerda que unificó Alezkar siglos antes. Gavilar identifica Juramentada como su antigua hoja.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/11.Grieta.xhtml. Dalinar recuerda que unificó Alezkar siglos antes. Gavilar identifica Juramentada como su antigua hoja.",
       "supersedes": []
+    },
+    {
+      "id": "primary192-elhokar-proposal",
+      "characterId": "elhokar",
+      "kind": "background",
+      "text": "Propone a Dalinar como alto rey, mantiene su responsabilidad sobre Alezkar y plantea ir a Kholinar con Kaladin. La partida queda pendiente.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-12"
+      },
+      "sourceIds": [
+        "primary192-ob12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Propone a Dalinar como alto rey, mantiene su responsabilidad sobre Alezkar y plantea ir a Kholinar con Kaladin. La partida queda pendiente.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Propone a Dalinar como alto rey, mantiene su responsabilidad sobre Alezkar y plantea ir a Kholinar con Kaladin. La partida queda pendiente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary192-taravangian-gate-plan",
+      "characterId": "taravangian",
+      "kind": "background",
+      "text": "Afirma que han localizado la Puerta Jurada y que una persona que se presenta como Radiante intentará operarla. Su visita es condicional.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-12"
+      },
+      "sourceIds": [
+        "primary192-ob12"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Afirma que han localizado la Puerta Jurada y que una persona que se presenta como Radiante intentará operarla. Su visita es condicional.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Afirma que han localizado la Puerta Jurada y que una persona que se presenta como Radiante intentará operarla. Su visita es condicional.",
+      "supersedes": []
+    },
+    {
+      "id": "primary192-may-investigation",
+      "characterId": "may-aladar",
+      "kind": "background",
+      "text": "Según el informe que trae Adolin, May envía equipos a entrevistar a familiares y amigos de Vedekar Perel.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-13"
+      },
+      "sourceIds": [
+        "primary192-ob13"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Según el informe que trae Adolin, May envía equipos a entrevistar a familiares y amigos de Vedekar Perel.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Según el informe que trae Adolin, May envía equipos a entrevistar a familiares y amigos de Vedekar Perel.",
+      "supersedes": []
+    },
+    {
+      "id": "primary192-kabsal-recounted",
+      "characterId": "kabsal",
+      "kind": "background",
+      "text": "Shallan recuerda ante Adolin cómo se acercó a ella para llegar a Jasnah y el intento de envenenamiento.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-13"
+      },
+      "sourceIds": [
+        "primary192-ob13"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Shallan recuerda ante Adolin cómo se acercó a ella para llegar a Jasnah y el intento de envenenamiento.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Shallan recuerda ante Adolin cómo se acercó a ella para llegar a Jasnah y el intento de envenenamiento.",
+      "supersedes": []
+    },
+    {
+      "id": "primary192-parsh-camp-sentry-ob14-intro",
+      "characterId": "parsh-camp-sentry-ob14",
+      "kind": "background",
+      "text": "Kaladin distingue a un guardia sentado. El capítulo no lo identifica.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-14"
+      },
+      "sourceIds": [
+        "primary192-ob14"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Kaladin distingue a un guardia sentado. El capítulo no lo identifica.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Kaladin distingue a un guardia sentado. El capítulo no lo identifica.",
+      "supersedes": []
+    },
+    {
+      "id": "primary192-shallan-investigation-plan",
+      "characterId": "shallan",
+      "kind": "background",
+      "text": "Considera la posibilidad de otras víctimas y planea informarse en las tabernas. Pospone la salida para la noche siguiente.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-15"
+      },
+      "sourceIds": [
+        "primary192-ob15"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Considera la posibilidad de otras víctimas y planea informarse en las tabernas. Pospone la salida para la noche siguiente.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Considera la posibilidad de otras víctimas y planea informarse en las tabernas. Pospone la salida para la noche siguiente.",
+      "supersedes": []
+    },
+    {
+      "id": "primary192-adolin-healing-recalled",
+      "characterId": "adolin",
+      "kind": "background",
+      "text": "Shallan nota que usa la mano derecha y recuerda que Renarin le curó la muñeca.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-15"
+      },
+      "sourceIds": [
+        "primary192-ob15"
+      ],
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Shallan nota que usa la mano derecha y recuerda que Renarin le curó la muñeca.",
+      "readingLocator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Shallan nota que usa la mano derecha y recuerda que Renarin le curó la muñeca.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -89783,6 +90133,10 @@
         {
           "revision": 191,
           "notes": "OB8 recuerda a los padres de Shallan y reafirma los vínculos Kholin. OB9 Dalinar asigna la investigación a su hijo. OB10 se recuerda el compromiso de Shallan y se distingue el origen de Syl del parentesco biológico. OB11 el niño llama padre a Tanalan; los vínculos de la mujer quedan pendientes. El matrimonio y la hija de Gavilar aparecen como recuerdos, sin presencias en Rathalas."
+        },
+        {
+          "revision": 192,
+          "notes": "May aparece como hija de Aladar. Elhokar se dirige a su madre y a su tío. Las asistentes de Teshav son discípulas; no se acredita parentesco. Shallan y Adolin reafirman su compromiso y recuerdan familiares ausentes; en el campamento del capítulo 14 no se revelan parentescos."
         }
       ]
     }
@@ -90483,12 +90837,15 @@
       },
       "sourceIds": [
         "ob-c2-summary",
-        "ob-c11"
+        "ob-c11",
+        "primary192-ob12",
+        "primary163-wor81-85"
       ],
-      "status": "pending",
+      "status": "rejected",
       "notes": [
-        "Una vez identificada su correspondencia con Teleb, conservar el informe de bajas ya conocido en el presente; no convertirlo en una muerte en su recuerdo de juventud."
-      ]
+        "La identificación del capítulo 11 conserva la muerte confirmada en el presente y a Teleb vivo en el recuerdo."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Este capítulo no relata una nueva muerte de Teleb. El cadáver ya se documenta en Palabras radiantes 83."
     },
     {
       "id": "ob-feast-assassin-dead-19",
@@ -92588,7 +92945,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 191,
+  "revision": 192,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -108794,7 +109151,7 @@
           "scene": "ob-chapter-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Alethkar · Campamento rural de parshmen",
@@ -108808,9 +109165,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -108827,11 +109185,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-14"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 14, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Sale del matorral al ser descubierto y se entrega voluntariamente.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale del matorral al ser descubierto y se entrega voluntariamente."
+          ]
         },
         {
           "id": "ob-kaladin-chapter-17-01",
@@ -121767,9 +122125,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob13"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -121786,11 +122145,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-13"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 13, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Ensaya en su dormitorio el aspecto y la voz de Velo y disipa la ilusión antes de recibir a Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ensaya en su dormitorio el aspecto y la voz de Velo y disipa la ilusión antes de recibir a Adolin."
+          ]
         },
         {
           "id": "ob-shallan-chapter-15-01",
@@ -121814,9 +122173,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob15"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -121833,11 +122193,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-15"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 15, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Examina el informe con Adolin y crea la apariencia de Radiante antes de entrenar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina el informe con Adolin y crea la apariencia de Radiante antes de entrenar."
+          ]
         },
         {
           "id": "ob-shallan-chapter-18-01",
@@ -130703,7 +131063,7 @@
           "scene": "ob-chapter-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 3,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Alethkar · Campamento rural de parshmen",
@@ -130717,9 +131077,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -130736,11 +131097,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-14"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 14, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Se acerca dispuesta a adoptar forma de hoja y Kaladin le pide que no lo haga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acerca dispuesta a adoptar forma de hoja y Kaladin le pide que no lo haga."
+          ]
         },
         {
           "id": "ob-syl-chapter-17-01",
@@ -138068,12 +138429,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -138090,12 +138452,103 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Desciende al estrado y dirige las conversaciones diplomáticas.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Desciende al estrado y dirige las conversaciones diplomáticas."
+          ]
+        },
+        {
+          "id": "primary192-dalinar-amphitheatre-door",
+          "scene": "ob-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Umbral del anfiteatro",
+          "placeId": "place-ob12-amphitheatre-door",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Urithiru · Umbral del anfiteatro",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob12",
+          "sourceIds": [
+            "primary192-ob12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Encuentra a Elhokar cuando se dispone a salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a Elhokar cuando se dispone a salir."
+          ]
+        },
+        {
+          "id": "primary192-dalinar-taravangian",
+          "scene": "ob-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Negociaciones por vinculacaña",
+          "placeId": "place-urithiru-diplomatic-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob12",
+          "sourceIds": [
+            "primary192-ob12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Vuelve a un asiento y escucha el mensaje de Taravangian leído por Kalami.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a un asiento y escucha el mensaje de Taravangian leído por Kalami."
           ]
         },
         {
@@ -145596,7 +146049,7 @@
           "scene": "ob-chapter-13",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Urithiru · Habitación de Shallan en el sector de Sebarial",
@@ -145613,9 +146066,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob13"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -145632,11 +146086,104 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-13"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 13, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Llega con comida, libros y el informe de la investigación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega con comida, libros y el informe de la investigación."
+          ]
+        },
+        {
+          "id": "primary192-adolin-waits",
+          "scene": "ob-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo ante el cuarto de Shallan",
+          "placeId": "place-ob13-shallan-room-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Urithiru · Pasillo ante el cuarto de Shallan",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob13",
+          "sourceIds": [
+            "primary192-ob13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Espera en el pasillo mientras Shallan se viste.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera en el pasillo mientras Shallan se viste."
+          ]
+        },
+        {
+          "id": "primary192-adolin-dinner",
+          "scene": "ob-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Habitación de Shallan en el sector de Sebarial",
+          "placeId": "place-urithiru-shallan-sebarial-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; sin plano interior."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob13",
+          "sourceIds": [
+            "primary192-ob13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Vuelve a entrar, cena con Shallan y conoce formalmente a Patrón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a entrar, cena con Shallan y conoce formalmente a Patrón."
+          ]
         },
         {
           "id": "ob-adolin-chapter-15-01",
@@ -145660,9 +146207,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob15"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -145679,11 +146227,104 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-15"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 15, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
+          "locator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Comenta el informe y propone enseñarle a empuñar su hoja.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta el informe y propone enseñarle a empuñar su hoja."
+          ]
+        },
+        {
+          "id": "primary192-adolin-blade-guards",
+          "scene": "ob-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puesto de guardia del sector de Sebarial",
+          "placeId": "place-ob15-sebarial-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Urithiru · Puesto de guardia del sector de Sebarial",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
-          "notes": []
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob15",
+          "sourceIds": [
+            "primary192-ob15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-15"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Sale a recoger las guardas de entrenamiento que dice haber dejado allí.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale a recoger las guardas de entrenamiento que dice haber dejado allí."
+          ]
+        },
+        {
+          "id": "primary192-adolin-instructs",
+          "scene": "ob-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Habitación de Shallan en el sector de Sebarial",
+          "placeId": "place-urithiru-shallan-sebarial-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; sin plano interior."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob15",
+          "sourceIds": [
+            "primary192-ob15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-15"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Vuelve con las guardas y enseña a Shallan la postura y un ataque básico.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve con las guardas y enseña a Shallan la postura y un ataque básico."
+          ]
         },
         {
           "id": "ob-adolin-chapter-21-01",
@@ -151735,26 +152376,28 @@
           "scene": "ob-chapter-12",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 5,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Urithiru · Negociaciones por vinculacaña",
-          "placeId": "place-urithiru-diplomatic-meeting",
+          "place": "Urithiru · Umbral del anfiteatro",
+          "placeId": "place-ob12-amphitheatre-door",
           "realm": "physical",
           "placeNotes": [
-            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+            "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Urithiru · Umbral del anfiteatro",
+            "Existencia y dependencia revisadas; no coordenada nueva ni precisión superior al anclaje."
           ],
           "xy": [
             474.647,
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -151771,12 +152414,56 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Espera en el umbral y habla con Dalinar antes de entrar.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Espera en el umbral y habla con Dalinar antes de entrar."
+          ]
+        },
+        {
+          "id": "primary192-elhokar-amphitheatre",
+          "scene": "ob-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Negociaciones por vinculacaña",
+          "placeId": "place-urithiru-diplomatic-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob12",
+          "sourceIds": [
+            "primary192-ob12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Entra, llama a Navani y Teshav como testigos y propone que Dalinar sea alto rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra, llama a Navani y Teshav como testigos y propone que Dalinar sea alto rey."
           ]
         },
         {
@@ -156945,12 +157632,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -156967,12 +157655,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Asesora a Dalinar y se queda para repasar los informes.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Asesora a Dalinar y se queda para repasar los informes."
           ]
         },
         {
@@ -169756,7 +170442,7 @@
           "scene": "ob-chapter-12",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 7,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
@@ -169767,12 +170453,13 @@
           ],
           "xy": null,
           "kind": "remote",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-remote-unknown",
@@ -169789,12 +170476,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Su mensaje promete una visita si funciona la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "La vinculacaña no prueba una presencia corporal junto al interlocutor."
+            "Su mensaje promete una visita si funciona la Puerta Jurada."
           ]
         },
         {
@@ -190041,9 +190726,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob13"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -190060,11 +190746,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-13"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 13, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/13.Carabina.xhtml. Comenta la voz de Velo. Luego se muestra a Adolin y actúa como carabina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta la voz de Velo. Luego se muestra a Adolin y actúa como carabina."
+          ]
         },
         {
           "id": "ob-pattern-chapter-15-01",
@@ -190088,9 +190774,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob15"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -190107,11 +190794,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-15"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 15, place-urithiru-shallan-sebarial-rooms",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/15.Brillaradiante.xhtml. Habla con Shallan y luego adopta forma de hoja con el filo embotado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Shallan y luego adopta forma de hoja con el filo embotado."
+          ]
         },
         {
           "id": "ob-pattern-chapter-18-01",
@@ -192149,12 +192836,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -192171,12 +192859,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Participa en las negociaciones y se excusa al final de la última conferencia.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Participa en las negociaciones y se excusa al final de la última conferencia."
           ]
         }
       ]
@@ -214789,12 +215475,13 @@
           ],
           "xy": null,
           "kind": "remote",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-remote-unknown",
@@ -214811,12 +215498,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. La corte azishiana transmite las respuestas del emperador mediante vinculacaña.",
+          "needsConfirmation": [],
           "notes": [
-            "La vinculacaña no prueba una presencia corporal junto al interlocutor."
+            "La corte azishiana transmite las respuestas del emperador mediante vinculacaña."
           ]
         },
         {
@@ -224368,12 +225053,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -224390,12 +225076,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Escribe y lee los mensajes de las vinculacañas.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Escribe y lee los mensajes de las vinculacañas."
           ]
         },
         {
@@ -225318,12 +226002,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -225340,12 +226025,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Está con su padre y recopila informes para Navani junto con las escribas.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Está con su padre y recopila informes para Navani junto con las escribas."
           ]
         },
         {
@@ -225611,12 +226294,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -225633,12 +226317,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Interpreta las respuestas de Azir y presencia la declaración de Elhokar.",
+          "needsConfirmation": [],
           "notes": [
-            "Anclaje de ciudad o referencia previa; punto exacto pendiente."
+            "Interpreta las respuestas de Azir y presencia la declaración de Elhokar."
           ]
         },
         {
@@ -225847,7 +226529,7 @@
           "scene": "ob-chapter-12",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
@@ -225858,12 +226540,13 @@
           ],
           "xy": null,
           "kind": "remote",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob-c12",
           "sourceIds": [
-            "ob-c12"
+            "ob-c12",
+            "primary192-ob12"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-remote-unknown",
@@ -225880,12 +226563,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-12"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y dependencia con la edición usada."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Fen Rnamdi escribe personalmente y dice que se quedará reconstruyendo su ciudad.",
+          "needsConfirmation": [],
           "notes": [
-            "La vinculacaña no prueba una presencia corporal junto al interlocutor."
+            "Fen Rnamdi escribe personalmente y dice que se quedará reconstruyendo su ciudad."
           ]
         },
         {
@@ -226251,9 +226932,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -226270,11 +226952,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-14"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 14, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Juega a las cartas con Khen. Recuerda haber visto jugar mientras servía bebidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Juega a las cartas con Khen. Recuerda haber visto jugar mientras servía bebidas."
+          ]
         },
         {
           "id": "ob-parshman-card-player-chapter-17-01",
@@ -226541,9 +227223,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -226560,11 +227243,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-14"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 14, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Discute las reglas con el jugador y luego se une a quienes intentan encender la hoguera.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute las reglas con el jugador y luego se une a quienes intentan encender la hoguera."
+          ]
         },
         {
           "id": "ob-khen-chapter-17-01",
@@ -226863,7 +227546,7 @@
           "scene": "ob-chapter-14",
           "retrospective": false,
           "memoryPhase": null,
-          "memoryOrder": 1,
+          "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
           "place": "Alethkar · Campamento rural de parshmen",
@@ -226877,9 +227560,10 @@
           "review": "primary-text",
           "source": "ob-primary-13-15",
           "sourceIds": [
-            "ob-primary-13-15"
+            "ob-primary-13-15",
+            "primary192-ob14"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-parsh-camp",
@@ -226896,11 +227580,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-14"
           },
-          "locator": "Serialización Tor.com en inglés, capítulo 14, place-ob-parsh-camp",
-          "needsConfirmation": [
-            "Cotejar traducción y precisión espacial con la edición española."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Cruza el aire como una cinta amarilla y avisa a los acampados de que alguien los observa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza el aire como una cinta amarilla y avisa a los acampados de que alguien los observa."
+          ]
         },
         {
           "id": "ob-yellow-ribbon-spren-chapter-17-02",
@@ -243341,7 +244025,51 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary192-princess-yezier-remote",
+          "scene": "ob-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "placeId": "place-ob-remote-unknown",
+          "realm": "physical",
+          "placeNotes": [
+            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+          ],
+          "xy": null,
+          "kind": "remote",
+          "review": "primary-text",
+          "source": "primary192-ob12",
+          "sourceIds": [
+            "primary192-ob12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-remote-unknown",
+          "coordinateAnchorName": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Habla por vinculacaña con Dalinar después de Fen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla por vinculacaña con Dalinar después de Fen."
+          ]
+        }
+      ]
     },
     {
       "id": "prince-tashikk",
@@ -243351,7 +244079,51 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary192-prince-tashikk-remote",
+          "scene": "ob-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "placeId": "place-ob-remote-unknown",
+          "realm": "physical",
+          "placeNotes": [
+            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+          ],
+          "xy": null,
+          "kind": "remote",
+          "review": "primary-text",
+          "source": "primary192-ob12",
+          "sourceIds": [
+            "primary192-ob12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-remote-unknown",
+          "coordinateAnchorName": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Habla por vinculacaña con Dalinar después de la princesa de Yezier.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla por vinculacaña con Dalinar después de la princesa de Yezier."
+          ]
+        }
+      ]
     },
     {
       "id": "teshav-senior-wards",
@@ -243361,7 +244133,54 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary192-teshav-pupils",
+          "scene": "ob-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Negociaciones por vinculacaña",
+          "placeId": "place-urithiru-diplomatic-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad; dependencia exacta pendiente de localizar."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob12",
+          "sourceIds": [
+            "primary192-ob12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/12.Negociaciones.xhtml. Las dos discípulas veteranas están sentadas junto a Teshav para ayudar con datos y traducciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Las dos discípulas veteranas están sentadas junto a Teshav para ayudar con datos y traducciones."
+          ]
+        }
+      ]
     },
     {
       "id": "yezriar",
@@ -266437,6 +267256,60 @@
       "color": "#a8b8c5",
       "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
       "events": []
+    },
+    {
+      "id": "parsh-camp-sentry-ob14",
+      "name": "Centinela del campamento",
+      "role": "Kaladin distingue a un guardia sentado. El capítulo no lo identifica.",
+      "initial": "C",
+      "importance": "tertiary",
+      "color": "#a8b8c5",
+      "importanceReason": "Persona o referencia individualizable del pasaje; sin identidad posterior inferida.",
+      "events": [
+        {
+          "id": "primary192-camp-sentry",
+          "scene": "ob-chapter-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alethkar · Campamento rural de parshmen",
+          "placeId": "place-ob-parsh-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Sin coordenadas verificadas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary192-ob14",
+          "sourceIds": [
+            "primary192-ob14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-parsh-camp",
+          "coordinateAnchorName": "Alethkar · Campamento rural de parshmen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno de la perspectiva."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/14.Escuderosno.xhtml. Está sentado en un tocón al vigilar el campamento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está sentado en un tocón al vigilar el campamento."
+          ]
+        }
+      ]
     }
   ]
 }
