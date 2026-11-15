@@ -3216,6 +3216,7 @@
     "ob-chapter-38": [
       "dalinar",
       "jasnah",
+      "kalami",
       "malad-son-zent",
       "navani",
       "stormfather",
@@ -3247,7 +3248,6 @@
       "shallan",
       "shallan-mother",
       "shob",
-      "shob-brothers",
       "uli-da",
       "vathah",
       "zendid"
@@ -11492,6 +11492,40 @@
         "field": "appearance",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary199-ob37"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca ve a una mujer rodeada de spren azulados durante las prácticas. Syl la llama Phendorana y recuerda que la reprendió.",
+        "id": "primary199-archive-ob37",
+        "entryId": "spren-person-phendorana",
+        "value": "Roca ve a una mujer rodeada de spren azulados durante las prácticas. Syl la llama Phendorana y recuerda que la reprendió.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-37"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary199-ob38"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. El Padre Tormenta dice que sostuvo el Pacto durante unos cuatro milenios y medio y que la espada con que llegó a Kholinar no era su Hoja de Honor.",
+        "id": "primary199-archive-ob38",
+        "entryId": "herald-talenel",
+        "value": "El Padre Tormenta dice que sostuvo el Pacto durante unos cuatro milenios y medio y que la espada con que llegó a Kholinar no era su Hoja de Honor.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-38"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -17022,20 +17056,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-gift-parent",
@@ -17049,20 +17084,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-tuaka-gift-parent",
@@ -17076,20 +17112,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-cord-parent",
@@ -17103,20 +17140,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-tuaka-cord-parent",
@@ -17130,20 +17168,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-little-rock-parent",
@@ -17157,20 +17196,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-tuaka-little-rock-parent",
@@ -17184,20 +17224,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-star-parent",
@@ -17211,20 +17252,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-tuaka-star-parent",
@@ -17238,20 +17280,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-kumatiki-parent",
@@ -17265,20 +17308,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-tuaka-kumatiki-parent",
@@ -17292,20 +17336,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-beautiful-song-parent",
@@ -17319,20 +17364,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-tuaka-beautiful-song-parent",
@@ -17346,20 +17392,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → descendiente. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-gift-cord-sibling",
@@ -17373,20 +17420,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-cord"
+        "ob81-cord",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto sibling: Gemelos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Cord?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen con sus seis hijos. Roca los presenta en el encuentro."
     },
     {
       "id": "ob81-rel-rock-mother-rock-parent",
@@ -17400,20 +17448,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-rock"
+        "ob81-rock",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca recuerda cocinar con su madre."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Lunamor"
-        ]
-      }
+        "reason": "Roca recuerda cocinar con su madre."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca recuerda cocinar con su madre."
     },
     {
       "id": "ob81-rel-rock-distant-ancestor-rock-ancestor",
@@ -17427,21 +17476,22 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Roca relata una historia familiar de un ascendiente de cinco generaciones."
+      ],
       "generationDistance": 5,
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto ancestor: Ascendiente · cinco generaciones. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
-        ]
-      }
+        "reason": "Roca relata una historia familiar de un ascendiente de cinco generaciones."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca relata una historia familiar de un ascendiente de cinco generaciones."
     },
     {
       "id": "ob81-rel-rock-tifi-relative",
@@ -17455,22 +17505,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-tifi"
+        "ob81-tifi",
+        "primary199-ob37"
       ],
       "status": "pending",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "No se identifica con un hermano concreto ni se inventa progenitor intermedio."
+        "Tuaka pregunta por Tifi. El pasaje no fija el grado de parentesco."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto relative: Parentesco sin grado precisado. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Tifi"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "Tuaka pregunta por Tifi. El pasaje no fija el grado de parentesco."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Tuaka pregunta por Tifi. El pasaje no fija el grado de parentesco."
     },
     {
       "id": "ob81-rel-rock-sinakua-relative",
@@ -17484,22 +17533,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-sinaku"
+        "ob81-sinaku",
+        "primary199-ob37"
       ],
       "status": "pending",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "No se identifica con un hermano concreto ni se inventa progenitor intermedio."
+        "Tuaka pregunta por Sinaku’a. El pasaje no fija el grado de parentesco."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto relative: Parentesco sin grado precisado. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Sinaku%27a?mobileaction=toggle_view_desktop"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "Tuaka pregunta por Sinaku’a. El pasaje no fija el grado de parentesco."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Tuaka pregunta por Sinaku’a. El pasaje no fija el grado de parentesco."
     },
     {
       "id": "ob83-rel-zent-malad-son-zent-parent",
@@ -17513,22 +17561,21 @@
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-es-summary"
+        "ob83-es-summary",
+        "primary199-ob38"
       ],
       "status": "pending",
       "certainty": "inferred",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Deducción onomástica, pendiente de cotejo. No acredita presencia de Zent ni ascendientes adicionales."
+        "El nombre Malad-hijo-Zent aparece en una recreación. La filiación se deduce del patronímico."
       ],
       "networkEvidence": {
         "kind": "uncertain",
-        "reason": "La única base es el patronímico Malad-hijo-Zent; es deducción onomástica, no filiación explícita comprobada. No activar como vínculo real mientras siga sin corroborar.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Resumen:Juramentada"
-        ]
-      }
+        "reason": "El nombre Malad-hijo-Zent aparece en una recreación. La filiación se deduce del patronímico."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. El nombre Malad-hijo-Zent aparece en una recreación. La filiación se deduce del patronímico."
     },
     {
       "id": "ob83-rel-hamaradin-ishnah-employer",
@@ -17543,23 +17590,21 @@
       },
       "sourceIds": [
         "ob83-hamaradin",
-        "ob83-ishnah"
+        "ob83-ishnah",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "former",
       "supersedes": [],
       "notes": [
-        "No equivale a parentesco ni confirma todavía la valoración de sus habilidades."
+        "Ishnah cuenta que se formó como espía para la casa Hamaradin."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Empleadora anterior, según Ishnah. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Hamaradin",
-          "https://es.coppermind.net/wiki/Ishnah"
-        ]
-      }
+        "reason": "Ishnah cuenta que se formó como espía para la casa Hamaradin."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Ishnah cuenta que se formó como espía para la casa Hamaradin."
     },
     {
       "id": "ob83-rel-ishnah-shallan-cooperation",
@@ -17573,20 +17618,21 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-ishnah"
+        "ob83-ishnah",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ishnah acepta enseñar a los hombres de Velo."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Acuerdo para formar a sus hombres. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Ishnah"
-        ]
-      }
+        "reason": "Ishnah acepta enseñar a los hombres de Velo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Ishnah acepta enseñar a los hombres de Velo."
     },
     {
       "id": "ob83-rel-crescent-scar-stranger-helaran-mentor",
@@ -17601,23 +17647,21 @@
       },
       "sourceIds": [
         "ob83-helaran",
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob40"
       ],
       "status": "pending",
       "certainty": "reported",
       "state": "disputed",
       "supersedes": [],
       "notes": [
-        "No prueba un encuentro fechado ni un vínculo Nahel. Patrón advierte que la carta contiene mentiras."
+        "La carta atribuye el reclutamiento al círculo de Nale. No acredita una tutoría individual."
       ],
       "networkEvidence": {
         "kind": "uncertain",
-        "reason": "La carta atribuye el reclutamiento a Nalan, pero Patrón advierte que contiene mentiras y no se demuestra aquí trato personal entre ambos. Conservar como atribución en ficha; no certificar mentoría real.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Helaran_Davar",
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "La carta atribuye el reclutamiento al círculo de Nale. No acredita una tutoría individual."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La carta atribuye el reclutamiento al círculo de Nale. No acredita una tutoría individual."
     },
     {
       "id": "ob84-rel-0-lustow-janala",
@@ -18628,22 +18672,21 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "audit87-source-9a417a4ad6d836"
+        "audit87-source-9a417a4ad6d836",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Syl recuerda los reproches recibidos de Phendorana en el pasado; en esta escena no conversan."
+        "Syl recuerda la voz de Phendorana reprendiéndola por buscar a Kaladin."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Syl recuerda reproches recibidos de Phendorana: hay trato anterior relatado, aunque no hablan en el presente deOB37. No usarlo como encuentro actual.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
-        ]
-      }
+        "reason": "Syl recuerda la voz de Phendorana reprendiéndola por buscar a Kaladin."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Syl recuerda la voz de Phendorana reprendiéndola por buscar a Kaladin."
     },
     {
       "id": "audit87-dalinar-rial-service",
@@ -20128,24 +20171,23 @@
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
       },
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Primera mención absoluta pendiente de cotejo primario."
+        "Zendid está con los hombres del cuartel e interviene en su conversación con Velo."
       ],
       "sourceIds": [
         "audit87-p3-source-18",
-        "audit87-source-97d81601c615bc"
+        "audit87-source-97d81601c615bc",
+        "primary199-ob40"
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Empleadora → guardia. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Zendid"
-        ]
-      }
+        "reason": "Zendid está con los hombres del cuartel e interviene en su conversación con Velo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Zendid está con los hombres del cuartel e interviene en su conversación con Velo."
     },
     {
       "id": "audit87-p3-rel-graves-fia-chapter-43",
@@ -20826,22 +20868,21 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "audit87-source-33013eb113c8b2"
+        "audit87-source-33013eb113c8b2",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Fuente secundaria con capítulo localizado; pendiente de cotejo primario."
+        "La referencia a los hermanos en la partida la hace Velo sobre sí misma. No acredita hermanos de Shob."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto sibling: Hermanos: al menos dos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Shob"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "La referencia a los hermanos en la partida la hace Velo sobre sí misma. No acredita hermanos de Shob."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La referencia a los hermanos en la partida la hace Velo sobre sí misma. No acredita hermanos de Shob."
     },
     {
       "id": "review87-shallan-shob-employer-ob-chapter-27",
@@ -35797,7 +35838,7 @@
         "renarin"
       ],
       "type": "conversation",
-      "summary": "Hablan de pertenecer al Puente Cuatro.",
+      "summary": "Roca anima a Renarin y le dice que pertenece al Puente Cuatro aunque sus habilidades sean distintas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -35807,13 +35848,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de pertenecer al Puente Cuatro. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Roca anima a Renarin y le dice que pertenece al Puente Cuatro aunque sus habilidades sean distintas.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35823,7 +35865,8 @@
             "renarin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca anima a Renarin y le dice que pertenece al Puente Cuatro aunque sus habilidades sean distintas."
     },
     {
       "id": "ob81-interaction-4",
@@ -35832,7 +35875,7 @@
         "skar"
       ],
       "type": "cooperation",
-      "summary": "Skar lo ayuda con la Luz Tormentosa.",
+      "summary": "Skar ayuda a Roca a absorber luz tormentosa.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -35842,13 +35885,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Skar lo ayuda con la Luz Tormentosa. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Skar ayuda a Roca a absorber luz tormentosa.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35858,7 +35902,8 @@
             "skar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Skar ayuda a Roca a absorber luz tormentosa."
     },
     {
       "id": "ob81-interaction-5",
@@ -35867,7 +35912,7 @@
         "hobber"
       ],
       "type": "cooperation",
-      "summary": "Kaladin lo guía durante las prácticas.",
+      "summary": "Kaladin orienta a Hobber, que absorbe luz y recupera la movilidad.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -35877,13 +35922,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Kaladin lo guía durante las prácticas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Kaladin orienta a Hobber, que absorbe luz y recupera la movilidad.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35893,7 +35939,8 @@
             "hobber"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Kaladin orienta a Hobber, que absorbe luz y recupera la movilidad."
     },
     {
       "id": "ob81-interaction-6",
@@ -35902,7 +35949,7 @@
         "elhokar"
       ],
       "type": "conversation",
-      "summary": "Acuerdan una misión futura.",
+      "summary": "Elhokar habla con Kaladin de la misión futura.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -35912,13 +35959,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Acuerdan una misión futura. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Elhokar habla con Kaladin de la misión futura.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35928,7 +35976,8 @@
             "elhokar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Elhokar habla con Kaladin de la misión futura."
     },
     {
       "id": "ob81-interaction-7",
@@ -35937,7 +35986,7 @@
         "syl"
       ],
       "type": "conversation",
-      "summary": "Comentan a los spren observadores.",
+      "summary": "Roca pregunta a Syl por Phendorana y los spren que observan el entrenamiento.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -35947,13 +35996,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Comentan a los spren observadores. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Roca pregunta a Syl por Phendorana y los spren que observan el entrenamiento.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35963,7 +36013,8 @@
             "syl"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca pregunta a Syl por Phendorana y los spren que observan el entrenamiento."
     },
     {
       "id": "ob81-interaction-8",
@@ -35972,7 +36023,7 @@
         "tuaka"
       ],
       "type": "conversation",
-      "summary": "Se reencuentran y comparten noticias.",
+      "summary": "Roca y Tuaka se reúnen y hablan de Kef’ha, Tifi y Sinaku’a.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -35982,13 +36033,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-tuaka"
+        "ob81-tuaka",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se reencuentran y comparten noticias. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Roca y Tuaka se reúnen y hablan de Kef’ha, Tifi y Sinaku’a.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Tuaka"
         ],
@@ -35998,7 +36050,8 @@
             "tuaka"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca y Tuaka se reúnen y hablan de Kef’ha, Tifi y Sinaku’a."
     },
     {
       "id": "ob81-interaction-9",
@@ -36012,7 +36065,7 @@
         "beautiful-song"
       ],
       "type": "encounter",
-      "summary": "Presenta a sus hijos.",
+      "summary": "Roca presenta a sus seis hijos en el reencuentro con la caravana.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
@@ -36022,13 +36075,14 @@
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Roca se reencuentra y presenta a sus hijos. Se registran contactos padre–cada hijo, sin producir quince encuentros entre hermanos por la lista de presentación.",
+        "reason": "Roca presenta a sus seis hijos en el reencuentro con la caravana.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Lunamor%27s_family?mobileaction=toggle_view_mobile"
         ],
@@ -36058,7 +36112,8 @@
             "beautiful-song"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca presenta a sus seis hijos en el reencuentro con la caravana."
     },
     {
       "id": "ob83-interaction-0",
@@ -36069,7 +36124,7 @@
         "stormfather"
       ],
       "type": "conversation",
-      "summary": "Examinan la visión y escuchan la explicación del Pacto.",
+      "summary": "Dalinar, Navani y Jasnah examinan la recreación de Aharietiam y oyen la explicación del Padre Tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-38"
@@ -36079,13 +36134,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Dalinar recibe la explicación del Padre Tormenta y coordina a Navani/Jasnah. Oír una explicación compartida no demuestra diálogos directos de ambas mujeres con el spren.",
+        "reason": "Dalinar, Navani y Jasnah examinan la recreación de Aharietiam y oyen la explicación del Padre Tormenta.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -36103,7 +36159,8 @@
             "jasnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Dalinar, Navani y Jasnah examinan la recreación de Aharietiam y oyen la explicación del Padre Tormenta."
     },
     {
       "id": "ob83-interaction-1",
@@ -36112,7 +36169,7 @@
         "jasnah"
       ],
       "type": "conversation",
-      "summary": "Hablan de sus creencias y de registrar las visiones.",
+      "summary": "Jasnah y Dalinar hablan de sus creencias y de estudiar las visiones.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-38"
@@ -36122,13 +36179,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de sus creencias y de registrar las visiones. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Jasnah y Dalinar hablan de sus creencias y de estudiar las visiones.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-eight/"
         ],
@@ -36138,7 +36196,8 @@
             "jasnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Jasnah y Dalinar hablan de sus creencias y de estudiar las visiones."
     },
     {
       "id": "ob83-interaction-2",
@@ -36147,7 +36206,7 @@
         "navani"
       ],
       "type": "conversation",
-      "summary": "Comentan el reencuentro con Jasnah.",
+      "summary": "Dalinar y Navani hablan de Jasnah y examinan las hojas de Honor de la recreación.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-38"
@@ -36157,13 +36216,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Comentan el reencuentro con Jasnah. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Dalinar y Navani hablan de Jasnah y examinan las hojas de Honor de la recreación.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-eight/"
         ],
@@ -36173,7 +36233,8 @@
             "navani"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Dalinar y Navani hablan de Jasnah y examinan las hojas de Honor de la recreación."
     },
     {
       "id": "ob83-interaction-3",
@@ -36182,7 +36243,7 @@
         "teshav"
       ],
       "type": "message",
-      "summary": "Navani dicta observaciones a Teshav desde la visión.",
+      "summary": "Teshav registra lo que Navani relata desde la visión.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-38"
@@ -36192,13 +36253,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Navani dicta observaciones a Teshav desde la visión. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Teshav registra lo que Navani relata desde la visión.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -36208,7 +36270,8 @@
             "teshav"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Teshav registra lo que Navani relata desde la visión."
     },
     {
       "id": "ob83-interaction-4",
@@ -36217,7 +36280,7 @@
         "jasnah"
       ],
       "type": "encounter",
-      "summary": "Dalinar recuerda su emotivo reencuentro anterior.",
+      "summary": "Dalinar recuerda el reencuentro de Navani y Jasnah; no se vuelve a representar como una llegada física.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-38"
@@ -36227,23 +36290,16 @@
         "note": "Encuentro anterior relatado en38. Fecha, capítulo del acontecimiento y lugar exactos sin fijar; no se inventa observación retrospectiva."
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
-        "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Dalinar recuerda su emotivo reencuentro anterior. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-thirty-eight/"
-        ],
-        "pairs": [
-          [
-            "navani",
-            "jasnah"
-          ]
-        ]
-      }
+        "kind": "mention-only",
+        "reason": "Dalinar recuerda el reencuentro de Navani y Jasnah; no se vuelve a representar como una llegada física."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Dalinar recuerda el reencuentro de Navani y Jasnah; no se vuelve a representar como una llegada física."
     },
     {
       "id": "ob83-interaction-5",
@@ -36252,7 +36308,7 @@
         "jasnah"
       ],
       "type": "conversation",
-      "summary": "Debaten sobre las notas y la continuidad de su aprendizaje.",
+      "summary": "Jasnah encarga las notas a Shallan y habla de los requisitos de su formación.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-39"
@@ -36262,13 +36318,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob39"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Debaten sobre las notas y la continuidad de su aprendizaje. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Jasnah encarga las notas a Shallan y habla de los requisitos de su formación.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -36278,7 +36335,8 @@
             "jasnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Jasnah encarga las notas a Shallan y habla de los requisitos de su formación."
     },
     {
       "id": "ob83-interaction-6",
@@ -36287,7 +36345,7 @@
         "jasnah"
       ],
       "type": "conflict",
-      "summary": "Discuten sobre cómo responder a los parshmen.",
+      "summary": "Kaladin y Jasnah debaten qué hacer con los parshmenios.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-39"
@@ -36297,13 +36355,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob39"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Discuten sobre cómo responder a los parshmen. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Kaladin y Jasnah debaten qué hacer con los parshmenios.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -36313,7 +36372,8 @@
             "jasnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Kaladin y Jasnah debaten qué hacer con los parshmenios."
     },
     {
       "id": "ob83-interaction-7",
@@ -36323,7 +36383,7 @@
         "jasnah"
       ],
       "type": "conversation",
-      "summary": "Discuten alternativas de actuación.",
+      "summary": "Dalinar interviene en la discusión de alternativas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-39"
@@ -36333,13 +36393,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob39"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Discuten alternativas de actuación. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Dalinar interviene en la discusión de alternativas.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -36357,7 +36418,8 @@
             "jasnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Dalinar interviene en la discusión de alternativas."
     },
     {
       "id": "ob83-interaction-8",
@@ -36366,7 +36428,7 @@
         "pattern"
       ],
       "type": "conversation",
-      "summary": "Patrón señala que la estancia conserva recuerdos.",
+      "summary": "Patrón dice que la sala tiene recuerdos y Shallan pregunta si sería posible investigarlos en Shadesmar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-39"
@@ -36376,13 +36438,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob39"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Patrón señala que la estancia conserva recuerdos. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Patrón dice que la sala tiene recuerdos y Shallan pregunta si sería posible investigarlos en Shadesmar.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -36392,7 +36455,8 @@
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Patrón dice que la sala tiene recuerdos y Shallan pregunta si sería posible investigarlos en Shadesmar."
     },
     {
       "id": "ob83-interaction-9",
@@ -36401,7 +36465,7 @@
         "shallan"
       ],
       "type": "message",
-      "summary": "Shallan encuentra una carta dirigida a ella.",
+      "summary": "Shallan encuentra la carta dirigida a ella. Mraize no está presente.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-39"
@@ -36411,23 +36475,16 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-39-40"
+        "ob83-39-40",
+        "primary199-ob39"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
-        "kind": "interaction",
-        "reason": "Carta dirigida por Mraize a Shallan: comunicación real entre remitente y destinataria, no vínculo por leer a un autor genérico.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-thirty-nine-and-forty/"
-        ],
-        "pairs": [
-          [
-            "mraize",
-            "shallan"
-          ]
-        ]
-      }
+        "kind": "mention-only",
+        "reason": "Shallan encuentra la carta dirigida a ella. Mraize no está presente."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Shallan encuentra la carta dirigida a ella. Mraize no está presente."
     },
     {
       "id": "ob83-interaction-10",
@@ -36436,7 +36493,7 @@
         "pattern"
       ],
       "type": "conversation",
-      "summary": "Patrón advierte que la carta contiene mentiras.",
+      "summary": "Patrón advierte a Shallan de que hay mentiras en la carta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
@@ -36446,13 +36503,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-39-40"
+        "ob83-39-40",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Patrón advierte que la carta contiene mentiras. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Patrón advierte a Shallan de que hay mentiras en la carta.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-nine-and-forty/"
         ],
@@ -36462,7 +36520,8 @@
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Patrón advierte a Shallan de que hay mentiras en la carta."
     },
     {
       "id": "ob83-interaction-11",
@@ -36470,10 +36529,11 @@
         "shallan",
         "vathah",
         "gaz",
-        "red"
+        "red",
+        "shob"
       ],
       "type": "conversation",
-      "summary": "Participa como Velo en el juego y conversa con los soldados.",
+      "summary": "Velo se sienta a jugar con Vathah, Gaz, Rojo y Shob.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
@@ -36483,31 +36543,34 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Participa como Velo en el juego y conversa con los soldados. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ],
+        "reason": "Velo se sienta a jugar con Vathah, Gaz, Rojo y Shob.",
         "pairs": [
           [
             "shallan",
-            "vathah"
+            "shob"
           ],
           [
-            "shallan",
-            "gaz"
+            "gaz",
+            "shob"
           ],
           [
-            "shallan",
-            "red"
+            "vathah",
+            "shob"
+          ],
+          [
+            "red",
+            "shob"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo se sienta a jugar con Vathah, Gaz, Rojo y Shob."
     },
     {
       "id": "ob83-interaction-12",
@@ -36517,7 +36580,7 @@
         "zendid"
       ],
       "type": "conversation",
-      "summary": "Hablan de si pueden ser útiles.",
+      "summary": "Gaz habla con Velo y Zendid interviene desde la mesa cercana.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
@@ -36527,13 +36590,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-zendid"
+        "ob83-zendid",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de si pueden ser útiles. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Gaz habla con Velo y Zendid interviene desde la mesa cercana.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Zendid"
         ],
@@ -36547,7 +36611,8 @@
             "zendid"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Gaz habla con Velo y Zendid interviene desde la mesa cercana."
     },
     {
       "id": "ob83-interaction-13",
@@ -36556,7 +36621,7 @@
         "ishnah"
       ],
       "type": "conversation",
-      "summary": "Ishnah cuenta su pasado y acepta formar a los hombres.",
+      "summary": "Ishnah relata su entrenamiento para la casa Hamaradin y acepta enseñar a los soldados.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
@@ -36566,13 +36631,14 @@
         "note": "Interacción explícita; compartir una sala no genera por sí solo un encuentro entre todas las parejas."
       },
       "sourceIds": [
-        "ob83-ishnah"
+        "ob83-ishnah",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ishnah cuenta su pasado y acepta formar a los hombres. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Ishnah relata su entrenamiento para la casa Hamaradin y acepta enseñar a los soldados.",
         "sourceUrls": [
           "https://es.coppermind.net/wiki/Ishnah"
         ],
@@ -36582,7 +36648,8 @@
             "ishnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Ishnah relata su entrenamiento para la casa Hamaradin y acepta enseñar a los soldados."
     },
     {
       "id": "ob84-interaction-0",
@@ -63810,10 +63877,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se presenta como hijo mayor de roca y de Canción."
     },
     {
       "id": "ob81-fact-cord-1",
@@ -63825,10 +63894,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se presenta como hija mayor de roca y de Canción."
     },
     {
       "id": "ob81-fact-little-rock-2",
@@ -63840,10 +63911,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Es el segundo hijo varón de Roca y Tuaka."
     },
     {
       "id": "ob81-fact-star-3",
@@ -63855,10 +63928,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se presenta como tercer hijo de roca y de Canción."
     },
     {
       "id": "ob81-fact-kumatiki-4",
@@ -63870,10 +63945,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se presenta como segunda hija de roca y de Canción."
     },
     {
       "id": "ob81-fact-beautiful-song-5",
@@ -63885,10 +63962,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se presenta como hija menor de roca y de Canción."
     },
     {
       "id": "ob81-fact-evi-6",
@@ -63985,25 +64064,29 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-tuaka"
+        "ob81-tuaka",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Esposa de Roca y madre de sus seis hijos; conoce a Roca desde la infancia."
     },
     {
       "id": "ob81-fact-rock-12",
       "characterId": "rock",
       "kind": "background",
-      "text": "Se reúne con su esposa y seis hijos. La primera mención anterior de su existencia sigue pendiente de localizar; aquí se documentan sus nombres.",
+      "text": "Se reúne con Tuaka y presenta a sus seis hijos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-family"
+        "ob81-family",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se reúne con Tuaka y presenta a sus seis hijos."
     },
     {
       "id": "ob81-fact-rock-13",
@@ -64016,10 +64099,12 @@
       },
       "sourceIds": [
         "ob81-rock",
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Recuerda cocinar con su madre y una historia de un ascendiente de cinco generaciones. No se inventan las personas intermedias."
     },
     {
       "id": "ob81-fact-rock-14",
@@ -64032,10 +64117,12 @@
       },
       "sourceIds": [
         "ob81-tifi",
-        "ob81-sinaku"
+        "ob81-sinaku",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. La relación exacta con Tifi y Sinaku’a no se da por resuelta; tampoco se le asigna un título de nuatoma mediante teorías."
     },
     {
       "id": "ob81-fact-beautiful-song-15",
@@ -64047,10 +64134,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-little-song"
+        "ob81-little-song",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Era tan pequeña cuando partió su padre que no lo recuerda al reencontrarlo."
     },
     {
       "id": "ob81-fact-rock-nuatoma-16",
@@ -64062,10 +64151,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-rock"
+        "ob81-rock",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se da su nombre: Kef’ha. No se identifica como hermano de Roca sin prueba suficiente."
     },
     {
       "id": "ob81-fact-tifi-17",
@@ -64077,10 +64168,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-tifi"
+        "ob81-tifi",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca relata su muerte tras alzarse en venganza."
     },
     {
       "id": "ob81-fact-sinakua-18",
@@ -64092,10 +64185,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-sinaku"
+        "ob81-sinaku",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca relata su muerte tras alzarse en venganza."
     },
     {
       "id": "ob81-fact-phendorana-19",
@@ -64107,11 +64202,13 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
-      "readingLocator": "Capítulo 37: Roca observa al grupo de spren durante las prácticas del Puente Cuatro y Syl recuerda los reproches de Phendorana."
+      "readingLocator": "Capítulo 37: Roca observa al grupo de spren durante las prácticas del Puente Cuatro y Syl recuerda los reproches de Phendorana.",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca observa a una figura femenina de tamaño humano, rodeada de spren azulados, durante las prácticas del Puente Cuatro. Syl la llama Phendorana y recuerda sus reproches por haber buscado a Kaladin."
     },
     {
       "id": "ob81-fact-hobber-20",
@@ -64123,10 +64220,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-summary"
+        "ob81-summary",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Absorbe Luz Tormentosa y vuelve a caminar."
     },
     {
       "id": "ob81-fact-renarin-21",
@@ -64138,10 +64237,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Dice que aún no consigue producir ilusiones. No se atribuye aquí una causa futura."
     },
     {
       "id": "ob81-fact-bisig-22",
@@ -64153,10 +64254,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-summary"
+        "ob81-summary",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Figura entre los participantes de las prácticas."
     },
     {
       "id": "ob81-fact-rock-mother-23",
@@ -64168,10 +64271,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-rock"
+        "ob81-rock",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca recuerda amasar junto a ella."
     },
     {
       "id": "ob81-fact-rock-distant-ancestor-24",
@@ -64183,10 +64288,12 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Se le atribuye un antiguo encuentro durante un viaje; sin nombre ni ubicación precisa."
     },
     {
       "id": "ob83-fact-malad-son-zent-0",
@@ -64198,10 +64305,12 @@
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-es-summary"
+        "ob83-es-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Dalinar recibe este nombre al ocupar el papel de un soldado de la visión. No aparece como persona actual junto a él."
     },
     {
       "id": "ob83-fact-zent-1",
@@ -64213,10 +64322,12 @@
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-es-summary"
+        "ob83-es-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Nombre de progenitor deducido del patronímico de Malad; sin biografía ni ubicación documentadas."
     },
     {
       "id": "ob83-fact-dalinar-2",
@@ -64228,10 +64339,12 @@
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. El Padre Tormenta explica que el Pacto buscaba contener los regresos de los Fusionados; no revela todavía la causa de la Recreancia."
     },
     {
       "id": "ob83-fact-talenel-3",
@@ -64243,25 +64356,29 @@
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. El Padre Tormenta confirma la identificación del hombre llegado de Kholinar con Talenel y relata que soportó solo el Pacto durante unos cuatro milenios y medio."
     },
     {
       "id": "ob83-fact-talenel-4",
       "characterId": "talenel",
       "kind": "background",
-      "text": "Según el Padre Tormenta, la espada que portaba aquel hombre no era su Hoja de Honor. Esto no localiza la hoja perdida.",
+      "text": "El Padre Tormenta dice que la hoja que llevaba al llegar a Kholinar no era su Hoja de Honor. Su ubicación queda abierta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. El Padre Tormenta dice que la hoja que llevaba al llegar a Kholinar no era su Hoja de Honor. Su ubicación queda abierta."
     },
     {
       "id": "ob83-fact-jasnah-5",
@@ -64273,10 +64390,12 @@
         "sceneId": "ob-chapter-38"
       },
       "sourceIds": [
-        "ob83-38"
+        "ob83-38",
+        "primary199-ob38"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Participa en la visión y conversa con su tío; el reencuentro anterior con su madre se recuerda sin fijar una nueva escena corporal."
     },
     {
       "id": "ob83-fact-shallan-6",
@@ -64288,10 +64407,12 @@
         "sceneId": "ob-chapter-39"
       },
       "sourceIds": [
-        "ob83-39-40"
+        "ob83-39-40",
+        "primary199-ob39"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Dibuja a Kaladin durante la reunión. Eso no establece una pareja ni modifica su compromiso."
     },
     {
       "id": "ob83-fact-jasnah-7",
@@ -64303,10 +64424,12 @@
         "sceneId": "ob-chapter-39"
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob39"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Mantiene a Shallan como pupila hasta que cumpla los requisitos de erudición."
     },
     {
       "id": "ob83-fact-pattern-8",
@@ -64318,25 +64441,29 @@
         "sceneId": "ob-chapter-39"
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob39"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Señala recuerdos de la estancia; la posible investigación en Shadesmar no acredita una entrada."
     },
     {
       "id": "ob83-fact-helaran-9",
       "characterId": "helaran",
       "kind": "background",
-      "text": "La carta lo presenta como acólito de los Rompecielos y atribuye su reclutamiento a Nalan. Es un informe cuya fiabilidad no queda resuelta.",
+      "text": "La carta presenta a Helaran como acólito y dice que Nale quedó impresionado con él. El testimonio se atribuye al remitente.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-helaran"
+        "ob83-helaran",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La carta presenta a Helaran como acólito y dice que Nale quedó impresionado con él. El testimonio se atribuye al remitente."
     },
     {
       "id": "ob83-fact-helaran-10",
@@ -64348,10 +64475,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-helaran"
+        "ob83-helaran",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. El motivo del ataque a Amaram se presenta mediante alternativas; no se le atribuye aquí un spren ni poderes de Radiante."
     },
     {
       "id": "ob83-fact-shallan-mother-11",
@@ -64363,10 +64492,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-39-40"
+        "ob83-39-40",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La carta le atribuye un contacto con un Rompecielos. No revela un nombre nuevo, identidad ni parentesco adicional."
     },
     {
       "id": "ob83-fact-shallan-12",
@@ -64378,10 +64509,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-39-40"
+        "ob83-39-40",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Lee el informe sobre su hermano y destruye la carta. La advertencia de Patrón impide tratar todas sus afirmaciones como hechos confirmados."
     },
     {
       "id": "ob83-fact-amaram-13",
@@ -64393,10 +64526,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La carta lo vincula con los Hijos de Honor y su objetivo declarado de provocar el regreso de las Desolaciones."
     },
     {
       "id": "ob83-fact-gavilar-14",
@@ -64408,10 +64543,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La carta lo sitúa entre los promotores de los Hijos de Honor; es información atribuida al remitente."
     },
     {
       "id": "ob83-fact-ishnah-15",
@@ -64423,10 +64560,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-ishnah"
+        "ob83-ishnah",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Dice haber trabajado para la red de espionaje de Hamaradin y acepta enseñar a los hombres de Velo. No se adelanta la valoración posterior de Mraize."
     },
     {
       "id": "ob83-fact-hamaradin-16",
@@ -64438,10 +64577,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-hamaradin"
+        "ob83-hamaradin",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Ishnah relata su muerte y sospecha de los Sangre Espectral; la autoría no queda probada."
     },
     {
       "id": "ob83-fact-zendid-17",
@@ -64453,10 +64594,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-zendid"
+        "ob83-zendid",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Interviene desde una mesa cercana durante la conversación del cuartel."
     },
     {
       "id": "ob83-fact-gaz-18",
@@ -64468,10 +64611,12 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Habla con Velo sobre ser útil; esto no le otorga ya un vínculo ni poderes de Radiante."
     },
     {
       "id": "ob84-fact-teft-0",
@@ -65842,16 +65987,18 @@
       "id": "review87-fact-shob-ob-chapter-40-47",
       "characterId": "shob",
       "kind": "background",
-      "text": "Tiene al menos dos hermanos; no se revelan sus nombres en esta mención.",
+      "text": "La frase sobre hermanos la pronuncia Velo. Este diálogo no da información sobre hermanos de Shob.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "audit87-source-33013eb113c8b2"
+        "audit87-source-33013eb113c8b2",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "rejected",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. La frase sobre hermanos la pronuncia Velo. Este diálogo no da información sobre hermanos de Shob."
     },
     {
       "id": "audit88-dabbid-treated-cr17",
@@ -68591,10 +68738,12 @@
       },
       "sourceIds": [
         "mention89-ecac8c9246bbdf",
-        "mention89-7c5b6042025f1e"
+        "mention89-7c5b6042025f1e",
+        "primary199-ob40"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Nombre citado de forma hostil en el epígrafe de este capítulo, sin identidad o ubicación explicadas."
     },
     {
       "id": "mention89-fact-dilid-120",
@@ -91285,6 +91434,10 @@
         {
           "revision": 198,
           "notes": "Se confirma el compromiso de Peet y Ka, el matrimonio de Punio y los vínculos relatados de Sigzil y Drehy. El compromiso de Bisig sigue pendiente. En OB36 se confirma la supervivencia del heredero de Tanalan y se registra la declaración sobre su madre. La visión de Fen no crea vínculos de parentesco."
+        },
+        {
+          "revision": 199,
+          "notes": "Se cotejan los seis hijos de Roca y Tuaka, la madre y el ascendiente recordados. Tifi y Sinaku’a quedan sin grado de parentesco. Se evita atribuir a Shob los hermanos que menciona Velo. Los papeles de la visión no crean parentescos actuales."
         }
       ]
     }
@@ -92377,12 +92530,14 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-tifi"
+        "ob81-tifi",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte anterior relatada; lugar y fecha exactos sin fijar."
-      ]
+        "Roca o Tuaka relatan la muerte; el fallecimiento se conoce por su relato."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca o Tuaka relatan la muerte; el fallecimiento se conoce por su relato."
     },
     {
       "id": "ob81-life-sinakua",
@@ -92393,12 +92548,14 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-sinaku"
+        "ob81-sinaku",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte anterior relatada; lugar y fecha exactos sin fijar."
-      ]
+        "Roca o Tuaka relatan la muerte; el fallecimiento se conoce por su relato."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca o Tuaka relatan la muerte; el fallecimiento se conoce por su relato."
     },
     {
       "id": "ob81-life-rock-nuatoma",
@@ -92409,12 +92566,14 @@
         "sceneId": "ob-chapter-37"
       },
       "sourceIds": [
-        "ob81-rock"
+        "ob81-rock",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "La reunión familiar relata su muerte anterior; no asignar lugar o fecha exactos."
-      ]
+        "Roca o Tuaka relatan la muerte; el fallecimiento se conoce por su relato."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca o Tuaka relatan la muerte; el fallecimiento se conoce por su relato."
     },
     {
       "id": "ob83-life-hamaradin",
@@ -92425,12 +92584,14 @@
         "sceneId": "ob-chapter-40"
       },
       "sourceIds": [
-        "ob83-hamaradin"
+        "ob83-hamaradin",
+        "primary199-ob40"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte relatada por Ishnah. Sin lugar, fecha ni autoría confirmados."
-      ]
+        "Ishnah dice que la dama Hamaradin terminó muerta. La autoría queda sin confirmar."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Ishnah dice que la dama Hamaradin terminó muerta. La autoría queda sin confirmar."
     },
     {
       "id": "ob84-life-graves",
@@ -94136,7 +94297,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 198,
+  "revision": 199,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -97330,12 +97491,15 @@
       "experiencedPlace": "Percepción de formas más amplias de spren desde el lugar de prácticas",
       "physicalPlaceId": "place-narak-training-37",
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary199-ob37"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "No es entrada corporal ni estancia confirmada en Shadesmar; no crea token de representante de viaje."
+        "No es entrada corporal ni estancia confirmada en Shadesmar; no crea token de representante de viaje.",
+        "Roca ve a los spren que observan a los hombres del puente desde Narak."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca ve a los spren que observan a los hombres del puente desde Narak.",
       "entryAnchor": {
         "placeId": "place-narak-training-37",
         "name": "Narak · Meseta de prácticas del Puente Cuatro",
@@ -97354,12 +97518,15 @@
       "experiencedPlace": "Batalla antigua, zona de sanadores y lugar de las nueve Hojas de Honor; sin coordenadas actuales",
       "physicalPlaceId": "place-urithiru-vision-room-38",
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Experiencia compartida desde Urithiru. No es recuerdo personal ni viaje corporal; no crea estancia en Shadesmar ni deduce la ubicación actual de las Hojas."
+        "Experiencia compartida desde Urithiru. No es recuerdo personal ni viaje corporal; no crea estancia en Shadesmar ni deduce la ubicación actual de las Hojas.",
+        "Recreación de Aharietiam. Los participantes permanecen físicamente en Urithiru."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Recreación de Aharietiam. Los participantes permanecen físicamente en Urithiru.",
       "entryAnchor": {
         "placeId": "place-urithiru-vision-room-38",
         "name": "Urithiru · Estancia desde la que comparten la visión",
@@ -97378,12 +97545,15 @@
       "experiencedPlace": "Batalla antigua, zona de sanadores y lugar de las nueve Hojas de Honor; sin coordenadas actuales",
       "physicalPlaceId": "place-urithiru-vision-room-38",
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Experiencia compartida desde Urithiru. No es recuerdo personal ni viaje corporal; no crea estancia en Shadesmar ni deduce la ubicación actual de las Hojas."
+        "Experiencia compartida desde Urithiru. No es recuerdo personal ni viaje corporal; no crea estancia en Shadesmar ni deduce la ubicación actual de las Hojas.",
+        "Recreación de Aharietiam. Los participantes permanecen físicamente en Urithiru."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Recreación de Aharietiam. Los participantes permanecen físicamente en Urithiru.",
       "entryAnchor": {
         "placeId": "place-urithiru-vision-room-38",
         "name": "Urithiru · Estancia desde la que comparten la visión",
@@ -97402,12 +97572,15 @@
       "experiencedPlace": "Batalla antigua, zona de sanadores y lugar de las nueve Hojas de Honor; sin coordenadas actuales",
       "physicalPlaceId": "place-urithiru-vision-room-38",
       "sourceIds": [
-        "ob83-summary"
+        "ob83-summary",
+        "primary199-ob38"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Experiencia compartida desde Urithiru. No es recuerdo personal ni viaje corporal; no crea estancia en Shadesmar ni deduce la ubicación actual de las Hojas."
+        "Experiencia compartida desde Urithiru. No es recuerdo personal ni viaje corporal; no crea estancia en Shadesmar ni deduce la ubicación actual de las Hojas.",
+        "Recreación de Aharietiam. Los participantes permanecen físicamente en Urithiru."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Recreación de Aharietiam. Los participantes permanecen físicamente en Urithiru.",
       "entryAnchor": {
         "placeId": "place-urithiru-vision-room-38",
         "name": "Urithiru · Estancia desde la que comparten la visión",
@@ -111145,12 +111318,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111167,11 +111341,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob81-kaladin-37-4",
@@ -111192,12 +111366,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111214,11 +111389,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-kaladin-37-5",
@@ -111239,12 +111414,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111261,12 +111437,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         },
         {
@@ -111288,12 +111462,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -111310,11 +111485,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. La reunión tiene lugar en una cámara del sótano de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión tiene lugar en una cámara del sótano de Urithiru."
+          ]
         },
         {
           "id": "ob84-obs-6-kaladin",
@@ -124915,12 +125090,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124937,11 +125113,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. La reunión tiene lugar en una cámara del sótano de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión tiene lugar en una cámara del sótano de Urithiru."
+          ]
         },
         {
           "id": "ob83-shallan-39-2",
@@ -124962,12 +125138,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124984,12 +125161,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Shallan regresa a su dormitorio, donde encuentra una carta.",
+          "needsConfirmation": [],
           "notes": [
-            "Encuentra la carta; esto no sitúa al remitente en la habitación."
+            "Shallan regresa a su dormitorio, donde encuentra una carta."
           ]
         },
         {
@@ -125011,12 +125186,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -125033,11 +125209,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Shallan y Patrón están en el dormitorio durante la lectura de la carta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Patrón están en el dormitorio durante la lectura de la carta."
+          ]
         },
         {
           "id": "ob83-shallan-40-2",
@@ -125058,12 +125234,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -125080,12 +125257,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo visita el cuartel y habla con sus soldados e Ishnah.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Velo visita el cuartel y habla con sus soldados e Ishnah."
           ]
         },
         {
@@ -126503,12 +126678,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob38"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -126525,12 +126701,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-38"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Permanece en la sala de Urithiru mientras participa en la visión.",
+          "needsConfirmation": [],
           "notes": [
-            "Referencia física en la torre, no coordenadas del campo de batalla recreado."
+            "Permanece en la sala de Urithiru mientras participa en la visión."
           ]
         },
         {
@@ -126552,12 +126726,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -126574,11 +126749,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. La reunión tiene lugar en una cámara del sótano de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión tiene lugar en una cámara del sótano de Urithiru."
+          ]
         },
         {
           "id": "ob84-obs-34-jasnah",
@@ -132717,12 +132892,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -132739,11 +132915,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         }
       ]
     },
@@ -140909,12 +141085,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob38"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140931,12 +141108,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-38"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Permanece en la sala de Urithiru mientras participa en la visión.",
+          "needsConfirmation": [],
           "notes": [
-            "Referencia física en la torre, no coordenadas del campo de batalla recreado."
+            "Permanece en la sala de Urithiru mientras participa en la visión."
           ]
         },
         {
@@ -140958,12 +141133,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140980,11 +141156,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. La reunión tiene lugar en una cámara del sótano de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión tiene lugar en una cámara del sótano de Urithiru."
+          ]
         },
         {
           "id": "ob84-obs-11-dalinar",
@@ -151414,12 +151590,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -151436,11 +151613,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob83-renarin-39-1",
@@ -151461,12 +151638,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -151483,11 +151661,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. La reunión tiene lugar en una cámara del sótano de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión tiene lugar en una cámara del sótano de Urithiru."
+          ]
         },
         {
           "id": "ob84-obs-43-renarin",
@@ -153754,12 +153932,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -153776,11 +153955,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Llega al lugar de entrenamiento y habla con Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al lugar de entrenamiento y habla con Kaladin."
+          ]
         }
       ]
     },
@@ -159143,12 +159322,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob38"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -159165,12 +159345,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-38"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Permanece en la sala de Urithiru mientras participa en la visión.",
+          "needsConfirmation": [],
           "notes": [
-            "Referencia física en la torre, no coordenadas del campo de batalla recreado."
+            "Permanece en la sala de Urithiru mientras participa en la visión."
           ]
         },
         {
@@ -159192,12 +159370,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -159214,11 +159393,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. La reunión tiene lugar en una cámara del sótano de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "La reunión tiene lugar en una cámara del sótano de Urithiru."
+          ]
         },
         {
           "id": "ob84-obs-33-navani",
@@ -162248,12 +162427,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162270,11 +162450,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob81-rock-37-4",
@@ -162295,12 +162475,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162317,11 +162498,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-rock-37-5",
@@ -162342,12 +162523,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162364,12 +162546,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         },
         {
@@ -173771,12 +173951,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -173793,12 +173974,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo visita el cuartel y habla con sus soldados e Ishnah.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Velo visita el cuartel y habla con sus soldados e Ishnah."
           ]
         },
         {
@@ -175606,12 +175785,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -175628,11 +175808,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-11-lopen",
@@ -177137,12 +177317,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -177159,11 +177340,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-10-sigzil",
@@ -178397,12 +178578,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -178419,11 +178601,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-43-shen",
@@ -184109,12 +184291,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -184131,11 +184314,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-9-skar",
@@ -185350,12 +185533,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -185372,11 +185556,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-12-drehy",
@@ -185599,12 +185783,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -185621,11 +185806,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         }
       ]
     },
@@ -186445,12 +186630,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -186467,11 +186653,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-13-leyten",
@@ -193176,12 +193362,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob39"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -193198,11 +193385,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-39"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/39.Notas.xhtml. Patrón acompaña a Shallan y le dice que la cámara tiene recuerdos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrón acompaña a Shallan y le dice que la cámara tiene recuerdos."
+          ]
         },
         {
           "id": "ob83-pattern-40-1",
@@ -193223,12 +193410,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -193245,11 +193433,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Shallan y Patrón están en el dormitorio durante la lectura de la carta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Patrón están en el dormitorio durante la lectura de la carta."
+          ]
         },
         {
           "id": "ob84-obs-38-pattern",
@@ -202005,12 +202193,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -202027,12 +202216,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo visita el cuartel y habla con sus soldados e Ishnah.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Velo visita el cuartel y habla con sus soldados e Ishnah."
           ]
         },
         {
@@ -202396,12 +202583,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -202418,12 +202606,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo visita el cuartel y habla con sus soldados e Ishnah.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Velo visita el cuartel y habla con sus soldados e Ishnah."
           ]
         },
         {
@@ -204800,12 +204986,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -204822,11 +205009,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         }
       ]
     },
@@ -226478,6 +226665,51 @@
           ]
         },
         {
+          "id": "primary199-kalami-vision",
+          "scene": "ob-chapter-38",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia desde la que comparten la visión",
+          "placeId": "place-urithiru-vision-room-38",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de Urithiru, sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary199-ob38",
+          "sourceIds": [
+            "primary199-ob38"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only"
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-38"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Toma nota de lo que dice Jasnah mientras esta participa en la visión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Toma nota de lo que dice Jasnah mientras esta participa en la visión."
+          ]
+        },
+        {
           "id": "ob84-obs-41-kalami",
           "scene": "ob-chapter-44",
           "retrospective": false,
@@ -227790,12 +228022,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob38"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -227812,12 +228045,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-38"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml. Teshav se sienta junto a Navani para anotar lo que relata.",
+          "needsConfirmation": [],
           "notes": [
-            "Recibe el dictado de Navani desde fuera de la visión. No se la incluye entre quienes la experimentan."
+            "Teshav se sienta junto a Navani para anotar lo que relata."
           ]
         },
         {
@@ -231761,12 +231992,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -231783,11 +232015,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         }
       ]
     },
@@ -233034,12 +233266,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -233056,12 +233289,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Habla con Velo sobre su entrenamiento y acepta ayudar.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Habla con Velo sobre su entrenamiento y acepta ayudar."
           ]
         },
         {
@@ -233710,12 +233941,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -233732,12 +233964,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo visita el cuartel y habla con sus soldados e Ishnah.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Velo visita el cuartel y habla con sus soldados e Ishnah."
           ]
         }
       ]
@@ -233818,12 +234048,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -233840,12 +234071,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Velo visita el cuartel y habla con sus soldados e Ishnah.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Velo visita el cuartel y habla con sus soldados e Ishnah."
           ]
         }
       ]
@@ -234400,12 +234629,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -234422,11 +234652,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         }
       ]
     },
@@ -236853,12 +237083,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -236875,11 +237106,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-tuaka-37-5",
@@ -236900,12 +237131,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -236922,12 +237154,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -236960,12 +237190,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -236982,11 +237213,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-gift-37-5",
@@ -237007,12 +237238,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237029,12 +237261,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -237067,12 +237297,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237089,11 +237320,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-cord-37-5",
@@ -237114,12 +237345,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237136,12 +237368,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -237174,12 +237404,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237196,11 +237427,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-little-rock-37-5",
@@ -237221,12 +237452,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237243,12 +237475,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -237281,12 +237511,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237303,11 +237534,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-star-37-5",
@@ -237328,12 +237559,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237350,12 +237582,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -237388,12 +237618,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237410,11 +237641,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-kumatiki-37-5",
@@ -237435,12 +237666,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237457,12 +237689,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -237495,12 +237725,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237517,11 +237748,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Está en la caravana o llega a su encuentro en las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la caravana o llega a su encuentro en las Llanuras Quebradas."
+          ]
         },
         {
           "id": "ob81-beautiful-song-37-5",
@@ -237542,12 +237773,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237564,12 +237796,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. El grupo se dirige al puente hacia la Puerta Jurada.",
+          "needsConfirmation": [],
           "notes": [
-            "Regreso hacia la Puerta Jurada. No adelanta cruce a Urithiru."
+            "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
         }
       ]
@@ -237947,12 +238177,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -237969,11 +238200,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Participa en las prácticas del Puente Cuatro en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
         },
         {
           "id": "ob86-obs-16-bisig",
@@ -238147,12 +238378,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -238169,11 +238401,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Roca ve una figura femenina de tamaño humano. Syl la identifica como Phendorana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Roca ve una figura femenina de tamaño humano. Syl la identifica como Phendorana."
+          ]
         },
         {
           "id": "ob81-phendorana-37-3",
@@ -238191,12 +238423,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-summary",
           "sourceIds": [
-            "ob81-summary"
+            "ob81-summary",
+            "primary199-ob37"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-phendorana-departure-37",
@@ -238213,12 +238446,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-37"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/37.Ultimavez-2.xhtml. Phendorana se aleja después de observar las prácticas.",
+          "needsConfirmation": [],
           "notes": [
-            "Salida documentada, destino sin precisar. No se presupone entrada en Shadesmar."
+            "Phendorana se aleja después de observar las prácticas."
           ]
         }
       ]
@@ -238271,12 +238502,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob83-summary",
           "sourceIds": [
-            "ob83-summary"
+            "ob83-summary",
+            "primary199-ob40"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -238293,12 +238525,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-40"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar presencia, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/40.Preguntasrevel.xhtml. Interviene desde una mesa cercana.",
+          "needsConfirmation": [],
           "notes": [
-            "Velo es la apariencia de Shallan; no se duplica como personaje corporal. Ishnah está disfrazada de lavandera."
+            "Interviene desde una mesa cercana."
           ]
         }
       ]
