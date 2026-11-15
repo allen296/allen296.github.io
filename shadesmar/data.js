@@ -3338,6 +3338,23 @@ window.ATLAS_DATA = {
       "moash-second-overseer",
       "moash-sledge-overseer",
       "moash-uncle"
+    ],
+    "ob-chapter-49": [
+      "adolin",
+      "bashin",
+      "dalinar",
+      "evi",
+      "fight-steward-ob49",
+      "gavilar",
+      "havar",
+      "ishal-ob49",
+      "jasnah",
+      "makh-ob49",
+      "makh-thaylen-woman-ob49",
+      "midwife-ob49",
+      "nurse-ob49",
+      "tanalan-younger",
+      "toh"
     ]
   },
   "knowledgeArchive": {
@@ -11630,6 +11647,40 @@ window.ATLAS_DATA = {
         },
         "field": "appearance",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Furiaspren siguen a Dalinar por el suelo cuando se disuelve la reunión en el tugurio.",
+        "sourceIds": [
+          "primary202-ob49"
+        ],
+        "id": "primary202-archive-0",
+        "entryId": "spren-type-angerspren",
+        "value": "Furiaspren siguen a Dalinar por el suelo cuando se disuelve la reunión en el tugurio.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-49"
+        },
+        "field": "appearance",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Un solo llamaspren se arrastra entre las brasas en la sala donde Dalinar habla con Gavilar.",
+        "sourceIds": [
+          "primary202-ob49"
+        ],
+        "id": "primary202-archive-1",
+        "entryId": "spren-type-flamespren",
+        "value": "Un solo llamaspren se arrastra entre las brasas en la sala donde Dalinar habla con Gavilar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-49"
+        },
+        "field": "appearance",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
         "supersedes": []
       }
     ],
@@ -58407,6 +58458,239 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Havar y Bashin apuestan y hablan con Dalinar de Rathalas y de las consecuencias de una pelea anterior.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-tavern-talk",
+      "participants": [
+        "havar",
+        "bashin",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 23,
+        "note": "El encabezado indica veintitrés años antes."
+      },
+      "type": "conversation",
+      "summary": "Havar y Bashin apuestan y hablan con Dalinar de Rathalas y de las consecuencias de una pelea anterior.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Havar y Bashin apuestan y hablan con Dalinar de Rathalas y de las consecuencias de una pelea anterior.",
+        "pairs": [
+          [
+            "havar",
+            "bashin"
+          ],
+          [
+            "dalinar",
+            "havar"
+          ],
+          [
+            "dalinar",
+            "bashin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Se anuncia la cancelación. Dalinar propone combatir y el luchador declina.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-cancelled-bout",
+      "participants": [
+        "dalinar",
+        "fight-steward-ob49",
+        "makh-ob49",
+        "makh-thaylen-woman-ob49"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 23,
+        "note": "El encabezado indica veintitrés años antes."
+      },
+      "type": "conversation",
+      "summary": "Se anuncia la cancelación. Dalinar propone combatir y el luchador declina.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Se anuncia la cancelación. Dalinar propone combatir y el luchador declina.",
+        "pairs": [
+          [
+            "dalinar",
+            "fight-steward-ob49"
+          ],
+          [
+            "dalinar",
+            "makh-ob49"
+          ],
+          [
+            "makh-ob49",
+            "makh-thaylen-woman-ob49"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Toh llega al tugurio y avisa a Dalinar del parto de su hermana.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-toh-message",
+      "participants": [
+        "toh",
+        "dalinar",
+        "havar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 23,
+        "note": "El encabezado indica veintitrés años antes."
+      },
+      "type": "conversation",
+      "summary": "Toh llega al tugurio y avisa a Dalinar del parto de su hermana.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Toh llega al tugurio y avisa a Dalinar del parto de su hermana.",
+        "pairs": [
+          [
+            "toh",
+            "dalinar"
+          ],
+          [
+            "toh",
+            "havar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Dalinar visita a Evi, toma en brazos a su hijo recién nacido y le da el nombre de Adolin.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-adolin-birth",
+      "participants": [
+        "dalinar",
+        "evi",
+        "adolin",
+        "midwife-ob49",
+        "nurse-ob49",
+        "ishal-ob49"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 23,
+        "note": "El encabezado indica veintitrés años antes."
+      },
+      "type": "conversation",
+      "summary": "Dalinar visita a Evi, toma en brazos a su hijo recién nacido y le da el nombre de Adolin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar visita a Evi, toma en brazos a su hijo recién nacido y le da el nombre de Adolin.",
+        "pairs": [
+          [
+            "dalinar",
+            "evi"
+          ],
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "evi",
+            "adolin"
+          ],
+          [
+            "dalinar",
+            "midwife-ob49"
+          ],
+          [
+            "dalinar",
+            "nurse-ob49"
+          ],
+          [
+            "dalinar",
+            "ishal-ob49"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. En la sala de estar hablan del futuro de Alezkar y de una campaña fronteriza.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-gavilar-campaign",
+      "participants": [
+        "dalinar",
+        "gavilar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 23,
+        "note": "El encabezado indica veintitrés años antes."
+      },
+      "type": "conversation",
+      "summary": "En la sala de estar hablan del futuro de Alezkar y de una campaña fronteriza.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "En la sala de estar hablan del futuro de Alezkar y de una campaña fronteriza.",
+        "pairs": [
+          [
+            "dalinar",
+            "gavilar"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -89139,6 +89423,166 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Moash lo aparta del trabajador y lo desarma cuando este alza el látigo.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Luchador anunciado para el combate principal. El combate se cancela.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-makh-ob49-intro",
+      "characterId": "makh-ob49",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Luchador anunciado para el combate principal. El combate se cancela.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Anuncia a Dalinar la cancelación del combate principal.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-fight-steward-ob49-intro",
+      "characterId": "fight-steward-ob49",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Anuncia a Dalinar la cancelación del combate principal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Le da un golpe en el brazo al oír su respuesta a Dalinar. Su cargo exacto no se conoce.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-makh-thaylen-woman-ob49-intro",
+      "characterId": "makh-thaylen-woman-ob49",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Le da un golpe en el brazo al oír su respuesta a Dalinar. Su cargo exacto no se conoce.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Le dice a Dalinar que están limpiando al recién nacido.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-midwife-ob49-intro",
+      "characterId": "midwife-ob49",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Le dice a Dalinar que están limpiando al recién nacido.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Acerca al bebé a Dalinar, que lo toma en brazos.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-nurse-ob49-intro",
+      "characterId": "nurse-ob49",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Acerca al bebé a Dalinar, que lo toma en brazos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Fervorosa del Devotario de Pureza que pregunta el nombre del recién nacido para las glifoguardas.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-ishal-ob49-intro",
+      "characterId": "ishal-ob49",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Fervorosa del Devotario de Pureza que pregunta el nombre del recién nacido para las glifoguardas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Nace veintitrés años antes del presente del libro. Dalinar explica el nombre mediante las ideas de luz y de haber nacido para ella.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-birth-adolin",
+      "characterId": "adolin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Nace veintitrés años antes del presente del libro. Dalinar explica el nombre mediante las ideas de luz y de haber nacido para ella.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Gavilar dice que se está recuperando. Solo se la menciona; el pasaje no ubica su cuerpo ni da un diagnóstico.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-jasnah-recovery-recalled",
+      "characterId": "jasnah",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Gavilar dice que se está recuperando. Solo se la menciona; el pasaje no ubica su cuerpo ni da un diagnóstico.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Gavilar informa de que está reuniendo un ejército en Rathalas; la conversación no se sitúa allí.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-tanalan-rathalas-report",
+      "characterId": "tanalan-younger",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Gavilar informa de que está reuniendo un ejército en Rathalas; la conversación no se sitúa allí.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Evi da a luz al hijo de Dalinar y asiente al nombre elegido para Adolin.",
+      "sourceIds": [
+        "primary202-ob49"
+      ],
+      "id": "primary202-evi-adolin-birth",
+      "characterId": "evi",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-49"
+      },
+      "kind": "background",
+      "text": "Evi da a luz al hijo de Dalinar y asiente al nombre elegido para Adolin.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -91760,6 +92204,10 @@ window.ATLAS_DATA = {
         {
           "revision": 201,
           "notes": "Se acredita el parentesco sin grado de Paladar con Vamah y la mención del hermano de Eth. Moash recuerda a sus abuelos y sus viajes con su tío. No se identifica a la cuadrilla castigada por información posterior."
+        },
+        {
+          "revision": 202,
+          "notes": "El recuerdo muestra el nacimiento de Adolin y reafirma su filiación ya conocida. Toh habla de su hermana Evi y Dalinar menciona a Jasnah como hija de Gavilar. Quedan sin identificar las otras personas del tugurio y del parto."
         }
       ]
     }
@@ -94627,7 +95075,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 201,
+  "revision": 202,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -97098,6 +97546,16 @@ window.ATLAS_DATA = {
       "part": "ob-2e",
       "source": "ob86-47-48",
       "note": "Moash marcha hacia Kholinar y ayuda a un grupo castigado. La marcha no confirma llegada; no se anticipan sus nombres individuales."
+    },
+    {
+      "id": "ob-chapter-49",
+      "bookId": "ob",
+      "chapter": 49,
+      "label": "Capítulo 49 · Nacido para la luz",
+      "part": "ob-2e",
+      "source": "primary202-ob49",
+      "flashback": true,
+      "note": "Recuerdo del nacimiento de Adolin y de la conversación posterior entre Dalinar y Gavilar."
     }
   ],
   "experiencePresentation": {
@@ -141603,6 +142061,146 @@ window.ATLAS_DATA = {
           "notes": [
             "Asiste a la reunión y apoya a Renarin."
           ]
+        },
+        {
+          "id": "primary202-dalinar-1",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Consume musgoardiente, propone sustituir al luchador ausente y habla con sus compañeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Consume musgoardiente, propone sustituir al luchador ausente y habla con sus compañeros."
+          ]
+        },
+        {
+          "id": "primary202-dalinar-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Llega al dormitorio, toma en brazos a su hijo y elige su nombre con el asentimiento de Evi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al dormitorio, toma en brazos a su hijo y elige su nombre con el asentimiento de Evi."
+          ]
+        },
+        {
+          "id": "primary202-dalinar-5",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sala donde espera Gavilar",
+          "placeId": "place-kholinar-dalinar-sitting-36",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general de ciudad o región, sin calibrar esta dependencia o meseta exacta."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Habla con Gavilar de Rathalas, de su temor a perder el control y de las campañas propuestas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Gavilar de Rathalas, de su temor a perder el control y de las campañas propuestas."
+          ]
         }
       ]
     },
@@ -148724,6 +149322,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Entra y anuncia que acaba de llegar alguien a la torre."
+          ]
+        },
+        {
+          "id": "primary202-adolin-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Recién nacido, pasa de los brazos del ama de cría a los de Dalinar y vuelve con su madre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recién nacido, pasa de los brazos del ama de cría a los de Dalinar y vuelve con su madre."
           ]
         }
       ]
@@ -223363,6 +224009,101 @@ window.ATLAS_DATA = {
           "notes": [
             "Espera en la sala de estar con papeles sobre Rathalas."
           ]
+        },
+        {
+          "id": "primary202-gavilar-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Al marcharse, toma a Dalinar del brazo a la salida del dormitorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al marcharse, toma a Dalinar del brazo a la salida del dormitorio."
+          ]
+        },
+        {
+          "id": "primary202-gavilar-5",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sala donde espera Gavilar",
+          "placeId": "place-kholinar-dalinar-sitting-36",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general de ciudad o región, sin calibrar esta dependencia o meseta exacta."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Informa de que Tanalan reúne un ejército. Le encarga a Dalinar proteger las fronteras, sin enviarlo a Rathalas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Informa de que Tanalan reúne un ejército. Le encarga a Dalinar proteger las fronteras, sin enviarlo a Rathalas."
+          ]
         }
       ]
     },
@@ -230698,6 +231439,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Entra en la sala y escucha a Dalinar y Gavilar."
           ]
+        },
+        {
+          "id": "primary202-evi-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Acaba de dar a luz. Habla con Dalinar y asiente al nombre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acaba de dar a luz. Habla con Dalinar y asiente al nombre."
+          ]
         }
       ]
     },
@@ -230804,6 +231593,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Entrega una bebida a Evi y presencia el ataque desde el otro lado del salón."
+          ]
+        },
+        {
+          "id": "primary202-toh-3",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Avisa a Dalinar de que Evi está dando a luz antes de lo previsto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avisa a Dalinar de que Evi está dando a luz antes de lo previsto."
           ]
         }
       ]
@@ -242409,6 +243243,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Explica las formas y las quemaduras; no se convierte su explicación en taxonomía comprobada."
           ]
+        },
+        {
+          "id": "primary202-bashin-1",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Apuesta con Havar y cuenta a Dalinar lo que ocurrió en la pelea anterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Apuesta con Havar y cuenta a Dalinar lo que ocurrió en la pelea anterior."
+          ]
         }
       ]
     },
@@ -248782,7 +249661,53 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Se conserva la referencia narrativa sin asignar una posición cartográfica por el mero hecho de habilitar la ficha.",
-      "events": []
+      "events": [
+        {
+          "id": "primary202-havar-1",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Trae bebidas, apuesta con Bashin y pregunta a Dalinar por la Grieta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Trae bebidas, apuesta con Bashin y pregunta a Dalinar por la Grieta."
+          ]
+        }
+      ]
     },
     {
       "id": "gaval",
@@ -269434,6 +270359,351 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Azota al trabajador caído e intenta golpear a Moash con el látigo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "makh-ob49",
+      "name": "Makh",
+      "initial": "M",
+      "role": "Luchador anunciado para el combate principal. El combate se cancela.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary202-makh-ob49-2",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Declina el desafío cuando Dalinar propone enfrentarse a él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Declina el desafío cuando Dalinar propone enfrentarse a él."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fight-steward-ob49",
+      "name": "Maestro de sirvientes del tugurio",
+      "initial": "M",
+      "role": "Anuncia a Dalinar la cancelación del combate principal.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary202-fight-steward-ob49-1",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Anuncia que el combate se cancela porque el adversario de Makh está indispuesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Anuncia que el combate se cancela porque el adversario de Makh está indispuesto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "makh-thaylen-woman-ob49",
+      "name": "Mujer thayleña junto al luchador",
+      "initial": "M",
+      "role": "Le da un golpe en el brazo al oír su respuesta a Dalinar. Su cargo exacto no se conoce.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary202-makh-thaylen-woman-ob49-2",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tugurio de lucha visitado por Dalinar",
+          "placeId": "place-ob49-fighting-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob49-fighting-tavern",
+          "coordinateAnchorName": "Tugurio de lucha visitado por Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Reprende con un golpe en el brazo al luchador cuando responde al desafío.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reprende con un golpe en el brazo al luchador cuando responde al desafío."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "midwife-ob49",
+      "name": "Comadrona que informa a Dalinar",
+      "initial": "C",
+      "role": "Le dice a Dalinar que están limpiando al recién nacido.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary202-midwife-ob49-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Explica que aún están limpiando al bebé.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica que aún están limpiando al bebé."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nurse-ob49",
+      "name": "Ama de cría que lleva a Adolin",
+      "initial": "A",
+      "role": "Acerca al bebé a Dalinar, que lo toma en brazos.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary202-nurse-ob49-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Se acerca con el recién nacido y Dalinar lo toma en brazos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acerca con el recién nacido y Dalinar lo toma en brazos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ishal-ob49",
+      "name": "Ishal",
+      "initial": "I",
+      "role": "Fervorosa del Devotario de Pureza que pregunta el nombre del recién nacido para las glifoguardas.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary202-ishal-ob49-4",
+          "scene": "ob-chapter-49",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Dormitorio donde nace Adolin",
+          "placeId": "place-ob49-adolin-birth",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary202-ob49",
+          "sourceIds": [
+            "primary202-ob49"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 23,
+            "note": "El encabezado indica veintitrés años antes."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-49"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml. Pregunta cómo se llamará el niño.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pregunta cómo se llamará el niño."
           ]
         }
       ]
