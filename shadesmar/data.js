@@ -11526,6 +11526,57 @@ window.ATLAS_DATA = {
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/38.Personasrotas.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary200-ob41"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Teft ve reflejada en el agua a una mujer de brillo blanquecino. Más tarde se le aparece en el local.",
+        "id": "primary200-archive-ob41",
+        "entryId": "spren-person-teft-following-spren",
+        "value": "Teft ve reflejada en el agua a una mujer de brillo blanquecino. Más tarde se le aparece en el local.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-41"
+        },
+        "field": "appearance",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary200-ob42"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Dalinar reconoce a Jezerezeh’Elin, el Heraldo de Reyes, proclamando el final de la Desolación en una recreación.",
+        "id": "primary200-archive-ob42",
+        "entryId": "herald-jezrien-vision",
+        "value": "Dalinar reconoce a Jezerezeh’Elin, el Heraldo de Reyes, proclamando el final de la Desolación en una recreación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-42"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary200-ob43"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Moash ve estrellaspren titilando sobre el campamento mientras mira al cielo.",
+        "id": "primary200-archive-ob43",
+        "entryId": "spren-type-starspren",
+        "value": "Moash ve estrellaspren titilando sobre el campamento mientras mira al cielo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-43"
+        },
+        "field": "appearance",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -17774,24 +17825,23 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-janala"
+        "ob84-janala",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "former",
       "supersedes": [
         "ob84-rel-2-adolin-janala"
       ],
       "notes": [
-        "Conserva las etapas anteriores; no implica que Adolin asista a esta reunión."
+        "Shallan recuerda que Adolin cortejó a Janala poco antes de conocerla."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto partner: Antiguo cortejo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Janala_Lustow"
-        ]
-      }
+        "reason": "Shallan recuerda que Adolin cortejó a Janala poco antes de conocerla."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Shallan recuerda que Adolin cortejó a Janala poco antes de conocerla."
     },
     {
       "id": "ob84-rel-4-janala-falksi",
@@ -17837,20 +17887,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-janala"
+        "ob84-janala",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Shallan identifica a Janala como asistente de Teshav."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Trabaja como su ayudante. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Janala_Lustow"
-        ]
-      }
+        "reason": "Shallan identifica a Janala como asistente de Teshav."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Shallan identifica a Janala como asistente de Teshav."
     },
     {
       "id": "ob84-rel-6-ishnah-vathah",
@@ -17864,20 +17915,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Formación en espionaje. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
     },
     {
       "id": "ob84-rel-7-ishnah-gaz",
@@ -17891,20 +17943,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Formación en espionaje. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
     },
     {
       "id": "ob84-rel-8-ishnah-red",
@@ -17918,20 +17971,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Formación en espionaje. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Ishnah dirige el ejercicio de reconocimiento y memoria para los hombres de Velo."
     },
     {
       "id": "ob84-rel-9-teft-teft-following-spren",
@@ -17945,22 +17999,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-41"
       },
       "sourceIds": [
-        "ob84-teft"
+        "ob84-teft",
+        "primary200-ob41"
       ],
       "status": "pending",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Un spren sigue a Teft en la escena documentada."
+        "La spren sigue a Teft. La escena no acredita todavía un vínculo formal."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto companion: Spren que lo sigue. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Teft"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "La spren sigue a Teft. La escena no acredita todavía un vínculo formal."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. La spren sigue a Teft. La escena no acredita todavía un vínculo formal."
     },
     {
       "id": "spren85-rel-jasnah-ivory-wor-prologue",
@@ -20200,24 +20253,23 @@ window.ATLAS_DATA = {
         "bookId": "ob",
         "sceneId": "ob-chapter-43"
       },
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Primera mención absoluta pendiente de cotejo primario."
+        "Fia viaja con el grupo de Graves, comparte las tareas del campamento y muere durante el ataque."
       ],
       "sourceIds": [
         "audit87-p3-source-19",
-        "audit87-source-1252391b0f68e7"
+        "audit87-source-1252391b0f68e7",
+        "primary200-ob43"
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Compañeros en el grupo que viaja con Moash. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Fia"
-        ]
-      }
+        "reason": "Fia viaja con el grupo de Graves, comparte las tareas del campamento y muere durante el ataque."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Fia viaja con el grupo de Graves, comparte las tareas del campamento y muere durante el ataque."
     },
     {
       "id": "review87-moash-father-moash-parent-wor-chapter-44",
@@ -36699,7 +36751,7 @@ window.ATLAS_DATA = {
         "teft-following-spren"
       ],
       "type": "conversation",
-      "summary": "Teft intenta apartar al spren que lo sigue.",
+      "summary": "Teft intenta apartar a la spren que lo sigue.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-41"
@@ -36709,13 +36761,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-teft"
+        "ob84-teft",
+        "primary200-ob41"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Teft intenta apartar al spren que lo sigue. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Teft intenta apartar a la spren que lo sigue.",
         "sourceUrls": [
           "https://es.coppermind.net/wiki/Teft"
         ],
@@ -36725,7 +36778,8 @@ window.ATLAS_DATA = {
             "teft-following-spren"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Teft intenta apartar a la spren que lo sigue."
     },
     {
       "id": "ob84-interaction-2",
@@ -36735,7 +36789,7 @@ window.ATLAS_DATA = {
         "rock"
       ],
       "type": "cooperation",
-      "summary": "Kaladin y Roca lo encuentran y lo llevan al cuartel.",
+      "summary": "Kaladin y Roca encuentran a Teft y lo llevan al cuartel.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-41"
@@ -36745,13 +36799,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-teft"
+        "ob84-teft",
+        "primary200-ob41"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Kaladin y Roca lo encuentran y lo llevan al cuartel. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Kaladin y Roca encuentran a Teft y lo llevan al cuartel.",
         "sourceUrls": [
           "https://es.coppermind.net/wiki/Teft"
         ],
@@ -36769,7 +36824,8 @@ window.ATLAS_DATA = {
             "rock"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Kaladin y Roca encuentran a Teft y lo llevan al cuartel."
     },
     {
       "id": "ob84-interaction-3",
@@ -36778,7 +36834,7 @@ window.ATLAS_DATA = {
         "gawx"
       ],
       "type": "conversation",
-      "summary": "Debaten dentro de la visión sobre la propuesta de colaboración.",
+      "summary": "Dalinar y Yanagawn debaten la propuesta de colaboración ante el campo de muertos de la recreación.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-42"
@@ -36788,13 +36844,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Debaten dentro de la visión sobre la propuesta de colaboración. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Dalinar y Yanagawn debaten la propuesta de colaboración ante el campo de muertos de la recreación.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-one-and-forty-two/"
         ],
@@ -36804,7 +36861,8 @@ window.ATLAS_DATA = {
             "gawx"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Dalinar y Yanagawn debaten la propuesta de colaboración ante el campo de muertos de la recreación."
     },
     {
       "id": "ob84-interaction-4",
@@ -36813,7 +36871,7 @@ window.ATLAS_DATA = {
         "lift"
       ],
       "type": "encounter",
-      "summary": "Se saludan dentro de la experiencia.",
+      "summary": "Yanagawn reconoce y saluda a Lift.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-42"
@@ -36823,13 +36881,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se saludan dentro de la experiencia. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Yanagawn reconoce y saluda a Lift.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-one-and-forty-two/"
         ],
@@ -36839,7 +36898,8 @@ window.ATLAS_DATA = {
             "lift"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Yanagawn reconoce y saluda a Lift."
     },
     {
       "id": "ob84-interaction-5",
@@ -36859,13 +36919,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Lift interviene y se lleva a Yanagawn fuera de la visión. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Lift interviene y se lleva a Yanagawn fuera de la visión.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-one-and-forty-two/"
         ],
@@ -36883,7 +36944,8 @@ window.ATLAS_DATA = {
             "gawx"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Lift interviene y se lleva a Yanagawn fuera de la visión."
     },
     {
       "id": "ob84-interaction-6",
@@ -36892,7 +36954,7 @@ window.ATLAS_DATA = {
         "stormfather"
       ],
       "type": "conversation",
-      "summary": "Hablan de la intervención inesperada.",
+      "summary": "Dalinar habla con el Padre Tormenta tras la intervención de Lift.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-42"
@@ -36902,13 +36964,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de la intervención inesperada. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Dalinar habla con el Padre Tormenta tras la intervención de Lift.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-one-and-forty-two/"
         ],
@@ -36918,7 +36981,8 @@ window.ATLAS_DATA = {
             "stormfather"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Dalinar habla con el Padre Tormenta tras la intervención de Lift."
     },
     {
       "id": "ob84-interaction-7",
@@ -36927,7 +36991,7 @@ window.ATLAS_DATA = {
         "febrth"
       ],
       "type": "conflict",
-      "summary": "Discuten la dirección del viaje y sus creencias.",
+      "summary": "Graves y Febrth discuten la ruta y si deben seguir mapas o las Pasiones.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-43"
@@ -36937,13 +37001,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-febrth"
+        "ob84-febrth",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Discuten la dirección del viaje y sus creencias. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Graves y Febrth discuten la ruta y si deben seguir mapas o las Pasiones.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Febrth?mobileaction=toggle_view_desktop"
         ],
@@ -36953,7 +37018,8 @@ window.ATLAS_DATA = {
             "febrth"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Graves y Febrth discuten la ruta y si deben seguir mapas o las Pasiones."
     },
     {
       "id": "ob84-interaction-8",
@@ -36962,7 +37028,7 @@ window.ATLAS_DATA = {
         "graves"
       ],
       "type": "conversation",
-      "summary": "Graves le ordena quitarse el emblema.",
+      "summary": "Graves exige a Moash que se quite el emblema.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-43"
@@ -36972,13 +37038,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-43-44"
+        "ob84-43-44",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Graves le ordena quitarse el emblema. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Graves exige a Moash que se quite el emblema.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-three-and-forty-four/"
         ],
@@ -36988,7 +37055,8 @@ window.ATLAS_DATA = {
             "graves"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Graves exige a Moash que se quite el emblema."
     },
     {
       "id": "ob84-interaction-9",
@@ -36997,7 +37065,7 @@ window.ATLAS_DATA = {
         "moash-duel-fused"
       ],
       "type": "conflict",
-      "summary": "Moash se enfrenta a una Fusionada y abate su cuerpo.",
+      "summary": "Moash cambia de arma durante el combate y abate el cuerpo de la Fusionada.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-43"
@@ -37007,13 +37075,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Moash se enfrenta a una Fusionada y abate su cuerpo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Moash cambia de arma durante el combate y abate el cuerpo de la Fusionada.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37023,7 +37092,8 @@ window.ATLAS_DATA = {
             "moash-duel-fused"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Moash cambia de arma durante el combate y abate el cuerpo de la Fusionada."
     },
     {
       "id": "ob84-interaction-10",
@@ -37032,7 +37102,7 @@ window.ATLAS_DATA = {
         "moash-fused-captors"
       ],
       "type": "encounter",
-      "summary": "Los otros tres lo desarman y se lo llevan.",
+      "summary": "Lo desarman y dos de ellos lo levantan y se lo llevan por el aire.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-43"
@@ -37042,13 +37112,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Los otros tres lo desarman y se lo llevan. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Lo desarman y dos de ellos lo levantan y se lo llevan por el aire.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37058,7 +37129,8 @@ window.ATLAS_DATA = {
             "moash-fused-captors"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Lo desarman y dos de ellos lo levantan y se lo llevan por el aire."
     },
     {
       "id": "ob84-interaction-11",
@@ -37070,7 +37142,7 @@ window.ATLAS_DATA = {
         "red"
       ],
       "type": "cooperation",
-      "summary": "Practican observación y memoria en la taberna.",
+      "summary": "Ishnah dirige un ejercicio de observación y memoria en la taberna.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37080,13 +37152,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Ishnah dirige el entrenamiento y recibe/responde los ejercicios de cada alumno. No generar seis enlaces entre alumnos a partir de estar en la misma clase.",
+        "reason": "Ishnah dirige un ejercicio de observación y memoria en la taberna.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37108,7 +37181,8 @@ window.ATLAS_DATA = {
             "red"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Ishnah dirige un ejercicio de observación y memoria en la taberna."
     },
     {
       "id": "ob84-interaction-12",
@@ -37118,7 +37192,7 @@ window.ATLAS_DATA = {
         "kalami"
       ],
       "type": "conversation",
-      "summary": "Discuten los informes de la reunión.",
+      "summary": "Elthebar interrumpe el informe de Kalami y descalifica la pregunta de Teshav.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37128,13 +37202,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-elthebar"
+        "ob84-elthebar",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Elthebar discute con las eruditas. No se prueba aquí una conversación Teshav–Kalami por su sola participación en la reunión.",
+        "reason": "Elthebar interrumpe el informe de Kalami y descalifica la pregunta de Teshav.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Elthebar"
         ],
@@ -37148,7 +37223,8 @@ window.ATLAS_DATA = {
             "kalami"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Elthebar interrumpe el informe de Kalami y descalifica la pregunta de Teshav."
     },
     {
       "id": "ob84-interaction-13",
@@ -37158,7 +37234,7 @@ window.ATLAS_DATA = {
         "shallan"
       ],
       "type": "conflict",
-      "summary": "Shallan responde a la burla de Janala hacia Renarin.",
+      "summary": "Janala cuestiona a Renarin y Shallan le responde.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37168,13 +37244,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Shallan responde a la burla de Janala hacia Renarin. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Janala cuestiona a Renarin y Shallan le responde.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37192,7 +37269,8 @@ window.ATLAS_DATA = {
             "renarin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Janala cuestiona a Renarin y Shallan le responde."
     },
     {
       "id": "ob84-interaction-14",
@@ -37201,7 +37279,7 @@ window.ATLAS_DATA = {
         "shallan"
       ],
       "type": "conversation",
-      "summary": "Jasnah la reprende durante la pausa.",
+      "summary": "Jasnah reprende a Shallan durante la pausa.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37211,13 +37289,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Jasnah la reprende durante la pausa. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Jasnah reprende a Shallan durante la pausa.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37227,7 +37306,8 @@ window.ATLAS_DATA = {
             "shallan"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Jasnah reprende a Shallan durante la pausa."
     },
     {
       "id": "ob84-interaction-15",
@@ -37236,7 +37316,7 @@ window.ATLAS_DATA = {
         "renarin"
       ],
       "type": "conversation",
-      "summary": "Renarin le agradece su defensa y hablan de la torre.",
+      "summary": "Renarin agradece a Shallan que lo defendiera y hablan de Urithiru.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37246,13 +37326,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Renarin le agradece su defensa y hablan de la torre. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Renarin agradece a Shallan que lo defendiera y hablan de Urithiru.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37262,7 +37343,8 @@ window.ATLAS_DATA = {
             "renarin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Renarin agradece a Shallan que lo defendiera y hablan de Urithiru."
     },
     {
       "id": "ob84-interaction-16",
@@ -37271,7 +37353,7 @@ window.ATLAS_DATA = {
         "renarin"
       ],
       "type": "cooperation",
-      "summary": "Dalinar asiste y hace un gesto de apoyo a su hijo.",
+      "summary": "Dalinar hace un gesto de apoyo a su hijo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37281,13 +37363,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-43-44"
+        "ob84-43-44",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Dalinar asiste y hace un gesto de apoyo a su hijo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Dalinar hace un gesto de apoyo a su hijo.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-three-and-forty-four/"
         ],
@@ -37297,7 +37380,8 @@ window.ATLAS_DATA = {
             "renarin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Dalinar hace un gesto de apoyo a su hijo."
     },
     {
       "id": "ob84-interaction-17",
@@ -37306,7 +37390,7 @@ window.ATLAS_DATA = {
         "pattern"
       ],
       "type": "conversation",
-      "summary": "Comentan a los eruditos.",
+      "summary": "Shallan y Patrón comentan a los eruditos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
@@ -37316,13 +37400,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; menciones y recuerdos no crean presencia actual."
       },
       "sourceIds": [
-        "ob84-43-44"
+        "ob84-43-44",
+        "primary200-ob44"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Comentan a los eruditos. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Shallan y Patrón comentan a los eruditos.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-three-and-forty-four/"
         ],
@@ -37332,7 +37417,8 @@ window.ATLAS_DATA = {
             "pattern"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Shallan y Patrón comentan a los eruditos."
     },
     {
       "id": "spren85-encounter-wor-prologue",
@@ -64628,25 +64714,29 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-41"
       },
       "sourceIds": [
-        "ob84-teft"
+        "ob84-teft",
+        "primary200-ob41"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Ha vendido su abrigo para comprar musgoardiente y acepta ayuda de Kaladin y Roca. No queda curado de la adicción por recibir esa ayuda."
     },
     {
       "id": "ob84-fact-teft-following-spren-1",
       "characterId": "teft-following-spren",
       "kind": "background",
-      "text": "Un spren aparece ante Teft.",
+      "text": "Teft ve su rostro reflejado en el pozo y más tarde la ve frente a él. El capítulo no la nombra.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-41"
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob41"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Teft ve su rostro reflejado en el pozo y más tarde la ve frente a él. El capítulo no la nombra."
     },
     {
       "id": "ob84-fact-gawx-2",
@@ -64658,10 +64748,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-42"
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Participa como Yanagawn en una visión y cuestiona la propuesta de Dalinar."
     },
     {
       "id": "ob84-fact-lift-3",
@@ -64673,10 +64765,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-42"
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Interviene y abandona la visión llevándose a Yanagawn. Eso no identifica un viaje corporal a Shadesmar."
     },
     {
       "id": "ob84-fact-jezrien-vision-4",
@@ -64688,10 +64782,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-42"
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Dalinar reconoce a Jezerezeh’Elin proclamando el final de la Desolación en la recreación histórica; no se revela aquí su identidad actual."
     },
     {
       "id": "ob84-fact-dalinar-5",
@@ -64703,10 +64799,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-42"
       },
       "sourceIds": [
-        "ob84-41-42"
+        "ob84-41-42",
+        "primary200-ob42"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Yanagawn le recuerda las matanzas atribuidas al Hacedor del Sol en Azir; no se crea por ello un parentesco nuevo."
     },
     {
       "id": "ob84-fact-febrth-6",
@@ -64718,10 +64816,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-febrth"
+        "ob84-febrth",
+        "primary200-ob43"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Viaja con Graves y Moash; muere durante el ataque al campamento."
     },
     {
       "id": "ob84-fact-fia-7",
@@ -64733,10 +64833,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-fia"
+        "ob84-fia",
+        "primary200-ob43"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Viaja con Graves y Moash; muere durante el ataque al campamento."
     },
     {
       "id": "ob84-fact-graves-8",
@@ -64748,10 +64850,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Muere durante el ataque a su campamento. No se presupone que su familia esté allí."
     },
     {
       "id": "ob84-fact-moash-9",
@@ -64763,10 +64867,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Sobrevive, pierde sus esquirlas y es llevado por los Fusionados a un destino aún no precisado."
     },
     {
       "id": "ob84-fact-moash-duel-fused-10",
@@ -64778,10 +64884,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Moash mata el cuerpo que combate contra él. Esto no establece la destrucción definitiva del espíritu fusionado."
     },
     {
       "id": "ob84-fact-moash-fused-captors-11",
@@ -64793,10 +64901,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Tres integrantes del grupo siguen vivos y se llevan a Moash; sin nombres ni destino revelados."
     },
     {
       "id": "ob84-fact-janala-12",
@@ -64913,10 +65023,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-janala"
+        "ob84-janala",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Reaparece como ayudante de Teshav e interlocutora en la reunión."
     },
     {
       "id": "ob84-fact-elthebar-18",
@@ -64928,10 +65040,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-elthebar"
+        "ob84-elthebar",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Interrumpe el informe de Kalami y descalifica la pregunta de Teshav."
     },
     {
       "id": "ob84-fact-inadara-19",
@@ -64943,26 +65057,30 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-inadara"
+        "ob84-inadara",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Presenta observaciones sobre las dependencias y sistemas de la torre."
     },
     {
       "id": "ob84-fact-ishnah-tavern-informant-20",
       "characterId": "ishnah-tavern-informant",
       "kind": "background",
-      "text": "Durante la lección de Ishnah, Veil descubre a una mujer discreta en una esquina que parece actuar como informante; no se conoce para quién.",
+      "text": "Velo observa a una mujer discreta en una esquina. Su papel de informante y su posible cliente quedan como deducciones.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
         "ob84-summary",
-        "review88-source-6729184a8a2947"
+        "review88-source-6729184a8a2947",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Velo observa a una mujer discreta en una esquina. Su papel de informante y su posible cliente quedan como deducciones."
     },
     {
       "id": "ob84-fact-shallan-21",
@@ -64974,10 +65092,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Defiende a Renarin y considera sumarse a la expedición; eso no acredita una partida."
     },
     {
       "id": "ob84-fact-renarin-22",
@@ -64989,10 +65109,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Plantea que Urithiru podría ser un único fabrial. Es una interpretación, no una explicación completa del funcionamiento de la torre."
     },
     {
       "id": "ob84-fact-dandos-heraldin-23",
@@ -65025,10 +65147,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-dandos"
+        "ob84-dandos",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Shallan lo cita como ejemplo de erudito de varias disciplinas."
     },
     {
       "id": "ob84-fact-galid-25",
@@ -65040,10 +65164,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-44"
       },
       "sourceIds": [
-        "ob84-galid"
+        "ob84-galid",
+        "primary200-ob44"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Erudita clásica citada por sus aportaciones a la astronomía y a los relojes de navegación."
     },
     {
       "id": "spren85-fact-ivory-wor-prologue",
@@ -91438,6 +91564,10 @@ window.ATLAS_DATA = {
         {
           "revision": 199,
           "notes": "Se cotejan los seis hijos de Roca y Tuaka, la madre y el ascendiente recordados. Tifi y Sinaku’a quedan sin grado de parentesco. Se evita atribuir a Shob los hermanos que menciona Velo. Los papeles de la visión no crean parentescos actuales."
+        },
+        {
+          "revision": 200,
+          "notes": "Teft recuerda haber denunciado a su familia sin individualizar nuevos parientes. La visión de Aharietiam no crea parentescos. La cooperación entre Graves y Fia no acredita parentesco y el cortejo de Adolin y Janala pertenece al pasado."
         }
       ]
     }
@@ -92602,12 +92732,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte en el ataque de43; no adelantar al retroceder."
-      ]
+        "La emboscada mata a Graves, Febrth y Fia en el campamento."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. La emboscada mata a Graves, Febrth y Fia en el campamento."
     },
     {
       "id": "ob84-life-febrth",
@@ -92618,12 +92750,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte en el ataque de43; no adelantar al retroceder."
-      ]
+        "La emboscada mata a Graves, Febrth y Fia en el campamento."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. La emboscada mata a Graves, Febrth y Fia en el campamento."
     },
     {
       "id": "ob84-life-fia",
@@ -92634,12 +92768,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte en el ataque de43; no adelantar al retroceder."
-      ]
+        "La emboscada mata a Graves, Febrth y Fia en el campamento."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. La emboscada mata a Graves, Febrth y Fia en el campamento."
     },
     {
       "id": "ob84-life-moash-duel-fused",
@@ -92650,12 +92786,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-43"
       },
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob43"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Muerte de ese cuerpo; no muerte definitiva del espíritu. No se anticipa identidad ni regreso."
-      ]
+        "Moash abate el cuerpo de la Fusionada. Su espíritu no queda acreditado como destruido."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Moash abate el cuerpo de la Fusionada. Su espíritu no queda acreditado como destruido."
     },
     {
       "id": "ob84-life-dandos",
@@ -94297,7 +94435,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 199,
+  "revision": 200,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -97599,12 +97737,15 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Recreación del Aharietiam, campo de batalla y lugar de las Hojas",
       "physicalPlaceId": "place-urithiru-vision-room-42",
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "No es viaje físico ni presencia en Shadesmar. Salir de la experiencia no fija una llegada corporal."
+        "No es viaje físico ni presencia en Shadesmar. Salir de la experiencia no fija una llegada corporal.",
+        "Visión de Aharietiam. La intervención de Lift y su salida con Yanagawn no fijan un desplazamiento corporal."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Visión de Aharietiam. La intervención de Lift y su salida con Yanagawn no fijan un desplazamiento corporal.",
       "entryAnchor": {
         "placeId": "place-urithiru-vision-room-42",
         "name": "Urithiru · Estancia de la visión con Yanagawn",
@@ -97623,12 +97764,15 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Recreación del Aharietiam, campo de batalla y lugar de las Hojas",
       "physicalPlaceId": "place-gawx-vision-body-42",
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "No es viaje físico ni presencia en Shadesmar. Salir de la experiencia no fija una llegada corporal."
+        "No es viaje físico ni presencia en Shadesmar. Salir de la experiencia no fija una llegada corporal.",
+        "Visión de Aharietiam. La intervención de Lift y su salida con Yanagawn no fijan un desplazamiento corporal."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Visión de Aharietiam. La intervención de Lift y su salida con Yanagawn no fijan un desplazamiento corporal.",
       "entryAnchor": {
         "placeId": "place-gawx-vision-body-42",
         "name": "Ubicación corporal de Yanagawn durante la visión, sin precisar",
@@ -97644,12 +97788,15 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Recreación del Aharietiam, campo de batalla y lugar de las Hojas",
       "physicalPlaceId": "place-lift-vision-body-42",
       "sourceIds": [
-        "ob84-summary"
+        "ob84-summary",
+        "primary200-ob42"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "No es viaje físico ni presencia en Shadesmar. Salir de la experiencia no fija una llegada corporal."
+        "No es viaje físico ni presencia en Shadesmar. Salir de la experiencia no fija una llegada corporal.",
+        "Visión de Aharietiam. La intervención de Lift y su salida con Yanagawn no fijan un desplazamiento corporal."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Visión de Aharietiam. La intervención de Lift y su salida con Yanagawn no fijan un desplazamiento corporal.",
       "entryAnchor": {
         "placeId": "place-lift-vision-body-42",
         "name": "Ubicación corporal de Lift durante la visión, sin precisar",
@@ -111510,12 +111657,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -111532,11 +111680,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Encuentra a Teft y pregunta por la casaca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a Teft y pregunta por la casaca."
+          ]
         },
         {
           "id": "ob84-obs-9-kaladin",
@@ -111557,12 +111705,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -111579,11 +111728,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Acompaña a Teft al cuartel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Teft al cuartel."
+          ]
         },
         {
           "id": "ob86-obs-17-kaladin",
@@ -125282,12 +125431,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -125304,11 +125454,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Como Velo practica observación en la taberna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Como Velo practica observación en la taberna."
+          ]
         },
         {
           "id": "ob84-obs-32-shallan",
@@ -125329,12 +125479,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -125351,11 +125502,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Asiste a la reunión de eruditos y toma notas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión de eruditos y toma notas."
+          ]
         },
         {
           "id": "ob84-obs-45-shallan",
@@ -125376,12 +125527,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -125398,12 +125550,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Habla con Renarin después de defenderlo.",
+          "needsConfirmation": [],
           "notes": [
-            "Dalinar llega después; no se le coloca durante la lección de espionaje."
+            "Habla con Renarin después de defenderlo."
           ]
         }
       ]
@@ -126774,12 +126924,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -126796,11 +126947,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Habla con Shallan durante la reunión y la pausa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Shallan durante la reunión y la pausa."
+          ]
         },
         {
           "id": "ob86-obs-44-jasnah",
@@ -141181,12 +141332,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob42"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -141203,12 +141355,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-42"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Participa en la visión sin dejar físicamente Urithiru.",
+          "needsConfirmation": [],
           "notes": [
-            "Cuerpo en Urithiru, no en el campo recreado."
+            "Participa en la visión sin dejar físicamente Urithiru."
           ]
         },
         {
@@ -141230,12 +141380,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -141252,12 +141403,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Asiste a la reunión y apoya a Renarin.",
+          "needsConfirmation": [],
           "notes": [
-            "Dalinar llega después; no se le coloca durante la lección de espionaje."
+            "Asiste a la reunión y apoya a Renarin."
           ]
         }
       ]
@@ -151686,12 +151835,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -151708,11 +151858,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Plantea que Urithiru podría ser un solo fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Plantea que Urithiru podría ser un solo fabrial."
+          ]
         },
         {
           "id": "ob84-obs-46-renarin",
@@ -151733,12 +151883,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -151755,12 +151906,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Agradece a Shallan que lo defendiera.",
+          "needsConfirmation": [],
           "notes": [
-            "Dalinar llega después; no se le coloca durante la lección de espionaje."
+            "Agradece a Shallan que lo defendiera."
           ]
         }
       ]
@@ -159418,12 +159567,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -159440,11 +159590,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Reúne a los eruditos para discutir lo que saben de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reúne a los eruditos para discutir lo que saben de la torre."
+          ]
         }
       ]
     },
@@ -162571,12 +162721,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -162593,11 +162744,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Ayuda a recoger a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ayuda a recoger a Teft."
+          ]
         },
         {
           "id": "ob84-obs-10-rock",
@@ -162618,12 +162769,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -162640,11 +162792,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Acompaña a Teft al cuartel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Teft al cuartel."
+          ]
         },
         {
           "id": "ob86-obs-14-rock",
@@ -165344,12 +165496,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -165366,11 +165519,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Se recupera en un callejón y se encamina al pozo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se recupera en un callejón y se encamina al pozo."
+          ]
         },
         {
           "id": "ob84-obs-1-teft",
@@ -165391,12 +165544,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -165413,11 +165567,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Bebe agua en el pozo y ve un rostro reflejado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bebe agua en el pozo y ve un rostro reflejado."
+          ]
         },
         {
           "id": "ob84-obs-3-teft",
@@ -165438,12 +165592,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -165460,11 +165615,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Entra en el local donde consume musgoardiente.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en el local donde consume musgoardiente."
+          ]
         },
         {
           "id": "ob84-obs-5-teft",
@@ -165485,12 +165640,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -165507,11 +165663,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Kaladin y Roca lo encuentran después de que venda la casaca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Roca lo encuentran después de que venda la casaca."
+          ]
         },
         {
           "id": "ob84-obs-8-teft",
@@ -165532,12 +165688,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -165554,11 +165711,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Vuelve al cuartel acompañado por Kaladin y Roca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al cuartel acompañado por Kaladin y Roca."
+          ]
         },
         {
           "id": "ob86-obs-15-teft",
@@ -168446,12 +168603,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -168468,11 +168626,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Come junto a la hoguera y escucha la discusión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Come junto a la hoguera y escucha la discusión."
+          ]
         },
         {
           "id": "ob84-obs-18-moash",
@@ -168494,12 +168652,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -168516,11 +168675,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Combate tras el ataque al campamento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Combate tras el ataque al campamento."
+          ]
         },
         {
           "id": "ob84-obs-24-moash",
@@ -168538,12 +168697,13 @@ window.ATLAS_DATA = {
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-captive-flight-43",
@@ -168560,12 +168720,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Dos atacantes lo sujetan de los brazos y se lo llevan por el aire.",
+          "needsConfirmation": [],
           "notes": [
-            "Destino y ruta aérea sin confirmar; no acredita llegada a Kharbranth, Kholinar o Shadesmar."
+            "Dos atacantes lo sujetan de los brazos y se lo llevan por el aire."
           ]
         },
         {
@@ -173999,12 +174157,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -174021,11 +174180,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Participa en la lección de Ishnah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la lección de Ishnah."
+          ]
         }
       ]
     },
@@ -193458,12 +193617,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -193480,11 +193640,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Comenta con Shallan la reunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta con Shallan la reunión."
+          ]
         }
       ]
     },
@@ -202241,12 +202401,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -202263,11 +202424,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Participa en la lección de Ishnah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la lección de Ishnah."
+          ]
         }
       ]
     },
@@ -202631,12 +202792,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -202653,11 +202815,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Participa en la lección de Ishnah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la lección de Ishnah."
+          ]
         }
       ]
     },
@@ -208552,12 +208714,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -208574,11 +208737,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Discute la ruta con Febrth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute la ruta con Febrth."
+          ]
         },
         {
           "id": "ob84-obs-19-graves",
@@ -208600,12 +208763,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -208622,11 +208786,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Muere en la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Muere en la emboscada."
+          ]
         }
       ]
     },
@@ -213177,12 +213341,13 @@ window.ATLAS_DATA = {
           ],
           "xy": null,
           "kind": "vision",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob42"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-lift-vision-body-42",
@@ -213199,12 +213364,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-42"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Interviene en la visión. El capítulo no localiza su cuerpo.",
+          "needsConfirmation": [],
           "notes": [
-            "Aparecer con el emperador en la experiencia no fija una nueva posición física."
+            "Interviene en la visión. El capítulo no localiza su cuerpo."
           ]
         }
       ]
@@ -217094,12 +217257,13 @@ window.ATLAS_DATA = {
           ],
           "xy": null,
           "kind": "vision",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob42"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-gawx-vision-body-42",
@@ -217116,12 +217280,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-42"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/42.Consecuencias.xhtml. Participa como Yanagawn. El capítulo no localiza su cuerpo.",
+          "needsConfirmation": [],
           "notes": [
-            "No se supone su llegada a Urithiru."
+            "Participa como Yanagawn. El capítulo no localiza su cuerpo."
           ]
         }
       ]
@@ -219328,12 +219490,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -219350,11 +219513,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Pregunta a Janala qué quiere decir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pregunta a Janala qué quiere decir."
+          ]
         }
       ]
     },
@@ -221197,12 +221360,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -221219,11 +221383,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Participa en los informes sobre la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en los informes sobre la torre."
+          ]
         }
       ]
     },
@@ -226728,12 +226892,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226750,11 +226915,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Presenta su informe cuando Elthebar interviene.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presenta su informe cuando Elthebar interviene."
+          ]
         }
       ]
     },
@@ -227634,12 +227799,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -227656,11 +227822,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Asiste a la reunión de eruditos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión de eruditos."
+          ]
         }
       ]
     },
@@ -228070,12 +228236,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -228092,11 +228259,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Hace una pregunta a Elthebar y recibe una respuesta despectiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hace una pregunta a Elthebar y recibe una respuesta despectiva."
+          ]
         }
       ]
     },
@@ -233314,12 +233481,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -233336,11 +233504,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Dirige el ejercicio de observación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dirige el ejercicio de observación."
+          ]
         }
       ]
     },
@@ -238571,12 +238739,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -238593,11 +238762,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Su rostro aparece reflejado en el agua junto a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su rostro aparece reflejado en el agua junto a Teft."
+          ]
         },
         {
           "id": "ob84-obs-4-teft-following-spren",
@@ -238618,12 +238787,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob41"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -238640,11 +238810,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-41"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/41.Suelomirando.xhtml. Se muestra a Teft en el local.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se muestra a Teft en el local."
+          ]
         }
       ]
     },
@@ -238768,12 +238938,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -238790,11 +238961,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Discute la ruta con Graves mientras el grupo cena.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute la ruta con Graves mientras el grupo cena."
+          ]
         },
         {
           "id": "ob84-obs-20-febrth",
@@ -238816,12 +238987,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -238838,11 +239010,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Muere en la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Muere en la emboscada."
+          ]
         }
       ]
     },
@@ -238875,12 +239047,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -238897,11 +239070,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Está en el campamento antes de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el campamento antes de la emboscada."
+          ]
         },
         {
           "id": "ob84-obs-21-fia",
@@ -238923,12 +239096,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -238945,11 +239119,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Muere en la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Muere en la emboscada."
+          ]
         }
       ]
     },
@@ -238982,12 +239156,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -239004,11 +239179,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Ataca a Moash y este abate su cuerpo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ataca a Moash y este abate su cuerpo."
+          ]
         }
       ]
     },
@@ -239041,12 +239216,13 @@ window.ATLAS_DATA = {
             482.802
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-frostlands-inland-region",
@@ -239063,11 +239239,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Atacan y desarman a Moash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Atacan y desarman a Moash."
+          ]
         },
         {
           "id": "ob84-obs-25-moash-fused-captors",
@@ -239085,12 +239261,13 @@ window.ATLAS_DATA = {
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob43"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-captive-flight-43",
@@ -239107,12 +239284,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-43"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml. Dos de los atacantes alzan a Moash y se lo llevan.",
+          "needsConfirmation": [],
           "notes": [
-            "Destino y ruta aérea sin confirmar; no acredita llegada a Kharbranth, Kholinar o Shadesmar."
+            "Dos de los atacantes alzan a Moash y se lo llevan."
           ]
         },
         {
@@ -239262,12 +239437,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -239284,11 +239460,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Interrumpe y propone estudiar los engranajes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interrumpe y propone estudiar los engranajes."
+          ]
         }
       ]
     },
@@ -239354,12 +239530,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -239376,11 +239553,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Shallan observa a una mujer discreta en una esquina y sospecha que actúa como informante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan observa a una mujer discreta en una esquina y sospecha que actúa como informante."
+          ]
         }
       ]
     },
@@ -239475,12 +239652,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob84-summary",
           "sourceIds": [
-            "ob84-summary"
+            "ob84-summary",
+            "primary200-ob44"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -239497,11 +239675,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-44"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/44.Carailuminada.xhtml. Asiste a Teshav y cuestiona las deducciones de Renarin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a Teshav y cuestiona las deducciones de Renarin."
+          ]
         }
       ]
     },
