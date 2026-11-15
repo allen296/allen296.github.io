@@ -3355,6 +3355,21 @@ window.ATLAS_DATA = {
       "nurse-ob49",
       "tanalan-younger",
       "toh"
+    ],
+    "ob-chapter-50": [
+      "dalinar",
+      "elhokar",
+      "fen",
+      "insah-ob50",
+      "jasalai-ob50",
+      "kadash",
+      "kaladin",
+      "kholin-camp-captain-ob50",
+      "kholin-flying-bridgemen-ob50",
+      "navani",
+      "rushu",
+      "stormfather",
+      "talenel"
     ]
   },
   "knowledgeArchive": {
@@ -11681,6 +11696,40 @@ window.ATLAS_DATA = {
         },
         "field": "appearance",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/49.Nacidoluz.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar encuentra vacía la habitación treinta y siete del edificio shash, donde Kadash dice que estuvo alojado. Hay un boquete en la pared y un dardo junto a la cama.",
+        "sourceIds": [
+          "primary203-ob50"
+        ],
+        "id": "primary203-archive-0",
+        "entryId": "herald-talenel",
+        "value": "Dalinar encuentra vacía la habitación treinta y siete del edificio shash, donde Kadash dice que estuvo alojado. Hay un boquete en la pared y un dardo junto a la cama.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-50"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Habla mentalmente con Dalinar durante el vuelo y explica que la Potencia de un Forjador de Vínculos funciona de manera distinta a la de un Custodio de la Piedra.",
+        "sourceIds": [
+          "primary203-ob50"
+        ],
+        "id": "primary203-archive-1",
+        "entryId": "spren-person-stormfather",
+        "value": "Habla mentalmente con Dalinar durante el vuelo y explica que la Potencia de un Forjador de Vínculos funciona de manera distinta a la de un Custodio de la Piedra.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-50"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
         "supersedes": []
       }
     ],
@@ -26770,6 +26819,33 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar puso a Jasalai al mando del campamento Kholin.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-dalinar-jasalai",
+      "from": "dalinar",
+      "to": "jasalai-ob50",
+      "kind": "employer",
+      "label": "Mando → responsable del campamento",
+      "category": "social",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Dalinar puso a Jasalai al mando del campamento Kholin."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Dalinar puso a Jasalai al mando del campamento Kholin."
       }
     }
   ],
@@ -58691,6 +58767,309 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar habla mentalmente con el Padre Tormenta durante el vuelo.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-flight-stormfather",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Dalinar habla mentalmente con el Padre Tormenta durante el vuelo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar habla mentalmente con el Padre Tormenta durante el vuelo.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. El capitán recomienda entrar en el campamento y responde a Elhokar.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-captain-reception",
+      "participants": [
+        "dalinar",
+        "kholin-camp-captain-ob50",
+        "elhokar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "El capitán recomienda entrar en el campamento y responde a Elhokar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El capitán recomienda entrar en el campamento y responde a Elhokar.",
+        "pairs": [
+          [
+            "dalinar",
+            "kholin-camp-captain-ob50"
+          ],
+          [
+            "elhokar",
+            "kholin-camp-captain-ob50"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar pregunta a Jasalai por las dificultades de abastecer y defender el campamento.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-jasalai-tour",
+      "participants": [
+        "dalinar",
+        "jasalai-ob50"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Dalinar pregunta a Jasalai por las dificultades de abastecer y defender el campamento.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pregunta a Jasalai por las dificultades de abastecer y defender el campamento.",
+        "pairs": [
+          [
+            "dalinar",
+            "jasalai-ob50"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Revisan el boceto de Navani y hablan de los refuerzos y del timón.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-navani-design",
+      "participants": [
+        "navani",
+        "rushu"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Revisan el boceto de Navani y hablan de los refuerzos y del timón.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Revisan el boceto de Navani y hablan de los refuerzos y del timón.",
+        "pairs": [
+          [
+            "navani",
+            "rushu"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Navani lee la aceptación de Fen y redacta la respuesta a petición de Dalinar.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-fen-reply",
+      "participants": [
+        "navani",
+        "fen",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Navani lee la aceptación de Fen y redacta la respuesta a petición de Dalinar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani lee la aceptación de Fen y redacta la respuesta a petición de Dalinar.",
+        "pairs": [
+          [
+            "navani",
+            "fen"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Kadash localiza la referencia a la habitación y ambos hablan de las visiones y del Todopoderoso.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-kadash-records",
+      "participants": [
+        "dalinar",
+        "kadash"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Kadash localiza la referencia a la habitación y ambos hablan de las visiones y del Todopoderoso.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kadash localiza la referencia a la habitación y ambos hablan de las visiones y del Todopoderoso.",
+        "pairs": [
+          [
+            "dalinar",
+            "kadash"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar pregunta si puede usar sus poderes para abrir la puerta. El Padre Tormenta describe las limitaciones de sus Potencias.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-stormfather-door",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Dalinar pregunta si puede usar sus poderes para abrir la puerta. El Padre Tormenta describe las limitaciones de sus Potencias.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pregunta si puede usar sus poderes para abrir la puerta. El Padre Tormenta describe las limitaciones de sus Potencias.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar muestra el dardo a Kaladin, entrega los registros a Navani y le pide al capitán que vaya a Ciudad Thaylen.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-dart-and-mission",
+      "participants": [
+        "dalinar",
+        "kaladin",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Dalinar muestra el dardo a Kaladin, entrega los registros a Navani y le pide al capitán que vaya a Ciudad Thaylen.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar muestra el dardo a Kaladin, entrega los registros a Navani y le pide al capitán que vaya a Ciudad Thaylen.",
+        "pairs": [
+          [
+            "dalinar",
+            "kaladin"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -89583,6 +89962,134 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Evi da a luz al hijo de Dalinar y asiente al nombre elegido para Adolin.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Dalinar la dejó al mando del campamento Kholin. Recibe allí a la comitiva y le enseña los cambios.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-jasalai-ob50-intro",
+      "characterId": "jasalai-ob50",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Dalinar la dejó al mando del campamento Kholin. Recibe allí a la comitiva y le enseña los cambios.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Oficial sin nombre que aconseja entrar en las murallas.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-kholin-camp-captain-ob50-intro",
+      "characterId": "kholin-camp-captain-ob50",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Oficial sin nombre que aconseja entrar en las murallas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Kadash la menciona como responsable de las instalaciones del monasterio.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-insah-ob50-intro",
+      "characterId": "insah-ob50",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Kadash la menciona como responsable de las instalaciones del monasterio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Escuderos sin nombres individuales en el pasaje. Estabilizan a los viajeros cuando vuelven al aire.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-kholin-flying-bridgemen-ob50-intro",
+      "characterId": "kholin-flying-bridgemen-ob50",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Escuderos sin nombres individuales en el pasaje. Estabilizan a los viajeros cuando vuelven al aire.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Según los registros consultados por Kadash, estuvo en la habitación treinta y siete del edificio shash. Dalinar la encuentra vacía y su destino sigue sin aclarar.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-talenel-room-disclosure",
+      "characterId": "talenel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Según los registros consultados por Kadash, estuvo en la habitación treinta y siete del edificio shash. Dalinar la encuentra vacía y su destino sigue sin aclarar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Encuentra un boquete en la pared de la habitación treinta y siete y un dardo junto a la cama. Estos indicios no identifican aquí a quien intervino.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-dart-found",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Encuentra un boquete en la pared de la habitación treinta y siete y un dardo junto a la cama. Estos indicios no identifican aquí a quien intervino.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Tras ver Aharietiam acepta por vinculacaña visitar Urithiru. No llega a la torre en este capítulo.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-fen-visit-accepted",
+      "characterId": "fen",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Tras ver Aharietiam acepta por vinculacaña visitar Urithiru. No llega a la torre en este capítulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Recibe el encargo de abrir la Puerta Jurada de Ciudad Thaylen y planea salir en la próxima alta tormenta.",
+      "sourceIds": [
+        "primary203-ob50"
+      ],
+      "id": "primary203-kaladin-thaylen-plan",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-50"
+      },
+      "kind": "background",
+      "text": "Recibe el encargo de abrir la Puerta Jurada de Ciudad Thaylen y planea salir en la próxima alta tormenta.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -92208,6 +92715,10 @@ window.ATLAS_DATA = {
         {
           "revision": 202,
           "notes": "El recuerdo muestra el nacimiento de Adolin y reafirma su filiación ya conocida. Toh habla de su hermana Evi y Dalinar menciona a Jasnah como hija de Gavilar. Quedan sin identificar las otras personas del tugurio y del parto."
+        },
+        {
+          "revision": 203,
+          "notes": "El texto reafirma el matrimonio de Dalinar y Navani. No revela parentescos nuevos. Insah se menciona en los registros y Talenel no está en la habitación cuando Dalinar la visita."
         }
       ]
     }
@@ -95075,7 +95586,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 202,
+  "revision": 203,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -97556,6 +98067,15 @@ window.ATLAS_DATA = {
       "source": "primary202-ob49",
       "flashback": true,
       "note": "Recuerdo del nacimiento de Adolin y de la conversación posterior entre Dalinar y Gavilar."
+    },
+    {
+      "id": "ob-chapter-50",
+      "bookId": "ob",
+      "chapter": 50,
+      "label": "Capítulo 50 · Shash. Treinta y siete",
+      "part": "ob-2e",
+      "source": "primary203-ob50",
+      "note": "Vuelo al campamento Kholin y visita a la habitación treinta y siete."
     }
   ],
   "experiencePresentation": {
@@ -112527,6 +113047,195 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
+        },
+        {
+          "id": "primary203-kaladin-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-kaladin-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-kaladin-7",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin",
+          "placeId": "place-campamento-kholin",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación textual pendiente de cotejo y coordenadas por localizar.",
+            "Reutiliza el punto general del prototipo Kholin. No es una nueva calibración.",
+            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Examina el dardo y reconoce un posible derivado de la ruinaoscura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina el dardo y reconoce un posible derivado de la ruinaoscura."
+          ]
+        },
+        {
+          "id": "primary203-kaladin-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Envía al grupo de vuelta al aire. Su misión a Ciudad Thaylen queda para la próxima alta tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Envía al grupo de vuelta al aire. Su misión a Ciudad Thaylen queda para la próxima alta tormenta."
           ]
         }
       ]
@@ -142201,6 +142910,382 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla con Gavilar de Rathalas, de su temor a perder el control y de las campañas propuestas."
           ]
+        },
+        {
+          "id": "primary203-dalinar-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-3",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin",
+          "placeId": "place-campamento-kholin",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación textual pendiente de cotejo y coordenadas por localizar.",
+            "Reutiliza el punto general del prototipo Kholin. No es una nueva calibración.",
+            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Recorre el campamento con Jasalai y comenta la logística.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recorre el campamento con Jasalai y comenta la logística."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-4",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Sala de Dalinar",
+          "placeId": "place-campamento-kholin-sala-de-dalinar",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de región o campamento; no identifica el edificio ni la meseta exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Come en su antiguo refugio y escucha el mensaje de Fen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Come en su antiguo refugio y escucha el mensaje de Fen."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-5",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio Kholin · Despacho de Kadash",
+          "placeId": "place-ob50-kadash-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Consulta a Kadash por la habitación donde estuvo Talenel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Consulta a Kadash por la habitación donde estuvo Talenel."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-6",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio Kholin · Celda de Talenel",
+          "placeId": "place-taln-monastery-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija la posición de una sala, puente o sima concreta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Entra por el boquete del muro y recoge un dardo junto a la cama. La habitación está vacía.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra por el boquete del muro y recoge un dardo junto a la cama. La habitación está vacía."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-7",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin",
+          "placeId": "place-campamento-kholin",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación textual pendiente de cotejo y coordenadas por localizar.",
+            "Reutiliza el punto general del prototipo Kholin. No es una nueva calibración.",
+            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Muestra el dardo a Kaladin y entrega a Navani los registros recuperados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Muestra el dardo a Kaladin y entrega a Navani los registros recuperados."
+          ]
+        },
+        {
+          "id": "primary203-dalinar-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuelve al aire al salir del campamento. El capítulo termina en vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
+          ]
         }
       ]
     },
@@ -154950,6 +156035,147 @@ window.ATLAS_DATA = {
           "notes": [
             "Llega al lugar de entrenamiento y habla con Kaladin."
           ]
+        },
+        {
+          "id": "primary203-elhokar-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-elhokar-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-elhokar-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuelve al aire al salir del campamento. El capítulo termina en vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
+          ]
         }
       ]
     },
@@ -160435,6 +161661,241 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Reúne a los eruditos para discutir lo que saben de la torre."
+          ]
+        },
+        {
+          "id": "primary203-navani-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-navani-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-navani-4",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Sala de Dalinar",
+          "placeId": "place-campamento-kholin-sala-de-dalinar",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de región o campamento; no identifica el edificio ni la meseta exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Comenta sus bocetos con Rushu y contesta a Fen por vinculacaña.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta sus bocetos con Rushu y contesta a Fen por vinculacaña."
+          ]
+        },
+        {
+          "id": "primary203-navani-7",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin",
+          "placeId": "place-campamento-kholin",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación textual pendiente de cotejo y coordenadas por localizar.",
+            "Reutiliza el punto general del prototipo Kholin. No es una nueva calibración.",
+            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Recibe los registros que encontró Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe los registros que encontró Dalinar."
+          ]
+        },
+        {
+          "id": "primary203-navani-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuelve al aire al salir del campamento. El capítulo termina en vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
           ]
         }
       ]
@@ -226702,6 +228163,194 @@ window.ATLAS_DATA = {
           "notes": [
             "Interrumpe el combate de Dalinar."
           ]
+        },
+        {
+          "id": "primary203-kadash-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-kadash-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-kadash-5",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio Kholin · Despacho de Kadash",
+          "placeId": "place-ob50-kadash-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Consulta los registros y dice que la habitación era la número treinta y siete del edificio shash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Consulta los registros y dice que la habitación era la número treinta y siete del edificio shash."
+          ]
+        },
+        {
+          "id": "primary203-kadash-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuelve al aire al salir del campamento. El capítulo termina en vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
+          ]
         }
       ]
     },
@@ -227488,6 +229137,193 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Supervisión de los carros y sus manifiestos en la caverna."
+          ]
+        },
+        {
+          "id": "primary203-rushu-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-rushu-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-rushu-4",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin · Sala de Dalinar",
+          "placeId": "place-campamento-kholin-sala-de-dalinar",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de región o campamento; no identifica el edificio ni la meseta exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Examina con Navani los cálculos de un diseño y propone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina con Navani los cálculos de un diseño y propone refuerzos."
+          ]
+        },
+        {
+          "id": "primary203-rushu-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuelve al aire al salir del campamento. El capítulo termina en vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
           ]
         }
       ]
@@ -229377,6 +231213,49 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Recibe la visión mientras la alta tormenta pasa por su ciudad. El capítulo no precisa dónde está su cuerpo dentro de la ciudad."
+          ]
+        },
+        {
+          "id": "primary203-fen-4",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "placeId": "place-ob-remote-unknown",
+          "realm": "physical",
+          "placeNotes": [
+            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+          ],
+          "xy": null,
+          "kind": "remote",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-remote-unknown",
+          "coordinateAnchorName": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Envía su aceptación por vinculacaña. La visita a Urithiru aún queda por hacer.",
+          "needsConfirmation": [],
+          "notes": [
+            "Envía su aceptación por vinculacaña. La visita a Urithiru aún queda por hacer."
           ]
         }
       ]
@@ -270704,6 +272583,285 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Pregunta cómo se llamará el niño."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jasalai-ob50",
+      "name": "Jasalai",
+      "initial": "J",
+      "role": "Dalinar la dejó al mando del campamento Kholin. Recibe allí a la comitiva y le enseña los cambios.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary203-jasalai-ob50-3",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento Kholin",
+          "placeId": "place-campamento-kholin",
+          "realm": "physical",
+          "placeNotes": [
+            "Ubicación textual pendiente de cotejo y coordenadas por localizar.",
+            "Reutiliza el punto general del prototipo Kholin. No es una nueva calibración.",
+            "Se representa mediante Llanuras Quebradas. La coordenada concreta de esta escena sigue pendiente."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Recibe a la comitiva y le muestra las obras del campamento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a la comitiva y le muestra las obras del campamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kholin-camp-captain-ob50",
+      "name": "Capitán que recibe a la comitiva",
+      "initial": "C",
+      "role": "Oficial sin nombre que aconseja entrar en las murallas.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary203-kholin-camp-captain-ob50-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Aconseja entrar en el recinto amurallado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aconseja entrar en el recinto amurallado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insah-ob50",
+      "name": "Insah",
+      "initial": "I",
+      "role": "Kadash la menciona como responsable de las instalaciones del monasterio.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": []
+    },
+    {
+      "id": "kholin-flying-bridgemen-ob50",
+      "name": "Hombres del puente que acompañan el vuelo",
+      "initial": "H",
+      "role": "Escuderos sin nombres individuales en el pasaje. Estabilizan a los viajeros cuando vuelven al aire.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada por el pasaje.",
+      "events": [
+        {
+          "id": "primary203-kholin-flying-bridgemen-ob50-1",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuela sobre las Llanuras Quebradas con la comitiva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela sobre las Llanuras Quebradas con la comitiva."
+          ]
+        },
+        {
+          "id": "primary203-kholin-flying-bridgemen-ob50-2",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Exterior de las murallas del campamento Kholin",
+          "placeId": "place-ob50-kholin-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Llega a las inmediaciones del campamento Kholin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a las inmediaciones del campamento Kholin."
+          ]
+        },
+        {
+          "id": "primary203-kholin-flying-bridgemen-ob50-8",
+          "scene": "ob-chapter-50",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo sobre las Llanuras Quebradas",
+          "placeId": "place-ob50-plains-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary203-ob50",
+          "sourceIds": [
+            "primary203-ob50"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-50"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml. Vuelve al aire al salir del campamento. El capítulo termina en vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
           ]
         }
       ]
