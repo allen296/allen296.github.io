@@ -3370,6 +3370,45 @@ window.ATLAS_DATA = {
       "rushu",
       "stormfather",
       "talenel"
+    ],
+    "ob-chapter-51": [
+      "elhokar",
+      "helt",
+      "ishnah",
+      "moash",
+      "moash-punished-parshmen",
+      "ob51-fused-orchards",
+      "parshman-card-player",
+      "pattern",
+      "shallan"
+    ],
+    "ob-chapter-52": [
+      "adolin",
+      "dalinar",
+      "evi",
+      "kadash",
+      "ob52-armourer",
+      "ob52-renarin-nurse",
+      "ob52-teleb-wife",
+      "renarin",
+      "teleb"
+    ],
+    "ob-chapter-53": [
+      "amaram",
+      "crescent-scar-stranger",
+      "ethid",
+      "ivory",
+      "jasnah",
+      "jochi",
+      "nankhet-ob53",
+      "natata-ob53",
+      "navani",
+      "ob53-amaram-mother",
+      "ob53-nankhet-cousin",
+      "ob53-tashikk-intermediary",
+      "pattern",
+      "renarin",
+      "shallan"
     ]
   },
   "knowledgeArchive": {
@@ -11730,6 +11769,40 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/50.Shash.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Marfil se reduce al tamaño de una mota de polvo para vigilar a los predicetormentas.",
+        "sourceIds": [
+          "primary204-ob53"
+        ],
+        "id": "primary204-archive-ethid-spren-report",
+        "entryId": "spren-person-ivory",
+        "value": "Marfil se reduce al tamaño de una mota de polvo para vigilar a los predicetormentas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-53"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Ethid informa a Jasnah por vinculacaña de que sigue la pista a un hombre que cree que es Nale.",
+        "sourceIds": [
+          "primary204-ob53"
+        ],
+        "id": "primary204-archive-ethid-nale-report",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Ethid informa a Jasnah por vinculacaña de que sigue la pista a un hombre que cree que es Nale.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-53"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml",
         "supersedes": []
       }
     ],
@@ -26846,6 +26919,87 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Dalinar puso a Jasalai al mando del campamento Kholin."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Dalinar recuerda que la esposa de Teleb le leyó cartas de Evi.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-teleb-wife",
+      "from": "teleb",
+      "to": "ob52-teleb-wife",
+      "kind": "spouse",
+      "label": "Matrimonio",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Dalinar recuerda que la esposa de Teleb le leyó cartas de Evi."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Dalinar recuerda que la esposa de Teleb le leyó cartas de Evi."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Amaram habla del esfuerzo de su madre por criarlo.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-amaram-mother",
+      "from": "ob53-amaram-mother",
+      "to": "amaram",
+      "kind": "parent",
+      "label": "Madre → hijo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Amaram habla del esfuerzo de su madre por criarlo."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Amaram habla del esfuerzo de su madre por criarlo."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. La crónica recordada por Jasnah identifica al atacante como primo del rey.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-nankhet-cousin",
+      "from": "nankhet-ob53",
+      "to": "ob53-nankhet-cousin",
+      "kind": "cousin",
+      "label": "Primos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "La crónica recordada por Jasnah identifica al atacante como primo del rey."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "La crónica recordada por Jasnah identifica al atacante como primo del rey."
       }
     }
   ],
@@ -59070,6 +59224,409 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Hablan de los huertos y del peligro de los Fusionados.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-moash-sah",
+      "participants": [
+        "moash",
+        "parshman-card-player"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Hablan de los huertos y del peligro de los Fusionados.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de los huertos y del peligro de los Fusionados.",
+        "pairs": [
+          [
+            "moash",
+            "parshman-card-player"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Shallan demuestra sus disfraces y obtiene una solicitud para incorporarse a la expedición.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-shallan-elhokar",
+      "participants": [
+        "shallan",
+        "elhokar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Shallan demuestra sus disfraces y obtiene una solicitud para incorporarse a la expedición.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan demuestra sus disfraces y obtiene una solicitud para incorporarse a la expedición.",
+        "pairs": [
+          [
+            "shallan",
+            "elhokar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Elhokar pregunta si quedan personas esperando audiencia.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-elhokar-helt",
+      "participants": [
+        "elhokar",
+        "helt"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Elhokar pregunta si quedan personas esperando audiencia.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Elhokar pregunta si quedan personas esperando audiencia.",
+        "pairs": [
+          [
+            "elhokar",
+            "helt"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Dalinar les ordena despejar la tienda para convertirla en sala de audiencias.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-armourer-orders",
+      "participants": [
+        "dalinar",
+        "ob52-armourer"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 18.5,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar les ordena despejar la tienda para convertirla en sala de audiencias.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar les ordena despejar la tienda para convertirla en sala de audiencias.",
+        "pairs": [
+          [
+            "dalinar",
+            "ob52-armourer"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Kadash informa del resultado de la batalla y Dalinar comenta la retirada enemiga.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-kadash-report",
+      "participants": [
+        "dalinar",
+        "kadash"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 18.5,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Kadash informa del resultado de la batalla y Dalinar comenta la retirada enemiga.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kadash informa del resultado de la batalla y Dalinar comenta la retirada enemiga.",
+        "pairs": [
+          [
+            "dalinar",
+            "kadash"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Dalinar habla con Evi del nombre de Renarin y muestra Juramentada a Adolin junto a los carros.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-evi-family",
+      "participants": [
+        "dalinar",
+        "evi",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 18.5,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar habla con Evi del nombre de Renarin y muestra Juramentada a Adolin junto a los carros.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar habla con Evi del nombre de Renarin y muestra Juramentada a Adolin junto a los carros.",
+        "pairs": [
+          [
+            "dalinar",
+            "evi"
+          ],
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "evi",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Hablan de los predicetormentas y Marfil se ofrece a vigilarlos.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-jasnah-ivory",
+      "participants": [
+        "jasnah",
+        "ivory"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Hablan de los predicetormentas y Marfil se ofrece a vigilarlos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de los predicetormentas y Marfil se ofrece a vigilarlos.",
+        "pairs": [
+          [
+            "jasnah",
+            "ivory"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. La intermediaria conecta a los tres colegas, que intercambian noticias por vinculacaña.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-scholar-spanreed",
+      "participants": [
+        "jasnah",
+        "ob53-tashikk-intermediary",
+        "jochi",
+        "ethid"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La intermediaria conecta a los tres colegas, que intercambian noticias por vinculacaña.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La intermediaria conecta a los tres colegas, que intercambian noticias por vinculacaña.",
+        "pairs": [
+          [
+            "jasnah",
+            "ob53-tashikk-intermediary"
+          ],
+          [
+            "jasnah",
+            "jochi"
+          ],
+          [
+            "jasnah",
+            "ethid"
+          ],
+          [
+            "jochi",
+            "ethid"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Amaram pide hablar en privado y afirma que fueron íntimos. Jasnah lo contradice y rechaza su petición.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-jasnah-amaram",
+      "participants": [
+        "jasnah",
+        "amaram"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Amaram pide hablar en privado y afirma que fueron íntimos. Jasnah lo contradice y rechaza su petición.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Amaram pide hablar en privado y afirma que fueron íntimos. Jasnah lo contradice y rechaza su petición.",
+        "pairs": [
+          [
+            "jasnah",
+            "amaram"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Examinan la gema y hablan de sus vibraciones y del posible código.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-gem-code",
+      "participants": [
+        "navani",
+        "jasnah",
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Examinan la gema y hablan de sus vibraciones y del posible código.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Examinan la gema y hablan de sus vibraciones y del posible código.",
+        "pairs": [
+          [
+            "navani",
+            "jasnah"
+          ],
+          [
+            "shallan",
+            "jasnah"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -90090,6 +90647,278 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Recibe el encargo de abrir la Puerta Jurada de Ciudad Thaylen y planea salir en la próxima alta tormenta.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Sobrevuela los huertos y se aleja.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-ob51-fused-orchards-intro",
+      "characterId": "ob51-fused-orchards",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "kind": "background",
+      "text": "Sobrevuela los huertos y se aleja.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Maestro de sirvientes que atiende a Elhokar en Urithiru.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-helt-intro",
+      "characterId": "helt",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "kind": "background",
+      "text": "Maestro de sirvientes que atiende a Elhokar en Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Una carta de Mraize dice que Ishnah exageró la importancia de su antiguo trabajo. Es la versión del remitente.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-ishnah-letter",
+      "characterId": "ishnah",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "kind": "background",
+      "text": "Una carta de Mraize dice que Ishnah exageró la importancia de su antiguo trabajo. Es la versión del remitente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. En el 51 se identifica a Sah entre los trabajadores del trineo. No se asigna su nombre a todo el grupo del capítulo anterior.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-sah-sledge",
+      "characterId": "parshman-card-player",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "kind": "background",
+      "text": "En el 51 se identifica a Sah entre los trabajadores del trineo. No se asigna su nombre a todo el grupo del capítulo anterior.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Ensaya cómo sostener una ilusión mediante esferas y recibe una solicitud real. Los disfraces no crean personajes adicionales.",
+      "sourceIds": [
+        "primary204-ob51"
+      ],
+      "id": "primary204-shallan-spheres",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-51"
+      },
+      "kind": "background",
+      "text": "Ensaya cómo sostener una ilusión mediante esferas y recibe una solicitud real. Los disfraces no crean personajes adicionales.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Habla cuando Dalinar convierte la tienda de armeros en su tienda de audiencias.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-ob52-armourer-intro",
+      "characterId": "ob52-armourer",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "kind": "background",
+      "text": "Habla cuando Dalinar convierte la tienda de armeros en su tienda de audiencias.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Sostiene a Renarin junto a los carros de Evi.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-ob52-renarin-nurse-intro",
+      "characterId": "ob52-renarin-nurse",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "kind": "background",
+      "text": "Sostiene a Renarin junto a los carros de Evi.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Dalinar recuerda que ella le leyó cartas de Evi. No aparece en el campamento en este capítulo.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-ob52-teleb-wife-intro",
+      "characterId": "ob52-teleb-wife",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "kind": "background",
+      "text": "Dalinar recuerda que ella le leyó cartas de Evi. No aparece en el campamento en este capítulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Evi explica los elementos del nombre de Renarin. En este recuerdo ya ha nacido; no se narra su nacimiento.",
+      "sourceIds": [
+        "primary204-ob52"
+      ],
+      "id": "primary204-renarin-name",
+      "characterId": "renarin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-52"
+      },
+      "kind": "background",
+      "text": "Evi explica los elementos del nombre de Renarin. En este recuerdo ya ha nacido; no se narra su nacimiento.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Colega de Jasnah que escribe desde Thaylenah por intermediación. En público se le conoce como mujer; Jasnah sabe que es un hombre.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-jochi-intro",
+      "characterId": "jochi",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Colega de Jasnah que escribe desde Thaylenah por intermediación. En público se le conoce como mujer; Jasnah sabe que es un hombre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Transmite claves y conecta las vinculacañas desde Tashikk.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-ob53-tashikk-intermediary-intro",
+      "characterId": "ob53-tashikk-intermediary",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Transmite claves y conecta las vinculacañas desde Tashikk.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Amaram la menciona en su discusión con Jasnah. El capítulo no la identifica por nombre.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-ob53-amaram-mother-intro",
+      "characterId": "ob53-amaram-mother",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Amaram la menciona en su discusión con Jasnah. El capítulo no la identifica por nombre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Rey veden citado en la crónica que lee Jasnah.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-nankhet-ob53-intro",
+      "characterId": "nankhet-ob53",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Rey veden citado en la crónica que lee Jasnah.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Cronista citada por Jasnah al recordar la muerte del rey NanKhet.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-natata-ob53-intro",
+      "characterId": "natata-ob53",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Cronista citada por Jasnah al recordar la muerte del rey NanKhet.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. La crónica le atribuye un ataque que dejó al rey ciego de un ojo.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-ob53-nankhet-cousin-intro",
+      "characterId": "ob53-nankhet-cousin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "La crónica le atribuye un ataque que dejó al rey ciego de un ojo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Amaram sostiene que hubo intimidad y Jasnah lo contradice. No se acredita una relación de pareja.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-amaram-jasnah-claim",
+      "characterId": "amaram",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Amaram sostiene que hubo intimidad y Jasnah lo contradice. No se acredita una relación de pareja.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Hace circular luz tormentosa por la pared y abre cajones con gemas.",
+      "sourceIds": [
+        "primary204-ob53"
+      ],
+      "id": "primary204-gem-drawers",
+      "characterId": "renarin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-53"
+      },
+      "kind": "background",
+      "text": "Hace circular luz tormentosa por la pared y abre cajones con gemas.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -92719,6 +93548,10 @@ window.ATLAS_DATA = {
         {
           "revision": 203,
           "notes": "El texto reafirma el matrimonio de Dalinar y Navani. No revela parentescos nuevos. Insah se menciona en los registros y Talenel no está en la habitación cuando Dalinar la visita."
+        },
+        {
+          "revision": 204,
+          "notes": "Se conserva la filiación de Adolin y Renarin y se documentan la esposa de Teleb, la madre de Amaram y el primo de NanKhet. La afirmación de Amaram sobre Jasnah queda contradicha en el pasaje."
         }
       ]
     }
@@ -95586,7 +96419,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 203,
+  "revision": 204,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -98076,6 +98909,31 @@ window.ATLAS_DATA = {
       "part": "ob-2e",
       "source": "primary203-ob50",
       "note": "Vuelo al campamento Kholin y visita a la habitación treinta y siete."
+    },
+    {
+      "id": "ob-chapter-51",
+      "bookId": "ob",
+      "chapter": 51,
+      "label": "Capítulo 51 · El círculo se cierra",
+      "part": "ob-2e",
+      "source": "primary204-ob51"
+    },
+    {
+      "id": "ob-chapter-52",
+      "bookId": "ob",
+      "chapter": 52,
+      "label": "Capítulo 52 · En honor a su padre",
+      "part": "ob-2e",
+      "source": "primary204-ob52",
+      "flashback": true
+    },
+    {
+      "id": "ob-chapter-53",
+      "bookId": "ob",
+      "chapter": 53,
+      "label": "Capítulo 53 · Un corte tan torcido",
+      "part": "ob-2e",
+      "source": "primary204-ob53"
     }
   ],
   "experiencePresentation": {
@@ -126917,6 +127775,244 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla con Renarin después de defenderlo."
           ]
+        },
+        {
+          "id": "primary204-51-shallan-3",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la cámara de audiencias",
+          "placeId": "place-ob51-audience-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Lee la carta de Mraize y prueba una ilusión sostenida por sus esferas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lee la carta de Mraize y prueba una ilusión sostenida por sus esferas."
+          ]
+        },
+        {
+          "id": "primary204-51-shallan-4",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara de audiencias de Elhokar",
+          "placeId": "place-ob51-audience",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Muestra a Elhokar varios disfraces y se ofrece para la misión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Muestra a Elhokar varios disfraces y se ofrece para la misión."
+          ]
+        },
+        {
+          "id": "primary204-51-shallan-5",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la cámara de audiencias",
+          "placeId": "place-ob51-audience-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Sale con la solicitud real; el viaje todavía no se realiza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale con la solicitud real; el viaje todavía no se realiza."
+          ]
+        },
+        {
+          "id": "primary204-53-shallan-3",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Avisa a Jasnah de que llega Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avisa a Jasnah de que llega Amaram."
+          ]
+        },
+        {
+          "id": "primary204-53-shallan-4",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Detecta una secuencia en la vibración y transmite la observación de Patrón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Detecta una secuencia en la vibración y transmite la observación de Patrón."
+          ]
         }
       ]
     },
@@ -128406,6 +129502,147 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Jasnah recuerda retazos de una habitación oscura en su infancia. Su emplazamiento y el momento exacto no se precisan."
+          ]
+        },
+        {
+          "id": "primary204-53-jasnah-1",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Observa a los eruditos y prepara la conversación por vinculacaña.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observa a los eruditos y prepara la conversación por vinculacaña."
+          ]
+        },
+        {
+          "id": "primary204-53-jasnah-3",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Rechaza hablar en privado con Amaram y después se vuelve hacia Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rechaza hablar en privado con Amaram y después se vuelve hacia Shallan."
+          ]
+        },
+        {
+          "id": "primary204-53-jasnah-4",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Infunde una gema de corte irregular y observa cómo pierde luz y vibra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Infunde una gema de corte irregular y observa cómo pierde luz y vibra."
           ]
         }
       ]
@@ -143286,6 +144523,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
           ]
+        },
+        {
+          "id": "primary204-52-dalinar-1",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de armeros de la campaña contra los veden",
+          "placeId": "place-ob52-armourers",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-armourers",
+          "coordinateAnchorName": "Tienda de armeros de la campaña contra los veden",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Los armeros le quitan la armadura después de la batalla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los armeros le quitan la armadura después de la batalla."
+          ]
+        },
+        {
+          "id": "primary204-52-dalinar-3",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de armeros de la campaña contra los veden",
+          "placeId": "place-ob52-armourers",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-armourers",
+          "coordinateAnchorName": "Tienda de armeros de la campaña contra los veden",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Habla con Evi de la llegada de los niños y del nombre de Renarin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Evi de la llegada de los niños y del nombre de Renarin."
+          ]
+        },
+        {
+          "id": "primary204-52-dalinar-4",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carros de Evi en el campamento de campaña",
+          "placeId": "place-ob52-wagons",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-wagons",
+          "coordinateAnchorName": "Carros de Evi en el campamento de campaña",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Ve a sus hijos, muestra Juramentada a Adolin y se retira a dormir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ve a sus hijos, muestra Juramentada a Adolin y se retira a dormir."
+          ]
         }
       ]
     },
@@ -150456,6 +151828,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Recién nacido, pasa de los brazos del ama de cría a los de Dalinar y vuelve con su madre."
           ]
+        },
+        {
+          "id": "primary204-52-adolin-4",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carros de Evi en el campamento de campaña",
+          "placeId": "place-ob52-wagons",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-wagons",
+          "coordinateAnchorName": "Carros de Evi en el campamento de campaña",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Juega junto a los carros, saluda a su padre y le pide ver su espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Juega junto a los carros, saluda a su padre y le pide ver su espada."
+          ]
         }
       ]
     },
@@ -153837,6 +155254,145 @@ window.ATLAS_DATA = {
           "notes": [
             "Agradece a Shallan que lo defendiera."
           ]
+        },
+        {
+          "id": "primary204-52-renarin-4",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carros de Evi en el campamento de campaña",
+          "placeId": "place-ob52-wagons",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-wagons",
+          "coordinateAnchorName": "Carros de Evi en el campamento de campaña",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Está en brazos del ama de cría junto a los carros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en brazos del ama de cría junto a los carros."
+          ]
+        },
+        {
+          "id": "primary204-53-renarin-1",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Observa el trabajo de los eruditos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observa el trabajo de los eruditos."
+          ]
+        },
+        {
+          "id": "primary204-53-renarin-4",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Envía luz tormentosa por la pared y se abren numerosos cajones con gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Envía luz tormentosa por la pared y se abren numerosos cajones con gemas."
+          ]
         }
       ]
     },
@@ -156175,6 +157731,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
+          ]
+        },
+        {
+          "id": "primary204-51-elhokar-4",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara de audiencias de Elhokar",
+          "placeId": "place-ob51-audience",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Examina un mapa de Kholinar y escucha la propuesta de Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina un mapa de Kholinar y escucha la propuesta de Shallan."
           ]
         }
       ]
@@ -161896,6 +163500,100 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
+          ]
+        },
+        {
+          "id": "primary204-53-navani-3",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Habla con Shallan y presencia la discusión con Amaram.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Shallan y presencia la discusión con Amaram."
+          ]
+        },
+        {
+          "id": "primary204-53-navani-4",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Explica que el corte irregular hará que la gema pierda luz y vibre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica que el corte irregular hará que la gema pierda luz y vibre."
           ]
         }
       ]
@@ -171351,6 +173049,96 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Deja su cuerda, detiene a los supervisores y toma el puesto del trabajador exhausto."
+          ]
+        },
+        {
+          "id": "primary204-51-moash-1",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Huertos en el camino hacia Kholinar",
+          "placeId": "place-ob51-orchards",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-orchards",
+          "coordinateAnchorName": "Huertos en el camino hacia Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Descansa junto al trineo, ve a la Fusionada y habla con Sah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descansa junto al trineo, ve a la Fusionada y habla con Sah."
+          ]
+        },
+        {
+          "id": "primary204-51-moash-2",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Su cuadrilla se desvía a un suburbio; le asignan trabajo en una carpintería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su cuadrilla se desvía a un suburbio; le asignan trabajo en una carpintería."
           ]
         }
       ]
@@ -185131,6 +186919,53 @@ window.ATLAS_DATA = {
           "notes": [
             "Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada."
           ]
+        },
+        {
+          "id": "primary204-53-amaram-3",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Pide hablar en privado con Jasnah; discuten y él acaba marchándose.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pide hablar en privado con Jasnah; discuten y él acaba marchándose."
+          ]
         }
       ]
     },
@@ -195975,6 +197810,101 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Comenta con Shallan la reunión."
+          ]
+        },
+        {
+          "id": "primary204-51-pattern-5",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la cámara de audiencias",
+          "placeId": "place-ob51-audience-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Canturrea desde las faldas de Shallan cuando ella sale.",
+          "needsConfirmation": [],
+          "notes": [
+            "Canturrea desde las faldas de Shallan cuando ella sale."
+          ]
+        },
+        {
+          "id": "primary204-53-pattern-4",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Según Shallan, interpreta la secuencia como posible código.",
+          "needsConfirmation": [],
+          "notes": [
+            "Según Shallan, interpreta la secuencia como posible código."
           ]
         }
       ]
@@ -228351,6 +230281,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Vuelve al aire al salir del campamento. El capítulo termina en vuelo."
           ]
+        },
+        {
+          "id": "primary204-52-kadash-2",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de armeros de la campaña contra los veden",
+          "placeId": "place-ob52-armourers",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-armourers",
+          "coordinateAnchorName": "Tienda de armeros de la campaña contra los veden",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Presenta el informe de la batalla y recibe órdenes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presenta el informe de la batalla y recibe órdenes."
+          ]
         }
       ]
     },
@@ -231824,6 +233799,51 @@ window.ATLAS_DATA = {
           "notes": [
             "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
           ]
+        },
+        {
+          "id": "primary204-51-parshman-card-player-1",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Huertos en el camino hacia Kholinar",
+          "placeId": "place-ob51-orchards",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-orchards",
+          "coordinateAnchorName": "Huertos en el camino hacia Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Descansa con la cuadrilla y habla con Moash sobre los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descansa con la cuadrilla y habla con Moash sobre los Fusionados."
+          ]
         }
       ]
     },
@@ -233365,6 +235385,96 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Acaba de dar a luz. Habla con Dalinar y asiente al nombre."
+          ]
+        },
+        {
+          "id": "primary204-52-evi-3",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de armeros de la campaña contra los veden",
+          "placeId": "place-ob52-armourers",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-armourers",
+          "coordinateAnchorName": "Tienda de armeros de la campaña contra los veden",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Llega al campamento y explica a Dalinar el nombre de Renarin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al campamento y explica a Dalinar el nombre de Renarin."
+          ]
+        },
+        {
+          "id": "primary204-52-evi-4",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carros de Evi en el campamento de campaña",
+          "placeId": "place-ob52-wagons",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-wagons",
+          "coordinateAnchorName": "Carros de Evi en el campamento de campaña",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Acompaña a Dalinar a ver a los niños y a descansar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Dalinar a ver a los niños y a descansar."
           ]
         }
       ]
@@ -242842,6 +244952,53 @@ window.ATLAS_DATA = {
           "notes": [
             "Marfil conversa con Jasnah mientras funcionan las vinculacañas."
           ]
+        },
+        {
+          "id": "primary204-53-ivory-1",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Habla con Jasnah y se aleja para vigilar a los predicetormentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Jasnah y se aleja para vigilar a los predicetormentas."
+          ]
         }
       ]
     },
@@ -243280,6 +245437,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Tiran de un trineo y reciben latigazos. Uno cae y Moash ocupa su lugar."
+          ]
+        },
+        {
+          "id": "primary204-51-moash-punished-parshmen-2",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Su trineo se detiene ante la carpintería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su trineo se detiene ante la carpintería."
           ]
         }
       ]
@@ -248397,6 +250599,50 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Participa en el cónclave que estudia solicitudes; no se identifica a cada voz anónima con uno de los nombres."
+          ]
+        },
+        {
+          "id": "primary204-53-ethid-2",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "placeId": "place-ob-remote-unknown",
+          "realm": "physical",
+          "placeNotes": [
+            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+          ],
+          "xy": null,
+          "kind": "remote",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-remote-unknown",
+          "coordinateAnchorName": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Escribe desde Azir y refiere su investigación sobre Nale.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escribe desde Azir y refiere su investigación sobre Nale."
           ]
         }
       ]
@@ -272865,6 +275111,393 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "ob51-fused-orchards",
+      "name": "Fusionada que observa los huertos",
+      "initial": "F",
+      "role": "Sobrevuela los huertos y se aleja.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary204-51-ob51-fused-orchards-1",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Huertos en el camino hacia Kholinar",
+          "placeId": "place-ob51-orchards",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-orchards",
+          "coordinateAnchorName": "Huertos en el camino hacia Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Observa los huertos desde el aire antes de alejarse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observa los huertos desde el aire antes de alejarse."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "helt",
+      "name": "Helt",
+      "initial": "H",
+      "role": "Maestro de sirvientes que atiende a Elhokar en Urithiru.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary204-51-helt-4",
+          "scene": "ob-chapter-51",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara de audiencias de Elhokar",
+          "placeId": "place-ob51-audience",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob51",
+          "sourceIds": [
+            "primary204-ob51"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-51"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml. Acompaña a los visitantes y sirve al rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a los visitantes y sirve al rey."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob52-armourer",
+      "name": "Armero de Dalinar",
+      "initial": "A",
+      "role": "Habla cuando Dalinar convierte la tienda de armeros en su tienda de audiencias.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary204-52-ob52-armourer-1",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tienda de armeros de la campaña contra los veden",
+          "placeId": "place-ob52-armourers",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-armourers",
+          "coordinateAnchorName": "Tienda de armeros de la campaña contra los veden",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Le advierte que la tienda guarda material de los armeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Le advierte que la tienda guarda material de los armeros."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob52-renarin-nurse",
+      "name": "Ama de cría que lleva a Renarin",
+      "initial": "A",
+      "role": "Sostiene a Renarin junto a los carros de Evi.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary204-52-ob52-renarin-nurse-4",
+          "scene": "ob-chapter-52",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carros de Evi en el campamento de campaña",
+          "placeId": "place-ob52-wagons",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary204-ob52",
+          "sourceIds": [
+            "primary204-ob52"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob52-wagons",
+          "coordinateAnchorName": "Carros de Evi en el campamento de campaña",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 18.5,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-52"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/52.Honorpadre.xhtml. Lleva al pequeño Renarin en brazos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lleva al pequeño Renarin en brazos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob52-teleb-wife",
+      "name": "Esposa de Teleb",
+      "initial": "E",
+      "role": "Dalinar recuerda que ella le leyó cartas de Evi. No aparece en el campamento en este capítulo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "jochi",
+      "name": "Jochi",
+      "initial": "J",
+      "role": "Colega de Jasnah que escribe desde Thaylenah por intermediación. En público se le conoce como mujer; Jasnah sabe que es un hombre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary204-53-jochi-2",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "placeId": "place-ob-remote-unknown",
+          "realm": "physical",
+          "placeNotes": [
+            "No asignar ciudad o coordenadas a partir de un mensaje o de un topónimo sin punto cartográfico."
+          ],
+          "xy": null,
+          "kind": "remote",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob-remote-unknown",
+          "coordinateAnchorName": "Extremo remoto de la vinculacaña · Ubicación corporal sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Participa por vinculacaña desde Thaylenah, sin ubicación más precisa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa por vinculacaña desde Thaylenah, sin ubicación más precisa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob53-tashikk-intermediary",
+      "name": "Intermediaria de la conversación con Jochi y Ethid",
+      "initial": "I",
+      "role": "Transmite claves y conecta las vinculacañas desde Tashikk.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary204-53-ob53-tashikk-intermediary-2",
+          "scene": "ob-chapter-53",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Tashikk · Escribas que recuperan las notas, dependencia sin precisar",
+          "placeId": "place-tashikk-jasnah-scribes-47",
+          "realm": "physical",
+          "placeNotes": [
+            "Sin coordenadas verificadas; no inventar punto ni ruta."
+          ],
+          "xy": null,
+          "kind": "remote",
+          "review": "primary-text",
+          "source": "primary204-ob53",
+          "sourceIds": [
+            "primary204-ob53"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-tashikk-jasnah-scribes-47",
+          "coordinateAnchorName": "Tashikk · Escribas que recuperan las notas, dependencia sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-53"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml. Conecta a Jasnah con sus colegas desde Tashikk.",
+          "needsConfirmation": [],
+          "notes": [
+            "Conecta a Jasnah con sus colegas desde Tashikk."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob53-amaram-mother",
+      "name": "Madre de Amaram",
+      "initial": "M",
+      "role": "Amaram la menciona en su discusión con Jasnah. El capítulo no la identifica por nombre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "nankhet-ob53",
+      "name": "NanKhet",
+      "initial": "N",
+      "role": "Rey veden citado en la crónica que lee Jasnah.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "natata-ob53",
+      "name": "Natata Ojos de Aceite",
+      "initial": "N",
+      "role": "Cronista citada por Jasnah al recordar la muerte del rey NanKhet.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob53-nankhet-cousin",
+      "name": "Primo de NanKhet",
+      "initial": "P",
+      "role": "La crónica le atribuye un ataque que dejó al rey ciego de un ojo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
     }
   ]
 };
