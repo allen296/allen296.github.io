@@ -3145,6 +3145,7 @@ window.ATLAS_DATA = {
       "white-comet-spren"
     ],
     "ob-chapter-33": [
+      "ivory",
       "jasnah",
       "shallan"
     ],
@@ -3167,6 +3168,7 @@ window.ATLAS_DATA = {
       "peet",
       "punio",
       "punio-wife",
+      "rock",
       "sigzil",
       "sigzil-father"
     ],
@@ -3176,6 +3178,8 @@ window.ATLAS_DATA = {
       "gavilar",
       "hathan",
       "shishi",
+      "tanalan-elder",
+      "tanalan-wife",
       "tanalan-younger"
     ],
     "ob-chapter-37": [
@@ -11437,6 +11441,57 @@ window.ATLAS_DATA = {
         },
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary198-ob33"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml. Jasnah explica cómo el vínculo de los Radiantes con sus spren los conecta con Shadesmar y cómo su orden facilita la entrada.",
+        "id": "primary198-archive-ob33",
+        "entryId": "spren-person-ivory",
+        "value": "Jasnah explica cómo el vínculo de los Radiantes con sus spren los conecta con Shadesmar y cómo su orden facilita la entrada.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-33"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary198-ob34"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Describe el espacio preliminar como algo que imaginó y permite a Dalinar y Fen conversar mientras ralentiza la recreación.",
+        "id": "primary198-archive-ob34",
+        "entryId": "spren-person-stormfather",
+        "value": "Describe el espacio preliminar como algo que imaginó y permite a Dalinar y Fen conversar mientras ralentiza la recreación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-34"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary198-ob36"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Evi y Dalinar observan figuras que parecen jugar entre las llamas. Dalinar distingue una espada diminuta.",
+        "id": "primary198-archive-ob36",
+        "entryId": "spren-type-flamespren",
+        "value": "Evi y Dalinar observan figuras que parecen jugar entre las llamas. Dalinar distingue una espada diminuta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-36"
+        },
+        "field": "appearance",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -16812,23 +16867,23 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob80-35",
-        "ob80-peet"
+        "ob80-peet",
+        "primary198-ob35"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [
         "ob80-rel-peet-ka-partner"
       ],
-      "notes": [],
+      "notes": [
+        "Sigzil anuncia el compromiso oficial de Peet y Kaladin identifica a Ka."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto betrothal: Compromiso anunciado. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapter-thirty-five/",
-          "https://es.coppermind.net/wiki/Peet"
-        ]
-      }
+        "reason": "Sigzil anuncia el compromiso oficial de Peet y Kaladin identifica a Ka."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil anuncia el compromiso oficial de Peet y Kaladin identifica a Ka."
     },
     {
       "id": "ob80-rel-drehy-dru-partner",
@@ -16843,21 +16898,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob80-dru",
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Kaladin pregunta por Dru y Sigzil comenta el cortejo con Drehy."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto partner: Cortejo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://stormlightarchive.fandom.com/wiki/Dru",
-          "https://reactormag.com/oathbringer-reread-chapter-thirty-five/"
-        ]
-      }
+        "reason": "Kaladin pregunta por Dru y Sigzil comenta el cortejo con Drehy."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Kaladin pregunta por Dru y Sigzil comenta el cortejo con Drehy."
     },
     {
       "id": "ob80-rel-heb-taffa-spouse",
@@ -18256,23 +18311,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob86-bisig",
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
       "status": "pending",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Planes previos a un compromiso formal; no confirma boda, nombre ni identidad."
+        "Sigzil cree que Bisig está a punto de comprometerse. La identidad de la otra persona y el compromiso formal siguen sin confirmarse."
       ],
       "networkEvidence": {
         "kind": "uncertain",
-        "reason": "El registro solo acredita planes para llegar a un compromiso; no identifica trato previo con esta persona ni compromiso consumado. Mantener nota de intención sin enlace efectivo hasta cotejar trato real.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Bisig",
-          "https://reactormag.com/oathbringer-reread-chapter-thirty-five/"
-        ]
-      }
+        "reason": "Sigzil cree que Bisig está a punto de comprometerse. La identidad de la otra persona y el compromiso formal siguen sin confirmarse."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil cree que Bisig está a punto de comprometerse. La identidad de la otra persona y el compromiso formal siguen sin confirmarse."
     },
     {
       "id": "ob86-rel-jasnah-jasnah-tashikk-scribes-9",
@@ -18834,21 +18887,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "audit87-source-4ffdc964196959",
-        "audit87-source-3c1660eeed80d5"
+        "audit87-source-3c1660eeed80d5",
+        "primary198-ob35"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Sigzil recuerda la dificultad de estudiar siendo hijo de un trabajador. Su padre no aparece en la escena."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hijo. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Sigzil",
-          "https://reactormag.com/the-way-of-kings-reread-chapter-57/"
-        ]
-      }
+        "reason": "Sigzil recuerda la dificultad de estudiar siendo hijo de un trabajador. Su padre no aparece en la escena."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil recuerda la dificultad de estudiar siendo hijo de un trabajador. Su padre no aparece en la escena."
     },
     {
       "id": "review87p1-laral-rillir",
@@ -19668,22 +19721,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "audit87-p2-hathan",
-        "audit87-source-465befebc4fa13"
+        "audit87-source-465befebc4fa13",
+        "primary198-ob36"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Primera referencia localizada en fuente secundaria; pendiente de cotejo primario."
+        "El narrador identifica a Hathan como mayordomo de Dalinar."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Mayordomo de las habitaciones de Dalinar y Evi. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Hathan"
-        ]
-      }
+        "reason": "El narrador identifica a Hathan como mayordomo de Dalinar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. El narrador identifica a Hathan como mayordomo de Dalinar."
     },
     {
       "id": "audit87-p2-mart-eth",
@@ -20714,22 +20766,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "audit87-source-0ea9e1abcc756a"
+        "audit87-source-0ea9e1abcc756a",
+        "primary198-ob35"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Fuente secundaria con capítulo localizado; pendiente de cotejo primario."
+        "Sigzil aclara que Punio ya está casado y que su mujer le lleva comida."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Esposos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Punio"
-        ]
-      }
+        "reason": "Sigzil aclara que Punio ya está casado y que su mujer le lleva comida."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil aclara que Punio ya está casado y que su mujer le lleva comida."
     },
     {
       "id": "review87-gavilar-tearim-employer-wor-prologue",
@@ -26459,6 +26510,35 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Venli recuerda a Demid como su antiguo compañero de forma carnal."
+      }
+    },
+    {
+      "status": "confirmed",
+      "sourceIds": [
+        "primary198-ob36"
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Dalinar declara que devolvió al hijo de Tanalan a su madre y le pidió que lo escondiera.",
+      "id": "primary198-tanalan-mother",
+      "from": "tanalan-wife",
+      "to": "tanalan-younger",
+      "kind": "parent",
+      "label": "Madre → hijo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-36"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [
+        "rel-tanalan-wife-tanalan-younger-ob-chapter-11"
+      ],
+      "notes": [
+        "Dalinar declara que devolvió al hijo de Tanalan a su madre y le pidió que lo escondiera."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Dalinar declara que devolvió al hijo de Tanalan a su madre y le pidió que lo escondiera."
       }
     }
   ],
@@ -35407,7 +35487,7 @@ window.ATLAS_DATA = {
         "jasnah"
       ],
       "type": "conversation",
-      "summary": "Retoman la relación entre maestra y pupila y hablan de su ausencia.",
+      "summary": "Jasnah reconoce los logros de Shallan y explica cómo escapó del atentado y regresó de Shadesmar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-33"
@@ -35417,13 +35497,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita. Las menciones y los papeles simulados no son encuentros físicos presentes."
       },
       "sourceIds": [
-        "ob80-33"
+        "ob80-33",
+        "primary198-ob33"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Retoman la relación entre maestra y pupila y hablan de su ausencia. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Jasnah reconoce los logros de Shallan y explica cómo escapó del atentado y regresó de Shadesmar.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-three/"
         ],
@@ -35433,7 +35514,8 @@ window.ATLAS_DATA = {
             "jasnah"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml. Jasnah reconoce los logros de Shallan y explica cómo escapó del atentado y regresó de Shadesmar."
     },
     {
       "id": "ob80-interaction-2",
@@ -35442,7 +35524,7 @@ window.ATLAS_DATA = {
         "fen"
       ],
       "type": "conversation",
-      "summary": "Dialogan dentro de la visión sobre la posible colaboración.",
+      "summary": "Hablan dentro de una recreación. Fen explica su desconfianza y Dalinar le pide que considere colaborar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-34"
@@ -35452,13 +35534,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita. Las menciones y los papeles simulados no son encuentros físicos presentes."
       },
       "sourceIds": [
-        "ob80-34"
+        "ob80-34",
+        "primary198-ob34"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Dialogan dentro de la visión sobre la posible colaboración. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Hablan dentro de una recreación. Fen explica su desconfianza y Dalinar le pide que considere colaborar.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-four/"
         ],
@@ -35468,7 +35551,8 @@ window.ATLAS_DATA = {
             "fen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Hablan dentro de una recreación. Fen explica su desconfianza y Dalinar le pide que considere colaborar."
     },
     {
       "id": "ob80-interaction-3",
@@ -35477,7 +35561,7 @@ window.ATLAS_DATA = {
         "stormfather"
       ],
       "type": "conversation",
-      "summary": "Prepara la visión compartida.",
+      "summary": "El Padre Tormenta incorpora a Fen, asigna los papeles y controla la velocidad de la visión.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-34"
@@ -35487,13 +35571,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita. Las menciones y los papeles simulados no son encuentros físicos presentes."
       },
       "sourceIds": [
-        "ob80-34"
+        "ob80-34",
+        "primary198-ob34"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Prepara la visión compartida. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "El Padre Tormenta incorpora a Fen, asigna los papeles y controla la velocidad de la visión.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-four/"
         ],
@@ -35503,7 +35588,8 @@ window.ATLAS_DATA = {
             "stormfather"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. El Padre Tormenta incorpora a Fen, asigna los papeles y controla la velocidad de la visión."
     },
     {
       "id": "ob80-interaction-4",
@@ -35512,7 +35598,7 @@ window.ATLAS_DATA = {
         "kaladin"
       ],
       "type": "conversation",
-      "summary": "Revisan la organización del Puente Cuatro.",
+      "summary": "Hablan de la administración del batallón, el alojamiento de las parejas y los planes de entrenamiento.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
@@ -35522,13 +35608,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita. Las menciones y los papeles simulados no son encuentros físicos presentes."
       },
       "sourceIds": [
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Revisan la organización del Puente Cuatro. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Hablan de la administración del batallón, el alojamiento de las parejas y los planes de entrenamiento.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-five/"
         ],
@@ -35538,7 +35625,8 @@ window.ATLAS_DATA = {
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Hablan de la administración del batallón, el alojamiento de las parejas y los planes de entrenamiento."
     },
     {
       "id": "ob80-interaction-5",
@@ -35548,7 +35636,7 @@ window.ATLAS_DATA = {
         "sigzil"
       ],
       "type": "conversation",
-      "summary": "Aclaran qué puesto busca Lyn y la posibilidad de una prueba.",
+      "summary": "Lyn aclara el puesto que quiere; Kaladin plantea una prueba y Sigzil interviene en la conversación.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
@@ -35558,13 +35646,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita. Las menciones y los papeles simulados no son encuentros físicos presentes."
       },
       "sourceIds": [
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Aclaran qué puesto busca Lyn y la posibilidad de una prueba. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Lyn aclara el puesto que quiere; Kaladin plantea una prueba y Sigzil interviene en la conversación.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapter-thirty-five/"
         ],
@@ -35582,7 +35671,8 @@ window.ATLAS_DATA = {
             "sigzil"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Lyn aclara el puesto que quiere; Kaladin plantea una prueba y Sigzil interviene en la conversación."
     },
     {
       "id": "ob81-interaction-0",
@@ -35591,7 +35681,7 @@ window.ATLAS_DATA = {
         "evi"
       ],
       "type": "conversation",
-      "summary": "Conversan junto al fuego.",
+      "summary": "Hablan junto al fuego de si Dalinar puede cambiar y de la Antigua Magia.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
@@ -35601,13 +35691,14 @@ window.ATLAS_DATA = {
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary198-ob36"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan junto al fuego. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Hablan junto al fuego de si Dalinar puede cambiar y de la Antigua Magia.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35617,7 +35708,8 @@ window.ATLAS_DATA = {
             "evi"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Hablan junto al fuego de si Dalinar puede cambiar y de la Antigua Magia."
     },
     {
       "id": "ob81-interaction-1",
@@ -35626,7 +35718,7 @@ window.ATLAS_DATA = {
         "hathan"
       ],
       "type": "message",
-      "summary": "Hathan anuncia a Gavilar.",
+      "summary": "Hathan anuncia la visita de Gavilar desde la puerta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
@@ -35636,13 +35728,14 @@ window.ATLAS_DATA = {
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-hathan"
+        "ob81-hathan",
+        "primary198-ob36"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hathan anuncia a Gavilar. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Hathan anuncia la visita de Gavilar desde la puerta.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Hathan"
         ],
@@ -35652,7 +35745,8 @@ window.ATLAS_DATA = {
             "hathan"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Hathan anuncia la visita de Gavilar desde la puerta."
     },
     {
       "id": "ob81-interaction-2",
@@ -35662,7 +35756,7 @@ window.ATLAS_DATA = {
         "evi"
       ],
       "type": "conversation",
-      "summary": "Hablan del heredero perdonado.",
+      "summary": "Gavilar trae noticias de Rathalas. Dalinar reconoce que perdonó al niño y Evi reacciona al saberlo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
@@ -35672,13 +35766,14 @@ window.ATLAS_DATA = {
         "note": "Encuentro explícito; no inferido por compartir meseta."
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary198-ob36"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "La conversación se centra en Dalinar con Gavilar y con Evi. No asumir que Evi y Gavilar se hablan entre sí por estar en la misma secuencia.",
+        "reason": "Gavilar trae noticias de Rathalas. Dalinar reconoce que perdonó al niño y Evi reacciona al saberlo.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-thirty-six-and-thirty-seven/"
         ],
@@ -35692,7 +35787,8 @@ window.ATLAS_DATA = {
             "evi"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Gavilar trae noticias de Rathalas. Dalinar reconoce que perdonó al niño y Evi reacciona al saberlo."
     },
     {
       "id": "ob81-interaction-3",
@@ -58010,6 +58106,38 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "sourceIds": [
+        "primary198-ob35"
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil pregunta a Lopen por qué está en el techo; Lopen explica que está practicando.",
+      "id": "primary198-sigzil-lopen",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-35"
+      },
+      "participants": [
+        "sigzil",
+        "lopen"
+      ],
+      "type": "conversation",
+      "summary": "Sigzil pregunta a Lopen por qué está en el techo; Lopen explica que está practicando.",
+      "storyTime": {
+        "frame": "present"
+      },
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sigzil pregunta a Lopen por qué está en el techo; Lopen explica que está practicando.",
+        "pairs": [
+          [
+            "sigzil",
+            "lopen"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -63390,31 +63518,35 @@ window.ATLAS_DATA = {
       "id": "ob80-fact-jasnah-0",
       "characterId": "jasnah",
       "kind": "background",
-      "text": "Explica que escapó del atentado entrando en Shadesmar y que encontrar una salida le llevó tiempo. No detalla aquí su recorrido completo.",
+      "text": "Escapó físicamente a Shadesmar durante el atentado. Encontrar una salida para regresar le llevó tiempo; el relato se produce en Urithiru.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-33"
       },
       "sourceIds": [
-        "ob80-33"
+        "ob80-33",
+        "primary198-ob33"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml. Escapó físicamente a Shadesmar durante el atentado. Encontrar una salida para regresar le llevó tiempo; el relato se produce en Urithiru."
     },
     {
       "id": "ob80-fact-shallan-1",
       "characterId": "shallan",
       "kind": "background",
-      "text": "Jasnah reconoce el valor de sus dibujos.",
+      "text": "Jasnah reconoce el valor de su trabajo y le pide un dibujo preciso de la columna.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-33"
       },
       "sourceIds": [
-        "ob80-33"
+        "ob80-33",
+        "primary198-ob33"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml. Jasnah reconoce el valor de su trabajo y le pide un dibujo preciso de la columna."
     },
     {
       "id": "ob80-fact-ka-2",
@@ -63438,106 +63570,120 @@ window.ATLAS_DATA = {
       "id": "ob80-fact-ka-3",
       "characterId": "ka",
       "kind": "background",
-      "text": "Sigzil comunica su compromiso con Peet.",
+      "text": "Kaladin dice su nombre cuando Sigzil anuncia el compromiso de Peet.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-peet"
+        "ob80-peet",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Kaladin dice su nombre cuando Sigzil anuncia el compromiso de Peet."
     },
     {
       "id": "ob80-fact-peet-4",
       "characterId": "peet",
       "kind": "background",
-      "text": "Se anuncia su compromiso con Ka; todavía no se registra una boda.",
+      "text": "Sigzil dice que se ha comprometido de manera oficial con Ka.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil dice que se ha comprometido de manera oficial con Ka."
     },
     {
       "id": "ob80-fact-dru-5",
       "characterId": "dru",
       "kind": "background",
-      "text": "Trabaja en las oficinas de intendencia de distrito y está siendo cortejado por Drehy. Su mención no fija una presencia en la escena.",
+      "text": "Trabaja en intendencia del distrito y se menciona su relación con Drehy.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-dru"
+        "ob80-dru",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Trabaja en intendencia del distrito y se menciona su relación con Drehy."
     },
     {
       "id": "ob80-fact-drehy-6",
       "characterId": "drehy",
       "kind": "background",
-      "text": "Se conoce su cortejo con Dru.",
+      "text": "Sigzil y Kaladin hablan de su relación con Dru.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-dru"
+        "ob80-dru",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil y Kaladin hablan de su relación con Dru."
     },
     {
       "id": "ob80-fact-lyn-7",
       "characterId": "lyn",
       "kind": "background",
-      "text": "Quiere entrenarse para combatir; acepta la posibilidad de una prueba, sin que esto la convierta ya en Radiante.",
+      "text": "Quiere combatir en lugar de trabajar como escriba; se ofrece la posibilidad de una prueba.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Quiere combatir en lugar de trabajar como escriba; se ofrece la posibilidad de una prueba."
     },
     {
       "id": "ob80-fact-sigzil-8",
       "characterId": "sigzil",
       "kind": "background",
-      "text": "Asume tareas de organización y cuenta que no superó los exámenes de erudito en Azir.",
+      "text": "Lleva la organización y recuerda que no aprobó los exámenes en Azir.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Lleva la organización y recuerda que no aprobó los exámenes en Azir."
     },
     {
       "id": "ob80-fact-kaladin-9",
       "characterId": "kaladin",
       "kind": "background",
-      "text": "Obtiene con Sigzil las esmeraldas para las prácticas de sus hombres.",
+      "text": "Recoge esmeraldas de la reserva real para el entrenamiento.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Recoge esmeraldas de la reserva real para el entrenamiento."
     },
     {
       "id": "ob80-fact-heb-10",
@@ -63607,46 +63753,52 @@ window.ATLAS_DATA = {
       "id": "ob80-fact-fen-13",
       "characterId": "fen",
       "kind": "background",
-      "text": "Participa en la visión ocupando el papel de Heb; eso no la convierte en familiar de Taffa o Seeli.",
+      "text": "Ocupa el papel de Heb en la recreación. Los papeles de la visión no crean vínculos familiares.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-34"
       },
       "sourceIds": [
-        "ob80-34"
+        "ob80-34",
+        "primary198-ob34"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Ocupa el papel de Heb en la recreación. Los papeles de la visión no crean vínculos familiares."
     },
     {
       "id": "ob80-fact-taffa-14",
       "characterId": "taffa",
       "kind": "background",
-      "text": "En esta versión de la visión Dalinar encuentra su cuerpo. No confirma el destino histórico real ni cambia una muerte en el presente.",
+      "text": "Dalinar encuentra su cadáver en esta versión de la visión. Su destino histórico queda sin confirmar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-34"
       },
       "sourceIds": [
-        "ob80-taffa"
+        "ob80-taffa",
+        "primary198-ob34"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Dalinar encuentra su cadáver en esta versión de la visión. Su destino histórico queda sin confirmar."
     },
     {
       "id": "ob80-fact-seeli-15",
       "characterId": "seeli",
       "kind": "background",
-      "text": "Sobrevive a esta versión de la visión; su destino histórico real permanece sin confirmar.",
+      "text": "Fen la reúne con los niños cerca del fuego. La suerte histórica de Seeli sigue abierta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-34"
       },
       "sourceIds": [
-        "ob80-seeli"
+        "ob80-seeli",
+        "primary198-ob34"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Fen la reúne con los niños cerca del fuego. La suerte histórica de Seeli sigue abierta."
     },
     {
       "id": "ob81-fact-gift-0",
@@ -63742,76 +63894,86 @@ window.ATLAS_DATA = {
       "id": "ob81-fact-evi-6",
       "characterId": "evi",
       "kind": "background",
-      "text": "Está embarazada en el recuerdo de Kholinar, veinticuatro años antes.",
+      "text": "Está embarazada en el recuerdo, situado veinticuatro años antes.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
       },
       "sourceIds": [
-        "ob81-reread"
+        "ob81-reread",
+        "primary198-ob36"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Está embarazada en el recuerdo, situado veinticuatro años antes."
     },
     {
       "id": "ob81-fact-dalinar-7",
       "characterId": "dalinar",
       "kind": "background",
-      "text": "Reconoce que dejó vivir al hijo de Tanalan.",
+      "text": "Dice que devolvió al hijo de Tanalan a su madre y le pidió que lo escondiera.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
       },
       "sourceIds": [
-        "ob81-summary"
+        "ob81-summary",
+        "primary198-ob36"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Dice que devolvió al hijo de Tanalan a su madre y le pidió que lo escondiera."
     },
     {
       "id": "ob81-fact-tanalan-younger-8",
       "characterId": "tanalan-younger",
       "kind": "background",
-      "text": "Sobrevivió al encuentro del antiguo recuerdo de Rathalas; el informe de su muerte era incorrecto. No se acredita aquí su presencia física en la sala.",
+      "text": "Dalinar confirma que lo dejó con vida. Gavilar trae noticias del regreso del heredero.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
       },
       "sourceIds": [
-        "ob81-summary"
+        "ob81-summary",
+        "primary198-ob36"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Dalinar confirma que lo dejó con vida. Gavilar trae noticias del regreso del heredero."
     },
     {
       "id": "ob81-fact-hathan-9",
       "characterId": "hathan",
       "kind": "background",
-      "text": "Anuncia la visita de Gavilar en las dependencias de Dalinar.",
+      "text": "Mayordomo de Dalinar que anuncia la llegada de Gavilar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
       },
       "sourceIds": [
-        "ob81-hathan"
+        "ob81-hathan",
+        "primary198-ob36"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Mayordomo de Dalinar que anuncia la llegada de Gavilar."
     },
     {
       "id": "ob81-fact-shishi-10",
       "characterId": "shishi",
       "kind": "background",
-      "text": "Evi lo cita al hablar de los spren; su identidad queda sin resolver.",
+      "text": "Evi atribuye a Shishi el misterio de los llamaspren, sin identificarlo más.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-36"
       },
       "sourceIds": [
-        "ob81-shishi"
+        "ob81-shishi",
+        "primary198-ob36"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Evi atribuye a Shishi el misterio de los llamaspren, sin identificarlo más."
     },
     {
       "id": "ob81-fact-tuaka-11",
@@ -65096,17 +65258,19 @@ window.ATLAS_DATA = {
       "id": "ob86-fact-bisig-18",
       "characterId": "bisig",
       "kind": "background",
-      "text": "Sigzil menciona sus planes próximos de compromiso; la persona no está identificada ni se confirma boda.",
+      "text": "Sigzil cree que está a punto de comprometerse; no nombra a la otra persona.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
         "ob86-bisig",
-        "ob80-35"
+        "ob80-35",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil cree que está a punto de comprometerse; no nombra a la otra persona."
     },
     {
       "id": "ob86-fact-bisig-19",
@@ -65642,16 +65806,18 @@ window.ATLAS_DATA = {
       "id": "review87-fact-punio-ob-chapter-35-42",
       "characterId": "punio",
       "kind": "background",
-      "text": "La mujer con quien hablaba es su esposa; la había presentado como hermana. No se registra una hermana distinta por esa afirmación.",
+      "text": "Sigzil identifica a la mujer que le trae comida como su esposa. Kaladin había creído que era su hermana.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-35"
       },
       "sourceIds": [
-        "audit87-source-0ea9e1abcc756a"
+        "audit87-source-0ea9e1abcc756a",
+        "primary198-ob35"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Sigzil identifica a la mujer que le trae comida como su esposa. Kaladin había creído que era su hermana."
     },
     {
       "id": "review87-fact-tearim-wor-prologue-43",
@@ -91115,6 +91281,10 @@ window.ATLAS_DATA = {
         {
           "revision": 197,
           "notes": "Se confirman el abuelo de Puuli, los matrimonios de Sakin, los hijos y la hermana de Hema-Dak, los padres de Ellista y que Demid fue compañero de Venli."
+        },
+        {
+          "revision": 198,
+          "notes": "Se confirma el compromiso de Peet y Ka, el matrimonio de Punio y los vínculos relatados de Sigzil y Drehy. El compromiso de Bisig sigue pendiente. En OB36 se confirma la supervivencia del heredero de Tanalan y se registra la declaración sobre su madre. La visión de Fen no crea vínculos de parentesco."
         }
       ]
     }
@@ -92189,12 +92359,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-chapter-36"
       },
       "sourceIds": [
-        "ob81-summary"
+        "ob81-summary",
+        "primary198-ob36"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Corrige el informe de muerte conocido desde OB11; conserva el registro antiguo para lecturas anteriores."
-      ]
+        "Dalinar admite que perdonó al heredero y Gavilar informa de su regreso. El informe anterior de su muerte sigue visible hasta esta revelación."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Dalinar admite que perdonó al heredero y Gavilar informa de su regreso. El informe anterior de su muerte sigue visible hasta esta revelación."
     },
     {
       "id": "ob81-life-tifi",
@@ -93917,6 +94089,23 @@ window.ATLAS_DATA = {
       "notes": [
         "Herida grave, no muerte. El capítulo termina conLift bajando para curarla, sin narrar aún el acto de curación."
       ]
+    },
+    {
+      "status": "confirmed",
+      "sourceIds": [
+        "primary198-ob36"
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Dalinar recuerda al padre muerto en el refugio de Rathalas.",
+      "id": "primary198-tanalan-elder-dead",
+      "characterId": "tanalan-elder",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-36"
+      },
+      "notes": [
+        "Dalinar recuerda al padre muerto en el refugio de Rathalas."
+      ]
     }
   ],
   "bookId": "wok",
@@ -93947,7 +94136,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 197,
+  "revision": 198,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -97090,12 +97279,15 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Pueblo antiguo sin localizar, dentro de una visión compartida",
       "physicalPlaceId": "place-urithiru-dalinar-rooms",
       "sourceIds": [
-        "ob80-34"
+        "ob80-34",
+        "primary198-ob34"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
+        "Dalinar entra en el espacio preliminar imaginado por el Padre Tormenta y luego interpreta a un Radiante en la recreación.",
         "Los papeles históricos se distinguen de los participantes actuales. No constituye viaje físico ni entrada en Shadesmar. El espacio previo imaginado por el Padre Tormenta tampoco se clasifica como Shadesmar."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Dalinar entra en el espacio preliminar imaginado por el Padre Tormenta y luego interpreta a un Radiante en la recreación.",
       "entryAnchor": {
         "placeId": "place-urithiru-dalinar-rooms",
         "name": "Urithiru · Dependencias de Dalinar",
@@ -97114,12 +97306,15 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Pueblo antiguo sin localizar, dentro de una visión compartida",
       "physicalPlaceId": "place-ob-fen-vision-body-unknown",
       "sourceIds": [
-        "ob80-34"
+        "ob80-34",
+        "primary198-ob34"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
+        "Fen ocupa el papel de Heb dentro de la recreación; organiza a los habitantes y protege a los niños.",
         "Los papeles históricos se distinguen de los participantes actuales. No constituye viaje físico ni entrada en Shadesmar. El espacio previo imaginado por el Padre Tormenta tampoco se clasifica como Shadesmar."
       ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Fen ocupa el papel de Heb dentro de la recreación; organiza a los habitantes y protege a los niños.",
       "entryAnchor": {
         "placeId": "place-ob-fen-vision-body-unknown",
         "name": "Ubicación física de Fen durante la visión, sin precisar",
@@ -110806,12 +111001,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -110828,11 +111024,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Hace ejercicios y escucha a Sigzil en sus habitaciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hace ejercicios y escucha a Sigzil en sus habitaciones."
+          ]
         },
         {
           "id": "ob80-kaladin-35-3",
@@ -110853,12 +111049,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -110875,11 +111072,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Camina con Sigzil y habla con Lyn sobre incorporarse al grupo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Camina con Sigzil y habla con Lyn sobre incorporarse al grupo."
+          ]
         },
         {
           "id": "ob80-kaladin-35-4",
@@ -110900,12 +111097,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -110922,11 +111120,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Recoge las esmeraldas destinadas a dar luz tormentosa para la práctica.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recoge las esmeraldas destinadas a dar luz tormentosa para la práctica."
+          ]
         },
         {
           "id": "ob81-kaladin-37-1",
@@ -124669,12 +124867,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-33",
           "sourceIds": [
-            "ob80-33"
+            "ob80-33",
+            "primary198-ob33"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124691,11 +124890,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-33"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml. Dibuja la columna de gemas mientras habla con Jasnah en la cámara inferior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dibuja la columna de gemas mientras habla con Jasnah en la cámara inferior."
+          ]
         },
         {
           "id": "ob83-shallan-39-1",
@@ -126256,12 +126455,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-33",
           "sourceIds": [
-            "ob80-33"
+            "ob80-33",
+            "primary198-ob33"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -126278,11 +126478,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-33"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/33.Unaleccion.xhtml. Examina la columna y pide a Shallan un boceto preciso.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina la columna y pide a Shallan un boceto preciso."
+          ]
         },
         {
           "id": "ob83-jasnah-38-1",
@@ -140565,12 +140765,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "vision",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-34",
           "sourceIds": [
-            "ob80-34"
+            "ob80-34",
+            "primary198-ob34"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -140587,12 +140788,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-34"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Recibe la visión del Padre Tormenta; su ubicación física permanece en Urithiru.",
+          "needsConfirmation": [],
           "notes": [
-            "Referencia física conservadora en la torre; la sala exacta queda pendiente de cotejo. El pueblo de la visión no se calibra en Roshar."
+            "Recibe la visión del Padre Tormenta; su ubicación física permanece en Urithiru."
           ]
         },
         {
@@ -140614,12 +140813,13 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-hathan",
           "sourceIds": [
-            "ob81-hathan"
+            "ob81-hathan",
+            "primary198-ob36"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -140636,11 +140836,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-36"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Se calienta junto al fuego y habla con Evi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se calienta junto al fuego y habla con Evi."
+          ]
         },
         {
           "id": "ob81-dalinar-36-2",
@@ -140661,12 +140861,13 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-hathan",
           "sourceIds": [
-            "ob81-hathan"
+            "ob81-hathan",
+            "primary198-ob36"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -140683,12 +140884,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-36"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Entra en la sala de estar y admite que dejó con vida al hijo de Tanalan.",
+          "needsConfirmation": [],
           "notes": [
-            "No se coloca a Adolin como token corporal separado durante el embarazo."
+            "Entra en la sala de estar y admite que dejó con vida al hijo de Tanalan."
           ]
         },
         {
@@ -161986,6 +162185,51 @@ window.ATLAS_DATA = {
           ]
         },
         {
+          "id": "primary198-rock-breakfast",
+          "scene": "ob-chapter-35",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala común del Puente Cuatro",
+          "placeId": "place-urithiru-bridge4-common",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary198-ob35",
+          "sourceIds": [
+            "primary198-ob35"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only"
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-35"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Roca toca la campana del desayuno y ríe cerca de Sigzil y Lopen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Roca toca la campana del desayuno y ríe cerca de Sigzil y Lopen."
+          ]
+        },
+        {
           "id": "ob81-rock-37-1",
           "scene": "ob-chapter-37",
           "retrospective": false,
@@ -175314,12 +175558,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -175336,11 +175581,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Practica adherido al techo mientras intenta comer gachas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Practica adherido al techo mientras intenta comer gachas."
+          ]
         },
         {
           "id": "ob81-lopen-37-1",
@@ -176700,12 +176945,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -176722,11 +176968,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Entra en la sala común durante el desayuno y se encuentra con Lopen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la sala común durante el desayuno y se encuentra con Lopen."
+          ]
         },
         {
           "id": "ob80-sigzil-35-2",
@@ -176747,12 +176993,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -176769,11 +177016,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Visita a Kaladin y consulta su lista de asuntos del batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Visita a Kaladin y consulta su lista de asuntos del batallón."
+          ]
         },
         {
           "id": "ob80-sigzil-35-3",
@@ -176794,12 +177041,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -176816,11 +177064,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Camina con Kaladin cuando se les acerca Lyn.",
+          "needsConfirmation": [],
+          "notes": [
+            "Camina con Kaladin cuando se les acerca Lyn."
+          ]
         },
         {
           "id": "ob80-sigzil-35-4",
@@ -176841,12 +177089,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -176863,11 +177112,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Acompaña a Kaladin a recoger las esmeraldas de la reserva real.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Kaladin a recoger las esmeraldas de la reserva real."
+          ]
         },
         {
           "id": "ob81-sigzil-37-1",
@@ -222511,12 +222760,13 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-hathan",
           "sourceIds": [
-            "ob81-hathan"
+            "ob81-hathan",
+            "primary198-ob36"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -222533,12 +222783,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-36"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Espera en la sala de estar con papeles sobre Rathalas.",
+          "needsConfirmation": [],
           "notes": [
-            "No se coloca a Adolin como token corporal separado durante el embarazo."
+            "Espera en la sala de estar con papeles sobre Rathalas."
           ]
         }
       ]
@@ -226751,12 +226999,13 @@ window.ATLAS_DATA = {
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-35",
           "sourceIds": [
-            "ob80-35"
+            "ob80-35",
+            "primary198-ob35"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -226773,11 +227022,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-35"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/35.Primeroenllegar.xhtml. Se reúne con Kaladin y Sigzil y aclara que quiere aprender a combatir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Kaladin y Sigzil y aclara que quiere aprender a combatir."
+          ]
         },
         {
           "id": "ob86-obs-19-lyn",
@@ -227735,12 +227984,13 @@ window.ATLAS_DATA = {
           ],
           "xy": null,
           "kind": "vision",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob80-34",
           "sourceIds": [
-            "ob80-34"
+            "ob80-34",
+            "primary198-ob34"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-ob-fen-vision-body-unknown",
@@ -227757,12 +228007,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-34"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejo primario y precisión espacial pendientes."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/34.Resistencia.xhtml. Recibe la visión mientras la alta tormenta pasa por su ciudad. El capítulo no precisa dónde está su cuerpo dentro de la ciudad.",
+          "needsConfirmation": [],
           "notes": [
-            "El pueblo de la visión no localiza su cuerpo. No se presupone llegada a Urithiru ni a Thaylen."
+            "Recibe la visión mientras la alta tormenta pasa por su ciudad. El capítulo no precisa dónde está su cuerpo dentro de la ciudad."
           ]
         }
       ]
@@ -229749,12 +229997,13 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-hathan",
           "sourceIds": [
-            "ob81-hathan"
+            "ob81-hathan",
+            "primary198-ob36"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -229771,11 +230020,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-36"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Habla con Dalinar mientras observan los llamaspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Dalinar mientras observan los llamaspren."
+          ]
         },
         {
           "id": "ob81-evi-36-2",
@@ -229796,12 +230045,13 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-hathan",
           "sourceIds": [
-            "ob81-hathan"
+            "ob81-hathan",
+            "primary198-ob36"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -229818,12 +230068,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-36"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Entra en la sala y escucha a Dalinar y Gavilar.",
+          "needsConfirmation": [],
           "notes": [
-            "No se coloca a Adolin como token corporal separado durante el embarazo."
+            "Entra en la sala y escucha a Dalinar y Gavilar."
           ]
         }
       ]
@@ -237394,12 +237642,13 @@ window.ATLAS_DATA = {
             344.038
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob81-hathan",
           "sourceIds": [
-            "ob81-hathan"
+            "ob81-hathan",
+            "primary198-ob36"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-kholinar-ciudad",
@@ -237416,11 +237665,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-36"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar texto, traducción, secuencia y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/36.Heroe.xhtml. Anuncia a Gavilar desde el otro lado de la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Anuncia a Gavilar desde el otro lado de la puerta."
+          ]
         }
       ]
     },
