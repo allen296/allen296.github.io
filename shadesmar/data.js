@@ -3135,8 +3135,7 @@ window.ATLAS_DATA = {
       "ellista-father",
       "ellista-mother",
       "fiksin",
-      "urv",
-      "urv-patron"
+      "urv"
     ],
     "ob-interlude-3": [
       "demid",
@@ -11370,6 +11369,74 @@ window.ATLAS_DATA = {
         "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Acuden como cintas luminosas alrededor del brazo de Kaladin cuando desvía el viento.",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Acuden como cintas luminosas alrededor del brazo de Kaladin cuando desvía el viento.",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli le ofrece fruta en el faro. Le atribuye la formación de los acantilados como parte de su creencia.",
+        "sourceIds": [
+          "primary197-ob-i1"
+        ],
+        "id": "primary197-interlude-archive-0",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Puuli le ofrece fruta en el faro. Le atribuye la formación de los acantilados como parte de su creencia.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-1"
+        },
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Flotan cerca del tocón donde Ellista lee en el bosque.",
+        "sourceIds": [
+          "primary197-ob-i2"
+        ],
+        "id": "primary197-interlude-archive-1",
+        "entryId": "spren-type-lifespren",
+        "field": "appearance",
+        "value": "Flotan cerca del tocón donde Ellista lee en el bosque.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-2"
+        },
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Desciende por la piedra como un relámpago y después adopta una forma humana.",
+        "sourceIds": [
+          "primary197-ob-i3"
+        ],
+        "id": "primary197-interlude-archive-2",
+        "entryId": "spren-person-ulim",
+        "field": "appearance",
+        "value": "Desciende por la piedra como un relámpago y después adopta una forma humana.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-3"
+        },
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Venli lo ve asomar debajo del cadáver de Eshonai. Deja anillos y una estela blanca; su identidad no se revela.",
+        "sourceIds": [
+          "primary197-ob-i3"
+        ],
+        "id": "primary197-interlude-archive-3",
+        "entryId": "spren-person-white-comet-spren",
+        "field": "appearance",
+        "value": "Venli lo ve asomar debajo del cadáver de Eshonai. Deja anillos y una estela blanca; su identidad no se revela.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-3"
+        },
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -16405,22 +16472,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "No se conoce si es abuelo paterno o materno. No inventar la generación intermedia."
+        "Puuli recuerda las advertencias de su abuelo."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto grandparent: Abuelo → nieto. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Puuli"
-        ]
-      }
+        "reason": "Puuli recuerda las advertencias de su abuelo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli recuerda las advertencias de su abuelo."
     },
     {
       "id": "ob78-rel-sakin-sakin-husband-1",
@@ -16434,22 +16500,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "former",
       "supersedes": [],
       "notes": [
-        "Esposo sin nombre; los tres matrimonios se distinguen sin fijar fecha."
+        "El narrador cuenta que Sakin perdió tres maridos en el mar."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio anterior 1. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Sakin"
-        ]
-      }
+        "reason": "El narrador cuenta que Sakin perdió tres maridos en el mar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. El narrador cuenta que Sakin perdió tres maridos en el mar."
     },
     {
       "id": "ob78-rel-sakin-sakin-husband-2",
@@ -16463,22 +16528,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "former",
       "supersedes": [],
       "notes": [
-        "Esposo sin nombre; los tres matrimonios se distinguen sin fijar fecha."
+        "El narrador cuenta que Sakin perdió tres maridos en el mar."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio anterior 2. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Sakin"
-        ]
-      }
+        "reason": "El narrador cuenta que Sakin perdió tres maridos en el mar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. El narrador cuenta que Sakin perdió tres maridos en el mar."
     },
     {
       "id": "ob78-rel-sakin-sakin-husband-3",
@@ -16492,22 +16556,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "former",
       "supersedes": [],
       "notes": [
-        "Esposo sin nombre; los tres matrimonios se distinguen sin fijar fecha."
+        "El narrador cuenta que Sakin perdió tres maridos en el mar."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto spouse: Matrimonio anterior 3. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Sakin"
-        ]
-      }
+        "reason": "El narrador cuenta que Sakin perdió tres maridos en el mar."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. El narrador cuenta que Sakin perdió tres maridos en el mar."
     },
     {
       "id": "ob78-rel-hema-dak-hema-dak-children",
@@ -16521,22 +16584,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Grupo de hijos sin número ni nombres especificados."
+        "Puuli cuida a los hijos de Hema-Dak."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → hijos. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://stormlightarchive.fandom.com/wiki/Puuli"
-        ]
-      }
+        "reason": "Puuli cuida a los hijos de Hema-Dak."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli cuida a los hijos de Hema-Dak."
     },
     {
       "id": "ob78-rel-hema-dak-hema-dak-sister",
@@ -16550,22 +16612,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Se menciona a la hermana enferma; no se representa como si estuviera con Puuli."
+        "Hema-Dak lleva caldo a su hermana enferma."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto sibling: Hermanas. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://stormlightarchive.fandom.com/wiki/Puuli"
-        ]
-      }
+        "reason": "Hema-Dak lleva caldo a su hermana enferma."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Hema-Dak lleva caldo a su hermana enferma."
     },
     {
       "id": "ob78-rel-ellista-father-ellista",
@@ -16579,20 +16640,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ellista recuerda las bromas de sus padres sobre su cabeza rapada."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Padre → hija. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Ellista"
-        ]
-      }
+        "reason": "Ellista recuerda las bromas de sus padres sobre su cabeza rapada."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Ellista recuerda las bromas de sus padres sobre su cabeza rapada."
     },
     {
       "id": "ob78-rel-ellista-mother-ellista",
@@ -16606,20 +16668,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Ellista recuerda las bromas de sus padres sobre su cabeza rapada."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto parent: Madre → hija. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Ellista"
-        ]
-      }
+        "reason": "Ellista recuerda las bromas de sus padres sobre su cabeza rapada."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Ellista recuerda las bromas de sus padres sobre su cabeza rapada."
     },
     {
       "id": "ob78-rel-ellista-urv",
@@ -16634,23 +16697,21 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-ellista",
-        "ob78-urv"
+        "ob78-urv",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "No implica noviazgo ni matrimonio."
+        "Ambos investigan el Canto del alba y Urv le pide ayuda."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Intercambio de ayuda y lectura. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://es.coppermind.net/wiki/Ellista",
-          "https://coppermind.net/wiki/Urv"
-        ]
-      }
+        "reason": "Ambos investigan el Canto del alba y Urv le pide ayuda."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Ambos investigan el Canto del alba y Urv le pide ayuda."
     },
     {
       "id": "ob78-rel-urv-patron-urv",
@@ -16664,22 +16725,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-urv"
+        "ob78-urv",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
+      "status": "rejected",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Patrono sin nombre; no identificarlo con Taravangian por comentarios o revelaciones posteriores."
+        "Urv menciona un encargo con plazo estricto. El pasaje no identifica a quien se lo encargó ni prueba un vínculo laboral."
       ],
       "networkEvidence": {
-        "kind": "relationship",
-        "reason": "Vínculo concreto employer: Encargo de traducción. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Urv"
-        ]
-      }
+        "kind": "uncertain",
+        "reason": "Urv menciona un encargo con plazo estricto. El pasaje no identifica a quien se lo encargó ni prueba un vínculo laboral."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml"
     },
     {
       "id": "ob78-rel-venli-ulim",
@@ -16693,22 +16753,21 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-3"
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "Hay desacuerdo sobre el propósito de la búsqueda; no afirma vínculo Nahel."
+        "Venli recuerda sus reuniones secretas con Ulim para impulsar la forma tormenta."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Búsqueda bajo sus instrucciones. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-interludes-one-two-and-three/"
-        ]
-      }
+        "reason": "Venli recuerda sus reuniones secretas con Ulim para impulsar la forma tormenta."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Venli recuerda sus reuniones secretas con Ulim para impulsar la forma tormenta."
     },
     {
       "id": "ob80-rel-peet-ka-partner",
@@ -26374,6 +26433,33 @@ window.ATLAS_DATA = {
         "kind": "relationship",
         "reason": "La narración lo identifica como capitán de la guardia de Roshone."
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Venli recuerda a Demid como su antiguo compañero de forma carnal.",
+      "sourceIds": [
+        "primary197-ob-i3"
+      ],
+      "id": "primary197-venli-demid-former",
+      "from": "venli",
+      "to": "demid",
+      "kind": "partner",
+      "category": "social",
+      "label": "Antiguos compañeros",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-3"
+      },
+      "certainty": "stated",
+      "state": "former",
+      "supersedes": [],
+      "notes": [
+        "Venli recuerda a Demid como su antiguo compañero de forma carnal."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Venli recuerda a Demid como su antiguo compañero de forma carnal."
+      }
     }
   ],
   "interactions": [
@@ -34878,7 +34964,7 @@ window.ATLAS_DATA = {
         "palona"
       ],
       "type": "conversation",
-      "summary": "Conversan sobre Re-Shephir.",
+      "summary": "Palona ofrece infusión a Shallan y ambas hablan de Re-Shephir.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-32"
@@ -34888,13 +34974,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary197-ob32"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Conversan sobre Re-Shephir. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Palona ofrece infusión a Shallan y ambas hablan de Re-Shephir.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
         ],
@@ -34904,7 +34991,8 @@ window.ATLAS_DATA = {
             "palona"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Palona ofrece infusión a Shallan y ambas hablan de Re-Shephir."
     },
     {
       "id": "ob76-interaction-32-7",
@@ -34913,7 +35001,7 @@ window.ATLAS_DATA = {
         "adolin"
       ],
       "type": "conversation",
-      "summary": "Adolin anuncia una llegada.",
+      "summary": "Adolin habla con Shallan y le anuncia una llegada a Urithiru.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-32"
@@ -34923,13 +35011,14 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary197-ob32"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Adolin anuncia una llegada. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Adolin habla con Shallan y le anuncia una llegada a Urithiru.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
         ],
@@ -34939,7 +35028,8 @@ window.ATLAS_DATA = {
             "adolin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Adolin habla con Shallan y le anuncia una llegada a Urithiru."
     },
     {
       "id": "ob76-interaction-32-8",
@@ -34948,7 +35038,7 @@ window.ATLAS_DATA = {
         "jasnah"
       ],
       "type": "encounter",
-      "summary": "Jasnah entra en la sala donde está Shallan.",
+      "summary": "Shallan ve entrar a Jasnah. El capítulo termina antes de que intercambien palabras.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-32"
@@ -34958,23 +35048,16 @@ window.ATLAS_DATA = {
         "note": "Interacción explícita; no deducida por compartir ciudad."
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary197-ob32"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
-        "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Jasnah entra en la sala donde está Shallan. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-by-brandon-sanderson-chapters-31-32/"
-        ],
-        "pairs": [
-          [
-            "shallan",
-            "jasnah"
-          ]
-        ]
-      }
+        "kind": "mention-only",
+        "reason": "Shallan ve entrar a Jasnah. El capítulo termina antes de que intercambien palabras."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Shallan ve entrar a Jasnah. El capítulo termina antes de que intercambien palabras."
     },
     {
       "id": "ob78-interaction-1-0",
@@ -34983,7 +35066,7 @@ window.ATLAS_DATA = {
         "sakin"
       ],
       "type": "cooperation",
-      "summary": "Le presta ayuda durante la ronda posterior a la tormenta.",
+      "summary": "Puuli habla con Sakin mientras ella llora.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
@@ -34994,13 +35077,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-puuli",
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Le presta ayuda durante la ronda posterior a la tormenta. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Puuli habla con Sakin mientras ella llora.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Puuli",
           "https://stormlightarchive.fandom.com/wiki/Puuli"
@@ -35011,7 +35095,8 @@ window.ATLAS_DATA = {
             "sakin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli habla con Sakin mientras ella llora."
     },
     {
       "id": "ob78-interaction-1-1",
@@ -35020,7 +35105,7 @@ window.ATLAS_DATA = {
         "au-lam"
       ],
       "type": "cooperation",
-      "summary": "Le presta ayuda durante la ronda posterior a la tormenta.",
+      "summary": "Puuli ayuda a Au-lam a despejar el granero.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
@@ -35031,13 +35116,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-puuli",
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Le presta ayuda durante la ronda posterior a la tormenta. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Puuli ayuda a Au-lam a despejar el granero.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Puuli",
           "https://stormlightarchive.fandom.com/wiki/Puuli"
@@ -35048,7 +35134,8 @@ window.ATLAS_DATA = {
             "au-lam"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli ayuda a Au-lam a despejar el granero."
     },
     {
       "id": "ob78-interaction-1-2",
@@ -35057,7 +35144,7 @@ window.ATLAS_DATA = {
         "hema-dak"
       ],
       "type": "cooperation",
-      "summary": "Le presta ayuda durante la ronda posterior a la tormenta.",
+      "summary": "Puuli cuida a los hijos de Hema-Dak.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
@@ -35068,13 +35155,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-puuli",
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Le presta ayuda durante la ronda posterior a la tormenta. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Puuli cuida a los hijos de Hema-Dak.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Puuli",
           "https://stormlightarchive.fandom.com/wiki/Puuli"
@@ -35085,7 +35173,8 @@ window.ATLAS_DATA = {
             "hema-dak"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli cuida a los hijos de Hema-Dak."
     },
     {
       "id": "ob78-interaction-1-3",
@@ -35094,7 +35183,7 @@ window.ATLAS_DATA = {
         "drummer-brothers"
       ],
       "type": "cooperation",
-      "summary": "Le presta ayuda durante la ronda posterior a la tormenta.",
+      "summary": "Puuli ayuda a los hermanos Tambor a recuperar una vela.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
@@ -35105,13 +35194,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-puuli",
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Le presta ayuda durante la ronda posterior a la tormenta. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Puuli ayuda a los hermanos Tambor a recuperar una vela.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Puuli",
           "https://stormlightarchive.fandom.com/wiki/Puuli"
@@ -35122,7 +35212,8 @@ window.ATLAS_DATA = {
             "drummer-brothers"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli ayuda a los hermanos Tambor a recuperar una vela."
     },
     {
       "id": "ob78-interaction-2-4",
@@ -35131,7 +35222,7 @@ window.ATLAS_DATA = {
         "urv"
       ],
       "type": "conversation",
-      "summary": "Revisan traducciones e intercambian ayuda por un libro.",
+      "summary": "Discuten el Canto del alba. Urv ofrece prestarle la secuela a cambio de ayuda con un pasaje difícil.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
@@ -35142,13 +35233,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-ellista",
-        "ob78-urv"
+        "ob78-urv",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Revisan traducciones e intercambian ayuda por un libro. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Discuten el Canto del alba. Urv ofrece prestarle la secuela a cambio de ayuda con un pasaje difícil.",
         "sourceUrls": [
           "https://es.coppermind.net/wiki/Ellista",
           "https://coppermind.net/wiki/Urv"
@@ -35159,7 +35251,8 @@ window.ATLAS_DATA = {
             "urv"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Discuten el Canto del alba. Urv ofrece prestarle la secuela a cambio de ayuda con un pasaje difícil."
     },
     {
       "id": "ob78-interaction-3-5",
@@ -35168,7 +35261,7 @@ window.ATLAS_DATA = {
         "ulim"
       ],
       "type": "conversation",
-      "summary": "Discuten la búsqueda y la recuperación de la armadura.",
+      "summary": "Discuten la recuperación de la armadura y la hoja.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
@@ -35178,13 +35271,14 @@ window.ATLAS_DATA = {
         "note": "Interacción narrada en el interludio; no deducida de compartir anclaje regional."
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Discuten la búsqueda y la recuperación de la armadura. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Discuten la recuperación de la armadura y la hoja.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-interludes-one-two-and-three/"
         ],
@@ -35194,7 +35288,8 @@ window.ATLAS_DATA = {
             "ulim"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Discuten la recuperación de la armadura y la hoja."
     },
     {
       "id": "ob78-interaction-3-6",
@@ -35203,7 +35298,7 @@ window.ATLAS_DATA = {
         "ulim"
       ],
       "type": "conversation",
-      "summary": "Demid pregunta por los antepasados.",
+      "summary": "Demid pregunta por los antepasados y Ulim responde.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
@@ -35213,13 +35308,14 @@ window.ATLAS_DATA = {
         "note": "Interacción narrada en el interludio; no deducida de compartir anclaje regional."
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Demid pregunta por los antepasados. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Demid pregunta por los antepasados y Ulim responde.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-interludes-one-two-and-three/"
         ],
@@ -35229,7 +35325,8 @@ window.ATLAS_DATA = {
             "ulim"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Demid pregunta por los antepasados y Ulim responde."
     },
     {
       "id": "ob78-interaction-3-7",
@@ -35238,7 +35335,7 @@ window.ATLAS_DATA = {
         "white-comet-spren"
       ],
       "type": "encounter",
-      "summary": "Ve al pequeño spren y lo aparta.",
+      "summary": "Venli se dirige al spren que asoma bajo Eshonai y le ordena apartarse.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
@@ -35248,13 +35345,14 @@ window.ATLAS_DATA = {
         "note": "Interacción narrada en el interludio; no deducida de compartir anclaje regional."
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ve al pequeño spren y lo aparta. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Venli se dirige al spren que asoma bajo Eshonai y le ordena apartarse.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-interludes-one-two-and-three/"
         ],
@@ -35264,7 +35362,8 @@ window.ATLAS_DATA = {
             "white-comet-spren"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Venli se dirige al spren que asoma bajo Eshonai y le ordena apartarse."
     },
     {
       "id": "ob80-interaction-0",
@@ -57847,6 +57946,70 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli habla con la capitana sobre el naufragio y el mástil que sigue visible.",
+      "sourceIds": [
+        "primary197-ob-i1"
+      ],
+      "id": "primary197-puuli-captain",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-1"
+      },
+      "type": "conversation",
+      "summary": "Puuli habla con la capitana sobre el naufragio y el mástil que sigue visible.",
+      "storyTime": {
+        "frame": "present"
+      },
+      "supersedes": [],
+      "participants": [
+        "puuli",
+        "puuli-foreign-captain"
+      ],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Puuli habla con la capitana sobre el naufragio y el mástil que sigue visible.",
+        "pairs": [
+          [
+            "puuli",
+            "puuli-foreign-captain"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Buscan juntos y discuten sobre las pérdidas antes de retirar la armadura.",
+      "sourceIds": [
+        "primary197-ob-i3"
+      ],
+      "id": "primary197-venli-demid",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-3"
+      },
+      "type": "conversation",
+      "summary": "Buscan juntos y discuten sobre las pérdidas antes de retirar la armadura.",
+      "storyTime": {
+        "frame": "present"
+      },
+      "supersedes": [],
+      "participants": [
+        "venli",
+        "demid"
+      ],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Buscan juntos y discuten sobre las pérdidas antes de retirar la armadura.",
+        "pairs": [
+          [
+            "venli",
+            "demid"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -62677,31 +62840,35 @@ window.ATLAS_DATA = {
       "id": "ob76-fact-jasnah-4",
       "characterId": "jasnah",
       "kind": "background",
-      "text": "Se presenta en la sala de Sebarial en Urithiru.",
+      "text": "Entra en la sala de Sebarial en Urithiru al final del capítulo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-32"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary197-ob32"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Entra en la sala de Sebarial en Urithiru al final del capítulo."
     },
     {
       "id": "ob76-fact-shallan-5",
       "characterId": "shallan",
       "kind": "background",
-      "text": "Cuenta a Palona sus impresiones sobre Re-Shephir; sus conjeturas no prueban que hubiera sido humana.",
+      "text": "Habla con Palona del encuentro. Se pregunta si Re-Shephir fue humana, sin llegar a una conclusión.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-32"
       },
       "sourceIds": [
-        "ob-primary-31-32"
+        "ob-primary-31-32",
+        "primary197-ob32"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Habla con Palona del encuentro. Se pregunta si Re-Shephir fue humana, sin llegar a una conclusión."
     },
     {
       "id": "ob76-fact-revolar-father-6",
@@ -62777,46 +62944,52 @@ window.ATLAS_DATA = {
       "id": "ob78-fact-puuli-0",
       "characterId": "puuli",
       "kind": "background",
-      "text": "Recuerda las advertencias de su abuelo mientras cuida el faro.",
+      "text": "Mantiene el faro Desafío y recuerda el consejo de su abuelo.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Mantiene el faro Desafío y recuerda el consejo de su abuelo."
     },
     {
       "id": "ob78-fact-puuli-grandfather-1",
       "characterId": "puuli-grandfather",
       "kind": "background",
-      "text": "Es abuelo de Puuli; su rama familiar y su nombre no se precisan.",
+      "text": "Abuelo de Puuli. Su nombre y rama familiar siguen abiertos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Abuelo de Puuli. Su nombre y rama familiar siguen abiertos."
     },
     {
       "id": "ob78-fact-sakin-2",
       "characterId": "sakin",
       "kind": "background",
-      "text": "Ha perdido en el mar a tres maridos.",
+      "text": "Perdió a tres maridos en el mar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Perdió a tres maridos en el mar."
     },
     {
       "id": "ob78-fact-hema-dak-3",
@@ -62828,226 +63001,256 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli-community"
+        "ob78-puuli-community",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Tiene hijos y una hermana enferma."
     },
     {
       "id": "ob78-fact-drummer-brothers-4",
       "characterId": "drummer-brothers",
       "kind": "background",
-      "text": "Se nombran como hermanos Tambor; no se individualizan ni se fija aquí cuántos son.",
+      "text": "Recuperan una vela con Puuli. No se precisa cuántos son.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Recuperan una vela con Puuli. No se precisa cuántos son."
     },
     {
       "id": "ob78-fact-ellista-5",
       "characterId": "ellista",
       "kind": "background",
-      "text": "Sus padres bromeaban sobre su afición a llevar el pelo rapado.",
+      "text": "Recuerda las bromas de sus padres sobre su cabeza rapada.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Recuerda las bromas de sus padres sobre su cabeza rapada."
     },
     {
       "id": "ob78-fact-ellista-6",
       "characterId": "ellista",
       "kind": "background",
-      "text": "Su lectura de una novela no sitúa en el monasterio a sus personajes ficticios.",
+      "text": "Lee una novela cuyos personajes incluyen a Wema, Sterling y Vadam.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Lee una novela cuyos personajes incluyen a Wema, Sterling y Vadam."
     },
     {
       "id": "ob78-fact-urv-7",
       "characterId": "urv",
       "kind": "background",
-      "text": "Trabaja para un patrono cuya identidad no se da.",
+      "text": "Pide ayuda con el Fragmento de Covad y menciona que tiene un plazo estricto.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-urv"
+        "ob78-urv",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Pide ayuda con el Fragmento de Covad y menciona que tiene un plazo estricto."
     },
     {
       "id": "ob78-fact-bendthel-8",
       "characterId": "bendthel",
       "kind": "background",
-      "text": "Se estudian sus textos recopilados; no se establece un encuentro con Ellista.",
+      "text": "Recopiló textos del Canto del alba que revisan Ellista y Urv.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Recopiló textos del Canto del alba que revisan Ellista y Urv."
     },
     {
       "id": "ob78-fact-fiksin-9",
       "characterId": "fiksin",
       "kind": "background",
-      "text": "Se discute una teoría suya; no se establece presencia física.",
+      "text": "Propuso que los textos procedían de un lugar común. Ellista discrepa.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Propuso que los textos procedían de un lugar común. Ellista discrepa."
     },
     {
       "id": "ob78-fact-eshonai-10",
       "characterId": "eshonai",
       "kind": "background",
-      "text": "Encuentran su cuerpo en una sima.",
+      "text": "Venli y Demid encuentran su cadáver. Ulim supone que se ahogó.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Venli y Demid encuentran su cadáver. Ulim supone que se ahogó."
     },
     {
       "id": "ob78-fact-venli-11",
       "characterId": "venli",
       "kind": "background",
-      "text": "Reconoce la muerte de su hermana y vuelve a oír un ritmo antiguo.",
+      "text": "Encuentra a su hermana y vuelve a oír el Ritmo de lo Perdido.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Encuentra a su hermana y vuelve a oír el Ritmo de lo Perdido."
     },
     {
       "id": "ob78-fact-ulim-12",
       "characterId": "ulim",
       "kind": "background",
-      "text": "La recuperación de la armadura era el objetivo de la búsqueda.",
+      "text": "Explica que buscaban la armadura y la hoja de Eshonai.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Explica que buscaban la armadura y la hoja de Eshonai."
     },
     {
       "id": "ob78-fact-white-comet-spren-13",
       "characterId": "white-comet-spren",
       "kind": "background",
-      "text": "Se ve salir de debajo del cuerpo. Su nombre y naturaleza siguen sin identificar.",
+      "text": "Surge bajo el cuerpo y deja una estela blanca. Su identidad queda abierta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-3"
       },
       "sourceIds": [
-        "ob78-reread"
+        "ob78-reread",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Surge bajo el cuerpo y deja una estela blanca. Su identidad queda abierta."
     },
     {
       "id": "ob78-fact-sakin-husband-1-14",
       "characterId": "sakin-husband-1",
       "kind": "background",
-      "text": "Marido perdido en el mar.",
+      "text": "Uno de los maridos anteriores perdidos en el mar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Uno de los maridos anteriores perdidos en el mar."
     },
     {
       "id": "ob78-fact-sakin-husband-2-15",
       "characterId": "sakin-husband-2",
       "kind": "background",
-      "text": "Marido perdido en el mar.",
+      "text": "Uno de los maridos anteriores perdidos en el mar.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Uno de los maridos anteriores perdidos en el mar."
     },
     {
       "id": "ob78-fact-sakin-husband-3-16",
       "characterId": "sakin-husband-3",
       "kind": "background",
-      "text": "Marido perdido en la nueva tormenta.",
+      "text": "Marido por el que llora Sakin después de la tormenta.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Marido por el que llora Sakin después de la tormenta."
     },
     {
       "id": "ob78-fact-au-lam-17",
       "characterId": "au-lam",
       "kind": "background",
-      "text": "Vecino del pueblo portuario.",
+      "text": "Puuli le ayuda a despejar el granero.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli le ayuda a despejar el granero."
     },
     {
       "id": "ob78-fact-hema-dak-children-18",
       "characterId": "hema-dak-children",
       "kind": "background",
-      "text": "Puuli cuida de ellos mientras Hema-Dak lleva caldo a su hermana enferma.",
+      "text": "Puuli los cuida mientras su madre lleva caldo a su hermana.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
@@ -63056,101 +63259,115 @@ window.ATLAS_DATA = {
         "ob78-puuli",
         "review88-source-18c4832834d5f3",
         "review88-source-02a5891d6930c4",
-        "review88-source-358f4f4afafa56"
+        "review88-source-358f4f4afafa56",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli los cuida mientras su madre lleva caldo a su hermana."
     },
     {
       "id": "ob78-fact-hema-dak-sister-19",
       "characterId": "hema-dak-sister",
       "kind": "background",
-      "text": "Pariente enferma mencionada.",
+      "text": "Hema-Dak le lleva caldo porque tiene fiebre.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Hema-Dak le lleva caldo porque tiene fiebre."
     },
     {
       "id": "ob78-fact-puuli-foreign-captain-20",
       "characterId": "puuli-foreign-captain",
       "kind": "background",
-      "text": "Navegante sin nombre.",
+      "text": "Capitana extranjera cuyo barco naufragó en la cala.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Capitana extranjera cuyo barco naufragó en la cala."
     },
     {
       "id": "ob78-fact-kelek-puuli-21",
       "characterId": "kelek-puuli",
       "kind": "background",
-      "text": "Figura religiosa mencionada por Puuli.",
+      "text": "Puuli le deja una ofrenda de fruta y le atribuye los acantilados.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-puuli"
+        "ob78-puuli",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Puuli le deja una ofrenda de fruta y le atribuye los acantilados."
     },
     {
       "id": "ob78-fact-bettam-22",
       "characterId": "bettam",
       "kind": "background",
-      "text": "Fervoroso de Jokasha.",
-      "revealedAt": {
-        "bookId": "ob",
-        "sceneId": "ob-interlude-2"
-      },
-      "sourceIds": [
-        "ob78-ellista"
-      ],
-      "status": "pending",
-      "supersedes": []
-    },
-    {
-      "id": "ob78-fact-ellista-father-23",
-      "characterId": "ellista-father",
-      "kind": "background",
-      "text": "Pariente mencionado.",
-      "revealedAt": {
-        "bookId": "ob",
-        "sceneId": "ob-interlude-2"
-      },
-      "sourceIds": [
-        "ob78-ellista"
-      ],
-      "status": "pending",
-      "supersedes": []
-    },
-    {
-      "id": "ob78-fact-ellista-mother-24",
-      "characterId": "ellista-mother",
-      "kind": "background",
-      "text": "Ellista recuerda que sus padres bromeaban con que se hizo ardiente para poder raparse la cabeza.",
+      "text": "Discute si la nueva tormenta los obligará a mudarse.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
         "ob78-ellista",
-        "review88-source-6d25a66a0c0e87"
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Discute si la nueva tormenta los obligará a mudarse."
+    },
+    {
+      "id": "ob78-fact-ellista-father-23",
+      "characterId": "ellista-father",
+      "kind": "background",
+      "text": "Se lo menciona en el recuerdo familiar de Ellista.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-2"
+      },
+      "sourceIds": [
+        "ob78-ellista",
+        "primary197-ob-i2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Se lo menciona en el recuerdo familiar de Ellista."
+    },
+    {
+      "id": "ob78-fact-ellista-mother-24",
+      "characterId": "ellista-mother",
+      "kind": "background",
+      "text": "Se la menciona en el recuerdo familiar de Ellista.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-2"
+      },
+      "sourceIds": [
+        "ob78-ellista",
+        "review88-source-6d25a66a0c0e87",
+        "primary197-ob-i2"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Se la menciona en el recuerdo familiar de Ellista."
     },
     {
       "id": "ob78-fact-urv-patron-25",
@@ -63162,10 +63379,12 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-2"
       },
       "sourceIds": [
-        "ob78-ellista"
+        "ob78-ellista",
+        "primary197-ob-i2"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "rejected",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml"
     },
     {
       "id": "ob80-fact-jasnah-0",
@@ -90892,6 +91111,10 @@ window.ATLAS_DATA = {
         {
           "revision": 196,
           "notes": "Skar tiene una relación de cortejo relatada por Eth, sin nombre de su pareja. Sah nombra a Vai y se confirma el parentesco del padre y el niño de Revolar. El tratamiento de padre de Syl al Padre Tormenta alude a su origen."
+        },
+        {
+          "revision": 197,
+          "notes": "Se confirman el abuelo de Puuli, los matrimonios de Sakin, los hijos y la hermana de Hema-Dak, los padres de Ellista y que Demid fue compañero de Venli."
         }
       ]
     }
@@ -91893,12 +92116,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Pérdida en el mar relatada; no se inventa lugar del naufragio."
-      ]
+        "El narrador refiere que se perdió en el mar. No se presencia su muerte."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. El narrador refiere que se perdió en el mar. No se presencia su muerte."
     },
     {
       "id": "ob78-life-sakin-husband-2",
@@ -91909,12 +92134,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Pérdida en el mar relatada; no se inventa lugar del naufragio."
-      ]
+        "El narrador refiere que se perdió en el mar. No se presencia su muerte."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. El narrador refiere que se perdió en el mar. No se presencia su muerte."
     },
     {
       "id": "ob78-life-sakin-husband-3",
@@ -91925,12 +92152,14 @@ window.ATLAS_DATA = {
         "sceneId": "ob-interlude-1"
       },
       "sourceIds": [
-        "ob78-sakin"
+        "ob78-sakin",
+        "primary197-ob-i1"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Pérdida en el mar relatada; no se inventa lugar del naufragio."
-      ]
+        "El narrador refiere que se perdió en el mar. No se presencia su muerte."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. El narrador refiere que se perdió en el mar. No se presencia su muerte."
     },
     {
       "id": "ob78-life-eshonai",
@@ -91942,12 +92171,14 @@ window.ATLAS_DATA = {
       },
       "sourceIds": [
         "ob78-reread",
-        "ob78-summary"
+        "ob78-summary",
+        "primary197-ob-i3"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "notes": [
-        "Revelación de muerte por el hallazgo del cuerpo; antes de este interludio la caída no confirmaba su destino. La fecha exacta queda pendiente."
-      ]
+        "Demid levanta la celada y confirma la muerte. El ahogamiento es una hipótesis de Ulim."
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Demid levanta la celada y confirma la muerte. El ahogamiento es una hipótesis de Ulim."
     },
     {
       "id": "ob81-tanalan-younger-alive-36",
@@ -93716,7 +93947,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 196,
+  "revision": 197,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -124345,9 +124576,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary197-ob32"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124364,11 +124596,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-32"
           },
-          "locator": "OB32, place-urithiru-sebarial-sitting-room",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Descansa en un sofá y cuenta a Palona sus impresiones sobre Re-Shephir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descansa en un sofá y cuenta a Palona sus impresiones sobre Re-Shephir."
+          ]
         },
         {
           "id": "ob76-shallan-32-2",
@@ -124392,9 +124624,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary197-ob32"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -124411,12 +124644,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-32"
           },
-          "locator": "OB32, place-urithiru-sebarial-sitting-room",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Se incorpora cuando llega Adolin y ve entrar a Jasnah.",
+          "needsConfirmation": [],
           "notes": [
-            "La aparición de Jasnah ocurre en esta sala. Kaladin ha vuelto a la torre, pero no entra en esta escena. Sebarial da la noticia; no se le sitúa aquí por ser propietario de la sala."
+            "Se incorpora cuando llega Adolin y ve entrar a Jasnah."
           ]
         },
         {
@@ -125980,9 +126211,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary197-ob32"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -125999,12 +126231,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-32"
           },
-          "locator": "OB32, place-urithiru-sebarial-sitting-room",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Entra en la sala al frente de varias personas.",
+          "needsConfirmation": [],
           "notes": [
-            "La aparición de Jasnah ocurre en esta sala. Kaladin ha vuelto a la torre, pero no entra en esta escena. Sebarial da la noticia; no se le sitúa aquí por ser propietario de la sala."
+            "Entra en la sala al frente de varias personas."
           ]
         },
         {
@@ -147751,9 +147981,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary197-ob32"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -147770,12 +148001,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-32"
           },
-          "locator": "OB32, place-urithiru-sebarial-sitting-room",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Entra y anuncia que acaba de llegar alguien a la torre.",
+          "needsConfirmation": [],
           "notes": [
-            "La aparición de Jasnah ocurre en esta sala. Kaladin ha vuelto a la torre, pero no entra en esta escena. Sebarial da la noticia; no se le sitúa aquí por ser propietario de la sala."
+            "Entra y anuncia que acaba de llegar alguien a la torre."
           ]
         }
       ]
@@ -196383,12 +196612,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -196405,11 +196635,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Su cadáver yace junto a la pared y la hoja clavada en la piedra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su cadáver yace junto a la pared y la hoja clavada en la piedra."
+          ]
         }
       ]
     },
@@ -196960,12 +197190,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -196982,11 +197213,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Desciende por la pared y busca con Demid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende por la pared y busca con Demid."
+          ]
         },
         {
           "id": "ob78-venli-i3-2",
@@ -197007,12 +197238,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -197029,11 +197261,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Se arrodilla junto al cuerpo de Eshonai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se arrodilla junto al cuerpo de Eshonai."
+          ]
         },
         {
           "id": "ob78-venli-i3-3",
@@ -197054,12 +197286,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -197076,12 +197309,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Recoge la hoja y ve al pequeño spren antes de marcharse.",
+          "needsConfirmation": [],
           "notes": [
-            "Se describe un spren sin nombre: no se importa una identidad, especie, parentesco o vínculo Nahel de capítulos posteriores."
+            "Recoge la hoja y ve al pequeño spren antes de marcharse."
           ]
         }
       ]
@@ -197206,12 +197437,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -197228,11 +197460,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Acompaña a Venli por el fondo de la sima.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Venli por el fondo de la sima."
+          ]
         },
         {
           "id": "ob78-demid-i3-2",
@@ -197253,12 +197485,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -197275,11 +197508,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Alza la celada de Eshonai y ayuda a quitar la armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alza la celada de Eshonai y ayuda a quitar la armadura."
+          ]
         }
       ]
     },
@@ -206215,9 +206448,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary197-ob32"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -206234,11 +206468,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-32"
           },
-          "locator": "OB32, place-urithiru-sebarial-sitting-room",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Ofrece infusión a Shallan y se sienta junto a ella.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ofrece infusión a Shallan y se sienta junto a ella."
+          ]
         },
         {
           "id": "ob76-palona-32-2",
@@ -206262,9 +206496,10 @@ window.ATLAS_DATA = {
           "review": "primary-text",
           "source": "ob-primary-31-32",
           "sourceIds": [
-            "ob-primary-31-32"
+            "ob-primary-31-32",
+            "primary197-ob32"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -206281,12 +206516,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-chapter-32"
           },
-          "locator": "OB32, place-urithiru-sebarial-sitting-room",
-          "needsConfirmation": [
-            "Cotejar traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/32.Compania.xhtml. Sigue en la sala cuando entra Adolin, quien la saluda.",
+          "needsConfirmation": [],
           "notes": [
-            "La aparición de Jasnah ocurre en esta sala. Kaladin ha vuelto a la torre, pero no entra en esta escena. Sebarial da la noticia; no se le sitúa aquí por ser propietario de la sala."
+            "Sigue en la sala cuando entra Adolin, quien la saluda."
           ]
         }
       ]
@@ -235061,12 +235294,13 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
-            "ob78-puuli"
+            "ob78-puuli",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235083,11 +235317,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Recoge madera cerca de las casas y habla con Sakin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recoge madera cerca de las casas y habla con Sakin."
+          ]
         },
         {
           "id": "ob78-puuli-i1-2",
@@ -235106,13 +235340,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
             "ob78-reread",
-            "ob78-puuli"
+            "ob78-puuli",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235129,12 +235364,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Recoge tablones del naufragio en la cala.",
+          "needsConfirmation": [],
           "notes": [
-            "La capitana no recibe un nombre deducido de otros libros."
+            "Recoge tablones del naufragio en la cala."
           ]
         },
         {
@@ -235156,12 +235389,13 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
-            "ob78-puuli"
+            "ob78-puuli",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235178,11 +235412,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Ayuda a sus vecinos durante su ronda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ayuda a sus vecinos durante su ronda."
+          ]
         },
         {
           "id": "ob78-puuli-i1-4",
@@ -235192,7 +235426,7 @@ window.ATLAS_DATA = {
           "memoryOrder": 4,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Faro Desafío · Dependencia de Puuli",
+          "place": "Desafío · Faro de Puuli",
           "placeId": "place-puuli-lighthouse",
           "realm": "physical",
           "placeNotes": [],
@@ -235201,12 +235435,13 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
-            "ob78-puuli"
+            "ob78-puuli",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235223,11 +235458,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Sube al faro que llama Desafío.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube al faro que llama Desafío."
+          ]
         }
       ]
     },
@@ -235257,12 +235492,13 @@ window.ATLAS_DATA = {
             372.083
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-ellista",
           "sourceIds": [
-            "ob78-ellista"
+            "ob78-ellista",
+            "primary197-ob-i2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-horneater-west-region",
@@ -235279,11 +235515,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Intenta leer en la biblioteca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Intenta leer en la biblioteca."
+          ]
         },
         {
           "id": "ob78-ellista-i2-2",
@@ -235302,12 +235538,13 @@ window.ATLAS_DATA = {
             372.083
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-ellista",
           "sourceIds": [
-            "ob78-ellista"
+            "ob78-ellista",
+            "primary197-ob-i2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-horneater-west-region",
@@ -235324,11 +235561,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Cruza el corredor y busca una mesa tranquila.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza el corredor y busca una mesa tranquila."
+          ]
         },
         {
           "id": "ob78-ellista-i2-3",
@@ -235347,12 +235584,13 @@ window.ATLAS_DATA = {
             372.083
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-ellista",
           "sourceIds": [
-            "ob78-ellista"
+            "ob78-ellista",
+            "primary197-ob-i2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-horneater-west-region",
@@ -235369,11 +235607,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Visita el edificio donde recopilan mensajes por vinculacaña.",
+          "needsConfirmation": [],
+          "notes": [
+            "Visita el edificio donde recopilan mensajes por vinculacaña."
+          ]
         },
         {
           "id": "ob78-ellista-i2-4",
@@ -235392,12 +235630,13 @@ window.ATLAS_DATA = {
             372.083
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-ellista",
           "sourceIds": [
-            "ob78-ellista"
+            "ob78-ellista",
+            "primary197-ob-i2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-horneater-west-region",
@@ -235414,11 +235653,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Lee una novela en el bosque y habla con Urv.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lee una novela en el bosque y habla con Urv."
+          ]
         }
       ]
     },
@@ -235448,12 +235687,13 @@ window.ATLAS_DATA = {
             372.083
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-ellista",
           "sourceIds": [
-            "ob78-ellista"
+            "ob78-ellista",
+            "primary197-ob-i2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-horneater-west-region",
@@ -235470,11 +235710,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Encuentra a Ellista en el bosque y le pide ayuda con la traducción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a Ellista en el bosque y le pide ayuda con la traducción."
+          ]
         }
       ]
     },
@@ -235506,12 +235746,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -235528,11 +235769,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Desciende como un relámpago y ordena que se dispersen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende como un relámpago y ordena que se dispersen."
+          ]
         },
         {
           "id": "ob78-ulim-i3-2",
@@ -235553,12 +235794,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -235575,11 +235817,11 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Examina la armadura desde la mano de Demid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina la armadura desde la mano de Demid."
+          ]
         }
       ]
     },
@@ -235621,13 +235863,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
             "ob78-puuli",
-            "ob78-puuli-community"
+            "ob78-puuli-community",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235644,12 +235887,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Llora por su marido.",
+          "needsConfirmation": [],
           "notes": [
-            "Ayudas de la ronda relatada por Puuli. Presencia provisional según biografías; algunos inventarios la clasifican como mención."
+            "Llora por su marido."
           ]
         }
       ]
@@ -235712,13 +235953,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
             "ob78-puuli",
-            "ob78-puuli-community"
+            "ob78-puuli-community",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235735,12 +235977,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Despeja el granero con Puuli.",
+          "needsConfirmation": [],
           "notes": [
-            "Ayudas de la ronda relatada por Puuli. Presencia provisional según biografías; algunos inventarios la clasifican como mención."
+            "Despeja el granero con Puuli."
           ]
         }
       ]
@@ -235773,13 +236013,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
             "ob78-puuli",
-            "ob78-puuli-community"
+            "ob78-puuli-community",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235796,12 +236037,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Deja a sus hijos con Puuli para llevar caldo a su hermana.",
+          "needsConfirmation": [],
           "notes": [
-            "Ayudas de la ronda relatada por Puuli. Presencia provisional según biografías; algunos inventarios la clasifican como mención."
+            "Deja a sus hijos con Puuli para llevar caldo a su hermana."
           ]
         }
       ]
@@ -235834,13 +236073,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
             "ob78-puuli",
-            "ob78-puuli-community"
+            "ob78-puuli-community",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235857,12 +236097,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Quedan al cuidado de Puuli.",
+          "needsConfirmation": [],
           "notes": [
-            "Ayudas de la ronda relatada por Puuli. Presencia provisional según biografías; algunos inventarios la clasifican como mención."
+            "Quedan al cuidado de Puuli."
           ]
         }
       ]
@@ -235905,13 +236143,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-puuli",
           "sourceIds": [
             "ob78-puuli",
-            "ob78-puuli-community"
+            "ob78-puuli-community",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235928,20 +236167,18 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. Recuperan una vela del agua con Puuli.",
+          "needsConfirmation": [],
           "notes": [
-            "Ayudas de la ronda relatada por Puuli. Presencia provisional según biografías; algunos inventarios la clasifican como mención."
+            "Recuperan una vela del agua con Puuli."
           ]
         }
       ]
     },
     {
       "id": "puuli-foreign-captain",
-      "name": "Capitana extranjera del puerto",
-      "role": "Navegante sin nombre",
+      "name": "Capitana extranjera",
+      "role": "Capitana de un barco destrozado en la cala.",
       "initial": "C",
       "color": "#a8b9c4",
       "importance": "tertiary",
@@ -235964,13 +236201,14 @@ window.ATLAS_DATA = {
             458.816
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
             "ob78-reread",
-            "ob78-puuli"
+            "ob78-puuli",
+            "primary197-ob-i1"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-new-natanan-east-region",
@@ -235987,12 +236225,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-1"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-1.Puuli.xhtml. La capitana contempla su barco destrozado.",
+          "needsConfirmation": [],
           "notes": [
-            "La capitana no recibe un nombre deducido de otros libros."
+            "La capitana contempla su barco destrozado."
           ]
         }
       ]
@@ -236102,12 +236338,13 @@ window.ATLAS_DATA = {
             372.083
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-bettam",
           "sourceIds": [
-            "ob78-bettam"
+            "ob78-bettam",
+            "primary197-ob-i2"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-horneater-west-region",
@@ -236124,12 +236361,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-2"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-2.Ellista.xhtml. Ellista oye a Bettam discutir sobre si tendrán que mudarse.",
+          "needsConfirmation": [],
           "notes": [
-            "Discusión oída en el monasterio; no se identifica la habitación."
+            "Ellista oye a Bettam discutir sobre si tendrán que mudarse."
           ]
         }
       ]
@@ -236212,12 +236447,13 @@ window.ATLAS_DATA = {
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob78-reread",
           "sourceIds": [
-            "ob78-reread"
+            "ob78-reread",
+            "primary197-ob-i3"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -236234,12 +236470,10 @@ window.ATLAS_DATA = {
             "bookId": "ob",
             "sceneId": "ob-interlude-3"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, traducción y secuencia con la edición; anclaje regional sin calibrar."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-3.Ritmo.xhtml. Asoma debajo del cadáver como una bola blanca que deja anillos de luz y estela.",
+          "needsConfirmation": [],
           "notes": [
-            "Se describe un spren sin nombre: no se importa una identidad, especie, parentesco o vínculo Nahel de capítulos posteriores."
+            "Asoma debajo del cadáver como una bola blanca que deja anillos de luz y estela."
           ]
         }
       ]
