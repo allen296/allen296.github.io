@@ -3312,6 +3312,8 @@
       "bisig",
       "colot",
       "drehy",
+      "eth",
+      "eth-brother-ob46",
       "kaladin",
       "koen",
       "leyten",
@@ -3332,6 +3334,7 @@
     "ob-chapter-48": [
       "moash",
       "moash-punished-parshmen",
+      "moash-punished-team-overseer-ob48",
       "moash-second-overseer",
       "moash-sledge-overseer",
       "moash-uncle"
@@ -11577,6 +11580,57 @@
         "field": "appearance",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/43.Lancero.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary201-ob47"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Marfil describe a su pueblo y habla del coste de formar un vínculo. Jasnah lo identifica como el único tintaspren de la nueva generación que ha formado un vínculo Radiante.",
+        "id": "primary201-archive-ob47-0",
+        "entryId": "spren-person-ivory",
+        "value": "Marfil describe a su pueblo y habla del coste de formar un vínculo. Jasnah lo identifica como el único tintaspren de la nueva generación que ha formado un vínculo Radiante.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-47"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary201-ob47"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Jasnah dice que Marfil puede cambiar de tamaño a voluntad y describe su aspecto negro irisado. La observación corresponde a Marfil.",
+        "id": "primary201-archive-ob47-1",
+        "entryId": "spren-type-inkspren",
+        "value": "Jasnah dice que Marfil puede cambiar de tamaño a voluntad y describe su aspecto negro irisado. La observación corresponde a Marfil.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-47"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "sourceIds": [
+          "primary201-ob48"
+        ],
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Siguen al grupo de trabajadores castigados mientras tira del trineo.",
+        "id": "primary201-archive-ob48-0",
+        "entryId": "spren-type-exhaustionspren",
+        "value": "Siguen al grupo de trabajadores castigados mientras tira del trineo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-48"
+        },
+        "field": "appearance",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -18188,22 +18242,21 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-paladar"
+        "ob86-paladar",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "reported",
       "state": "known",
       "supersedes": [],
       "notes": [
-        "No se conoce rama, generación ni parentesco directo con Kalanor."
+        "Moash identifica a Paladar como pariente de Vamah sin precisar el grado."
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto relative: Parientes; grado sin precisar. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Paladar?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Moash identifica a Paladar como pariente de Vamah sin precisar el grado."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Moash identifica a Paladar como pariente de Vamah sin precisar el grado."
     },
     {
       "id": "ob86-rel-paladar-loradar-vamah-1",
@@ -18217,20 +18270,21 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-paladar"
+        "ob86-paladar",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Moash identifica a Paladar como regente de Vamah."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Ejerce como regente de su principado. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Paladar?mobileaction=toggle_view_mobile"
-        ]
-      }
+        "reason": "Moash identifica a Paladar como regente de Vamah."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Moash identifica a Paladar como regente de Vamah."
     },
     {
       "id": "ob86-rel-paladar-guff-2",
@@ -18244,20 +18298,21 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-guff"
+        "ob86-guff",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Guff hace guardia para Paladar, quien ordena que lo azoten."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Trabajo de guardia. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Guff?mobileaction=toggle_view_desktop"
-        ]
-      }
+        "reason": "Guff hace guardia para Paladar, quien ordena que lo azoten."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Guff hace guardia para Paladar, quien ordena que lo azoten."
     },
     {
       "id": "ob86-rel-paladar-ked-3",
@@ -18271,20 +18326,21 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-ked"
+        "ob86-ked",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Paladar ordena a Ked cambiar al guardia; el cargo de Ked no se precisa."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto employer: Da órdenes a Ked. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Ked"
-        ]
-      }
+        "reason": "Paladar ordena a Ked cambiar al guardia; el cargo de Ked no se precisa."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Paladar ordena a Ked cambiar al guardia; el cargo de Ked no se precisa."
     },
     {
       "id": "ob86-rel-moash-guff-4",
@@ -18298,20 +18354,21 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-guff"
+        "ob86-guff",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Guff conocía a Moash de su época de caravanero."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto companion: Viejos conocidos de las caravanas. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Guff?mobileaction=toggle_view_desktop"
-        ]
-      }
+        "reason": "Guff conocía a Moash de su época de caravanero."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Guff conocía a Moash de su época de caravanero."
     },
     {
       "id": "ob86-rel-kaladin-colot-5",
@@ -18325,20 +18382,21 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-colot"
+        "ob86-colot",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Colot acude a las pruebas y Kaladin lo acepta como aspirante."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: Admitido a prueba como aspirante. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Colot"
-        ]
-      }
+        "reason": "Colot acude a las pruebas y Kaladin lo acepta como aspirante."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Colot acude a las pruebas y Kaladin lo acepta como aspirante."
     },
     {
       "id": "ob86-rel-skar-lyn-6",
@@ -18352,20 +18410,21 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Skar instruye y anima a Lyn durante la práctica de luz tormentosa."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto mentor: La ayuda a atraer luz tormentosa. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-forty-five-and-forty-six/"
-        ]
-      }
+        "reason": "Skar instruye y anima a Lyn durante la práctica de luz tormentosa."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar instruye y anima a Lyn durante la práctica de luz tormentosa."
     },
     {
       "id": "ob86-rel-colot-tallan-7",
@@ -18436,20 +18495,21 @@
         "sceneId": "ob-chapter-47"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob47"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Jasnah recupera copias de sus notas mediante las escribas de Tashikk."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Recuperación remota de sus notas. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Jasnah recupera copias de sus notas mediante las escribas de Tashikk."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Jasnah recupera copias de sus notas mediante las escribas de Tashikk."
     },
     {
       "id": "ob86-rel-moash-moash-punished-parshmen-10",
@@ -18463,20 +18523,21 @@
         "sceneId": "ob-chapter-48"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob48"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "certainty": "stated",
       "state": "known",
       "supersedes": [],
-      "notes": [],
+      "notes": [
+        "Moash toma el lugar del trabajador caído y tira del trineo con el grupo."
+      ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "Vínculo concreto cooperation: Se ofrece a ayudar con su carga. La referencia relata una relación real, aunque sus personas no aparezcan juntas en escena.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ]
-      }
+        "reason": "Moash toma el lugar del trabajador caído y tira del trineo con el grupo."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash toma el lugar del trabajador caído y tira del trineo con el grupo."
     },
     {
       "id": "audit87-ishikk-maib-courtship",
@@ -23004,25 +23065,24 @@
         "sceneId": "ob-chapter-48"
       },
       "certainty": "reported",
-      "status": "pending",
+      "status": "confirmed",
       "state": "known",
       "notes": [
-        "El recuerdo de Moash de aprendizaje caravanero con su tío respalda el parentesco y trato anterior en OB48; no resuelve el anclaje heredado CR14."
+        "Moash recuerda que viajó con su tío en caravanas por el mismo camino."
       ],
       "id": "network90-moash-uncle-ob48",
       "supersedes": [
         "family74-moash-moash-uncle-companion-chapter-14"
       ],
       "sourceIds": [
-        "network90-source-1612a319e4b76a"
+        "network90-source-1612a319e4b76a",
+        "primary201-ob48"
       ],
       "networkEvidence": {
         "kind": "relationship",
-        "reason": "El trato previo y el parentesco se respaldan en el recuerdo relatado en OB48; no se anticipan a CR14.",
-        "sourceUrls": [
-          "https://reactormag.com/oathbringer-reread-chapters-forty-seven-and-forty-eight/"
-        ]
-      }
+        "reason": "Moash recuerda que viajó con su tío en caravanas por el mismo camino."
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash recuerda que viajó con su tío en caravanas por el mismo camino."
     },
     {
       "id": "pending92-resi-thanadal",
@@ -26632,6 +26692,33 @@
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Dalinar declara que devolvió al hijo de Tanalan a su madre y le pidió que lo escondiera."
+      }
+    },
+    {
+      "status": "confirmed",
+      "sourceIds": [
+        "primary201-ob46"
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra.",
+      "id": "primary201-eth-brother",
+      "from": "eth",
+      "to": "eth-brother-ob46",
+      "kind": "sibling",
+      "label": "Hermanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-46"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra."
       }
     }
   ],
@@ -37502,43 +37589,7 @@
         "guff"
       ],
       "type": "conversation",
-      "summary": "Se reconocen y hablan de su pasado en las caravanas.",
-      "revealedAt": {
-        "bookId": "ob",
-        "sceneId": "ob-chapter-45"
-      },
-      "storyTime": {
-        "frame": "present",
-        "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
-      },
-      "sourceIds": [
-        "ob86-guff"
-      ],
-      "status": "pending",
-      "supersedes": [],
-      "networkEvidence": {
-        "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Se reconocen y hablan de su pasado en las caravanas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Guff?mobileaction=toggle_view_desktop"
-        ],
-        "pairs": [
-          [
-            "moash",
-            "guff"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "ob86-interaction-1",
-      "participants": [
-        "moash",
-        "guff",
-        "paladar"
-      ],
-      "type": "encounter",
-      "summary": "Guff lo lleva ante el regente, que busca soldados.",
+      "summary": "Moash y Guff se reconocen y recuerdan las caravanas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-45"
@@ -37549,13 +37600,52 @@
       },
       "sourceIds": [
         "ob86-guff",
-        "ob86-paladar"
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Guff lo lleva ante el regente, que busca soldados. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Moash y Guff se reconocen y recuerdan las caravanas.",
+        "sourceUrls": [
+          "https://coppermind.net/wiki/Guff?mobileaction=toggle_view_desktop"
+        ],
+        "pairs": [
+          [
+            "moash",
+            "guff"
+          ]
+        ]
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Moash y Guff se reconocen y recuerdan las caravanas."
+    },
+    {
+      "id": "ob86-interaction-1",
+      "participants": [
+        "moash",
+        "guff",
+        "paladar"
+      ],
+      "type": "encounter",
+      "summary": "Guff lleva a Moash ante Paladar, quien pregunta si llegará ayuda.",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-45"
+      },
+      "storyTime": {
+        "frame": "present",
+        "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
+      },
+      "sourceIds": [
+        "ob86-guff",
+        "ob86-paladar",
+        "primary201-ob45"
+      ],
+      "status": "confirmed",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Guff lleva a Moash ante Paladar, quien pregunta si llegará ayuda.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Guff?mobileaction=toggle_view_desktop",
           "https://coppermind.net/wiki/Paladar?mobileaction=toggle_view_mobile"
@@ -37574,7 +37664,8 @@
             "paladar"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Guff lleva a Moash ante Paladar, quien pregunta si llegará ayuda."
     },
     {
       "id": "ob86-interaction-2",
@@ -37583,7 +37674,7 @@
         "ked"
       ],
       "type": "conversation",
-      "summary": "Ordena reemplazar al guardia y amenaza a Ked.",
+      "summary": "Paladar ordena a Ked apostar otro guardia y lo amenaza.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-45"
@@ -37593,13 +37684,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-ked"
+        "ob86-ked",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ordena reemplazar al guardia y amenaza a Ked. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Paladar ordena a Ked apostar otro guardia y lo amenaza.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Ked"
         ],
@@ -37609,7 +37701,8 @@
             "ked"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Paladar ordena a Ked apostar otro guardia y lo amenaza."
     },
     {
       "id": "ob86-interaction-3",
@@ -37618,7 +37711,7 @@
         "guff"
       ],
       "type": "conflict",
-      "summary": "Ordena que golpeen a Guff.",
+      "summary": "Paladar ordena azotar a Guff; el pasaje muestra que lo apresan.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-45"
@@ -37628,13 +37721,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-paladar"
+        "ob86-paladar",
+        "primary201-ob45"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Ordena que golpeen a Guff. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Paladar ordena azotar a Guff; el pasaje muestra que lo apresan.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Paladar?mobileaction=toggle_view_mobile"
         ],
@@ -37644,7 +37738,8 @@
             "guff"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Paladar ordena azotar a Guff; el pasaje muestra que lo apresan."
     },
     {
       "id": "ob86-interaction-4",
@@ -37653,7 +37748,7 @@
         "sigzil"
       ],
       "type": "cooperation",
-      "summary": "Participan en las pruebas cronometradas.",
+      "summary": "Skar y Sigzil participan en las pruebas de adhesión cronometradas.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37663,13 +37758,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Participan en las pruebas cronometradas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Skar y Sigzil participan en las pruebas de adhesión cronometradas.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-five-and-forty-six/"
         ],
@@ -37679,7 +37775,8 @@
             "sigzil"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar y Sigzil participan en las pruebas de adhesión cronometradas."
     },
     {
       "id": "ob86-interaction-5",
@@ -37688,7 +37785,7 @@
         "teft"
       ],
       "type": "conversation",
-      "summary": "Teft le lleva comida y lo anima.",
+      "summary": "Teft le lleva comida a Skar y lo anima.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37698,13 +37795,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Teft le lleva comida y lo anima. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Teft le lleva comida a Skar y lo anima.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37714,7 +37812,8 @@
             "teft"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Teft le lleva comida a Skar y lo anima."
     },
     {
       "id": "ob86-interaction-6",
@@ -37723,7 +37822,7 @@
         "ristina"
       ],
       "type": "conversation",
-      "summary": "Hablan del retraso y de las quejas de los mercaderes.",
+      "summary": "Ristina cuenta a los viajeros y habla con Kaladin de las quejas de los mercaderes.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37733,13 +37832,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-ristina"
+        "ob86-ristina",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan del retraso y de las quejas de los mercaderes. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Ristina cuenta a los viajeros y habla con Kaladin de las quejas de los mercaderes.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Ristina?mobileaction=toggle_view_mobile"
         ],
@@ -37749,7 +37849,8 @@
             "ristina"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Ristina cuenta a los viajeros y habla con Kaladin de las quejas de los mercaderes."
     },
     {
       "id": "ob86-interaction-7",
@@ -37759,7 +37860,7 @@
         "colot"
       ],
       "type": "conversation",
-      "summary": "Skar responde a las dudas sobre admitir a un ojos claros.",
+      "summary": "Skar defiende que se dé una oportunidad a Colot.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37769,13 +37870,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-colot"
+        "ob86-colot",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Colot es el objeto de las dudas sobre ojos claros; Skar responde a Kaladin. No tratar a Colot como interlocutor por ser mencionado en el diálogo.",
+        "reason": "Skar defiende que se dé una oportunidad a Colot.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Colot"
         ],
@@ -37785,7 +37887,8 @@
             "kaladin"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar defiende que se dé una oportunidad a Colot."
     },
     {
       "id": "ob86-interaction-8",
@@ -37794,7 +37897,7 @@
         "lyn"
       ],
       "type": "conversation",
-      "summary": "Hablan de proteger a otros y de cómo atraer la luz.",
+      "summary": "Skar anima a Lyn a seguir intentándolo. Lyn consigue absorber luz tormentosa.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37804,13 +37907,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Hablan de proteger a otros y de cómo atraer la luz. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Skar anima a Lyn a seguir intentándolo. Lyn consigue absorber luz tormentosa.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-five-and-forty-six/"
         ],
@@ -37820,7 +37924,8 @@
             "lyn"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar anima a Lyn a seguir intentándolo. Lyn consigue absorber luz tormentosa."
     },
     {
       "id": "ob86-interaction-9",
@@ -37829,7 +37934,7 @@
         "rock"
       ],
       "type": "conversation",
-      "summary": "Roca le señala que él también está brillando.",
+      "summary": "Roca señala a Skar que de su mano salen volutas de luz.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37839,13 +37944,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Roca le señala que él también está brillando. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Roca señala a Skar que de su mano salen volutas de luz.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-five-and-forty-six/"
         ],
@@ -37855,7 +37961,8 @@
             "rock"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Roca señala a Skar que de su mano salen volutas de luz."
     },
     {
       "id": "ob86-interaction-10",
@@ -37864,7 +37971,7 @@
         "drehy"
       ],
       "type": "conversation",
-      "summary": "Revisan la cantidad de una adhesión básica.",
+      "summary": "Sigzil y Drehy revisan los resultados de una adhesión básica.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-46"
@@ -37874,13 +37981,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Revisan la cantidad de una adhesión básica. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Sigzil y Drehy revisan los resultados de una adhesión básica.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-five-and-forty-six/"
         ],
@@ -37890,7 +37998,8 @@
             "drehy"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Sigzil y Drehy revisan los resultados de una adhesión básica."
     },
     {
       "id": "ob86-interaction-11",
@@ -37899,7 +38008,7 @@
         "ivory"
       ],
       "type": "conversation",
-      "summary": "Revisan la transcripción y debaten qué hacer con su información.",
+      "summary": "Jasnah y Marfil examinan lo que dijo Talenel y hablan de dónde buscar a los Heraldos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-47"
@@ -37909,13 +38018,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-47-48"
+        "ob86-47-48",
+        "primary201-ob47"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Revisan la transcripción y debaten qué hacer con su información. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Jasnah y Marfil examinan lo que dijo Talenel y hablan de dónde buscar a los Heraldos.",
         "sourceUrls": [
           "https://reactormag.com/oathbringer-reread-chapters-forty-seven-and-forty-eight/"
         ],
@@ -37925,7 +38035,8 @@
             "ivory"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Jasnah y Marfil examinan lo que dijo Talenel y hablan de dónde buscar a los Heraldos."
     },
     {
       "id": "ob86-interaction-12",
@@ -37934,7 +38045,7 @@
         "jasnah-tashikk-scribes"
       ],
       "type": "message",
-      "summary": "Recuperan copias de sus notas mediante vinculacañas.",
+      "summary": "Las escribas retransmiten copias de las notas de Jasnah por vinculacaña.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-47"
@@ -37944,13 +38055,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob47"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Recuperan copias de sus notas mediante vinculacañas. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Las escribas retransmiten copias de las notas de Jasnah por vinculacaña.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37960,7 +38072,8 @@
             "jasnah-tashikk-scribes"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Las escribas retransmiten copias de las notas de Jasnah por vinculacaña."
     },
     {
       "id": "ob86-interaction-13",
@@ -37969,7 +38082,7 @@
         "moash-sledge-overseer"
       ],
       "type": "conversation",
-      "summary": "Pregunta por el trato que recibe el grupo castigado.",
+      "summary": "Moash pregunta a la supervisora de su propio equipo. Ella dice que los castigados dieron cobijo a un falso dios.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-48"
@@ -37979,13 +38092,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob48"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Pregunta por el trato que recibe el grupo castigado. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Moash pregunta a la supervisora de su propio equipo. Ella dice que los castigados dieron cobijo a un falso dios.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -37995,17 +38109,18 @@
             "moash-sledge-overseer"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash pregunta a la supervisora de su propio equipo. Ella dice que los castigados dieron cobijo a un falso dios."
     },
     {
       "id": "ob86-interaction-14",
       "participants": [
         "moash",
-        "moash-sledge-overseer",
+        "moash-punished-team-overseer-ob48",
         "moash-second-overseer"
       ],
       "type": "conflict",
-      "summary": "Interviene para detener los latigazos.",
+      "summary": "Moash interviene contra los dos supervisores del otro trineo para detener los latigazos.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-48"
@@ -38015,27 +38130,26 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob48"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Moash interviene frente a los dos capataces; su cooperación institucional entre ellos no es un diálogo específico deducible de esta intervención.",
-        "sourceUrls": [
-          "https://coppermind.net/wiki/Summary:Oathbringer"
-        ],
+        "reason": "Moash interviene contra los dos supervisores del otro trineo para detener los latigazos.",
         "pairs": [
           [
             "moash",
-            "moash-sledge-overseer"
+            "moash-punished-team-overseer-ob48"
           ],
           [
             "moash",
             "moash-second-overseer"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash interviene contra los dos supervisores del otro trineo para detener los latigazos."
     },
     {
       "id": "ob86-interaction-15",
@@ -38044,7 +38158,7 @@
         "moash-punished-parshmen"
       ],
       "type": "cooperation",
-      "summary": "Sustituye a un trabajador agotado en el tiro del trineo.",
+      "summary": "Moash ayuda al trabajador a levantarse y tira de su cuerda durante el resto de la marcha.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-48"
@@ -38054,13 +38168,14 @@
         "note": "Interacción explícita en este punto de lectura; no se crea un encuentro por mera coincidencia espacial."
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob48"
       ],
-      "status": "pending",
+      "status": "confirmed",
       "supersedes": [],
       "networkEvidence": {
         "kind": "interaction",
-        "reason": "Acción o intercambio concreto: Sustituye a un trabajador agotado en el tiro del trineo. Conservar solo las parejas indicadas; no convertir la lista de participantes en una clique.",
+        "reason": "Moash ayuda al trabajador a levantarse y tira de su cuerda durante el resto de la marcha.",
         "sourceUrls": [
           "https://coppermind.net/wiki/Summary:Oathbringer"
         ],
@@ -38070,7 +38185,8 @@
             "moash-punished-parshmen"
           ]
         ]
-      }
+      },
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash ayuda al trabajador a levantarse y tira de su cuerda durante el resto de la marcha."
     },
     {
       "id": "ob86-interaction-16",
@@ -65246,16 +65362,18 @@
       "id": "ob86-fact-guff-0",
       "characterId": "guff",
       "kind": "background",
-      "text": "Carretero que conocía a Moash de las caravanas; trabaja para Paladar y es agredido por orden suya.",
+      "text": "Conoce a Moash de las caravanas. Paladar ordena que lo azoten y sus guardias lo apresan.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-guff"
+        "ob86-guff",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Conoce a Moash de las caravanas. Paladar ordena que lo azoten y sus guardias lo apresan."
     },
     {
       "id": "ob86-fact-paladar-1",
@@ -65267,10 +65385,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-paladar"
+        "ob86-paladar",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Regente de Vamah y pariente suyo de grado desconocido; conserva influencia entre los cautivos."
     },
     {
       "id": "ob86-fact-ked-2",
@@ -65282,10 +65402,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-ked"
+        "ob86-ked",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Recibe de Paladar la orden de reemplazar a Guff; su cargo exacto no se concreta."
     },
     {
       "id": "ob86-fact-bru-3",
@@ -65297,10 +65419,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Es mencionado durante la organización del trabajo; sin aparición localizada verificada."
     },
     {
       "id": "ob86-fact-jam-caravaneer-4",
@@ -65312,10 +65436,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-jam"
+        "ob86-jam",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Guff recuerda que Moash viajó a las Llanuras Quebradas en su caravana."
     },
     {
       "id": "ob86-fact-moash-5",
@@ -65327,10 +65453,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Se encuentra cautivo en Revolar y opta por realizar trabajo pesado."
     },
     {
       "id": "ob86-fact-moash-grandfather-6",
@@ -65342,10 +65470,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Moash recuerda que sus abuelos lo animaron a trabajar en las caravanas."
     },
     {
       "id": "ob86-fact-moash-grandmother-7",
@@ -65357,10 +65487,12 @@
         "sceneId": "ob-chapter-45"
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob45"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Moash recuerda que sus abuelos lo animaron a trabajar en las caravanas."
     },
     {
       "id": "ob86-fact-moash-uncle-8",
@@ -65372,10 +65504,12 @@
         "sceneId": "ob-chapter-48"
       },
       "sourceIds": [
-        "ob86-47-48"
+        "ob86-47-48",
+        "primary201-ob48"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash recuerda su aprendizaje del trabajo caravanero junto a su tío."
     },
     {
       "id": "ob86-fact-lyn-9",
@@ -65387,10 +65521,12 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Consigue atraer luz tormentosa después de la conversación con Skar. Esto no revela un spren individual ni un juramento nuevo."
     },
     {
       "id": "ob86-fact-skar-10",
@@ -65402,10 +65538,12 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-45-46"
+        "ob86-45-46",
+        "primary201-ob46"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Roca le hace notar que también está brillando. Su conversación de apoyo no establece un cortejo con Lyn."
     },
     {
       "id": "ob86-fact-ristina-11",
@@ -65417,10 +65555,12 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-ristina"
+        "ob86-ristina",
+        "primary201-ob46"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Lleva el registro de viajeros de la Puerta Jurada de Narak."
     },
     {
       "id": "ob86-fact-colot-12",
@@ -65449,10 +65589,12 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-colot"
+        "ob86-colot",
+        "primary201-ob46"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Se presenta a la prueba con otros reclutas y acepta las instrucciones. Ser aspirante no confirma que ya haya atraído luz."
     },
     {
       "id": "ob86-fact-tallan-14",
@@ -65499,10 +65641,12 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-koen"
+        "ob86-koen",
+        "primary201-ob46"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Mencionado como uno de los primeros escuderos procedentes de la antigua Guardia de Cobalto. No se le coloca en las prácticas solo por esa mención."
     },
     {
       "id": "ob86-fact-bisig-17",
@@ -65553,10 +65697,12 @@
         "sceneId": "ob-chapter-46"
       },
       "sourceIds": [
-        "ob86-bisig"
+        "ob86-bisig",
+        "primary201-ob46"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar recuerda su choque contra el techo al intentar imitar a Lopen; en este tramo participa en las prácticas."
     },
     {
       "id": "ob86-fact-jasnah-20",
@@ -65568,10 +65714,12 @@
         "sceneId": "ob-chapter-47"
       },
       "sourceIds": [
-        "ob86-47-48"
+        "ob86-47-48",
+        "primary201-ob47"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Recuerda una habitación oscura y una enfermedad de su infancia. No se precisan el lugar, la fecha, el diagnóstico ni quién la hizo sufrir."
     },
     {
       "id": "ob86-fact-ivory-21",
@@ -65583,10 +65731,12 @@
         "sceneId": "ob-chapter-47"
       },
       "sourceIds": [
-        "ob86-47-48"
+        "ob86-47-48",
+        "primary201-ob47"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Discute con Jasnah la búsqueda de los Heraldos y la conveniencia de compartir cierta información. La conversación sucede en Urithiru."
     },
     {
       "id": "ob86-fact-jasnah-tashikk-scribes-22",
@@ -65598,25 +65748,29 @@
         "sceneId": "ob-chapter-47"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob47"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Conservan y retransmiten copias de las notas de Jasnah desde Tashikk; no son visitantes de Urithiru."
     },
     {
       "id": "ob86-fact-moash-punished-parshmen-23",
       "characterId": "moash-punished-parshmen",
       "kind": "background",
-      "text": "Son castigados por haber acogido a un Radiante. En esta escena no se fijan sus identidades individuales.",
+      "text": "Una supervisora dice que el grupo dio cobijo a un falso dios. No se identifican aquí sus integrantes por nombre.",
       "revealedAt": {
         "bookId": "ob",
         "sceneId": "ob-chapter-48"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob48"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Una supervisora dice que el grupo dio cobijo a un falso dios. No se identifican aquí sus integrantes por nombre."
     },
     {
       "id": "ob86-fact-moash-24",
@@ -65628,10 +65782,12 @@
         "sceneId": "ob-chapter-48"
       },
       "sourceIds": [
-        "ob86-summary"
+        "ob86-summary",
+        "primary201-ob48"
       ],
-      "status": "pending",
-      "supersedes": []
+      "status": "confirmed",
+      "supersedes": [],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Deja su carga y ocupa el puesto de un trabajador agotado. El trayecto continúa hacia Kholinar; sin llegada documentada."
     },
     {
       "id": "review87p1-sigzil-bridge4",
@@ -88951,6 +89107,38 @@
       "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin la sujeta durante la tormenta y la lleva con el grupo resguardado.",
       "readingLocator": "Juramentada, EPUB español, OEBPS/Text/31.Exigenciastormentas.xhtml. Kaladin la sujeta durante la tormenta y la lleva con el grupo resguardado.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "sourceIds": [
+        "primary201-ob46"
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra.",
+      "id": "primary201-fact-eth-brother-ob46",
+      "characterId": "eth-brother-ob46",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-46"
+      },
+      "kind": "background",
+      "text": "Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "sourceIds": [
+        "primary201-ob48"
+      ],
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Moash lo aparta del trabajador y lo desarma cuando este alza el látigo.",
+      "id": "primary201-fact-moash-punished-team-overseer-ob48",
+      "characterId": "moash-punished-team-overseer-ob48",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-48"
+      },
+      "kind": "background",
+      "text": "Moash lo aparta del trabajador y lo desarma cuando este alza el látigo.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -91568,6 +91756,10 @@
         {
           "revision": 200,
           "notes": "Teft recuerda haber denunciado a su familia sin individualizar nuevos parientes. La visión de Aharietiam no crea parentescos. La cooperación entre Graves y Fia no acredita parentesco y el cortejo de Adolin y Janala pertenece al pasado."
+        },
+        {
+          "revision": 201,
+          "notes": "Se acredita el parentesco sin grado de Paladar con Vamah y la mención del hermano de Eth. Moash recuerda a sus abuelos y sus viajes con su tío. No se identifica a la cuadrilla castigada por información posterior."
         }
       ]
     }
@@ -94435,7 +94627,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 200,
+  "revision": 201,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -111753,12 +111945,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -111775,11 +111968,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-28-kaladin",
@@ -111800,13 +111993,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111823,11 +112017,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-40-kaladin",
@@ -111848,12 +112042,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -111870,11 +112065,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -126972,12 +127167,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-47-48",
           "sourceIds": [
-            "ob86-47-48"
+            "ob86-47-48",
+            "primary201-ob47"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -126994,11 +127190,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-47"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Examina una transcripción atribuida a Talenel y recupera notas en sus aposentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina una transcripción atribuida a Talenel y recupera notas en sus aposentos."
+          ]
         },
         {
           "id": "ob86-obs-47-jasnah",
@@ -127016,12 +127212,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-47-48",
           "sourceIds": [
-            "ob86-47-48"
+            "ob86-47-48",
+            "primary201-ob47"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-jasnah-childhood-dark-room",
@@ -127038,12 +127235,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-47"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Jasnah recuerda retazos de una habitación oscura en su infancia. Su emplazamiento y el momento exacto no se precisan.",
+          "needsConfirmation": [],
           "notes": [
-            "No anclar al palacio de Kholinar por el parentesco ni al lugar de su conversación actual."
+            "Jasnah recuerda retazos de una habitación oscura en su infancia. Su emplazamiento y el momento exacto no se precisan."
           ]
         }
       ]
@@ -162817,12 +163012,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -162839,11 +163035,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-25-rock",
@@ -162864,13 +163060,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162887,11 +163084,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-37-rock",
@@ -162912,12 +163109,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -162934,11 +163132,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -165736,12 +165934,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -165758,11 +165957,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-26-teft",
@@ -165783,13 +165982,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -165806,11 +166006,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-38-teft",
@@ -165831,12 +166031,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -165853,11 +166054,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -168743,12 +168944,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -168765,11 +168967,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Los Fusionados lo dejan detrás de Revolar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Fusionados lo dejan detrás de Revolar."
+          ]
         },
         {
           "id": "ob86-moash-human-pen-45",
@@ -168787,12 +168989,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -168809,11 +169012,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Los guardias registran a los cautivos antes de que Moash entre al refugio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los guardias registran a los cautivos antes de que Moash entre al refugio."
+          ]
         },
         {
           "id": "ob86-obs-2-moash",
@@ -168831,12 +169034,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-guff",
           "sourceIds": [
-            "ob86-guff"
+            "ob86-guff",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -168853,11 +169057,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Busca a Guff entre los caravaneros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Busca a Guff entre los caravaneros."
+          ]
         },
         {
           "id": "ob86-obs-4-moash",
@@ -168875,13 +169079,14 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-paladar",
           "sourceIds": [
             "ob86-paladar",
-            "ob86-ked"
+            "ob86-ked",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -168898,11 +169103,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Guff lo lleva a la tienda de Paladar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Guff lo lleva a la tienda de Paladar."
+          ]
         },
         {
           "id": "ob86-obs-8-moash",
@@ -168920,12 +169125,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -168942,11 +169148,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Después de ser expulsado se ofrece para tirar de carros de suministros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Después de ser expulsado se ofrece para tirar de carros de suministros."
+          ]
         },
         {
           "id": "ob86-obs-48-moash",
@@ -168965,12 +169171,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob48"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-road-to-kholinar-48",
@@ -168987,11 +169194,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-48"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Tira de un trineo y pregunta por los trabajadores castigados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tira de un trineo y pregunta por los trabajadores castigados."
+          ]
         },
         {
           "id": "ob86-obs-50-moash",
@@ -169010,12 +169217,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob48"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-road-to-kholinar-48",
@@ -169032,11 +169240,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-48"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Deja su cuerda, detiene a los supervisores y toma el puesto del trabajador exhausto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Deja su cuerda, detiene a los supervisores y toma el puesto del trabajador exhausto."
+          ]
         }
       ]
     },
@@ -175992,12 +176200,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -176014,11 +176223,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-22-lopen",
@@ -176039,13 +176248,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -176062,11 +176272,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-34-lopen",
@@ -176087,12 +176297,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -176109,11 +176320,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -177524,12 +177735,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -177546,11 +177758,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-21-sigzil",
@@ -177571,13 +177783,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -177594,11 +177807,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-33-sigzil",
@@ -177619,12 +177832,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -177641,11 +177855,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -178785,12 +178999,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -178807,11 +179022,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -184498,12 +184713,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -184520,11 +184736,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-20-skar",
@@ -184545,13 +184761,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -184568,11 +184785,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-32-skar",
@@ -184593,12 +184810,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -184615,11 +184833,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -185740,12 +185958,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -185762,11 +185981,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-23-drehy",
@@ -185787,13 +186006,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -185810,11 +186030,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-35-drehy",
@@ -185835,12 +186055,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -185857,11 +186078,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -186837,12 +187058,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -186859,11 +187081,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-24-leyten",
@@ -186884,13 +187106,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -186907,11 +187130,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-36-leyten",
@@ -186932,12 +187155,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -186954,11 +187178,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -227444,12 +227668,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -227466,11 +227691,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-30-lyn",
@@ -227491,13 +227716,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -227514,11 +227740,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-42-lyn",
@@ -227539,12 +227765,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -227561,11 +227788,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -238393,12 +238620,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -238415,11 +238643,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-27-bisig",
@@ -238440,13 +238668,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -238463,11 +238692,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-39-bisig",
@@ -238488,12 +238717,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -238510,11 +238740,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -239307,12 +239537,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -239329,11 +239560,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Dejan a Moash detrás de Revolar antes de que otros lo custodien.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dejan a Moash detrás de Revolar antes de que otros lo custodien."
+          ]
         }
       ]
     },
@@ -239870,12 +240101,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-47-48",
           "sourceIds": [
-            "ob86-47-48"
+            "ob86-47-48",
+            "primary201-ob47"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -239892,11 +240124,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-47"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Marfil conversa con Jasnah mientras funcionan las vinculacañas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Marfil conversa con Jasnah mientras funcionan las vinculacañas."
+          ]
         }
       ]
     },
@@ -239925,12 +240157,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-guff",
           "sourceIds": [
-            "ob86-guff"
+            "ob86-guff",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -239947,11 +240180,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Reconoce a Moash y recuerda la caravana de Jam.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconoce a Moash y recuerda la caravana de Jam."
+          ]
         },
         {
           "id": "ob86-obs-5-guff",
@@ -239969,13 +240202,14 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-paladar",
           "sourceIds": [
             "ob86-paladar",
-            "ob86-ked"
+            "ob86-ked",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -239992,11 +240226,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Se presenta con Moash y Paladar ordena que lo azoten.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se presenta con Moash y Paladar ordena que lo azoten."
+          ]
         }
       ]
     },
@@ -240025,13 +240259,14 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-paladar",
           "sourceIds": [
             "ob86-paladar",
-            "ob86-ked"
+            "ob86-ked",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -240048,11 +240283,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Pregunta por ayuda de los altos príncipes y ordena expulsar a Moash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pregunta por ayuda de los altos príncipes y ordena expulsar a Moash."
+          ]
         }
       ]
     },
@@ -240081,13 +240316,14 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-paladar",
           "sourceIds": [
             "ob86-paladar",
-            "ob86-ked"
+            "ob86-ked",
+            "primary201-ob45"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-revolar",
@@ -240104,11 +240340,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-45"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/45.Unarevelacion.xhtml. Paladar le ordena apostar otro guardia y lo amenaza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Paladar le ordena apostar otro guardia y lo amenaza."
+          ]
         }
       ]
     },
@@ -240160,13 +240396,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -240183,11 +240420,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         }
       ]
     },
@@ -240245,13 +240482,14 @@
             "Sin coordenadas verificadas; no inventar punto ni ruta."
           ],
           "xy": null,
-          "kind": "scene",
-          "review": "secondary-source",
+          "kind": "remote",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob47"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-tashikk-jasnah-scribes-47",
@@ -240268,12 +240506,10 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-47"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
+          "locator": "Juramentada, EPUB español, OEBPS/Text/47.Perdidotanto.xhtml. Las escribas copian las notas desde Tashikk mediante vinculacaña.",
+          "needsConfirmation": [],
           "notes": [
-            "Escribas al otro extremo de la vinculacaña; no están en la habitación de Jasnah."
+            "Las escribas copian las notas desde Tashikk mediante vinculacaña."
           ]
         }
       ]
@@ -240304,12 +240540,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob48"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-road-to-kholinar-48",
@@ -240326,11 +240563,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-48"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Tiran de un trineo y reciben latigazos. Uno cae y Moash ocupa su lugar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tiran de un trineo y reciben latigazos. Uno cae y Moash ocupa su lugar."
+          ]
         }
       ]
     },
@@ -240360,12 +240597,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob48"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-road-to-kholinar-48",
@@ -240382,56 +240620,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-48"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
-        },
-        {
-          "id": "ob86-obs-51-moash-sledge-overseer",
-          "scene": "ob-chapter-48",
-          "retrospective": false,
-          "memoryPhase": null,
-          "memoryOrder": 2,
-          "supersedes": [],
-          "excludedFromRoute": false,
-          "place": "Marcha de Revolar hacia Kholinar · Tramo sin localizar",
-          "placeId": "place-moash-road-to-kholinar-48",
-          "realm": "physical",
-          "placeNotes": [
-            "Sin coordenadas verificadas; no inventar punto ni ruta.",
-            "Dirección de viaje explícita; no equivale a llegada a Kholinar ni fija su avance exacto."
-          ],
-          "xy": null,
-          "kind": "scene",
-          "review": "secondary-source",
-          "source": "ob86-summary",
-          "sourceIds": [
-            "ob86-summary"
-          ],
-          "status": "pending",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-moash-road-to-kholinar-48",
-          "coordinateAnchorName": "Marcha de Revolar hacia Kholinar · Tramo sin localizar",
-          "storyTime": {
-            "relationToStart": "after-start",
-            "frame": "present",
-            "date": null,
-            "precision": "relative-only",
-            "relativeYearsBeforePresent": null,
-            "note": "Orden de la escena, sin fecha exacta ni simultaneidad asegurada con otras tramas."
-          },
-          "revealedAt": {
-            "bookId": "ob",
-            "sceneId": "ob-chapter-48"
-          },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. La supervisora del equipo de Moash explica el motivo del castigo según su bando.",
+          "needsConfirmation": [],
+          "notes": [
+            "La supervisora del equipo de Moash explica el motivo del castigo según su bando."
+          ]
         }
       ]
     },
@@ -240461,12 +240654,13 @@
           ],
           "xy": null,
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob48"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "unlocated",
           "coordinatePrecision": "unlocated",
           "coordinateAnchorId": "place-moash-road-to-kholinar-48",
@@ -240483,11 +240677,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-48"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Azota al trabajador caído; retrocede cuando Moash interviene.",
+          "needsConfirmation": [],
+          "notes": [
+            "Azota al trabajador caído; retrocede cuando Moash interviene."
+          ]
         }
       ]
     },
@@ -240568,12 +240762,13 @@
             410.831
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-urithiru",
@@ -240590,11 +240785,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Forma parte de la comitiva que se reúne antes de pasar a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Forma parte de la comitiva que se reúne antes de pasar a Narak."
+          ]
         },
         {
           "id": "ob86-obs-29-colot",
@@ -240615,13 +240810,14 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
             "ob86-summary",
-            "ob86-ristina"
+            "ob86-ristina",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -240638,11 +240834,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "La comitiva llega por la Puerta Jurada. Ristina cuenta a los viajeros."
+          ]
         },
         {
           "id": "ob86-obs-41-colot",
@@ -240663,12 +240859,13 @@
             453.279
           ],
           "kind": "scene",
-          "review": "secondary-source",
+          "review": "primary-text",
           "source": "ob86-summary",
           "sourceIds": [
-            "ob86-summary"
+            "ob86-summary",
+            "primary201-ob46"
           ],
-          "status": "pending",
+          "status": "confirmed",
           "coordinateStatus": "pending-calibration",
           "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-llanuras-quebradas",
@@ -240685,11 +240882,11 @@
             "bookId": "ob",
             "sceneId": "ob-chapter-46"
           },
-          "locator": null,
-          "needsConfirmation": [
-            "Cotejar pasaje, secuencia, traducción y calibración."
-          ],
-          "notes": []
+          "locator": "Juramentada, EPUB español, OEBPS/Text/46.Cuandomuere.xhtml. Está en Narak durante las pruebas de los escuderos y los aspirantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
         }
       ]
     },
@@ -269170,6 +269367,73 @@
           "needsConfirmation": [],
           "notes": [
             "Kaladin la ayuda a alcanzar al grupo junto con el padre y el niño."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eth-brother-ob46",
+      "name": "Hermano de Eth",
+      "role": "Skar recuerda que sorprendieron a Eth planeando desertar con su hermano, al que no nombra.",
+      "initial": "H",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Referencia localizada en el capítulo.",
+      "events": []
+    },
+    {
+      "id": "moash-punished-team-overseer-ob48",
+      "name": "Primer supervisor del trineo castigado",
+      "role": "Moash lo aparta del trabajador y lo desarma cuando este alza el látigo.",
+      "initial": "P",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Referencia localizada en el capítulo.",
+      "events": [
+        {
+          "id": "ob86-obs-51-moash-sledge-overseer",
+          "scene": "ob-chapter-48",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marcha de Revolar hacia Kholinar · Tramo sin localizar",
+          "placeId": "place-moash-road-to-kholinar-48",
+          "realm": "physical",
+          "placeNotes": [
+            "Sin coordenadas verificadas; no inventar punto ni ruta.",
+            "Dirección de viaje explícita; no equivale a llegada a Kholinar ni fija su avance exacto."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "ob86-summary",
+          "sourceIds": [
+            "ob86-summary",
+            "primary201-ob48"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-moash-road-to-kholinar-48",
+          "coordinateAnchorName": "Marcha de Revolar hacia Kholinar · Tramo sin localizar",
+          "storyTime": {
+            "relationToStart": "after-start",
+            "frame": "present",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden de la escena, sin fecha exacta ni simultaneidad asegurada con otras tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-48"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/48.Ritmotrabajo.xhtml. Azota al trabajador caído e intenta golpear a Moash con el látigo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Azota al trabajador caído e intenta golpear a Moash con el látigo."
           ]
         }
       ]
