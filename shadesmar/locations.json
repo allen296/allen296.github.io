@@ -3409,6 +3409,49 @@
       "pattern",
       "renarin",
       "shallan"
+    ],
+    "ob-chapter-54": [
+      "captor-daughter",
+      "khen",
+      "moash",
+      "moash-duel-fused",
+      "ob54-cistern-fused",
+      "ob54-flying-fused",
+      "ob54-workshop-supervisor",
+      "parshman-card-player"
+    ],
+    "ob-chapter-55": [
+      "cord",
+      "drehy",
+      "eth",
+      "gift",
+      "hobber",
+      "huio",
+      "kaladin",
+      "kelek-puuli",
+      "leyten",
+      "lopen",
+      "lyn",
+      "natam",
+      "rock",
+      "shen",
+      "sigzil",
+      "skar",
+      "teft",
+      "torfin",
+      "yake"
+    ],
+    "ob-chapter-56": [
+      "dalinar",
+      "dovcanti-ob56",
+      "gawx",
+      "jasnah",
+      "lift",
+      "masha-daughter-shaliv-ob56",
+      "navani",
+      "odium",
+      "shaliv-ob56",
+      "stormfather"
     ]
   },
   "knowledgeArchive": {
@@ -11803,6 +11846,40 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/53.Cortetorcido.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Eth invoca a Kalak durante el descanso en Narak.",
+        "sourceIds": [
+          "primary205-ob55"
+        ],
+        "id": "primary205-archive-kalak-invocation",
+        "entryId": "herald-kelek-puuli",
+        "value": "Eth invoca a Kalak durante el descanso en Narak.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-55"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Dalinar, Jasnah, Navani y Yanagawn participan en la recreación de la Traición. Dalinar oye al Padre Tormenta antes de que la visión se prolongue.",
+        "sourceIds": [
+          "primary205-ob56"
+        ],
+        "id": "primary205-archive-recreance-vision",
+        "entryId": "spren-person-stormfather",
+        "value": "Dalinar, Jasnah, Navani y Yanagawn participan en la recreación de la Traición. Dalinar oye al Padre Tormenta antes de que la visión se prolongue.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-56"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml",
         "supersedes": []
       }
     ],
@@ -59627,6 +59704,509 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Khen y Sah discuten el castigo. Moash ayuda a Khen a encontrar la palabra que buscaba.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-workshop-discussion",
+      "participants": [
+        "khen",
+        "parshman-card-player",
+        "moash"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Khen y Sah discuten el castigo. Moash ayuda a Khen a encontrar la palabra que buscaba.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Khen y Sah discuten el castigo. Moash ayuda a Khen a encontrar la palabra que buscaba.",
+        "pairs": [
+          [
+            "khen",
+            "parshman-card-player"
+          ],
+          [
+            "moash",
+            "khen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Moash pregunta quién está al mando. El Fusionado responde con una carcajada.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-fused-cistern",
+      "participants": [
+        "moash",
+        "ob54-cistern-fused"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Moash pregunta quién está al mando. El Fusionado responde con una carcajada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Moash pregunta quién está al mando. El Fusionado responde con una carcajada.",
+        "pairs": [
+          [
+            "moash",
+            "ob54-cistern-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. El Fusionado comunica que Leshwi lo recibirá y lo lleva por el aire.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-fused-flight",
+      "participants": [
+        "moash",
+        "ob54-flying-fused"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El Fusionado comunica que Leshwi lo recibirá y lo lleva por el aire.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Fusionado comunica que Leshwi lo recibirá y lo lleva por el aire.",
+        "pairs": [
+          [
+            "moash",
+            "ob54-flying-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Moash pregunta por el castigo de la cuadrilla y Leshwi explica su regreso en un cuerpo nuevo.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-moash-leshwi",
+      "participants": [
+        "moash",
+        "moash-duel-fused"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Moash pregunta por el castigo de la cuadrilla y Leshwi explica su regreso en un cuerpo nuevo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Moash pregunta por el castigo de la cuadrilla y Leshwi explica su regreso en un cuerpo nuevo.",
+        "pairs": [
+          [
+            "moash",
+            "moash-duel-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Moash reparte varas y se ofrece a enseñarles a luchar. Khen acepta.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-spear-offer",
+      "participants": [
+        "moash",
+        "khen",
+        "parshman-card-player"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Moash reparte varas y se ofrece a enseñarles a luchar. Khen acepta.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Moash reparte varas y se ofrece a enseñarles a luchar. Khen acepta.",
+        "pairs": [
+          [
+            "moash",
+            "khen"
+          ],
+          [
+            "moash",
+            "parshman-card-player"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Rlain habla con sus compañeros durante el descanso y explica su postura respecto a los Fusionados.",
+      "sourceIds": [
+        "primary205-ob55"
+      ],
+      "id": "primary205-rlain-drinks",
+      "participants": [
+        "shen",
+        "rock",
+        "eth",
+        "yake",
+        "cord",
+        "hobber"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-55"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Rlain habla con sus compañeros durante el descanso y explica su postura respecto a los Fusionados.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rlain habla con sus compañeros durante el descanso y explica su postura respecto a los Fusionados.",
+        "pairs": [
+          [
+            "shen",
+            "rock"
+          ],
+          [
+            "shen",
+            "eth"
+          ],
+          [
+            "shen",
+            "yake"
+          ],
+          [
+            "shen",
+            "cord"
+          ],
+          [
+            "shen",
+            "hobber"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. El grupo comenta el vuelo y las patrullas al regresar.",
+      "sourceIds": [
+        "primary205-ob55"
+      ],
+      "id": "primary205-patrol-return",
+      "participants": [
+        "skar",
+        "kaladin",
+        "leyten",
+        "lopen"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-55"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El grupo comenta el vuelo y las patrullas al regresar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El grupo comenta el vuelo y las patrullas al regresar.",
+        "pairs": [
+          [
+            "skar",
+            "kaladin"
+          ],
+          [
+            "leyten",
+            "lopen"
+          ],
+          [
+            "skar",
+            "lopen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Conversan sobre Renarin y Kaladin se disculpa por sus palabras a Drehy.",
+      "sourceIds": [
+        "primary205-ob55"
+      ],
+      "id": "primary205-renarin-discussion",
+      "participants": [
+        "kaladin",
+        "drehy",
+        "skar",
+        "lopen"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-55"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Conversan sobre Renarin y Kaladin se disculpa por sus palabras a Drehy.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobre Renarin y Kaladin se disculpa por sus palabras a Drehy.",
+        "pairs": [
+          [
+            "kaladin",
+            "drehy"
+          ],
+          [
+            "skar",
+            "kaladin"
+          ],
+          [
+            "lopen",
+            "drehy"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Roca invita a los demás a hablar de sus dudas y anima a Hobber a intervenir.",
+      "sourceIds": [
+        "primary205-ob55"
+      ],
+      "id": "primary205-rock-doubts",
+      "participants": [
+        "rock",
+        "hobber"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-55"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Roca invita a los demás a hablar de sus dudas y anima a Hobber a intervenir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Roca invita a los demás a hablar de sus dudas y anima a Hobber a intervenir.",
+        "pairs": [
+          [
+            "rock",
+            "hobber"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Los tres examinan la recreación y discuten su fecha y su posible relación con la Falsa Desolación.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-recreance-scholars",
+      "participants": [
+        "dalinar",
+        "navani",
+        "jasnah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Los tres examinan la recreación y discuten su fecha y su posible relación con la Falsa Desolación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los tres examinan la recreación y discuten su fecha y su posible relación con la Falsa Desolación.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "jasnah"
+          ],
+          [
+            "navani",
+            "jasnah"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Dalinar muestra la Traición a Yanagawn y debaten sobre la coalición y el futuro de Azir.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-yanagawn-recreance",
+      "participants": [
+        "dalinar",
+        "gawx"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar muestra la Traición a Yanagawn y debaten sobre la coalición y el futuro de Azir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar muestra la Traición a Yanagawn y debaten sobre la coalición y el futuro de Azir.",
+        "pairs": [
+          [
+            "dalinar",
+            "gawx"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Cuando la visión se prolonga, Dalinar habla con un hombre de blanco y oro que se presenta como Odium.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-odium-vision",
+      "participants": [
+        "dalinar",
+        "odium"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Cuando la visión se prolonga, Dalinar habla con un hombre de blanco y oro que se presenta como Odium.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Cuando la visión se prolonga, Dalinar habla con un hombre de blanco y oro que se presenta como Odium.",
+        "pairs": [
+          [
+            "dalinar",
+            "odium"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -90919,6 +91499,246 @@
       "kind": "background",
       "text": "Hace circular luz tormentosa por la pared y abre cajones con gemas.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Lo eleva y lo deja flotando cerca de Leshwi.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-ob54-flying-fused-intro",
+      "characterId": "ob54-flying-fused",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "kind": "background",
+      "text": "Lo eleva y lo deja flotando cerca de Leshwi.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Se ríe ante la petición de Moash y se deja caer al agua.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-ob54-cistern-fused-intro",
+      "characterId": "ob54-cistern-fused",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "kind": "background",
+      "text": "Se ríe ante la petición de Moash y se deja caer al agua.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Sigue a Moash hasta el aljibe. Leshwi dice haber sabido su nombre por ella.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-ob54-workshop-supervisor-intro",
+      "characterId": "ob54-workshop-supervisor",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "kind": "background",
+      "text": "Sigue a Moash hasta el aljibe. Leshwi dice haber sabido su nombre por ella.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Explica que su cuerpo anterior murió en el combate con Moash y que el cuerpo actual le fue ofrecido.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-fused-reincarnation",
+      "characterId": "moash-duel-fused",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "kind": "background",
+      "text": "Explica que su cuerpo anterior murió en el combate con Moash y que el cuerpo actual le fue ofrecido.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Dice que su abuelo le puso el nombre. Leshwi lo identifica como un antiguo nombre cantor.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-moash-name-origin",
+      "characterId": "moash",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "kind": "background",
+      "text": "Dice que su abuelo le puso el nombre. Leshwi lo identifica como un antiguo nombre cantor.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Sah dice que se llevaron a su hija. Su ubicación no se establece.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-vai-absence",
+      "characterId": "captor-daughter",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "kind": "background",
+      "text": "Sah dice que se llevaron a su hija. Su ubicación no se establece.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Considera al Puente Cuatro su familia y reflexiona sobre lo difícil que le resulta que comprendan su experiencia como oyente.",
+      "sourceIds": [
+        "primary205-ob55"
+      ],
+      "id": "primary205-rlain-bridge-four",
+      "characterId": "shen",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-55"
+      },
+      "kind": "background",
+      "text": "Considera al Puente Cuatro su familia y reflexiona sobre lo difícil que le resulta que comprendan su experiencia como oyente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. La conversación reafirma que corteja a un hombre, sin aportar un nombre nuevo.",
+      "sourceIds": [
+        "primary205-ob55"
+      ],
+      "id": "primary205-drehy-courtship-reaffirmed",
+      "characterId": "drehy",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-55"
+      },
+      "kind": "background",
+      "text": "La conversación reafirma que corteja a un hombre, sin aportar un nombre nuevo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Jasnah cita sus volúmenes al debatir cuándo ocurrió la Traición.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-masha-daughter-shaliv-ob56-intro",
+      "characterId": "masha-daughter-shaliv-ob56",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "Jasnah cita sus volúmenes al debatir cuándo ocurrió la Traición.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Autor de una epopeya sobre la Falsa Desolación que Jasnah cita.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-dovcanti-ob56-intro",
+      "characterId": "dovcanti-ob56",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "Autor de una epopeya sobre la Falsa Desolación que Jasnah cita.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Nombre conservado en el patronímico de Masha. No se individualiza su biografía.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-shaliv-ob56-intro",
+      "characterId": "shaliv-ob56",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "Nombre conservado en el patronímico de Masha. No se individualiza su biografía.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Jasnah la cita mediante un patronímico. El patronímico Masha-hija-Shaliv sugiere filiación, sin aportar más detalles.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-masha-patronym",
+      "characterId": "masha-daughter-shaliv-ob56",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "Jasnah la cita mediante un patronímico. El patronímico Masha-hija-Shaliv sugiere filiación, sin aportar más detalles.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. El patronímico Masha-hija-Shaliv sugiere filiación, sin aportar más detalles.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-shaliv-only-mention",
+      "characterId": "shaliv-ob56",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "El patronímico Masha-hija-Shaliv sugiere filiación, sin aportar más detalles.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Se presenta ante Dalinar dentro de la visión de la Traición. Su conversación no fija una presencia corporal en la fortaleza.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-odium-vision-intro",
+      "characterId": "odium",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "Se presenta ante Dalinar dentro de la visión de la Traición. Su conversación no fija una presencia corporal en la fortaleza.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Yanagawn transmite lo que piensa Lift. En este capítulo ella no aparece en la visión.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-lift-yanagawn-report",
+      "characterId": "lift",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-56"
+      },
+      "kind": "background",
+      "text": "Yanagawn transmite lo que piensa Lift. En este capítulo ella no aparece en la visión.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -93552,6 +94372,10 @@
         {
           "revision": 204,
           "notes": "Se conserva la filiación de Adolin y Renarin y se documentan la esposa de Teleb, la madre de Amaram y el primo de NanKhet. La afirmación de Amaram sobre Jasnah queda contradicha en el pasaje."
+        },
+        {
+          "revision": 205,
+          "notes": "Se cotejan la mención de la hija de Sah, el abuelo de Moash y la familia de Roca. El patronímico de Masha conserva su carácter de referencia."
         }
       ]
     }
@@ -96389,6 +97213,23 @@
       "notes": [
         "Dalinar recuerda al padre muerto en el refugio de Rathalas."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Leshwi está viva en un cuerpo nuevo y confirma que Moash mató su cuerpo anterior.",
+      "sourceIds": [
+        "primary205-ob54"
+      ],
+      "id": "primary205-leshwi-return",
+      "characterId": "moash-duel-fused",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-54"
+      },
+      "state": "alive",
+      "notes": [
+        "Leshwi está viva en un cuerpo nuevo y confirma que Moash mató su cuerpo anterior."
+      ]
     }
   ],
   "bookId": "wok",
@@ -96419,7 +97260,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 204,
+  "revision": 205,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -98934,6 +99775,30 @@
       "label": "Capítulo 53 · Un corte tan torcido",
       "part": "ob-2e",
       "source": "primary204-ob53"
+    },
+    {
+      "id": "ob-chapter-54",
+      "bookId": "ob",
+      "chapter": 54,
+      "label": "Capítulo 54 · El nombre de un antiguo cantor",
+      "part": "ob-2e",
+      "source": "primary205-ob54"
+    },
+    {
+      "id": "ob-chapter-55",
+      "bookId": "ob",
+      "chapter": 55,
+      "label": "Capítulo 55 · Solos juntos",
+      "part": "ob-2e",
+      "source": "primary205-ob55"
+    },
+    {
+      "id": "ob-chapter-56",
+      "bookId": "ob",
+      "chapter": 56,
+      "label": "Capítulo 56 · Siempre contigo",
+      "part": "ob-2e",
+      "source": "primary205-ob56"
     }
   ],
   "experiencePresentation": {
@@ -100010,6 +100875,103 @@
           410.831
         ],
         "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-vision-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "ob-chapter-56",
+      "type": "vision",
+      "experiencedPlace": "Recreación de la Traición en la Fortaleza de la Fiebre de Piedra",
+      "physicalPlaceId": "place-urithiru",
+      "notes": [
+        "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+      ],
+      "entryAnchor": {
+        "placeId": "place-urithiru",
+        "name": "Urithiru · Anclaje de ciudad",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-vision-navani",
+      "characterId": "navani",
+      "sceneId": "ob-chapter-56",
+      "type": "vision",
+      "experiencedPlace": "Recreación de la Traición en la Fortaleza de la Fiebre de Piedra",
+      "physicalPlaceId": "place-urithiru",
+      "notes": [
+        "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+      ],
+      "entryAnchor": {
+        "placeId": "place-urithiru",
+        "name": "Urithiru · Anclaje de ciudad",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-vision-jasnah",
+      "characterId": "jasnah",
+      "sceneId": "ob-chapter-56",
+      "type": "vision",
+      "experiencedPlace": "Recreación de la Traición en la Fortaleza de la Fiebre de Piedra",
+      "physicalPlaceId": "place-urithiru",
+      "notes": [
+        "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+      ],
+      "entryAnchor": {
+        "placeId": "place-urithiru",
+        "name": "Urithiru · Anclaje de ciudad",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+      "sourceIds": [
+        "primary205-ob56"
+      ],
+      "id": "primary205-vision-gawx",
+      "characterId": "gawx",
+      "sceneId": "ob-chapter-56",
+      "type": "vision",
+      "experiencedPlace": "Recreación de la Traición en la Fortaleza de la Fiebre de Piedra",
+      "physicalPlaceId": "place-gawx-vision-body-42",
+      "notes": [
+        "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+      ],
+      "entryAnchor": {
+        "placeId": "place-gawx-vision-body-42",
+        "name": "Ubicación corporal de Yanagawn durante la visión, sin precisar",
+        "xy": null,
+        "coordinateStatus": "unlocated"
       }
     }
   ],
@@ -114094,6 +115056,54 @@
           "needsConfirmation": [],
           "notes": [
             "Envía al grupo de vuelta al aire. Su misión a Ciudad Thaylen queda para la próxima alta tormenta."
+          ]
+        },
+        {
+          "id": "primary205-55-kaladin-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Vuelve de la patrulla y explica que tiene una reunión con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve de la patrulla y explica que tiene una reunión con Dalinar."
           ]
         }
       ]
@@ -129644,6 +130654,54 @@
           "notes": [
             "Infunde una gema de corte irregular y observa cómo pierde luz y vibra."
           ]
+        },
+        {
+          "id": "primary205-56-jasnah-1",
+          "scene": "ob-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Anclaje de ciudad",
+          "placeId": "place-urithiru",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
+            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "vision",
+          "review": "primary-text",
+          "source": "primary205-ob56",
+          "sourceIds": [
+            "primary205-ob56"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-56"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+          ]
         }
       ]
     },
@@ -144657,6 +145715,54 @@
           "needsConfirmation": [],
           "notes": [
             "Ve a sus hijos, muestra Juramentada a Adolin y se retira a dormir."
+          ]
+        },
+        {
+          "id": "primary205-56-dalinar-1",
+          "scene": "ob-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Anclaje de ciudad",
+          "placeId": "place-urithiru",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
+            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "vision",
+          "review": "primary-text",
+          "source": "primary205-ob56",
+          "sourceIds": [
+            "primary205-ob56"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-56"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en una visión compartida. La fortaleza pertenece a la recreación."
           ]
         }
       ]
@@ -163595,6 +164701,54 @@
           "notes": [
             "Explica que el corte irregular hará que la gema pierda luz y vibre."
           ]
+        },
+        {
+          "id": "primary205-56-navani-1",
+          "scene": "ob-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Anclaje de ciudad",
+          "placeId": "place-urithiru",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje provisional; no fija una sala, ventana ni piso exactos.",
+            "El mapa aportado identifica el punto de la ciudad. La asociación del interludio I-10 está pendiente de cotejo primario."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "vision",
+          "review": "primary-text",
+          "source": "primary205-ob56",
+          "sourceIds": [
+            "primary205-ob56"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-56"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+          ]
         }
       ]
     },
@@ -166942,6 +168096,54 @@
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
           ]
+        },
+        {
+          "id": "primary205-55-rock-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Sirve bebidas y les pide hablar de lo que les preocupa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sirve bebidas y les pide hablar de lo que les preocupa."
+          ]
         }
       ]
     },
@@ -169863,6 +171065,101 @@
           "needsConfirmation": [],
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
+        },
+        {
+          "id": "primary205-55-teft-1",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Meseta de prácticas del Puente Cuatro",
+          "placeId": "place-narak-training-37",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general de ciudad o región, sin calibrar esta dependencia o meseta exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Dirige a un grupo de hombres del puente que practica el vuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dirige a un grupo de hombres del puente que practica el vuelo."
+          ]
+        },
+        {
+          "id": "primary205-55-teft-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Aterriza con el grupo y escucha la conversación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza con el grupo y escucha la conversación."
           ]
         }
       ]
@@ -173139,6 +174436,231 @@
           "needsConfirmation": [],
           "notes": [
             "Su cuadrilla se desvía a un suburbio; le asignan trabajo en una carpintería."
+          ]
+        },
+        {
+          "id": "primary205-54-moash-1",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Transporta madera junto a Sah y Khen y escucha sus quejas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Transporta madera junto a Sah y Khen y escucha sus quejas."
+          ]
+        },
+        {
+          "id": "primary205-54-moash-2",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Aljibe del pueblo ocupado",
+          "placeId": "place-ob54-cistern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-cistern",
+          "coordinateAnchorName": "Aljibe del pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Pide hablar con alguien al mando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pide hablar con alguien al mando."
+          ]
+        },
+        {
+          "id": "primary205-54-moash-3",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Aire sobre el pueblo ocupado",
+          "placeId": "place-ob54-fused-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-fused-flight",
+          "coordinateAnchorName": "Aire sobre el pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Es elevado y habla con Leshwi. La reconoce por sus vetas, aunque tiene otros rasgos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Es elevado y habla con Leshwi. La reconoce por sus vetas, aunque tiene otros rasgos."
+          ]
+        },
+        {
+          "id": "primary205-54-moash-4",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rediles de caballos del pueblo ocupado",
+          "placeId": "place-ob54-horse-pens",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-horse-pens",
+          "coordinateAnchorName": "Rediles de caballos del pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Camina solo hasta los rediles y contempla los campos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Camina solo hasta los rediles y contempla los campos."
+          ]
+        },
+        {
+          "id": "primary205-54-moash-5",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Regresa y ofrece enseñar a la cuadrilla a usar las varas como lanzas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa y ofrece enseñar a la cuadrilla a usar las varas como lanzas."
           ]
         }
       ]
@@ -180220,6 +181742,54 @@
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
           ]
+        },
+        {
+          "id": "primary205-55-lopen-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Comenta el vuelo y después se aparta del grupo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta el vuelo y después se aparta del grupo."
+          ]
         }
       ]
     },
@@ -181755,6 +183325,54 @@
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
           ]
+        },
+        {
+          "id": "primary205-55-sigzil-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Bebe con los demás y participa en la conversación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bebe con los demás y participa en la conversación."
+          ]
         }
       ]
     },
@@ -182921,6 +184539,101 @@
           "needsConfirmation": [],
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
+        },
+        {
+          "id": "primary205-55-shen-1",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Meseta de prácticas del Puente Cuatro",
+          "placeId": "place-narak-training-37",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general de ciudad o región, sin calibrar esta dependencia o meseta exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Escucha los ritmos a solas y después cruza la meseta de entrenamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escucha los ritmos a solas y después cruza la meseta de entrenamiento."
+          ]
+        },
+        {
+          "id": "primary205-55-shen-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Bebe con sus compañeros y les dice que los Fusionados también son sus enemigos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Bebe con sus compañeros y les dice que los Fusionados también son sus enemigos."
           ]
         }
       ]
@@ -188780,6 +190493,54 @@
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
           ]
+        },
+        {
+          "id": "primary205-55-skar-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Llega con el grupo de Teft y pregunta si hablarán de Renarin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega con el grupo de Teft y pregunta si hablarán de Renarin."
+          ]
         }
       ]
     },
@@ -190025,6 +191786,54 @@
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
           ]
+        },
+        {
+          "id": "primary205-55-drehy-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Comenta los límites de las patrullas y responde durante la conversación sobre Renarin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comenta los límites de las patrullas y responde durante la conversación sobre Renarin."
+          ]
         }
       ]
     },
@@ -191124,6 +192933,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
+        },
+        {
+          "id": "primary205-55-leyten-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Regresa y cuenta cómo ve las Llanuras desde el aire.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa y cuenta cómo ve las Llanuras desde el aire."
           ]
         }
       ]
@@ -209437,6 +211294,54 @@
           "notes": [
             "Participa en las prácticas del Puente Cuatro en Narak."
           ]
+        },
+        {
+          "id": "primary205-55-hobber-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Habla de sus dudas y da una palmada a Rlain.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de sus dudas y da una palmada a Rlain."
+          ]
         }
       ]
     },
@@ -221546,6 +223451,50 @@
           "notes": [
             "Participa como Yanagawn. El capítulo no localiza su cuerpo."
           ]
+        },
+        {
+          "id": "primary205-56-gawx-1",
+          "scene": "ob-chapter-56",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ubicación corporal de Yanagawn durante la visión, sin precisar",
+          "placeId": "place-gawx-vision-body-42",
+          "realm": "physical",
+          "placeNotes": [
+            "Sin coordenadas verificadas; no deducir destino por una visión, un plan o una captura."
+          ],
+          "xy": null,
+          "kind": "vision",
+          "review": "primary-text",
+          "source": "primary205-ob56",
+          "sourceIds": [
+            "primary205-ob56"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-gawx-vision-body-42",
+          "coordinateAnchorName": "Ubicación corporal de Yanagawn durante la visión, sin precisar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-56"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/56.Siemprecontigo.xhtml. Participa en una visión compartida. La fortaleza pertenece a la recreación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+          ]
         }
       ]
     },
@@ -232345,6 +234294,53 @@
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
           ]
+        },
+        {
+          "id": "primary205-55-lyn-1",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Meseta de prácticas del Puente Cuatro",
+          "placeId": "place-narak-training-37",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general de ciudad o región, sin calibrar esta dependencia o meseta exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Participa en las prácticas con el Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en las prácticas con el Puente Cuatro."
+          ]
         }
       ]
     },
@@ -233844,6 +235840,96 @@
           "notes": [
             "Descansa con la cuadrilla y habla con Moash sobre los Fusionados."
           ]
+        },
+        {
+          "id": "primary205-54-parshman-card-player-1",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Trabaja con Khen. Dice que se llevaron a su hija y teme las consecuencias del castigo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Trabaja con Khen. Dice que se llevaron a su hija y teme las consecuencias del castigo."
+          ]
+        },
+        {
+          "id": "primary205-54-parshman-card-player-5",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Recibe una vara de Moash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe una vara de Moash."
+          ]
         }
       ]
     },
@@ -234182,6 +236268,96 @@
           "needsConfirmation": [],
           "notes": [
             "El grupo llega al lugar de recepción. Sah habla de Vai y transmite lo que dice Yixli."
+          ]
+        },
+        {
+          "id": "primary205-54-khen-1",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Discute con Sah las condiciones de trabajo y cómo responder.",
+          "needsConfirmation": [],
+          "notes": [
+            "Discute con Sah las condiciones de trabajo y cómo responder."
+          ]
+        },
+        {
+          "id": "primary205-54-khen-5",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Carpintería en un suburbio exterior a Kholinar",
+          "placeId": "place-ob51-workshop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/51.Circulocierra.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob51-workshop",
+          "coordinateAnchorName": "Carpintería en un suburbio exterior a Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Acepta aprender a combatir con las varas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acepta aprender a combatir con las varas."
           ]
         }
       ]
@@ -237236,6 +239412,54 @@
           "needsConfirmation": [],
           "notes": [
             "Participa en las prácticas del Puente Cuatro en Narak."
+          ]
+        },
+        {
+          "id": "primary205-55-huio-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Explica que le avergüenza su dificultad con el alezi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica que le avergüenza su dificultad con el alezi."
           ]
         }
       ]
@@ -240455,6 +242679,54 @@
           "notes": [
             "Permanece en la cámara de la columna de gemas durante el contacto de Shallan y la retirada de la oscuridad."
           ]
+        },
+        {
+          "id": "primary205-55-eth-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Habla de los Fusionados con Rlain.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de los Fusionados con Rlain."
+          ]
         }
       ]
     },
@@ -242484,6 +244756,54 @@
           "notes": [
             "El grupo se dirige al puente hacia la Puerta Jurada."
           ]
+        },
+        {
+          "id": "primary205-55-gift-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Reparte tazas en el puesto de su padre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reparte tazas en el puesto de su padre."
+          ]
         }
       ]
     },
@@ -242590,6 +244910,54 @@
           "needsConfirmation": [],
           "notes": [
             "El grupo se dirige al puente hacia la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary205-55-cord-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Reparte tazas y rellena la de Rlain.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reparte tazas y rellena la de Rlain."
           ]
         }
       ]
@@ -244188,6 +246556,20 @@
       "color": "#a8b9c4",
       "importance": "tertiary",
       "importanceReason": "Intervención o mención local en el tramo documentado, sin perspectiva propia ni arco independiente conocido.",
+      "nameRevelations": [
+        {
+          "name": "Leshwi",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. La Fusionada se identifica con la combatiente que Moash abatió. Explica que ahora ocupa otro cuerpo.",
+          "sourceIds": [
+            "primary205-ob54"
+          ]
+        }
+      ],
       "events": [
         {
           "id": "ob84-obs-22-moash-duel-fused",
@@ -244236,6 +246618,51 @@
           "needsConfirmation": [],
           "notes": [
             "Ataca a Moash y este abate su cuerpo."
+          ]
+        },
+        {
+          "id": "primary205-54-moash-duel-fused-3",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Aire sobre el pueblo ocupado",
+          "placeId": "place-ob54-fused-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-fused-flight",
+          "coordinateAnchorName": "Aire sobre el pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Habla con Moash y explica cómo volvió en otro cuerpo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Moash y explica cómo volvió en otro cuerpo."
           ]
         }
       ]
@@ -251996,6 +254423,54 @@
           "notes": [
             "Vuelve a la instrucción y se enfrenta por turnos a la portadora de esquirlada."
           ]
+        },
+        {
+          "id": "primary205-55-yake-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Habla del entrenamiento y de las incursiones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla del entrenamiento y de las incursiones."
+          ]
         }
       ]
     },
@@ -252194,6 +254669,54 @@
           "needsConfirmation": [],
           "notes": [
             "Continúa en la pista de equitación; las patrullas exteriores siguen siendo un proyecto futuro."
+          ]
+        },
+        {
+          "id": "primary205-55-natam-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Habla del trabajo de Renarin con las eruditas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla del trabajo de Renarin con las eruditas."
           ]
         }
       ]
@@ -254157,7 +256680,56 @@
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Mención primaria con contexto propio, sin coordenadas añadidas para habilitar su ficha.",
-      "events": []
+      "events": [
+        {
+          "id": "primary205-55-torfin-2",
+          "scene": "ob-chapter-55",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Puesto de bebidas de Roca",
+          "placeId": "place-ob55-narak-drink-station",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob55",
+          "sourceIds": [
+            "primary205-ob55"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-55"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/55.Solojuntos.xhtml. Dice que le dan miedo las alturas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dice que le dan miedo las alturas."
+          ]
+        }
+      ]
     },
     {
       "id": "ladent",
@@ -275494,6 +278066,204 @@
       "name": "Primo de NanKhet",
       "initial": "P",
       "role": "La crónica le atribuye un ataque que dejó al rey ciego de un ojo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob54-flying-fused",
+      "name": "Fusionado que lleva a Moash ante Leshwi",
+      "initial": "F",
+      "role": "Lo eleva y lo deja flotando cerca de Leshwi.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary205-54-ob54-flying-fused-3",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Aire sobre el pueblo ocupado",
+          "placeId": "place-ob54-fused-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-fused-flight",
+          "coordinateAnchorName": "Aire sobre el pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Eleva a Moash y lo deja cerca de Leshwi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eleva a Moash y lo deja cerca de Leshwi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob54-cistern-fused",
+      "name": "Fusionado del aljibe",
+      "initial": "F",
+      "role": "Se ríe ante la petición de Moash y se deja caer al agua.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary205-54-ob54-cistern-fused-2",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Aljibe del pueblo ocupado",
+          "placeId": "place-ob54-cistern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-cistern",
+          "coordinateAnchorName": "Aljibe del pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Se ríe y cae de espaldas al agua.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se ríe y cae de espaldas al agua."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob54-workshop-supervisor",
+      "name": "Supervisora de la cuadrilla de la serrería",
+      "initial": "S",
+      "role": "Sigue a Moash hasta el aljibe. Leshwi dice haber sabido su nombre por ella.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary205-54-ob54-workshop-supervisor-2",
+          "scene": "ob-chapter-54",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Aljibe del pueblo ocupado",
+          "placeId": "place-ob54-cistern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary205-ob54",
+          "sourceIds": [
+            "primary205-ob54"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob54-cistern",
+          "coordinateAnchorName": "Aljibe del pueblo ocupado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-54"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/54.Nombrecantor.xhtml. Sigue a Moash cuando se aparta de la cuadrilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigue a Moash cuando se aparta de la cuadrilla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "masha-daughter-shaliv-ob56",
+      "name": "Masha-hija-Shaliv",
+      "initial": "M",
+      "role": "Jasnah cita sus volúmenes al debatir cuándo ocurrió la Traición.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "dovcanti-ob56",
+      "name": "Dovcanti",
+      "initial": "D",
+      "role": "Autor de una epopeya sobre la Falsa Desolación que Jasnah cita.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "shaliv-ob56",
+      "name": "Shaliv",
+      "initial": "S",
+      "role": "Nombre conservado en el patronímico de Masha. No se individualiza su biografía.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
