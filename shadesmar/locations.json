@@ -3973,6 +3973,34 @@
       "renarin",
       "sadeas",
       "tenathar-ob88"
+    ],
+    "ob-chapter-89": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "ob87-oathgate-black-sentinel",
+      "ob87-oathgate-red-sentinel",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "syl"
+    ],
+    "ob-chapter-90": [
+      "black-sword",
+      "crescent-scar-stranger",
+      "ki-ob90",
+      "neturo",
+      "ob90-skybreaker-crusade-instructor",
+      "ob90-skybreaker-law-instructor",
+      "szeth"
+    ],
+    "ob-chapter-91": [
+      "kaladin",
+      "pattern",
+      "stormfather",
+      "syl",
+      "tien",
+      "tukks-ob91"
     ]
   },
   "knowledgeArchive": {
@@ -14223,6 +14251,176 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Adolin reconoce como miedospren a las criaturas semejantes a anguilas con patas y antenas moradas.",
+        "sourceIds": [
+          "primary218-ob89"
+        ],
+        "id": "primary218-archive-shadesmar-fearspren",
+        "entryId": "spren-type-fearspren",
+        "value": "Adolin reconoce como miedospren a las criaturas semejantes a anguilas con patas y antenas moradas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Patrón identifica a la figura de ojos raspados como la hoja de Adolin. Reacciona cuando él intenta invocarla.",
+        "sourceIds": [
+          "primary218-ob89"
+        ],
+        "id": "primary218-archive-adolin-cognitive-blade",
+        "entryId": "spren-person-ob87-platform-thread-spren",
+        "value": "Patrón identifica a la figura de ojos raspados como la hoja de Adolin. Reacciona cuando él intenta invocarla.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Patrón identifica a los dos centinelas como las almas de la Puerta Jurada. Syl interpreta el color rojo como señal de corrupción.",
+        "sourceIds": [
+          "primary218-ob89"
+        ],
+        "id": "primary218-archive-gate-soul-ob87-oathgate-black-sentinel",
+        "entryId": "spren-person-ob87-oathgate-black-sentinel",
+        "value": "Patrón identifica a los dos centinelas como las almas de la Puerta Jurada. Syl interpreta el color rojo como señal de corrupción.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Patrón identifica a los dos centinelas como las almas de la Puerta Jurada. Syl interpreta el color rojo como señal de corrupción.",
+        "sourceIds": [
+          "primary218-ob89"
+        ],
+        "id": "primary218-archive-gate-soul-ob87-oathgate-red-sentinel",
+        "entryId": "spren-person-ob87-oathgate-red-sentinel",
+        "value": "Patrón identifica a los dos centinelas como las almas de la Puerta Jurada. Syl interpreta el color rojo como señal de corrupción.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Ayuda a Shallan a escoger una cuenta para formar superficies de paso. Interpreta las luces como almas del otro lado.",
+        "sourceIds": [
+          "primary218-ob89"
+        ],
+        "id": "primary218-archive-shade-bead-thoughts",
+        "entryId": "spren-person-pattern",
+        "value": "Ayuda a Shallan a escoger una cuenta para formar superficies de paso. Interpreta las luces como almas del otro lado.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Szeth recuerda que Nin usó un fabrial para sanarlo tras su derrota y recuerda las variantes Nale, Nalan y Nakku.",
+        "sourceIds": [
+          "primary218-ob90"
+        ],
+        "id": "primary218-archive-nin-szeth-restoration",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Szeth recuerda que Nin usó un fabrial para sanarlo tras su derrota y recuerda las variantes Nale, Nalan y Nakku.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Ki dice que los altospren juzgan a los aspirantes y que el vínculo con uno debe preceder al tercer Ideal.",
+        "sourceIds": [
+          "primary218-ob90"
+        ],
+        "id": "primary218-archive-highspren-ideals",
+        "entryId": "spren-type-highspren",
+        "value": "Ki dice que los altospren juzgan a los aspirantes y que el vínculo con uno debe preceder al tercer Ideal.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Syl recuerda su paso al mundo físico, llama padre al Padre Tormenta y explica que su vínculo con Kaladin influye en si puede regresar.",
+        "sourceIds": [
+          "primary218-ob91"
+        ],
+        "id": "primary218-archive-syl-human-bond-shadesmar",
+        "entryId": "spren-person-syl",
+        "value": "Syl recuerda su paso al mundo físico, llama padre al Padre Tormenta y explica que su vínculo con Kaladin influye en si puede regresar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-91"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Kaladin observa un ejemplar alargado con patas cortas y antenas púrpuras que pasa junto a la orilla.",
+        "sourceIds": [
+          "primary218-ob91"
+        ],
+        "id": "primary218-archive-shore-fearspren",
+        "entryId": "spren-type-fearspren",
+        "value": "Kaladin observa un ejemplar alargado con patas cortas y antenas púrpuras que pasa junto a la orilla.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-91"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Kaladin reconoce una bandada de spren con alas largas y bolas doradas flotantes delante de sus cuerpos.",
+        "sourceIds": [
+          "primary218-ob91"
+        ],
+        "id": "primary218-archive-cognitive-gloryspren",
+        "entryId": "spren-type-gloryspren",
+        "value": "Kaladin reconoce una bandada de spren con alas largas y bolas doradas flotantes delante de sus cuerpos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-91"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
         "supersedes": []
       }
     ],
@@ -68101,6 +68299,265 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Celeste explica dónde están. Patrón identifica la hoja de Adolin y Syl avisa a Kaladin de que su luz atrae a los spren.",
+      "sourceIds": [
+        "primary218-ob89"
+      ],
+      "id": "primary218-shadesmar-orientation",
+      "participants": [
+        "adolin",
+        "highmarshal-celeste-ob61",
+        "shallan",
+        "pattern",
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Celeste explica dónde están. Patrón identifica la hoja de Adolin y Syl avisa a Kaladin de que su luz atrae a los spren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Celeste explica dónde están. Patrón identifica la hoja de Adolin y Syl avisa a Kaladin de que su luz atrae a los spren.",
+        "pairs": [
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "adolin",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Patrón ayuda a encontrar una cuenta adecuada. Shallan forma superficies para cruzar y Adolin acompaña a Kaladin y ayuda a Shallan en la orilla.",
+      "sourceIds": [
+        "primary218-ob89"
+      ],
+      "id": "primary218-shadesmar-crossing",
+      "participants": [
+        "shallan",
+        "pattern",
+        "adolin",
+        "kaladin",
+        "highmarshal-celeste-ob61",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Patrón ayuda a encontrar una cuenta adecuada. Shallan forma superficies para cruzar y Adolin acompaña a Kaladin y ayuda a Shallan en la orilla.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Patrón ayuda a encontrar una cuenta adecuada. Shallan forma superficies para cruzar y Adolin acompaña a Kaladin y ayuda a Shallan en la orilla.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "adolin",
+            "kaladin"
+          ],
+          [
+            "highmarshal-celeste-ob61",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Szeth pregunta por los Ideales. Ki los explica y lo lanza hacia los Rompedores que lo transportan.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-szeth-ki-ideals",
+      "participants": [
+        "szeth",
+        "ki-ob90",
+        "ob90-skybreaker-law-instructor"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth pregunta por los Ideales. Ki los explica y lo lanza hacia los Rompedores que lo transportan.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth pregunta por los Ideales. Ki los explica y lo lanza hacia los Rompedores que lo transportan.",
+        "pairs": [
+          [
+            "szeth",
+            "ki-ob90"
+          ],
+          [
+            "szeth",
+            "ob90-skybreaker-law-instructor"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Szeth y la espada hablan del lago y de los riesgos de desenvainarla.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-szeth-sword-marabezia",
+      "participants": [
+        "szeth",
+        "black-sword"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth y la espada hablan del lago y de los riesgos de desenvainarla.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth y la espada hablan del lago y de los riesgos de desenvainarla.",
+        "pairs": [
+          [
+            "szeth",
+            "black-sword"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Tukks comunica que Tien está en la séptima y aconseja a Kaladin concentrarse en proteger a sus compañeros.",
+      "sourceIds": [
+        "primary218-ob91"
+      ],
+      "id": "primary218-tukks-recruit-memory",
+      "participants": [
+        "kaladin",
+        "tukks-ob91"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-91"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Recuerdo del servicio de Kaladin en el ejército de Amaram. Sin fecha exacta."
+      },
+      "type": "conversation",
+      "summary": "Tukks comunica que Tien está en la séptima y aconseja a Kaladin concentrarse en proteger a sus compañeros.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Tukks comunica que Tien está en la séptima y aconseja a Kaladin concentrarse en proteger a sus compañeros.",
+        "pairs": [
+          [
+            "kaladin",
+            "tukks-ob91"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Kaladin y Syl hablan del bloqueo en Kholinar, el paso entre reinos y el vínculo que los une.",
+      "sourceIds": [
+        "primary218-ob91"
+      ],
+      "id": "primary218-syl-kaladin-shadesmar",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-91"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin y Syl hablan del bloqueo en Kholinar, el paso entre reinos y el vínculo que los une.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin y Syl hablan del bloqueo en Kholinar, el paso entre reinos y el vínculo que los une.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -103825,6 +104282,214 @@
       "kind": "background",
       "text": "Dalinar recuerda cómo Sadeas difundió lo ocurrido en Rathalas en beneficio del rey.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Patrón la identifica como la hoja esquirlada de Adolin. Su nombre permanece sin revelar.",
+      "sourceIds": [
+        "primary218-ob89"
+      ],
+      "id": "primary218-adolin-blade-identified",
+      "characterId": "ob87-platform-thread-spren",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-89"
+      },
+      "kind": "background",
+      "text": "Patrón la identifica como la hoja esquirlada de Adolin. Su nombre permanece sin revelar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Dice que llegó a esas tierras por Shadesmar con guías alrededor de un año antes.",
+      "sourceIds": [
+        "primary218-ob89"
+      ],
+      "id": "primary218-celeste-prior-shadesmar-crossing",
+      "characterId": "highmarshal-celeste-ob61",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-89"
+      },
+      "kind": "background",
+      "text": "Dice que llegó a esas tierras por Shadesmar con guías alrededor de un año antes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Piensa en la muerte de Elhokar, el paradero incierto de Gavinor y la intención de Dalinar de abdicar al considerar la sucesión.",
+      "sourceIds": [
+        "primary218-ob89"
+      ],
+      "id": "primary218-adolin-succession-reflection",
+      "characterId": "adolin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-89"
+      },
+      "kind": "background",
+      "text": "Piensa en la muerte de Elhokar, el paradero incierto de Gavinor y la intención de Dalinar de abdicar al considerar la sucesión.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Rompedora del Cielo que instruye a los aspirantes y lanza a Szeth al aire.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-ki-ob90-intro",
+      "characterId": "ki-ob90",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Rompedora del Cielo que instruye a los aspirantes y lanza a Szeth al aire.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Interviene cuando Szeth pregunta cómo se llega al Ideal de la Ley.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-ob90-skybreaker-law-instructor-intro",
+      "characterId": "ob90-skybreaker-law-instructor",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Interviene cuando Szeth pregunta cómo se llega al Ideal de la Ley.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Describe el cuarto Ideal ante los aspirantes.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-ob90-skybreaker-crusade-instructor-intro",
+      "characterId": "ob90-skybreaker-crusade-instructor",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Describe el cuarto Ideal ante los aspirantes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Recuerda que Nin sanó su cuerpo con un fabrial antes de que partiera su espíritu. Percibe que su reincorporación quedó incompleta.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-szeth-restoration-account",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Recuerda que Nin sanó su cuerpo con un fabrial antes de que partiera su espíritu. Percibe que su reincorporación quedó incompleta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Recita el primer Ideal con los aspirantes. A continuación comprueba que todavía no puede absorber luz tormentosa.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-szeth-first-ideal",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Recita el primer Ideal con los aspirantes. A continuación comprueba que todavía no puede absorber luz tormentosa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Ki se dirige a Szeth usando el patronímico Szeth-hijo-Neturo.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-neturo-ki-patronym",
+      "characterId": "neturo",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Ki se dirige a Szeth usando el patronímico Szeth-hijo-Neturo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Szeth se dirige al arma como espada-nimi. Hablan sin desenvainarla.",
+      "sourceIds": [
+        "primary218-ob90"
+      ],
+      "id": "primary218-sword-nimi-address",
+      "characterId": "black-sword",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-90"
+      },
+      "kind": "background",
+      "text": "Szeth se dirige al arma como espada-nimi. Hablan sin desenvainarla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Sargento que habla con Kaladin cuando este limpia el suelo del acuartelamiento.",
+      "sourceIds": [
+        "primary218-ob91"
+      ],
+      "id": "primary218-tukks-ob91-intro",
+      "characterId": "tukks-ob91",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-91"
+      },
+      "kind": "background",
+      "text": "Sargento que habla con Kaladin cuando este limpia el suelo del acuartelamiento.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. En el recuerdo, Tukks dice que Tien está en la séptima. Kaladin explica que es mensajero.",
+      "sourceIds": [
+        "primary218-ob91"
+      ],
+      "id": "primary218-tien-seventh-messenger",
+      "characterId": "tien",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-91"
+      },
+      "kind": "background",
+      "text": "En el recuerdo, Tukks dice que Tien está en la séptima. Kaladin explica que es mensajero.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Kaladin entiende que Syl se refiere al Padre Tormenta cuando habla de su padre.",
+      "sourceIds": [
+        "primary218-ob91"
+      ],
+      "id": "primary218-syl-father-reference",
+      "characterId": "stormfather",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-91"
+      },
+      "kind": "background",
+      "text": "Kaladin entiende que Syl se refiere al Padre Tormenta cuando habla de su padre.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -106510,6 +107175,10 @@
         {
           "revision": 217,
           "notes": "Se revisan la afirmación de parentesco de Sheler, la relación entre Venli y Eshonai y las referencias a Evi, los hijos de Dalinar y el tío de Adolin. El pariente de Sheler queda por identificar en el pasaje."
+        },
+        {
+          "revision": 218,
+          "notes": "Se revisan Gavinor y la sucesión de Adolin, el patronímico de Szeth, Tien y el trato de Syl al Padre Tormenta. Se conserva este último como denominación atestiguada sin atribuirle una filiación biológica."
         }
       ]
     }
@@ -109649,7 +110318,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 217,
+  "revision": 218,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -112505,6 +113174,31 @@
       "part": "ob-4a",
       "source": "primary217-ob88",
       "flashback": true
+    },
+    {
+      "id": "ob-chapter-89",
+      "bookId": "ob",
+      "chapter": 89,
+      "label": "Capítulo 89 · Condenación",
+      "part": "ob-4a",
+      "source": "primary218-ob89"
+    },
+    {
+      "id": "ob-chapter-90",
+      "bookId": "ob",
+      "chapter": 90,
+      "label": "Capítulo 90 · Renacido",
+      "part": "ob-4a",
+      "source": "primary218-ob90"
+    },
+    {
+      "id": "ob-chapter-91",
+      "bookId": "ob",
+      "chapter": 91,
+      "label": "Capítulo 91 · Por qué se bloqueó",
+      "part": "ob-4a",
+      "source": "primary218-ob91",
+      "mixedFlashback": true
     }
   ],
   "experiencePresentation": {
@@ -130553,6 +131247,321 @@
           "notes": [
             "Aparece en la plataforma circular tras el traslado."
           ]
+        },
+        {
+          "id": "primary218-89-kaladin-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Está en la plataforma mientras se acercan los spren del mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plataforma mientras se acercan los spren del mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary218-89-kaladin-2",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Travesía del mar de cuentas",
+          "placeId": "place-ob89-shadesmar-bead-crossing",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
+          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Avanza por las superficies de cuentas que Shallan va formando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza por las superficies de cuentas que Shallan va formando."
+          ]
+        },
+        {
+          "id": "primary218-89-kaladin-3",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Alcanza la orilla de piedra negra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza la orilla de piedra negra."
+          ]
+        },
+        {
+          "id": "primary218-89-kaladin-4",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Pasa a la depresión donde el grupo decide acampar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la depresión donde el grupo decide acampar."
+          ]
+        },
+        {
+          "id": "primary218-91-kaladin-1",
+          "scene": "ob-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ejército de Amaram · Acuartelamiento del recuerdo de Kaladin",
+          "placeId": "place-ob91-amaram-recruit-barracks",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob91",
+          "sourceIds": [
+            "primary218-ob91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob91-amaram-recruit-barracks",
+          "coordinateAnchorName": "Ejército de Amaram · Acuartelamiento del recuerdo de Kaladin",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Recuerdo del servicio de Kaladin en el ejército de Amaram. Sin fecha exacta."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-91"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Limpia crem del suelo tras quedarse paralizado en un ejercicio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Limpia crem del suelo tras quedarse paralizado en un ejercicio."
+          ]
+        },
+        {
+          "id": "primary218-91-kaladin-2",
+          "scene": "ob-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Saliente de obsidiana junto al campamento",
+          "placeId": "place-ob91-shadesmar-obsidian-seat",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob91",
+          "sourceIds": [
+            "primary218-ob91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob91-shadesmar-obsidian-seat",
+          "coordinateAnchorName": "Shadesmar · Saliente de obsidiana junto al campamento",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-91"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Sentado junto a la orilla, recuerda su instrucción y habla con Syl de la refriega en Kholinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sentado junto a la orilla, recuerda su instrucción y habla con Syl de la refriega en Kholinar."
+          ]
+        },
+        {
+          "id": "primary218-91-kaladin-3",
+          "scene": "ob-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob91",
+          "sourceIds": [
+            "primary218-ob91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-91"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Al oír que los demás se mueven, vuelve al grupo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al oír que los demás se mueven, vuelve al grupo."
+          ]
         }
       ]
     },
@@ -148152,6 +149161,186 @@
           "notes": [
             "Aparece en la plataforma circular tras el traslado."
           ]
+        },
+        {
+          "id": "primary218-89-shallan-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Está en la plataforma mientras se acercan los spren del mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plataforma mientras se acercan los spren del mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary218-89-shallan-2",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Travesía del mar de cuentas",
+          "placeId": "place-ob89-shadesmar-bead-crossing",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
+          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Avanza por las superficies de cuentas que Shallan va formando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza por las superficies de cuentas que Shallan va formando."
+          ]
+        },
+        {
+          "id": "primary218-89-shallan-3",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Alcanza la orilla de piedra negra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza la orilla de piedra negra."
+          ]
+        },
+        {
+          "id": "primary218-89-shallan-4",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Pasa a la depresión donde el grupo decide acampar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la depresión donde el grupo decide acampar."
+          ]
         }
       ]
     },
@@ -151502,6 +152691,96 @@
           "needsConfirmation": [],
           "notes": [
             "El asesino de blanco sale de la sala mientras Eshonai toca. Identidad por el episodio ya narrado, sin situarlo en la reunión de Gavilar."
+          ]
+        },
+        {
+          "id": "primary218-90-szeth-1",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Participa en la preparación de los aspirantes frente a la fortaleza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la preparación de los aspirantes frente a la fortaleza."
+          ]
+        },
+        {
+          "id": "primary218-90-szeth-2",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Vuelo desde la fortaleza hacia la prueba",
+          "placeId": "place-ob90-marabezia-skybreaker-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-flight",
+          "coordinateAnchorName": "Marabezia · Vuelo desde la fortaleza hacia la prueba",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Parte por aire hacia el lugar de la prueba. Los Rompedores sostienen y lanzan a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte por aire hacia el lugar de la prueba. Los Rompedores sostienen y lanzan a Szeth."
           ]
         }
       ]
@@ -156666,6 +157945,231 @@
           "needsConfirmation": [],
           "notes": [
             "Adolin ve a la joven de piel azul pálida y vestido vaporoso en la plataforma."
+          ]
+        },
+        {
+          "id": "primary218-89-syl-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Está en la plataforma mientras se acercan los spren del mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plataforma mientras se acercan los spren del mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary218-89-syl-2",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Travesía del mar de cuentas",
+          "placeId": "place-ob89-shadesmar-bead-crossing",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
+          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Avanza por las superficies de cuentas que Shallan va formando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza por las superficies de cuentas que Shallan va formando."
+          ]
+        },
+        {
+          "id": "primary218-89-syl-3",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Alcanza la orilla de piedra negra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza la orilla de piedra negra."
+          ]
+        },
+        {
+          "id": "primary218-89-syl-4",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Pasa a la depresión donde el grupo decide acampar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la depresión donde el grupo decide acampar."
+          ]
+        },
+        {
+          "id": "primary218-91-syl-2",
+          "scene": "ob-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Saliente de obsidiana junto al campamento",
+          "placeId": "place-ob91-shadesmar-obsidian-seat",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob91",
+          "sourceIds": [
+            "primary218-ob91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob91-shadesmar-obsidian-seat",
+          "coordinateAnchorName": "Shadesmar · Saliente de obsidiana junto al campamento",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-91"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Se sienta al lado de Kaladin y le habla de los spren y de su vínculo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se sienta al lado de Kaladin y le habla de los spren y de su vínculo."
           ]
         }
       ]
@@ -177231,6 +178735,186 @@
           "needsConfirmation": [],
           "notes": [
             "Dalinar reconoce su voz al otro lado de la puerta."
+          ]
+        },
+        {
+          "id": "primary218-89-adolin-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Está en la plataforma mientras se acercan los spren del mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plataforma mientras se acercan los spren del mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary218-89-adolin-2",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Travesía del mar de cuentas",
+          "placeId": "place-ob89-shadesmar-bead-crossing",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
+          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Avanza por las superficies de cuentas que Shallan va formando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza por las superficies de cuentas que Shallan va formando."
+          ]
+        },
+        {
+          "id": "primary218-89-adolin-3",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Alcanza la orilla de piedra negra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza la orilla de piedra negra."
+          ]
+        },
+        {
+          "id": "primary218-89-adolin-4",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Pasa a la depresión donde el grupo decide acampar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la depresión donde el grupo decide acampar."
           ]
         }
       ]
@@ -229383,6 +231067,231 @@
           "notes": [
             "La figura de aspecto geométrico habla en la plataforma."
           ]
+        },
+        {
+          "id": "primary218-89-pattern-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Está en la plataforma mientras se acercan los spren del mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plataforma mientras se acercan los spren del mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary218-89-pattern-2",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Travesía del mar de cuentas",
+          "placeId": "place-ob89-shadesmar-bead-crossing",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
+          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Avanza por las superficies de cuentas que Shallan va formando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza por las superficies de cuentas que Shallan va formando."
+          ]
+        },
+        {
+          "id": "primary218-89-pattern-3",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Alcanza la orilla de piedra negra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza la orilla de piedra negra."
+          ]
+        },
+        {
+          "id": "primary218-89-pattern-4",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Pasa a la depresión donde el grupo decide acampar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la depresión donde el grupo decide acampar."
+          ]
+        },
+        {
+          "id": "primary218-91-pattern-3",
+          "scene": "ob-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob91",
+          "sourceIds": [
+            "primary218-ob91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-91"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Según Syl, vigila mientras los demás duermen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Según Syl, vigila mientras los demás duermen."
+          ]
         }
       ]
     },
@@ -262822,6 +264731,96 @@
           "needsConfirmation": [],
           "notes": [
             "Coordenadas de ciudad; no se fija un punto urbano exacto."
+          ]
+        },
+        {
+          "id": "primary218-90-black-sword-1",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Participa en la preparación de los aspirantes frente a la fortaleza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la preparación de los aspirantes frente a la fortaleza."
+          ]
+        },
+        {
+          "id": "primary218-90-black-sword-2",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Vuelo desde la fortaleza hacia la prueba",
+          "placeId": "place-ob90-marabezia-skybreaker-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-flight",
+          "coordinateAnchorName": "Marabezia · Vuelo desde la fortaleza hacia la prueba",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Parte por aire hacia el lugar de la prueba. Los Rompedores sostienen y lanzan a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte por aire hacia el lugar de la prueba. Los Rompedores sostienen y lanzan a Szeth."
           ]
         }
       ]
@@ -314887,6 +316886,186 @@
           "notes": [
             "Aparece en la plataforma circular tras el traslado."
           ]
+        },
+        {
+          "id": "primary218-89-highmarshal-celeste-ob61-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Está en la plataforma mientras se acercan los spren del mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plataforma mientras se acercan los spren del mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary218-89-highmarshal-celeste-ob61-2",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Travesía del mar de cuentas",
+          "placeId": "place-ob89-shadesmar-bead-crossing",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
+          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Avanza por las superficies de cuentas que Shallan va formando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza por las superficies de cuentas que Shallan va formando."
+          ]
+        },
+        {
+          "id": "primary218-89-highmarshal-celeste-ob61-3",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Alcanza la orilla de piedra negra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza la orilla de piedra negra."
+          ]
+        },
+        {
+          "id": "primary218-89-highmarshal-celeste-ob61-4",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Pasa a la depresión donde el grupo decide acampar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la depresión donde el grupo decide acampar."
+          ]
         }
       ]
     },
@@ -321386,6 +323565,51 @@
           "notes": [
             "Adolin distingue su figura junto a la joven de piel azul."
           ]
+        },
+        {
+          "id": "primary218-89-ob87-platform-thread-spren-1",
+          "scene": "ob-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob89",
+          "sourceIds": [
+            "primary218-ob89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-89"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml. Grita cuando Adolin trata de invocar su hoja. Patrón reconoce que es su espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Grita cuando Adolin trata de invocar su hoja. Patrón reconoce que es su espada."
+          ]
         }
       ]
     },
@@ -322350,6 +324574,230 @@
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
       "events": []
+    },
+    {
+      "id": "ki-ob90",
+      "name": "Ki",
+      "initial": "K",
+      "role": "Rompedora del Cielo que instruye a los aspirantes y lanza a Szeth al aire.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary218-90-ki-ob90-1",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Participa en la preparación de los aspirantes frente a la fortaleza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la preparación de los aspirantes frente a la fortaleza."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob90-skybreaker-law-instructor",
+      "name": "Maestro de los Rompedores del Cielo",
+      "initial": "M",
+      "role": "Interviene cuando Szeth pregunta cómo se llega al Ideal de la Ley.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary218-90-ob90-skybreaker-law-instructor-1",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Participa en la preparación de los aspirantes frente a la fortaleza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la preparación de los aspirantes frente a la fortaleza."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob90-skybreaker-crusade-instructor",
+      "name": "Rompedor que explica el Ideal de la Cruzada",
+      "initial": "R",
+      "role": "Describe el cuarto Ideal ante los aspirantes.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary218-90-ob90-skybreaker-crusade-instructor-1",
+          "scene": "ob-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob90",
+          "sourceIds": [
+            "primary218-ob90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-90"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml. Participa en la preparación de los aspirantes frente a la fortaleza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la preparación de los aspirantes frente a la fortaleza."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tukks-ob91",
+      "name": "Tukks",
+      "initial": "T",
+      "role": "Sargento que habla con Kaladin cuando este limpia el suelo del acuartelamiento.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary218-91-tukks-ob91-1",
+          "scene": "ob-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ejército de Amaram · Acuartelamiento del recuerdo de Kaladin",
+          "placeId": "place-ob91-amaram-recruit-barracks",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary218-ob91",
+          "sourceIds": [
+            "primary218-ob91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob91-amaram-recruit-barracks",
+          "coordinateAnchorName": "Ejército de Amaram · Acuartelamiento del recuerdo de Kaladin",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Recuerdo del servicio de Kaladin en el ejército de Amaram. Sin fecha exacta."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-91"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml. Habla con Kaladin de Tien y de su reacción durante el entrenamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Kaladin de Tien y de su reacción durante el entrenamiento."
+          ]
+        }
+      ]
     }
   ]
 }
