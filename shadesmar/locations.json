@@ -3914,6 +3914,38 @@
       "stormfather",
       "taravangian",
       "teshav"
+    ],
+    "ob-chapter-87": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "ob87-oathgate-black-sentinel",
+      "ob87-oathgate-red-sentinel",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "syl"
+    ],
+    "ob-interlude-7": [
+      "eshonai",
+      "obi7-silent-fused",
+      "obi7-singer-with-water",
+      "obi7-village-spren",
+      "rine-obi7",
+      "venli"
+    ],
+    "ob-interlude-8": [
+      "condwish-obi8",
+      "mem-obi8",
+      "mraize",
+      "obi8-painting-artist-reference",
+      "pom-obi8",
+      "talenel"
+    ],
+    "ob-interlude-9": [
+      "eshonai",
+      "rine-obi7",
+      "venli"
     ]
   },
   "knowledgeArchive": {
@@ -4410,6 +4442,33 @@
         "characterRevealedAt": {
           "bookId": "ob",
           "sceneId": "ob-chapter-84"
+        }
+      },
+      {
+        "id": "spren-person-ob87-oathgate-black-sentinel",
+        "section": "spren-individuals",
+        "characterId": "ob87-oathgate-black-sentinel",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        }
+      },
+      {
+        "id": "spren-person-ob87-oathgate-red-sentinel",
+        "section": "spren-individuals",
+        "characterId": "ob87-oathgate-red-sentinel",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        }
+      },
+      {
+        "id": "spren-person-ob87-platform-thread-spren",
+        "section": "spren-individuals",
+        "characterId": "ob87-platform-thread-spren",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
         }
       }
     ],
@@ -13899,6 +13958,176 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/86.Paraotro.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Adolin describe una túnica negra de aspecto pétreo y una cabeza hecha de geometría cambiante.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-pattern-cognitive-form",
+        "entryId": "spren-person-pattern",
+        "value": "Adolin describe una túnica negra de aspecto pétreo y una cabeza hecha de geometría cambiante.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Adolin ve una figura joven de piel azul muy pálida y vestido vaporoso.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-syl-cognitive-form",
+        "entryId": "spren-person-syl",
+        "value": "Adolin ve una figura joven de piel azul muy pálida y vestido vaporoso.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura alargada, negra como carbón, de unos diez metros de altura según Adolin.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-ob87-oathgate-black-sentinel",
+        "entryId": "spren-person-ob87-oathgate-black-sentinel",
+        "value": "Figura alargada, negra como carbón, de unos diez metros de altura según Adolin.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura alargada, negra como carbón, de unos diez metros de altura según Adolin.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-name-ob87-oathgate-black-sentinel",
+        "entryId": "spren-person-ob87-oathgate-black-sentinel",
+        "value": "Spren centinela negro",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura roja de unos diez metros de altura que levita junto al centinela negro.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-ob87-oathgate-red-sentinel",
+        "entryId": "spren-person-ob87-oathgate-red-sentinel",
+        "value": "Figura roja de unos diez metros de altura que levita junto al centinela negro.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura roja de unos diez metros de altura que levita junto al centinela negro.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-name-ob87-oathgate-red-sentinel",
+        "entryId": "spren-person-ob87-oathgate-red-sentinel",
+        "value": "Spren centinela rojo",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Adolin describe sus rasgos como cordeles finos y sus ojos como superficies raspadas.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-ob87-platform-thread-spren",
+        "entryId": "spren-person-ob87-platform-thread-spren",
+        "value": "Adolin describe sus rasgos como cordeles finos y sus ojos como superficies raspadas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Adolin describe sus rasgos como cordeles finos y sus ojos como superficies raspadas.",
+        "sourceIds": [
+          "primary216-ob87"
+        ],
+        "id": "primary216-archive-name-ob87-platform-thread-spren",
+        "entryId": "spren-person-ob87-platform-thread-spren",
+        "value": "Spren de hilos cenicientos",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-87"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. La pequeña spren palpita a ritmos que Venli reconoce. Venli vuelve a oír ritmos antiguos y se pregunta si la spren interviene.",
+        "sourceIds": [
+          "primary216-obi7"
+        ],
+        "id": "primary216-archive-venli-light-rhythms",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "La pequeña spren palpita a ritmos que Venli reconoce. Venli vuelve a oír ritmos antiguos y se pregunta si la spren interviene.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-7"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Mraize menciona a Talenelat para detener a Pom. Su afirmación no fija una ubicación.",
+        "sourceIds": [
+          "primary216-obi8"
+        ],
+        "id": "primary216-archive-talenelat-mraize",
+        "entryId": "herald-talenel",
+        "value": "Mraize menciona a Talenelat para detener a Pom. Su afirmación no fija una ubicación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-8"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
         "supersedes": []
       }
     ],
@@ -67318,6 +67547,238 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Celeste agarra a Adolin y lo saca del mar de cuentas.",
+      "sourceIds": [
+        "primary216-ob87"
+      ],
+      "id": "primary216-celeste-bead-rescue",
+      "participants": [
+        "adolin",
+        "highmarshal-celeste-ob61"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-87"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Celeste agarra a Adolin y lo saca del mar de cuentas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Celeste agarra a Adolin y lo saca del mar de cuentas.",
+        "pairs": [
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. La cantora pregunta por el discurso. Venli le explica cómo expresar contrición con los ritmos.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-venli-water-singer",
+      "participants": [
+        "venli",
+        "obi7-singer-with-water"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La cantora pregunta por el discurso. Venli le explica cómo expresar contrición con los ritmos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La cantora pregunta por el discurso. Venli le explica cómo expresar contrición con los ritmos.",
+        "pairs": [
+          [
+            "venli",
+            "obi7-singer-with-water"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Rine habla con Venli sobre los vínculos humanos y ordena a la otra Fusionada que lo siga.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-rine-human-bonds",
+      "participants": [
+        "venli",
+        "rine-obi7",
+        "obi7-silent-fused"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Rine habla con Venli sobre los vínculos humanos y ordena a la otra Fusionada que lo siga.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rine habla con Venli sobre los vínculos humanos y ordena a la otra Fusionada que lo siga.",
+        "pairs": [
+          [
+            "venli",
+            "rine-obi7"
+          ],
+          [
+            "rine-obi7",
+            "obi7-silent-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Mem supervisa el trabajo de Pom y la guía por los aposentos.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-mem-works-with-pom",
+      "participants": [
+        "mem-obi8",
+        "pom-obi8"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Mem supervisa el trabajo de Pom y la guía por los aposentos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mem supervisa el trabajo de Pom y la guía por los aposentos.",
+        "pairs": [
+          [
+            "mem-obi8",
+            "pom-obi8"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Mraize dice a Pom que conoce el paradero de Talenelat y habla con Mem sobre el pantalón y la bonificación.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-mraize-pom-talenelat",
+      "participants": [
+        "mraize",
+        "pom-obi8",
+        "mem-obi8"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Mraize dice a Pom que conoce el paradero de Talenelat y habla con Mem sobre el pantalón y la bonificación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mraize dice a Pom que conoce el paradero de Talenelat y habla con Mem sobre el pantalón y la bonificación.",
+        "pairs": [
+          [
+            "mraize",
+            "pom-obi8"
+          ],
+          [
+            "mraize",
+            "mem-obi8"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Rine dice a Venli que sus discursos en las aldeas eran un entrenamiento y que su tarea empieza ahora.",
+      "sourceIds": [
+        "primary216-obi9"
+      ],
+      "id": "primary216-rine-true-work",
+      "participants": [
+        "venli",
+        "rine-obi7"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-9"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Rine dice a Venli que sus discursos en las aldeas eran un entrenamiento y que su tarea empieza ahora.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rine dice a Venli que sus discursos en las aldeas eran un entrenamiento y que su tarea empieza ahora.",
+        "pairs": [
+          [
+            "venli",
+            "rine-obi7"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -102466,6 +102927,294 @@
       "kind": "background",
       "text": "Lee que la capital y el palacio han caído. El mensaje no informa de la suerte del rey, Adolin ni los Radiantes.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura gigantesca que levita sobre la plataforma.",
+      "sourceIds": [
+        "primary216-ob87"
+      ],
+      "id": "primary216-ob87-oathgate-black-sentinel-intro",
+      "characterId": "ob87-oathgate-black-sentinel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-87"
+      },
+      "kind": "background",
+      "text": "Figura gigantesca que levita sobre la plataforma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura gigantesca de color rojo que levita sobre la plataforma.",
+      "sourceIds": [
+        "primary216-ob87"
+      ],
+      "id": "primary216-ob87-oathgate-red-sentinel-intro",
+      "characterId": "ob87-oathgate-red-sentinel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-87"
+      },
+      "kind": "background",
+      "text": "Figura gigantesca de color rojo que levita sobre la plataforma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Figura de rasgos marrones, ropa raída y ojos raspados que Adolin ve en la plataforma.",
+      "sourceIds": [
+        "primary216-ob87"
+      ],
+      "id": "primary216-ob87-platform-thread-spren-intro",
+      "characterId": "ob87-platform-thread-spren",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-87"
+      },
+      "kind": "background",
+      "text": "Figura de rasgos marrones, ropa raída y ojos raspados que Adolin ve en la plataforma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Su reacción indica familiaridad con el lugar, sin revelar aquí el origen de ese conocimiento.",
+      "sourceIds": [
+        "primary216-ob87"
+      ],
+      "id": "primary216-celeste-recognizes-destination",
+      "characterId": "highmarshal-celeste-ob61",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-87"
+      },
+      "kind": "background",
+      "text": "Su reacción indica familiaridad con el lugar, sin revelar aquí el origen de ese conocimiento.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Fusionado que acompaña a Venli y supervisa su trabajo.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-rine-obi7-intro",
+      "characterId": "rine-obi7",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "kind": "background",
+      "text": "Fusionado que acompaña a Venli y supervisa su trabajo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Escucha el discurso y pregunta si la historia ocurrió de verdad.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-obi7-singer-with-water-intro",
+      "characterId": "obi7-singer-with-water",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "kind": "background",
+      "text": "Escucha el discurso y pregunta si la historia ocurrió de verdad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Permanece sentada junto a Rine y sale al recibir su orden.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-obi7-silent-fused-intro",
+      "characterId": "obi7-silent-fused",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "kind": "background",
+      "text": "Permanece sentada junto a Rine y sale al recibir su orden.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Guía a la multitud al terminar el discurso.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-obi7-village-spren-intro",
+      "characterId": "obi7-village-spren",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "kind": "background",
+      "text": "Guía a la multitud al terminar el discurso.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Presenta un relato de la guerra para los cantores. La narración indica que omite hechos y lo repite de pueblo en pueblo.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-venli-emissary-account",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "kind": "background",
+      "text": "Presenta un relato de la guerra para los cantores. La narración indica que omite hechos y lo repite de pueblo en pueblo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Venli atribuye a su hermana un intento de negociar en el discurso y piensa en ella después.",
+      "sourceIds": [
+        "primary216-obi7"
+      ],
+      "id": "primary216-eshonai-emissary-memory",
+      "characterId": "eshonai",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-7"
+      },
+      "kind": "background",
+      "text": "Venli atribuye a su hermana un intento de negociar en el discurso y piensa en ella después.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Lavandera que trabaja para Mraize.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-mem-obi8-intro",
+      "characterId": "mem-obi8",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "kind": "background",
+      "text": "Lavandera que trabaja para Mraize.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Ayudante de Mem que rasga un cuadro en los aposentos de Mraize.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-pom-obi8-intro",
+      "characterId": "pom-obi8",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "kind": "background",
+      "text": "Ayudante de Mem que rasga un cuadro en los aposentos de Mraize.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Mraize indica a Mem que le pida la bonificación.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-condwish-obi8-intro",
+      "characterId": "condwish-obi8",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "kind": "background",
+      "text": "Mraize indica a Mem que le pida la bonificación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Mraize se refiere a una obra con esta atribución.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-obi8-painting-artist-reference-intro",
+      "characterId": "obi8-painting-artist-reference",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "kind": "background",
+      "text": "Mraize se refiere a una obra con esta atribución.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Al entrar rasga un cuadro y dice que llevaba tiempo buscándolo. Mraize la llama Antigua.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-pom-painting-action",
+      "characterId": "pom-obi8",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "kind": "background",
+      "text": "Al entrar rasga un cuadro y dice que llevaba tiempo buscándolo. Mraize la llama Antigua.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Mraize dice conocer su paradero sin revelarlo en el interludio.",
+      "sourceIds": [
+        "primary216-obi8"
+      ],
+      "id": "primary216-talenelat-mraize-claim",
+      "characterId": "talenel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-8"
+      },
+      "kind": "background",
+      "text": "Mraize dice conocer su paradero sin revelarlo en el interludio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Al llegar recuerda su anterior paso por Kholinar en tiempos de Gavilar y compara la ciudad con lo que ve tras el asedio.",
+      "sourceIds": [
+        "primary216-obi9"
+      ],
+      "id": "primary216-venli-kholinar-backstory",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-9"
+      },
+      "kind": "background",
+      "text": "Al llegar recuerda su anterior paso por Kholinar en tiempos de Gavilar y compara la ciudad con lo que ve tras el asedio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Venli piensa que a su hermana le habría gustado ver el terreno desde el aire.",
+      "sourceIds": [
+        "primary216-obi9"
+      ],
+      "id": "primary216-eshonai-flight-memory",
+      "characterId": "eshonai",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-9"
+      },
+      "kind": "background",
+      "text": "Venli piensa que a su hermana le habría gustado ver el terreno desde el aire.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -105143,6 +105892,10 @@
         {
           "revision": 215,
           "notes": "Se revisan Aesudan, Elhokar, Gavinor, Gavilar, la mención a la hija de Sah y las referencias de Sja-anat a su hijo y a sus hijos. Estas últimas quedan atribuidas a ella, sin identidad inferida."
+        },
+        {
+          "revision": 216,
+          "notes": "Se registran las evocaciones de Eshonai por su hermana Venli. Los términos de ascendencia colectiva entre cantores y Fusionados no aportan filiaciones individuales."
         }
       ]
     }
@@ -108282,7 +109035,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 215,
+  "revision": 216,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -111086,6 +111839,35 @@
       "label": "Capítulo 86 · Para que otros puedan erguirse",
       "part": "ob-3a",
       "source": "primary215-ob86"
+    },
+    {
+      "id": "ob-chapter-87",
+      "bookId": "ob",
+      "chapter": 87,
+      "label": "Capítulo 87 · Este sitio",
+      "part": "ob-3a",
+      "source": "primary216-ob87"
+    },
+    {
+      "id": "ob-interlude-7",
+      "bookId": "ob",
+      "label": "Interludio I-7 · Emisaria",
+      "part": "ob-interludes-7-11",
+      "source": "primary216-obi7"
+    },
+    {
+      "id": "ob-interlude-8",
+      "bookId": "ob",
+      "label": "Interludio I-8 · Mem",
+      "part": "ob-interludes-7-11",
+      "source": "primary216-obi8"
+    },
+    {
+      "id": "ob-interlude-9",
+      "bookId": "ob",
+      "label": "Interludio I-9 · Tu verdadero trabajo",
+      "part": "ob-interludes-7-11",
+      "source": "primary216-obi9"
     }
   ],
   "experiencePresentation": {
@@ -129016,6 +129798,99 @@
           "notes": [
             "Está en el edificio de control cuando Shallan decide activar la Puerta Jurada."
           ]
+        },
+        {
+          "id": "primary216-87-kaladin-1",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Interior del edificio de control",
+          "placeId": "place-ob84-oathgate-control-interior",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/84.Elquepuedas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. El edificio de control se sacude antes de que el grupo sea trasladado.",
+          "needsConfirmation": [],
+          "notes": [
+            "El edificio de control se sacude antes de que el grupo sea trasladado."
+          ]
+        },
+        {
+          "id": "primary216-87-kaladin-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Aparece en la plataforma circular tras el traslado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la plataforma circular tras el traslado."
+          ]
         }
       ]
     },
@@ -146522,6 +147397,99 @@
           "notes": [
             "Está en el edificio de control cuando Shallan decide activar la Puerta Jurada."
           ]
+        },
+        {
+          "id": "primary216-87-shallan-1",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Interior del edificio de control",
+          "placeId": "place-ob84-oathgate-control-interior",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/84.Elquepuedas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. El edificio de control se sacude antes de que el grupo sea trasladado.",
+          "needsConfirmation": [],
+          "notes": [
+            "El edificio de control se sacude antes de que el grupo sea trasladado."
+          ]
+        },
+        {
+          "id": "primary216-87-shallan-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Aparece en la plataforma circular tras el traslado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la plataforma circular tras el traslado."
+          ]
         }
       ]
     },
@@ -154991,6 +155959,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el salón de la galería oriental durante la refriega y la retirada."
+          ]
+        },
+        {
+          "id": "primary216-87-syl-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Adolin ve a la joven de piel azul pálida y vestido vaporoso en la plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin ve a la joven de piel azul pálida y vestido vaporoso en la plataforma."
           ]
         }
       ]
@@ -174989,6 +176002,189 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el edificio de control cuando Shallan decide activar la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary216-87-adolin-1",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Interior del edificio de control",
+          "placeId": "place-ob84-oathgate-control-interior",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/84.Elquepuedas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. El edificio de control se sacude antes de que el grupo sea trasladado.",
+          "needsConfirmation": [],
+          "notes": [
+            "El edificio de control se sacude antes de que el grupo sea trasladado."
+          ]
+        },
+        {
+          "id": "primary216-87-adolin-2",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Cae sobre la plataforma y rueda por su borde.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cae sobre la plataforma y rueda por su borde."
+          ]
+        },
+        {
+          "id": "primary216-87-adolin-3",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Mar de cuentas junto a la plataforma",
+          "placeId": "place-ob87-shadesmar-bead-sea",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-bead-sea",
+          "coordinateAnchorName": "Shadesmar · Mar de cuentas junto a la plataforma",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Se hunde entre las cuentas hasta que Celeste lo agarra de la mano.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se hunde entre las cuentas hasta que Celeste lo agarra de la mano."
+          ]
+        },
+        {
+          "id": "primary216-87-adolin-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Celeste lo saca del mar y vuelve a quedar sobre la plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Celeste lo saca del mar y vuelve a quedar sobre la plataforma."
           ]
         }
       ]
@@ -227096,6 +228292,51 @@
           "notes": [
             "Está en el edificio de control cuando Shallan decide activar la Puerta Jurada."
           ]
+        },
+        {
+          "id": "primary216-87-pattern-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. La figura de aspecto geométrico habla en la plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "La figura de aspecto geométrico habla en la plataforma."
+          ]
         }
       ]
     },
@@ -231499,6 +232740,282 @@
           "needsConfirmation": [],
           "notes": [
             "Sobrevive y adopta otra forma de poder. Esconde un pequeño spren luminoso."
+          ]
+        },
+        {
+          "id": "primary216-i7-venli-1",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Carreta del discurso",
+          "placeId": "place-obi7-venli-speech-wagon",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Cuenta a los cantores su versión de la guerra y del regreso de la tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cuenta a los cantores su versión de la guerra y del regreso de la tormenta."
+          ]
+        },
+        {
+          "id": "primary216-i7-venli-2",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Mansión",
+          "placeId": "place-obi7-occupied-village-mansion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Está en la mansión durante la conversación sobre humanos y vínculos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la mansión durante la conversación sobre humanos y vínculos."
+          ]
+        },
+        {
+          "id": "primary216-i7-venli-3",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Dormitorio de Venli",
+          "placeId": "place-obi7-venli-bedroom",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Deja salir de la bolsa a la pequeña spren y advierte que vuelve a oír ritmos antiguos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Deja salir de la bolsa a la pequeña spren y advierte que vuelve a oír ritmos antiguos."
+          ]
+        },
+        {
+          "id": "primary216-i9-venli-1",
+          "scene": "ob-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alezkar · Vuelo sobre pueblos ocupados",
+          "placeId": "place-obi9-occupied-alethkar-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi9",
+          "sourceIds": [
+            "primary216-obi9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi9-occupied-alethkar-flight",
+          "coordinateAnchorName": "Alezkar · Vuelo sobre pueblos ocupados",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Viaja por aire sobre las poblaciones ocupadas. Venli va sujeta por arneses.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja por aire sobre las poblaciones ocupadas. Venli va sujeta por arneses."
+          ]
+        },
+        {
+          "id": "primary216-i9-venli-2",
+          "scene": "ob-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Vuelo sobre la ciudad ocupada",
+          "placeId": "place-obi9-kholinar-overflight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi9",
+          "sourceIds": [
+            "primary216-obi9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Sobrevuela Kholinar después de la caída de sus portones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sobrevuela Kholinar después de la caída de sus portones."
+          ]
+        },
+        {
+          "id": "primary216-i9-venli-3",
+          "scene": "ob-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Refugio extramuros junto al aterrizaje",
+          "placeId": "place-obi9-kholinar-outside-shelter",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi9",
+          "sourceIds": [
+            "primary216-obi9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Aterriza junto a un refugio extramuros. Venli se suelta del arnés.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza junto a un refugio extramuros. Venli se suelta del arnés."
           ]
         }
       ]
@@ -242594,6 +244111,54 @@
           "needsConfirmation": [],
           "notes": [
             "Vuelve a la sala con la silla y mantiene su papel de soldado."
+          ]
+        },
+        {
+          "id": "primary216-i8-mraize-4",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Sala de estar de Mraize",
+          "placeId": "place-obi8-vedenar-mraize-sitting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Entra tras los guardias, habla con Pom y ordena una bonificación para Mem.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra tras los guardias, habla con Pom y ordena una bonificación para Mem."
           ]
         }
       ]
@@ -311900,6 +313465,99 @@
           "notes": [
             "Guarda la entrada al edificio de control y habla con Adolin sobre la retirada."
           ]
+        },
+        {
+          "id": "primary216-87-highmarshal-celeste-ob61-1",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Interior del edificio de control",
+          "placeId": "place-ob84-oathgate-control-interior",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/84.Elquepuedas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. El edificio de control se sacude antes de que el grupo sea trasladado.",
+          "needsConfirmation": [],
+          "notes": [
+            "El edificio de control se sacude antes de que el grupo sea trasladado."
+          ]
+        },
+        {
+          "id": "primary216-87-highmarshal-celeste-ob61-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Aparece en la plataforma circular tras el traslado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece en la plataforma circular tras el traslado."
+          ]
         }
       ]
     },
@@ -318229,6 +319887,869 @@
       "name": "Hijo que menciona Sja-anat",
       "initial": "H",
       "role": "Sja-anat pide a Shallan que pregunte a su hijo. No lo identifica por nombre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob87-oathgate-black-sentinel",
+      "name": "Spren centinela negro",
+      "initial": "S",
+      "role": "Figura gigantesca que levita sobre la plataforma.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-87-ob87-oathgate-black-sentinel-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Aire sobre la plataforma de piedra blanca",
+          "placeId": "place-ob87-shadesmar-platform-sky",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-platform-sky",
+          "coordinateAnchorName": "Shadesmar · Aire sobre la plataforma de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Levita sobre la plataforma tras el traslado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Levita sobre la plataforma tras el traslado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob87-oathgate-red-sentinel",
+      "name": "Spren centinela rojo",
+      "initial": "S",
+      "role": "Figura gigantesca de color rojo que levita sobre la plataforma.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-87-ob87-oathgate-red-sentinel-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Aire sobre la plataforma de piedra blanca",
+          "placeId": "place-ob87-shadesmar-platform-sky",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-platform-sky",
+          "coordinateAnchorName": "Shadesmar · Aire sobre la plataforma de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Levita sobre la plataforma tras el traslado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Levita sobre la plataforma tras el traslado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob87-platform-thread-spren",
+      "name": "Spren de hilos cenicientos",
+      "initial": "S",
+      "role": "Figura de rasgos marrones, ropa raída y ojos raspados que Adolin ve en la plataforma.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-87-ob87-platform-thread-spren-4",
+          "scene": "ob-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma circular de piedra blanca",
+          "placeId": "place-ob87-shadesmar-white-platform",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-ob87",
+          "sourceIds": [
+            "primary216-ob87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
+          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-87"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml. Adolin distingue su figura junto a la joven de piel azul.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin distingue su figura junto a la joven de piel azul."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rine-obi7",
+      "name": "Rine",
+      "initial": "R",
+      "role": "Fusionado que acompaña a Venli y supervisa su trabajo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-i7-rine-obi7-2",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Mansión",
+          "placeId": "place-obi7-occupied-village-mansion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Está en la mansión durante la conversación sobre humanos y vínculos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la mansión durante la conversación sobre humanos y vínculos."
+          ]
+        },
+        {
+          "id": "primary216-i9-rine-obi7-1",
+          "scene": "ob-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Alezkar · Vuelo sobre pueblos ocupados",
+          "placeId": "place-obi9-occupied-alethkar-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi9",
+          "sourceIds": [
+            "primary216-obi9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi9-occupied-alethkar-flight",
+          "coordinateAnchorName": "Alezkar · Vuelo sobre pueblos ocupados",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Viaja por aire sobre las poblaciones ocupadas. Venli va sujeta por arneses.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja por aire sobre las poblaciones ocupadas. Venli va sujeta por arneses."
+          ]
+        },
+        {
+          "id": "primary216-i9-rine-obi7-2",
+          "scene": "ob-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Vuelo sobre la ciudad ocupada",
+          "placeId": "place-obi9-kholinar-overflight",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi9",
+          "sourceIds": [
+            "primary216-obi9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Sobrevuela Kholinar después de la caída de sus portones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sobrevuela Kholinar después de la caída de sus portones."
+          ]
+        },
+        {
+          "id": "primary216-i9-rine-obi7-3",
+          "scene": "ob-interlude-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Refugio extramuros junto al aterrizaje",
+          "placeId": "place-obi9-kholinar-outside-shelter",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi9",
+          "sourceIds": [
+            "primary216-obi9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-9"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-9.Verdaderotrabajo.xhtml. Aterriza junto a un refugio extramuros. Venli se suelta del arnés.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza junto a un refugio extramuros. Venli se suelta del arnés."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi7-singer-with-water",
+      "name": "Cantora que da agua a Venli",
+      "initial": "C",
+      "role": "Escucha el discurso y pregunta si la historia ocurrió de verdad.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-i7-obi7-singer-with-water-1",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Carreta del discurso",
+          "placeId": "place-obi7-venli-speech-wagon",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Trae agua y recibe indicaciones de Venli sobre los ritmos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Trae agua y recibe indicaciones de Venli sobre los ritmos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi7-silent-fused",
+      "name": "Fusionada silenciosa de la mansión",
+      "initial": "F",
+      "role": "Permanece sentada junto a Rine y sale al recibir su orden.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-i7-obi7-silent-fused-2",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Mansión",
+          "placeId": "place-obi7-occupied-village-mansion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Está en la mansión durante la conversación sobre humanos y vínculos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la mansión durante la conversación sobre humanos y vínculos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi7-village-spren",
+      "name": "Spren que devuelve a los cantores al trabajo",
+      "initial": "S",
+      "role": "Guía a la multitud al terminar el discurso.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-i7-obi7-village-spren-1",
+          "scene": "ob-interlude-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Pueblo ocupado · Carreta del discurso",
+          "placeId": "place-obi7-venli-speech-wagon",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi7",
+          "sourceIds": [
+            "primary216-obi7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi7-alethi-occupied-village",
+          "coordinateAnchorName": "Alezkar · Pueblo ocupado donde habla Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-7"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-7.Emisaria.xhtml. Se lleva a los cantores de vuelta al trabajo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se lleva a los cantores de vuelta al trabajo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mem-obi8",
+      "name": "Mem",
+      "initial": "M",
+      "role": "Lavandera que trabaja para Mraize.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-i8-mem-obi8-1",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Lavandería de Mem",
+          "placeId": "place-obi8-vedenar-laundry",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Lava ropa y prepara las cestas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lava ropa y prepara las cestas."
+          ]
+        },
+        {
+          "id": "primary216-i8-mem-obi8-2",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Trayecto de las lavanderas",
+          "placeId": "place-obi8-vedenar-laundry-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Lleva la ropa hasta el edificio de Mraize.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lleva la ropa hasta el edificio de Mraize."
+          ]
+        },
+        {
+          "id": "primary216-i8-mem-obi8-3",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Sala de estar de Mraize",
+          "placeId": "place-obi8-vedenar-mraize-sitting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Entra en la sala de estar de Mraize.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la sala de estar de Mraize."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pom-obi8",
+      "name": "Pom",
+      "initial": "P",
+      "role": "Ayudante de Mem que rasga un cuadro en los aposentos de Mraize.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary216-i8-pom-obi8-1",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Lavandería de Mem",
+          "placeId": "place-obi8-vedenar-laundry",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Lava ropa y prepara las cestas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lava ropa y prepara las cestas."
+          ]
+        },
+        {
+          "id": "primary216-i8-pom-obi8-2",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Trayecto de las lavanderas",
+          "placeId": "place-obi8-vedenar-laundry-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Lleva la ropa hasta el edificio de Mraize.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lleva la ropa hasta el edificio de Mraize."
+          ]
+        },
+        {
+          "id": "primary216-i8-pom-obi8-3",
+          "scene": "ob-interlude-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Sala de estar de Mraize",
+          "placeId": "place-obi8-vedenar-mraize-sitting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary216-obi8",
+          "sourceIds": [
+            "primary216-obi8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-8"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml. Entra en la sala de estar de Mraize.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la sala de estar de Mraize."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "condwish-obi8",
+      "name": "Condwish",
+      "initial": "C",
+      "role": "Mraize indica a Mem que le pida la bonificación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "obi8-painting-artist-reference",
+      "name": "El Ilustre",
+      "initial": "E",
+      "role": "Mraize se refiere a una obra con esta atribución.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
