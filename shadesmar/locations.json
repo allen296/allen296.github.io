@@ -3946,6 +3946,33 @@
       "eshonai",
       "rine-obi7",
       "venli"
+    ],
+    "ob-interlude-10": [
+      "herdazian-general-obi10",
+      "jerono-obi10",
+      "obi10-shore-guard",
+      "sheler"
+    ],
+    "ob-interlude-11": [
+      "demid",
+      "eshonai",
+      "odium",
+      "venli"
+    ],
+    "ob-chapter-88": [
+      "adolin",
+      "ahu-ob88",
+      "dalinar",
+      "elhokar",
+      "evi",
+      "gavilar",
+      "moelach",
+      "ob88-ahu-black-fisher",
+      "ob88-ahu-faceless",
+      "ob88-ahu-spawning-mother",
+      "renarin",
+      "sadeas",
+      "tenathar-ob88"
     ]
   },
   "knowledgeArchive": {
@@ -14128,6 +14155,74 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-8.Mem.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Venli llama Timbre a la pequeña spren que la acompaña. La spren pulsa a Resolución, Malestar y Paz.",
+        "sourceIds": [
+          "primary217-obi11"
+        ],
+        "id": "primary217-archive-timbre-name-context",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "Venli llama Timbre a la pequeña spren que la acompaña. La spren pulsa a Resolución, Malestar y Paz.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-11"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Venli llama Timbre a la pequeña spren que la acompaña. La spren pulsa a Resolución, Malestar y Paz.",
+        "sourceIds": [
+          "primary217-obi11"
+        ],
+        "id": "primary217-archive-timbre-name",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "Timbre",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-11"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Después de la visión, el Ritmo de la Paz de Timbre devuelve a Venli la atención a su entorno.",
+        "sourceIds": [
+          "primary217-obi11"
+        ],
+        "id": "primary217-archive-timbre-comfort",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "Después de la visión, el Ritmo de la Paz de Timbre devuelve a Venli la atención a su entorno.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-11"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Ahu dice que Moelach está cerca. La afirmación queda atribuida a Ahu.",
+        "sourceIds": [
+          "primary217-ob88"
+        ],
+        "id": "primary217-archive-ahu-moelach",
+        "entryId": "spren-person-moelach",
+        "value": "Ahu dice que Moelach está cerca. La afirmación queda atribuida a Ahu.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-88"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
         "supersedes": []
       }
     ],
@@ -67779,6 +67874,233 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. El general expone las opciones a Sheler y habla de los grilletes con Jerono.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-sheler-choices",
+      "participants": [
+        "sheler",
+        "herdazian-general-obi10",
+        "jerono-obi10"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El general expone las opciones a Sheler y habla de los grilletes con Jerono.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El general expone las opciones a Sheler y habla de los grilletes con Jerono.",
+        "pairs": [
+          [
+            "sheler",
+            "herdazian-general-obi10"
+          ],
+          [
+            "herdazian-general-obi10",
+            "jerono-obi10"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. El soldado habla con Sheler al dejarlo encadenado junto al mar.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-shore-sentence",
+      "participants": [
+        "sheler",
+        "obi10-shore-guard"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El soldado habla con Sheler al dejarlo encadenado junto al mar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El soldado habla con Sheler al dejarlo encadenado junto al mar.",
+        "pairs": [
+          [
+            "sheler",
+            "obi10-shore-guard"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Odium amenaza a Venli durante la visión y le exige que cambie cómo cuenta su historia.",
+      "sourceIds": [
+        "primary217-obi11"
+      ],
+      "id": "primary217-venli-odium-warning",
+      "participants": [
+        "venli",
+        "odium"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Odium amenaza a Venli durante la visión y le exige que cambie cómo cuenta su historia.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Odium amenaza a Venli durante la visión y le exige que cambie cómo cuenta su historia.",
+        "pairs": [
+          [
+            "venli",
+            "odium"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Adolin anuncia su próximo duelo. Dalinar se compromete a asistir.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-adolin-tenathar-duel",
+      "participants": [
+        "dalinar",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 8,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Adolin anuncia su próximo duelo. Dalinar se compromete a asistir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin anuncia su próximo duelo. Dalinar se compromete a asistir.",
+        "pairs": [
+          [
+            "dalinar",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Comparten una botella y hablan de lo que oyen. Ahu menciona a Moelach y otras figuras.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-ahu-voices",
+      "participants": [
+        "dalinar",
+        "ahu-ob88"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 8,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Comparten una botella y hablan de lo que oyen. Ahu menciona a Moelach y otras figuras.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Comparten una botella y hablan de lo que oyen. Ahu menciona a Moelach y otras figuras.",
+        "pairs": [
+          [
+            "dalinar",
+            "ahu-ob88"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Dalinar oye a Adolin hablar con su tío de su preocupación por él.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-family-behind-door",
+      "participants": [
+        "adolin",
+        "gavilar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 8,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar oye a Adolin hablar con su tío de su preocupación por él.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar oye a Adolin hablar con su tío de su preocupación por él.",
+        "pairs": [
+          [
+            "adolin",
+            "gavilar"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -103215,6 +103537,294 @@
       "kind": "background",
       "text": "Venli piensa que a su hermana le habría gustado ver el terreno desde el aire.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Interroga a Sheler y le ofrece tres opciones.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-herdazian-general-obi10-intro",
+      "characterId": "herdazian-general-obi10",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "kind": "background",
+      "text": "Interroga a Sheler y le ofrece tres opciones.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Oficial que comenta los grilletes con el general.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-jerono-obi10-intro",
+      "characterId": "jerono-obi10",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "kind": "background",
+      "text": "Oficial que comenta los grilletes con el general.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Habla con Sheler tras encadenarlo a la roca.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-obi10-shore-guard-intro",
+      "characterId": "obi10-shore-guard",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "kind": "background",
+      "text": "Habla con Sheler tras encadenarlo a la roca.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Alega ser primo de un alto señor al reclamar su rango. El pasaje no identifica de forma inequívoca al pariente.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-sheler-claimed-cousin",
+      "characterId": "sheler",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "kind": "background",
+      "text": "Alega ser primo de un alto señor al reclamar su rango. El pasaje no identifica de forma inequívoca al pariente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. La escena termina cuando aparece la pinza. Su suerte queda abierta.",
+      "sourceIds": [
+        "primary217-obi10"
+      ],
+      "id": "primary217-sheler-claw-outcome",
+      "characterId": "sheler",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-10"
+      },
+      "kind": "background",
+      "text": "La escena termina cuando aparece la pinza. Su suerte queda abierta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Recuerda las advertencias de Eshonai sobre la ambición y el efecto de las formas.",
+      "sourceIds": [
+        "primary217-obi11"
+      ],
+      "id": "primary217-venli-eshonai-warning",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-11"
+      },
+      "kind": "background",
+      "text": "Recuerda las advertencias de Eshonai sobre la ambición y el efecto de las formas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Su hermana recuerda que le advertía que controlara sus ambiciones.",
+      "sourceIds": [
+        "primary217-obi11"
+      ],
+      "id": "primary217-eshonai-venli-warning-memory",
+      "characterId": "eshonai",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-11"
+      },
+      "kind": "background",
+      "text": "Su hermana recuerda que le advertía que controlara sus ambiciones.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Venli recuerda que Demid también se preocupaba por su ambición.",
+      "sourceIds": [
+        "primary217-obi11"
+      ],
+      "id": "primary217-demid-venli-worries-memory",
+      "characterId": "demid",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-11"
+      },
+      "kind": "background",
+      "text": "Venli recuerda que Demid también se preocupaba por su ambición.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Odium reprende a Venli dentro de una visión. Venli despierta en la ermita, donde la encuentra Timbre.",
+      "sourceIds": [
+        "primary217-obi11"
+      ],
+      "id": "primary217-odium-venli-reward-vision",
+      "characterId": "odium",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-11"
+      },
+      "kind": "background",
+      "text": "Odium reprende a Venli dentro de una visión. Venli despierta en la ermita, donde la encuentra Timbre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Hombre del Pórtico de los Mendigos que comparte vino con Dalinar y le habla de las voces.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-ahu-ob88-intro",
+      "characterId": "ahu-ob88",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Hombre del Pórtico de los Mendigos que comparte vino con Dalinar y le habla de las voces.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Adolin lo menciona como su próximo rival de duelo.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-tenathar-ob88-intro",
+      "characterId": "tenathar-ob88",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Adolin lo menciona como su próximo rival de duelo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-ob88-ahu-black-fisher-intro",
+      "characterId": "ob88-ahu-black-fisher",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-ob88-ahu-spawning-mother-intro",
+      "characterId": "ob88-ahu-spawning-mother",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-ob88-ahu-faceless-intro",
+      "characterId": "ob88-ahu-faceless",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Dalinar cree reconocer su voz detrás de una puerta. El relato deja la identificación en duda.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-possible-elhokar-voice",
+      "characterId": "elhokar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Dalinar cree reconocer su voz detrás de una puerta. El relato deja la identificación en duda.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Al oler incienso rumbo a sus habitaciones, Dalinar piensa que Renarin puede haberlo encendido.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-dalinar-incense-inference",
+      "characterId": "renarin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Al oler incienso rumbo a sus habitaciones, Dalinar piensa que Renarin puede haberlo encendido.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Dalinar sigue oyendo voces que asocia con el incendio y recuerda a Evi al hablar con Adolin.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-evi-voices-memory",
+      "characterId": "evi",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Dalinar sigue oyendo voces que asocia con el incendio y recuerda a Evi al hablar con Adolin.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Dalinar recuerda cómo Sadeas difundió lo ocurrido en Rathalas en beneficio del rey.",
+      "sourceIds": [
+        "primary217-ob88"
+      ],
+      "id": "primary217-rathalas-public-account",
+      "characterId": "sadeas",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-88"
+      },
+      "kind": "background",
+      "text": "Dalinar recuerda cómo Sadeas difundió lo ocurrido en Rathalas en beneficio del rey.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -105896,6 +106506,10 @@
         {
           "revision": 216,
           "notes": "Se registran las evocaciones de Eshonai por su hermana Venli. Los términos de ascendencia colectiva entre cantores y Fusionados no aportan filiaciones individuales."
+        },
+        {
+          "revision": 217,
+          "notes": "Se revisan la afirmación de parentesco de Sheler, la relación entre Venli y Eshonai y las referencias a Evi, los hijos de Dalinar y el tío de Adolin. El pariente de Sheler queda por identificar en el pasaje."
         }
       ]
     }
@@ -109035,7 +109649,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 216,
+  "revision": 217,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -111868,6 +112482,29 @@
       "label": "Interludio I-9 · Tu verdadero trabajo",
       "part": "ob-interludes-7-11",
       "source": "primary216-obi9"
+    },
+    {
+      "id": "ob-interlude-10",
+      "bookId": "ob",
+      "label": "Interludio I-10 · Sheler",
+      "part": "ob-interludes-7-11",
+      "source": "primary217-obi10"
+    },
+    {
+      "id": "ob-interlude-11",
+      "bookId": "ob",
+      "label": "Interludio I-11 · Su recompensa",
+      "part": "ob-interludes-7-11",
+      "source": "primary217-obi11"
+    },
+    {
+      "id": "ob-chapter-88",
+      "bookId": "ob",
+      "chapter": 88,
+      "label": "Capítulo 88 · Voces",
+      "part": "ob-4a",
+      "source": "primary217-ob88",
+      "flashback": true
     }
   ],
   "experiencePresentation": {
@@ -113088,6 +113725,31 @@
         "name": "Lugar físico de Lift durante la visión (desconocido)",
         "xy": null,
         "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Odium reprende a Venli dentro de una visión. Venli despierta en la ermita, donde la encuentra Timbre.",
+      "sourceIds": [
+        "primary217-obi11"
+      ],
+      "id": "primary217-venli-odium-vision",
+      "characterId": "venli",
+      "sceneId": "ob-interlude-11",
+      "type": "vision",
+      "experiencedPlace": "Plataforma suspendida sobre Roshar en la visión de Odium",
+      "physicalPlaceId": "place-obi11-kholinar-venli-hermitage",
+      "notes": [
+        "Odium reprende a Venli dentro de una visión. Venli despierta en la ermita, donde la encuentra Timbre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-obi11-kholinar-venli-hermitage",
+        "name": "Kholinar · Ermita donde permanece Venli",
+        "xy": [
+          721.177,
+          344.038
+        ],
+        "coordinateStatus": "pending-calibration"
       }
     }
   ],
@@ -167072,6 +167734,294 @@
           "notes": [
             "Está en la sala común cuando llega el mensaje interrumpido desde Kholinar."
           ]
+        },
+        {
+          "id": "primary217-88-dalinar-1",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de estar del rey",
+          "placeId": "place-ob88-palace-king-sitting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Permanece al fondo mientras Gavilar recibe a los herederos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece al fondo mientras Gavilar recibe a los herederos."
+          ]
+        },
+        {
+          "id": "primary217-88-dalinar-2",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de servicio",
+          "placeId": "place-ob88-palace-service-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Busca bebida y encuentra vacíos los aparadores.",
+          "needsConfirmation": [],
+          "notes": [
+            "Busca bebida y encuentra vacíos los aparadores."
+          ]
+        },
+        {
+          "id": "primary217-88-dalinar-3",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Corredores inferiores",
+          "placeId": "place-ob88-palace-lower-corridors",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Habla con Adolin y atraviesa la galería y los pasillos inferiores.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Adolin y atraviesa la galería y los pasillos inferiores."
+          ]
+        },
+        {
+          "id": "primary217-88-dalinar-4",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Pórtico de los Mendigos",
+          "placeId": "place-ob88-palace-beggars-porch",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Comparte vino y habla de las voces en el Pórtico.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comparte vino y habla de las voces en el Pórtico."
+          ]
+        },
+        {
+          "id": "primary217-88-dalinar-5",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Pasillo ante una puerta cerrada",
+          "placeId": "place-ob88-palace-closed-door",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Desde el pasillo oye una conversación sobre su duelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desde el pasillo oye una conversación sobre su duelo."
+          ]
+        },
+        {
+          "id": "primary217-88-dalinar-6",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Aposentos de Dalinar",
+          "placeId": "place-ob88-palace-dalinar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Regresa a la puerta correcta y se desploma en un sofá.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a la puerta correcta y se desploma en un sofá."
+          ]
         }
       ]
     },
@@ -176185,6 +177135,102 @@
           "needsConfirmation": [],
           "notes": [
             "Celeste lo saca del mar y vuelve a quedar sobre la plataforma."
+          ]
+        },
+        {
+          "id": "primary217-88-adolin-3",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Corredores inferiores",
+          "placeId": "place-ob88-palace-lower-corridors",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Le cuenta a Dalinar que ha concertado un lance contra Tenathar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Le cuenta a Dalinar que ha concertado un lance contra Tenathar."
+          ]
+        },
+        {
+          "id": "primary217-88-adolin-5",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Estancia de la conversación oída desde el pasillo",
+          "placeId": "place-ob88-palace-room-behind-door",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Dalinar reconoce su voz al otro lado de la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar reconoce su voz al otro lado de la puerta."
           ]
         }
       ]
@@ -233017,6 +234063,102 @@
           "notes": [
             "Aterriza junto a un refugio extramuros. Venli se suelta del arnés."
           ]
+        },
+        {
+          "id": "primary217-i11-venli-1",
+          "scene": "ob-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Ermita donde permanece Venli",
+          "placeId": "place-obi11-kholinar-venli-hermitage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi11",
+          "sourceIds": [
+            "primary217-obi11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Habla con Timbre y observa desde la ventana la llegada de la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Timbre y observa desde la ventana la llegada de la tormenta eterna."
+          ]
+        },
+        {
+          "id": "primary217-i11-venli-2",
+          "scene": "ob-interlude-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Ermita donde permanece Venli",
+          "placeId": "place-obi11-kholinar-venli-hermitage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi11",
+          "sourceIds": [
+            "primary217-obi11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-11"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-11.Surecompensa.xhtml. Despierta en el suelo de la ermita con los dedos ensangrentados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Despierta en el suelo de la ermita con los dedos ensangrentados."
+          ]
         }
       ]
     },
@@ -259673,6 +260815,102 @@
           "needsConfirmation": [],
           "notes": [
             "Informa de que Tanalan reúne un ejército. Le encarga a Dalinar proteger las fronteras, sin enviarlo a Rathalas."
+          ]
+        },
+        {
+          "id": "primary217-88-gavilar-1",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Sala de estar del rey",
+          "placeId": "place-ob88-palace-king-sitting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Habla con los herederos de los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con los herederos de los altos príncipes."
+          ]
+        },
+        {
+          "id": "primary217-88-gavilar-5",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Estancia de la conversación oída desde el pasillo",
+          "placeId": "place-ob88-palace-room-behind-door",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Dalinar reconoce su voz al otro lado de la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar reconoce su voz al otro lado de la puerta."
           ]
         }
       ]
@@ -289091,7 +290329,98 @@
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Se conserva la referencia narrativa sin asignar una posición cartográfica por el mero hecho de habilitar la ficha.",
-      "events": []
+      "events": [
+        {
+          "id": "primary217-i10-sheler-1",
+          "scene": "ob-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Frontera de Herdaz y Alezkar · Campamento herdaziano",
+          "placeId": "place-obi10-herdaz-border-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi10",
+          "sourceIds": [
+            "primary217-obi10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi10-herdaz-border-camp",
+          "coordinateAnchorName": "Frontera de Herdaz y Alezkar · Campamento herdaziano",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Permanece preso ante el general y escoge la tercera opción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece preso ante el general y escoge la tercera opción."
+          ]
+        },
+        {
+          "id": "primary217-i10-sheler-2",
+          "scene": "ob-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Frontera herdaziana · Orilla bajo el acantilado",
+          "placeId": "place-obi10-herdaz-border-cliff",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi10",
+          "sourceIds": [
+            "primary217-obi10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi10-herdaz-border-cliff",
+          "coordinateAnchorName": "Frontera herdaziana · Orilla bajo el acantilado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Lo encadenan y lo cubren de aceite. Ve emerger una pinza enorme.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lo encadenan y lo cubren de aceite. Ve emerger una pinza enorme."
+          ]
+        }
+      ]
     },
     {
       "id": "mesh",
@@ -320750,6 +322079,273 @@
       "name": "El Ilustre",
       "initial": "E",
       "role": "Mraize se refiere a una obra con esta atribución.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "herdazian-general-obi10",
+      "name": "General herdaziano",
+      "initial": "G",
+      "role": "Interroga a Sheler y le ofrece tres opciones.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary217-i10-herdazian-general-obi10-1",
+          "scene": "ob-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Frontera de Herdaz y Alezkar · Campamento herdaziano",
+          "placeId": "place-obi10-herdaz-border-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi10",
+          "sourceIds": [
+            "primary217-obi10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi10-herdaz-border-camp",
+          "coordinateAnchorName": "Frontera de Herdaz y Alezkar · Campamento herdaziano",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Interroga a Sheler y se libera de unos grilletes ante sus oficiales.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interroga a Sheler y se libera de unos grilletes ante sus oficiales."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jerono-obi10",
+      "name": "Jerono",
+      "initial": "J",
+      "role": "Oficial que comenta los grilletes con el general.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary217-i10-jerono-obi10-1",
+          "scene": "ob-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Frontera de Herdaz y Alezkar · Campamento herdaziano",
+          "placeId": "place-obi10-herdaz-border-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi10",
+          "sourceIds": [
+            "primary217-obi10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi10-herdaz-border-camp",
+          "coordinateAnchorName": "Frontera de Herdaz y Alezkar · Campamento herdaziano",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Recibe los grilletes y habla de su cerradura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe los grilletes y habla de su cerradura."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi10-shore-guard",
+      "name": "Soldado de la orilla",
+      "initial": "S",
+      "role": "Habla con Sheler tras encadenarlo a la roca.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary217-i10-obi10-shore-guard-2",
+          "scene": "ob-interlude-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Frontera herdaziana · Orilla bajo el acantilado",
+          "placeId": "place-obi10-herdaz-border-cliff",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-obi10",
+          "sourceIds": [
+            "primary217-obi10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi10-herdaz-border-cliff",
+          "coordinateAnchorName": "Frontera herdaziana · Orilla bajo el acantilado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-10"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-10.Sheller.xhtml. Se despide de Sheler y sube por el camino.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se despide de Sheler y sube por el camino."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ahu-ob88",
+      "name": "Ahu",
+      "initial": "A",
+      "role": "Hombre del Pórtico de los Mendigos que comparte vino con Dalinar y le habla de las voces.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary217-88-ahu-ob88-4",
+          "scene": "ob-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Pórtico de los Mendigos",
+          "placeId": "place-ob88-palace-beggars-porch",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary217-ob88",
+          "sourceIds": [
+            "primary217-ob88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 8,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-88"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml. Comparte vino y habla de las voces en el Pórtico.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comparte vino y habla de las voces en el Pórtico."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tenathar-ob88",
+      "name": "Tenathar",
+      "initial": "T",
+      "role": "Adolin lo menciona como su próximo rival de duelo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob88-ahu-black-fisher",
+      "name": "Pescador Negro",
+      "initial": "P",
+      "role": "Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob88-ahu-spawning-mother",
+      "name": "Madre que Engendra",
+      "initial": "M",
+      "role": "Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob88-ahu-faceless",
+      "name": "Sin Rostro",
+      "initial": "S",
+      "role": "Nombre que Ahu menciona al hablar con Dalinar. Su identidad y situación no quedan establecidas.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
