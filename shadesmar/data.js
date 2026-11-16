@@ -3756,6 +3756,41 @@ window.ATLAS_DATA = {
       "shallan",
       "skar",
       "wit"
+    ],
+    "ob-chapter-75": [
+      "dalinar",
+      "evi",
+      "ialai",
+      "kalami",
+      "sadeas",
+      "teleb"
+    ],
+    "ob-chapter-76": [
+      "amaram",
+      "dalinar",
+      "evi",
+      "kadash",
+      "kalami",
+      "ob76-dalinar-surgeon",
+      "ob76-truce-messenger",
+      "ob76-younger-tanalan-children",
+      "sadeas",
+      "tanalan-younger",
+      "teleb"
+    ],
+    "ob-chapter-77": [
+      "adolin",
+      "hessi-ob77",
+      "kaladin",
+      "ob68-chouta-innkeeper",
+      "ob68-heart-of-the-revel",
+      "ob77-cantina-doorman",
+      "ob77-cantina-server",
+      "pattern",
+      "shallan",
+      "sja-anat",
+      "syl",
+      "vathah"
     ]
   },
   "knowledgeArchive": {
@@ -13282,6 +13317,125 @@ window.ATLAS_DATA = {
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Aparecen ante Evi al ver el estado de Dalinar tras la emboscada.",
+        "sourceIds": [
+          "primary212-ob75"
+        ],
+        "id": "primary212-archive-evi-camp-fearspren",
+        "entryId": "spren-type-fearspren",
+        "value": "Aparecen ante Evi al ver el estado de Dalinar tras la emboscada.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-75"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Se alzan de los incendios y a Dalinar le parecen mayores y más furiosos de lo habitual.",
+        "sourceIds": [
+          "primary212-ob76"
+        ],
+        "id": "primary212-archive-rathalas-fire-flamespren",
+        "entryId": "spren-type-flamespren",
+        "value": "Se alzan de los incendios y a Dalinar le parecen mayores y más furiosos de lo habitual.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-76"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
+        "sourceIds": [
+          "primary212-ob77"
+        ],
+        "id": "primary212-archive-ashertmarn-mythica",
+        "entryId": "spren-person-heart-of-the-revel-ob68",
+        "value": "Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-77"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
+        "sourceIds": [
+          "primary212-ob77"
+        ],
+        "id": "primary212-archive-ashertmarn-name",
+        "entryId": "spren-person-heart-of-the-revel-ob68",
+        "value": "Ashertmarn",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-77"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan cita las visiones y Mítica al asociar a Sja-anat con los spren cambiados. La presencia en la ciudad es una hipótesis en esta conversación.",
+        "sourceIds": [
+          "primary212-ob77"
+        ],
+        "id": "primary212-archive-sja-anat-mythica",
+        "entryId": "spren-person-sja-anat",
+        "value": "Shallan cita las visiones y Mítica al asociar a Sja-anat con los spren cambiados. La presencia en la ciudad es una hipótesis en esta conversación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-77"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan talla un glorispren con forma de cubo a partir del que ha visto atraer a otro cliente.",
+        "sourceIds": [
+          "primary212-ob77"
+        ],
+        "id": "primary212-archive-gloryspren-cube",
+        "entryId": "spren-type-gloryspren",
+        "value": "Shallan talla un glorispren con forma de cubo a partir del que ha visto atraer a otro cliente.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-77"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan ve una forma parecida a un remolino de hojas azules al caminar con Adolin.",
+        "sourceIds": [
+          "primary212-ob77"
+        ],
+        "id": "primary212-archive-kholinar-joyspren",
+        "entryId": "spren-type-joyspren",
+        "value": "Shallan ve una forma parecida a un remolino de hojas azules al caminar con Adolin.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-77"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -13621,6 +13775,23 @@ window.ATLAS_DATA = {
       },
       "notes": [
         "El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar."
+      ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. El relato identifica a Kalami como esposa de Teleb durante el recuerdo.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-teleb-wife-kalami",
+      "from": "ob52-teleb-wife",
+      "to": "kalami",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "notes": [
+        "El relato identifica a Kalami como esposa de Teleb durante el recuerdo."
       ]
     }
   ],
@@ -28873,6 +29044,33 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Grund señala que Muri tiene varios hijos a los que le cuesta alimentar."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Tanalan pide explícitamente clemencia por sus hijos.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-younger-tanalan-children",
+      "from": "tanalan-younger",
+      "to": "ob76-younger-tanalan-children",
+      "kind": "parent",
+      "label": "Padre y descendencia",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Tanalan pide explícitamente clemencia por sus hijos."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Tanalan pide explícitamente clemencia por sus hijos."
       }
     }
   ],
@@ -65018,6 +65216,405 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Dalinar acusa a los exploradores de trabajar para Tanalan. Teleb ordena detenerlos y Sadeas exige un castigo.",
+      "sourceIds": [
+        "primary212-ob75"
+      ],
+      "id": "primary212-ambush-report",
+      "participants": [
+        "dalinar",
+        "teleb",
+        "sadeas"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-75"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar acusa a los exploradores de trabajar para Tanalan. Teleb ordena detenerlos y Sadeas exige un castigo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar acusa a los exploradores de trabajar para Tanalan. Teleb ordena detenerlos y Sadeas exige un castigo.",
+        "pairs": [
+          [
+            "dalinar",
+            "teleb"
+          ],
+          [
+            "dalinar",
+            "sadeas"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Kalami consuela a Evi antes del regreso de Dalinar. Evi le pide a Dalinar que descanse y espere.",
+      "sourceIds": [
+        "primary212-ob75"
+      ],
+      "id": "primary212-camp-evi-plea",
+      "participants": [
+        "evi",
+        "dalinar",
+        "kalami"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-75"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Kalami consuela a Evi antes del regreso de Dalinar. Evi le pide a Dalinar que descanse y espere.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kalami consuela a Evi antes del regreso de Dalinar. Evi le pide a Dalinar que descanse y espere.",
+        "pairs": [
+          [
+            "evi",
+            "dalinar"
+          ],
+          [
+            "evi",
+            "kalami"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. La mensajera comunica la salida de una delegación de tregua y Dalinar se niega a recibirla.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-truce-report",
+      "participants": [
+        "dalinar",
+        "ob76-truce-messenger"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "La mensajera comunica la salida de una delegación de tregua y Dalinar se niega a recibirla.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La mensajera comunica la salida de una delegación de tregua y Dalinar se niega a recibirla.",
+        "pairs": [
+          [
+            "dalinar",
+            "ob76-truce-messenger"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Dalinar discute sus decisiones con Sadeas y ordena proceder con aceite y antorchas.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-rathalas-command",
+      "participants": [
+        "dalinar",
+        "sadeas",
+        "amaram"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar discute sus decisiones con Sadeas y ordena proceder con aceite y antorchas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar discute sus decisiones con Sadeas y ordena proceder con aceite y antorchas.",
+        "pairs": [
+          [
+            "dalinar",
+            "sadeas"
+          ],
+          [
+            "dalinar",
+            "amaram"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Tanalan habla de su familia y revela que Evi estaba en la cámara. Dalinar lo estrangula.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-rathalas-tanalan-death",
+      "participants": [
+        "dalinar",
+        "tanalan-younger"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Tanalan habla de su familia y revela que Evi estaba en la cámara. Dalinar lo estrangula.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Tanalan habla de su familia y revela que Evi estaba en la cámara. Dalinar lo estrangula.",
+        "pairs": [
+          [
+            "dalinar",
+            "tanalan-younger"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Kalami presenta sus sospechas. Dalinar le ordena difundir la versión del asesinato y ocultar dónde hallaron a Evi.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-evi-cover-story",
+      "participants": [
+        "dalinar",
+        "kalami"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Kalami presenta sus sospechas. Dalinar le ordena difundir la versión del asesinato y ocultar dónde hallaron a Evi.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kalami presenta sus sospechas. Dalinar le ordena difundir la versión del asesinato y ocultar dónde hallaron a Evi.",
+        "pairs": [
+          [
+            "dalinar",
+            "kalami"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Kaladin llega antes de que cierren la puerta y paga la entrada al portero.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-storm-shelter-entry",
+      "participants": [
+        "kaladin",
+        "ob77-cantina-doorman"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin llega antes de que cierren la puerta y paga la entrada al portero.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin llega antes de que cierren la puerta y paga la entrada al portero.",
+        "pairs": [
+          [
+            "kaladin",
+            "ob77-cantina-doorman"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Los tres repasan la Guardia de la Muralla, los Deshechos y las opciones que tienen para rescatar a la familia del rey.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-mythica-discussion",
+      "participants": [
+        "shallan",
+        "adolin",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Los tres repasan la Guardia de la Muralla, los Deshechos y las opciones que tienen para rescatar a la familia del rey.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los tres repasan la Guardia de la Muralla, los Deshechos y las opciones que tienen para rescatar a la familia del rey.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "kaladin"
+          ],
+          [
+            "adolin",
+            "kaladin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Adolin y Shallan hablan de sus bocetos y de los usos de la potenciación mientras se encaminan hacia la sastrería.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-adolin-walk-art",
+      "participants": [
+        "adolin",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Adolin y Shallan hablan de sus bocetos y de los usos de la potenciación mientras se encaminan hacia la sastrería.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin y Shallan hablan de sus bocetos y de los usos de la potenciación mientras se encaminan hacia la sastrería.",
+        "pairs": [
+          [
+            "adolin",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Planean conseguir comida. Vathah cambia de apariencia al sobresaltarse y Shallan le enseña el resultado en un espejo.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-vathah-lightweaving",
+      "participants": [
+        "shallan",
+        "vathah",
+        "ob68-chouta-innkeeper"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Planean conseguir comida. Vathah cambia de apariencia al sobresaltarse y Shallan le enseña el resultado en un espejo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Planean conseguir comida. Vathah cambia de apariencia al sobresaltarse y Shallan le enseña el resultado en un espejo.",
+        "pairs": [
+          [
+            "shallan",
+            "vathah"
+          ],
+          [
+            "shallan",
+            "ob68-chouta-innkeeper"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -99270,6 +99867,246 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Elhokar calcula que Gavinor tendrá tres años y recuerda haberlo visto por última vez de bebé.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Dalinar interpreta los uniformes de Sadeas como parte del señuelo preparado por los grietanos.",
+      "sourceIds": [
+        "primary212-ob75"
+      ],
+      "id": "primary212-sadeas-lure-explained",
+      "characterId": "sadeas",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-75"
+      },
+      "kind": "background",
+      "text": "Dalinar interpreta los uniformes de Sadeas como parte del señuelo preparado por los grietanos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Al volver al campamento, ordena producir aceite y anuncia que arrasará Rathalas.",
+      "sourceIds": [
+        "primary212-ob75"
+      ],
+      "id": "primary212-rathalas-burning-order",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-75"
+      },
+      "kind": "background",
+      "text": "Al volver al campamento, ordena producir aceite y anuncia que arrasará Rathalas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Anuncia que sale de Rathalas un grupo con bandera de tregua.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-ob76-truce-messenger-intro",
+      "characterId": "ob76-truce-messenger",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "kind": "background",
+      "text": "Anuncia que sale de Rathalas un grupo con bandera de tregua.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Examina las heridas de Dalinar.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-ob76-dalinar-surgeon-intro",
+      "characterId": "ob76-dalinar-surgeon",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "kind": "background",
+      "text": "Examina las heridas de Dalinar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Tanalan suplica por sus hijos cuando arde el palacio. No se precisan sus nombres.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-ob76-younger-tanalan-children-intro",
+      "characterId": "ob76-younger-tanalan-children",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "kind": "background",
+      "text": "Tanalan suplica por sus hijos cuando arde el palacio. No se precisan sus nombres.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. El relato identifica a Kalami como esposa de Teleb durante el recuerdo.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-kalami-teleb-wife",
+      "characterId": "kalami",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "kind": "background",
+      "text": "El relato identifica a Kalami como esposa de Teleb durante el recuerdo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Fue a Rathalas para suplicar. La versión que Dalinar ordena difundir atribuye su muerte a un asesino.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-evi-rathalas-truth",
+      "characterId": "evi",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "kind": "background",
+      "text": "Fue a Rathalas para suplicar. La versión que Dalinar ordena difundir atribuye su muerte a un asesino.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Se ven las siluetas de una mujer y unos niños antes de que el palacio se derrumbe. Los niños no se identifican individualmente.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-tanalan-family-plea",
+      "characterId": "ob76-younger-tanalan-children",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "kind": "background",
+      "text": "Se ven las siluetas de una mujer y unos niños antes de que el palacio se derrumbe. Los niños no se identifican individualmente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Cierra el acceso al refugio y cobra a Kaladin por entrar.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-ob77-cantina-doorman-intro",
+      "characterId": "ob77-cantina-doorman",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Cierra el acceso al refugio y cobra a Kaladin por entrar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Toma el pedido en el reservado.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-ob77-cantina-server-intro",
+      "characterId": "ob77-cantina-server",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Toma el pedido en el reservado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Autoría citada de Mítica, libro que Shallan consulta para investigar a los Deshechos.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-hessi-ob77-intro",
+      "characterId": "hessi-ob77",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Autoría citada de Mítica, libro que Shallan consulta para investigar a los Deshechos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Adopta de forma involuntaria el rostro de un dibujo. Shallan plantea que puede ser escudero y le pide que practique.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-vathah-first-lightweaving",
+      "characterId": "vathah",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Adopta de forma involuntaria el rostro de un dibujo. Shallan plantea que puede ser escudero y le pide que practique.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan atribuye a Mítica nueve Deshechos y señala que otros textos dan una cifra distinta.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-mythica-nine-unmade",
+      "characterId": "hessi-ob77",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Shallan atribuye a Mítica nueve Deshechos y señala que otros textos dan una cifra distinta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan propone que la Tomadora de Secretos está en Kholinar por los cambios observados en los spren. La identificación es su hipótesis.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-sja-anat-kholinar-hypothesis",
+      "characterId": "sja-anat",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Shallan propone que la Tomadora de Secretos está en Kholinar por los cambios observados en los spren. La identificación es su hipótesis.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
+      "sourceIds": [
+        "primary212-ob77"
+      ],
+      "id": "primary212-ashertmarn-mythica",
+      "characterId": "ob68-heart-of-the-revel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-77"
+      },
+      "kind": "background",
+      "text": "Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -101931,6 +102768,10 @@ window.ATLAS_DATA = {
         {
           "revision": 211,
           "notes": "Se cotejan Muri y su descendencia y la precisión de que tiene tres hijas; se revisan la mención de Gavinor, la historia atribuida a Barba y la convivencia de Grund con Ma y Seland, sin inferir parentesco adicional."
+        },
+        {
+          "revision": 212,
+          "notes": "Se revisan Evi y Dalinar, Gavilar, Kalami y Teleb, los hijos de Tanalan y las menciones de la familia real. Se conserva la ficha previa de la esposa de Teleb hasta la identificación en OB76. Los dibujos del refugio no aportan nuevas filiaciones identificables."
         }
       ]
     }
@@ -104870,6 +105711,40 @@ window.ATLAS_DATA = {
       "notes": [
         "Venli observa que uno de los elegidos ha muerto aplastado."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Muere en la cámara incendiada. Su cuerpo se recupera y Dalinar lo reconoce en la tienda.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-rathalas-death-evi",
+      "characterId": "evi",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "notes": [
+        "Muere en la cámara incendiada. Su cuerpo se recupera y Dalinar lo reconoce en la tienda."
+      ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Dalinar lo estrangula en el borde de la Grieta.",
+      "sourceIds": [
+        "primary212-ob76"
+      ],
+      "id": "primary212-rathalas-death-tanalan-younger",
+      "characterId": "tanalan-younger",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-76"
+      },
+      "notes": [
+        "Dalinar lo estrangula en el borde de la Grieta."
+      ]
     }
   ],
   "bookId": "wok",
@@ -104900,7 +105775,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 211,
+  "revision": 212,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -107606,6 +108481,32 @@ window.ATLAS_DATA = {
       "label": "Capítulo 74 · Raudispren",
       "part": "ob-3a",
       "source": "primary211-ob74"
+    },
+    {
+      "id": "ob-chapter-75",
+      "bookId": "ob",
+      "chapter": 75,
+      "label": "Capítulo 75 · Solo rojo",
+      "part": "ob-3a",
+      "source": "primary212-ob75",
+      "flashback": true
+    },
+    {
+      "id": "ob-chapter-76",
+      "bookId": "ob",
+      "chapter": 76,
+      "label": "Capítulo 76 · Un animal",
+      "part": "ob-3a",
+      "source": "primary212-ob76",
+      "flashback": true
+    },
+    {
+      "id": "ob-chapter-77",
+      "bookId": "ob",
+      "chapter": 77,
+      "label": "Capítulo 77 · Refugio para tormentas",
+      "part": "ob-3a",
+      "source": "primary212-ob77"
     }
   ],
   "experiencePresentation": {
@@ -124432,6 +125333,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Vuelve al baluarte y come con la escuadra."
           ]
+        },
+        {
+          "id": "primary212-77-kaladin-1",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cantina que sirve de refugio",
+          "placeId": "place-ob77-kholinar-storm-cantina",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en la cantina durante la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la tormenta eterna."
+          ]
         }
       ]
     },
@@ -140786,6 +141735,198 @@ window.ATLAS_DATA = {
           "notes": [
             "Vuelve a su habitación y lee la invitación que trae Ishnah."
           ]
+        },
+        {
+          "id": "primary212-77-shallan-1",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cantina que sirve de refugio",
+          "placeId": "place-ob77-kholinar-storm-cantina",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en la cantina durante la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la tormenta eterna."
+          ]
+        },
+        {
+          "id": "primary212-77-shallan-2",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calles tras la tormenta eterna",
+          "placeId": "place-ob77-after-storm-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Sale tras la tormenta y camina hacia la sastrería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale tras la tormenta y camina hacia la sastrería."
+          ]
+        },
+        {
+          "id": "primary212-77-shallan-3",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calles tras la tormenta eterna",
+          "placeId": "place-ob77-after-storm-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Se separa de Adolin y cambia de apariencia antes de reunirse con Vathah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se separa de Adolin y cambia de apariencia antes de reunirse con Vathah."
+          ]
+        },
+        {
+          "id": "primary212-77-shallan-4",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en el reservado de la posada durante la preparación del nuevo robo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado de la posada durante la preparación del nuevo robo."
+          ]
         }
       ]
     },
@@ -148967,6 +150108,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Acompaña a Kaladin cuando vuelve a la torre."
+          ]
+        },
+        {
+          "id": "primary212-77-syl-1",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cantina que sirve de refugio",
+          "placeId": "place-ob77-kholinar-storm-cantina",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en la cantina durante la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la tormenta eterna."
           ]
         }
       ]
@@ -159369,6 +160558,576 @@ window.ATLAS_DATA = {
           "notes": [
             "Vuelve junto a sus tropas. Deja a Teleb al mando y pide a Evi que prepare un mensaje."
           ]
+        },
+        {
+          "id": "primary212-75-dalinar-1",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Afueras de Rathalas · Campamento de la falsa caravana",
+          "placeId": "place-ob75-caravan-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob75-caravan-camp",
+          "coordinateAnchorName": "Afueras de Rathalas · Campamento de la falsa caravana",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Alcanza a los hombres de la supuesta caravana y los persigue.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza a los hombres de la supuesta caravana y los persigue."
+          ]
+        },
+        {
+          "id": "primary212-75-dalinar-2",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Afueras de Rathalas · Desfiladero de la emboscada",
+          "placeId": "place-ob75-rockslide-canyon",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob75-rockslide-canyon",
+          "coordinateAnchorName": "Afueras de Rathalas · Desfiladero de la emboscada",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Queda sepultado por el alud provocado. Sale de entre las rocas y combate a los grietanos que lo buscan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Queda sepultado por el alud provocado. Sale de entre las rocas y combate a los grietanos que lo buscan."
+          ]
+        },
+        {
+          "id": "primary212-75-dalinar-3",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Campamento del ejército de Dalinar",
+          "placeId": "place-ob75-rathalas-command-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Regresa herido a pie con Juramentada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa herido a pie con Juramentada."
+          ]
+        },
+        {
+          "id": "primary212-75-dalinar-4",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Está en la tienda de mando cuando Dalinar vuelve de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-1",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Campamento del ejército de Dalinar",
+          "placeId": "place-ob75-rathalas-command-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Se lava y se deja examinar las heridas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se lava y se deja examinar las heridas."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-2",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Revisa los planes y oye la noticia de la bandera de tregua.",
+          "needsConfirmation": [],
+          "notes": [
+            "Revisa los planes y oye la noticia de la bandera de tregua."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-3",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Exterior de la tienda de mando",
+          "placeId": "place-ob76-rathalas-command-exterior",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Habla de la decisión de atacar y de qué se comunicará a Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de la decisión de atacar y de qué se comunicará a Gavilar."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-4",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en la reunión de mando previa a la toma de las fortificaciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la reunión de mando previa a la toma de las fortificaciones."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-5",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde de la Grieta durante el incendio",
+          "placeId": "place-ob76-rathalas-burning-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-6",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cámara acorazada usada como cárcel",
+          "placeId": "place-ob76-rathalas-vault-prison",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Baja por la rampa y abre la cámara. Hace introducir aceite y fuego.",
+          "needsConfirmation": [],
+          "notes": [
+            "Baja por la rampa y abre la cámara. Hace introducir aceite y fuego."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-7",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde norte donde capturan a Tanalan",
+          "placeId": "place-ob76-rathalas-north-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Hace sacar a Tanalan, oye que Evi estaba en la cárcel y lo estrangula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hace sacar a Tanalan, oye que Evi estaba en la cárcel y lo estrangula."
+          ]
+        },
+        {
+          "id": "primary212-76-dalinar-8",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Ve el cuerpo de Evi y ordena dar a conocer la versión del asesinato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ve el cuerpo de Evi y ordena dar a conocer la versión del asesinato."
+          ]
         }
       ]
     },
@@ -167435,6 +169194,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se cruza con la patrulla. Adolin avisa discretamente a Kaladin con un gesto."
+          ]
+        },
+        {
+          "id": "primary212-77-adolin-1",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cantina que sirve de refugio",
+          "placeId": "place-ob77-kholinar-storm-cantina",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en la cantina durante la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la tormenta eterna."
+          ]
+        },
+        {
+          "id": "primary212-77-adolin-2",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calles tras la tormenta eterna",
+          "placeId": "place-ob77-after-storm-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Sale tras la tormenta y camina hacia la sastrería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale tras la tormenta y camina hacia la sastrería."
           ]
         }
       ]
@@ -175634,6 +177489,246 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en una mesa del salón, con un grupo de ojos claros."
+          ]
+        },
+        {
+          "id": "primary212-75-sadeas-4",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Está en la tienda de mando cuando Dalinar vuelve de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
+          ]
+        },
+        {
+          "id": "primary212-76-sadeas-3",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Exterior de la tienda de mando",
+          "placeId": "place-ob76-rathalas-command-exterior",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Habla de la decisión de atacar y de qué se comunicará a Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de la decisión de atacar y de qué se comunicará a Gavilar."
+          ]
+        },
+        {
+          "id": "primary212-76-sadeas-4",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en la reunión de mando previa a la toma de las fortificaciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la reunión de mando previa a la toma de las fortificaciones."
+          ]
+        },
+        {
+          "id": "primary212-76-sadeas-5",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde de la Grieta durante el incendio",
+          "placeId": "place-ob76-rathalas-burning-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio."
+          ]
+        },
+        {
+          "id": "primary212-76-sadeas-7",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde norte donde capturan a Tanalan",
+          "placeId": "place-ob76-rathalas-north-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Explica a Dalinar que ya se han cerrado las vías de escape.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica a Dalinar que ya se han cerrado las vías de escape."
           ]
         }
       ]
@@ -204780,6 +206875,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Pide hablar en privado con Jasnah; discuten y él acaba marchándose."
           ]
+        },
+        {
+          "id": "primary212-76-amaram-4",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en la reunión de mando previa a la toma de las fortificaciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la reunión de mando previa a la toma de las fortificaciones."
+          ]
         }
       ]
     },
@@ -217478,6 +219621,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Su forma queda duplicada por accidente en la ilusión de la ropa de Shallan."
           ]
+        },
+        {
+          "id": "primary212-77-pattern-4",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en el reservado de la posada durante la preparación del nuevo robo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado de la posada durante la preparación del nuevo robo."
+          ]
         }
       ]
     },
@@ -226781,6 +228972,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Continúa el reparto hasta vaciar el carro."
           ]
+        },
+        {
+          "id": "primary212-77-vathah-4",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en el reservado de la posada durante la preparación del nuevo robo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado de la posada durante la preparación del nuevo robo."
+          ]
         }
       ]
     },
@@ -229365,6 +231604,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dalinar entrega Juramentada en los aposentos de Ialai. Amaram recoge la espada."
+          ]
+        },
+        {
+          "id": "primary212-75-ialai-4",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Está en la tienda de mando cuando Dalinar vuelve de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
           ]
         }
       ]
@@ -251130,6 +253417,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Presenta el informe de la batalla y recibe órdenes."
           ]
+        },
+        {
+          "id": "primary212-76-kadash-5",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde de la Grieta durante el incendio",
+          "placeId": "place-ob76-rathalas-burning-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio."
+          ]
+        },
+        {
+          "id": "primary212-76-kadash-7",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde norte donde capturan a Tanalan",
+          "placeId": "place-ob76-rathalas-north-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Contempla la destrucción y se arrodilla, mareado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Contempla la destrucción y se arrodilla, mareado."
+          ]
         }
       ]
     },
@@ -252499,6 +254882,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Presenta su informe cuando Elthebar interviene."
+          ]
+        },
+        {
+          "id": "primary212-75-kalami-4",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Está en la tienda de mando cuando Dalinar vuelve de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
+          ]
+        },
+        {
+          "id": "primary212-76-kalami-8",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Habla con Dalinar después de que traen el cuerpo de Evi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Dalinar después de que traen el cuerpo de Evi."
           ]
         }
       ]
@@ -254619,6 +257098,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Escucha la propuesta de Dalinar y atribuye a Sadeas el apoyo de la caravana."
+          ]
+        },
+        {
+          "id": "primary212-76-tanalan-younger-7",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde norte donde capturan a Tanalan",
+          "placeId": "place-ob76-rathalas-north-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Lo izan desde la zona del palacio y muere estrangulado por Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lo izan desde la zona del palacio y muere estrangulado por Dalinar."
           ]
         }
       ]
@@ -257154,6 +259681,150 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dalinar le pide que vuelva al campamento y prepare un mensaje para Gavilar."
+          ]
+        },
+        {
+          "id": "primary212-75-evi-4",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Está en la tienda de mando cuando Dalinar vuelve de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
+          ]
+        },
+        {
+          "id": "primary212-76-evi-6",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Cámara acorazada usada como cárcel",
+          "placeId": "place-ob76-rathalas-vault-prison",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Tanalan dice que fue a suplicar y que la encerraron allí. La recuperación del cuerpo confirma el lugar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tanalan dice que fue a suplicar y que la encerraron allí. La recuperación del cuerpo confirma el lugar."
+          ]
+        },
+        {
+          "id": "primary212-76-evi-8",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Su cuerpo ha sido recuperado de la cárcel y trasladado al campamento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su cuerpo ha sido recuperado de la cárcel y trasladado al campamento."
           ]
         }
       ]
@@ -268811,6 +271482,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Recibe el mando mientras Dalinar se dispone a seguir la pista de la caravana."
+          ]
+        },
+        {
+          "id": "primary212-75-teleb-4",
+          "scene": "ob-chapter-75",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob75",
+          "sourceIds": [
+            "primary212-ob75"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-75"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml. Está en la tienda de mando cuando Dalinar vuelve de la emboscada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
+          ]
+        },
+        {
+          "id": "primary212-76-teleb-5",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Borde de la Grieta durante el incendio",
+          "placeId": "place-ob76-rathalas-burning-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el borde de la Grieta después de la toma de la muralla, cuando se extiende el incendio."
           ]
         }
       ]
@@ -301668,6 +304435,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Sirve la comida y vuelve cuando Sagaz se marcha."
           ]
+        },
+        {
+          "id": "primary212-77-ob68-chouta-innkeeper-4",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en el reservado de la posada durante la preparación del nuevo robo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado de la posada durante la preparación del nuevo robo."
+          ]
         }
       ]
     },
@@ -301679,6 +304494,20 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "name": "Ashertmarn",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          }
+        }
+      ],
       "events": []
     },
     {
@@ -303811,6 +306640,262 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "ob76-truce-messenger",
+      "name": "Mensajera de la bandera de tregua",
+      "initial": "M",
+      "role": "Anuncia que sale de Rathalas un grupo con bandera de tregua.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary212-76-ob76-truce-messenger-2",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Tienda de mando de Dalinar",
+          "placeId": "place-ob75-rathalas-command-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Lleva a Dalinar la noticia de la salida del grupo de tregua.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lleva a Dalinar la noticia de la salida del grupo de tregua."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob76-dalinar-surgeon",
+      "name": "Cirujano del campamento",
+      "initial": "C",
+      "role": "Examina las heridas de Dalinar.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary212-76-ob76-dalinar-surgeon-1",
+          "scene": "ob-chapter-76",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Rathalas · Campamento del ejército de Dalinar",
+          "placeId": "place-ob75-rathalas-command-camp",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/75.Solorojo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            709.366,
+            397.55
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob76",
+          "sourceIds": [
+            "primary212-ob76"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-rathalas",
+          "coordinateAnchorName": "Rathalas · La Grieta",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-76"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/76.Unanimal.xhtml. Examina las heridas de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina las heridas de Dalinar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob76-younger-tanalan-children",
+      "name": "Hijos de Tanalan",
+      "initial": "H",
+      "role": "Tanalan suplica por sus hijos cuando arde el palacio. No se precisan sus nombres.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob77-cantina-doorman",
+      "name": "Portero de la cantina",
+      "initial": "P",
+      "role": "Cierra el acceso al refugio y cobra a Kaladin por entrar.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary212-77-ob77-cantina-doorman-1",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cantina que sirve de refugio",
+          "placeId": "place-ob77-kholinar-storm-cantina",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en la cantina durante la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la tormenta eterna."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob77-cantina-server",
+      "name": "Camarera de la cantina",
+      "initial": "C",
+      "role": "Toma el pedido en el reservado.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary212-77-ob77-cantina-server-1",
+          "scene": "ob-chapter-77",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cantina que sirve de refugio",
+          "placeId": "place-ob77-kholinar-storm-cantina",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary212-ob77",
+          "sourceIds": [
+            "primary212-ob77"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-77"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml. Está en la cantina durante la tormenta eterna.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la tormenta eterna."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hessi-ob77",
+      "name": "Hessi",
+      "initial": "H",
+      "role": "Autoría citada de Mítica, libro que Shallan consulta para investigar a los Deshechos.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
     }
   ]
 };
