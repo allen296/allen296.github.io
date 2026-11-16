@@ -3570,6 +3570,51 @@
       "vathah",
       "yokska-husband-ob61",
       "yokska-ob61"
+    ],
+    "ob-chapter-63": [
+      "aesudan",
+      "colot",
+      "kaladin",
+      "lyn",
+      "ob63-amethyst-cartographer",
+      "ob63-mirror-figure",
+      "ob63-palace-attacker",
+      "ob63-palace-body-carrier",
+      "ob63-palace-captain",
+      "pattern",
+      "shallan"
+    ],
+    "ob-chapter-64": [
+      "amaram",
+      "dalinar",
+      "fen",
+      "ishar-mentioned",
+      "jasnah",
+      "jezrien-vision",
+      "lift",
+      "navani",
+      "rust-shardbearer-pr81",
+      "serugiadis-pr81",
+      "stormfather",
+      "teft"
+    ],
+    "ob-chapter-65": [
+      "dalinar",
+      "evi",
+      "gawx",
+      "jasnah",
+      "lift",
+      "navani",
+      "nightwatcher",
+      "noura",
+      "ob65-emul-prime",
+      "ob65-emul-sage",
+      "ob65-tashikk-prince-brother",
+      "ob65-young-azish-guard",
+      "prince-tashikk",
+      "princess-yezier",
+      "snoxil-ob65",
+      "sunmaker"
     ]
   },
   "knowledgeArchive": {
@@ -12449,6 +12494,227 @@
         "field": "name",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/62.Investigacion.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Junto a la escalinata, Shallan compara los gallardetes habituales con otros que parecen agitar zarcillos largos.",
+        "sourceIds": [
+          "primary208-ob63"
+        ],
+        "id": "primary208-archive-palace-expectation",
+        "entryId": "spren-type-anticipationspren",
+        "value": "Junto a la escalinata, Shallan compara los gallardetes habituales con otros que parecen agitar zarcillos largos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-63"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Aparecen dolorspren cuando hieren a Shallan en el vestíbulo.",
+        "sourceIds": [
+          "primary208-ob63"
+        ],
+        "id": "primary208-archive-palace-pain",
+        "entryId": "spren-type-painspren",
+        "value": "Aparecen dolorspren cuando hieren a Shallan en el vestíbulo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-63"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Shallan ve putrispren en los cuerpos de la bodega.",
+        "sourceIds": [
+          "primary208-ob63"
+        ],
+        "id": "primary208-archive-palace-decay",
+        "entryId": "spren-type-rotspren",
+        "value": "Shallan ve putrispren en los cuerpos de la bodega.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-63"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Patrón inspecciona la salida y transmite la imitación que teje Shallan para distraer a los guardias.",
+        "sourceIds": [
+          "primary208-ob63"
+        ],
+        "id": "primary208-archive-pattern-mimicry",
+        "entryId": "spren-person-pattern",
+        "value": "Patrón inspecciona la salida y transmite la imitación que teje Shallan para distraer a los guardias.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-63"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-ishar-tezim",
+        "entryId": "herald-ishar-mentioned",
+        "value": "El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. El Padre Tormenta le atribuye la fundación del Juramento y de las órdenes, y recuerda su nombre Vinculador de Dioses.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-ishar-juramento",
+        "entryId": "herald-ishar-mentioned",
+        "value": "El Padre Tormenta le atribuye la fundación del Juramento y de las órdenes, y recuerda su nombre Vinculador de Dioses.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Dalinar reconoce la Hoja de Honor como la de Jezerezeh’Elin. El Padre Tormenta dice que Jezrien precedió a la orden de Corredores del Viento.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-jezrien-blade",
+        "entryId": "herald-jezrien-vision",
+        "value": "Dalinar reconoce la Hoja de Honor como la de Jezerezeh’Elin. El Padre Tormenta dice que Jezrien precedió a la orden de Corredores del Viento.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Rechaza las antiguas identificaciones con Jezrien y Kelek.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-stormfather-distinction",
+        "entryId": "spren-person-stormfather",
+        "value": "Rechaza las antiguas identificaciones con Jezrien y Kelek.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Afirma que hay tres posibles Forjadores de Vínculos, uno por cada spren correspondiente. Los otros dos quedan sin identificar en la conversación.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-stormfather-three",
+        "entryId": "spren-person-stormfather",
+        "value": "Afirma que hay tres posibles Forjadores de Vínculos, uno por cada spren correspondiente. Los otros dos quedan sin identificar en la conversación.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Atribuye la recarga de gemas a la confluencia momentánea de los tres reinos en la alta tormenta.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-stormfather-light",
+        "entryId": "spren-person-stormfather",
+        "value": "Atribuye la recarga de gemas a la confluencia momentánea de los tres reinos en la alta tormenta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Aparecen junto a las tropas durante la pelea en la meseta occidental.",
+        "sourceIds": [
+          "primary208-ob64"
+        ],
+        "id": "primary208-archive-urithiru-anger",
+        "entryId": "spren-type-angerspren",
+        "value": "Aparecen junto a las tropas durante la pelea en la meseta occidental.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Rodean a quienes protestan en las calles contra la orden de trabajar en las granjas.",
+        "sourceIds": [
+          "primary208-ob65"
+        ],
+        "id": "primary208-archive-azimir-logicspren",
+        "entryId": "spren-type-logicspren",
+        "value": "Rodean a quienes protestan en las calles contra la orden de trabajar en las granjas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-65"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. En el anexo de Azimir, Lift reconoce en Dalinar un olor familiar, y ambos dicen conocer a la Vigilante Nocturna.",
+        "sourceIds": [
+          "primary208-ob65"
+        ],
+        "id": "primary208-archive-nightwatcher-lift",
+        "entryId": "spren-person-nightwatcher",
+        "value": "En el anexo de Azimir, Lift reconoce en Dalinar un olor familiar, y ambos dicen conocer a la Vigilante Nocturna.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-65"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -12771,6 +13037,23 @@
       ],
       "notes": [
         "EPUB español Danzante del Filo aportado, OEBPS/Text/014.xhtml. A la pregunta porLabiosGordos se responde con la visirNoura; los otros apodos siguen sin equivalencia demostrada."
+      ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-tezim-ishar",
+      "from": "tezim",
+      "to": "ishar-mentioned",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "notes": [
+        "El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar."
       ]
     }
   ],
@@ -27861,6 +28144,33 @@
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Shallan identifica al hombre de barba blanca como marido de Yokska, y se menciona que comparten dormitorio."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura identifica al embajador de Tashikk como hermano del príncipe.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-tashikk-brothers",
+      "from": "prince-tashikk",
+      "to": "ob65-tashikk-prince-brother",
+      "kind": "sibling",
+      "label": "Hermanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Noura identifica al embajador de Tashikk como hermano del príncipe."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Noura identifica al embajador de Tashikk como hermano del príncipe."
       }
     }
   ],
@@ -62221,6 +62531,446 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Kaladin entrega la carta a Shallan y acuerdan que él esperará fuera.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-palace-letter",
+      "participants": [
+        "shallan",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin entrega la carta a Shallan y acuerdan que él esperará fuera.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin entrega la carta a Shallan y acuerdan que él esperará fuera.",
+        "pairs": [
+          [
+            "shallan",
+            "kaladin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. La interrogan, la hieren y la trasladan a la bodega.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-palace-entry",
+      "participants": [
+        "shallan",
+        "ob63-palace-captain",
+        "ob63-palace-attacker",
+        "ob63-palace-body-carrier"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La interrogan, la hieren y la trasladan a la bodega.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La interrogan, la hieren y la trasladan a la bodega.",
+        "pairs": [
+          [
+            "shallan",
+            "ob63-palace-captain"
+          ],
+          [
+            "shallan",
+            "ob63-palace-attacker"
+          ],
+          [
+            "shallan",
+            "ob63-palace-body-carrier"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Patrón ayuda a distraer a los guardias y guía a Kaladin hasta Shallan.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-palace-escape",
+      "participants": [
+        "shallan",
+        "pattern",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Patrón ayuda a distraer a los guardias y guía a Kaladin hasta Shallan.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Patrón ayuda a distraer a los guardias y guía a Kaladin hasta Shallan.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "pattern",
+            "kaladin"
+          ],
+          [
+            "shallan",
+            "kaladin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. El Padre Tormenta responde sobre Ishar, los Forjadores de Vínculos y la luz tormentosa.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-ishar-discussion",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El Padre Tormenta responde sobre Ishar, los Forjadores de Vínculos y la luz tormentosa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Padre Tormenta responde sobre Ishar, los Forjadores de Vínculos y la luz tormentosa.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Dalinar entrega a Teft la Hoja de Honor para ayudar al Puente Cuatro a entrenar.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-teft-honorblade",
+      "participants": [
+        "dalinar",
+        "teft"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar entrega a Teft la Hoja de Honor para ayudar al Puente Cuatro a entrenar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar entrega a Teft la Hoja de Honor para ayudar al Puente Cuatro a entrenar.",
+        "pairs": [
+          [
+            "dalinar",
+            "teft"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Fen entrega los ensayos y habla de los riesgos con Navani. Navani acuerda una señal con Dalinar. Jasnah habla con él antes de activar la Puerta Jurada.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-azir-preparation",
+      "participants": [
+        "dalinar",
+        "navani",
+        "jasnah",
+        "fen"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Fen entrega los ensayos y habla de los riesgos con Navani. Navani acuerda una señal con Dalinar. Jasnah habla con él antes de activar la Puerta Jurada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Fen entrega los ensayos y habla de los riesgos con Navani. Navani acuerda una señal con Dalinar. Jasnah habla con él antes de activar la Puerta Jurada.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "jasnah"
+          ],
+          [
+            "dalinar",
+            "fen"
+          ],
+          [
+            "fen",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Dalinar establece una Conexión con el guardia y empieza a entender azishiano.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-azish-connection",
+      "participants": [
+        "dalinar",
+        "ob65-young-azish-guard"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar establece una Conexión con el guardia y empieza a entender azishiano.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar establece una Conexión con el guardia y empieza a entender azishiano.",
+        "pairs": [
+          [
+            "dalinar",
+            "ob65-young-azish-guard"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura examina los ensayos, acompaña a Dalinar y anuncia que el emperador y su consejo aceptan visitar Urithiru.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-azimir-negotiations",
+      "participants": [
+        "dalinar",
+        "noura"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Noura examina los ensayos, acompaña a Dalinar y anuncia que el emperador y su consejo aceptan visitar Urithiru.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Noura examina los ensayos, acompaña a Dalinar y anuncia que el emperador y su consejo aceptan visitar Urithiru.",
+        "pairs": [
+          [
+            "dalinar",
+            "noura"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Dalinar envía desde el anexo una señal por vinculacaña a Navani.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-azir-remote-signal",
+      "participants": [
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "message",
+      "summary": "Dalinar envía desde el anexo una señal por vinculacaña a Navani.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar envía desde el anexo una señal por vinculacaña a Navani.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Hablan de la coalición, los poderes de Lift y su conocimiento de la Vigilante Nocturna.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-lift-annex",
+      "participants": [
+        "dalinar",
+        "lift"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Hablan de la coalición, los poderes de Lift y su conocimiento de la Vigilante Nocturna.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de la coalición, los poderes de Lift y su conocimiento de la Vigilante Nocturna.",
+        "pairs": [
+          [
+            "dalinar",
+            "lift"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Jasnah recoge a Dalinar y activa la transferencia a Urithiru.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-azir-return",
+      "participants": [
+        "dalinar",
+        "jasnah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Jasnah recoge a Dalinar y activa la transferencia a Urithiru.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Jasnah recoge a Dalinar y activa la transferencia a Urithiru.",
+        "pairs": [
+          [
+            "dalinar",
+            "jasnah"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -94665,6 +95415,422 @@
       "kind": "background",
       "text": "Rojo, Vathah e Ishnah conocen ya el vínculo entre Shallan y Velo.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Interroga a la falsa mensajera y envía la carta hacia Aesudan.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-ob63-palace-captain-intro",
+      "characterId": "ob63-palace-captain",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "Interroga a la falsa mensajera y envía la carta hacia Aesudan.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. La atraviesa con la espada en el vestíbulo.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-ob63-palace-attacker-intro",
+      "characterId": "ob63-palace-attacker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "La atraviesa con la espada en el vestíbulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. La carga por el pasillo hasta una cámara de piedra.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-ob63-palace-body-carrier-intro",
+      "characterId": "ob63-palace-body-carrier",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "La carga por el pasillo hasta una cámara de piedra.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Shallan distingue una silueta con puntos blancos por ojos en el reflejo.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-ob63-mirror-figure-intro",
+      "characterId": "ob63-mirror-figure",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "Shallan distingue una silueta con puntos blancos por ojos en el reflejo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. La voz del epígrafe anuncia una expedición a las cavernas submarinas de Aimia.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-ob63-amethyst-cartographer-intro",
+      "characterId": "ob63-amethyst-cartographer",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "La voz del epígrafe anuncia una expedición a las cavernas submarinas de Aimia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. La silueta aparece dentro del reflejo. Su identidad y su posición corporal quedan abiertas.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-mirror-appearance",
+      "characterId": "ob63-mirror-figure",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "La silueta aparece dentro del reflejo. Su identidad y su posición corporal quedan abiertas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Shallan emplea su aspecto como disfraz. La exploradora no participa en la incursión.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-lyn-likeness-only",
+      "characterId": "lyn",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "Shallan emplea su aspecto como disfraz. La exploradora no participa en la incursión.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Shallan da su nombre como parte de su tapadera y piensa que no fue el superior de Lyn.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-colot-name-as-cover",
+      "characterId": "colot",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "Shallan da su nombre como parte de su tapadera y piensa que no fue el superior de Lyn.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. El capitán ordena que le lleven la carta. El destino final del mensaje se desconoce.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-letter-to-aesudan",
+      "characterId": "aesudan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "El capitán ordena que le lleven la carta. El destino final del mensaje se desconoce.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. El epígrafe anuncia que sus mapas estarán en Akinah.",
+      "sourceIds": [
+        "primary208-ob63"
+      ],
+      "id": "primary208-maps-in-akinah",
+      "characterId": "ob63-amethyst-cartographer",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-63"
+      },
+      "kind": "background",
+      "text": "El epígrafe anuncia que sus mapas estarán en Akinah.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-ishar-tezim",
+      "characterId": "ishar-mentioned",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "kind": "background",
+      "text": "El Padre Tormenta confirma a Dalinar que Tezim, el dios-sacerdote de Tukar, es el Heraldo Ishar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Dalinar sabe que Lift recibió permiso para desbloquear la Puerta Jurada por el lado azishiano.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-lift-azir-gate-report",
+      "characterId": "lift",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "kind": "background",
+      "text": "Dalinar sabe que Lift recibió permiso para desbloquear la Puerta Jurada por el lado azishiano.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Dalinar recuerda que Amaram ha tomado el mando de los soldados de Sadeas y ha cambiado el estandarte.",
+      "sourceIds": [
+        "primary208-ob64"
+      ],
+      "id": "primary208-amaram-sadeas-command",
+      "characterId": "amaram",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-64"
+      },
+      "kind": "background",
+      "text": "Dalinar recuerda que Amaram ha tomado el mando de los soldados de Sadeas y ha cambiado el estandarte.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Ofrece su cantimplora. Dalinar establece una Conexión con él y empieza a entender azishiano.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-ob65-young-azish-guard-intro",
+      "characterId": "ob65-young-azish-guard",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Ofrece su cantimplora. Dalinar establece una Conexión con él y empieza a entender azishiano.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Supremo histórico de Azir cuyo dedo se conserva como reliquia.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-snoxil-ob65-intro",
+      "characterId": "snoxil-ob65",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Supremo histórico de Azir cuyo dedo se conserva como reliquia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura dice que está en Azimir.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-ob65-tashikk-prince-brother-intro",
+      "characterId": "ob65-tashikk-prince-brother",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Noura dice que está en Azimir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura dice que casi ha llegado a Azir.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-ob65-emul-prime-intro",
+      "characterId": "ob65-emul-prime",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Noura dice que casi ha llegado a Azir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Según Noura, acompaña al Supremo de Emul.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-ob65-emul-sage-intro",
+      "characterId": "ob65-emul-sage",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Según Noura, acompaña al Supremo de Emul.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Dalinar lo recuerda como su antepasado y como responsable del saqueo histórico de Azimir.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-sunmaker-azimir-sack",
+      "characterId": "sunmaker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Dalinar lo recuerda como su antepasado y como responsable del saqueo histórico de Azimir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Lift habla de un dedo conservado y Dalinar lo identifica como reliquia de Snoxil.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-snoxil-relic",
+      "characterId": "snoxil-ob65",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Lift habla de un dedo conservado y Dalinar lo identifica como reliquia de Snoxil.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura anuncia la decisión del Supremo y su consejo. Dalinar no llega a reunirse con él durante el capítulo.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-gawx-azir-verdict",
+      "characterId": "gawx",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Noura anuncia la decisión del Supremo y su consejo. Dalinar no llega a reunirse con él durante el capítulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura anuncia su futura participación en las conversaciones.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-tashikk-envoy-report",
+      "characterId": "ob65-tashikk-prince-brother",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Noura anuncia su futura participación en las conversaciones.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Según Noura, está cerca de Azir.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-emul-arrival-plan",
+      "characterId": "ob65-emul-prime",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Según Noura, está cerca de Azir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura lo menciona junto al Supremo que está de camino.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-emul-sage-report",
+      "characterId": "ob65-emul-sage",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Noura lo menciona junto al Supremo que está de camino.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura dice que viene a pedir ayuda y que suele residir parte del año en Azimir.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-yezier-travel-report",
+      "characterId": "princess-yezier",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Noura dice que viene a pedir ayuda y que suele residir parte del año en Azimir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Al regresar a Urithiru, Dalinar recupera recuerdos de lo que sucedió a Evi, vinculados a una fortaleza y a la Grieta.",
+      "sourceIds": [
+        "primary208-ob65"
+      ],
+      "id": "primary208-evi-memory-returns",
+      "characterId": "evi",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-65"
+      },
+      "kind": "background",
+      "text": "Al regresar a Urithiru, Dalinar recupera recuerdos de lo que sucedió a Evi, vinculados a una fortaleza y a la Grieta.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -97310,6 +98476,10 @@
         {
           "revision": 207,
           "notes": "Se revisan el hijo y la esposa de Elhokar, su tío y su padre ya registrados, la refugiada con el bebé que lleva en brazos, el matrimonio de Yokska y el recuerdo del padre de Shallan."
+        },
+        {
+          "revision": 208,
+          "notes": "Se conserva la ascendencia de Dalinar ya registrada, se añade el hermano del príncipe de Tashikk y se documentan las menciones a Gavilar, Navani, Evi, Elhokar y su hijo conforme al capítulo. El mausoleo no identifica nuevos antepasados."
         }
       ]
     }
@@ -100279,7 +101449,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 207,
+  "revision": 208,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -102887,6 +104057,30 @@
       "label": "Capítulo 62 · Investigación",
       "part": "ob-3a",
       "source": "primary207-ob62"
+    },
+    {
+      "id": "ob-chapter-63",
+      "bookId": "ob",
+      "chapter": 63,
+      "label": "Capítulo 63 · Dentro del espejo",
+      "part": "ob-3a",
+      "source": "primary208-ob63"
+    },
+    {
+      "id": "ob-chapter-64",
+      "bookId": "ob",
+      "chapter": 64,
+      "label": "Capítulo 64 · Vinculador de dioses",
+      "part": "ob-3a",
+      "source": "primary208-ob64"
+    },
+    {
+      "id": "ob-chapter-65",
+      "bookId": "ob",
+      "chapter": 65,
+      "label": "Capítulo 65 · Veredicto",
+      "part": "ob-3a",
+      "source": "primary208-ob65"
     }
   ],
   "experiencePresentation": {
@@ -118849,6 +120043,102 @@
           "notes": [
             "La expedición examina el relato y discute el reconocimiento del complejo del palacio."
           ]
+        },
+        {
+          "id": "primary208-63-kaladin-4",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza al pie de la escalinata",
+          "placeId": "place-ob63-palace-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Entrega la carta y espera fuera del palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega la carta y espera fuera del palacio."
+          ]
+        },
+        {
+          "id": "primary208-63-kaladin-9",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie del promontorio",
+          "placeId": "place-ob63-palace-escape-street",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Patrón lo lleva hasta Shallan después de que ella sale.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrón lo lleva hasta Shallan después de que ella sale."
+          ]
         }
       ]
     },
@@ -133427,6 +134717,438 @@
           "notes": [
             "Sale por la ventana y se interna en la ciudad."
           ]
+        },
+        {
+          "id": "primary208-63-shallan-1",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calles del recorrido de Velo",
+          "placeId": "place-ob63-kholinar-patrol",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Adopta la apariencia de Velo y recorre varios barrios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adopta la apariencia de Velo y recorre varios barrios."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-2",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Parque cercano a la escalinata del palacio",
+          "placeId": "place-ob63-palace-park",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Como Velo, se pone una ilusión con el aspecto de Lyn.",
+          "needsConfirmation": [],
+          "notes": [
+            "Como Velo, se pone una ilusión con el aspecto de Lyn."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-3",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Exterior oriental de la Puerta Jurada",
+          "placeId": "place-ob63-oathgate-view",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Examina la plataforma y sus accesos desde el exterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina la plataforma y sus accesos desde el exterior."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-4",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza al pie de la escalinata",
+          "placeId": "place-ob63-palace-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Se reúne con Kaladin y recibe la carta sellada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Kaladin y recibe la carta sellada."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-5",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Vestíbulo",
+          "placeId": "place-ob63-palace-lobby",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Presenta la carta disfrazada de exploradora y un soldado la apuñala.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presenta la carta disfrazada de exploradora y un soldado la apuñala."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-6",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Pasillo del espejo",
+          "placeId": "place-ob63-palace-mirror-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Mientras un soldado la carga, distingue una figura en un espejo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mientras un soldado la carga, distingue una figura en un espejo."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-7",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Bodega",
+          "placeId": "place-ob63-palace-cellar",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Se incorpora y escucha a Patrón. Usa otra ilusión para ocultar la sangre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se incorpora y escucha a Patrón. Usa otra ilusión para ocultar la sangre."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-8",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Mausoleo Kholin",
+          "placeId": "place-ob63-palace-kholin-mausoleum",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Pasa por los túneles del mausoleo e imita la voz del capitán con ayuda de Patrón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa por los túneles del mausoleo e imita la voz del capitán con ayuda de Patrón."
+          ]
+        },
+        {
+          "id": "primary208-63-shallan-9",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie del promontorio",
+          "placeId": "place-ob63-palace-escape-street",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Sale por una puerta al pie del promontorio. Patrón trae a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale por una puerta al pie del promontorio. Patrón trae a Kaladin."
+          ]
         }
       ]
     },
@@ -135105,6 +136827,246 @@
           "needsConfirmation": [],
           "notes": [
             "Participa en una visión compartida. La fortaleza pertenece a la recreación."
+          ]
+        },
+        {
+          "id": "primary208-64-jasnah-5",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta Jurada de Azimir",
+          "placeId": "place-ob64-urithiru-azimir-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Activa la Puerta Jurada de Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Activa la Puerta Jurada de Azimir."
+          ]
+        },
+        {
+          "id": "primary208-64-jasnah-6",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puerta Jurada bajo la cúpula del Gran Mercado",
+          "placeId": "place-azimir-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Acompaña a Dalinar hasta Azir en el edificio de control.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Dalinar hasta Azir en el edificio de control."
+          ]
+        },
+        {
+          "id": "primary208-64-jasnah-7",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta Jurada de Azimir",
+          "placeId": "place-ob64-urithiru-azimir-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Regresa a Urithiru después de dejar a Dalinar en Azir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru después de dejar a Dalinar en Azir."
+          ]
+        },
+        {
+          "id": "primary208-65-jasnah-6",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puerta Jurada bajo la cúpula del Gran Mercado",
+          "placeId": "place-azimir-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Vuelve a Azimir a buscar a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a Azimir a buscar a Dalinar."
+          ]
+        },
+        {
+          "id": "primary208-65-jasnah-7",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta Jurada de Azimir",
+          "placeId": "place-ob64-urithiru-azimir-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Activa el viaje de regreso a Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Activa el viaje de regreso a Urithiru."
           ]
         }
       ]
@@ -150623,6 +152585,630 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el patio mientras se recompone la estatua."
+          ]
+        },
+        {
+          "id": "primary208-64-dalinar-1",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara donde se oculta la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-blade-cache",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Recupera la Hoja de Honor y conversa con el Padre Tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recupera la Hoja de Honor y conversa con el Padre Tormenta."
+          ]
+        },
+        {
+          "id": "primary208-64-dalinar-2",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Encomienda al Puente Cuatro usar la Hoja de Honor para entrenar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encomienda al Puente Cuatro usar la Hoja de Honor para entrenar."
+          ]
+        },
+        {
+          "id": "primary208-64-dalinar-3",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de Dalinar",
+          "placeId": "place-ob64-urithiru-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Se prepara para la visita a Azir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se prepara para la visita a Azir."
+          ]
+        },
+        {
+          "id": "primary208-64-dalinar-4",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Meseta occidental de entrenamiento",
+          "placeId": "place-ob64-urithiru-western-plateau",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Interviene cuando un ejercicio entre soldados de Sadeas y de Aladar se convierte en una pelea.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene cuando un ejercicio entre soldados de Sadeas y de Aladar se convierte en una pelea."
+          ]
+        },
+        {
+          "id": "primary208-64-dalinar-5",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta Jurada de Azimir",
+          "placeId": "place-ob64-urithiru-azimir-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Se reúne con Jasnah y cruza la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Jasnah y cruza la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary208-64-dalinar-6",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puerta Jurada bajo la cúpula del Gran Mercado",
+          "placeId": "place-azimir-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Sale del edificio de control en Azir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale del edificio de control en Azir."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-1",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Gran Mercado y cúpula de bronce",
+          "placeId": "place-ob65-azimir-grand-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Cruza el pasillo del Gran Mercado tras salir de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza el pasillo del Gran Mercado tras salir de la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-2",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala de recepción de la Puerta Jurada",
+          "placeId": "place-ob65-azimir-market-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Presenta los escritos de Fen, Navani y Jasnah. Establece una Conexión con un guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presenta los escritos de Fen, Navani y Jasnah. Establece una Conexión con un guardia."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-3",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Gran Mercado y cúpula de bronce",
+          "placeId": "place-ob65-azimir-grand-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Noura lo guía por el mercado y sale con él por la repisa y la rampa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Noura lo guía por el mercado y sale con él por la repisa y la rampa."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-4",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Recorrido en palanquín entre el mercado y el palacio",
+          "placeId": "place-ob65-azimir-palanquin-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Viaja con Noura en palanquín y pregunta por las protestas y la salida de los parshmenios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja con Noura en palanquín y pregunta por las protestas y la salida de los parshmenios."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-5",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Anexo del palacio imperial",
+          "placeId": "place-ob65-azimir-palace-annex",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Espera la decisión, conversa con Lift y recibe el veredicto de Noura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera la decisión, conversa con Lift y recibe el veredicto de Noura."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-6",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puerta Jurada bajo la cúpula del Gran Mercado",
+          "placeId": "place-azimir-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Vuelve con Noura y encuentra a Jasnah en el edificio de control.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve con Noura y encuentra a Jasnah en el edificio de control."
+          ]
+        },
+        {
+          "id": "primary208-65-dalinar-7",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta Jurada de Azimir",
+          "placeId": "place-ob64-urithiru-azimir-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Regresa con Jasnah y se reúne con Navani. Vuelven sus recuerdos de Evi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa con Jasnah y se reúne con Navani. Vuelven sus recuerdos de Evi."
           ]
         }
       ]
@@ -170914,6 +173500,102 @@
           "notes": [
             "Se acerca a Dalinar tras la restauración del templo."
           ]
+        },
+        {
+          "id": "primary208-64-navani-3",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de Dalinar",
+          "placeId": "place-ob64-urithiru-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Le da el paquete y acuerda la señal por vinculacaña.",
+          "needsConfirmation": [],
+          "notes": [
+            "Le da el paquete y acuerda la señal por vinculacaña."
+          ]
+        },
+        {
+          "id": "primary208-65-navani-7",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta Jurada de Azimir",
+          "placeId": "place-ob64-urithiru-azimir-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Espera a Dalinar fuera del edificio y pide ayuda cuando se desploma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera a Dalinar fuera del edificio y pide ayuda cuando se desploma."
+          ]
         }
       ]
     },
@@ -177325,6 +180007,54 @@
           "needsConfirmation": [],
           "notes": [
             "Aterriza con el grupo y escucha la conversación."
+          ]
+        },
+        {
+          "id": "primary208-64-teft-2",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Recibe la Hoja de Honor y las instrucciones de Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe la Hoja de Honor y las instrucciones de Dalinar."
           ]
         }
       ]
@@ -207056,6 +209786,150 @@
           "notes": [
             "La expedición examina el relato y discute el reconocimiento del complejo del palacio."
           ]
+        },
+        {
+          "id": "primary208-63-pattern-7",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Bodega",
+          "placeId": "place-ob63-palace-cellar",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Shallan vuelve a oír su voz y le pide ayuda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan vuelve a oír su voz y le pide ayuda."
+          ]
+        },
+        {
+          "id": "primary208-63-pattern-8",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Mausoleo Kholin",
+          "placeId": "place-ob63-palace-kholin-mausoleum",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Reconoce la salida y transmite la voz ilusoria.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconoce la salida y transmite la voz ilusoria."
+          ]
+        },
+        {
+          "id": "primary208-63-pattern-9",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie del promontorio",
+          "placeId": "place-ob63-palace-escape-street",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Vuelve con Kaladin a la calle donde espera Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve con Kaladin a la calle donde espera Shallan."
+          ]
         }
       ]
     },
@@ -227059,6 +229933,54 @@
           "notes": [
             "Interviene en la visión. El capítulo no localiza su cuerpo."
           ]
+        },
+        {
+          "id": "primary208-65-lift-5",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Anexo del palacio imperial",
+          "placeId": "place-ob65-azimir-palace-annex",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Come parte de las provisiones de Dalinar y habla con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Come parte de las provisiones de Dalinar y habla con él."
+          ]
         }
       ]
     },
@@ -243309,6 +246231,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el patio mientras se recompone la estatua."
+          ]
+        },
+        {
+          "id": "primary208-64-fen-3",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de Dalinar",
+          "placeId": "place-ob64-urithiru-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Entrega a Dalinar los ensayos y defiende el plan de presentar los argumentos por escrito.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega a Dalinar los ensayos y defiende el plan de presentar los argumentos por escrito."
           ]
         }
       ]
@@ -261601,7 +264571,248 @@
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary208-65-noura-2",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala de recepción de la Puerta Jurada",
+          "placeId": "place-ob65-azimir-market-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Recibe los ensayos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe los ensayos."
+          ]
+        },
+        {
+          "id": "primary208-65-noura-3",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Gran Mercado y cúpula de bronce",
+          "placeId": "place-ob65-azimir-grand-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Guía a Dalinar fuera del Gran Mercado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Guía a Dalinar fuera del Gran Mercado."
+          ]
+        },
+        {
+          "id": "primary208-65-noura-4",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Recorrido en palanquín entre el mercado y el palacio",
+          "placeId": "place-ob65-azimir-palanquin-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Explica las protestas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica las protestas."
+          ]
+        },
+        {
+          "id": "primary208-65-noura-5",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Anexo del palacio imperial",
+          "placeId": "place-ob65-azimir-palace-annex",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Comunica el veredicto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comunica el veredicto."
+          ]
+        },
+        {
+          "id": "primary208-65-noura-6",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puerta Jurada bajo la cúpula del Gran Mercado",
+          "placeId": "place-azimir-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Acompaña de vuelta a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña de vuelta a Dalinar."
+          ]
+        }
+      ]
     },
     {
       "id": "bidlel",
@@ -278768,6 +281979,54 @@
           "notes": [
             "Está con sus soldados cuando el ayudante va a darle las órdenes."
           ]
+        },
+        {
+          "id": "primary208-64-serugiadis-pr81-4",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Meseta occidental de entrenamiento",
+          "placeId": "place-ob64-urithiru-western-plateau",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Practica el tiro con arco esquirlado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Practica el tiro con arco esquirlado."
+          ]
         }
       ]
     },
@@ -278850,6 +282109,54 @@
           "needsConfirmation": [],
           "notes": [
             "Rust Elthal está con armadura y supervisa el gran puente."
+          ]
+        },
+        {
+          "id": "primary208-64-rust-shardbearer-pr81-4",
+          "scene": "ob-chapter-64",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Meseta occidental de entrenamiento",
+          "placeId": "place-ob64-urithiru-western-plateau",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob64",
+          "sourceIds": [
+            "primary208-ob64"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-64"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml. Practica el tiro con arco esquirlado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Practica el tiro con arco esquirlado."
           ]
         }
       ]
@@ -288546,6 +291853,350 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ob63-palace-captain",
+      "name": "Capitán del vestíbulo de palacio",
+      "initial": "C",
+      "role": "Interroga a la falsa mensajera y envía la carta hacia Aesudan.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary208-63-ob63-palace-captain-5",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Vestíbulo",
+          "placeId": "place-ob63-palace-lobby",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Interroga a la mensajera e indica que lleven la carta a la reina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interroga a la mensajera e indica que lleven la carta a la reina."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob63-palace-attacker",
+      "name": "Soldado que apuñala a Shallan",
+      "initial": "S",
+      "role": "La atraviesa con la espada en el vestíbulo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary208-63-ob63-palace-attacker-5",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Vestíbulo",
+          "placeId": "place-ob63-palace-lobby",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Hiere a Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hiere a Shallan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob63-palace-body-carrier",
+      "name": "Soldado que lleva a Shallan a la bodega",
+      "initial": "S",
+      "role": "La carga por el pasillo hasta una cámara de piedra.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary208-63-ob63-palace-body-carrier-6",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Pasillo del espejo",
+          "placeId": "place-ob63-palace-mirror-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. Carga a Shallan por el pasillo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Carga a Shallan por el pasillo."
+          ]
+        },
+        {
+          "id": "primary208-63-ob63-palace-body-carrier-7",
+          "scene": "ob-chapter-63",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Bodega",
+          "placeId": "place-ob63-palace-cellar",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob63",
+          "sourceIds": [
+            "primary208-ob63"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-63"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/63.Dentroespejo.xhtml. La deja en la bodega y se marcha.",
+          "needsConfirmation": [],
+          "notes": [
+            "La deja en la bodega y se marcha."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob63-mirror-figure",
+      "name": "Figura del espejo del palacio",
+      "initial": "F",
+      "role": "Shallan distingue una silueta con puntos blancos por ojos en el reflejo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob63-amethyst-cartographer",
+      "name": "Cartógrafo de la amatista 16-16",
+      "initial": "C",
+      "role": "La voz del epígrafe anuncia una expedición a las cavernas submarinas de Aimia.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob65-young-azish-guard",
+      "name": "Joven guardia de Azimir",
+      "initial": "J",
+      "role": "Ofrece su cantimplora. Dalinar establece una Conexión con él y empieza a entender azishiano.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary208-65-ob65-young-azish-guard-2",
+          "scene": "ob-chapter-65",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala de recepción de la Puerta Jurada",
+          "placeId": "place-ob65-azimir-market-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary208-ob65",
+          "sourceIds": [
+            "primary208-ob65"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-65"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml. Presta la cantimplora a Dalinar y se alarma cuando este lo agarra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Presta la cantimplora a Dalinar y se alarma cuando este lo agarra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "snoxil-ob65",
+      "name": "Snoxil",
+      "initial": "S",
+      "role": "Supremo histórico de Azir cuyo dedo se conserva como reliquia.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob65-tashikk-prince-brother",
+      "name": "Hermano y embajador del príncipe de Tashikk",
+      "initial": "H",
+      "role": "Noura dice que está en Azimir.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob65-emul-prime",
+      "name": "Supremo de Emul",
+      "initial": "S",
+      "role": "Noura dice que casi ha llegado a Azir.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob65-emul-sage",
+      "name": "Sabio de Emul",
+      "initial": "S",
+      "role": "Según Noura, acompaña al Supremo de Emul.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
     }
   ]
 }
