@@ -4001,6 +4001,28 @@ window.ATLAS_DATA = {
       "syl",
       "tien",
       "tukks-ob91"
+    ],
+    "ob-chapter-92": [
+      "black-sword",
+      "ki-ob90",
+      "kwati-ob92",
+      "ob92-escaped-prisoner",
+      "szeth"
+    ],
+    "ob-chapter-93": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "syl",
+      "yelig-nar"
+    ],
+    "ob-chapter-94": [
+      "adolin",
+      "dalinar",
+      "renarin"
     ]
   },
   "knowledgeArchive": {
@@ -14421,6 +14443,40 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. El epígrafe atribuye a Taxil el epíteto Viento Asolador y recoge que Jasnah duda de la exactitud del pasaje.",
+        "sourceIds": [
+          "primary219-ob93"
+        ],
+        "id": "primary219-archive-yelig-taxil",
+        "entryId": "spren-person-yelig-nar",
+        "value": "El epígrafe atribuye a Taxil el epíteto Viento Asolador y recoge que Jasnah duda de la exactitud del pasaje.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-93"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Adolin ve motas verdes con mechones de pelo blanco junto a la orilla.",
+        "sourceIds": [
+          "primary219-ob93"
+        ],
+        "id": "primary219-archive-cognitive-lifespren",
+        "entryId": "spren-type-lifespren",
+        "value": "Adolin ve motas verdes con mechones de pelo blanco junto a la orilla.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-93"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml",
         "supersedes": []
       }
     ],
@@ -68558,6 +68614,299 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Szeth reduce al preso con la espada enfundada y le pregunta cómo escaparon.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-purelake-prisoner",
+      "participants": [
+        "szeth",
+        "ob92-escaped-prisoner"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth reduce al preso con la espada enfundada y le pregunta cómo escaparon.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth reduce al preso con la espada enfundada y le pregunta cómo escaparon.",
+        "pairs": [
+          [
+            "szeth",
+            "ob92-escaped-prisoner"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Szeth cuestiona al ministro, consulta a Ki sobre la orden y desenvaina la espada para ejecutarlo.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-purelake-execution",
+      "participants": [
+        "szeth",
+        "kwati-ob92",
+        "ki-ob90",
+        "black-sword"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth cuestiona al ministro, consulta a Ki sobre la orden y desenvaina la espada para ejecutarlo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth cuestiona al ministro, consulta a Ki sobre la orden y desenvaina la espada para ejecutarlo.",
+        "pairs": [
+          [
+            "szeth",
+            "kwati-ob92"
+          ],
+          [
+            "szeth",
+            "ki-ob90"
+          ],
+          [
+            "szeth",
+            "black-sword"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Ki acepta a Szeth como escudero y reconoce su Segundo Ideal.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-purelake-squire",
+      "participants": [
+        "szeth",
+        "ki-ob90"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ki acepta a Szeth como escudero y reconoce su Segundo Ideal.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ki acepta a Szeth como escudero y reconoce su Segundo Ideal.",
+        "pairs": [
+          [
+            "szeth",
+            "ki-ob90"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Adolin empieza la kata. Celeste se une y Kaladin se incorpora después.",
+      "sourceIds": [
+        "primary219-ob93"
+      ],
+      "id": "primary219-shadesmar-kata",
+      "participants": [
+        "adolin",
+        "highmarshal-celeste-ob61",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-93"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Adolin empieza la kata. Celeste se une y Kaladin se incorpora después.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin empieza la kata. Celeste se une y Kaladin se incorpora después.",
+        "pairs": [
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "adolin",
+            "kaladin"
+          ],
+          [
+            "highmarshal-celeste-ob61",
+            "kaladin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Celeste habla de su llegada y las vías de regreso. El grupo considera conseguir suministros o pasaje y oye un chillido.",
+      "sourceIds": [
+        "primary219-ob93"
+      ],
+      "id": "primary219-shadesmar-options",
+      "participants": [
+        "adolin",
+        "highmarshal-celeste-ob61",
+        "kaladin",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-93"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Celeste habla de su llegada y las vías de regreso. El grupo considera conseguir suministros o pasaje y oye un chillido.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Celeste habla de su llegada y las vías de regreso. El grupo considera conseguir suministros o pasaje y oye un chillido.",
+        "pairs": [
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "kaladin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "adolin",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Los hijos acuden al oír el revuelo y Dalinar les pide que se marchen.",
+      "sourceIds": [
+        "primary219-ob94"
+      ],
+      "id": "primary219-eastern-fort-sons",
+      "participants": [
+        "dalinar",
+        "adolin",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-94"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Los hijos acuden al oír el revuelo y Dalinar les pide que se marchen.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los hijos acuden al oír el revuelo y Dalinar les pide que se marchen.",
+        "pairs": [
+          [
+            "dalinar",
+            "adolin"
+          ],
+          [
+            "dalinar",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Renarin vuelve con una botella comprada con las esferas del rey, abraza a su padre y le cuenta lo que Evi decía de él.",
+      "sourceIds": [
+        "primary219-ob94"
+      ],
+      "id": "primary219-eastern-fort-bottle",
+      "participants": [
+        "dalinar",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-94"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Renarin vuelve con una botella comprada con las esferas del rey, abraza a su padre y le cuenta lo que Evi decía de él.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Renarin vuelve con una botella comprada con las esferas del rey, abraza a su padre y le cuenta lo que Evi decía de él.",
+        "pairs": [
+          [
+            "dalinar",
+            "renarin"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -104490,6 +104839,118 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Kaladin entiende que Syl se refiere al Padre Tormenta cuando habla de su padre.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Recluso que se enfrenta a Szeth en los bajíos y se ahoga después del interrogatorio.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-ob92-escaped-prisoner-intro",
+      "characterId": "ob92-escaped-prisoner",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "kind": "background",
+      "text": "Recluso que se enfrenta a Szeth en los bajíos y se ahoga después del interrogatorio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Ministro encargado de la penitenciaría del acantilado.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-kwati-ob92-intro",
+      "characterId": "kwati-ob92",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "kind": "background",
+      "text": "Ministro encargado de la penitenciaría del acantilado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Szeth lo saca a la superficie para interrogarlo y luego lo suelta. La espada le reprocha que lo dejara ahogarse.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-prisoner-drowning",
+      "characterId": "ob92-escaped-prisoner",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "kind": "background",
+      "text": "Szeth lo saca a la superficie para interrogarlo y luego lo suelta. La espada le reprocha que lo dejara ahogarse.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Ki confirma que disponen de una orden de ejecución. Szeth desenvaina la espada, mata al ministro y vuelve a enfundarla.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-kwati-execution",
+      "characterId": "kwati-ob92",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "kind": "background",
+      "text": "Ki confirma que disponen de una orden de ejecución. Szeth desenvaina la espada, mata al ministro y vuelve a enfundarla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Ki lo acepta como escudero y reconoce su Segundo Ideal. Szeth absorbe luz tormentosa de la esfera que ella le ofrece.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-szeth-second-ideal",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "kind": "background",
+      "text": "Ki lo acepta como escudero y reconoce su Segundo Ideal. Szeth absorbe luz tormentosa de la esfera que ella le ofrece.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. La espada recuerda a Vivenna y dice que Shashara la forjó y luego discutió con Vasher sobre sus posibilidades.",
+      "sourceIds": [
+        "primary219-ob92"
+      ],
+      "id": "primary219-sword-account-forging",
+      "characterId": "black-sword",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-92"
+      },
+      "kind": "background",
+      "text": "La espada recuerda a Vivenna y dice que Shashara la forjó y luego discutió con Vasher sobre sus posibilidades.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Cuenta que llegó persiguiendo a alguien y que cruzó por la Perpendicularidad de Cultivación, en los Picos Comecuernos del lado físico.",
+      "sourceIds": [
+        "primary219-ob93"
+      ],
+      "id": "primary219-celeste-cultivation-crossing",
+      "characterId": "highmarshal-celeste-ob61",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-93"
+      },
+      "kind": "background",
+      "text": "Cuenta que llegó persiguiendo a alguien y que cruzó por la Perpendicularidad de Cultivación, en los Picos Comecuernos del lado físico.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -107179,6 +107640,10 @@ window.ATLAS_DATA = {
         {
           "revision": 218,
           "notes": "Se revisan Gavinor y la sucesión de Adolin, el patronímico de Szeth, Tien y el trato de Syl al Padre Tormenta. Se conserva este último como denominación atestiguada sin atribuirle una filiación biológica."
+        },
+        {
+          "revision": 219,
+          "notes": "Se revisan los encuentros de Dalinar con Adolin y Renarin y el recuerdo de Evi en el fuerte oriental."
         }
       ]
     }
@@ -110318,7 +110783,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 218,
+  "revision": 219,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -113199,6 +113664,31 @@ window.ATLAS_DATA = {
       "part": "ob-4a",
       "source": "primary218-ob91",
       "mixedFlashback": true
+    },
+    {
+      "id": "ob-chapter-92",
+      "bookId": "ob",
+      "chapter": 92,
+      "label": "Capítulo 92 · Agua cálida como la sangre",
+      "part": "ob-4a",
+      "source": "primary219-ob92"
+    },
+    {
+      "id": "ob-chapter-93",
+      "bookId": "ob",
+      "chapter": 93,
+      "label": "Capítulo 93 · Kata",
+      "part": "ob-4a",
+      "source": "primary219-ob93"
+    },
+    {
+      "id": "ob-chapter-94",
+      "bookId": "ob",
+      "chapter": 94,
+      "label": "Capítulo 94 · Una botellita",
+      "part": "ob-4a",
+      "source": "primary219-ob94",
+      "flashback": true
     }
   ],
   "experiencePresentation": {
@@ -131562,6 +132052,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Al oír que los demás se mueven, vuelve al grupo."
           ]
+        },
+        {
+          "id": "primary219-93-kaladin-2",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Realiza la kata de calentamiento junto al mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Realiza la kata de calentamiento junto al mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary219-93-kaladin-3",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está con el grupo mientras consideran cómo salir de Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
         }
       ]
     },
@@ -149341,6 +149921,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Pasa a la depresión donde el grupo decide acampar."
           ]
+        },
+        {
+          "id": "primary219-93-shallan-3",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está con el grupo mientras consideran cómo salir de Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
         }
       ]
     },
@@ -152781,6 +153406,231 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Parte por aire hacia el lugar de la prueba. Los Rompedores sostienen y lanzan a Szeth."
+          ]
+        },
+        {
+          "id": "primary219-92-szeth-1",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Se encuentra en el pueblo donde comienza la prueba.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se encuentra en el pueblo donde comienza la prueba."
+          ]
+        },
+        {
+          "id": "primary219-92-szeth-2",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Bajíos cerca del pueblo",
+          "placeId": "place-ob92-purelake-shallows",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-shallows",
+          "coordinateAnchorName": "Lagopuro · Bajíos cerca del pueblo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está en los bajíos durante el encuentro con el preso fugado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los bajíos durante el encuentro con el preso fugado."
+          ]
+        },
+        {
+          "id": "primary219-92-szeth-3",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Penitenciaría del acantilado",
+          "placeId": "place-ob92-purelake-cliff-prison",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-cliff-prison",
+          "coordinateAnchorName": "Lagopuro · Penitenciaría del acantilado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Entra en la penitenciaría y examina las condiciones de reclusión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la penitenciaría y examina las condiciones de reclusión."
+          ]
+        },
+        {
+          "id": "primary219-92-szeth-4",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está presente cuando Szeth ejecuta al ministro con la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente cuando Szeth ejecuta al ministro con la espada."
+          ]
+        },
+        {
+          "id": "primary219-92-szeth-5",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Murete a las afueras del pueblo",
+          "placeId": "place-ob92-purelake-wall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-wall",
+          "coordinateAnchorName": "Lagopuro · Murete a las afueras del pueblo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está en el murete donde Ki acepta a Szeth como escudero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el murete donde Ki acepta a Szeth como escudero."
           ]
         }
       ]
@@ -158170,6 +159020,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se sienta al lado de Kaladin y le habla de los spren y de su vínculo."
+          ]
+        },
+        {
+          "id": "primary219-93-syl-3",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está con el grupo mientras consideran cómo salir de Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo mientras consideran cómo salir de Shadesmar."
           ]
         }
       ]
@@ -169526,6 +170421,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Regresa a la puerta correcta y se desploma en un sofá."
           ]
+        },
+        {
+          "id": "primary219-94-dalinar-1",
+          "scene": "ob-chapter-94",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "placeId": "place-ob94-eastern-fort-dalinar-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob94",
+          "sourceIds": [
+            "primary219-ob94"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob94-eastern-fort-dalinar-room",
+          "coordinateAnchorName": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-94"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Revuelve el aposento en busca de vino.",
+          "needsConfirmation": [],
+          "notes": [
+            "Revuelve el aposento en busca de vino."
+          ]
+        },
+        {
+          "id": "primary219-94-dalinar-3",
+          "scene": "ob-chapter-94",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "placeId": "place-ob94-eastern-fort-dalinar-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob94",
+          "sourceIds": [
+            "primary219-ob94"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob94-eastern-fort-dalinar-room",
+          "coordinateAnchorName": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-94"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Pregunta qué decía Evi de él y se aferra a Renarin mientras llora.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pregunta qué decía Evi de él y se aferra a Renarin mientras llora."
+          ]
         }
       ]
     },
@@ -178916,6 +179901,186 @@ window.ATLAS_DATA = {
           "notes": [
             "Pasa a la depresión donde el grupo decide acampar."
           ]
+        },
+        {
+          "id": "primary219-93-adolin-1",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Despierta en el campamento junto a la figura de ojos raspados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Despierta en el campamento junto a la figura de ojos raspados."
+          ]
+        },
+        {
+          "id": "primary219-93-adolin-2",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Realiza la kata de calentamiento junto al mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Realiza la kata de calentamiento junto al mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary219-93-adolin-3",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está con el grupo mientras consideran cómo salir de Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
+        },
+        {
+          "id": "primary219-94-adolin-2",
+          "scene": "ob-chapter-94",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "placeId": "place-ob94-eastern-fort-dalinar-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob94",
+          "sourceIds": [
+            "primary219-ob94"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob94-eastern-fort-dalinar-room",
+          "coordinateAnchorName": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-94"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Acude al aposento con su hermano al oír el revuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acude al aposento con su hermano al oír el revuelo."
+          ]
         }
       ]
     },
@@ -182480,6 +183645,96 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Cura a personas heridas en el templo."
+          ]
+        },
+        {
+          "id": "primary219-94-renarin-2",
+          "scene": "ob-chapter-94",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "placeId": "place-ob94-eastern-fort-dalinar-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob94",
+          "sourceIds": [
+            "primary219-ob94"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob94-eastern-fort-dalinar-room",
+          "coordinateAnchorName": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-94"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Acude al aposento con su hermano al oír el revuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acude al aposento con su hermano al oír el revuelo."
+          ]
+        },
+        {
+          "id": "primary219-94-renarin-3",
+          "scene": "ob-chapter-94",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "placeId": "place-ob94-eastern-fort-dalinar-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob94",
+          "sourceIds": [
+            "primary219-ob94"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob94-eastern-fort-dalinar-room",
+          "coordinateAnchorName": "Fuerte del este de Alezkar · Aposento de Dalinar",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-94"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/94.Unabotellita.xhtml. Regresa con una botella de vino y abraza a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa con una botella de vino y abraza a Dalinar."
           ]
         }
       ]
@@ -231292,6 +232547,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Según Syl, vigila mientras los demás duermen."
           ]
+        },
+        {
+          "id": "primary219-93-pattern-3",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está con el grupo mientras consideran cómo salir de Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
         }
       ]
     },
@@ -264821,6 +266121,231 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Parte por aire hacia el lugar de la prueba. Los Rompedores sostienen y lanzan a Szeth."
+          ]
+        },
+        {
+          "id": "primary219-92-black-sword-1",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Se encuentra en el pueblo donde comienza la prueba.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se encuentra en el pueblo donde comienza la prueba."
+          ]
+        },
+        {
+          "id": "primary219-92-black-sword-2",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Bajíos cerca del pueblo",
+          "placeId": "place-ob92-purelake-shallows",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-shallows",
+          "coordinateAnchorName": "Lagopuro · Bajíos cerca del pueblo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está en los bajíos durante el encuentro con el preso fugado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los bajíos durante el encuentro con el preso fugado."
+          ]
+        },
+        {
+          "id": "primary219-92-black-sword-3",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Penitenciaría del acantilado",
+          "placeId": "place-ob92-purelake-cliff-prison",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-cliff-prison",
+          "coordinateAnchorName": "Lagopuro · Penitenciaría del acantilado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Entra en la penitenciaría y examina las condiciones de reclusión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la penitenciaría y examina las condiciones de reclusión."
+          ]
+        },
+        {
+          "id": "primary219-92-black-sword-4",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está presente cuando Szeth ejecuta al ministro con la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente cuando Szeth ejecuta al ministro con la espada."
+          ]
+        },
+        {
+          "id": "primary219-92-black-sword-5",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Murete a las afueras del pueblo",
+          "placeId": "place-ob92-purelake-wall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-wall",
+          "coordinateAnchorName": "Lagopuro · Murete a las afueras del pueblo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está en el murete donde Ki acepta a Szeth como escudero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el murete donde Ki acepta a Szeth como escudero."
           ]
         }
       ]
@@ -317066,6 +318591,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Pasa a la depresión donde el grupo decide acampar."
           ]
+        },
+        {
+          "id": "primary219-93-highmarshal-celeste-ob61-2",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Realiza la kata de calentamiento junto al mar de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Realiza la kata de calentamiento junto al mar de cuentas."
+          ]
+        },
+        {
+          "id": "primary219-93-highmarshal-celeste-ob61-3",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está con el grupo mientras consideran cómo salir de Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
         }
       ]
     },
@@ -323610,6 +325225,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Grita cuando Adolin trata de invocar su hoja. Patrón reconoce que es su espada."
           ]
+        },
+        {
+          "id": "primary219-93-ob87-platform-thread-spren-1",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "placeId": "place-ob89-shadesmar-obsidian-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
+          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Está de pie junto a Adolin cuando este despierta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está de pie junto a Adolin cuando este despierta."
+          ]
+        },
+        {
+          "id": "primary219-93-ob87-platform-thread-spren-2",
+          "scene": "ob-chapter-93",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "placeId": "place-ob89-shadesmar-river-shore",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob93",
+          "sourceIds": [
+            "primary219-ob93"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-93"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml. Acompaña a Adolin cuando baja a la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Adolin cuando baja a la orilla."
+          ]
         }
       ]
     },
@@ -324628,6 +326333,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Participa en la preparación de los aspirantes frente a la fortaleza."
           ]
+        },
+        {
+          "id": "primary219-92-ki-ob90-1",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Se encuentra en el pueblo donde comienza la prueba.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se encuentra en el pueblo donde comienza la prueba."
+          ]
+        },
+        {
+          "id": "primary219-92-ki-ob90-4",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está presente cuando Szeth ejecuta al ministro con la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente cuando Szeth ejecuta al ministro con la espada."
+          ]
+        },
+        {
+          "id": "primary219-92-ki-ob90-5",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Murete a las afueras del pueblo",
+          "placeId": "place-ob92-purelake-wall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-wall",
+          "coordinateAnchorName": "Lagopuro · Murete a las afueras del pueblo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está en el murete donde Ki acepta a Szeth como escudero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el murete donde Ki acepta a Szeth como escudero."
+          ]
         }
       ]
     },
@@ -324795,6 +326635,163 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Habla con Kaladin de Tien y de su reacción durante el entrenamiento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob92-escaped-prisoner",
+      "name": "Preso fugado del Lagopuro",
+      "initial": "P",
+      "role": "Recluso que se enfrenta a Szeth en los bajíos y se ahoga después del interrogatorio.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary219-92-ob92-escaped-prisoner-2",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Bajíos cerca del pueblo",
+          "placeId": "place-ob92-purelake-shallows",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-shallows",
+          "coordinateAnchorName": "Lagopuro · Bajíos cerca del pueblo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está en los bajíos durante el encuentro con el preso fugado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los bajíos durante el encuentro con el preso fugado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kwati-ob92",
+      "name": "Kwati",
+      "initial": "K",
+      "role": "Ministro encargado de la penitenciaría del acantilado.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary219-92-kwati-ob92-1",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Se encuentra en el pueblo donde comienza la prueba.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se encuentra en el pueblo donde comienza la prueba."
+          ]
+        },
+        {
+          "id": "primary219-92-kwati-ob92-4",
+          "scene": "ob-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "placeId": "place-ob92-purelake-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary219-ob92",
+          "sourceIds": [
+            "primary219-ob92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob92-purelake-village",
+          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-92"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml. Está presente cuando Szeth ejecuta al ministro con la espada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente cuando Szeth ejecuta al ministro con la espada."
           ]
         }
       ]
