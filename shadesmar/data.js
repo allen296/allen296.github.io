@@ -3791,6 +3791,44 @@ window.ATLAS_DATA = {
       "sja-anat",
       "syl",
       "vathah"
+    ],
+    "ob-chapter-78": [
+      "barba-ob70",
+      "highmarshal-celeste-ob61",
+      "iyatil",
+      "kaladin",
+      "kharat-ob78",
+      "noromin-ob69",
+      "ob68-heart-of-the-revel",
+      "ob78-festival-masked-woman",
+      "pattern",
+      "shallan",
+      "vathah",
+      "ved-ob73"
+    ],
+    "ob-chapter-79": [
+      "barba-ob70",
+      "deedanor-ob73",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "melishi",
+      "noromin-ob69",
+      "ob79-fused-deedanor",
+      "ob79-fused-kaladin-duel",
+      "syl",
+      "vaceslv-ob73",
+      "vardinar-ob79",
+      "ved-ob73"
+    ],
+    "ob-chapter-80": [
+      "ba-ado-mishram-ob80",
+      "muri-children-ob72",
+      "muri-ob72",
+      "ob67-grain-queue-boy",
+      "ob80-grund-attacker",
+      "pattern",
+      "shallan",
+      "tai-ob80"
     ]
   },
   "knowledgeArchive": {
@@ -4269,6 +4307,15 @@ window.ATLAS_DATA = {
         "characterRevealedAt": {
           "bookId": "ob",
           "sceneId": "ob-chapter-68"
+        }
+      },
+      {
+        "id": "spren-person-ba-ado-mishram-ob80",
+        "section": "spren-individuals",
+        "characterId": "ba-ado-mishram-ob80",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-80"
         }
       }
     ],
@@ -13435,6 +13482,142 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/77.Refugiotormentas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. En el centro del festejo aparece como un corazón gigantesco que palpita, con venas negras que bajan hacia el suelo.",
+        "sourceIds": [
+          "primary213-ob78"
+        ],
+        "id": "primary213-archive-festival-heart",
+        "entryId": "spren-person-heart-of-the-revel-ob68",
+        "value": "En el centro del festejo aparece como un corazón gigantesco que palpita, con venas negras que bajan hacia el suelo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-78"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Kaladin ve una bandada con estelas de luz roja después de la tormenta.",
+        "sourceIds": [
+          "primary213-ob78"
+        ],
+        "id": "primary213-archive-kholinar-red-windspren",
+        "entryId": "spren-type-windspren",
+        "value": "Kaladin ve una bandada con estelas de luz roja después de la tormenta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-78"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Aparecen entre la comida descompuesta del anillo interior.",
+        "sourceIds": [
+          "primary213-ob78"
+        ],
+        "id": "primary213-archive-festival-rotspren",
+        "entryId": "spren-type-rotspren",
+        "value": "Aparecen entre la comida descompuesta del anillo interior.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-78"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Rodean a los heridos de la muralla y parecen manos sin piel.",
+        "sourceIds": [
+          "primary213-ob79"
+        ],
+        "id": "primary213-archive-wall-distorted-painspren",
+        "entryId": "spren-type-painspren",
+        "value": "Rodean a los heridos de la muralla y parecen manos sin piel.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-79"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Advierte a Kaladin durante el combate y adopta la forma de un cuchillo para ayudarlo contra el Fusionado.",
+        "sourceIds": [
+          "primary213-ob79"
+        ],
+        "id": "primary213-archive-syl-aerial-duel",
+        "entryId": "spren-person-syl",
+        "value": "Advierte a Kaladin durante el combate y adopta la forma de un cuchillo para ayudarlo contra el Fusionado.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-79"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. El epígrafe le atribuye la Conexión con los parsh, el suministro de luz del vacío y la concesión de formas de poder.",
+        "sourceIds": [
+          "primary213-ob80"
+        ],
+        "id": "primary213-archive-mishram-connection",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "El epígrafe le atribuye la Conexión con los parsh, el suministro de luz del vacío y la concesión de formas de poder.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-80"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. El epígrafe le atribuye la Conexión con los parsh, el suministro de luz del vacío y la concesión de formas de poder.",
+        "sourceIds": [
+          "primary213-ob80"
+        ],
+        "id": "primary213-archive-mishram-name",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "Ba-Ado-Mishram",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-80"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Aparecen en torno a Velo como charcos rojos y naranjas cuando ve a los matones.",
+        "sourceIds": [
+          "primary213-ob80"
+        ],
+        "id": "primary213-archive-grund-angerspren",
+        "entryId": "spren-type-angerspren",
+        "value": "Aparecen en torno a Velo como charcos rojos y naranjas cuando ve a los matones.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-80"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml",
         "supersedes": []
       }
     ],
@@ -65615,6 +65798,416 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. La mujer de la máscara acepta la comida y pone a prueba a Velo antes de dejarla subir.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-festival-admission",
+      "participants": [
+        "shallan",
+        "ob78-festival-masked-woman"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La mujer de la máscara acepta la comida y pone a prueba a Velo antes de dejarla subir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La mujer de la máscara acepta la comida y pone a prueba a Velo antes de dejarla subir.",
+        "pairs": [
+          [
+            "shallan",
+            "ob78-festival-masked-woman"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Kharat guía a la recién llegada. Shallan y Patrón preparan la distracción que le permite avanzar.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-festival-guide",
+      "participants": [
+        "shallan",
+        "kharat-ob78",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kharat guía a la recién llegada. Shallan y Patrón preparan la distracción que le permite avanzar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kharat guía a la recién llegada. Shallan y Patrón preparan la distracción que le permite avanzar.",
+        "pairs": [
+          [
+            "shallan",
+            "kharat-ob78"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Kaladin interroga a Celeste en la cena y Noromin reacciona a su franqueza. Los tambores interrumpen la conversación.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-celeste-dinner",
+      "participants": [
+        "kaladin",
+        "highmarshal-celeste-ob61",
+        "noromin-ob69"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin interroga a Celeste en la cena y Noromin reacciona a su franqueza. Los tambores interrumpen la conversación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin interroga a Celeste en la cena y Noromin reacciona a su franqueza. Los tambores interrumpen la conversación.",
+        "pairs": [
+          [
+            "kaladin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "kaladin",
+            "noromin-ob69"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Corren hacia el sector atacado. Kaladin reorganiza las escuadras con Noromin y Vardinar.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-wall-mobilization",
+      "participants": [
+        "kaladin",
+        "highmarshal-celeste-ob61",
+        "noromin-ob69",
+        "vardinar-ob79"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Corren hacia el sector atacado. Kaladin reorganiza las escuadras con Noromin y Vardinar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Corren hacia el sector atacado. Kaladin reorganiza las escuadras con Noromin y Vardinar.",
+        "pairs": [
+          [
+            "kaladin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "kaladin",
+            "noromin-ob69"
+          ],
+          [
+            "kaladin",
+            "vardinar-ob79"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. La Fusionada hiere al capitán con una lanza y él cae. El capítulo no confirma su muerte.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-deedanor-lance",
+      "participants": [
+        "ob79-fused-deedanor",
+        "deedanor-ob73"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La Fusionada hiere al capitán con una lanza y él cae. El capítulo no confirma su muerte.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La Fusionada hiere al capitán con una lanza y él cae. El capítulo no confirma su muerte.",
+        "pairs": [
+          [
+            "ob79-fused-deedanor",
+            "deedanor-ob73"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Kaladin combate en el aire. Syl le indica que corte hacia el corazón del Fusionado.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-fused-aerial-duel",
+      "participants": [
+        "kaladin",
+        "ob79-fused-kaladin-duel",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin combate en el aire. Syl le indica que corte hacia el corazón del Fusionado.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin combate en el aire. Syl le indica que corte hacia el corazón del Fusionado.",
+        "pairs": [
+          [
+            "kaladin",
+            "ob79-fused-kaladin-duel"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Tras el combate, Kaladin muestra su hoja y dice a Celeste que actúa por orden del rey y del Espina Negra.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-kaladin-reveals-mission",
+      "participants": [
+        "kaladin",
+        "highmarshal-celeste-ob61",
+        "noromin-ob69",
+        "barba-ob70"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Tras el combate, Kaladin muestra su hoja y dice a Celeste que actúa por orden del rey y del Espina Negra.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Tras el combate, Kaladin muestra su hoja y dice a Celeste que actúa por orden del rey y del Espina Negra.",
+        "pairs": [
+          [
+            "kaladin",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "kaladin",
+            "noromin-ob69"
+          ],
+          [
+            "kaladin",
+            "barba-ob70"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Shallan vuelve al sospechar que Grund miente. Trata de auxiliarlo. Patrón le pregunta por las otras víctimas mencionadas.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-grund-last-visit",
+      "participants": [
+        "shallan",
+        "ob67-grain-queue-boy",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Shallan vuelve al sospechar que Grund miente. Trata de auxiliarlo. Patrón le pregunta por las otras víctimas mencionadas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan vuelve al sospechar que Grund miente. Trata de auxiliarlo. Patrón le pregunta por las otras víctimas mencionadas.",
+        "pairs": [
+          [
+            "shallan",
+            "ob67-grain-queue-boy"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Uno de los matones golpea a Grund antes de huir.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-grund-assault",
+      "participants": [
+        "ob80-grund-attacker",
+        "ob67-grain-queue-boy"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Uno de los matones golpea a Grund antes de huir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Uno de los matones golpea a Grund antes de huir.",
+        "pairs": [
+          [
+            "ob80-grund-attacker",
+            "ob67-grain-queue-boy"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Muri cuenta que los Agarrones aprovechan los repartos y vigilan a quienes reciben comida.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-muri-extortion",
+      "participants": [
+        "shallan",
+        "muri-ob72"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Muri cuenta que los Agarrones aprovechan los repartos y vigilan a quienes reciben comida.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Muri cuenta que los Agarrones aprovechan los repartos y vigilan a quienes reciben comida.",
+        "pairs": [
+          [
+            "shallan",
+            "muri-ob72"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -100107,6 +100700,230 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Shallan identifica en Mítica a Ashertmarn como el Corazón del Festejo.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Recibe a Velo y autoriza su subida al festejo.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-ob78-festival-masked-woman-intro",
+      "characterId": "ob78-festival-masked-woman",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "kind": "background",
+      "text": "Recibe a Velo y autoriza su subida al festejo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Fervoroso que se presenta con ese nombre y guía a la recién llegada por el anillo exterior.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-kharat-ob78-intro",
+      "characterId": "kharat-ob78",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "kind": "background",
+      "text": "Fervoroso que se presenta con ese nombre y guía a la recién llegada por el anillo exterior.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Adopta el nombre y la apariencia de Kishi durante la infiltración. La figura de Velo que deja en la celda es una ilusión.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-kishi-festival",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "kind": "background",
+      "text": "Adopta el nombre y la apariencia de Kishi durante la infiltración. La figura de Velo que deja en la celda es una ilusión.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Una sombra que se extiende hacia la luz le advierte que el corazón es una trampa. Su identidad queda abierta.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-oathgate-shadow-warning",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "kind": "background",
+      "text": "Una sombra que se extiende hacia la luz le advierte que el corazón es una trampa. Su identidad queda abierta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. La máscara blanca le recuerda a Iyatil. La comparación no identifica a la mujer del culto.",
+      "sourceIds": [
+        "primary213-ob78"
+      ],
+      "id": "primary213-festival-mask-resemblance",
+      "characterId": "iyatil",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-78"
+      },
+      "kind": "background",
+      "text": "La máscara blanca le recuerda a Iyatil. La comparación no identifica a la mujer del culto.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Usa lanzamientos, pelea con Kaladin sobre la ciudad y muere al caer su cuerpo en el adarve.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-ob79-fused-kaladin-duel-intro",
+      "characterId": "ob79-fused-kaladin-duel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "kind": "background",
+      "text": "Usa lanzamientos, pelea con Kaladin sobre la ciudad y muere al caer su cuerpo en el adarve.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Ataca al capitán con su lanza y se retira después del combate.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-ob79-fused-deedanor-intro",
+      "characterId": "ob79-fused-deedanor",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "kind": "background",
+      "text": "Ataca al capitán con su lanza y se retira después del combate.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Kaladin le ordena reorganizar dos escuadras y colocar arqueros sobre la torre.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-vardinar-ob79-intro",
+      "characterId": "vardinar-ob79",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "kind": "background",
+      "text": "Kaladin le ordena reorganizar dos escuadras y colocar arqueros sobre la torre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. En el epígrafe se considera necesaria su participación y una prisión especial para capturar a un Deshecho.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-melishi-unmade-capture-plan",
+      "characterId": "melishi",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "kind": "background",
+      "text": "En el epígrafe se considera necesaria su participación y una prisión especial para capturar a un Deshecho.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Golpea a Grund en la cabeza al huir de la tienda con los demás matones.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-ob80-grund-attacker-intro",
+      "characterId": "ob80-grund-attacker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "kind": "background",
+      "text": "Golpea a Grund en la cabeza al huir de la tienda con los demás matones.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Grund pronuncia este nombre al hablar de sus amigos y denunciar que los han matado.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-tai-ob80-intro",
+      "characterId": "tai-ob80",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "kind": "background",
+      "text": "Grund pronuncia este nombre al hablar de sus amigos y denunciar que los han matado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Figura del epígrafe a la que se atribuyen la Conexión con el pueblo parsh y el suministro de luz del vacío.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-ba-ado-mishram-ob80-intro",
+      "characterId": "ba-ado-mishram-ob80",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "kind": "background",
+      "text": "Figura del epígrafe a la que se atribuyen la Conexión con el pueblo parsh y el suministro de luz del vacío.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Grund lo nombra mientras dice que han matado a sus amigos. No hay una observación individual de Tai.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-tai-grund-report",
+      "characterId": "tai-ob80",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "kind": "background",
+      "text": "Grund lo nombra mientras dice que han matado a sus amigos. No hay una observación individual de Tai.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. La cuarta esmeralda atribuye a Ba-Ado-Mishram luz del vacío, formas de poder y Conexión con los parsh, y anuncia un plan de captura.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-mishram-connection-epigraph",
+      "characterId": "ba-ado-mishram-ob80",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "kind": "background",
+      "text": "La cuarta esmeralda atribuye a Ba-Ado-Mishram luz del vacío, formas de poder y Conexión con los parsh, y anuncia un plan de captura.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -102772,6 +103589,10 @@ window.ATLAS_DATA = {
         {
           "revision": 212,
           "notes": "Se revisan Evi y Dalinar, Gavilar, Kalami y Teleb, los hijos de Tanalan y las menciones de la familia real. Se conserva la ficha previa de la esposa de Teleb hasta la identificación en OB76. Los dibujos del refugio no aportan nuevas filiaciones identificables."
+        },
+        {
+          "revision": 213,
+          "notes": "Se revisan la partida de Muri con sus hijas y las menciones a los amigos de Grund. Kishi es una identidad usada por Shallan y no abre una ficha familiar."
         }
       ]
     }
@@ -105745,6 +106566,40 @@ window.ATLAS_DATA = {
       "notes": [
         "Dalinar lo estrangula en el borde de la Grieta."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Kaladin daña la gema corazón durante el combate. Los ojos se apagan y el cuerpo queda muerto en la muralla. La muerte registrada corresponde a este cuerpo.",
+      "sourceIds": [
+        "primary213-ob79"
+      ],
+      "id": "primary213-death-ob79-fused-kaladin-duel",
+      "characterId": "ob79-fused-kaladin-duel",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-79"
+      },
+      "notes": [
+        "Kaladin daña la gema corazón durante el combate. Los ojos se apagan y el cuerpo queda muerto en la muralla. La muerte registrada corresponde a este cuerpo."
+      ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Uno de los matones lo hiere en la cabeza. Shallan se queda a su lado hasta que deja de respirar.",
+      "sourceIds": [
+        "primary213-ob80"
+      ],
+      "id": "primary213-death-ob67-grain-queue-boy",
+      "characterId": "ob67-grain-queue-boy",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-80"
+      },
+      "notes": [
+        "Uno de los matones lo hiere en la cabeza. Shallan se queda a su lado hasta que deja de respirar."
+      ]
     }
   ],
   "bookId": "wok",
@@ -105775,7 +106630,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 212,
+  "revision": 213,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -108507,6 +109362,30 @@ window.ATLAS_DATA = {
       "label": "Capítulo 77 · Refugio para tormentas",
       "part": "ob-3a",
       "source": "primary212-ob77"
+    },
+    {
+      "id": "ob-chapter-78",
+      "bookId": "ob",
+      "chapter": 78,
+      "label": "Capítulo 78 · El festejo",
+      "part": "ob-3a",
+      "source": "primary213-ob78"
+    },
+    {
+      "id": "ob-chapter-79",
+      "bookId": "ob",
+      "chapter": 79,
+      "label": "Capítulo 79 · Los ecos de un trueno",
+      "part": "ob-3a",
+      "source": "primary213-ob79"
+    },
+    {
+      "id": "ob-chapter-80",
+      "bookId": "ob",
+      "chapter": 80,
+      "label": "Capítulo 80 · Inconsciente",
+      "part": "ob-3a",
+      "source": "primary213-ob80"
     }
   ],
   "experiencePresentation": {
@@ -125381,6 +126260,294 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la cantina durante la tormenta eterna."
           ]
+        },
+        {
+          "id": "primary213-78-kaladin-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Participa en la revista o la cena del pelotón antes de la alarma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la revista o la cena del pelotón antes de la alarma."
+          ]
+        },
+        {
+          "id": "primary213-79-kaladin-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        },
+        {
+          "id": "primary213-79-kaladin-2",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Frena su caída horizontal al agarrar el marco de la puerta y sale por una ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Frena su caída horizontal al agarrar el marco de la puerta y sale por una ventana."
+          ]
+        },
+        {
+          "id": "primary213-79-kaladin-3",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Aire sobre la muralla",
+          "placeId": "place-ob79-kholinar-air-duel",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Participa en el combate aéreo sobre la ciudad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el combate aéreo sobre la ciudad."
+          ]
+        },
+        {
+          "id": "primary213-79-kaladin-4",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve donde cae Kaladin",
+          "placeId": "place-ob79-wall-fall-sector",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Queda en el sector donde cae el cuerpo del Fusionado tras el combate.",
+          "needsConfirmation": [],
+          "notes": [
+            "Queda en el sector donde cae el cuerpo del Fusionado tras el combate."
+          ]
+        },
+        {
+          "id": "primary213-79-kaladin-5",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sector de heridos junto a la torre",
+          "placeId": "place-ob79-wall-guard-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión."
+          ]
         }
       ]
     },
@@ -141927,6 +143094,486 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el reservado de la posada durante la preparación del nuevo robo."
           ]
+        },
+        {
+          "id": "primary213-78-shallan-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Escalera de acceso al festejo",
+          "placeId": "place-ob78-oathgate-stairs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Entrega la comida y recibe permiso para subir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega la comida y recibe permiso para subir."
+          ]
+        },
+        {
+          "id": "primary213-78-shallan-2",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Anillo exterior del festejo",
+          "placeId": "place-ob78-oathgate-outer-ring",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Sigue a Kharat entre las mesas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigue a Kharat entre las mesas."
+          ]
+        },
+        {
+          "id": "primary213-78-shallan-3",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Celda de meditación",
+          "placeId": "place-ob78-oathgate-meditation-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Distrae al guía con ayuda de Patrón y deja una ilusión de Velo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Distrae al guía con ayuda de Patrón y deja una ilusión de Velo."
+          ]
+        },
+        {
+          "id": "primary213-78-shallan-4",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Anillo interior del festejo",
+          "placeId": "place-ob78-oathgate-inner-ring",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Cruza con la apariencia de Kishi hacia el centro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza con la apariencia de Kishi hacia el centro."
+          ]
+        },
+        {
+          "id": "primary213-78-shallan-5",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Plaza del edificio de control",
+          "placeId": "place-ob78-oathgate-control-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Ve un corazón gigantesco sobre el edificio de control y oye una advertencia de origen incierto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ve un corazón gigantesco sobre el edificio de control y oye una advertencia de origen incierto."
+          ]
+        },
+        {
+          "id": "primary213-78-shallan-6",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Borde de la plataforma",
+          "placeId": "place-ob78-oathgate-platform-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Regresa por los anillos, llega al borde de la plataforma y salta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa por los anillos, llega al borde de la plataforma y salta."
+          ]
+        },
+        {
+          "id": "primary213-80-shallan-1",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Visita a Grund tras la infiltración y le da pan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Visita a Grund tras la infiltración y le da pan."
+          ]
+        },
+        {
+          "id": "primary213-80-shallan-2",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado de Ringington",
+          "placeId": "place-ringington-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Cambia de aspecto y decide regresar al notar que Grund oculta algo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cambia de aspecto y decide regresar al notar que Grund oculta algo."
+          ]
+        },
+        {
+          "id": "primary213-80-shallan-3",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Vuelve, ve a los matones y atiende a Grund hasta que deja de respirar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve, ve a los matones y atiende a Grund hasta que deja de respirar."
+          ]
+        },
+        {
+          "id": "primary213-80-shallan-4",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Corre a casa de Muri y descubre por ella la extorsión de los Agarrones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Corre a casa de Muri y descubre por ella la extorsión de los Agarrones."
+          ]
         }
       ]
     },
@@ -150156,6 +151803,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la cantina durante la tormenta eterna."
+          ]
+        },
+        {
+          "id": "primary213-79-syl-3",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Aire sobre la muralla",
+          "placeId": "place-ob79-kholinar-air-duel",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Participa en el combate aéreo sobre la ciudad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el combate aéreo sobre la ciudad."
+          ]
+        },
+        {
+          "id": "primary213-79-syl-4",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve donde cae Kaladin",
+          "placeId": "place-ob79-wall-fall-sector",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Queda en el sector donde cae el cuerpo del Fusionado tras el combate.",
+          "needsConfirmation": [],
+          "notes": [
+            "Queda en el sector donde cae el cuerpo del Fusionado tras el combate."
           ]
         }
       ]
@@ -219669,6 +221412,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el reservado de la posada durante la preparación del nuevo robo."
           ]
+        },
+        {
+          "id": "primary213-78-pattern-3",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Celda de meditación",
+          "placeId": "place-ob78-oathgate-meditation-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Transmite el sonido tejido por Shallan para distraer a Kharat.",
+          "needsConfirmation": [],
+          "notes": [
+            "Transmite el sonido tejido por Shallan para distraer a Kharat."
+          ]
+        },
+        {
+          "id": "primary213-80-pattern-3",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Aparece como hoja y luego pregunta a Shallan por las otras personas mencionadas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece como hoja y luego pregunta a Shallan por las otras personas mencionadas."
+          ]
         }
       ]
     },
@@ -229019,6 +230858,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el reservado de la posada durante la preparación del nuevo robo."
+          ]
+        },
+        {
+          "id": "primary213-78-vathah-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Escalera de acceso al festejo",
+          "placeId": "place-ob78-oathgate-stairs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Llega con el carro de comida y queda al pie de la escalera para la descarga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega con el carro de comida y queda al pie de la escalera para la descarga."
           ]
         }
       ]
@@ -303032,6 +304919,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Sube a la muralla. Celeste le muestra a Kaladin los resplandores del campamento sitiador."
           ]
+        },
+        {
+          "id": "primary213-78-highmarshal-celeste-ob61-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Participa en la revista o la cena del pelotón antes de la alarma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la revista o la cena del pelotón antes de la alarma."
+          ]
+        },
+        {
+          "id": "primary213-79-highmarshal-celeste-ob61-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        },
+        {
+          "id": "primary213-79-highmarshal-celeste-ob61-5",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sector de heridos junto a la torre",
+          "placeId": "place-ob79-wall-guard-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión."
+          ]
         }
       ]
     },
@@ -304278,6 +306309,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Le cuenta a Velo adónde se han mudado Ma y Seland."
           ]
+        },
+        {
+          "id": "primary213-80-ob67-grain-queue-boy-1",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Recibe a Velo y le pregunta qué necesita.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a Velo y le pregunta qué necesita."
+          ]
+        },
+        {
+          "id": "primary213-80-ob67-grain-queue-boy-3",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Sufre un golpe en la cabeza y muere en compañía de Velo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sufre un golpe en la cabeza y muere en compañía de Velo."
+          ]
         }
       ]
     },
@@ -304508,7 +306635,56 @@ window.ATLAS_DATA = {
           }
         }
       ],
-      "events": []
+      "events": [
+        {
+          "id": "primary213-78-ob68-heart-of-the-revel-5",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Plaza del edificio de control",
+          "placeId": "place-ob78-oathgate-control-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Shallan observa el corazón palpitante que cubre la zona del edificio de control.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan observa el corazón palpitante que cubre la zona del edificio de control."
+          ]
+        }
+      ]
     },
     {
       "id": "ob68-sibling-epigraph",
@@ -304985,6 +307161,198 @@ window.ATLAS_DATA = {
           "notes": [
             "Escucha la disculpa de Kaladin tras dar la orden de romper filas."
           ]
+        },
+        {
+          "id": "primary213-78-noromin-ob69-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Participa en la revista o la cena del pelotón antes de la alarma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la revista o la cena del pelotón antes de la alarma."
+          ]
+        },
+        {
+          "id": "primary213-79-noromin-ob69-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        },
+        {
+          "id": "primary213-79-noromin-ob69-4",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve donde cae Kaladin",
+          "placeId": "place-ob79-wall-fall-sector",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Queda en el sector donde cae el cuerpo del Fusionado tras el combate.",
+          "needsConfirmation": [],
+          "notes": [
+            "Queda en el sector donde cae el cuerpo del Fusionado tras el combate."
+          ]
+        },
+        {
+          "id": "primary213-79-noromin-ob69-5",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sector de heridos junto a la torre",
+          "placeId": "place-ob79-wall-guard-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión."
+          ]
         }
       ]
     },
@@ -305304,6 +307672,150 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Mantiene la posición durante un ataque dirigido a otro sector de la muralla."
+          ]
+        },
+        {
+          "id": "primary213-78-barba-ob70-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Participa en la revista o la cena del pelotón antes de la alarma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la revista o la cena del pelotón antes de la alarma."
+          ]
+        },
+        {
+          "id": "primary213-79-barba-ob70-4",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve donde cae Kaladin",
+          "placeId": "place-ob79-wall-fall-sector",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Queda en el sector donde cae el cuerpo del Fusionado tras el combate.",
+          "needsConfirmation": [],
+          "notes": [
+            "Queda en el sector donde cae el cuerpo del Fusionado tras el combate."
+          ]
+        },
+        {
+          "id": "primary213-79-barba-ob70-5",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sector de heridos junto a la torre",
+          "placeId": "place-ob79-wall-guard-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión."
           ]
         }
       ]
@@ -306031,6 +308543,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Recibe a Velo y conversa con ella."
           ]
+        },
+        {
+          "id": "primary213-80-muri-ob72-4",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Explica que la pandilla la vigila, recoge sus sacos y se marcha con sus hijas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica que la pandilla la vigila, recoge sus sacos y se marcha con sus hijas."
+          ]
         }
       ]
     },
@@ -306052,7 +308612,56 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary213-80-muri-children-ob72-4",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Salen con Muri al terminar la conversación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Salen con Muri al terminar la conversación."
+          ]
+        }
+      ]
     },
     {
       "id": "ved-ob73",
@@ -306157,6 +308766,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Escolta la entrega de grano con otra escuadra."
+          ]
+        },
+        {
+          "id": "primary213-78-ved-ob73-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Participa en la revista o la cena del pelotón antes de la alarma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la revista o la cena del pelotón antes de la alarma."
+          ]
+        },
+        {
+          "id": "primary213-79-ved-ob73-5",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sector de heridos junto a la torre",
+          "placeId": "place-ob79-wall-guard-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está cerca de la torre cuando Kaladin muestra su hoja y declara su misión."
           ]
         }
       ]
@@ -306372,6 +309077,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Escolta la entrega de grano con otra escuadra."
           ]
+        },
+        {
+          "id": "primary213-79-vaceslv-ob73-5",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sector de heridos junto a la torre",
+          "placeId": "place-ob79-wall-guard-triage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Noromin informa que está con los cirujanos por un tajo en el pecho.",
+          "needsConfirmation": [],
+          "notes": [
+            "Noromin informa que está con los cirujanos por un tajo en el pecho."
+          ]
         }
       ]
     },
@@ -306442,7 +309195,56 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary213-79-deedanor-ob73-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        }
+      ]
     },
     {
       "id": "ob73-purple-procession-speaker",
@@ -306892,6 +309694,524 @@ window.ATLAS_DATA = {
       "name": "Hessi",
       "initial": "H",
       "role": "Autoría citada de Mítica, libro que Shallan consulta para investigar a los Deshechos.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob78-festival-masked-woman",
+      "name": "Mujer de máscara blanca del culto",
+      "initial": "M",
+      "role": "Recibe a Velo y autoriza su subida al festejo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary213-78-ob78-festival-masked-woman-1",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Escalera de acceso al festejo",
+          "placeId": "place-ob78-oathgate-stairs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Interroga a Velo y le indica que suba a buscar a su guía.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interroga a Velo y le indica que suba a buscar a su guía."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kharat-ob78",
+      "name": "Kharat",
+      "initial": "K",
+      "role": "Fervoroso que se presenta con ese nombre y guía a la recién llegada por el anillo exterior.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary213-78-kharat-ob78-2",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Anillo exterior del festejo",
+          "placeId": "place-ob78-oathgate-outer-ring",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Guía a Velo alrededor del festejo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Guía a Velo alrededor del festejo."
+          ]
+        },
+        {
+          "id": "primary213-78-kharat-ob78-3",
+          "scene": "ob-chapter-78",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Puerta Jurada de Kholinar · Celda de meditación",
+          "placeId": "place-ob78-oathgate-meditation-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob78",
+          "sourceIds": [
+            "primary213-ob78"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-78"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/78.Festejo.xhtml. Vigila la celda y se aparta a buscar bebida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vigila la celda y se aparta a buscar bebida."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob79-fused-kaladin-duel",
+      "name": "Fusionado que combate con Kaladin en el aire",
+      "initial": "F",
+      "role": "Usa lanzamientos, pelea con Kaladin sobre la ciudad y muere al caer su cuerpo en el adarve.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary213-79-ob79-fused-kaladin-duel-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        },
+        {
+          "id": "primary213-79-ob79-fused-kaladin-duel-3",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Aire sobre la muralla",
+          "placeId": "place-ob79-kholinar-air-duel",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Participa en el combate aéreo sobre la ciudad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el combate aéreo sobre la ciudad."
+          ]
+        },
+        {
+          "id": "primary213-79-ob79-fused-kaladin-duel-4",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve donde cae Kaladin",
+          "placeId": "place-ob79-wall-fall-sector",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Queda en el sector donde cae el cuerpo del Fusionado tras el combate.",
+          "needsConfirmation": [],
+          "notes": [
+            "Queda en el sector donde cae el cuerpo del Fusionado tras el combate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob79-fused-deedanor",
+      "name": "Fusionada que hiere a Deedanor",
+      "initial": "F",
+      "role": "Ataca al capitán con su lanza y se retira después del combate.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary213-79-ob79-fused-deedanor-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vardinar-ob79",
+      "name": "Vardinar",
+      "initial": "V",
+      "role": "Kaladin le ordena reorganizar dos escuadras y colocar arqueros sobre la torre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary213-79-vardinar-ob79-1",
+          "scene": "ob-chapter-79",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob79",
+          "sourceIds": [
+            "primary213-ob79"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-79"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/79.Ecostrueno.xhtml. Interviene al comienzo del ataque a la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Interviene al comienzo del ataque a la muralla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob80-grund-attacker",
+      "name": "Agarrón que golpea a Grund",
+      "initial": "A",
+      "role": "Golpea a Grund en la cabeza al huir de la tienda con los demás matones.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary213-80-ob80-grund-attacker-3",
+          "scene": "ob-chapter-80",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary213-ob80",
+          "sourceIds": [
+            "primary213-ob80"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-80"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/80.Inconsciente.xhtml. Golpea a Grund y escapa por el interior del edificio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Golpea a Grund y escapa por el interior del edificio."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tai-ob80",
+      "name": "Tai",
+      "initial": "T",
+      "role": "Grund pronuncia este nombre al hablar de sus amigos y denunciar que los han matado.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ba-ado-mishram-ob80",
+      "name": "Ba-Ado-Mishram",
+      "initial": "B",
+      "role": "Figura del epígrafe a la que se atribuyen la Conexión con el pueblo parsh y el suministro de luz del vacío.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
