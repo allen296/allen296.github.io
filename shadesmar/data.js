@@ -3707,6 +3707,55 @@ window.ATLAS_DATA = {
       "sadeas",
       "tanalan-younger",
       "teleb"
+    ],
+    "ob-chapter-72": [
+      "ishnah",
+      "jom-ob72",
+      "muri-children-ob72",
+      "muri-ob72",
+      "nananav-ob72",
+      "ob67-grain-queue-boy",
+      "ob72-carpet-weaving-master",
+      "ob72-catarroca-crossbow-guard",
+      "ob72-catarroca-steward",
+      "ob72-mythica-bookseller",
+      "ob72-shin-carpet-weaver",
+      "pattern",
+      "red",
+      "shallan",
+      "vathah"
+    ],
+    "ob-chapter-73": [
+      "adolin",
+      "alaward-ob73",
+      "barba-ob70",
+      "deedanor-ob73",
+      "drehy",
+      "hid-ob73",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "noromin-ob69",
+      "ob73-purple-procession-speaker",
+      "syl",
+      "vaceslv-ob73",
+      "ved-ob73"
+    ],
+    "ob-chapter-74": [
+      "drehy",
+      "elhokar",
+      "elhokar-son",
+      "ishnah",
+      "ma-ob74",
+      "muri-children-ob72",
+      "muri-ob72",
+      "ob67-grain-queue-boy",
+      "ob74-raudispren-beggar",
+      "ob74-raudispren-beggar-companion",
+      "pattern",
+      "seland-ob74",
+      "shallan",
+      "skar",
+      "wit"
     ]
   },
   "knowledgeArchive": {
@@ -13096,6 +13145,142 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/71.Senalhumanidad.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Aparecen entre las plantas del patio de Catarroca.",
+        "sourceIds": [
+          "primary211-ob72"
+        ],
+        "id": "primary211-archive-catarroca-lifespren",
+        "entryId": "spren-type-lifespren",
+        "value": "Aparecen entre las plantas del patio de Catarroca.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-72"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Aparecen alrededor de Rojo cuando ve la ilusión que Shallan utiliza para despistar a los guardias.",
+        "sourceIds": [
+          "primary211-ob72"
+        ],
+        "id": "primary211-archive-catarroca-fearspren",
+        "entryId": "spren-type-fearspren",
+        "value": "Aparecen alrededor de Rojo cuando ve la ilusión que Shallan utiliza para despistar a los guardias.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-72"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Patrón transmite la voz ilusoria de Nananav y ayuda a abrir el montacargas.",
+        "sourceIds": [
+          "primary211-ob72"
+        ],
+        "id": "primary211-archive-catarroca-illusions",
+        "entryId": "spren-person-pattern",
+        "value": "Patrón transmite la voz ilusoria de Nananav y ayuda a abrir el montacargas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-72"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. En la plaza aparecen manos demasiado grandes y de color extraño cuando los enmascarados se azotan.",
+        "sourceIds": [
+          "primary211-ob73"
+        ],
+        "id": "primary211-archive-procession-painspren",
+        "entryId": "spren-type-painspren",
+        "value": "En la plaza aparecen manos demasiado grandes y de color extraño cuando los enmascarados se azotan.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-73"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Syl y Kaladin conversan sobre Honor y la fe al llegar al baluarte.",
+        "sourceIds": [
+          "primary211-ob73"
+        ],
+        "id": "primary211-archive-syl-honor-discussion",
+        "entryId": "spren-person-syl",
+        "value": "Syl y Kaladin conversan sobre Honor y la fe al llegar al baluarte.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-73"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Al detenerse la procesión aparecen asombrospren descritos como bufidos negros de hollín.",
+        "sourceIds": [
+          "primary211-ob74"
+        ],
+        "id": "primary211-archive-kholinar-distorted-awespren",
+        "entryId": "spren-type-awespren",
+        "value": "Al detenerse la procesión aparecen asombrospren descritos como bufidos negros de hollín.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-74"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Velo observa agotaspren alterados como remolinos rojos mientras se estira.",
+        "sourceIds": [
+          "primary211-ob74"
+        ],
+        "id": "primary211-archive-kholinar-red-exhaustion",
+        "entryId": "spren-type-exhaustionspren",
+        "value": "Velo observa agotaspren alterados como remolinos rojos mientras se estira.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-74"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Se reúnen alrededor de Shallan cuando dibuja a Elhokar y, según ella, parecen normales.",
+        "sourceIds": [
+          "primary211-ob74"
+        ],
+        "id": "primary211-archive-elhokar-portrait-creationspren",
+        "entryId": "spren-type-creationspren",
+        "value": "Se reúnen alrededor de Shallan cuando dibuja a Elhokar y, según ella, parecen normales.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-74"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
         "supersedes": []
       }
     ],
@@ -28661,6 +28846,33 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Kaladin identifica a Meleran Khal como hijo menor de Teshav al describir el disfraz de Adolin."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Grund señala que Muri tiene varios hijos a los que le cuesta alimentar.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-muri-children",
+      "from": "muri-ob72",
+      "to": "muri-children-ob72",
+      "kind": "parent",
+      "label": "Madre y descendencia",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Grund señala que Muri tiene varios hijos a los que le cuesta alimentar."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Grund señala que Muri tiene varios hijos a los que le cuesta alimentar."
       }
     }
   ],
@@ -64312,6 +64524,500 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Ishnah se presenta como comerciante y conversa con Nananav sobre las alfombras.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-carpet-cover",
+      "participants": [
+        "ishnah",
+        "nananav-ob72"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ishnah se presenta como comerciante y conversa con Nananav sobre las alfombras.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ishnah se presenta como comerciante y conversa con Nananav sobre las alfombras.",
+        "pairs": [
+          [
+            "ishnah",
+            "nananav-ob72"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Shallan y Vathah coordinan la entrada. Patrón distrae a los guardias y el maestro de sirvientes abre la despensa.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-catarroca-infiltration",
+      "participants": [
+        "shallan",
+        "vathah",
+        "pattern",
+        "ob72-catarroca-steward"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Shallan y Vathah coordinan la entrada. Patrón distrae a los guardias y el maestro de sirvientes abre la despensa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan y Vathah coordinan la entrada. Patrón distrae a los guardias y el maestro de sirvientes abre la despensa.",
+        "pairs": [
+          [
+            "shallan",
+            "vathah"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "shallan",
+            "ob72-catarroca-steward"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. El guardia hiere a Shallan. Rojo le avisa de la sangre y Vathah extrae la saeta.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-catarroca-escape",
+      "participants": [
+        "shallan",
+        "ob72-catarroca-crossbow-guard",
+        "red",
+        "vathah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El guardia hiere a Shallan. Rojo le avisa de la sangre y Vathah extrae la saeta.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El guardia hiere a Shallan. Rojo le avisa de la sangre y Vathah extrae la saeta.",
+        "pairs": [
+          [
+            "shallan",
+            "ob72-catarroca-crossbow-guard"
+          ],
+          [
+            "shallan",
+            "red"
+          ],
+          [
+            "shallan",
+            "vathah"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Velo entrega comida a Grund y él enumera vecinos que necesitan ayuda.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-grund-food-list",
+      "participants": [
+        "shallan",
+        "ob67-grain-queue-boy"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Velo entrega comida a Grund y él enumera vecinos que necesitan ayuda.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Velo entrega comida a Grund y él enumera vecinos que necesitan ayuda.",
+        "pairs": [
+          [
+            "shallan",
+            "ob67-grain-queue-boy"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. La escuadra charla sobre los ojos claros y los refugiados durante la ronda.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-wall-patrol-talk",
+      "participants": [
+        "barba-ob70",
+        "ved-ob73",
+        "kaladin",
+        "noromin-ob69"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La escuadra charla sobre los ojos claros y los refugiados durante la ronda.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La escuadra charla sobre los ojos claros y los refugiados durante la ronda.",
+        "pairs": [
+          [
+            "barba-ob70",
+            "ved-ob73"
+          ],
+          [
+            "barba-ob70",
+            "kaladin"
+          ],
+          [
+            "noromin-ob69",
+            "ved-ob73"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Kaladin y Syl comentan la tensión. Kaladin propone retirar el grano cuando la multitud se altera.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-grain-transfer",
+      "participants": [
+        "kaladin",
+        "noromin-ob69",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin y Syl comentan la tensión. Kaladin propone retirar el grano cuando la multitud se altera.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin y Syl comentan la tensión. Kaladin propone retirar el grano cuando la multitud se altera.",
+        "pairs": [
+          [
+            "kaladin",
+            "noromin-ob69"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Barba habla del moldeador de almas del monasterio, la espada de Celeste y lo que oyó cerca de palacio.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-wall-barracks-source",
+      "participants": [
+        "kaladin",
+        "barba-ob70"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Barba habla del moldeador de almas del monasterio, la espada de Celeste y lo que oyó cerca de palacio.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Barba habla del moldeador de almas del monasterio, la espada de Celeste y lo que oyó cerca de palacio.",
+        "pairs": [
+          [
+            "kaladin",
+            "barba-ob70"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Noromin manda a Hid mantener filas. Kaladin se disculpa después por adelantarse al dar órdenes.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-hold-formation",
+      "participants": [
+        "noromin-ob69",
+        "hid-ob73",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Noromin manda a Hid mantener filas. Kaladin se disculpa después por adelantarse al dar órdenes.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Noromin manda a Hid mantener filas. Kaladin se disculpa después por adelantarse al dar órdenes.",
+        "pairs": [
+          [
+            "noromin-ob69",
+            "hid-ob73"
+          ],
+          [
+            "kaladin",
+            "noromin-ob69"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Velo reparte comida. Grund le da noticias y el anciano le explica el apodo Raudispren.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-food-rounds",
+      "participants": [
+        "shallan",
+        "ob67-grain-queue-boy",
+        "muri-ob72",
+        "ob74-raudispren-beggar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Velo reparte comida. Grund le da noticias y el anciano le explica el apodo Raudispren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Velo reparte comida. Grund le da noticias y el anciano le explica el apodo Raudispren.",
+        "pairs": [
+          [
+            "shallan",
+            "ob67-grain-queue-boy"
+          ],
+          [
+            "shallan",
+            "muri-ob72"
+          ],
+          [
+            "shallan",
+            "ob74-raudispren-beggar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Patrón pregunta a Velo por el reparto y le recuerda la verdad vinculada a su Ideal.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-pattern-ideal",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Patrón pregunta a Velo por el reparto y le recuerda la verdad vinculada a su Ideal.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Patrón pregunta a Velo por el reparto y le recuerda la verdad vinculada a su Ideal.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Elhokar habla de Gavinor. Shallan lo retrata y le da el dibujo.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-elhokar-portrait",
+      "participants": [
+        "shallan",
+        "elhokar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Elhokar habla de Gavinor. Shallan lo retrata y le da el dibujo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Elhokar habla de Gavinor. Shallan lo retrata y le da el dibujo.",
+        "pairs": [
+          [
+            "shallan",
+            "elhokar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Ishnah trae una nota que invita a Velo a reunirse con el culto dentro de dos noches.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-cult-note",
+      "participants": [
+        "shallan",
+        "ishnah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ishnah trae una nota que invita a Velo a reunirse con el culto dentro de dos noches.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ishnah trae una nota que invita a Velo a reunirse con el culto dentro de dos noches.",
+        "pairs": [
+          [
+            "shallan",
+            "ishnah"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -98132,6 +98838,438 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Durante el parlamento recuerda que Dalinar mató a su padre y le arrebató su Hoja Esquirlada.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Propietaria de Catarroca. Habla con Ishnah e intenta detener al grupo al descubrir el robo.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-nananav-ob72-intro",
+      "characterId": "nananav-ob72",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Propietaria de Catarroca. Habla con Ishnah e intenta detener al grupo al descubrir el robo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Abre la despensa a Shallan al confundirla con Nananav.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-ob72-catarroca-steward-intro",
+      "characterId": "ob72-catarroca-steward",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Abre la despensa a Shallan al confundirla con Nananav.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Dispara a Shallan durante la huida.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-ob72-catarroca-crossbow-guard-intro",
+      "characterId": "ob72-catarroca-crossbow-guard",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Dispara a Shallan durante la huida.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Artesano ciego y fallecido del que habla Nananav.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-ob72-shin-carpet-weaver-intro",
+      "characterId": "ob72-shin-carpet-weaver",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Artesano ciego y fallecido del que habla Nananav.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Nananav lo menciona al hablar de los años de aprendizaje del artesano.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-ob72-carpet-weaving-master-intro",
+      "characterId": "ob72-carpet-weaving-master",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Nananav lo menciona al hablar de los años de aprendizaje del artesano.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Ishnah averigua que el ejemplar desapareció en un robo durante los disturbios.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-ob72-mythica-bookseller-intro",
+      "characterId": "ob72-mythica-bookseller",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Ishnah averigua que el ejemplar desapareció en un robo durante los disturbios.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Costurera a la que Grund recomienda llevar comida para su familia.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-muri-ob72-intro",
+      "characterId": "muri-ob72",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Costurera a la que Grund recomienda llevar comida para su familia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Zapatero que se ha roto un brazo, según Grund.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-jom-ob72-intro",
+      "characterId": "jom-ob72",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Zapatero que se ha roto un brazo, según Grund.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Grund habla de los hijos que Muri tiene dificultades para alimentar.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-muri-children-ob72-intro",
+      "characterId": "muri-children-ob72",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Grund habla de los hijos que Muri tiene dificultades para alimentar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Su nombre aparece entre las personas necesitadas. No se narra una visita individual a Jom.",
+      "sourceIds": [
+        "primary211-ob72"
+      ],
+      "id": "primary211-jom-food-list",
+      "characterId": "jom-ob72",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-72"
+      },
+      "kind": "background",
+      "text": "Su nombre aparece entre las personas necesitadas. No se narra una visita individual a Jom.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Soldado de la escuadra de Noromin.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-ved-ob73-intro",
+      "characterId": "ved-ob73",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Soldado de la escuadra de Noromin.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Soldado corpulento de la escuadra.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-alaward-ob73-intro",
+      "characterId": "alaward-ob73",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Soldado corpulento de la escuadra.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Soldado alezi de ascendencia thayleña.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-vaceslv-ob73-intro",
+      "characterId": "vaceslv-ob73",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Soldado alezi de ascendencia thayleña.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Noromin le ordena permanecer en la formación.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-hid-ob73-intro",
+      "characterId": "hid-ob73",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Noromin le ordena permanecer en la formación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Capitán del pelotón, ausente cuando se da la alarma.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-deedanor-ob73-intro",
+      "characterId": "deedanor-ob73",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Capitán del pelotón, ausente cuando se da la alarma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Afirma que los spren lo han librado del dolor durante la entrega de grano.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-ob73-purple-procession-speaker-intro",
+      "characterId": "ob73-purple-procession-speaker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Afirma que los spren lo han librado del dolor durante la entrega de grano.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Se enrola por orden de Elhokar y queda asignado a la escuadra de Noromin.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-wall-guard-enlistment",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Se enrola por orden de Elhokar y queda asignado a la escuadra de Noromin.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. El capitán aún no ha llegado cuando Noromin asume el mando durante la alarma.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-deedanor-command",
+      "characterId": "deedanor-ob73",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "El capitán aún no ha llegado cuando Noromin asume el mando durante la alarma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Kaladin comenta que la hoja carece de gema y considera varias posibilidades sobre su naturaleza.",
+      "sourceIds": [
+        "primary211-ob73"
+      ],
+      "id": "primary211-celeste-blade-no-gem",
+      "characterId": "highmarshal-celeste-ob61",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-73"
+      },
+      "kind": "background",
+      "text": "Kaladin comenta que la hoja carece de gema y considera varias posibilidades sobre su naturaleza.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Mujer que vivía con Grund. Él dice que se trasladó con Seland.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-ma-ob74-intro",
+      "characterId": "ma-ob74",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Mujer que vivía con Grund. Él dice que se trasladó con Seland.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Mujer que vivía con Grund. Él dice que se ha mudado a la vieja casa del hojalatero.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-seland-ob74-intro",
+      "characterId": "seland-ob74",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Mujer que vivía con Grund. Él dice que se ha mudado a la vieja casa del hojalatero.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Recibe un paquete y le cuenta cómo se ha extendido su fama.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-ob74-raudispren-beggar-intro",
+      "characterId": "ob74-raudispren-beggar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Recibe un paquete y le cuenta cómo se ha extendido su fama.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Despierta cerca de su compañero y toma pan del paquete.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-ob74-raudispren-beggar-companion-intro",
+      "characterId": "ob74-raudispren-beggar-companion",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Despierta cerca de su compañero y toma pan del paquete.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Raudispren es el apodo usado por vecinos para la figura de abrigo blanco. Ishnah y Vathah se han hecho pasar por Velo durante el reparto.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-raudispren-reputation",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Raudispren es el apodo usado por vecinos para la figura de abrigo blanco. Ishnah y Vathah se han hecho pasar por Velo durante el reparto.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Durante la procesión oye exhortaciones y una frase dirigida a ella. El pasaje deja abierta la identidad de la voz.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-procession-voice",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Durante la procesión oye exhortaciones y una frase dirigida a ella. El pasaje deja abierta la identidad de la voz.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. La narración precisa que Muri tiene tres hijas.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-muri-three-daughters",
+      "characterId": "muri-children-ob72",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "La narración precisa que Muri tiene tres hijas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Elhokar calcula que Gavinor tendrá tres años y recuerda haberlo visto por última vez de bebé.",
+      "sourceIds": [
+        "primary211-ob74"
+      ],
+      "id": "primary211-gavinor-age-estimate",
+      "characterId": "elhokar-son",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-74"
+      },
+      "kind": "background",
+      "text": "Elhokar calcula que Gavinor tendrá tres años y recuerda haberlo visto por última vez de bebé.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -100789,6 +101927,10 @@ window.ATLAS_DATA = {
         {
           "revision": 210,
           "notes": "Se cotejan la filiación expresa de Meleran y Teshav, las menciones a los padres de Kaladin, la hija de Sah, el matrimonio de Dalinar y Evi y la filiación ya registrada de Tanalan. Se conserva aparte la referencia anterior al capitán Khal mientras falta confirmar su correspondencia."
+        },
+        {
+          "revision": 211,
+          "notes": "Se cotejan Muri y su descendencia y la precisión de que tiene tres hijas; se revisan la mención de Gavinor, la historia atribuida a Barba y la convivencia de Grund con Ma y Seland, sin inferir parentesco adicional."
         }
       ]
     }
@@ -103758,7 +104900,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 210,
+  "revision": 211,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -106440,6 +107582,30 @@ window.ATLAS_DATA = {
       "part": "ob-3a",
       "source": "primary210-ob71",
       "flashback": true
+    },
+    {
+      "id": "ob-chapter-72",
+      "bookId": "ob",
+      "chapter": 72,
+      "label": "Capítulo 72 · Catarroca",
+      "part": "ob-3a",
+      "source": "primary211-ob72"
+    },
+    {
+      "id": "ob-chapter-73",
+      "bookId": "ob",
+      "chapter": 73,
+      "label": "Capítulo 73 · Distinguir qué historias",
+      "part": "ob-3a",
+      "source": "primary211-ob73"
+    },
+    {
+      "id": "ob-chapter-74",
+      "bookId": "ob",
+      "chapter": 74,
+      "label": "Capítulo 74 · Raudispren",
+      "part": "ob-3a",
+      "source": "primary211-ob74"
     }
   ],
   "experiencePresentation": {
@@ -123026,6 +124192,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Sale del lugar de la recepción con el grupo de Elhokar."
           ]
+        },
+        {
+          "id": "primary211-73-kaladin-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Patrulla al pie interior de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrulla al pie interior de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-kaladin-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escolta la entrega de grano con otra escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta la entrega de grano con otra escuadra."
+          ]
+        },
+        {
+          "id": "primary211-73-kaladin-3",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Sube con Barba y habla con Syl cerca del baluarte.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube con Barba y habla con Syl cerca del baluarte."
+          ]
+        },
+        {
+          "id": "primary211-73-kaladin-4",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Mantiene la posición durante un ataque dirigido a otro sector de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mantiene la posición durante un ataque dirigido a otro sector de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-kaladin-5",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Vuelve al baluarte y come con la escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve al baluarte y come con la escuadra."
+          ]
         }
       ]
     },
@@ -138564,6 +139970,822 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la habitación cuando Shallan prepara los disfraces para la recepción."
           ]
+        },
+        {
+          "id": "primary211-72-shallan-1",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Muelle de carga",
+          "placeId": "place-ob72-catarroca-loading",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Entra por el muelle con Vathah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra por el muelle con Vathah."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-2",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Biblioteca",
+          "placeId": "place-ob72-catarroca-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Se oculta en la biblioteca. Shallan prepara la apariencia de Nananav.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se oculta en la biblioteca. Shallan prepara la apariencia de Nananav."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-3",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Despensa del primer piso",
+          "placeId": "place-ob72-catarroca-pantry",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Entra en la despensa y carga víveres en el montacargas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la despensa y carga víveres en el montacargas."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-4",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Huye hacia los portones en el carro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Huye hacia los portones en el carro."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-5",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Trayecto en carro desde Catarroca",
+          "placeId": "place-ob72-catarroca-escape",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-6",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado de Ringington",
+          "placeId": "place-ringington-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Llega al mercado con los víveres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al mercado con los víveres."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-7",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Entrega un saco de comida a Grund y le pide información.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega un saco de comida a Grund y le pide información."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-8",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Comprueba la situación de Muri y su familia durante el reparto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Comprueba la situación de Muri y su familia durante el reparto."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-9",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Parque del paseo Luz de Luna",
+          "placeId": "place-ob72-moonlight-walk-park",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Deja víveres para niños refugiados del parque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Deja víveres para niños refugiados del parque."
+          ]
+        },
+        {
+          "id": "primary211-72-shallan-10",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recorrido de reparto de comida",
+          "placeId": "place-ob72-kholinar-food-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Continúa el reparto hasta vaciar el carro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Continúa el reparto hasta vaciar el carro."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-1",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Vuelve a ver a Grund y le deja otro paquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a ver a Grund y le deja otro paquete."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-2",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Vuelve a llevar comida a Muri.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a llevar comida a Muri."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-3",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle del mercado de Ringington",
+          "placeId": "place-ob74-ringington-market-street",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Da el último paquete a un mendigo que la llama Raudispren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Da el último paquete a un mendigo que la llama Raudispren."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-4",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle de la procesión del Culto de los Momentos",
+          "placeId": "place-ob74-moments-procession",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Entra en la procesión con un disfraz de spren. Oye una voz sin identificar y dispersa a la multitud con una ilusión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la procesión con un disfraz de spren. Oye una voz sin identificar y dispersa a la multitud con una ilusión."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-5",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle donde Sagaz dirige los cantos",
+          "placeId": "place-ob74-wit-song-circle",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Reconoce a Sagaz dirigiendo los cantos y se marcha sin hablar con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconoce a Sagaz dirigiendo los cantos y se marcha sin hablar con él."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-6",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Habla con Elhokar, hace un retrato y se lo entrega.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Elhokar, hace un retrato y se lo entrega."
+          ]
+        },
+        {
+          "id": "primary211-74-shallan-7",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitaciones de la sastrería",
+          "placeId": "place-ob62-kholinar-tailor-upstairs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/62.Investigacion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Vuelve a su habitación y lee la invitación que trae Ishnah.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a su habitación y lee la invitación que trae Ishnah."
+          ]
         }
       ]
     },
@@ -146649,6 +148871,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sube a la muralla. Celeste le muestra a Kaladin los resplandores del campamento sitiador."
+          ]
+        },
+        {
+          "id": "primary211-73-syl-4",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Explora tras sonar la alarma y regresa al sector del pelotón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explora tras sonar la alarma y regresa al sector del pelotón."
+          ]
+        },
+        {
+          "id": "primary211-73-syl-5",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Baluarte del pelotón de Noromin",
+          "placeId": "place-ob73-wall-guard-bastion",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Acompaña a Kaladin cuando vuelve a la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Kaladin cuando vuelve a la torre."
           ]
         }
       ]
@@ -165070,6 +167388,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Sale del lugar de la recepción con el grupo de Elhokar."
           ]
+        },
+        {
+          "id": "primary211-73-adolin-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Se cruza con la patrulla. Adolin avisa discretamente a Kaladin con un gesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se cruza con la patrulla. Adolin avisa discretamente a Kaladin con un gesto."
+          ]
         }
       ]
     },
@@ -171684,6 +174050,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sale del lugar de la recepción con el grupo de Elhokar."
+          ]
+        },
+        {
+          "id": "primary211-74-elhokar-6",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Habla de su hijo con Shallan y recibe su retrato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de su hijo con Shallan y recibe su retrato."
           ]
         }
       ]
@@ -178729,6 +181143,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Habla del Corazón del Festejo y ofrece facilitar la entrada al culto. Se escabulle cuando se abre la puerta."
+          ]
+        },
+        {
+          "id": "primary211-74-wit-5",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle donde Sagaz dirige los cantos",
+          "placeId": "place-ob74-wit-song-circle",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Dirige los cantos de un grupo en la calle.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dirige los cantos de un grupo en la calle."
           ]
         }
       ]
@@ -204747,6 +207209,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Sale del lugar de la recepción con el grupo de Elhokar."
           ]
+        },
+        {
+          "id": "primary211-74-skar-6",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Taller de la sastrería",
+          "placeId": "place-ob61-kholinar-tailor-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/61.Pesadilla.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Juega a las cartas cuando Shallan vuelve a la sastrería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Juega a las cartas cuando Shallan vuelve a la sastrería."
+          ]
         }
       ]
     },
@@ -206606,6 +209116,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sale del lugar de la recepción con el grupo de Elhokar."
+          ]
+        },
+        {
+          "id": "primary211-73-drehy-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Se cruza con la patrulla. Adolin avisa discretamente a Kaladin con un gesto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se cruza con la patrulla. Adolin avisa discretamente a Kaladin con un gesto."
+          ]
+        },
+        {
+          "id": "primary211-74-drehy-6",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Taller de la sastrería",
+          "placeId": "place-ob61-kholinar-tailor-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/61.Pesadilla.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Juega a las cartas cuando Shallan vuelve a la sastrería.",
+          "needsConfirmation": [],
+          "notes": [
+            "Juega a las cartas cuando Shallan vuelve a la sastrería."
           ]
         }
       ]
@@ -214775,6 +217381,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Aparece sobre la mesa y comenta su impresión de Sagaz."
+          ]
+        },
+        {
+          "id": "primary211-72-pattern-2",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Distrae a los guardias imitando la voz de Nananav.",
+          "needsConfirmation": [],
+          "notes": [
+            "Distrae a los guardias imitando la voz de Nananav."
+          ]
+        },
+        {
+          "id": "primary211-74-pattern-6",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Su forma queda duplicada por accidente en la ilusión de la ropa de Shallan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Su forma queda duplicada por accidente en la ilusión de la ropa de Shallan."
           ]
         }
       ]
@@ -223743,6 +226445,342 @@ window.ATLAS_DATA = {
           "notes": [
             "Sube con el equipo que prepara habitaciones en el piso superior y el ático."
           ]
+        },
+        {
+          "id": "primary211-72-vathah-1",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Muelle de carga",
+          "placeId": "place-ob72-catarroca-loading",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Acompaña a Velo en el acceso.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acompaña a Velo en el acceso."
+          ]
+        },
+        {
+          "id": "primary211-72-vathah-2",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Biblioteca",
+          "placeId": "place-ob72-catarroca-library",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Se oculta en la biblioteca. Shallan prepara la apariencia de Nananav.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se oculta en la biblioteca. Shallan prepara la apariencia de Nananav."
+          ]
+        },
+        {
+          "id": "primary211-72-vathah-3",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Despensa del primer piso",
+          "placeId": "place-ob72-catarroca-pantry",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Entra en la despensa y carga víveres en el montacargas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la despensa y carga víveres en el montacargas."
+          ]
+        },
+        {
+          "id": "primary211-72-vathah-4",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Huye hacia los portones en el carro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Huye hacia los portones en el carro."
+          ]
+        },
+        {
+          "id": "primary211-72-vathah-5",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Trayecto en carro desde Catarroca",
+          "placeId": "place-ob72-catarroca-escape",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa."
+          ]
+        },
+        {
+          "id": "primary211-72-vathah-6",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado de Ringington",
+          "placeId": "place-ringington-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Llega al mercado con los víveres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al mercado con los víveres."
+          ]
+        },
+        {
+          "id": "primary211-72-vathah-10",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recorrido de reparto de comida",
+          "placeId": "place-ob72-kholinar-food-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Continúa el reparto hasta vaciar el carro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Continúa el reparto hasta vaciar el carro."
+          ]
         }
       ]
     },
@@ -224181,6 +227219,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sube con el equipo que prepara habitaciones en el piso superior y el ático."
+          ]
+        },
+        {
+          "id": "primary211-72-red-1",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Vigila el patio desde el primer piso y avisa con un silbido.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vigila el patio desde el primer piso y avisa con un silbido."
+          ]
+        },
+        {
+          "id": "primary211-72-red-4",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Huye hacia los portones en el carro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Huye hacia los portones en el carro."
+          ]
+        },
+        {
+          "id": "primary211-72-red-5",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Trayecto en carro desde Catarroca",
+          "placeId": "place-ob72-catarroca-escape",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa."
+          ]
+        },
+        {
+          "id": "primary211-72-red-6",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado de Ringington",
+          "placeId": "place-ringington-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Llega al mercado con los víveres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al mercado con los víveres."
           ]
         }
       ]
@@ -257258,6 +260488,246 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sube con el equipo que prepara habitaciones en el piso superior y el ático."
+          ]
+        },
+        {
+          "id": "primary211-72-ishnah-1",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Sala de las alfombras dañadas",
+          "placeId": "place-ob72-catarroca-carpet-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Finge ser comerciante de alfombras y habla con Nananav.",
+          "needsConfirmation": [],
+          "notes": [
+            "Finge ser comerciante de alfombras y habla con Nananav."
+          ]
+        },
+        {
+          "id": "primary211-72-ishnah-4",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Huye hacia los portones en el carro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Huye hacia los portones en el carro."
+          ]
+        },
+        {
+          "id": "primary211-72-ishnah-5",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Trayecto en carro desde Catarroca",
+          "placeId": "place-ob72-catarroca-escape",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale en el carro. Vathah retira la saeta y Shallan sana con luz tormentosa."
+          ]
+        },
+        {
+          "id": "primary211-72-ishnah-6",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado de Ringington",
+          "placeId": "place-ringington-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Llega al mercado con los víveres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al mercado con los víveres."
+          ]
+        },
+        {
+          "id": "primary211-74-ishnah-7",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitaciones de la sastrería",
+          "placeId": "place-ob62-kholinar-tailor-upstairs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/62.Investigacion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Entrega a Shallan la nota que ha recibido mientras imitaba a Velo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega a Shallan la nota que ha recibido mientras imitaba a Velo."
           ]
         }
       ]
@@ -297883,6 +301353,20 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. La narración identifica a Grund como el niño al que Velo dio comida en su primera visita al mercado.",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "name": "Grund",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          }
+        }
+      ],
       "events": [
         {
           "id": "primary209-67-ob67-grain-queue-boy-5",
@@ -297930,6 +301414,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Explica a Velo que lo excluirían de la cola."
+          ]
+        },
+        {
+          "id": "primary211-72-ob67-grain-queue-boy-7",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Recibe a Velo e identifica a vecinos que necesitan comida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a Velo e identifica a vecinos que necesitan comida."
+          ]
+        },
+        {
+          "id": "primary211-74-ob67-grain-queue-boy-1",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ringington · Tienda en ruinas donde vive Grund",
+          "placeId": "place-ob72-ringington-ruined-shop",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Le cuenta a Velo adónde se han mudado Ma y Seland.",
+          "needsConfirmation": [],
+          "notes": [
+            "Le cuenta a Velo adónde se han mudado Ma y Seland."
           ]
         }
       ]
@@ -298384,6 +301964,198 @@ window.ATLAS_DATA = {
           "notes": [
             "Se despide de Kaladin antes de que este vuelva a la recepción."
           ]
+        },
+        {
+          "id": "primary211-73-noromin-ob69-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Patrulla al pie interior de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrulla al pie interior de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-noromin-ob69-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escolta la entrega de grano con otra escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta la entrega de grano con otra escuadra."
+          ]
+        },
+        {
+          "id": "primary211-73-noromin-ob69-4",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Mantiene la posición durante un ataque dirigido a otro sector de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mantiene la posición durante un ataque dirigido a otro sector de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-noromin-ob69-5",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escucha la disculpa de Kaladin tras dar la orden de romper filas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escucha la disculpa de Kaladin tras dar la orden de romper filas."
+          ]
         }
       ]
     },
@@ -298511,6 +302283,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común durante la visita de Kaladin."
+          ]
+        },
+        {
+          "id": "primary211-73-barba-ob70-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Patrulla al pie interior de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrulla al pie interior de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-barba-ob70-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escolta la entrega de grano con otra escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta la entrega de grano con otra escuadra."
+          ]
+        },
+        {
+          "id": "primary211-73-barba-ob70-3",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Habla con Kaladin sobre Celeste y la procedencia del grano.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Kaladin sobre Celeste y la procedencia del grano."
+          ]
+        },
+        {
+          "id": "primary211-73-barba-ob70-4",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Mantiene la posición durante un ataque dirigido a otro sector de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mantiene la posición durante un ataque dirigido a otro sector de la muralla."
           ]
         }
       ]
@@ -298875,6 +302839,975 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Recibe la orden de reunir una compañía."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nananav-ob72",
+      "name": "Nananav",
+      "initial": "N",
+      "role": "Propietaria de Catarroca. Habla con Ishnah e intenta detener al grupo al descubrir el robo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-72-nananav-ob72-1",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Sala de las alfombras dañadas",
+          "placeId": "place-ob72-catarroca-carpet-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Da instrucciones a Ishnah sobre sus alfombras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Da instrucciones a Ishnah sobre sus alfombras."
+          ]
+        },
+        {
+          "id": "primary211-72-nananav-ob72-4",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Sale detrás de los intrusos y ordena que los detengan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale detrás de los intrusos y ordena que los detengan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob72-catarroca-steward",
+      "name": "Maestro de sirvientes de Catarroca",
+      "initial": "M",
+      "role": "Abre la despensa a Shallan al confundirla con Nananav.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-72-ob72-catarroca-steward-3",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Despensa del primer piso",
+          "placeId": "place-ob72-catarroca-pantry",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Abre la puerta a Shallan disfrazada de su señora.",
+          "needsConfirmation": [],
+          "notes": [
+            "Abre la puerta a Shallan disfrazada de su señora."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob72-catarroca-crossbow-guard",
+      "name": "Ballestero de Catarroca",
+      "initial": "B",
+      "role": "Dispara a Shallan durante la huida.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-72-ob72-catarroca-crossbow-guard-4",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Catarroca · Patio y terrazas",
+          "placeId": "place-ob72-catarroca-patio",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Dispara a Shallan durante la huida.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dispara a Shallan durante la huida."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob72-shin-carpet-weaver",
+      "name": "Tejedor shin de las alfombras de Catarroca",
+      "initial": "T",
+      "role": "Artesano ciego y fallecido del que habla Nananav.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob72-carpet-weaving-master",
+      "name": "Maestro del tejedor shin",
+      "initial": "M",
+      "role": "Nananav lo menciona al hablar de los años de aprendizaje del artesano.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob72-mythica-bookseller",
+      "name": "Librero que tuvo un ejemplar de Mítica",
+      "initial": "L",
+      "role": "Ishnah averigua que el ejemplar desapareció en un robo durante los disturbios.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "muri-ob72",
+      "name": "Muri",
+      "initial": "M",
+      "role": "Costurera a la que Grund recomienda llevar comida para su familia.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-72-muri-ob72-8",
+          "scene": "ob-chapter-72",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob72",
+          "sourceIds": [
+            "primary211-ob72"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-72"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml. Recibe la visita de Velo durante el reparto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe la visita de Velo durante el reparto."
+          ]
+        },
+        {
+          "id": "primary211-74-muri-ob72-2",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Choza de Muri junto a la vieja panadería",
+          "placeId": "place-ob72-muri-hut",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/72.Catarroca.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Recibe a Velo y conversa con ella.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a Velo y conversa con ella."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jom-ob72",
+      "name": "Jom",
+      "initial": "J",
+      "role": "Zapatero que se ha roto un brazo, según Grund.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "muri-children-ob72",
+      "name": "Hijos de Muri",
+      "initial": "H",
+      "role": "Grund habla de los hijos que Muri tiene dificultades para alimentar.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ved-ob73",
+      "name": "Ved",
+      "initial": "V",
+      "role": "Soldado de la escuadra de Noromin.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-73-ved-ob73-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Patrulla al pie interior de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrulla al pie interior de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-ved-ob73-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escolta la entrega de grano con otra escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta la entrega de grano con otra escuadra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alaward-ob73",
+      "name": "Alaward",
+      "initial": "A",
+      "role": "Soldado corpulento de la escuadra.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-73-alaward-ob73-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Patrulla al pie interior de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrulla al pie interior de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-alaward-ob73-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escolta la entrega de grano con otra escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta la entrega de grano con otra escuadra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vaceslv-ob73",
+      "name": "Vaceslv",
+      "initial": "V",
+      "role": "Soldado alezi de ascendencia thayleña.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-73-vaceslv-ob73-1",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle al pie de la muralla",
+          "placeId": "place-ob69-kholinar-wall-foot",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/69.Comidagratis.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Patrulla al pie interior de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Patrulla al pie interior de la muralla."
+          ]
+        },
+        {
+          "id": "primary211-73-vaceslv-ob73-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Escolta la entrega de grano con otra escuadra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Escolta la entrega de grano con otra escuadra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hid-ob73",
+      "name": "Hid",
+      "initial": "H",
+      "role": "Noromin le ordena permanecer en la formación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-73-hid-ob73-4",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Adarve de la muralla",
+          "placeId": "place-ob70-wall-guard-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/70.Altomariscal.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Mantiene la posición durante un ataque dirigido a otro sector de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mantiene la posición durante un ataque dirigido a otro sector de la muralla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deedanor-ob73",
+      "name": "Deedanor",
+      "initial": "D",
+      "role": "Capitán del pelotón, ausente cuando se da la alarma.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob73-purple-procession-speaker",
+      "name": "Orador enmascarado de violeta",
+      "initial": "O",
+      "role": "Afirma que los spren lo han librado del dolor durante la entrega de grano.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-73-ob73-purple-procession-speaker-2",
+          "scene": "ob-chapter-73",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de entrega del grano",
+          "placeId": "place-ob73-wall-grain-transfer-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob73",
+          "sourceIds": [
+            "primary211-ob73"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-73"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/73.Distinguirhistorias.xhtml. Habla en la plaza mientras el grupo se azota los antebrazos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en la plaza mientras el grupo se azota los antebrazos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma-ob74",
+      "name": "Ma",
+      "initial": "M",
+      "role": "Mujer que vivía con Grund. Él dice que se trasladó con Seland.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "seland-ob74",
+      "name": "Seland",
+      "initial": "S",
+      "role": "Mujer que vivía con Grund. Él dice que se ha mudado a la vieja casa del hojalatero.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob74-raudispren-beggar",
+      "name": "Mendigo que llama Raudispren a Velo",
+      "initial": "M",
+      "role": "Recibe un paquete y le cuenta cómo se ha extendido su fama.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-74-ob74-raudispren-beggar-3",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle del mercado de Ringington",
+          "placeId": "place-ob74-ringington-market-street",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Reconoce a Velo como Raudispren y comparte el paquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Reconoce a Velo como Raudispren y comparte el paquete."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob74-raudispren-beggar-companion",
+      "name": "Mendigo que acompaña al anciano",
+      "initial": "M",
+      "role": "Despierta cerca de su compañero y toma pan del paquete.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary211-74-ob74-raudispren-beggar-companion-3",
+          "scene": "ob-chapter-74",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calle del mercado de Ringington",
+          "placeId": "place-ob74-ringington-market-street",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary211-ob74",
+          "sourceIds": [
+            "primary211-ob74"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-74"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/74.Raudispren.xhtml. Despierta y toma pan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Despierta y toma pan."
           ]
         }
       ]
