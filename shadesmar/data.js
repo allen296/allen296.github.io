@@ -4023,6 +4023,56 @@ window.ATLAS_DATA = {
       "adolin",
       "dalinar",
       "renarin"
+    ],
+    "ob-chapter-95": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "ob87-platform-thread-spren",
+      "ob95-syl-first-radiant",
+      "pattern",
+      "shallan",
+      "syl",
+      "yelig-nar"
+    ],
+    "ob-chapter-96": [
+      "adrotagia",
+      "aladar",
+      "ashno-sages",
+      "au-nak",
+      "dalinar",
+      "fen",
+      "gawx",
+      "ialai",
+      "jasnah",
+      "kmakl-ob58",
+      "lopen",
+      "malata",
+      "navani",
+      "noura",
+      "ob65-emul-prime",
+      "ob65-tashikk-prince-brother",
+      "ob96-ialai-chair-guard",
+      "palona",
+      "princess-yezier",
+      "renarin",
+      "rock",
+      "sebarial",
+      "taravangian",
+      "yelig-nar"
+    ],
+    "ob-chapter-97": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "nalma",
+      "ob87-platform-thread-spren",
+      "ob97-nalma-husband",
+      "pattern",
+      "riino-ob97",
+      "shallan",
+      "sja-anat",
+      "syl"
     ]
   },
   "knowledgeArchive": {
@@ -14477,6 +14527,125 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/93.Kata.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Syl recuerda su vínculo con un Radiante anterior a la Traición y su huida de la ciudad de honorspren hacia el Reino Físico.",
+        "sourceIds": [
+          "primary220-ob95"
+        ],
+        "id": "primary220-archive-syl-first-bond",
+        "entryId": "spren-person-syl",
+        "value": "Syl recuerda su vínculo con un Radiante anterior a la Traición y su huida de la ciudad de honorspren hacia el Reino Físico.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-95"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Celeste y Syl describen a estos perseguidores como peligrosos en Shadesmar. Celeste dice que los charcos que se ven en el mundo físico son su saliva.",
+        "sourceIds": [
+          "primary220-ob95"
+        ],
+        "id": "primary220-archive-angerspren-cognitive",
+        "entryId": "spren-type-angerspren",
+        "value": "Celeste y Syl describen a estos perseguidores como peligrosos en Shadesmar. Celeste dice que los charcos que se ven en el mundo físico son su saliva.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-95"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Hessi recoge tres leyendas sobre tragarse una gema y plantea con cautela que Yelig-nar podría reunir las potencias.",
+        "sourceIds": [
+          "primary220-ob95"
+        ],
+        "id": "primary220-archive-yelig-gem",
+        "entryId": "spren-person-yelig-nar",
+        "value": "Hessi recoge tres leyendas sobre tragarse una gema y plantea con cautela que Yelig-nar podría reunir las potencias.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-95"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Hessi recoge sin avalar la tradición según la cual Yelig-nar consume almas.",
+        "sourceIds": [
+          "primary220-ob96"
+        ],
+        "id": "primary220-archive-yelig-souls-report",
+        "entryId": "spren-person-yelig-nar",
+        "value": "Hessi recoge sin avalar la tradición según la cual Yelig-nar consume almas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-96"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Shallan reconoce su voz en el mensaje transmitido por un glorispren corrompido. Su advertencia se registra como testimonio.",
+        "sourceIds": [
+          "primary220-ob97"
+        ],
+        "id": "primary220-archive-sja-anat-97",
+        "entryId": "spren-person-sja-anat",
+        "value": "Shallan reconoce su voz en el mensaje transmitido por un glorispren corrompido. Su advertencia se registra como testimonio.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-97"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. El ejemplar observado por Shallan tiene alas, tonos blancos y marrones y un cubo flotante. Syl lo identifica como corrompido.",
+        "sourceIds": [
+          "primary220-ob97"
+        ],
+        "id": "primary220-archive-corrupted-gloryspren",
+        "entryId": "spren-type-gloryspren",
+        "value": "El ejemplar observado por Shallan tiene alas, tonos blancos y marrones y un cubo flotante. Syl lo identifica como corrompido.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-97"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Kaladin identifica de forma tentativa a unos seres pequeños y bulbosos con lenguas que ondean.",
+        "sourceIds": [
+          "primary220-ob97"
+        ],
+        "id": "primary220-archive-cognitive-anticipationspren",
+        "entryId": "spren-type-anticipationspren",
+        "value": "Kaladin identifica de forma tentativa a unos seres pequeños y bulbosos con lenguas que ondean.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-97"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
         "supersedes": []
       }
     ],
@@ -30157,6 +30326,33 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Celeste dice que Ithi y su hermana se turnan con el moldeador de almas."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Kaladin recuerda que Nalma buscaba a su marido.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-nalma-marriage",
+      "from": "nalma",
+      "to": "ob97-nalma-husband",
+      "kind": "spouse",
+      "label": "Cónyuges",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Kaladin recuerda que Nalma buscaba a su marido."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Kaladin recuerda que Nalma buscaba a su marido."
       }
     }
   ],
@@ -68907,6 +69103,574 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Discuten la persecución por los furiaspren, la situación de Kholinar y cómo buscar un barco.",
+      "sourceIds": [
+        "primary220-ob95"
+      ],
+      "id": "primary220-peninsula-pursuit",
+      "participants": [
+        "kaladin",
+        "adolin",
+        "syl",
+        "highmarshal-celeste-ob61"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-95"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Discuten la persecución por los furiaspren, la situación de Kholinar y cómo buscar un barco.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten la persecución por los furiaspren, la situación de Kholinar y cómo buscar un barco.",
+        "pairs": [
+          [
+            "kaladin",
+            "adolin"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Durante la marcha Syl habla con Kaladin de su primer vínculo y su salida de la ciudad de honorspren.",
+      "sourceIds": [
+        "primary220-ob95"
+      ],
+      "id": "primary220-syl-first-bond-account",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-95"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Durante la marcha Syl habla con Kaladin de su primer vínculo y su salida de la ciudad de honorspren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Durante la marcha Syl habla con Kaladin de su primer vínculo y su salida de la ciudad de honorspren.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Intervenciones y respuestas sobre el rumbo de la coalición, el comercio y los fabriales.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-summit-opening",
+      "participants": [
+        "navani",
+        "sebarial",
+        "gawx",
+        "ob65-emul-prime",
+        "fen",
+        "taravangian",
+        "jasnah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Intervenciones y respuestas sobre el rumbo de la coalición, el comercio y los fabriales.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Intervenciones y respuestas sobre el rumbo de la coalición, el comercio y los fabriales.",
+        "pairs": [
+          [
+            "navani",
+            "sebarial"
+          ],
+          [
+            "gawx",
+            "ob65-emul-prime"
+          ],
+          [
+            "fen",
+            "sebarial"
+          ],
+          [
+            "navani",
+            "taravangian"
+          ],
+          [
+            "fen",
+            "navani"
+          ],
+          [
+            "fen",
+            "jasnah"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Debaten los riesgos del retorno de los Radiantes, el acceso a las Puertas Juradas y las condiciones del comercio.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-summit-oathgates",
+      "participants": [
+        "dalinar",
+        "gawx",
+        "ob65-tashikk-prince-brother",
+        "aladar",
+        "fen",
+        "ialai"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Debaten los riesgos del retorno de los Radiantes, el acceso a las Puertas Juradas y las condiciones del comercio.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Debaten los riesgos del retorno de los Radiantes, el acceso a las Puertas Juradas y las condiciones del comercio.",
+        "pairs": [
+          [
+            "dalinar",
+            "gawx"
+          ],
+          [
+            "ob65-tashikk-prince-brother",
+            "aladar"
+          ],
+          [
+            "fen",
+            "ialai"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Navani propone distribuir tareas entre las delegaciones. Fen consulta con la mirada a su consorte y Palona auxilia a Sebarial.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-summit-coordination",
+      "participants": [
+        "navani",
+        "gawx",
+        "fen",
+        "ob65-emul-prime",
+        "aladar",
+        "palona",
+        "sebarial",
+        "kmakl-ob58"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Navani propone distribuir tareas entre las delegaciones. Fen consulta con la mirada a su consorte y Palona auxilia a Sebarial.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani propone distribuir tareas entre las delegaciones. Fen consulta con la mirada a su consorte y Palona auxilia a Sebarial.",
+        "pairs": [
+          [
+            "navani",
+            "gawx"
+          ],
+          [
+            "navani",
+            "fen"
+          ],
+          [
+            "navani",
+            "ob65-emul-prime"
+          ],
+          [
+            "ob65-emul-prime",
+            "aladar"
+          ],
+          [
+            "palona",
+            "sebarial"
+          ],
+          [
+            "fen",
+            "kmakl-ob58"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Discuten qué territorios defender y qué apoyo aportar a Jah Keved.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-summit-defense",
+      "participants": [
+        "noura",
+        "ob65-emul-prime",
+        "gawx",
+        "dalinar",
+        "taravangian"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Discuten qué territorios defender y qué apoyo aportar a Jah Keved.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten qué territorios defender y qué apoyo aportar a Jah Keved.",
+        "pairs": [
+          [
+            "noura",
+            "ob65-emul-prime"
+          ],
+          [
+            "noura",
+            "gawx"
+          ],
+          [
+            "dalinar",
+            "taravangian"
+          ],
+          [
+            "gawx",
+            "taravangian"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Durante el receso conversan sobre las concesiones y la posibilidad de visitar Vedenar.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-summit-recess",
+      "participants": [
+        "navani",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Durante el receso conversan sobre las concesiones y la posibilidad de visitar Vedenar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Durante el receso conversan sobre las concesiones y la posibilidad de visitar Vedenar.",
+        "pairs": [
+          [
+            "navani",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Kaladin guía a Nalma y luego trata de contener la hemorragia mientras ella le pide que corra.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-nalma-fugitive-memory",
+      "participants": [
+        "kaladin",
+        "nalma"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Recuerdo de la esclavitud de Kaladin, anterior al presente. Sin fecha exacta."
+      },
+      "type": "conversation",
+      "summary": "Kaladin guía a Nalma y luego trata de contener la hemorragia mientras ella le pide que corra.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin guía a Nalma y luego trata de contener la hemorragia mientras ella le pide que corra.",
+        "pairs": [
+          [
+            "kaladin",
+            "nalma"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Riino toma a Kaladin por un cliente, le muestra el orbe y le pregunta qué ha visto.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-riino-oracle",
+      "participants": [
+        "kaladin",
+        "riino-ob97"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Riino toma a Kaladin por un cliente, le muestra el orbe y le pregunta qué ha visto.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Riino toma a Kaladin por un cliente, le muestra el orbe y le pregunta qué ha visto.",
+        "pairs": [
+          [
+            "kaladin",
+            "riino-ob97"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Adolin acompaña a Shallan mientras Syl y Patrón comparan cómo perciben el mundo.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-shadesmar-lighthouse-wait",
+      "participants": [
+        "shallan",
+        "adolin",
+        "syl",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Adolin acompaña a Shallan mientras Syl y Patrón comparan cómo perciben el mundo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin acompaña a Shallan mientras Syl y Patrón comparan cómo perciben el mundo.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "syl",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Shallan y Adolin negocian con Riino. Adolin lleva alimento a Kaladin y Celeste comenta la visión con él.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-riino-trade",
+      "participants": [
+        "shallan",
+        "riino-ob97",
+        "adolin",
+        "kaladin",
+        "highmarshal-celeste-ob61"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Shallan y Adolin negocian con Riino. Adolin lleva alimento a Kaladin y Celeste comenta la visión con él.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan y Adolin negocian con Riino. Adolin lleva alimento a Kaladin y Celeste comenta la visión con él.",
+        "pairs": [
+          [
+            "shallan",
+            "riino-ob97"
+          ],
+          [
+            "adolin",
+            "riino-ob97"
+          ],
+          [
+            "adolin",
+            "kaladin"
+          ],
+          [
+            "kaladin",
+            "highmarshal-celeste-ob61"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Comparten información sobre el orbe, Rathalas y las posibles rutas de regreso mientras esperan el barco.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-riino-onward-plan",
+      "participants": [
+        "kaladin",
+        "shallan",
+        "adolin",
+        "highmarshal-celeste-ob61",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Comparten información sobre el orbe, Rathalas y las posibles rutas de regreso mientras esperan el barco.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Comparten información sobre el orbe, Rathalas y las posibles rutas de regreso mientras esperan el barco.",
+        "pairs": [
+          [
+            "kaladin",
+            "shallan"
+          ],
+          [
+            "kaladin",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "highmarshal-celeste-ob61"
+          ],
+          [
+            "highmarshal-celeste-ob61",
+            "pattern"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -104951,6 +105715,182 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Cuenta que llegó persiguiendo a alguien y que cruzó por la Perpendicularidad de Cultivación, en los Picos Comecuernos del lado físico.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Radiante anciano al que Syl vinculó poco después de nacer. Syl cuenta que murió en combate.",
+      "sourceIds": [
+        "primary220-ob95"
+      ],
+      "id": "primary220-ob95-syl-first-radiant-intro",
+      "characterId": "ob95-syl-first-radiant",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-95"
+      },
+      "kind": "background",
+      "text": "Radiante anciano al que Syl vinculó poco después de nacer. Syl cuenta que murió en combate.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Relata que vivió en una ciudad de honorspren al oeste, que sobrevivió a la Traición sin vínculo y que el Padre Tormenta la despertó y la llevó a casa.",
+      "sourceIds": [
+        "primary220-ob95"
+      ],
+      "id": "primary220-syl-city-and-recreance",
+      "characterId": "syl",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-95"
+      },
+      "kind": "background",
+      "text": "Relata que vivió en una ciudad de honorspren al oeste, que sobrevivió a la Traición sin vínculo y que el Padre Tormenta la despertó y la llevó a casa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Según Syl, murió en una batalla antes de la Traición.",
+      "sourceIds": [
+        "primary220-ob95"
+      ],
+      "id": "primary220-syl-first-radiant-death",
+      "characterId": "ob95-syl-first-radiant",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-95"
+      },
+      "kind": "background",
+      "text": "Según Syl, murió en una batalla antes de la Traición.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Guardia con cicatrices que lleva la silla de Ialai.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-ob96-ialai-chair-guard-intro",
+      "characterId": "ob96-ialai-chair-guard",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "kind": "background",
+      "text": "Guardia con cicatrices que lleva la silla de Ialai.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Navani lo cita entre las personas dispensadas de cargar su silla.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-summit-chair-exemption",
+      "characterId": "ashno-sages",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "kind": "background",
+      "text": "Navani lo cita entre las personas dispensadas de cargar su silla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Navani identifica al Supremo de Emul como Vexil el Sabio.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-emul-prime-vexil",
+      "characterId": "ob65-emul-prime",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "kind": "background",
+      "text": "Navani identifica al Supremo de Emul como Vexil el Sabio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Informa de la caída de Kholinar y de que su Puerta Jurada se ha bloqueado desde Urithiru.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-jasnah-kholinar-gate-block",
+      "characterId": "jasnah",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "kind": "background",
+      "text": "Informa de la caída de Kholinar y de que su Puerta Jurada se ha bloqueado desde Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Anuncia que Azir desplegará cinco batallones en Jah Keved.",
+      "sourceIds": [
+        "primary220-ob96"
+      ],
+      "id": "primary220-gawx-five-battalions",
+      "characterId": "gawx",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-96"
+      },
+      "kind": "background",
+      "text": "Anuncia que Azir desplegará cinco batallones en Jah Keved.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Kaladin había prometido ayudar a Nalma a encontrar a su marido, vendido a otra casa.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-ob97-nalma-husband-intro",
+      "characterId": "ob97-nalma-husband",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "kind": "background",
+      "text": "Kaladin había prometido ayudar a Nalma a encontrar a su marido, vendido a otra casa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Farero shin que ofrece lecturas de fortuna y comercia con los viajeros.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-riino-ob97-intro",
+      "characterId": "riino-ob97",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "kind": "background",
+      "text": "Farero shin que ofrece lecturas de fortuna y comercia con los viajeros.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Cuenta que su madre murió en Rathalas. La versión que él conoce atribuye la muerte a rebeldes y el incendio a Sadeas.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-adolin-evi-account",
+      "characterId": "adolin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "kind": "background",
+      "text": "Cuenta que su madre murió en Rathalas. La versión que él conoce atribuye la muerte a rebeldes y el incendio a Sadeas.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -107644,6 +108584,10 @@ window.ATLAS_DATA = {
         {
           "revision": 219,
           "notes": "Se revisan los encuentros de Dalinar con Adolin y Renarin y el recuerdo de Evi en el fuerte oriental."
+        },
+        {
+          "revision": 220,
+          "notes": "Se registra al marido de Nalma y se revisan las referencias a los vínculos de Syl, la familia Kholin, el consorte de Fen, el hermano del príncipe de Tashikk y el relato de Adolin sobre Evi."
         }
       ]
     }
@@ -110753,6 +111697,23 @@ window.ATLAS_DATA = {
       "notes": [
         "Moash lo mata mientras intenta pronunciar el Ideal con Gavinor a su lado."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Nalma muere en la fuga recordada por Kaladin.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-death-nalma",
+      "characterId": "nalma",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-97"
+      },
+      "notes": [
+        "Muerte en el recuerdo de la fuga."
+      ]
     }
   ],
   "bookId": "wok",
@@ -110783,7 +111744,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 219,
+  "revision": 220,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -113689,6 +114650,31 @@ window.ATLAS_DATA = {
       "part": "ob-4a",
       "source": "primary219-ob94",
       "flashback": true
+    },
+    {
+      "id": "ob-chapter-95",
+      "bookId": "ob",
+      "chapter": 95,
+      "label": "Capítulo 95 · Vacío ineludible",
+      "part": "ob-4a",
+      "source": "primary220-ob95"
+    },
+    {
+      "id": "ob-chapter-96",
+      "bookId": "ob",
+      "chapter": 96,
+      "label": "Capítulo 96 · Piezas de un fabrial",
+      "part": "ob-4a",
+      "source": "primary220-ob96"
+    },
+    {
+      "id": "ob-chapter-97",
+      "bookId": "ob",
+      "chapter": 97,
+      "label": "Capítulo 97 · Riino",
+      "part": "ob-4a",
+      "source": "primary220-ob97",
+      "mixedFlashback": true
     }
   ],
   "experiencePresentation": {
@@ -114934,6 +115920,28 @@ window.ATLAS_DATA = {
           344.038
         ],
         "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Kaladin toca el orbe y experimenta imágenes de Dalinar, nueve sombras y una ciudad que Shallan reconoce en su dibujo.",
+      "sourceIds": [
+        "primary220-ob97"
+      ],
+      "id": "primary220-kaladin-orb-vision",
+      "characterId": "kaladin",
+      "sceneId": "ob-chapter-97",
+      "type": "vision",
+      "experiencedPlace": "Imágenes de Dalinar y Ciudad Thaylen vistas a través del orbe",
+      "physicalPlaceId": "place-ob97-shadesmar-lighthouse-orb",
+      "notes": [
+        "El cuerpo de Kaladin permanece en la habitación del faro."
+      ],
+      "entryAnchor": {
+        "placeId": "place-ob97-shadesmar-lighthouse-orb",
+        "name": "Shadesmar · Habitación del orbe de Riino",
+        "xy": null,
+        "coordinateStatus": "unlocated"
       }
     }
   ],
@@ -132141,6 +133149,276 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
+        },
+        {
+          "id": "primary220-95-kaladin-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-kaladin-1",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sotobosque de la fuga de Kaladin y Nalma",
+          "placeId": "place-ob97-fugitive-woods",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-fugitive-woods",
+          "coordinateAnchorName": "Sotobosque de la fuga de Kaladin y Nalma",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Recuerdo de la esclavitud de Kaladin, anterior al presente. Sin fecha exacta."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Guía la fuga y permanece con Nalma tras saltar la trampa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Guía la fuga y permanece con Nalma tras saltar la trampa."
+          ]
+        },
+        {
+          "id": "primary220-97-kaladin-2",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Exterior del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-exterior",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
+          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Explora el exterior del faro y mira por una ventana.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explora el exterior del faro y mira por una ventana."
+          ]
+        },
+        {
+          "id": "primary220-97-kaladin-3",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Entra y habla con el farero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra y habla con el farero."
+          ]
+        },
+        {
+          "id": "primary220-97-kaladin-4",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Habitación del orbe de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-orb",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-orb",
+          "coordinateAnchorName": "Shadesmar · Habitación del orbe de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Entra en la habitación del orbe durante la alta tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la habitación del orbe durante la alta tormenta."
+          ]
+        },
+        {
+          "id": "primary220-97-kaladin-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Coincide con el grupo en la sala principal del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Coincide con el grupo en la sala principal del faro."
           ]
         }
       ]
@@ -149966,6 +151244,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Está con el grupo mientras consideran cómo salir de Shadesmar."
           ]
+        },
+        {
+          "id": "primary220-95-shallan-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-shallan-2",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio junto al faro",
+          "placeId": "place-ob97-shadesmar-mushroom-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Espera cerca del faro mientras Kaladin explora.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera cerca del faro mientras Kaladin explora."
+          ]
+        },
+        {
+          "id": "primary220-97-shallan-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Coincide con el grupo en la sala principal del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Coincide con el grupo en la sala principal del faro."
+          ]
         }
       ]
     },
@@ -151884,6 +153297,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Activa el viaje de regreso a Urithiru."
+          ]
+        },
+        {
+          "id": "primary220-96-jasnah-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -159065,6 +160526,141 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está con el grupo mientras consideran cómo salir de Shadesmar."
+          ]
+        },
+        {
+          "id": "primary220-95-syl-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-syl-2",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio junto al faro",
+          "placeId": "place-ob97-shadesmar-mushroom-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Espera cerca del faro mientras Kaladin explora.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera cerca del faro mientras Kaladin explora."
+          ]
+        },
+        {
+          "id": "primary220-97-syl-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Exterior del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-exterior",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
+          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Vigila el mar de cuentas desde la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vigila el mar de cuentas desde la orilla."
           ]
         }
       ]
@@ -170511,6 +172107,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Pregunta qué decía Evi de él y se aferra a Renarin mientras llora."
           ]
+        },
+        {
+          "id": "primary220-96-dalinar-1",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor hacia la cumbre",
+          "placeId": "place-ob96-urithiru-summit-lift",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Sube hacia el salón con su silla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube hacia el salón con su silla."
+          ]
+        },
+        {
+          "id": "primary220-96-dalinar-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -180081,6 +181773,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Acude al aposento con su hermano al oír el revuelo."
           ]
+        },
+        {
+          "id": "primary220-95-adolin-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-adolin-2",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio junto al faro",
+          "placeId": "place-ob97-shadesmar-mushroom-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Espera cerca del faro mientras Kaladin explora.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera cerca del faro mientras Kaladin explora."
+          ]
+        },
+        {
+          "id": "primary220-97-adolin-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Coincide con el grupo en la sala principal del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Coincide con el grupo en la sala principal del faro."
+          ]
         }
       ]
     },
@@ -183735,6 +185562,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Regresa con una botella de vino y abraza a Dalinar."
+          ]
+        },
+        {
+          "id": "primary220-96-renarin-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -193927,6 +195802,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la sala común cuando llega el mensaje interrumpido desde Kholinar."
           ]
+        },
+        {
+          "id": "primary220-96-navani-1",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor hacia la cumbre",
+          "placeId": "place-ob96-urithiru-summit-lift",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Sube hacia el salón con su silla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube hacia el salón con su silla."
+          ]
+        },
+        {
+          "id": "primary220-96-navani-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -197561,6 +199532,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sirve bebidas y les pide hablar de lo que les preocupa."
+          ]
+        },
+        {
+          "id": "primary220-96-rock-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -207806,6 +209825,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la sala común cuando llega el mensaje interrumpido desde Kholinar."
           ]
+        },
+        {
+          "id": "primary220-96-taravangian-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -211585,6 +213652,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Comenta el vuelo y después se aparta del grupo."
+          ]
+        },
+        {
+          "id": "primary220-96-lopen-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -232592,6 +234707,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Está con el grupo mientras consideran cómo salir de Shadesmar."
           ]
+        },
+        {
+          "id": "primary220-95-pattern-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-pattern-2",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio junto al faro",
+          "placeId": "place-ob97-shadesmar-mushroom-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Espera cerca del faro mientras Kaladin explora.",
+          "needsConfirmation": [],
+          "notes": [
+            "Espera cerca del faro mientras Kaladin explora."
+          ]
+        },
+        {
+          "id": "primary220-97-pattern-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Coincide con el grupo en la sala principal del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Coincide con el grupo en la sala principal del faro."
+          ]
         }
       ]
     },
@@ -233571,6 +235821,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común cuando llega el mensaje interrumpido desde Kholinar."
+          ]
+        },
+        {
+          "id": "primary220-96-aladar-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -245044,6 +247342,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la tienda de mando cuando Dalinar vuelve de la emboscada."
           ]
+        },
+        {
+          "id": "primary220-96-ialai-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -246711,6 +249057,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla con Shallan desde la terraza."
           ]
+        },
+        {
+          "id": "primary220-96-sebarial-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -247436,6 +249830,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sigue en la sala cuando entra Adolin, quien la saluda."
+          ]
+        },
+        {
+          "id": "primary220-96-palona-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -257743,6 +260185,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Participa en una visión compartida. La fortaleza pertenece a la recreación."
           ]
+        },
+        {
+          "id": "primary220-96-gawx-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -260164,6 +262654,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "La comitiva llega físicamente a Ciudad Thaylen por la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary220-96-adrotagia-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -270781,6 +273319,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Entrega a Dalinar los ensayos y defiende el plan de presentar los argumentos por escrito."
           ]
+        },
+        {
+          "id": "primary220-96-fen-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -273051,6 +275637,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Kaladin recuerda su mano y que la fuga duró cinco días."
           ]
+        },
+        {
+          "id": "primary220-97-nalma-1",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sotobosque de la fuga de Kaladin y Nalma",
+          "placeId": "place-ob97-fugitive-woods",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-fugitive-woods",
+          "coordinateAnchorName": "Sotobosque de la fuga de Kaladin y Nalma",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Recuerdo de la esclavitud de Kaladin, anterior al presente. Sin fecha exacta."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Trata de escapar y muere tras quedar atrapada en un cepo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Trata de escapar y muere tras quedar atrapada en un cepo."
+          ]
         }
       ]
     },
@@ -274582,6 +277213,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Activa el intercambio del edificio de control con su hoja esquirlada."
+          ]
+        },
+        {
+          "id": "primary220-96-malata-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -290665,6 +293344,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Acompaña de vuelta a Dalinar."
           ]
+        },
+        {
+          "id": "primary220-96-noura-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -291068,6 +293795,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Habla por vinculacaña con Dalinar después de Fen."
+          ]
+        },
+        {
+          "id": "primary220-96-princess-yezier-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
           ]
         }
       ]
@@ -293783,7 +296558,56 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Se conserva la referencia narrativa sin asignar una posición cartográfica por el mero hecho de habilitar la ficha.",
-      "events": []
+      "events": [
+        {
+          "id": "primary220-96-au-nak-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        }
+      ]
     },
     {
       "id": "derethil",
@@ -317101,6 +319925,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el patio de Talenelat durante la visita. Fen y su consorte se retiran antes del duelo."
           ]
+        },
+        {
+          "id": "primary220-96-kmakl-ob58-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
         }
       ]
     },
@@ -318681,6 +321553,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Está con el grupo mientras consideran cómo salir de Shadesmar."
           ]
+        },
+        {
+          "id": "primary220-95-highmarshal-celeste-ob61-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-highmarshal-celeste-ob61-2",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Exterior del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-exterior",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
+          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Mira el mar de cuentas mientras el grupo espera.",
+          "needsConfirmation": [],
+          "notes": [
+            "Mira el mar de cuentas mientras el grupo espera."
+          ]
+        },
+        {
+          "id": "primary220-97-highmarshal-celeste-ob61-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Coincide con el grupo en la sala principal del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Coincide con el grupo en la sala principal del faro."
+          ]
         }
       ]
     },
@@ -319555,7 +322562,56 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary220-96-ob65-tashikk-prince-brother-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        }
+      ]
     },
     {
       "id": "ob65-emul-prime",
@@ -319565,7 +322621,56 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary220-96-ob65-emul-prime-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        }
+      ]
     },
     {
       "id": "ob65-emul-sage",
@@ -325315,6 +328420,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Acompaña a Adolin cuando baja a la orilla."
           ]
+        },
+        {
+          "id": "primary220-95-ob87-platform-thread-spren-1",
+          "scene": "ob-chapter-95",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "placeId": "place-ob95-shadesmar-peninsula",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob95",
+          "sourceIds": [
+            "primary220-ob95"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
+          "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-95"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml. Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Avanza al sur por la península de obsidiana. Al final de la marcha el grupo distingue un faro a lo lejos."
+          ]
+        },
+        {
+          "id": "primary220-97-ob87-platform-thread-spren-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Exterior del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-exterior",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
+          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Permanece en el umbral del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en el umbral del faro."
+          ]
         }
       ]
     },
@@ -326792,6 +329987,231 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está presente cuando Szeth ejecuta al ministro con la espada."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob95-syl-first-radiant",
+      "name": "Primer Radiante vinculado a Syl",
+      "initial": "P",
+      "role": "Radiante anciano al que Syl vinculó poco después de nacer. Syl cuenta que murió en combate.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob96-ialai-chair-guard",
+      "name": "Guardia de Ialai en la cumbre",
+      "initial": "G",
+      "role": "Guardia con cicatrices que lleva la silla de Ialai.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary220-96-ob96-ialai-chair-guard-2",
+          "scene": "ob-chapter-96",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salón semicircular de la primera cumbre de monarcas",
+          "placeId": "place-ob96-urithiru-summit-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob96",
+          "sourceIds": [
+            "primary220-ob96"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-96"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/96.Piezas.xhtml. Está presente en el salón durante la primera cumbre de monarcas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob97-nalma-husband",
+      "name": "Marido de Nalma",
+      "initial": "M",
+      "role": "Kaladin había prometido ayudar a Nalma a encontrar a su marido, vendido a otra casa.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "riino-ob97",
+      "name": "Riino",
+      "initial": "R",
+      "role": "Farero shin que ofrece lecturas de fortuna y comercia con los viajeros.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary220-97-riino-ob97-3",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Descubre a Kaladin mientras lee y lo llama.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descubre a Kaladin mientras lee y lo llama."
+          ]
+        },
+        {
+          "id": "primary220-97-riino-ob97-4",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Habitación del orbe de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-orb",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-orb",
+          "coordinateAnchorName": "Shadesmar · Habitación del orbe de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Entra en la habitación del orbe durante la alta tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la habitación del orbe durante la alta tormenta."
+          ]
+        },
+        {
+          "id": "primary220-97-riino-ob97-5",
+          "scene": "ob-chapter-97",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Sala principal del faro de Riino",
+          "placeId": "place-ob97-shadesmar-lighthouse-hall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary220-ob97",
+          "sourceIds": [
+            "primary220-ob97"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
+          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-97"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml. Coincide con el grupo en la sala principal del faro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Coincide con el grupo en la sala principal del faro."
           ]
         }
       ]
