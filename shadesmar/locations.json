@@ -3615,6 +3615,52 @@
       "princess-yezier",
       "snoxil-ob65",
       "sunmaker"
+    ],
+    "ob-chapter-66": [
+      "adolin",
+      "dalinar",
+      "evi",
+      "gavilar",
+      "kelek-puuli",
+      "nightwatcher",
+      "ob66-ledge-guard",
+      "ob66-treaty-scribe",
+      "ob66-veden-highprince",
+      "ob66-veden-king",
+      "renarin",
+      "sadeas",
+      "tanalan-younger",
+      "teleb",
+      "toh"
+    ],
+    "ob-chapter-67": [
+      "adolin",
+      "aesudan",
+      "elhokar",
+      "elhokar-son",
+      "ishnah",
+      "kaladin",
+      "kaves-kholin-ob67",
+      "mishim-story-ob67",
+      "nomon-story-ob67",
+      "ob67-coat-seamstress",
+      "ob67-grain-queue-boy",
+      "ob67-market-accountant-husband",
+      "ob67-tailor-accountant",
+      "salas-story-ob67",
+      "shallan",
+      "tsa-son-story-ob67",
+      "tsa-story-ob67",
+      "velalant-lord-ob67",
+      "wit"
+    ],
+    "ob-chapter-68": [
+      "ob68-chouta-innkeeper",
+      "ob68-heart-of-the-revel",
+      "ob68-sibling-epigraph",
+      "pattern",
+      "shallan",
+      "wit"
     ]
   },
   "knowledgeArchive": {
@@ -4076,6 +4122,24 @@
       {
         "id": "spren-person-kholinar-shrieking-phenomenon-ob62",
         "section": "spren-individuals"
+      },
+      {
+        "id": "spren-person-heart-of-the-revel-ob68",
+        "section": "spren-individuals",
+        "characterId": "ob68-heart-of-the-revel",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        }
+      },
+      {
+        "id": "spren-person-sibling-epigraph-ob68",
+        "section": "spren-individuals",
+        "characterId": "ob68-sibling-epigraph",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        }
       }
     ],
     "facts": [
@@ -12714,6 +12778,210 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/65.Veredicto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Evi contempla la posibilidad de pedirle inteligencia mediante la Antigua Magia. Lo plantea al discutir con Dalinar en el recuerdo.",
+        "sourceIds": [
+          "primary209-ob66"
+        ],
+        "id": "primary209-archive-evi-nightwatcher",
+        "entryId": "spren-person-nightwatcher",
+        "value": "Evi contempla la posibilidad de pedirle inteligencia mediante la Antigua Magia. Lo plantea al discutir con Dalinar en el recuerdo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-66"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Al salir Dalinar de la sala aparecen vergüenzaspren con forma de pétalos.",
+        "sourceIds": [
+          "primary209-ob66"
+        ],
+        "id": "primary209-archive-dalinar-shamespren",
+        "entryId": "spren-type-shamespren",
+        "value": "Al salir Dalinar de la sala aparecen vergüenzaspren con forma de pétalos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-66"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Dalinar invoca a Kelek durante el desacuerdo con Evi.",
+        "sourceIds": [
+          "primary209-ob66"
+        ],
+        "id": "primary209-archive-kelek-border-invocation",
+        "entryId": "herald-kelek-puuli",
+        "value": "Dalinar invoca a Kelek durante el desacuerdo con Evi.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-66"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Shallan observa que el glorispren de Elhokar tiene el aspecto habitual.",
+        "sourceIds": [
+          "primary209-ob67"
+        ],
+        "id": "primary209-archive-kholinar-glory",
+        "entryId": "spren-type-gloryspren",
+        "value": "Shallan observa que el glorispren de Elhokar tiene el aspecto habitual.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-67"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Junto al reparto algunos parecen charcos de sangre y otros son oscuros con destellos rojos al burbujear.",
+        "sourceIds": [
+          "primary209-ob67"
+        ],
+        "id": "primary209-archive-kholinar-anger",
+        "entryId": "spren-type-angerspren",
+        "value": "Junto al reparto algunos parecen charcos de sangre y otros son oscuros con destellos rojos al burbujear.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-67"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Aparecen al apagarse la protesta al final del reparto de cereal.",
+        "sourceIds": [
+          "primary209-ob67"
+        ],
+        "id": "primary209-archive-kholinar-exhaustion",
+        "entryId": "spren-type-exhaustionspren",
+        "value": "Aparecen al apagarse la protesta al final del reparto de cereal.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-67"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. En el cuento, Mishim y Tsa atribuyen historias a los estrellaspren.",
+        "sourceIds": [
+          "primary209-ob67"
+        ],
+        "id": "primary209-archive-mishim-starspren",
+        "entryId": "spren-type-starspren",
+        "value": "En el cuento, Mishim y Tsa atribuyen historias a los estrellaspren.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-67"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sagaz describe al Deshecho por el nombre que utiliza el culto y habla de su influencia en los banquetes.",
+        "sourceIds": [
+          "primary209-ob68"
+        ],
+        "id": "primary209-archive-heart-of-the-revel-ob68",
+        "entryId": "spren-person-heart-of-the-revel-ob68",
+        "value": "Sagaz describe al Deshecho por el nombre que utiliza el culto y habla de su influencia en los banquetes.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sagaz describe al Deshecho por el nombre que utiliza el culto y habla de su influencia en los banquetes.",
+        "sourceIds": [
+          "primary209-ob68"
+        ],
+        "id": "primary209-archive-heart-of-the-revel-ob68-name",
+        "entryId": "spren-person-heart-of-the-revel-ob68",
+        "value": "Corazón del Festejo",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. El epígrafe alude al Hermano en el contexto de una investigación sobre spren. La causa de su retirada queda abierta.",
+        "sourceIds": [
+          "primary209-ob68"
+        ],
+        "id": "primary209-archive-sibling-epigraph-ob68",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "El epígrafe alude al Hermano en el contexto de una investigación sobre spren. La causa de su retirada queda abierta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. El epígrafe alude al Hermano en el contexto de una investigación sobre spren. La causa de su retirada queda abierta.",
+        "sourceIds": [
+          "primary209-ob68"
+        ],
+        "id": "primary209-archive-sibling-epigraph-ob68-name",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "El Hermano",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Shallan invoca a Vev al bromear con Sagaz en el reservado.",
+        "sourceIds": [
+          "primary209-ob68"
+        ],
+        "id": "primary209-archive-vev-invocation",
+        "entryId": "herald-vedel-historical-codex",
+        "value": "Shallan invoca a Vev al bromear con Sagaz en el reservado.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
         "supersedes": []
       }
     ],
@@ -28171,6 +28439,87 @@
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Noura identifica al embajador de Tashikk como hermano del príncipe."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Shallan lo recuerda como pariente lejano de Elhokar. El grado exacto queda sin precisar.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-kaves-elhokar",
+      "from": "elhokar",
+      "to": "kaves-kholin-ob67",
+      "kind": "relative",
+      "label": "Parientes lejanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Shallan lo recuerda como pariente lejano de Elhokar. El grado exacto queda sin precisar."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Shallan lo recuerda como pariente lejano de Elhokar. El grado exacto queda sin precisar."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Shallan lo recuerda como pariente lejano de Adolin. El grado exacto queda sin precisar.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-kaves-adolin",
+      "from": "adolin",
+      "to": "kaves-kholin-ob67",
+      "kind": "relative",
+      "label": "Parientes lejanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Shallan lo recuerda como pariente lejano de Adolin. El grado exacto queda sin precisar."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Shallan lo recuerda como pariente lejano de Adolin. El grado exacto queda sin precisar."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. La narración identifica al sastre como marido de la mujer que lleva las cuentas.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-tailor-accounts-spouses",
+      "from": "ob67-tailor-accountant",
+      "to": "ob67-market-accountant-husband",
+      "kind": "spouse",
+      "label": "Matrimonio",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "La narración identifica al sastre como marido de la mujer que lleva las cuentas."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "La narración identifica al sastre como marido de la mujer que lleva las cuentas."
       }
     }
   ],
@@ -62971,6 +63320,405 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Dalinar enseña a Adolin la defensa de la fortaleza y le explica el tratado fronterizo.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-frontier-strategy",
+      "participants": [
+        "dalinar",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar enseña a Adolin la defensa de la fortaleza y le explica el tratado fronterizo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar enseña a Adolin la defensa de la fortaleza y le explica el tratado fronterizo.",
+        "pairs": [
+          [
+            "dalinar",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. En una carta enviada por vinculacaña, Gavilar ordena a Dalinar marchar contra la rebelión de Rathalas. Evi lee el mensaje.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-gavilar-orders",
+      "participants": [
+        "gavilar",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "message",
+      "summary": "En una carta enviada por vinculacaña, Gavilar ordena a Dalinar marchar contra la rebelión de Rathalas. Evi lee el mensaje.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "En una carta enviada por vinculacaña, Gavilar ordena a Dalinar marchar contra la rebelión de Rathalas. Evi lee el mensaje.",
+        "pairs": [
+          [
+            "gavilar",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Evi habla con Adolin antes de su lección y discute con Dalinar sobre Renarin y el regreso de la familia a Kholinar.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-border-family",
+      "participants": [
+        "evi",
+        "adolin",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 11,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Evi habla con Adolin antes de su lección y discute con Dalinar sobre Renarin y el regreso de la familia a Kholinar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Evi habla con Adolin antes de su lección y discute con Dalinar sobre Renarin y el regreso de la familia a Kholinar.",
+        "pairs": [
+          [
+            "evi",
+            "adolin"
+          ],
+          [
+            "evi",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Discuten cómo investigar el culto, la Guardia de la Muralla y las casas con guardias propios.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-mission-recast",
+      "participants": [
+        "elhokar",
+        "shallan",
+        "adolin",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Discuten cómo investigar el culto, la Guardia de la Muralla y las casas con guardias propios.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten cómo investigar el culto, la Guardia de la Muralla y las casas con guardias propios.",
+        "pairs": [
+          [
+            "elhokar",
+            "shallan"
+          ],
+          [
+            "elhokar",
+            "adolin"
+          ],
+          [
+            "elhokar",
+            "kaladin"
+          ],
+          [
+            "kaladin",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Velo consulta en las tiendas de ropa y pregunta a la costurera por el grano.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-market-tailors",
+      "participants": [
+        "shallan",
+        "ob67-tailor-accountant",
+        "ob67-coat-seamstress"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Velo consulta en las tiendas de ropa y pregunta a la costurera por el grano.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Velo consulta en las tiendas de ropa y pregunta a la costurera por el grano.",
+        "pairs": [
+          [
+            "shallan",
+            "ob67-tailor-accountant"
+          ],
+          [
+            "shallan",
+            "ob67-coat-seamstress"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Velo le ofrece comida y el niño le cuenta cómo funciona la cola.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-grain-queue",
+      "participants": [
+        "shallan",
+        "ob67-grain-queue-boy"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Velo le ofrece comida y el niño le cuenta cómo funciona la cola.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Velo le ofrece comida y el niño le cuenta cómo funciona la cola.",
+        "pairs": [
+          [
+            "shallan",
+            "ob67-grain-queue-boy"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Shallan habla con Sagaz después del relato y él propone ir a comer.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-mishim-after-story",
+      "participants": [
+        "shallan",
+        "wit"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Shallan habla con Sagaz después del relato y él propone ir a comer.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan habla con Sagaz después del relato y él propone ir a comer.",
+        "pairs": [
+          [
+            "shallan",
+            "wit"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. El tabernero discute con Sagaz y atiende a Shallan en el reservado.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-tavern-service",
+      "participants": [
+        "wit",
+        "ob68-chouta-innkeeper",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El tabernero discute con Sagaz y atiende a Shallan en el reservado.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El tabernero discute con Sagaz y atiende a Shallan en el reservado.",
+        "pairs": [
+          [
+            "wit",
+            "ob68-chouta-innkeeper"
+          ],
+          [
+            "shallan",
+            "ob68-chouta-innkeeper"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sagaz describe los banquetes, ofrece introducir a Shallan si aporta comida y le advierte sobre quienes dicen ver el futuro.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-wit-shallan-revel",
+      "participants": [
+        "wit",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Sagaz describe los banquetes, ofrece introducir a Shallan si aporta comida y le advierte sobre quienes dicen ver el futuro.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sagaz describe los banquetes, ofrece introducir a Shallan si aporta comida y le advierte sobre quienes dicen ver el futuro.",
+        "pairs": [
+          [
+            "wit",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Después de la marcha de Sagaz, Patrón expresa a Shallan su impresión sobre él.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-pattern-wit-impression",
+      "participants": [
+        "shallan",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Después de la marcha de Sagaz, Patrón expresa a Shallan su impresión sobre él.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Después de la marcha de Sagaz, Patrón expresa a Shallan su impresión sobre él.",
+        "pairs": [
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -95831,6 +96579,582 @@
       "kind": "background",
       "text": "Al regresar a Urithiru, Dalinar recupera recuerdos de lo que sucedió a Evi, vinculados a una fortaleza y a la Grieta.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Acciona la palanca para demostrar la defensa de la fortaleza ante Dalinar y Adolin.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-ob66-ledge-guard-intro",
+      "characterId": "ob66-ledge-guard",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Acciona la palanca para demostrar la defensa de la fortaleza ante Dalinar y Adolin.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Entra en la sala del mapa y entrega el mensaje recibido por vinculacaña.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-ob66-treaty-scribe-intro",
+      "characterId": "ob66-treaty-scribe",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Entra en la sala del mapa y entrega el mensaje recibido por vinculacaña.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Adolin recuerda haberlo visto con Dalinar en la ceremonia de los acuerdos comerciales.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-ob66-veden-highprince-intro",
+      "characterId": "ob66-veden-highprince",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Adolin recuerda haberlo visto con Dalinar en la ceremonia de los acuerdos comerciales.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Dalinar dice que el tratado reconoce a Gavilar como rey legítimo.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-ob66-veden-king-intro",
+      "characterId": "ob66-veden-king",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Dalinar dice que el tratado reconoce a Gavilar como rey legítimo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Dalinar recuerda que Renarin pasaba la mayor parte del tiempo en Kholinar y que Evi volvía allí para acompañarlo.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-renarin-border-era",
+      "characterId": "renarin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Dalinar recuerda que Renarin pasaba la mayor parte del tiempo en Kholinar y que Evi volvía allí para acompañarlo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. En el recuerdo, Dalinar lleva una década sin ver a Toh y ha oído que vive en la costa de Herdaz protegido por guardaespaldas.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-toh-herdaz-recollection",
+      "characterId": "toh",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "En el recuerdo, Dalinar lleva una década sin ver a Toh y ha oído que vive en la costa de Herdaz protegido por guardaespaldas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Gavilar identifica a Tanalan como dirigente de la rebelión de Rathalas y dice que un alto príncipe sin identificar lo apoya.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-tanalan-letter",
+      "characterId": "tanalan-younger",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Gavilar identifica a Tanalan como dirigente de la rebelión de Rathalas y dice que un alto príncipe sin identificar lo apoya.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Gavilar anuncia por carta que Sadeas reunirá refuerzos para Rathalas.",
+      "sourceIds": [
+        "primary209-ob66"
+      ],
+      "id": "primary209-sadeas-reinforcements-plan",
+      "characterId": "sadeas",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-66"
+      },
+      "kind": "background",
+      "text": "Gavilar anuncia por carta que Sadeas reunirá refuerzos para Rathalas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Pariente lejano de Adolin y Elhokar. Ambos creen reconocerlo entre los muertos por el relato de Shallan.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-kaves-kholin-ob67-intro",
+      "characterId": "kaves-kholin-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Pariente lejano de Adolin y Elhokar. Ambos creen reconocerlo entre los muertos por el relato de Shallan.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Yokska ha hablado de su influencia. Los soldados que reparten grano llevan los colores de su casa.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-velalant-lord-ob67-intro",
+      "characterId": "velalant-lord-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Yokska ha hablado de su influencia. Los soldados que reparten grano llevan los colores de su casa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Habla con Velo sobre dónde encontrar un abrigo.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-ob67-tailor-accountant-intro",
+      "characterId": "ob67-tailor-accountant",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Habla con Velo sobre dónde encontrar un abrigo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Marido de la mujer que lleva las cuentas en la primera sastrería que visita Velo.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-ob67-market-accountant-husband-intro",
+      "characterId": "ob67-market-accountant-husband",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Marido de la mujer que lleva las cuentas en la primera sastrería que visita Velo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Orienta a Velo hacia el almacén de grano.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-ob67-coat-seamstress-intro",
+      "characterId": "ob67-coat-seamstress",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Orienta a Velo hacia el almacén de grano.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Acepta comida de Velo y explica cómo se excluye a algunos solicitantes.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-ob67-grain-queue-boy-intro",
+      "characterId": "ob67-grain-queue-boy",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Acepta comida de Velo y explica cómo se excluye a algunos solicitantes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Elhokar habla de sacar a Gavinor y a Aesudan del palacio. Su paradero se da por supuesto dentro del plan.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-gavinor-rescue-plan",
+      "characterId": "elhokar-son",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Elhokar habla de sacar a Gavinor y a Aesudan del palacio. Su paradero se da por supuesto dentro del plan.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Adolin y Elhokar creen que los cuerpos descritos por Shallan podrían ser los de Kaves y sus asistentes. La identificación y el fallecimiento atribuido siguen sin confirmación directa.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-kaves-possible-identification",
+      "characterId": "kaves-kholin-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Adolin y Elhokar creen que los cuerpos descritos por Shallan podrían ser los de Kaves y sus asistentes. La identificación y el fallecimiento atribuido siguen sin confirmación directa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Velo recuerda que Ishnah limpió la sangre del abrigo tras la infiltración.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-coat-cleaning-report",
+      "characterId": "ishnah",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Velo recuerda que Ishnah limpió la sangre del abrigo tras la infiltración.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Elhokar cree que sus guardias la tienen prisionera. Kaladin y Adolin plantean dudas sobre esta interpretación.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-aesudan-imprisonment-hypothesis",
+      "characterId": "aesudan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Elhokar cree que sus guardias la tienen prisionera. Kaladin y Adolin plantean dudas sobre esta interpretación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Mientras recorre el mercado, se preocupa por lo que Mraize pudo haber hecho con sus hermanos.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-shallan-brothers-worry",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Mientras recorre el mercado, se preocupa por lo que Mraize pudo haber hecho con sus hermanos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Reina de Natanatan en el relato que cuenta Sagaz.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-tsa-story-ob67-intro",
+      "characterId": "tsa-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Reina de Natanatan en el relato que cuenta Sagaz.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Luna personificada que intercambia su puesto con Tsa en el relato de Sagaz.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-mishim-story-ob67-intro",
+      "characterId": "mishim-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Luna personificada que intercambia su puesto con Tsa en el relato de Sagaz.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Una de las lunas personificadas en el relato.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-nomon-story-ob67-intro",
+      "characterId": "nomon-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Una de las lunas personificadas en el relato.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Una de las lunas personificadas en el relato.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-salas-story-ob67-intro",
+      "characterId": "salas-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Una de las lunas personificadas en el relato.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Niño de piel azul que Mishim ve en brazos de Tsa dentro del relato.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-tsa-son-story-ob67-intro",
+      "characterId": "tsa-son-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Niño de piel azul que Mishim ve en brazos de Tsa dentro del relato.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Dentro del cuento, Tsa tiene un hijo y la narración sugiere un origen divino ligado a Nomon.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-tsa-legend-son",
+      "characterId": "tsa-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Dentro del cuento, Tsa tiene un hijo y la narración sugiere un origen divino ligado a Nomon.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Sagaz sugiere dentro del cuento que Nomon puede ser el padre del hijo de Tsa.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-nomon-legend-lineage",
+      "characterId": "nomon-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "Sagaz sugiere dentro del cuento que Nomon puede ser el padre del hijo de Tsa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. En el relato, las tres lunas se tratan como hermanos.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-salas-legend-sibling",
+      "characterId": "salas-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "En el relato, las tres lunas se tratan como hermanos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. En el relato, Salas y Nomon son los hermanos de Mishim.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-mishim-legend-siblings",
+      "characterId": "mishim-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "En el relato, Salas y Nomon son los hermanos de Mishim.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. El cuento explica mediante su nacimiento el tono azulado que atribuye a la gente de Natanatan.",
+      "sourceIds": [
+        "primary209-ob67"
+      ],
+      "id": "primary209-tsa-son-legend-only",
+      "characterId": "tsa-son-story-ob67",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-67"
+      },
+      "kind": "background",
+      "text": "El cuento explica mediante su nacimiento el tono azulado que atribuye a la gente de Natanatan.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Discute con Sagaz sobre la clientela y atiende a Shallan.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-ob68-chouta-innkeeper-intro",
+      "characterId": "ob68-chouta-innkeeper",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "Discute con Sagaz sobre la clientela y atiende a Shallan.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sagaz identifica con esta denominación al Deshecho que relaciona con los banquetes del culto.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-ob68-heart-of-the-revel-intro",
+      "characterId": "ob68-heart-of-the-revel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "Sagaz identifica con esta denominación al Deshecho que relaciona con los banquetes del culto.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Figura mencionada por un investigador en el epígrafe sobre los reflejos cognitivos de los spren en la torre.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-ob68-sibling-epigraph-intro",
+      "characterId": "ob68-sibling-epigraph",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "Figura mencionada por un investigador en el epígrafe sobre los reflejos cognitivos de los spren en la torre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Shallan le comunica que Sadeas ha muerto. Dice que desconoce al asesino.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-wit-learns-sadeas-death",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "Shallan le comunica que Sadeas ha muerto. Dice que desconoce al asesino.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sagaz niega ante Shallan ser un Heraldo. La impresión posterior de Patrón queda como opinión.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-wit-herald-denial",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "Sagaz niega ante Shallan ser un Heraldo. La impresión posterior de Patrón queda como opinión.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sagaz sitúa su influencia en los banquetes del Culto de los Momentos. Su presencia física y su relación con la silueta del espejo siguen sin comprobarse.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-heart-revel-testimony",
+      "characterId": "ob68-heart-of-the-revel",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "Sagaz sitúa su influencia en los banquetes del Culto de los Momentos. Su presencia física y su relación con la silueta del espejo siguen sin comprobarse.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. La voz del epígrafe pone en duda que se apartara por voluntad propia. Su naturaleza y su situación siguen abiertas en este punto.",
+      "sourceIds": [
+        "primary209-ob68"
+      ],
+      "id": "primary209-sibling-research-claim",
+      "characterId": "ob68-sibling-epigraph",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-68"
+      },
+      "kind": "background",
+      "text": "La voz del epígrafe pone en duda que se apartara por voluntad propia. Su naturaleza y su situación siguen abiertas en este punto.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -98480,6 +99804,10 @@
         {
           "revision": 208,
           "notes": "Se conserva la ascendencia de Dalinar ya registrada, se añade el hermano del príncipe de Tashikk y se documentan las menciones a Gavilar, Navani, Evi, Elhokar y su hijo conforme al capítulo. El mausoleo no identifica nuevos antepasados."
+        },
+        {
+          "revision": 209,
+          "notes": "Se revisan Evi, Dalinar, Adolin, Renarin, Gavilar y Toh; se revela el nombre de Gavinor, se documentan el parentesco lejano de Kaves y el matrimonio de la sastrería. El parentesco de las lunas y la filiación de Tsa quedan atribuidos al cuento de Sagaz."
         }
       ]
     }
@@ -101449,7 +102777,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 208,
+  "revision": 209,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -104081,6 +105409,31 @@
       "label": "Capítulo 65 · Veredicto",
       "part": "ob-3a",
       "source": "primary208-ob65"
+    },
+    {
+      "id": "ob-chapter-66",
+      "bookId": "ob",
+      "chapter": 66,
+      "label": "Capítulo 66 · Estratega",
+      "part": "ob-3a",
+      "source": "primary209-ob66",
+      "flashback": true
+    },
+    {
+      "id": "ob-chapter-67",
+      "bookId": "ob",
+      "chapter": 67,
+      "label": "Capítulo 67 · Mishim",
+      "part": "ob-3a",
+      "source": "primary209-ob67"
+    },
+    {
+      "id": "ob-chapter-68",
+      "bookId": "ob",
+      "chapter": 68,
+      "label": "Capítulo 68 · Apuntar al sol",
+      "part": "ob-3a",
+      "source": "primary209-ob68"
     }
   ],
   "experiencePresentation": {
@@ -120139,6 +121492,54 @@
           "notes": [
             "Patrón lo lleva hasta Shallan después de que ella sale."
           ]
+        },
+        {
+          "id": "primary209-67-kaladin-1",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos."
+          ]
         }
       ]
     },
@@ -135148,6 +136549,438 @@
           "needsConfirmation": [],
           "notes": [
             "Sale por una puerta al pie del promontorio. Patrón trae a Kaladin."
+          ]
+        },
+        {
+          "id": "primary209-67-shallan-1",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos."
+          ]
+        },
+        {
+          "id": "primary209-67-shallan-2",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado recorrido por Velo",
+          "placeId": "place-ob67-kholinar-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Sale como Velo y recorre los comercios.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale como Velo y recorre los comercios."
+          ]
+        },
+        {
+          "id": "primary209-67-shallan-3",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sastrería del mercado donde Velo pregunta por un abrigo",
+          "placeId": "place-ob67-market-tailor",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Prueba abrigos y pregunta por otro comercio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Prueba abrigos y pregunta por otro comercio."
+          ]
+        },
+        {
+          "id": "primary209-67-shallan-4",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado recorrido por Velo",
+          "placeId": "place-ob67-kholinar-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Compra un abrigo blanco y pregunta por el grano.",
+          "needsConfirmation": [],
+          "notes": [
+            "Compra un abrigo blanco y pregunta por el grano."
+          ]
+        },
+        {
+          "id": "primary209-67-shallan-5",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Antiguo banco thayleño usado para repartir grano",
+          "placeId": "place-ob67-velalant-grain-bank",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Observa el reparto de cereal y comparte comida con un niño.",
+          "needsConfirmation": [],
+          "notes": [
+            "Observa el reparto de cereal y comparte comida con un niño."
+          ]
+        },
+        {
+          "id": "primary209-67-shallan-6",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Aljibe del relato de Sagaz",
+          "placeId": "place-ob67-market-cistern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Se acerca al aljibe al reconocer la voz de Sagaz.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acerca al aljibe al reconocer la voz de Sagaz."
+          ]
+        },
+        {
+          "id": "primary209-68-shallan-1",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Taberna de chouta",
+          "placeId": "place-ob68-kholinar-chouta-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Llega con Sagaz y pasa al reservado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega con Sagaz y pasa al reservado."
+          ]
+        },
+        {
+          "id": "primary209-68-shallan-2",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Habla con Sagaz sobre el culto y con Patrón tras la marcha de Sagaz.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Sagaz sobre el culto y con Patrón tras la marcha de Sagaz."
+          ]
+        },
+        {
+          "id": "primary209-68-shallan-3",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Calles de regreso hacia la sastrería",
+          "placeId": "place-ob68-kholinar-tailor-return",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Emprende el regreso a la sastrería pensando en cómo conseguir comida para el culto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Emprende el regreso a la sastrería pensando en cómo conseguir comida para el culto."
           ]
         }
       ]
@@ -153210,6 +155043,96 @@
           "notes": [
             "Regresa con Jasnah y se reúne con Navani. Vuelven sus recuerdos de Evi."
           ]
+        },
+        {
+          "id": "primary209-66-dalinar-1",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Sala del mapa",
+          "placeId": "place-ob66-border-map-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Explica a Adolin las defensas de la fortaleza y los efectos del tratado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica a Adolin las defensas de la fortaleza y los efectos del tratado."
+          ]
+        },
+        {
+          "id": "primary209-66-dalinar-3",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Escalera interior",
+          "placeId": "place-ob66-border-stairs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Sale de la sala y baja en busca de sus generales para planear el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la sala y baja en busca de sus generales para planear el ataque."
+          ]
         }
       ]
     },
@@ -160896,6 +162819,99 @@
           "notes": [
             "La expedición examina el relato y discute el reconocimiento del complejo del palacio."
           ]
+        },
+        {
+          "id": "primary209-66-adolin-1",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Sala del mapa",
+          "placeId": "place-ob66-border-map-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. A sus doce años acompaña a Dalinar en las reuniones de táctica y lee el mapa con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "A sus doce años acompaña a Dalinar en las reuniones de táctica y lee el mapa con él."
+          ]
+        },
+        {
+          "id": "primary209-67-adolin-1",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos."
+          ]
         }
       ]
     },
@@ -167318,6 +169334,54 @@
           "needsConfirmation": [],
           "notes": [
             "La expedición examina el relato y discute el reconocimiento del complejo del palacio."
+          ]
+        },
+        {
+          "id": "primary209-67-elhokar-1",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocina contigua al taller de Yokska",
+          "placeId": "place-ob67-tailor-kitchen",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión donde se discuten el palacio, la Puerta Jurada y el Culto de los Momentos."
           ]
         }
       ]
@@ -174219,6 +176283,150 @@
           "needsConfirmation": [],
           "notes": [
             "Se ponen a caminar y hablan; no llegan a una población."
+          ]
+        },
+        {
+          "id": "primary209-67-wit-6",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Aljibe del relato de Sagaz",
+          "placeId": "place-ob67-market-cistern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Cuenta la historia de Mishim y Tsa junto a su brasero e invita a Shallan a acompañarlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cuenta la historia de Mishim y Tsa junto a su brasero e invita a Shallan a acompañarlo."
+          ]
+        },
+        {
+          "id": "primary209-68-wit-1",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Taberna de chouta",
+          "placeId": "place-ob68-kholinar-chouta-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Habla con el tabernero y conduce a Shallan al reservado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con el tabernero y conduce a Shallan al reservado."
+          ]
+        },
+        {
+          "id": "primary209-68-wit-2",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Habla del Corazón del Festejo y ofrece facilitar la entrada al culto. Se escabulle cuando se abre la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla del Corazón del Festejo y ofrece facilitar la entrada al culto. Se escabulle cuando se abre la puerta."
           ]
         }
       ]
@@ -209929,6 +212137,54 @@
           "needsConfirmation": [],
           "notes": [
             "Vuelve con Kaladin a la calle donde espera Shallan."
+          ]
+        },
+        {
+          "id": "primary209-68-pattern-2",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Aparece sobre la mesa y comenta su impresión de Sagaz.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aparece sobre la mesa y comenta su impresión de Sagaz."
           ]
         }
       ]
@@ -248842,6 +251098,51 @@
           "notes": [
             "Acompaña a Dalinar a ver a los niños y a descansar."
           ]
+        },
+        {
+          "id": "primary209-66-evi-2",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Sala del mapa",
+          "placeId": "place-ob66-border-map-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Llega a la sala, lee la carta de Gavilar y habla con Dalinar sobre la guerra y sus hijos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la sala, lee la carta de Gavilar y habla con Dalinar sobre la guerra y sus hijos."
+          ]
         }
       ]
     },
@@ -250473,6 +252774,20 @@
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Familiar mencionado sin ubicación propia registrada. Su función documentada se limita al entorno familiar de otro personaje.",
+      "nameRevelations": [
+        {
+          "name": "Gavinor",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Elhokar menciona por nombre a su hijo al discutir su rescate.",
+          "sourceIds": [
+            "primary209-ob67"
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -260103,6 +262418,51 @@
           "needsConfirmation": [],
           "notes": [
             "Se usa Narak como referencia general de la batalla, sin fijar la meseta ni recuperar el cuerpo."
+          ]
+        },
+        {
+          "id": "primary209-66-teleb-1",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Sala del mapa",
+          "placeId": "place-ob66-border-map-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Está presente cuando Evi pregunta a Adolin por su chaqueta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está presente cuando Evi pregunta a Adolin por su chaqueta."
           ]
         }
       ]
@@ -292193,6 +294553,522 @@
       "name": "Sabio de Emul",
       "initial": "S",
       "role": "Según Noura, acompaña al Supremo de Emul.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob66-ledge-guard",
+      "name": "Guardia de la repisa móvil",
+      "initial": "G",
+      "role": "Acciona la palanca para demostrar la defensa de la fortaleza ante Dalinar y Adolin.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary209-66-ob66-ledge-guard-1",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Sala del mapa",
+          "placeId": "place-ob66-border-map-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Acciona el mecanismo que retrae la repisa exterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acciona el mecanismo que retrae la repisa exterior."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob66-treaty-scribe",
+      "name": "Escriba que lleva la carta de Gavilar",
+      "initial": "E",
+      "role": "Entra en la sala del mapa y entrega el mensaje recibido por vinculacaña.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary209-66-ob66-treaty-scribe-2",
+          "scene": "ob-chapter-66",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fortaleza fronteriza · Sala del mapa",
+          "placeId": "place-ob66-border-map-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob66",
+          "sourceIds": [
+            "primary209-ob66"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob66-border-fortress",
+          "coordinateAnchorName": "Fortaleza de las tierras altas entre Alezkar y Jah Keved",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 11,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-66"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/66.Estratega.xhtml. Entrega la carta del rey.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entrega la carta del rey."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob66-veden-highprince",
+      "name": "Alto príncipe veden de la ceremonia",
+      "initial": "A",
+      "role": "Adolin recuerda haberlo visto con Dalinar en la ceremonia de los acuerdos comerciales.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob66-veden-king",
+      "name": "Rey veden del tratado fronterizo",
+      "initial": "R",
+      "role": "Dalinar dice que el tratado reconoce a Gavilar como rey legítimo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "kaves-kholin-ob67",
+      "name": "Kaves Kholin",
+      "initial": "K",
+      "role": "Pariente lejano de Adolin y Elhokar. Ambos creen reconocerlo entre los muertos por el relato de Shallan.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "velalant-lord-ob67",
+      "name": "Brillante señor de la casa Velalant",
+      "initial": "B",
+      "role": "Yokska ha hablado de su influencia. Los soldados que reparten grano llevan los colores de su casa.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob67-tailor-accountant",
+      "name": "Encargada de cuentas de la sastrería del mercado",
+      "initial": "E",
+      "role": "Habla con Velo sobre dónde encontrar un abrigo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary209-67-ob67-tailor-accountant-3",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sastrería del mercado donde Velo pregunta por un abrigo",
+          "placeId": "place-ob67-market-tailor",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Habla con Velo sobre los abrigos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla con Velo sobre los abrigos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob67-market-accountant-husband",
+      "name": "Sastre del mercado",
+      "initial": "S",
+      "role": "Marido de la mujer que lleva las cuentas en la primera sastrería que visita Velo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob67-coat-seamstress",
+      "name": "Costurera que vende el abrigo blanco",
+      "initial": "C",
+      "role": "Orienta a Velo hacia el almacén de grano.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary209-67-ob67-coat-seamstress-4",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Mercado recorrido por Velo",
+          "placeId": "place-ob67-kholinar-market",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Vende el abrigo y orienta a Velo hacia el almacén.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vende el abrigo y orienta a Velo hacia el almacén."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob67-grain-queue-boy",
+      "name": "Niño junto a la cola del grano",
+      "initial": "N",
+      "role": "Acepta comida de Velo y explica cómo se excluye a algunos solicitantes.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary209-67-ob67-grain-queue-boy-5",
+          "scene": "ob-chapter-67",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Antiguo banco thayleño usado para repartir grano",
+          "placeId": "place-ob67-velalant-grain-bank",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob67",
+          "sourceIds": [
+            "primary209-ob67"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-67"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/67.Mishim.xhtml. Explica a Velo que lo excluirían de la cola.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica a Velo que lo excluirían de la cola."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tsa-story-ob67",
+      "name": "Tsa",
+      "initial": "T",
+      "role": "Reina de Natanatan en el relato que cuenta Sagaz.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "mishim-story-ob67",
+      "name": "Mishim",
+      "initial": "M",
+      "role": "Luna personificada que intercambia su puesto con Tsa en el relato de Sagaz.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "nomon-story-ob67",
+      "name": "Nomon",
+      "initial": "N",
+      "role": "Una de las lunas personificadas en el relato.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "salas-story-ob67",
+      "name": "Salas",
+      "initial": "S",
+      "role": "Una de las lunas personificadas en el relato.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "tsa-son-story-ob67",
+      "name": "Hijo de Tsa en el relato",
+      "initial": "H",
+      "role": "Niño de piel azul que Mishim ve en brazos de Tsa dentro del relato.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob68-chouta-innkeeper",
+      "name": "Tabernero de la chouta",
+      "initial": "T",
+      "role": "Discute con Sagaz sobre la clientela y atiende a Shallan.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary209-68-ob68-chouta-innkeeper-1",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Taberna de chouta",
+          "placeId": "place-ob68-kholinar-chouta-tavern",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Recibe a Sagaz y Shallan y les indica dónde sentarse.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recibe a Sagaz y Shallan y les indica dónde sentarse."
+          ]
+        },
+        {
+          "id": "primary209-68-ob68-chouta-innkeeper-2",
+          "scene": "ob-chapter-68",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Reservado de la taberna",
+          "placeId": "place-ob68-kholinar-tavern-reserved",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary209-ob68",
+          "sourceIds": [
+            "primary209-ob68"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-68"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/68.Apuntarsol.xhtml. Sirve la comida y vuelve cuando Sagaz se marcha.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sirve la comida y vuelve cuando Sagaz se marcha."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob68-heart-of-the-revel",
+      "name": "Corazón del Festejo",
+      "initial": "C",
+      "role": "Sagaz identifica con esta denominación al Deshecho que relaciona con los banquetes del culto.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob68-sibling-epigraph",
+      "name": "El Hermano",
+      "initial": "E",
+      "role": "Figura mencionada por un investigador en el epígrafe sobre los reflejos cognitivos de los spren en la torre.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
