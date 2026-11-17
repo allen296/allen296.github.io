@@ -94,8 +94,14 @@ const last=p=>{
  if(inMemory())return known.filter(e=>e.scene===scenes[step].id&&isPast(e)).at(-1);
  return known.filter(e=>!isPast(e)).at(-1)||known.at(-1);
 };
+let renderedMapEvidence=null;
 function mapEvidence(p){
  if(p.representativeEvidence)return p.representativeEvidence;
+ if(!renderedMapEvidence)return resolveMapEvidence(p);
+ if(!renderedMapEvidence.has(p))renderedMapEvidence.set(p,resolveMapEvidence(p));
+ return renderedMapEvidence.get(p);
+}
+function resolveMapEvidence(p){
  const latest=last(p);if(!latest)return null;
  if(nightReview)return nightEventsFor(p).filter(e=>e.xy&&realm(e)===realm(latest)).at(-1)||null;
  if(inMemory())return eventsFor(p).filter(e=>e.xy&&isPast(e)&&e.scene===scenes[step].id&&realm(e)===realm(latest)).at(-1)||null;
@@ -187,6 +193,12 @@ function renderMemoryTokens(people,chapterMode=false){
  }
 }
 function render(){
+ // Keep results only for this synchronous render, including unmapped characters.
+ const previous=renderedMapEvidence;
+ renderedMapEvidence=new WeakMap();
+ try{renderAtlas();}finally{renderedMapEvidence=previous;}
+}
+function renderAtlas(){
  if(nightReview&&nightPerspective!=='all'&&!knownNightScenes().some(s=>s.id===nightPerspective)){nightPerspective='all';$('showShadesmar').checked=false;}
  const scene=scenes[step], available=cast.filter(p=>last(p));
  $('onlyChapterCharacters').setAttribute('aria-pressed',String(onlyChapterCharacters));
