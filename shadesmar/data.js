@@ -4592,6 +4592,27 @@ window.ATLAS_DATA = {
       "cord",
       "dlrwan-dawn4",
       "rysn"
+    ],
+    "dawnshard-chapter-15": [
+      "cord",
+      "dlrwan-dawn4",
+      "huio",
+      "lopen",
+      "nikli-dawn1",
+      "rua-ob121",
+      "rushu",
+      "rysn"
+    ],
+    "dawnshard-chapter-16": [
+      "cord",
+      "rysn"
+    ],
+    "dawnshard-chapter-17": [
+      "huio",
+      "lopen",
+      "nikli-dawn1",
+      "rua-ob121",
+      "rysn"
     ]
   },
   "knowledgeArchive": {
@@ -16516,6 +16537,57 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/14.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Se acumulan miedospren violetas a los pies de Rysn durante el abordaje.",
+        "sourceIds": [
+          "primary238-dawnshard-15"
+        ],
+        "id": "primary238-archive-fearspren-wandersail-attack",
+        "entryId": "spren-type-fearspren",
+        "value": "Se acumulan miedospren violetas a los pies de Rysn durante el abordaje.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-15"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Rysn y Cuerda siguen a los suertespren bajo el agua. Cuerda les atribuye la velocidad del nado.",
+        "sourceIds": [
+          "primary238-dawnshard-16"
+        ],
+        "id": "primary238-archive-luckspren-akinah-swim",
+        "entryId": "spren-type-luckspren",
+        "value": "Rysn y Cuerda siguen a los suertespren bajo el agua. Cuerda les atribuye la velocidad del nado.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-16"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Durante el ataque toma una forma pequeña que imita a la criatura.",
+        "sourceIds": [
+          "primary238-dawnshard-17"
+        ],
+        "id": "primary238-archive-rua-beach-monster",
+        "entryId": "spren-person-rua",
+        "value": "Durante el ataque toma una forma pequeña que imita a la criatura.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-17"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml",
         "supersedes": []
       }
     ],
@@ -77698,6 +77770,274 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Rushu y Lopen examinan el señuelo y encuentran la auténtica Puerta Jurada bajo tierra. Lopen vuelve a la playa.",
+      "sourceIds": [
+        "primary238-dawnshard-15"
+      ],
+      "id": "primary238-akinah-hidden-gate",
+      "participants": [
+        "lopen",
+        "rushu"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-15"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rushu y Lopen examinan el señuelo y encuentran la auténtica Puerta Jurada bajo tierra. Lopen vuelve a la playa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rushu y Lopen examinan el señuelo y encuentran la auténtica Puerta Jurada bajo tierra. Lopen vuelve a la playa.",
+        "pairs": [
+          [
+            "lopen",
+            "rushu"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Los enjambres abordan el barco. Nikli rechaza negociar y Cuerda lo distrae antes de saltar al agua con Rysn.",
+      "sourceIds": [
+        "primary238-dawnshard-15"
+      ],
+      "id": "primary238-sleepless-board-wandersail",
+      "participants": [
+        "nikli-dawn1",
+        "rysn",
+        "cord"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-15"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conflict",
+      "summary": "Los enjambres abordan el barco. Nikli rechaza negociar y Cuerda lo distrae antes de saltar al agua con Rysn.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los enjambres abordan el barco. Nikli rechaza negociar y Cuerda lo distrae antes de saltar al agua con Rysn.",
+        "pairs": [
+          [
+            "nikli-dawn1",
+            "rysn"
+          ],
+          [
+            "nikli-dawn1",
+            "cord"
+          ],
+          [
+            "cord",
+            "rysn"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Cuerda ayuda a Rysn a escapar a nado y a salir del agua dentro de la caverna.",
+      "sourceIds": [
+        "primary238-dawnshard-16"
+      ],
+      "id": "primary238-cord-rysn-swim",
+      "participants": [
+        "cord",
+        "rysn"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-16"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "cooperation",
+      "summary": "Cuerda ayuda a Rysn a escapar a nado y a salir del agua dentro de la caverna.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Cuerda ayuda a Rysn a escapar a nado y a salir del agua dentro de la caverna.",
+        "pairs": [
+          [
+            "cord",
+            "rysn"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Cuerda improvisa un asiento para Rysn y la lleva a la sala del mural. Rysn le ayuda a entender cómo colocar gemas para activar las grebas.",
+      "sourceIds": [
+        "primary238-dawnshard-16"
+      ],
+      "id": "primary238-cord-rysn-shardplate",
+      "participants": [
+        "cord",
+        "rysn"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-16"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "cooperation",
+      "summary": "Cuerda improvisa un asiento para Rysn y la lleva a la sala del mural. Rysn le ayuda a entender cómo colocar gemas para activar las grebas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Cuerda improvisa un asiento para Rysn y la lleva a la sala del mural. Rysn le ayuda a entender cómo colocar gemas para activar las grebas.",
+        "pairs": [
+          [
+            "cord",
+            "rysn"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Lopen saca a Huio de las fauces. Los dos se rearman para seguir defendiendo al grupo.",
+      "sourceIds": [
+        "primary238-dawnshard-17"
+      ],
+      "id": "primary238-lopen-huio-beach-rescue",
+      "participants": [
+        "lopen",
+        "huio"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-17"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "cooperation",
+      "summary": "Lopen saca a Huio de las fauces. Los dos se rearman para seguir defendiendo al grupo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lopen saca a Huio de las fauces. Los dos se rearman para seguir defendiendo al grupo.",
+        "pairs": [
+          [
+            "lopen",
+            "huio"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Rua imita la forma del monstruo y responde con un gesto cuando Lopen le pide una hoja esquirlada.",
+      "sourceIds": [
+        "primary238-dawnshard-17"
+      ],
+      "id": "primary238-lopen-rua-beach-fight",
+      "participants": [
+        "lopen",
+        "rua-ob121"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-17"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rua imita la forma del monstruo y responde con un gesto cuando Lopen le pide una hoja esquirlada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rua imita la forma del monstruo y responde con un gesto cuando Lopen le pide una hoja esquirlada.",
+        "pairs": [
+          [
+            "lopen",
+            "rua-ob121"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Rysn inicia una negociación formal y propone a Nikli que necesita a alguien que guarde sus secretos.",
+      "sourceIds": [
+        "primary238-dawnshard-17"
+      ],
+      "id": "primary238-rysn-nikli-mural-parley",
+      "participants": [
+        "rysn",
+        "nikli-dawn1"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-17"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rysn inicia una negociación formal y propone a Nikli que necesita a alguien que guarde sus secretos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rysn inicia una negociación formal y propone a Nikli que necesita a alguien que guarde sus secretos.",
+        "pairs": [
+          [
+            "rysn",
+            "nikli-dawn1"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -116318,6 +116658,86 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Al estudiar los bocetos, sospecha que las gemas visibles podrían servir para distraer de algo más valioso y quiere avisar a Rushu.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Tras recibir la advertencia de Rysn, distingue la cámara señuelo de la Puerta Jurada oculta. La expedición todavía no acciona la Puerta.",
+      "sourceIds": [
+        "primary238-dawnshard-15"
+      ],
+      "id": "primary238-akinah-oathgate-decoy",
+      "characterId": "rushu",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-15"
+      },
+      "kind": "background",
+      "text": "Tras recibir la advertencia de Rysn, distingue la cámara señuelo de la Puerta Jurada oculta. La expedición todavía no acciona la Puerta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Rysn ve que Nikli y otros recién llegados están formados por cremlinos. Nikli afirma que intentaban proteger algo que importa al Cosmere.",
+      "sourceIds": [
+        "primary238-dawnshard-15"
+      ],
+      "id": "primary238-nikli-forms-on-ship",
+      "characterId": "nikli-dawn1",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-15"
+      },
+      "kind": "background",
+      "text": "Rysn ve que Nikli y otros recién llegados están formados por cremlinos. Nikli afirma que intentaban proteger algo que importa al Cosmere.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. El golpe del agua le recuerda la caída en las islas Reshi. El salto presente sucede junto a Akinah.",
+      "sourceIds": [
+        "primary238-dawnshard-16"
+      ],
+      "id": "primary238-akinah-dive-reshi-memory",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-16"
+      },
+      "kind": "background",
+      "text": "El golpe del agua le recuerda la caída en las islas Reshi. El salto presente sucede junto a Akinah.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Percibe una voz o mandato y una luz al aceptar lo que procede del mural. Aún no entiende qué ha cambiado.",
+      "sourceIds": [
+        "primary238-dawnshard-16"
+      ],
+      "id": "primary238-rysn-mural-command",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-16"
+      },
+      "kind": "background",
+      "text": "Percibe una voz o mandato y una luz al aceptar lo que procede del mural. Aún no entiende qué ha cambiado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Encuentra la armadura y pone rubíes en las grebas antes de marcharse por el paso.",
+      "sourceIds": [
+        "primary238-dawnshard-16"
+      ],
+      "id": "primary238-akinah-shardplate-greaves",
+      "characterId": "cord",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-16"
+      },
+      "kind": "background",
+      "text": "Encuentra la armadura y pone rubíes en las grebas antes de marcharse por el paso.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -122292,7 +122712,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 237,
+  "revision": 238,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -125573,6 +125993,30 @@ window.ATLAS_DATA = {
       "label": "Capítulo 14",
       "part": "dawnshard",
       "source": "primary237-dawnshard-14"
+    },
+    {
+      "id": "dawnshard-chapter-15",
+      "bookId": "dawnshard",
+      "chapter": 15,
+      "label": "Capítulo 15",
+      "part": "dawnshard",
+      "source": "primary238-dawnshard-15"
+    },
+    {
+      "id": "dawnshard-chapter-16",
+      "bookId": "dawnshard",
+      "chapter": 16,
+      "label": "Capítulo 16",
+      "part": "dawnshard",
+      "source": "primary238-dawnshard-16"
+    },
+    {
+      "id": "dawnshard-chapter-17",
+      "bookId": "dawnshard",
+      "chapter": 17,
+      "label": "Capítulo 17",
+      "part": "dawnshard",
+      "source": "primary238-dawnshard-17"
     }
   ],
   "experiencePresentation": {
@@ -229595,6 +230039,321 @@ window.ATLAS_DATA = {
           "notes": [
             "Está a bordo mientras Rysn estudia los bocetos procedentes de la playa."
           ]
+        },
+        {
+          "id": "primary238-15-rysn-1",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cubierta principal del Vela Errante",
+          "placeId": "place-dawn12-akinah-maindeck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Está en el Vela Errante durante el abordaje de los enjambres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el Vela Errante durante el abordaje de los enjambres."
+          ]
+        },
+        {
+          "id": "primary238-15-rysn-2",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Agua al pie de la borda del Vela Errante",
+          "placeId": "place-dawn15-akinah-overboard",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Cuerda se arroja al agua con Rysn para escapar del abordaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cuerda se arroja al agua con Rysn para escapar del abordaje."
+          ]
+        },
+        {
+          "id": "primary238-16-rysn-1",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Paso sumergido guiado por los suertespren",
+          "placeId": "place-dawn16-akinah-swim",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Nada bajo el agua siguiendo el recorrido de los suertespren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Nada bajo el agua siguiendo el recorrido de los suertespren."
+          ]
+        },
+        {
+          "id": "primary238-16-rysn-2",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cavidad donde Rysn y Cuerda salen a respirar",
+          "placeId": "place-dawn16-akinah-cavern-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Sale a respirar y se refugia en la cavidad de piedra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale a respirar y se refugia en la cavidad de piedra."
+          ]
+        },
+        {
+          "id": "primary238-16-rysn-3",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sala del mural y de la armadura esquirlada",
+          "placeId": "place-dawn16-akinah-mural-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Entra en la sala donde están el mural y las piezas de armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la sala donde están el mural y las piezas de armadura."
+          ]
+        },
+        {
+          "id": "primary238-16-rysn-4",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sala del mural y de la armadura esquirlada",
+          "placeId": "place-dawn16-akinah-mural-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Permanece en la sala. Percibe un mandato y una luz al mirar el mural, y luego vuelve a encontrarse en el suelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Permanece en la sala. Percibe un mandato y una luz al mirar el mural, y luego vuelve a encontrarse en el suelo."
+          ]
+        },
+        {
+          "id": "primary238-17-rysn-1",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sala del mural y de la armadura esquirlada",
+          "placeId": "place-dawn16-akinah-mural-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Está en la sala del mural al iniciarse la negociación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala del mural al iniciarse la negociación."
+          ]
         }
       ]
     },
@@ -237024,6 +237783,321 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se interna en la isla una vez que el barco iza la bandera verde."
+          ]
+        },
+        {
+          "id": "primary238-15-lopen-1",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sobrevuelo de la isla",
+          "placeId": "place-dawn15-akinah-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Sobrevuela la isla para reconocer las ruinas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sobrevuela la isla para reconocer las ruinas."
+          ]
+        },
+        {
+          "id": "primary238-15-lopen-2",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Edificios de las afueras cubiertos de crem",
+          "placeId": "place-dawn15-akinah-outskirts",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Está junto a los edificios que Rushu dibuja antes de internarse en la ciudad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a los edificios que Rushu dibuja antes de internarse en la ciudad."
+          ]
+        },
+        {
+          "id": "primary238-15-lopen-3",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Ruinas de la cámara señuelo",
+          "placeId": "place-dawn15-akinah-decoy-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Examina las ruinas elevadas de la cámara señuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina las ruinas elevadas de la cámara señuelo."
+          ]
+        },
+        {
+          "id": "primary238-15-lopen-4",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cámara subterránea de la Puerta Jurada",
+          "placeId": "place-dawn15-akinah-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Descubre la plataforma y el edificio de control bajo tierra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descubre la plataforma y el edificio de control bajo tierra."
+          ]
+        },
+        {
+          "id": "primary238-15-lopen-5",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Playa de los caparazones y las gemas corazón",
+          "placeId": "place-dawn13-akinah-shell-beach",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Vuela de vuelta a la playa y encuentra a Huio atrapado por el monstruo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela de vuelta a la playa y encuentra a Huio atrapado por el monstruo."
+          ]
+        },
+        {
+          "id": "primary238-17-lopen-1",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Aire sobre la playa durante el ataque",
+          "placeId": "place-dawn17-akinah-beach-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Está en el aire cuando Lopen saca a Huio de las fauces de la criatura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el aire cuando Lopen saca a Huio de las fauces de la criatura."
+          ]
+        },
+        {
+          "id": "primary238-17-lopen-2",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Aire sobre la playa durante el ataque",
+          "placeId": "place-dawn17-akinah-beach-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Está junto a la criatura mientras Lopen vuelve a proteger a los marineros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la criatura mientras Lopen vuelve a proteger a los marineros."
           ]
         }
       ]
@@ -298975,6 +300049,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Se interna en la isla una vez que el barco iza la bandera verde."
           ]
+        },
+        {
+          "id": "primary238-15-rushu-2",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Edificios de las afueras cubiertos de crem",
+          "placeId": "place-dawn15-akinah-outskirts",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Está junto a los edificios que Rushu dibuja antes de internarse en la ciudad.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a los edificios que Rushu dibuja antes de internarse en la ciudad."
+          ]
+        },
+        {
+          "id": "primary238-15-rushu-3",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Ruinas de la cámara señuelo",
+          "placeId": "place-dawn15-akinah-decoy-gate",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Examina las ruinas elevadas de la cámara señuelo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina las ruinas elevadas de la cámara señuelo."
+          ]
+        },
+        {
+          "id": "primary238-15-rushu-4",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cámara subterránea de la Puerta Jurada",
+          "placeId": "place-dawn15-akinah-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Descubre la plataforma y el edificio de control bajo tierra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Descubre la plataforma y el edificio de control bajo tierra."
+          ]
         }
       ]
     },
@@ -308278,6 +309487,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la playa tras el desembarco de la avanzada."
           ]
+        },
+        {
+          "id": "primary238-15-huio-5",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Playa de los caparazones y las gemas corazón",
+          "placeId": "place-dawn13-akinah-shell-beach",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Lopen lo ve atrapado en las fauces de una criatura junto a la playa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lopen lo ve atrapado en las fauces de una criatura junto a la playa."
+          ]
+        },
+        {
+          "id": "primary238-17-huio-1",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Aire sobre la playa durante el ataque",
+          "placeId": "place-dawn17-akinah-beach-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Está en el aire cuando Lopen saca a Huio de las fauces de la criatura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el aire cuando Lopen saca a Huio de las fauces de la criatura."
+          ]
+        },
+        {
+          "id": "primary238-17-huio-2",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Playa de los caparazones y las gemas corazón",
+          "placeId": "place-dawn13-akinah-shell-beach",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Desciende a la playa para recoger otra lanza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desciende a la playa para recoger otra lanza."
+          ]
         }
       ]
     },
@@ -314703,6 +316047,276 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está a bordo mientras Rysn estudia los bocetos procedentes de la playa."
+          ]
+        },
+        {
+          "id": "primary238-15-cord-1",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cubierta principal del Vela Errante",
+          "placeId": "place-dawn12-akinah-maindeck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Está en el Vela Errante durante el abordaje de los enjambres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el Vela Errante durante el abordaje de los enjambres."
+          ]
+        },
+        {
+          "id": "primary238-15-cord-2",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Agua al pie de la borda del Vela Errante",
+          "placeId": "place-dawn15-akinah-overboard",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Cuerda se arroja al agua con Rysn para escapar del abordaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cuerda se arroja al agua con Rysn para escapar del abordaje."
+          ]
+        },
+        {
+          "id": "primary238-16-cord-1",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Paso sumergido guiado por los suertespren",
+          "placeId": "place-dawn16-akinah-swim",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Nada bajo el agua siguiendo el recorrido de los suertespren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Nada bajo el agua siguiendo el recorrido de los suertespren."
+          ]
+        },
+        {
+          "id": "primary238-16-cord-2",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cavidad donde Rysn y Cuerda salen a respirar",
+          "placeId": "place-dawn16-akinah-cavern-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Sale a respirar y se refugia en la cavidad de piedra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale a respirar y se refugia en la cavidad de piedra."
+          ]
+        },
+        {
+          "id": "primary238-16-cord-3",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sala del mural y de la armadura esquirlada",
+          "placeId": "place-dawn16-akinah-mural-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Entra en la sala donde están el mural y las piezas de armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la sala donde están el mural y las piezas de armadura."
+          ]
+        },
+        {
+          "id": "primary238-16-cord-4",
+          "scene": "dawnshard-chapter-16",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Paso más allá de la puerta de la sala del mural",
+          "placeId": "place-dawn16-akinah-shell-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-16",
+          "sourceIds": [
+            "primary238-dawnshard-16"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-16"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml. Sale por la puerta hacia los caparazones y la luz distante con piezas de la armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale por la puerta hacia los caparazones y la luz distante con piezas de la armadura."
           ]
         }
       ]
@@ -367548,6 +369162,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Se interna en la isla una vez que el barco iza la bandera verde."
           ]
+        },
+        {
+          "id": "primary238-15-rua-ob121-1",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sobrevuelo de la isla",
+          "placeId": "place-dawn15-akinah-flight",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Sobrevuela la isla para reconocer las ruinas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sobrevuela la isla para reconocer las ruinas."
+          ]
+        },
+        {
+          "id": "primary238-17-rua-ob121-2",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Aire sobre la playa durante el ataque",
+          "placeId": "place-dawn17-akinah-beach-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Está junto a la criatura mientras Lopen vuelve a proteger a los marineros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la criatura mientras Lopen vuelve a proteger a los marineros."
+          ]
         }
       ]
     },
@@ -368663,6 +370367,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Sale volando del barco en el traslado ordenado por Rysn hacia la isla principal de Aimia."
           ]
+        },
+        {
+          "id": "primary238-15-nikli-dawn1-1",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cubierta principal del Vela Errante",
+          "placeId": "place-dawn12-akinah-maindeck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Está en el Vela Errante durante el abordaje de los enjambres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el Vela Errante durante el abordaje de los enjambres."
+          ]
+        },
+        {
+          "id": "primary238-17-nikli-dawn1-1",
+          "scene": "dawnshard-chapter-17",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Sala del mural y de la armadura esquirlada",
+          "placeId": "place-dawn16-akinah-mural-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/16.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-17",
+          "sourceIds": [
+            "primary238-dawnshard-17"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-17"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/17.xhtml. Está en la sala del mural al iniciarse la negociación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala del mural al iniciarse la negociación."
+          ]
         }
       ]
     },
@@ -369191,6 +370985,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está a bordo mientras Rysn estudia los bocetos procedentes de la playa."
+          ]
+        },
+        {
+          "id": "primary238-15-dlrwan-dawn4-1",
+          "scene": "dawnshard-chapter-15",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Akinah · Cubierta principal del Vela Errante",
+          "placeId": "place-dawn12-akinah-maindeck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary238-dawnshard-15",
+          "sourceIds": [
+            "primary238-dawnshard-15"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-akinah",
+          "coordinateAnchorName": "Akinah",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-15"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/15.xhtml. Está en el Vela Errante durante el abordaje de los enjambres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el Vela Errante durante el abordaje de los enjambres."
           ]
         }
       ]
