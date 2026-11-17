@@ -4109,6 +4109,39 @@
       "rial",
       "stormfather",
       "taravangian"
+    ],
+    "ob-chapter-101": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "ico-ob99",
+      "kaladin",
+      "moelach",
+      "ob101-ico-daughter",
+      "ob101-ico-father",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "syl"
+    ],
+    "ob-chapter-102": [
+      "adolin",
+      "highmarshal-celeste-ob61",
+      "ico-ob99",
+      "kaladin",
+      "kyril-ob102",
+      "moelach",
+      "nenefra-ob102",
+      "ob102-celebrant-art-seller",
+      "ob102-celebrant-port-administrator",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "syl"
+    ],
+    "ob-chapter-103": [
+      "dalinar",
+      "lani-ob103",
+      "moelach"
     ]
   },
   "knowledgeArchive": {
@@ -14903,6 +14936,108 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Identifica al ojomuerto de su calabozo como su padre y cuenta que su hija trabajó en la casa de cambio de Celebrant.",
+        "sourceIds": [
+          "primary222-ob101"
+        ],
+        "id": "primary222-archive-ico-deadeye-father",
+        "entryId": "spren-person-ico-ob99",
+        "value": "Identifica al ojomuerto de su calabozo como su padre y cuenta que su hija trabajó en la casa de cambio de Celebrant.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-101"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico se refiere a ella como ojomuerto. Sale del calabozo y acompaña a Adolin hasta Celebrant.",
+        "sourceIds": [
+          "primary222-ob101"
+        ],
+        "id": "primary222-archive-adolin-blade-deadeye",
+        "entryId": "spren-person-ob87-platform-thread-spren",
+        "value": "Ico se refiere a ella como ojomuerto. Sale del calabozo y acompaña a Adolin hasta Celebrant.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-101"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Hessi recoge tradiciones que atribuyen visiones del futuro a Moelach.",
+        "sourceIds": [
+          "primary222-ob101"
+        ],
+        "id": "primary222-archive-moelach-foresight",
+        "entryId": "spren-person-moelach",
+        "value": "Hessi recoge tradiciones que atribuyen visiones del futuro a Moelach.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-101"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Un honorspren la llama Sylphrena, la Antigua Hija. Syl revela que ofrecen una recompensa por devolverla a Integridad Duradera.",
+        "sourceIds": [
+          "primary222-ob102"
+        ],
+        "id": "primary222-archive-syl-ancient-daughter",
+        "entryId": "spren-person-syl",
+        "value": "Un honorspren la llama Sylphrena, la Antigua Hija. Syl revela que ofrecen una recompensa por devolverla a Integridad Duradera.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-102"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Hessi recoge la tradición de que las visiones asociadas a Moelach son más comunes cerca de una transición entre reinos.",
+        "sourceIds": [
+          "primary222-ob102"
+        ],
+        "id": "primary222-archive-moelach-threshold",
+        "entryId": "spren-person-moelach",
+        "value": "Hessi recoge la tradición de que las visiones asociadas a Moelach son más comunes cerca de una transición entre reinos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-102"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml. Hessi propone que los Susurros de Muerte se deben a Moelach. Fundamenta su hipótesis en que el fenómeno se concentra en zonas que cambian con el tiempo.",
+        "sourceIds": [
+          "primary222-ob103"
+        ],
+        "id": "primary222-archive-moelach-death-rattles",
+        "entryId": "spren-person-moelach",
+        "value": "Hessi propone que los Susurros de Muerte se deben a Moelach. Fundamenta su hipótesis en que el fenómeno se concentra en zonas que cambian con el tiempo.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-103"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml",
         "supersedes": []
       }
     ],
@@ -30664,6 +30799,60 @@
       "networkEvidence": {
         "kind": "relationship",
         "reason": "La anfitriona es presentada como esposa de un nuevo alto príncipe veden."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico identifica como su padre al ojomuerto del calabozo.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-ico-father",
+      "from": "ob101-ico-father",
+      "to": "ico-ob99",
+      "kind": "parent",
+      "label": "Padre e hijo",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Ico identifica como su padre al ojomuerto del calabozo."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Ico identifica como su padre al ojomuerto del calabozo."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico dice que su hija trabajaba en la casa de cambio.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-ico-daughter",
+      "from": "ico-ob99",
+      "to": "ob101-ico-daughter",
+      "kind": "parent",
+      "label": "Padre e hija",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Ico dice que su hija trabajaba en la casa de cambio."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Ico dice que su hija trabajaba en la casa de cambio."
       }
     }
   ],
@@ -70461,6 +70650,431 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico presta su camarote a Adolin y habla con él de los juramentos.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-ico-adolin-oaths",
+      "participants": [
+        "adolin",
+        "ico-ob99"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ico presta su camarote a Adolin y habla con él de los juramentos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ico presta su camarote a Adolin y habla con él de los juramentos.",
+        "pairs": [
+          [
+            "adolin",
+            "ico-ob99"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Conversan sobre el deber, la renuncia a gobernar y la Guardia de la Muralla.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-celeste-duty",
+      "participants": [
+        "adolin",
+        "highmarshal-celeste-ob61"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Conversan sobre el deber, la renuncia a gobernar y la Guardia de la Muralla.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Conversan sobre el deber, la renuncia a gobernar y la Guardia de la Muralla.",
+        "pairs": [
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico abre el calabozo. La ojomuerto sale al encuentro de Adolin. Ico identifica a quien queda dentro.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-ico-brig",
+      "participants": [
+        "adolin",
+        "ico-ob99",
+        "ob87-platform-thread-spren"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ico abre el calabozo. La ojomuerto sale al encuentro de Adolin. Ico identifica a quien queda dentro.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ico abre el calabozo. La ojomuerto sale al encuentro de Adolin. Ico identifica a quien queda dentro.",
+        "pairs": [
+          [
+            "adolin",
+            "ico-ob99"
+          ],
+          [
+            "adolin",
+            "ob87-platform-thread-spren"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico explica qué servicios hay en el puerto y el grupo decide cómo buscar pasaje y suministros.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-celebrant-docking",
+      "participants": [
+        "adolin",
+        "ico-ob99",
+        "kaladin",
+        "shallan",
+        "highmarshal-celeste-ob61"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ico explica qué servicios hay en el puerto y el grupo decide cómo buscar pasaje y suministros.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ico explica qué servicios hay en el puerto y el grupo decide cómo buscar pasaje y suministros.",
+        "pairs": [
+          [
+            "adolin",
+            "ico-ob99"
+          ],
+          [
+            "kaladin",
+            "ico-ob99"
+          ],
+          [
+            "adolin",
+            "shallan"
+          ],
+          [
+            "adolin",
+            "highmarshal-celeste-ob61"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Syl comenta lo que sabe de la ciudad. Una vendedora ofrece a Kaladin una pintura de Nenefra.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-celebrant-market",
+      "participants": [
+        "kaladin",
+        "syl",
+        "adolin",
+        "ob102-celebrant-art-seller"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Syl comenta lo que sabe de la ciudad. Una vendedora ofrece a Kaladin una pintura de Nenefra.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl comenta lo que sabe de la ciudad. Una vendedora ofrece a Kaladin una pintura de Nenefra.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "adolin",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "ob102-celebrant-art-seller"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Preguntan por pasaje y por quién inspecciona los barcos. Patrón traduce las noticias de los marineros.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-celebrant-port-questions",
+      "participants": [
+        "shallan",
+        "ob102-celebrant-port-administrator",
+        "pattern",
+        "highmarshal-celeste-ob61"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Preguntan por pasaje y por quién inspecciona los barcos. Patrón traduce las noticias de los marineros.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Preguntan por pasaje y por quién inspecciona los barcos. Patrón traduce las noticias de los marineros.",
+        "pairs": [
+          [
+            "shallan",
+            "ob102-celebrant-port-administrator"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "highmarshal-celeste-ob61",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Kyril habla con Ico durante la inspección y después ordena al administrador que apague el fuego y deje el puesto.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-celebrant-port-inspection",
+      "participants": [
+        "ico-ob99",
+        "kyril-ob102",
+        "ob102-celebrant-port-administrator"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kyril habla con Ico durante la inspección y después ordena al administrador que apague el fuego y deje el puesto.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kyril habla con Ico durante la inspección y después ordena al administrador que apague el fuego y deje el puesto.",
+        "pairs": [
+          [
+            "ico-ob99",
+            "kyril-ob102"
+          ],
+          [
+            "kyril-ob102",
+            "ob102-celebrant-port-administrator"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. El administrador pregunta por los Radiantes y ofrece retrasar al Fusionado.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-celebrant-port-aid",
+      "participants": [
+        "shallan",
+        "ob102-celebrant-port-administrator"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El administrador pregunta por los Radiantes y ofrece retrasar al Fusionado.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El administrador pregunta por los Radiantes y ofrece retrasar al Fusionado.",
+        "pairs": [
+          [
+            "shallan",
+            "ob102-celebrant-port-administrator"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Syl cuenta a Kaladin que hay una recompensa por devolverla a Integridad Duradera.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-syl-reward",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Syl cuenta a Kaladin que hay una recompensa por devolverla a Integridad Duradera.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl cuenta a Kaladin que hay una recompensa por devolverla a Integridad Duradera.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Los grupos se reúnen. Syl llama al barco de honorspren y consiguen embarcar con ella.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-celebrant-escape",
+      "participants": [
+        "kaladin",
+        "adolin",
+        "shallan",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Los grupos se reúnen. Syl llama al barco de honorspren y consiguen embarcar con ella.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los grupos se reúnen. Syl llama al barco de honorspren y consiguen embarcar con ella.",
+        "pairs": [
+          [
+            "kaladin",
+            "adolin"
+          ],
+          [
+            "kaladin",
+            "shallan"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -106937,6 +107551,166 @@
       "kind": "background",
       "text": "Se retrae de Dalinar después del regreso a Urithiru. El vínculo permanece.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ojomuerto al que Ico mantiene en el calabozo para que no se pierda.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-ob101-ico-father-intro",
+      "characterId": "ob101-ico-father",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "kind": "background",
+      "text": "Ojomuerto al que Ico mantiene en el calabozo para que no se pierda.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Ico cuenta que trabajó en la casa de cambio de Celebrant y se marchó.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-ob101-ico-daughter-intro",
+      "characterId": "ob101-ico-daughter",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "kind": "background",
+      "text": "Ico cuenta que trabajó en la casa de cambio de Celebrant y se marchó.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Habla de haber permitido que otra persona reinara. El pasaje no da nombres del reino ni de su familia.",
+      "sourceIds": [
+        "primary222-ob101"
+      ],
+      "id": "primary222-celeste-relinquished-rule",
+      "characterId": "highmarshal-celeste-ob61",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-101"
+      },
+      "kind": "background",
+      "text": "Habla de haber permitido que otra persona reinara. El pasaje no da nombres del reino ni de su familia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Fusionado que se encarga de las inspecciones del puerto de Celebrant.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-kyril-ob102-intro",
+      "characterId": "kyril-ob102",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "kind": "background",
+      "text": "Fusionado que se encarga de las inspecciones del puerto de Celebrant.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Spren de enredaderas que informa a los viajeros sobre los barcos y les insta a huir.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-ob102-celebrant-port-administrator-intro",
+      "characterId": "ob102-celebrant-port-administrator",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "kind": "background",
+      "text": "Spren de enredaderas que informa a los viajeros sobre los barcos y les insta a huir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Ofrece a Kaladin un cuadro atribuido a Nenefra.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-ob102-celebrant-art-seller-intro",
+      "characterId": "ob102-celebrant-art-seller",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "kind": "background",
+      "text": "Ofrece a Kaladin un cuadro atribuido a Nenefra.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Artista a quien una vendedora atribuye un cuadro del mercado de Celebrant.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-nenefra-ob102-intro",
+      "characterId": "nenefra-ob102",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "kind": "background",
+      "text": "Artista a quien una vendedora atribuye un cuadro del mercado de Celebrant.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Su barco arde y se hunde tras la inspección. El destino de Ico y de su padre queda sin confirmar en este capítulo.",
+      "sourceIds": [
+        "primary222-ob102"
+      ],
+      "id": "primary222-ico-ship-fire",
+      "characterId": "ico-ob99",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-102"
+      },
+      "kind": "background",
+      "text": "Su barco arde y se hunde tras la inspección. El destino de Ico y de su padre queda sin confirmar en este capítulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml. Nombre mencionado por Nohadon al hablar con el mercader dentro del sueño de Dalinar.",
+      "sourceIds": [
+        "primary222-ob103"
+      ],
+      "id": "primary222-lani-ob103-intro",
+      "characterId": "lani-ob103",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-103"
+      },
+      "kind": "background",
+      "text": "Nombre mencionado por Nohadon al hablar con el mercader dentro del sueño de Dalinar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml. Al despertar del sueño, su recuerdo de la noche del funeral de Gavilar se vuelve nítido.",
+      "sourceIds": [
+        "primary222-ob103"
+      ],
+      "id": "primary222-dalinar-gavilar-funeral-memory",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-103"
+      },
+      "kind": "background",
+      "text": "Al despertar del sueño, su recuerdo de la noche del funeral de Gavilar se vuelve nítido.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -109638,6 +110412,10 @@
         {
           "revision": 221,
           "notes": "Revisados el patronímico de Szeth, el compromiso de Shallan y Adolin, el padre de Shallan, Tarah, Evi, la ascendencia de Dalinar y la mención del matrimonio veden. El grado de ascendencia sigue abierto."
+        },
+        {
+          "revision": 222,
+          "notes": "Se revisan el padre y la hija de Ico, las referencias de Celeste a la familia real, los parientes ya conocidos de Adolin y Dalinar y las alusiones del sueño. Lani queda como mención sin parentesco atribuido."
         }
       ]
     }
@@ -112794,7 +113572,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 221,
+  "revision": 222,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -115749,6 +116527,30 @@
       "label": "Capítulo 100 · Una vieja amiga",
       "part": "ob-4a",
       "source": "primary221-ob100"
+    },
+    {
+      "id": "ob-chapter-101",
+      "bookId": "ob",
+      "chapter": 101,
+      "label": "Capítulo 101 · Ojomuerto",
+      "part": "ob-4a",
+      "source": "primary222-ob101"
+    },
+    {
+      "id": "ob-chapter-102",
+      "bookId": "ob",
+      "chapter": 102,
+      "label": "Capítulo 102 · Celebrant",
+      "part": "ob-4a",
+      "source": "primary222-ob102"
+    },
+    {
+      "id": "ob-chapter-103",
+      "bookId": "ob",
+      "chapter": 103,
+      "label": "Capítulo 103 · Hipócrita",
+      "part": "ob-4a",
+      "source": "primary222-ob103"
     }
   ],
   "experiencePresentation": {
@@ -117016,6 +117818,32 @@
         "name": "Shadesmar · Habitación del orbe de Riino",
         "xy": null,
         "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml. Dalinar experimenta una conversación con Nohadon en una ciudad antigua, luego despierta en Urithiru sin que haya tormenta.",
+      "sourceIds": [
+        "primary222-ob103"
+      ],
+      "id": "primary222-dalinar-nohadon-dream",
+      "characterId": "dalinar",
+      "sceneId": "ob-chapter-103",
+      "type": "dream",
+      "experiencedPlace": "Estancia, balcón y mercado de la ciudad antigua del sueño de Nohadon",
+      "physicalPlaceId": "place-urithiru-dalinar-rooms",
+      "notes": [
+        "Dalinar experimenta una conversación con Nohadon en una ciudad antigua, luego despierta en Urithiru sin que haya tormenta.",
+        "El origen del sueño no se aclara."
+      ],
+      "entryAnchor": {
+        "placeId": "place-urithiru-dalinar-rooms",
+        "name": "Urithiru · Dependencias de Dalinar",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
       }
     }
   ],
@@ -134673,6 +135501,276 @@
           "needsConfirmation": [],
           "notes": [
             "Está en cubierta durante la travesía hacia Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-kaladin-2",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en cubierta durante la aproximación a Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la aproximación a Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-kaladin-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-kaladin-1",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Casa de cambio",
+          "placeId": "place-ob102-celebrant-exchange",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-exchange",
+          "coordinateAnchorName": "Celebrant · Casa de cambio",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Ha pasado por el cambista antes de dirigirse al mercado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ha pasado por el cambista antes de dirigirse al mercado."
+          ]
+        },
+        {
+          "id": "primary222-102-kaladin-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Mercado",
+          "placeId": "place-ob102-celebrant-market",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-market",
+          "coordinateAnchorName": "Celebrant · Mercado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el mercado de Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el mercado de Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-102-kaladin-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-kaladin-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
           ]
         }
       ]
@@ -152678,6 +153776,276 @@
           "notes": [
             "Está en cubierta durante la travesía hacia Celebrant."
           ]
+        },
+        {
+          "id": "primary222-101-shallan-2",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en cubierta durante la aproximación a Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la aproximación a Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-shallan-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-shallan-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Busca pasaje en la zona de los barcos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Busca pasaje en la zona de los barcos."
+          ]
+        },
+        {
+          "id": "primary222-102-shallan-3",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Administración del puerto",
+          "placeId": "place-ob102-celebrant-port-office",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-port-office",
+          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el despacho durante las conversaciones sobre la inspección y el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante las conversaciones sobre la inspección y el incendio."
+          ]
+        },
+        {
+          "id": "primary222-102-shallan-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-shallan-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
+          ]
         }
       ]
     },
@@ -162185,6 +163553,231 @@
           "needsConfirmation": [],
           "notes": [
             "Está en cubierta durante la travesía hacia Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-syl-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-syl-1",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Casa de cambio",
+          "placeId": "place-ob102-celebrant-exchange",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-exchange",
+          "coordinateAnchorName": "Celebrant · Casa de cambio",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Ha pasado por el cambista antes de dirigirse al mercado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ha pasado por el cambista antes de dirigirse al mercado."
+          ]
+        },
+        {
+          "id": "primary222-102-syl-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Mercado",
+          "placeId": "place-ob102-celebrant-market",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-market",
+          "coordinateAnchorName": "Celebrant · Mercado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el mercado de Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el mercado de Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-102-syl-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-syl-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
           ]
         }
       ]
@@ -174108,6 +175701,53 @@
           "notes": [
             "Entra en el cuarto de Adolin y encuentra una botella de vino violeta."
           ]
+        },
+        {
+          "id": "primary222-103-dalinar-1",
+          "scene": "ob-chapter-103",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob103",
+          "sourceIds": [
+            "primary222-ob103"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-103"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml. Despierta vestido en su cama de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Despierta vestido en su cama de Urithiru."
+          ]
         }
       ]
     },
@@ -183812,6 +185452,366 @@
           "needsConfirmation": [],
           "notes": [
             "Coincide con el grupo en la sala principal del faro."
+          ]
+        },
+        {
+          "id": "primary222-101-adolin-1",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Camarote del capitán Ico",
+          "placeId": "place-ob101-ico-cabin",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-ico-cabin",
+          "coordinateAnchorName": "Shadesmar · Camarote del capitán Ico",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en el camarote donde Adolin adapta su ropa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote donde Adolin adapta su ropa."
+          ]
+        },
+        {
+          "id": "primary222-101-adolin-2",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en cubierta durante la aproximación a Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la aproximación a Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-adolin-3",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Calabozo de popa del barco de Ico",
+          "placeId": "place-ob101-ico-brig",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-ico-brig",
+          "coordinateAnchorName": "Shadesmar · Calabozo de popa del barco de Ico",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin."
+          ]
+        },
+        {
+          "id": "primary222-101-adolin-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-adolin-1",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Casa de cambio",
+          "placeId": "place-ob102-celebrant-exchange",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-exchange",
+          "coordinateAnchorName": "Celebrant · Casa de cambio",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Ha pasado por el cambista antes de dirigirse al mercado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ha pasado por el cambista antes de dirigirse al mercado."
+          ]
+        },
+        {
+          "id": "primary222-102-adolin-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Mercado",
+          "placeId": "place-ob102-celebrant-market",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-market",
+          "coordinateAnchorName": "Celebrant · Mercado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el mercado de Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el mercado de Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-102-adolin-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-adolin-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
           ]
         }
       ]
@@ -236889,6 +238889,231 @@
           "needsConfirmation": [],
           "notes": [
             "Coincide con el grupo en la sala principal del faro."
+          ]
+        },
+        {
+          "id": "primary222-101-pattern-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-pattern-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Busca pasaje en la zona de los barcos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Busca pasaje en la zona de los barcos."
+          ]
+        },
+        {
+          "id": "primary222-102-pattern-3",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Administración del puerto",
+          "placeId": "place-ob102-celebrant-port-office",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-port-office",
+          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el despacho durante las conversaciones sobre la inspección y el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante las conversaciones sobre la inspección y el incendio."
+          ]
+        },
+        {
+          "id": "primary222-102-pattern-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-pattern-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
           ]
         }
       ]
@@ -324102,6 +326327,276 @@
           "notes": [
             "Está en cubierta durante la travesía hacia Celebrant."
           ]
+        },
+        {
+          "id": "primary222-101-highmarshal-celeste-ob61-2",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en cubierta durante la aproximación a Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la aproximación a Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-highmarshal-celeste-ob61-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-highmarshal-celeste-ob61-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Busca pasaje en la zona de los barcos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Busca pasaje en la zona de los barcos."
+          ]
+        },
+        {
+          "id": "primary222-102-highmarshal-celeste-ob61-3",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Administración del puerto",
+          "placeId": "place-ob102-celebrant-port-office",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-port-office",
+          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el despacho durante las conversaciones sobre la inspección y el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante las conversaciones sobre la inspección y el incendio."
+          ]
+        },
+        {
+          "id": "primary222-102-highmarshal-celeste-ob61-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-highmarshal-celeste-ob61-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
+          ]
         }
       ]
     },
@@ -330924,6 +333419,276 @@
           "notes": [
             "Permanece en el umbral del faro."
           ]
+        },
+        {
+          "id": "primary222-101-ob87-platform-thread-spren-3",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Calabozo de popa del barco de Ico",
+          "placeId": "place-ob101-ico-brig",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-ico-brig",
+          "coordinateAnchorName": "Shadesmar · Calabozo de popa del barco de Ico",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin."
+          ]
+        },
+        {
+          "id": "primary222-101-ob87-platform-thread-spren-5",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Embarcadero de llegada",
+          "placeId": "place-ob101-celebrant-pier",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-celebrant-pier",
+          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a Celebrant con el grupo y se dispone a buscar suministros y pasaje."
+          ]
+        },
+        {
+          "id": "primary222-102-ob87-platform-thread-spren-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Busca pasaje en la zona de los barcos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Busca pasaje en la zona de los barcos."
+          ]
+        },
+        {
+          "id": "primary222-102-ob87-platform-thread-spren-3",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Administración del puerto",
+          "placeId": "place-ob102-celebrant-port-office",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-port-office",
+          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el despacho durante las conversaciones sobre la inspección y el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante las conversaciones sobre la inspección y el incendio."
+          ]
+        },
+        {
+          "id": "primary222-102-ob87-platform-thread-spren-4",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se reúne con el grupo en los muelles y se dirige al barco de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con el grupo en los muelles y se dirige al barco de los honorspren."
+          ]
+        },
+        {
+          "id": "primary222-102-ob87-platform-thread-spren-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "placeId": "place-ob102-honorspren-ship",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-honorspren-ship",
+          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Embarca y sale de Celebrant en el navío de los honorspren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Embarca y sale de Celebrant en el navío de los honorspren."
+          ]
         }
       ]
     },
@@ -333312,6 +336077,231 @@
           "notes": [
             "Está en cubierta durante la travesía hacia Celebrant."
           ]
+        },
+        {
+          "id": "primary222-101-ico-ob99-1",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Camarote del capitán Ico",
+          "placeId": "place-ob101-ico-cabin",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-ico-cabin",
+          "coordinateAnchorName": "Shadesmar · Camarote del capitán Ico",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en el camarote donde Adolin adapta su ropa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote donde Adolin adapta su ropa."
+          ]
+        },
+        {
+          "id": "primary222-101-ico-ob99-2",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en cubierta durante la aproximación a Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la aproximación a Celebrant."
+          ]
+        },
+        {
+          "id": "primary222-101-ico-ob99-3",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Calabozo de popa del barco de Ico",
+          "placeId": "place-ob101-ico-brig",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-ico-brig",
+          "coordinateAnchorName": "Shadesmar · Calabozo de popa del barco de Ico",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin."
+          ]
+        },
+        {
+          "id": "primary222-101-ico-ob99-4",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Vuelve a cubierta y da órdenes mientras el barco se aproxima al muelle.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a cubierta y da órdenes mientras el barco se aproxima al muelle."
+          ]
+        },
+        {
+          "id": "primary222-102-ico-ob99-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se los ve hablando en el barco de Ico durante la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se los ve hablando en el barco de Ico durante la inspección."
+          ]
         }
       ]
     },
@@ -333579,6 +336569,350 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ob101-ico-father",
+      "name": "Padre de Ico",
+      "initial": "P",
+      "role": "Ojomuerto al que Ico mantiene en el calabozo para que no se pierda.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary222-101-ob101-ico-father-3",
+          "scene": "ob-chapter-101",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Calabozo de popa del barco de Ico",
+          "placeId": "place-ob101-ico-brig",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob101",
+          "sourceIds": [
+            "primary222-ob101"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob101-ico-brig",
+          "coordinateAnchorName": "Shadesmar · Calabozo de popa del barco de Ico",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-101"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml. Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el calabozo de popa o junto a su puerta cuando Ico abre para que salga la ojomuerto de Adolin."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob101-ico-daughter",
+      "name": "Hija de Ico",
+      "initial": "H",
+      "role": "Ico cuenta que trabajó en la casa de cambio de Celebrant y se marchó.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "kyril-ob102",
+      "name": "Kyril",
+      "initial": "K",
+      "role": "Fusionado que se encarga de las inspecciones del puerto de Celebrant.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary222-102-kyril-ob102-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se los ve hablando en el barco de Ico durante la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se los ve hablando en el barco de Ico durante la inspección."
+          ]
+        },
+        {
+          "id": "primary222-102-kyril-ob102-3",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Administración del puerto",
+          "placeId": "place-ob102-celebrant-port-office",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-port-office",
+          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el despacho durante las conversaciones sobre la inspección y el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante las conversaciones sobre la inspección y el incendio."
+          ]
+        },
+        {
+          "id": "primary222-102-kyril-ob102-5",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Muelles durante la huida",
+          "placeId": "place-ob102-celebrant-docks",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-docks",
+          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Se ve al Fusionado en el puerto mientras zarpa el barco.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se ve al Fusionado en el puerto mientras zarpa el barco."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob102-celebrant-port-administrator",
+      "name": "Administrador del puerto de Celebrant",
+      "initial": "A",
+      "role": "Spren de enredaderas que informa a los viajeros sobre los barcos y les insta a huir.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary222-102-ob102-celebrant-port-administrator-3",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Administración del puerto",
+          "placeId": "place-ob102-celebrant-port-office",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-port-office",
+          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el despacho durante las conversaciones sobre la inspección y el incendio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante las conversaciones sobre la inspección y el incendio."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob102-celebrant-art-seller",
+      "name": "Vendedora de arte de Celebrant",
+      "initial": "V",
+      "role": "Ofrece a Kaladin un cuadro atribuido a Nenefra.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary222-102-ob102-celebrant-art-seller-2",
+          "scene": "ob-chapter-102",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Celebrant · Mercado",
+          "placeId": "place-ob102-celebrant-market",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary222-ob102",
+          "sourceIds": [
+            "primary222-ob102"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob102-celebrant-market",
+          "coordinateAnchorName": "Celebrant · Mercado",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-102"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml. Está en el mercado de Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el mercado de Celebrant."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nenefra-ob102",
+      "name": "Nenefra",
+      "initial": "N",
+      "role": "Artista a quien una vendedora atribuye un cuadro del mercado de Celebrant.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "lani-ob103",
+      "name": "Lani",
+      "initial": "L",
+      "role": "Nombre mencionado por Nohadon al hablar con el mercader dentro del sueño de Dalinar.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
     }
   ]
 }
