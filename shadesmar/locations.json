@@ -4514,6 +4514,32 @@
       "lopen",
       "rushu",
       "rysn"
+    ],
+    "dawnshard-chapter-6": [
+      "alalhawithador-dawn6",
+      "cord",
+      "dawn4-nikli-assistant",
+      "dlrwan-dawn4",
+      "kstled-dawn4",
+      "lopen",
+      "nikli-dawn1",
+      "rysn",
+      "yelamaiszin-dawn6"
+    ],
+    "dawnshard-chapter-7": [
+      "caelinora-dawn7",
+      "cord",
+      "huio",
+      "lopen",
+      "rua-ob121"
+    ],
+    "dawnshard-chapter-8": [
+      "alstben-dawn8",
+      "dawn4-nikli-assistant",
+      "dlrwan-dawn4",
+      "kstled-dawn4",
+      "nikli-dawn1",
+      "rysn"
     ]
   },
   "knowledgeArchive": {
@@ -5103,6 +5129,23 @@
       },
       {
         "id": "spren-type-wavespren",
+        "section": "spren-types"
+      },
+      {
+        "id": "spren-person-caelinora",
+        "section": "spren-individuals",
+        "characterId": "caelinora-dawn7",
+        "characterRevealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        }
+      },
+      {
+        "id": "spren-type-luckspren",
+        "section": "spren-types"
+      },
+      {
+        "id": "spren-type-distressspren",
         "section": "spren-types"
       }
     ],
@@ -16166,6 +16209,159 @@
         },
         "field": "description",
         "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Caelinora",
+        "sourceIds": [
+          "primary234-dawnshard-7"
+        ],
+        "id": "primary234-archive-name-spren-person-caelinora",
+        "entryId": "spren-person-caelinora",
+        "value": "Caelinora",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        },
+        "field": "name",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Lopen identifica a Caelinora como la spren de Huio al verla en cubierta.",
+        "sourceIds": [
+          "primary234-dawnshard-7"
+        ],
+        "id": "primary234-archive-caelinora-deck",
+        "entryId": "spren-person-caelinora",
+        "value": "Lopen identifica a Caelinora como la spren de Huio al verla en cubierta.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. En el Vela Errante adopta la forma de un pequeño barco volador.",
+        "sourceIds": [
+          "primary234-dawnshard-7"
+        ],
+        "id": "primary234-archive-rua-flying-boat",
+        "entryId": "spren-person-rua",
+        "value": "En el Vela Errante adopta la forma de un pequeño barco volador.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Lopen observa vientospren en el aire durante la travesía.",
+        "sourceIds": [
+          "primary234-dawnshard-7"
+        ],
+        "id": "primary234-archive-windspren-over-deck",
+        "entryId": "spren-type-windspren",
+        "value": "Lopen observa vientospren en el aire durante la travesía.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Suertespren",
+        "sourceIds": [
+          "primary234-dawnshard-7"
+        ],
+        "id": "primary234-archive-name-spren-type-luckspren",
+        "entryId": "spren-type-luckspren",
+        "value": "Suertespren",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        },
+        "field": "name",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Lopen ve suertespren con forma de puntas de flecha durante la travesía del Vela Errante.",
+        "sourceIds": [
+          "primary234-dawnshard-7"
+        ],
+        "id": "primary234-archive-luckspren-at-sea",
+        "entryId": "spren-type-luckspren",
+        "value": "Lopen ve suertespren con forma de puntas de flecha durante la travesía del Vela Errante.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-7"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Congojaspren",
+        "sourceIds": [
+          "primary234-dawnshard-8"
+        ],
+        "id": "primary234-archive-name-spren-type-distressspren",
+        "entryId": "spren-type-distressspren",
+        "value": "Congojaspren",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-8"
+        },
+        "field": "name",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Alrededor de los marineros toman la forma de cruces negras que se retuercen.",
+        "sourceIds": [
+          "primary234-dawnshard-8"
+        ],
+        "id": "primary234-archive-congojaspren-rail",
+        "entryId": "spren-type-distressspren",
+        "value": "Alrededor de los marineros toman la forma de cruces negras que se retuercen.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-8"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Rysn ve unos pocos pegotes de miedospren entre la tripulación.",
+        "sourceIds": [
+          "primary234-dawnshard-8"
+        ],
+        "id": "primary234-archive-fearspren-at-rail",
+        "entryId": "spren-type-fearspren",
+        "value": "Rysn ve unos pocos pegotes de miedospren entre la tripulación.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-8"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
         "supersedes": []
       }
     ],
@@ -76363,6 +76559,336 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Rysn examina el lavis con Kstled y habla con Cuerda en la bodega.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-rysn-spoiled-lavis",
+      "participants": [
+        "rysn",
+        "kstled-dawn4",
+        "cord"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rysn examina el lavis con Kstled y habla con Cuerda en la bodega.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rysn examina el lavis con Kstled y habla con Cuerda en la bodega.",
+        "pairs": [
+          [
+            "rysn",
+            "kstled-dawn4"
+          ],
+          [
+            "rysn",
+            "cord"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Nikli ayuda a Rysn a regresar al camarote, donde se reúne con Lopen.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-rysn-nikli-lopen-cabin",
+      "participants": [
+        "rysn",
+        "nikli-dawn1",
+        "lopen"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Nikli ayuda a Rysn a regresar al camarote, donde se reúne con Lopen.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Nikli ayuda a Rysn a regresar al camarote, donde se reúne con Lopen.",
+        "pairs": [
+          [
+            "rysn",
+            "nikli-dawn1"
+          ],
+          [
+            "rysn",
+            "lopen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Rysn y Dlrwan consultan el mapa y deciden desviarse para comerciar con los nómadas hexi.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-rysn-dlrwan-hexi",
+      "participants": [
+        "rysn",
+        "dlrwan-dawn4"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rysn y Dlrwan consultan el mapa y deciden desviarse para comerciar con los nómadas hexi.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rysn y Dlrwan consultan el mapa y deciden desviarse para comerciar con los nómadas hexi.",
+        "pairs": [
+          [
+            "rysn",
+            "dlrwan-dawn4"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Hablan en cubierta después del trato con los hexi.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-rysn-nikli-after-hexi",
+      "participants": [
+        "rysn",
+        "nikli-dawn1"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Hablan en cubierta después del trato con los hexi.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan en cubierta después del trato con los hexi.",
+        "pairs": [
+          [
+            "rysn",
+            "nikli-dawn1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Los enjambres deliberan a distancia. Tras un empate sobre hundir el barco, autorizan otro intento de Nikli de desviar la expedición.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-sleepless-deliberation",
+      "participants": [
+        "nikli-dawn1",
+        "yelamaiszin-dawn6",
+        "alalhawithador-dawn6"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "message",
+      "summary": "Los enjambres deliberan a distancia. Tras un empate sobre hundir el barco, autorizan otro intento de Nikli de desviar la expedición.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los enjambres deliberan a distancia. Tras un empate sobre hundir el barco, autorizan otro intento de Nikli de desviar la expedición.",
+        "pairs": [
+          [
+            "nikli-dawn1",
+            "yelamaiszin-dawn6"
+          ],
+          [
+            "nikli-dawn1",
+            "alalhawithador-dawn6"
+          ],
+          [
+            "yelamaiszin-dawn6",
+            "alalhawithador-dawn6"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Huio trae una carta para Cuerda. Ella y Lopen hablan de Roca y de su familia.",
+      "sourceIds": [
+        "primary234-dawnshard-7"
+      ],
+      "id": "primary234-cord-letter",
+      "participants": [
+        "cord",
+        "huio",
+        "lopen"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Huio trae una carta para Cuerda. Ella y Lopen hablan de Roca y de su familia.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Huio trae una carta para Cuerda. Ella y Lopen hablan de Roca y de su familia.",
+        "pairs": [
+          [
+            "cord",
+            "huio"
+          ],
+          [
+            "cord",
+            "lopen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Huio muestra a Lopen lo que ha descubierto en sus pruebas con aluminio y las vinculacañas de Rushu.",
+      "sourceIds": [
+        "primary234-dawnshard-7"
+      ],
+      "id": "primary234-wandersail-spanreed-experiment",
+      "participants": [
+        "huio",
+        "lopen"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Huio muestra a Lopen lo que ha descubierto en sus pruebas con aluminio y las vinculacañas de Rushu.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Huio muestra a Lopen lo que ha descubierto en sus pruebas con aluminio y las vinculacañas de Rushu.",
+        "pairs": [
+          [
+            "huio",
+            "lopen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Alstben pregunta si darán media vuelta. Kstled objeta cuando Rysn propone remolcar el aparente santhid con respeto y Dlrwan autoriza que lo intenten.",
+      "sourceIds": [
+        "primary234-dawnshard-8"
+      ],
+      "id": "primary234-rysn-santhid-discussion",
+      "participants": [
+        "rysn",
+        "dlrwan-dawn4",
+        "alstben-dawn8",
+        "kstled-dawn4"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-8"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Alstben pregunta si darán media vuelta. Kstled objeta cuando Rysn propone remolcar el aparente santhid con respeto y Dlrwan autoriza que lo intenten.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Alstben pregunta si darán media vuelta. Kstled objeta cuando Rysn propone remolcar el aparente santhid con respeto y Dlrwan autoriza que lo intenten.",
+        "pairs": [
+          [
+            "rysn",
+            "dlrwan-dawn4"
+          ],
+          [
+            "rysn",
+            "alstben-dawn8"
+          ],
+          [
+            "rysn",
+            "kstled-dawn4"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -114599,6 +115125,166 @@
       "kind": "background",
       "text": "Hace una demostración en cubierta con dos aros y un par de rubíes conjuntados.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Intercambia el lavis estropeado por víveres con los hexi, a quienes les interesan las larvas del grano.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-hexi-grain-barter",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "kind": "background",
+      "text": "Intercambia el lavis estropeado por víveres con los hexi, a quienes les interesan las larvas del grano.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. El Primero de los Insomnes. Participa en la deliberación de los enjambres.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-yelamaiszin-dawn6-intro",
+      "characterId": "yelamaiszin-dawn6",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "kind": "background",
+      "text": "El Primero de los Insomnes. Participa en la deliberación de los enjambres.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. El Tercero de los Insomnes. Participa en la deliberación de los enjambres.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-alalhawithador-dawn6-intro",
+      "characterId": "alalhawithador-dawn6",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "kind": "background",
+      "text": "El Tercero de los Insomnes. Participa en la deliberación de los enjambres.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Los otros Insomnes se dirigen a Nikli con el nombre Nikliasorm.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-nikliasorm-name",
+      "characterId": "nikli-dawn1",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "kind": "background",
+      "text": "Los otros Insomnes se dirigen a Nikli con el nombre Nikliasorm.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Yelamaiszin afirma que Arclomedarian se opone de nuevo al grupo. La mención carece de posición asociada.",
+      "sourceIds": [
+        "primary234-dawnshard-6"
+      ],
+      "id": "primary234-arclomedarian-report",
+      "characterId": "yelamaiszin-dawn6",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-6"
+      },
+      "kind": "background",
+      "text": "Yelamaiszin afirma que Arclomedarian se opone de nuevo al grupo. La mención carece de posición asociada.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Spren vinculada a Huio.",
+      "sourceIds": [
+        "primary234-dawnshard-7"
+      ],
+      "id": "primary234-caelinora-dawn7-intro",
+      "characterId": "caelinora-dawn7",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-7"
+      },
+      "kind": "background",
+      "text": "Spren vinculada a Huio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Lopen recuerda que Kaladin convenció a Roca de quedarse por ahora en Urithiru. Cuerda dice que, si su padre debe volver a casa, ella y su hermano Don se quedarán para hacer su trabajo.",
+      "sourceIds": [
+        "primary234-dawnshard-7"
+      ],
+      "id": "primary234-cord-rock-family-letter",
+      "characterId": "cord",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-7"
+      },
+      "kind": "background",
+      "text": "Lopen recuerda que Kaladin convenció a Roca de quedarse por ahora en Urithiru. Cuerda dice que, si su padre debe volver a casa, ella y su hermano Don se quedarán para hacer su trabajo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Marinero del Vela Errante que interviene al ver el aparente santhid.",
+      "sourceIds": [
+        "primary234-dawnshard-8"
+      ],
+      "id": "primary234-alstben-dawn8-intro",
+      "characterId": "alstben-dawn8",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-8"
+      },
+      "kind": "background",
+      "text": "Marinero del Vela Errante que interviene al ver el aparente santhid.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Al tender los garfios, ve cómo el aparente santhid se deshace en marlinos que desaparecen bajo el agua.",
+      "sourceIds": [
+        "primary234-dawnshard-8"
+      ],
+      "id": "primary234-santhid-breaks-apart",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-8"
+      },
+      "kind": "background",
+      "text": "Al tender los garfios, ve cómo el aparente santhid se deshace en marlinos que desaparecen bajo el agua.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Plamry coloca un taburete alto para que Rysn pueda mirar por encima de la regala.",
+      "sourceIds": [
+        "primary234-dawnshard-8"
+      ],
+      "id": "primary234-plamry-stool",
+      "characterId": "dawn4-nikli-assistant",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-8"
+      },
+      "kind": "background",
+      "text": "Plamry coloca un taburete alto para que Rysn pueda mirar por encima de la regala.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -120569,7 +121255,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 233,
+  "revision": 234,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -123778,6 +124464,30 @@
       "label": "Capítulo 5",
       "part": "dawnshard",
       "source": "primary233-dawnshard-5"
+    },
+    {
+      "id": "dawnshard-chapter-6",
+      "bookId": "dawnshard",
+      "chapter": 6,
+      "label": "Capítulo 6",
+      "part": "dawnshard",
+      "source": "primary234-dawnshard-6"
+    },
+    {
+      "id": "dawnshard-chapter-7",
+      "bookId": "dawnshard",
+      "chapter": 7,
+      "label": "Capítulo 7",
+      "part": "dawnshard",
+      "source": "primary234-dawnshard-7"
+    },
+    {
+      "id": "dawnshard-chapter-8",
+      "bookId": "dawnshard",
+      "chapter": 8,
+      "label": "Capítulo 8",
+      "part": "dawnshard",
+      "source": "primary234-dawnshard-8"
     }
   ],
   "experiencePresentation": {
@@ -227305,6 +228015,186 @@
           "notes": [
             "Está en el alcázar cuando la capitana avisa del hallazgo."
           ]
+        },
+        {
+          "id": "primary234-6-rysn-1",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Bodega del Vela Errante",
+          "placeId": "place-dawn6-wandersail-hold",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-wandersail-hold",
+          "coordinateAnchorName": "Mar · Bodega del Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en la bodega durante la inspección del lavis estropeado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la bodega durante la inspección del lavis estropeado."
+          ]
+        },
+        {
+          "id": "primary234-6-rysn-2",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Camarote de Rysn en el Vela Errante",
+          "placeId": "place-dawn6-rysn-cabin",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-rysn-cabin",
+          "coordinateAnchorName": "Mar · Camarote de Rysn en el Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en el camarote de Rysn después de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote de Rysn después de la inspección."
+          ]
+        },
+        {
+          "id": "primary234-6-rysn-3",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en la cubierta durante el episodio del intercambio y la conversación posterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta durante el episodio del intercambio y la conversación posterior."
+          ]
+        },
+        {
+          "id": "primary234-8-rysn-1",
+          "scene": "dawnshard-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Regala del Vela Errante junto al hallazgo",
+          "placeId": "place-dawn8-wandersail-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-8",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn8-wandersail-rail",
+          "coordinateAnchorName": "Mar · Regala del Vela Errante junto al hallazgo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Está en la zona de cubierta donde la tripulación observa el aparente santhid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de cubierta donde la tripulación observa el aparente santhid."
+          ]
         }
       ]
     },
@@ -233924,6 +234814,186 @@
           "needsConfirmation": [],
           "notes": [
             "Está en cubierta durante la conversación y la demostración de Rushu."
+          ]
+        },
+        {
+          "id": "primary234-6-lopen-2",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Camarote de Rysn en el Vela Errante",
+          "placeId": "place-dawn6-rysn-cabin",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-rysn-cabin",
+          "coordinateAnchorName": "Mar · Camarote de Rysn en el Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en el camarote de Rysn después de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote de Rysn después de la inspección."
+          ]
+        },
+        {
+          "id": "primary234-7-lopen-1",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en cubierta durante la llegada de la carta y la conversación con Cuerda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la llegada de la carta y la conversación con Cuerda."
+          ]
+        },
+        {
+          "id": "primary234-7-lopen-2",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Camarote de Lopen y Huio en el Vela Errante",
+          "placeId": "place-dawn7-windrunner-cabin",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn7-windrunner-cabin",
+          "coordinateAnchorName": "Mar · Camarote de Lopen y Huio en el Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en el camarote durante las pruebas con las vinculacañas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote durante las pruebas con las vinculacañas."
+          ]
+        },
+        {
+          "id": "primary234-7-lopen-3",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Regresa a cubierta y mira el objeto que flota junto al barco.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a cubierta y mira el objeto que flota junto al barco."
           ]
         }
       ]
@@ -304458,6 +305528,96 @@
           "notes": [
             "Está en cubierta durante la conversación y la demostración de Rushu."
           ]
+        },
+        {
+          "id": "primary234-7-huio-1",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en cubierta durante la llegada de la carta y la conversación con Cuerda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la llegada de la carta y la conversación con Cuerda."
+          ]
+        },
+        {
+          "id": "primary234-7-huio-2",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Camarote de Lopen y Huio en el Vela Errante",
+          "placeId": "place-dawn7-windrunner-cabin",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn7-windrunner-cabin",
+          "coordinateAnchorName": "Mar · Camarote de Lopen y Huio en el Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en el camarote durante las pruebas con las vinculacañas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote durante las pruebas con las vinculacañas."
+          ]
         }
       ]
     },
@@ -310478,6 +311638,96 @@
           "needsConfirmation": [],
           "notes": [
             "Reparte tazas y rellena la de Rlain."
+          ]
+        },
+        {
+          "id": "primary234-6-cord-1",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Bodega del Vela Errante",
+          "placeId": "place-dawn6-wandersail-hold",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-wandersail-hold",
+          "coordinateAnchorName": "Mar · Bodega del Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en la bodega durante la inspección del lavis estropeado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la bodega durante la inspección del lavis estropeado."
+          ]
+        },
+        {
+          "id": "primary234-7-cord-1",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en cubierta durante la llegada de la carta y la conversación con Cuerda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la llegada de la carta y la conversación con Cuerda."
           ]
         }
       ]
@@ -362828,6 +364078,51 @@
           "notes": [
             "Está en el atrio al concluir el vuelo y antes de la audiencia reshi."
           ]
+        },
+        {
+          "id": "primary234-7-rua-ob121-1",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en cubierta durante la llegada de la carta y la conversación con Cuerda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la llegada de la carta y la conversación con Cuerda."
+          ]
         }
       ]
     },
@@ -363583,6 +364878,141 @@
           "notes": [
             "Está a bordo durante los preparativos del Vela Errante en puerto."
           ]
+        },
+        {
+          "id": "primary234-6-nikli-dawn1-2",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Camarote de Rysn en el Vela Errante",
+          "placeId": "place-dawn6-rysn-cabin",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-rysn-cabin",
+          "coordinateAnchorName": "Mar · Camarote de Rysn en el Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en el camarote de Rysn después de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote de Rysn después de la inspección."
+          ]
+        },
+        {
+          "id": "primary234-6-nikli-dawn1-3",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en la cubierta durante el episodio del intercambio y la conversación posterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta durante el episodio del intercambio y la conversación posterior."
+          ]
+        },
+        {
+          "id": "primary234-8-nikli-dawn1-1",
+          "scene": "dawnshard-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Regala del Vela Errante junto al hallazgo",
+          "placeId": "place-dawn8-wandersail-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-8",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn8-wandersail-rail",
+          "coordinateAnchorName": "Mar · Regala del Vela Errante junto al hallazgo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Está en la zona de cubierta donde la tripulación observa el aparente santhid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de cubierta donde la tripulación observa el aparente santhid."
+          ]
         }
       ]
     },
@@ -363752,6 +365182,96 @@
           "notes": [
             "Está en el alcázar cuando la capitana avisa del hallazgo."
           ]
+        },
+        {
+          "id": "primary234-6-dlrwan-dawn4-3",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en la cubierta durante el episodio del intercambio y la conversación posterior.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta durante el episodio del intercambio y la conversación posterior."
+          ]
+        },
+        {
+          "id": "primary234-8-dlrwan-dawn4-1",
+          "scene": "dawnshard-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Regala del Vela Errante junto al hallazgo",
+          "placeId": "place-dawn8-wandersail-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-8",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn8-wandersail-rail",
+          "coordinateAnchorName": "Mar · Regala del Vela Errante junto al hallazgo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Está en la zona de cubierta donde la tripulación observa el aparente santhid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de cubierta donde la tripulación observa el aparente santhid."
+          ]
         }
       ]
     },
@@ -363853,6 +365373,96 @@
           "notes": [
             "Está en el alcázar cuando la capitana avisa del hallazgo."
           ]
+        },
+        {
+          "id": "primary234-6-kstled-dawn4-1",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Bodega del Vela Errante",
+          "placeId": "place-dawn6-wandersail-hold",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-wandersail-hold",
+          "coordinateAnchorName": "Mar · Bodega del Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en la bodega durante la inspección del lavis estropeado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la bodega durante la inspección del lavis estropeado."
+          ]
+        },
+        {
+          "id": "primary234-8-kstled-dawn4-1",
+          "scene": "dawnshard-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Regala del Vela Errante junto al hallazgo",
+          "placeId": "place-dawn8-wandersail-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-8",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn8-wandersail-rail",
+          "coordinateAnchorName": "Mar · Regala del Vela Errante junto al hallazgo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Está en la zona de cubierta donde la tripulación observa el aparente santhid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de cubierta donde la tripulación observa el aparente santhid."
+          ]
         }
       ]
     },
@@ -363874,6 +365484,20 @@
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "name": "Plamry",
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "status": "confirmed",
+          "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. El narrador llama Plamry al ayudante thayleño de Nikli.",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ]
+        }
+      ],
       "events": [
         {
           "id": "primary233-4-dawn4-nikli-assistant-1",
@@ -363918,6 +365542,228 @@
           "needsConfirmation": [],
           "notes": [
             "Está a bordo durante los preparativos del Vela Errante en puerto."
+          ]
+        },
+        {
+          "id": "primary234-6-dawn4-nikli-assistant-2",
+          "scene": "dawnshard-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Camarote de Rysn en el Vela Errante",
+          "placeId": "place-dawn6-rysn-cabin",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-6",
+          "sourceIds": [
+            "primary234-dawnshard-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn6-rysn-cabin",
+          "coordinateAnchorName": "Mar · Camarote de Rysn en el Vela Errante",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-6"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/6.xhtml. Está en el camarote de Rysn después de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el camarote de Rysn después de la inspección."
+          ]
+        },
+        {
+          "id": "primary234-8-dawn4-nikli-assistant-1",
+          "scene": "dawnshard-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Regala del Vela Errante junto al hallazgo",
+          "placeId": "place-dawn8-wandersail-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-8",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn8-wandersail-rail",
+          "coordinateAnchorName": "Mar · Regala del Vela Errante junto al hallazgo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Está en la zona de cubierta donde la tripulación observa el aparente santhid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de cubierta donde la tripulación observa el aparente santhid."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yelamaiszin-dawn6",
+      "name": "Yelamaiszin",
+      "initial": "Y",
+      "role": "El Primero de los Insomnes. Participa en la deliberación de los enjambres.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "alalhawithador-dawn6",
+      "name": "Alalhawithador",
+      "initial": "A",
+      "role": "El Tercero de los Insomnes. Participa en la deliberación de los enjambres.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "caelinora-dawn7",
+      "name": "Caelinora",
+      "initial": "C",
+      "role": "Spren vinculada a Huio.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary234-7-caelinora-dawn7-1",
+          "scene": "dawnshard-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del Vela Errante durante la travesía",
+          "placeId": "place-dawn5-wandersail-weather-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/5.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-7",
+          "sourceIds": [
+            "primary234-dawnshard-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn5-wandersail-weather-deck",
+          "coordinateAnchorName": "Mar · Cubierta del Vela Errante durante la travesía",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-7"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/7.xhtml. Está en cubierta durante la llegada de la carta y la conversación con Cuerda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la llegada de la carta y la conversación con Cuerda."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alstben-dawn8",
+      "name": "Alstben",
+      "initial": "A",
+      "role": "Marinero del Vela Errante que interviene al ver el aparente santhid.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary234-8-alstben-dawn8-1",
+          "scene": "dawnshard-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Regala del Vela Errante junto al hallazgo",
+          "placeId": "place-dawn8-wandersail-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary234-dawnshard-8",
+          "sourceIds": [
+            "primary234-dawnshard-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn8-wandersail-rail",
+          "coordinateAnchorName": "Mar · Regala del Vela Errante junto al hallazgo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-8"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/8.xhtml. Está en la zona de cubierta donde la tripulación observa el aparente santhid.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de cubierta donde la tripulación observa el aparente santhid."
           ]
         }
       ]
