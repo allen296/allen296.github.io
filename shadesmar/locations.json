@@ -115158,7 +115158,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 224,
+  "revision": 225,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -119451,8 +119451,11 @@
       "entryAnchor": {
         "placeId": "place-ob97-shadesmar-lighthouse-orb",
         "name": "Shadesmar · Habitación del orbe de Riino",
-        "xy": null,
-        "coordinateStatus": "unlocated"
+        "xy": [
+          713.57421875,
+          352.34375
+        ],
+        "coordinateStatus": "calibrated"
       }
     },
     {
@@ -120472,7 +120475,8 @@
     "primary108-wok-12-13": "https://reactormag.com/the-way-of-kings-chapters-12-and-13/",
     "primary109-lift-hachette": "https://www.hachette.co.uk/extract/2013/12/13/words-of-radiance-extract-lift/",
     "primary109-lifespren-11": "https://reactormag.com/the-way-of-kings-chapters-9-and-11/",
-    "primary124-wor-4-author-excerpt": "https://reactormag.com/excerpt-brandon-sanderson-words-of-radiance-prologue-chapter-three-four-and-five/"
+    "primary124-wor-4-author-excerpt": "https://reactormag.com/excerpt-brandon-sanderson-words-of-radiance-prologue-chapter-three-four-and-five/",
+    "map-17th-shard-shadesmar-anchors": "https://github.com/17thshard/roshar-map/blob/dfbf1c167808f29176a7c01469e8ba957a8b3692/src/stores/locations.json"
   },
   "cast": [
     {
@@ -136277,9 +136281,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -136287,10 +136295,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -136322,9 +136330,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -136332,10 +136344,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -136817,9 +136829,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -136827,10 +136843,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
-          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -136862,9 +136878,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -136872,10 +136892,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -136907,9 +136927,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -136917,10 +136941,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-orb",
-          "coordinateAnchorName": "Shadesmar · Habitación del orbe de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -136952,9 +136976,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -136962,10 +136990,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -137222,9 +137250,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -137232,10 +137264,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -137267,9 +137299,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -137277,10 +137313,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-exchange",
-          "coordinateAnchorName": "Celebrant · Casa de cambio",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -137312,9 +137348,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -137322,10 +137362,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-market",
-          "coordinateAnchorName": "Celebrant · Mercado",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -137357,9 +137397,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -137367,10 +137411,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155091,9 +155135,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -155101,10 +155149,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155136,9 +155184,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -155146,10 +155198,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155406,9 +155458,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -155416,10 +155472,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
-          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155451,9 +155507,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -155461,10 +155521,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155586,9 +155646,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -155596,10 +155660,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155631,9 +155695,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -155641,10 +155709,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155676,9 +155744,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -155686,10 +155758,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-port-office",
-          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -155721,9 +155793,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -155731,10 +155807,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165237,9 +165313,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -165247,10 +165327,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165282,9 +165362,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -165292,10 +165376,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165597,9 +165681,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -165607,10 +165695,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
-          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165642,9 +165730,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -165652,10 +165744,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
-          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165732,9 +165824,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -165742,10 +165838,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165777,9 +165873,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -165787,10 +165887,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-exchange",
-          "coordinateAnchorName": "Celebrant · Casa de cambio",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165822,9 +165922,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -165832,10 +165936,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-market",
-          "coordinateAnchorName": "Celebrant · Mercado",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -165867,9 +165971,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -165877,10 +165985,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -187381,9 +187489,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -187391,10 +187503,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -187471,9 +187583,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -187481,10 +187597,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -187612,9 +187728,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -187622,10 +187742,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -188017,9 +188137,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -188027,10 +188151,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
-          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -188062,9 +188186,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -188072,10 +188200,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -188242,9 +188370,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -188252,10 +188384,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -188287,9 +188419,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -188297,10 +188433,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-exchange",
-          "coordinateAnchorName": "Celebrant · Casa de cambio",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -188332,9 +188468,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -188342,10 +188482,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-market",
-          "coordinateAnchorName": "Celebrant · Mercado",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -188377,9 +188517,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -188387,10 +188531,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242092,9 +242236,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -242102,10 +242250,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242137,9 +242285,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -242147,10 +242299,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242452,9 +242604,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -242462,10 +242618,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-mushroom-shelter",
-          "coordinateAnchorName": "Shadesmar · Refugio junto al faro",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242497,9 +242653,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -242507,10 +242667,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242542,9 +242702,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -242552,10 +242716,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242587,9 +242751,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -242597,10 +242765,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242632,9 +242800,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -242642,10 +242814,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-port-office",
-          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -242677,9 +242849,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -242687,10 +242863,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330755,9 +330931,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -330765,10 +330945,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330800,9 +330980,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -330810,10 +330994,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -331115,9 +331299,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -331125,10 +331313,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
-          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -331160,9 +331348,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -331170,10 +331362,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -331295,9 +331487,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -331305,10 +331501,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -331340,9 +331536,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -331350,10 +331550,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -331385,9 +331585,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -331395,10 +331599,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-port-office",
-          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -331430,9 +331634,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -331440,10 +331648,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338162,9 +338370,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -338172,10 +338384,10 @@
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338207,9 +338419,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Entorno de la Puerta Jurada de Kholinar."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -338217,10 +338433,10 @@
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-white-platform",
-          "coordinateAnchorName": "Shadesmar · Plataforma circular de piedra blanca",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338387,9 +338603,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -338397,10 +338617,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-exterior",
-          "coordinateAnchorName": "Shadesmar · Exterior del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338477,9 +338697,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/101.Ojomuerto.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob101",
@@ -338487,10 +338711,10 @@
             "primary222-ob101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob101-celebrant-pier",
-          "coordinateAnchorName": "Celebrant · Embarcadero de llegada",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338522,9 +338746,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -338532,10 +338760,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338567,9 +338795,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -338577,10 +338809,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-port-office",
-          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -338612,9 +338844,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -338622,10 +338858,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -340495,9 +340731,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -340505,10 +340745,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -340540,9 +340780,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -340550,10 +340794,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-orb",
-          "coordinateAnchorName": "Shadesmar · Habitación del orbe de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -340585,9 +340829,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Faro de Riino."
           ],
-          "xy": null,
+          "xy": [
+            713.57421875,
+            352.34375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob97",
@@ -340595,10 +340843,10 @@
             "primary220-ob97"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob97-shadesmar-lighthouse-hall",
-          "coordinateAnchorName": "Shadesmar · Sala principal del faro de Riino",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-riino-lighthouse-anchor",
+          "coordinateAnchorName": "Shadesmar · Faro de Riino",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -341837,9 +342085,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -341847,10 +342099,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-port-office",
-          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -341882,9 +342134,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -341892,10 +342148,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-docks",
-          "coordinateAnchorName": "Celebrant · Muelles durante la huida",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -341938,9 +342194,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -341948,10 +342208,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-port-office",
-          "coordinateAnchorName": "Celebrant · Administración del puerto",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -341994,9 +342254,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Representación aproximada sobre el punto cognitivo de Celebrant."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -342004,10 +342268,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-celebrant-market",
-          "coordinateAnchorName": "Celebrant · Mercado",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",

@@ -280,9 +280,9 @@ function renderAtlas(){
   const group=document.createElementNS(NS,'g');group.setAttribute('data-realm',plane);
   if(plane==='physical'){group.setAttribute('opacity',1);group.style.display='';}
   if(plane==='cognitive')group.style.display=mapLayers.enabled?'':'none';
-  markerGroups[plane]=group;$('markers').append(group);
+  markerGroups[plane]=group;
  }
- const ghostGroup=document.createElementNS(NS,'g');ghostGroup.setAttribute('data-realm','physical-entry');ghostGroup.setAttribute('opacity',data.experiencePresentation?.physicalGhostOpacity??0.28);markerGroups.entryGhost=ghostGroup;$('markers').append(ghostGroup);$('markers').append(markerGroups.cognitive);
+ const ghostGroup=document.createElementNS(NS,'g');ghostGroup.setAttribute('data-realm','physical-entry');ghostGroup.setAttribute('opacity',data.experiencePresentation?.physicalGhostOpacity??0.28);markerGroups.entryGhost=ghostGroup;$('markers').append(markerGroups.physical,ghostGroup,markerGroups.cognitive);
  if(current&&evidence&&detailOpen&&isVisible(current)&&chapterLocationAvailable(current)&&inDisplayedRealm(current)&&!nightReview){
   const routeEvidence=mapEvidence(current)||evidence;
   let previous=null,previousRealm=null;
