@@ -71,7 +71,13 @@ function lifeState(p){
 const isDeceased=p=>['dead','reported-dead'].includes(lifeState(p)?.state);
 const isVisible=p=>chapterCharacterVisible(p)&&!hiddenCharacters.has(p.ownerId||p.id)&&(showDeceased||!isDeceased(p))&&categoryVisible(p);
 const markerColor=p=>isDeceased(p)?'#ef6464':p.color;
-const inDisplayedRealm=p=>!$('showShadesmar').checked||realm(last(p))==='cognitive'||Boolean(cognitiveExperience(p));
+// Keep the active physical scene visible over the aligned Shadesmar map.
+const dawnshardScene=()=>scenes[step].bookId==='dawnshard';
+const dawnshardPhysicalReference=p=>{
+ const e=last(p);
+ return dawnshardScene()&&e?.scene===scenes[step].id&&realm(e)==='physical';
+};
+const inDisplayedRealm=p=>!$('showShadesmar').checked||realm(last(p))==='cognitive'||Boolean(cognitiveExperience(p))||dawnshardPhysicalReference(p);
 const eventsFor=p=>{
  if(identityId(p.id)!==p.id)return [];const candidates=[...p.events,...(data.identityAliases||[]).filter(x=>identityId(x.from)===p.id&&identityId(x.from)!==x.from).flatMap(x=>cast.find(c=>c.id===x.from)?.events||[])].sort((a,b)=>index.get(a.scene)-index.get(b.scene)||(a.memoryOrder||0)-(b.memoryOrder||0)||index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId));const known=candidates.filter(e=>index.get(e.revealedAt?.sceneId||e.scene)<=step&&index.get(e.scene)<=step);
  const superseded=new Set(known.flatMap(e=>e.supersedes||[]));
@@ -110,6 +116,7 @@ function resolveMapEvidence(p){
   return eventsFor(p).filter(e=>e.xy&&isPast(e)&&realm(e)===realm(latest)).at(-1)||null;
  }
  if(latest.xy)return latest;
+ if(dawnshardScene()&&scenes[index.get(latest.scene)]?.bookId==='dawnshard')return null;
  const mapped=eventsFor(p).filter(e=>e.xy&&realm(e)===realm(latest)&&isPast(e)===isPast(latest)&&(!isPast(e)||e.scene===scenes[step].id)).at(-1);
  if(mapped)return mapped;
  // An unlocated flashback must not erase the known narrative-present position.
@@ -135,7 +142,7 @@ function cognitiveRepresentative(p){
  const base=mapEvidence(p);if(!base||realm(base)==='cognitive')return null;
  return {...p,id:p.id+'--cognitive-entry',ownerId:p.id,representativeExperience:x.id,representativeEvidence:{...base,id:x.id+'-entry-token',scene:x.sceneId,realm:'cognitive',xy:x.entryAnchor.xy,place:'Shadesmar · Entrada desde '+x.entryAnchor.name,placeId:x.cognitivePlaceId||null,coordinateStatus:'representative',coordinatePrecision:'entry-representative',coordinateAnchorName:x.entryAnchor.name}};
 }
-const markerGroup=(groups,p)=>$('showShadesmar').checked&&!p.representativeExperience&&realm(mapEvidence(p))==='physical'&&cognitiveExperience(p)?groups.entryGhost:groups[realm(mapEvidence(p))];
+const markerGroup=(groups,p)=>$('showShadesmar').checked&&!p.representativeExperience&&realm(mapEvidence(p))==='physical'&&(cognitiveExperience(p)||dawnshardPhysicalReference(p))?groups.entryGhost:groups[realm(mapEvidence(p))];
 function raiseMarker(g){const parent=g.parentNode;if(!parent)return;if(parent.lastElementChild!==g){if(parent.moveBefore)parent.moveBefore(g,null);else parent.append(g);}if(parent.parentNode===$('markers')&&$('markers').lastElementChild!==parent){if($('markers').moveBefore)$('markers').moveBefore(parent,null);else $('markers').append(parent);}}
 function closeCharacter(){detailOpen=false;render();}
 function focusCharacter(id){if(identityId(selected)===identityId(id)&&detailOpen){closeCharacter();return;}selected=id;detailOpen=true;for(const c of mapClusters.filter(c=>c.members.length>1&&c.members.some(p=>markerOwner(p)===id)))expandedClusters.add(c.key);render();}
@@ -152,7 +159,7 @@ function updateMapLayers(evidence,scene){
  $('mapName').textContent=enabled?(alpha===1?'SHADESMAR':'ROSHAR + SHADESMAR'):'ROSHAR';
  const hasCognitiveExperience=cast.some(p=>p.id===identityId(selected)&&cognitiveExperience(p));
  $('viewCognitiveExperience').hidden=!hasCognitiveExperience;
- $('realmLegend').textContent=enabled?'Shadesmar: visitantes de este capítulo y personajes cuya última referencia sigue en el plano cognitivo. El token translúcido señala su entrada desde Roshar.':'Roshar. Los marcadores translúcidos indican referencias en Shadesmar. Activa la capa para ver el plano cognitivo.';
+ $('realmLegend').textContent=enabled?(dawnshardScene()?'Shadesmar superpuesto. Los marcadores translúcidos del capítulo corresponden a ubicaciones en Roshar.':'Shadesmar: visitantes de este capítulo y personajes cuya última referencia sigue en el plano cognitivo. El token translúcido señala su entrada desde Roshar.'):'Roshar. Los marcadores translúcidos indican referencias en Shadesmar. Activa la capa para ver el plano cognitivo.';
  return {enabled,alpha};
 }
 const sourceFor=e=>data.sources[e.source]||'';
@@ -172,22 +179,23 @@ function keepTimelineViewport(update){
  if(preserve&&window.scrollY!==y&&typeof window.scrollTo==='function')window.scrollTo({left:Number.isFinite(x)?x:0,top:y,behavior:'instant'});
 }
 function go(value){keepTimelineViewport(()=>{stop();expandedClusters.clear();const target=Math.max(0,Math.min(scenes.length-1,value));step=skipFlashbacks&&(scenes[target].flashback||scenes[target].memoryEventId)?nextReadingStep(target,value<step?-1:1):target;memoryView=false;render();showSelectedGroup();});}
-let unlocatedTrayExpanded=false;
+let unlocatedTrayExpanded=false,dawnshardTrayExpanded=true;
 function renderMemoryTokens(people,chapterMode=false){
  const panel=$('memoryUnlocatedPanel'),grid=$('memoryUnlocatedTokens');
+ const dawnshardChapter=chapterMode&&dawnshardScene(),expanded=dawnshardChapter?dawnshardTrayExpanded:unlocatedTrayExpanded;
  const visible=inMemory()||chapterMode?people.slice().sort((a,b)=>characterName(a).localeCompare(characterName(b),'es')||a.id.localeCompare(b.id)):[];
- panel.setAttribute('aria-label',chapterMode?'Personajes mencionados sin ubicación en este capítulo':'Personajes del recuerdo sin ubicación conocida');
+ panel.setAttribute('aria-label',dawnshardChapter?'Personajes del capítulo sin punto en el mapa':chapterMode?'Personajes mencionados sin ubicación en este capítulo':'Personajes del recuerdo sin ubicación conocida');
  $('memoryUnlocatedCaption').textContent=chapterMode?'No se ha podido localizar en este capítulo a estos personajes':'Personajes del recuerdo · Sin ubicación conocida';
  panel.hidden=visible.length===0;panel.style.maxWidth='360px';grid.replaceChildren();
- grid.hidden=!unlocatedTrayExpanded;
+ grid.hidden=!expanded;
  const toggle=$('toggleUnlocatedTokens');
- toggle.textContent=(unlocatedTrayExpanded?'Ocultar':'Ver')+' personajes sin localizar ('+visible.length+')';
- toggle.setAttribute('aria-expanded',String(unlocatedTrayExpanded));
- toggle.onclick=()=>{unlocatedTrayExpanded=!unlocatedTrayExpanded;render();};
+ toggle.textContent=(expanded?'Ocultar':'Ver')+(dawnshardChapter?' personajes sin punto en el mapa (':' personajes sin localizar (')+visible.length+')';
+ toggle.setAttribute('aria-expanded',String(expanded));
+ toggle.onclick=()=>{if(dawnshardChapter)dawnshardTrayExpanded=!expanded;else unlocatedTrayExpanded=!expanded;render();};
  grid.onwheel=e=>e.stopPropagation();grid.onpointerdown=e=>e.stopPropagation();
  for(const p of visible){
   const b=document.createElement('button'),active=detailOpen&&selected===p.id,color=markerColor(p);
-  b.type='button';b.className='memory-unlocated-token';b.setAttribute('data-character-id',p.id);b.setAttribute('data-location-state','unlocated');b.setAttribute('aria-label',characterName(p)+(chapterMode?' · Sin ubicación documentada en este capítulo':' · Recuerdo sin ubicación conocida'));b.setAttribute('aria-pressed',String(active));b.setAttribute('title',characterName(p)+' · Ubicación desconocida');
+  b.type='button';b.className='memory-unlocated-token';b.setAttribute('data-character-id',p.id);b.setAttribute('data-location-state','unlocated');b.setAttribute('aria-label',characterName(p)+(dawnshardChapter?' · Sin punto en el mapa':chapterMode?' · Sin ubicación documentada en este capítulo':' · Recuerdo sin ubicación conocida'));b.setAttribute('aria-pressed',String(active));b.setAttribute('title',characterName(p)+' · '+(dawnshardChapter&&last(p)?.scene===scenes[step].id?last(p).place+' (sin punto en el mapa)':'Ubicación desconocida'));
   b.innerHTML='<svg viewBox="-32 -32 64 64" width="58" height="58" aria-hidden="true" focusable="false"><path d="M-27 -20L-27 -27L-20 -27M20 -27L27 -27L27 -20M27 20L27 27L20 27M-20 27L-27 27L-27 20" fill="none" stroke="#c7a4ff" stroke-width="2"/>'+(active?'<circle r="25" fill="none" stroke="#fff1c6" stroke-width="2"/>':'')+'<circle r="19" fill="#10212a" stroke="'+color+'" stroke-width="2.5"/><text text-anchor="middle" dy="4" fill="'+color+'" font-family="system-ui" font-weight="700" font-size="12">'+escapeHtml(markerCode(p))+'</text></svg><span>'+escapeHtml(characterName(p))+'</span>';
   b.onclick=()=>{if(chapterMode&&!last(p)){selectRelationshipPerson(p.id);showAtlasView('relationships');}else focusCharacter(p.id);};grid.append(b);
  }
@@ -226,8 +234,8 @@ function renderAtlas(){
  const current=cast.find(p=>p.id===identityId(selected)), evidence=current&&last(current);
  $('detail').hidden=!detailOpen||!evidence;if(!evidence)$('detail').innerHTML='';
  const mapLayers=updateMapLayers(onlyChapterCharacters&&current&&!chapterCharacterVisible(current)?null:evidence,scene);
- const chapterMentionsMode=onlyChapterCharacters&&(!inMemory()||scene.id==='prelude');
- const chapterUnlocated=chapterMentionsMode?(typeof relationshipPeople==='function'?relationshipPeople():cast).filter(p=>isVisible(p)&&inDisplayedRealm(p)&&!chapterLocationAvailable(p)&&characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es'))):[];
+ const chapterMentionsMode=(onlyChapterCharacters||dawnshardScene())&&(!inMemory()||scene.id==='prelude');
+ const chapterUnlocated=chapterMentionsMode?(typeof relationshipPeople==='function'?relationshipPeople():cast).filter(p=>isVisible(p)&&(inDisplayedRealm(p)||dawnshardScene()&&!last(p))&&(dawnshardScene()?currentChapterIds().has(p.id)&&(!last(p)||last(p).scene!==scene.id||!mapEvidence(p)):!chapterLocationAvailable(p))&&characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es'))):[];
  renderMemoryTokens(chapterUnlocated.length?chapterUnlocated:visibleMemoryUnlocated,chapterMentionsMode);
  const filtered=available.filter(categoryVisible).filter(chapterCharacterVisible).filter(p=>characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es')));
  $('count').textContent=available.filter(p=>isVisible(p)&&inDisplayedRealm(p)).length+' / '+available.length+' visibles';$('people').replaceChildren();
