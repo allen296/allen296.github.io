@@ -4142,6 +4142,45 @@ window.ATLAS_DATA = {
       "dalinar",
       "lani-ob103",
       "moelach"
+    ],
+    "ob-chapter-104": [
+      "aladar",
+      "bethab",
+      "glys",
+      "hatham",
+      "hobber",
+      "huio",
+      "jasnah",
+      "leyten",
+      "mishinah-bethab-ob104",
+      "navani",
+      "ob68-heart-of-the-revel",
+      "renarin",
+      "sebarial",
+      "stump-spren"
+    ],
+    "ob-chapter-105": [
+      "adolin",
+      "aesudan",
+      "dalinar",
+      "elhokar",
+      "gavilar",
+      "jasnah",
+      "jevena",
+      "navani",
+      "ob105-gavilar-funeral-soulcaster",
+      "renarin",
+      "sadeas",
+      "sebarial",
+      "sunmaker"
+    ],
+    "ob-chapter-106": [
+      "ba-ado-mishram-ob80",
+      "black-sword",
+      "crescent-scar-stranger",
+      "ishar-mentioned",
+      "ki-ob90",
+      "szeth"
     ]
   },
   "knowledgeArchive": {
@@ -15038,6 +15077,91 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/103.Hipocrita.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. El informe leído por Navani atribuye al spren de Renarin la advertencia que llevó a los glifos anteriores a la tormenta eterna.",
+        "sourceIds": [
+          "primary223-ob104"
+        ],
+        "id": "primary223-archive-glys-warning-before-everstorm",
+        "entryId": "spren-person-glys",
+        "value": "El informe leído por Navani atribuye al spren de Renarin la advertencia que llevó a los glifos anteriores a la tormenta eterna.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-104"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Hessi llama Ashertmarn al Corazón del Festejo y lo relaciona con el deseo de gratificación. Presenta como posibilidad su influencia en la corte de Bayala.",
+        "sourceIds": [
+          "primary223-ob104"
+        ],
+        "id": "primary223-archive-ashertmarn-hessi-name",
+        "entryId": "spren-person-heart-of-the-revel-ob68",
+        "value": "Hessi llama Ashertmarn al Corazón del Festejo y lo relaciona con el deseo de gratificación. Presenta como posibilidad su influencia en la corte de Bayala.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-104"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Nin dice que, además de Heraldo, es Rompedor del Cielo del Quinto Ideal. Muestra dos hojas diferentes.",
+        "sourceIds": [
+          "primary223-ob106"
+        ],
+        "id": "primary223-archive-nin-fifth-ideal",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Nin dice que, además de Heraldo, es Rompedor del Cielo del Quinto Ideal. Muestra dos hojas diferentes.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-106"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Nin señala que los shin llaman a Ishar Ishu-hijo-Dios. Atribuye a Ishar la advertencia sobre los efectos de nuevos Radiantes en el Juramento.",
+        "sourceIds": [
+          "primary223-ob106"
+        ],
+        "id": "primary223-archive-ishar-ishu-nin-report",
+        "entryId": "herald-ishar-mentioned",
+        "value": "Nin señala que los shin llaman a Ishar Ishu-hijo-Dios. Atribuye a Ishar la advertencia sobre los efectos de nuevos Radiantes en el Juramento.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-106"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Hessi recoge relatos que atribuyen a Ba-Ado-Mishram un papel de mando durante varias Desolaciones.",
+        "sourceIds": [
+          "primary223-ob106"
+        ],
+        "id": "primary223-archive-ba-ado-mishram-command",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "Hessi recoge relatos que atribuyen a Ba-Ado-Mishram un papel de mando durante varias Desolaciones.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-106"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
         "supersedes": []
       }
     ],
@@ -30853,6 +30977,60 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Ico dice que su hija trabajaba en la casa de cambio."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Navani identifica a Mishinah como esposa y representante de Bethab.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-mishinah-bethab",
+      "from": "bethab",
+      "to": "mishinah-bethab-ob104",
+      "kind": "spouse",
+      "label": "Cónyuges",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Navani identifica a Mishinah como esposa y representante de Bethab."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Navani identifica a Mishinah como esposa y representante de Bethab."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Jevena menciona en el sepelio que Gavilar desciende del Hacedor de Soles.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-sunmaker-gavilar-funeral",
+      "from": "sunmaker",
+      "to": "gavilar",
+      "kind": "relative",
+      "label": "Ascendencia de grado sin precisar",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Jevena menciona en el sepelio que Gavilar desciende del Hacedor de Soles."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Jevena menciona en el sepelio que Gavilar desciende del Hacedor de Soles."
       }
     }
   ],
@@ -71075,6 +71253,396 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Navani responde a las preocupaciones por la ausencia de Dalinar y los problemas de infraestructura laboral, agua y suministros.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-navani-infrastructure",
+      "participants": [
+        "navani",
+        "aladar",
+        "hatham",
+        "sebarial",
+        "mishinah-bethab-ob104"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Navani responde a las preocupaciones por la ausencia de Dalinar y los problemas de infraestructura laboral, agua y suministros.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani responde a las preocupaciones por la ausencia de Dalinar y los problemas de infraestructura laboral, agua y suministros.",
+        "pairs": [
+          [
+            "navani",
+            "aladar"
+          ],
+          [
+            "navani",
+            "hatham"
+          ],
+          [
+            "navani",
+            "sebarial"
+          ],
+          [
+            "navani",
+            "mishinah-bethab-ob104"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Navani habla con la guardia y Leyten pregunta a Hobber por el turno.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-navani-guard",
+      "participants": [
+        "navani",
+        "leyten",
+        "hobber"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Navani habla con la guardia y Leyten pregunta a Hobber por el turno.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani habla con la guardia y Leyten pregunta a Hobber por el turno.",
+        "pairs": [
+          [
+            "navani",
+            "leyten"
+          ],
+          [
+            "leyten",
+            "hobber"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Navani consulta a Jasnah sobre las transcripciones y Renarin bromea con los hombres del Puente Cuatro.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-urithiru-gem-work",
+      "participants": [
+        "navani",
+        "jasnah",
+        "renarin",
+        "leyten",
+        "hobber",
+        "huio"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Navani consulta a Jasnah sobre las transcripciones y Renarin bromea con los hombres del Puente Cuatro.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani consulta a Jasnah sobre las transcripciones y Renarin bromea con los hombres del Puente Cuatro.",
+        "pairs": [
+          [
+            "navani",
+            "jasnah"
+          ],
+          [
+            "renarin",
+            "leyten"
+          ],
+          [
+            "renarin",
+            "hobber"
+          ],
+          [
+            "renarin",
+            "huio"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Jevena oficia el funeral. Elhokar afirma ante Navani que se vengará y Sadeas jura apoyarlo.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-gavilar-funeral",
+      "participants": [
+        "dalinar",
+        "jevena",
+        "navani",
+        "elhokar",
+        "sadeas"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 6,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Jevena oficia el funeral. Elhokar afirma ante Navani que se vengará y Sadeas jura apoyarlo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Jevena oficia el funeral. Elhokar afirma ante Navani que se vengará y Sadeas jura apoyarlo.",
+        "pairs": [
+          [
+            "dalinar",
+            "jevena"
+          ],
+          [
+            "navani",
+            "elhokar"
+          ],
+          [
+            "elhokar",
+            "sadeas"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Adolin pregunta a su padre cómo se encuentra. Dalinar le pide que jure por la casa Kholin.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-funeral-adolin-follow",
+      "participants": [
+        "dalinar",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 6,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Adolin pregunta a su padre cómo se encuentra. Dalinar le pide que jure por la casa Kholin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin pregunta a su padre cómo se encuentra. Dalinar le pide que jure por la casa Kholin.",
+        "pairs": [
+          [
+            "dalinar",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Dalinar encuentra a Jasnah leyendo El camino de los reyes y le pide que se lo lea.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-royal-reading-book",
+      "participants": [
+        "dalinar",
+        "jasnah"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 6,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar encuentra a Jasnah leyendo El camino de los reyes y le pide que se lo lea.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar encuentra a Jasnah leyendo El camino de los reyes y le pide que se lo lea.",
+        "pairs": [
+          [
+            "dalinar",
+            "jasnah"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Dalinar habla con Adolin de su papel como padre y del itinerario previsto para la expedición.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-royal-reading-expedition",
+      "participants": [
+        "dalinar",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 6,
+        "note": "El intervalo se indica en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Dalinar habla con Adolin de su papel como padre y del itinerario previsto para la expedición.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar habla con Adolin de su papel como padre y del itinerario previsto para la expedición.",
+        "pairs": [
+          [
+            "dalinar",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Nin habla con Ki y hace que Szeth lo acompañe al pueblo menor.",
+      "sourceIds": [
+        "primary223-ob106"
+      ],
+      "id": "primary223-marat-orders",
+      "participants": [
+        "crescent-scar-stranger",
+        "ki-ob90",
+        "szeth"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-106"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Nin habla con Ki y hace que Szeth lo acompañe al pueblo menor.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Nin habla con Ki y hace que Szeth lo acompañe al pueblo menor.",
+        "pairs": [
+          [
+            "crescent-scar-stranger",
+            "ki-ob90"
+          ],
+          [
+            "crescent-scar-stranger",
+            "szeth"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Szeth interroga a Nin sobre sus decisiones y habla con espada-nimi en el juzgado.",
+      "sourceIds": [
+        "primary223-ob106"
+      ],
+      "id": "primary223-marat-law-discussion",
+      "participants": [
+        "szeth",
+        "crescent-scar-stranger",
+        "black-sword"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-106"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth interroga a Nin sobre sus decisiones y habla con espada-nimi en el juzgado.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth interroga a Nin sobre sus decisiones y habla con espada-nimi en el juzgado.",
+        "pairs": [
+          [
+            "szeth",
+            "crescent-scar-stranger"
+          ],
+          [
+            "szeth",
+            "black-sword"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -107711,6 +108279,150 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Al despertar del sueño, su recuerdo de la noche del funeral de Gavilar se vuelve nítido.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Esposa de Bethab, que lo representa ante Navani.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-mishinah-bethab-ob104-intro",
+      "characterId": "mishinah-bethab-ob104",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "kind": "background",
+      "text": "Esposa de Bethab, que lo representa ante Navani.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Navani lee un informe que atribuye a Renarin los números de la cuenta atrás anteriores a la tormenta eterna.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-renarin-wall-countdown",
+      "characterId": "renarin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "kind": "background",
+      "text": "Navani lee un informe que atribuye a Renarin los números de la cuenta atrás anteriores a la tormenta eterna.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Según la explicación que lee Navani, el spren de Renarin le había advertido de un ataque enemigo.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-renarin-spren-warning",
+      "characterId": "glys",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "kind": "background",
+      "text": "Según la explicación que lee Navani, el spren de Renarin le había advertido de un ataque enemigo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Una carta a Jasnah describe los bocetos del spren de la Radiante que Lift encontró en Yeddaw como un centelleo parecido a luz a través de cristal.",
+      "sourceIds": [
+        "primary223-ob104"
+      ],
+      "id": "primary223-yeddaw-radiant-spren-sketch",
+      "characterId": "stump-spren",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-104"
+      },
+      "kind": "background",
+      "text": "Una carta a Jasnah describe los bocetos del spren de la Radiante que Lift encontró en Yeddaw como un centelleo parecido a luz a través de cristal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Toca a Gavilar durante el sepelio y transforma su cuerpo en una estatua.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-ob105-gavilar-funeral-soulcaster-intro",
+      "characterId": "ob105-gavilar-funeral-soulcaster",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "kind": "background",
+      "text": "Toca a Gavilar durante el sepelio y transforma su cuerpo en una estatua.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Se celebra su sepelio en las catacumbas reales y un moldeador de almas transforma su cuerpo en estatua.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-gavilar-funeral-statue",
+      "characterId": "gavilar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "kind": "background",
+      "text": "Se celebra su sepelio en las catacumbas reales y un moldeador de almas transforma su cuerpo en estatua.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Tras el funeral planea separarse temporalmente de su expedición para buscar la Antigua Magia.",
+      "sourceIds": [
+        "primary223-ob105"
+      ],
+      "id": "primary223-dalinar-expedition-digression",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-105"
+      },
+      "kind": "background",
+      "text": "Tras el funeral planea separarse temporalmente de su expedición para buscar la Antigua Magia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Afirma haber alcanzado el Quinto Ideal de los Rompedores del Cielo y muestra una hoja esquirlada distinta de su hoja de Honor.",
+      "sourceIds": [
+        "primary223-ob106"
+      ],
+      "id": "primary223-nin-fifth-ideal",
+      "characterId": "crescent-scar-stranger",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-106"
+      },
+      "kind": "background",
+      "text": "Afirma haber alcanzado el Quinto Ideal de los Rompedores del Cielo y muestra una hoja esquirlada distinta de su hoja de Honor.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Nin le pide que considere qué Tercer Ideal jurar después de lo que aún debe mostrarle.",
+      "sourceIds": [
+        "primary223-ob106"
+      ],
+      "id": "primary223-szeth-third-ideal-marat",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-106"
+      },
+      "kind": "background",
+      "text": "Nin le pide que considere qué Tercer Ideal jurar después de lo que aún debe mostrarle.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -110416,6 +111128,10 @@ window.ATLAS_DATA = {
         {
           "revision": 222,
           "notes": "Se revisan el padre y la hija de Ico, las referencias de Celeste a la familia real, los parientes ya conocidos de Adolin y Dalinar y las alusiones del sueño. Lani queda como mención sin parentesco atribuido."
+        },
+        {
+          "revision": 223,
+          "notes": "Registrados el matrimonio Bethab y la ascendencia de Gavilar. Revisadas las menciones familiares de Navani, Jasnah, Dalinar, Evi y sus hijos, y el patronímico shin de Szeth."
         }
       ]
     }
@@ -113572,7 +114288,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 222,
+  "revision": 223,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -116551,6 +117267,31 @@ window.ATLAS_DATA = {
       "label": "Capítulo 103 · Hipócrita",
       "part": "ob-4a",
       "source": "primary222-ob103"
+    },
+    {
+      "id": "ob-chapter-104",
+      "bookId": "ob",
+      "chapter": 104,
+      "label": "Capítulo 104 · Fuerza",
+      "part": "ob-4a",
+      "source": "primary223-ob104"
+    },
+    {
+      "id": "ob-chapter-105",
+      "bookId": "ob",
+      "chapter": 105,
+      "label": "Capítulo 105 · Espíritu, mente y cuerpo",
+      "part": "ob-4a",
+      "source": "primary223-ob105",
+      "flashback": true
+    },
+    {
+      "id": "ob-chapter-106",
+      "bookId": "ob",
+      "chapter": 106,
+      "label": "Capítulo 106 · La ley es luz",
+      "part": "ob-4a",
+      "source": "primary223-ob106"
     }
   ],
   "experiencePresentation": {
@@ -156013,6 +156754,149 @@ window.ATLAS_DATA = {
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
           ]
+        },
+        {
+          "id": "primary223-104-jasnah-3",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Está en las bibliotecas subterráneas donde se transcriben las gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las bibliotecas subterráneas donde se transcriben las gemas."
+          ]
+        },
+        {
+          "id": "primary223-105-jasnah-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        },
+        {
+          "id": "primary223-105-jasnah-4",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sala de lectura real",
+          "placeId": "place-ob105-kholinar-royal-reading-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en la sala de lectura real durante la conversación sobre el libro o la expedición.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala de lectura real durante la conversación sobre el libro o la expedición."
+          ]
         }
       ]
     },
@@ -157939,6 +158823,186 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está junto al patio cuando Nin interrumpe a Szeth."
+          ]
+        },
+        {
+          "id": "primary223-106-szeth-1",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "placeId": "place-ob106-skybreakers-flight-south",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-skybreakers-flight-south",
+          "coordinateAnchorName": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Viaja al sur con los Rompedores y hace escalas de abastecimiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja al sur con los Rompedores y hace escalas de abastecimiento."
+          ]
+        },
+        {
+          "id": "primary223-106-szeth-2",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Llanura de aterrizaje",
+          "placeId": "place-ob106-marat-landing-plain",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-landing-plain",
+          "coordinateAnchorName": "Marat · Llanura de aterrizaje",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Aterriza en la llanura de Marat antes de que se separen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza en la llanura de Marat antes de que se separen."
+          ]
+        },
+        {
+          "id": "primary223-106-szeth-3",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Pueblo de la colina junto a la costa",
+          "placeId": "place-ob106-marat-coastal-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-coastal-village",
+          "coordinateAnchorName": "Marat · Pueblo de la colina junto a la costa",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Llega al pueblo pequeño de la colina junto a la costa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al pueblo pequeño de la colina junto a la costa."
+          ]
+        },
+        {
+          "id": "primary223-106-szeth-4",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Juzgado del pueblo de la colina",
+          "placeId": "place-ob106-marat-courthouse",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-courthouse",
+          "coordinateAnchorName": "Marat · Juzgado del pueblo de la colina",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Entra en el juzgado, donde Nin y Szeth hablan de la justicia y los Ideales.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en el juzgado, donde Nin y Szeth hablan de la justicia y los Ideales."
           ]
         }
       ]
@@ -175748,6 +176812,198 @@ window.ATLAS_DATA = {
           "notes": [
             "Despierta vestido en su cama de Urithiru."
           ]
+        },
+        {
+          "id": "primary223-105-dalinar-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        },
+        {
+          "id": "primary223-105-dalinar-2",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Pasillo de las catacumbas al palacio",
+          "placeId": "place-ob105-kholinar-catacomb-corridor",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Sale de las catacumbas y pide a Adolin que vuelva y jure en nombre de su casa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de las catacumbas y pide a Adolin que vuelva y jure en nombre de su casa."
+          ]
+        },
+        {
+          "id": "primary223-105-dalinar-3",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Palacio de Kholinar · Aposentos de Dalinar",
+          "placeId": "place-ob88-palace-dalinar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/88.Voces.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Llega a la puerta de sus aposentos y oye a Jasnah leer.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la puerta de sus aposentos y oye a Jasnah leer."
+          ]
+        },
+        {
+          "id": "primary223-105-dalinar-4",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sala de lectura real",
+          "placeId": "place-ob105-kholinar-royal-reading-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en la sala de lectura real durante la conversación sobre el libro o la expedición.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala de lectura real durante la conversación sobre el libro o la expedición."
+          ]
         }
       ]
     },
@@ -185813,6 +187069,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Embarca y sale de Celebrant en el navío de los honorspren."
           ]
+        },
+        {
+          "id": "primary223-105-adolin-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        },
+        {
+          "id": "primary223-105-adolin-2",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Pasillo de las catacumbas al palacio",
+          "placeId": "place-ob105-kholinar-catacomb-corridor",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Alcanza a su padre tras salir este del sepelio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Alcanza a su padre tras salir este del sepelio."
+          ]
+        },
+        {
+          "id": "primary223-105-adolin-4",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Sala de lectura real",
+          "placeId": "place-ob105-kholinar-royal-reading-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en la sala de lectura real durante la conversación sobre el libro o la expedición.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala de lectura real durante la conversación sobre el libro o la expedición."
+          ]
         }
       ]
     },
@@ -189516,6 +190916,101 @@ window.ATLAS_DATA = {
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
           ]
+        },
+        {
+          "id": "primary223-104-renarin-3",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Está en las bibliotecas subterráneas donde se transcriben las gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las bibliotecas subterráneas donde se transcriben las gemas."
+          ]
+        },
+        {
+          "id": "primary223-105-renarin-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
         }
       ]
     },
@@ -193094,6 +194589,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el salón de la galería oriental durante la refriega y la retirada."
           ]
+        },
+        {
+          "id": "primary223-105-elhokar-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
         }
       ]
     },
@@ -194869,6 +196412,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Explica a Dalinar que ya se han cerrado las vías de escape."
+          ]
+        },
+        {
+          "id": "primary223-105-sadeas-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
           ]
         }
       ]
@@ -199897,6 +201488,197 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el acceso de la Puerta Jurada durante la excomunión."
+          ]
+        },
+        {
+          "id": "primary223-104-navani-1",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Participa en la reunión sobre la situación de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión sobre la situación de Urithiru."
+          ]
+        },
+        {
+          "id": "primary223-104-navani-2",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Sale de la reunión con el grupo de guardia del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la reunión con el grupo de guardia del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary223-104-navani-3",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Está en las bibliotecas subterráneas donde se transcriben las gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las bibliotecas subterráneas donde se transcriben las gemas."
+          ]
+        },
+        {
+          "id": "primary223-105-navani-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
           ]
         }
       ]
@@ -231035,6 +232817,101 @@ window.ATLAS_DATA = {
           "notes": [
             "Regresa y cuenta cómo ve las Llanuras desde el aire."
           ]
+        },
+        {
+          "id": "primary223-104-leyten-2",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Sale de la reunión con el grupo de guardia del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la reunión con el grupo de guardia del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary223-104-leyten-3",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Está en las bibliotecas subterráneas donde se transcriben las gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las bibliotecas subterráneas donde se transcriben las gemas."
+          ]
         }
       ]
     },
@@ -240143,6 +242020,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
           ]
+        },
+        {
+          "id": "primary223-104-aladar-1",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Participa en la reunión sobre la situación de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión sobre la situación de Urithiru."
+          ]
         }
       ]
     },
@@ -245454,6 +247379,186 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está junto al patio cuando Nin interrumpe a Szeth."
+          ]
+        },
+        {
+          "id": "primary223-106-crescent-scar-stranger-1",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "placeId": "place-ob106-skybreakers-flight-south",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-skybreakers-flight-south",
+          "coordinateAnchorName": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Viaja al sur con los Rompedores y hace escalas de abastecimiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja al sur con los Rompedores y hace escalas de abastecimiento."
+          ]
+        },
+        {
+          "id": "primary223-106-crescent-scar-stranger-2",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Llanura de aterrizaje",
+          "placeId": "place-ob106-marat-landing-plain",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-landing-plain",
+          "coordinateAnchorName": "Marat · Llanura de aterrizaje",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Aterriza en la llanura de Marat antes de que se separen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza en la llanura de Marat antes de que se separen."
+          ]
+        },
+        {
+          "id": "primary223-106-crescent-scar-stranger-3",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Pueblo de la colina junto a la costa",
+          "placeId": "place-ob106-marat-coastal-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-coastal-village",
+          "coordinateAnchorName": "Marat · Pueblo de la colina junto a la costa",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Llega al pueblo pequeño de la colina junto a la costa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al pueblo pequeño de la colina junto a la costa."
+          ]
+        },
+        {
+          "id": "primary223-106-crescent-scar-stranger-4",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Juzgado del pueblo de la colina",
+          "placeId": "place-ob106-marat-courthouse",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-courthouse",
+          "coordinateAnchorName": "Marat · Juzgado del pueblo de la colina",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Entra en el juzgado, donde Nin y Szeth hablan de la justicia y los Ideales.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en el juzgado, donde Nin y Szeth hablan de la justicia y los Ideales."
           ]
         }
       ]
@@ -252158,6 +254263,101 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla de sus dudas y da una palmada a Rlain."
           ]
+        },
+        {
+          "id": "primary223-104-hobber-2",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Sale de la reunión con el grupo de guardia del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la reunión con el grupo de guardia del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary223-104-hobber-3",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Está en las bibliotecas subterráneas donde se transcriben las gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las bibliotecas subterráneas donde se transcriben las gemas."
+          ]
         }
       ]
     },
@@ -253422,6 +255622,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        },
+        {
+          "id": "primary223-104-sebarial-1",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Participa en la reunión sobre la situación de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión sobre la situación de Urithiru."
+          ]
+        },
+        {
+          "id": "primary223-105-sebarial-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
           ]
         }
       ]
@@ -273383,6 +275679,186 @@ window.ATLAS_DATA = {
           "notes": [
             "Está junto al patio cuando Nin interrumpe a Szeth."
           ]
+        },
+        {
+          "id": "primary223-106-black-sword-1",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "placeId": "place-ob106-skybreakers-flight-south",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-skybreakers-flight-south",
+          "coordinateAnchorName": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Viaja al sur con los Rompedores y hace escalas de abastecimiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja al sur con los Rompedores y hace escalas de abastecimiento."
+          ]
+        },
+        {
+          "id": "primary223-106-black-sword-2",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Llanura de aterrizaje",
+          "placeId": "place-ob106-marat-landing-plain",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-landing-plain",
+          "coordinateAnchorName": "Marat · Llanura de aterrizaje",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Aterriza en la llanura de Marat antes de que se separen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza en la llanura de Marat antes de que se separen."
+          ]
+        },
+        {
+          "id": "primary223-106-black-sword-3",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Pueblo de la colina junto a la costa",
+          "placeId": "place-ob106-marat-coastal-village",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-coastal-village",
+          "coordinateAnchorName": "Marat · Pueblo de la colina junto a la costa",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Llega al pueblo pequeño de la colina junto a la costa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega al pueblo pequeño de la colina junto a la costa."
+          ]
+        },
+        {
+          "id": "primary223-106-black-sword-4",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Juzgado del pueblo de la colina",
+          "placeId": "place-ob106-marat-courthouse",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-courthouse",
+          "coordinateAnchorName": "Marat · Juzgado del pueblo de la colina",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Entra en el juzgado, donde Nin y Szeth hablan de la justicia y los Ideales.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en el juzgado, donde Nin y Szeth hablan de la justicia y los Ideales."
+          ]
         }
       ]
     },
@@ -282905,6 +285381,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el salón de la galería oriental durante la refriega y la retirada."
           ]
+        },
+        {
+          "id": "primary223-105-aesudan-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
         }
       ]
     },
@@ -283441,6 +285965,101 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Explica que le avergüenza su dificultad con el alezi."
+          ]
+        },
+        {
+          "id": "primary223-104-huio-2",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Sale de la reunión con el grupo de guardia del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale de la reunión con el grupo de guardia del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary223-104-huio-3",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Corredor de murales y bibliotecas inferiores",
+          "placeId": "place-urithiru-lower-libraries",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje general de ciudad o región; sin plano interno calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Está en las bibliotecas subterráneas donde se transcriben las gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las bibliotecas subterráneas donde se transcriben las gemas."
           ]
         }
       ]
@@ -285554,7 +288173,56 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Su aportación documentada se limita a una mención o intervención concreta, sin trama de perspectiva sostenida en la cobertura.",
-      "events": []
+      "events": [
+        {
+          "id": "primary223-105-jevena-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        }
+      ]
     },
     {
       "id": "gallam",
@@ -294525,6 +297193,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la sala de audiencias durante la reunión."
+          ]
+        },
+        {
+          "id": "primary223-104-hatham-1",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Participa en la reunión sobre la situación de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión sobre la situación de Urithiru."
           ]
         }
       ]
@@ -334932,6 +337648,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Está junto al patio cuando Nin interrumpe a Szeth."
           ]
+        },
+        {
+          "id": "primary223-106-ki-ob90-1",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "placeId": "place-ob106-skybreakers-flight-south",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-skybreakers-flight-south",
+          "coordinateAnchorName": "Vuelo de los Rompedores del Cielo hacia Marat",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Viaja al sur con los Rompedores y hace escalas de abastecimiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Viaja al sur con los Rompedores y hace escalas de abastecimiento."
+          ]
+        },
+        {
+          "id": "primary223-106-ki-ob90-2",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Llanura de aterrizaje",
+          "placeId": "place-ob106-marat-landing-plain",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-landing-plain",
+          "coordinateAnchorName": "Marat · Llanura de aterrizaje",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Aterriza en la llanura de Marat antes de que se separen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aterriza en la llanura de Marat antes de que se separen."
+          ]
+        },
+        {
+          "id": "primary223-106-ki-ob90-3",
+          "scene": "ob-chapter-106",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Llanura de aterrizaje",
+          "placeId": "place-ob106-marat-landing-plain",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob106",
+          "sourceIds": [
+            "primary223-ob106"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob106-marat-landing-plain",
+          "coordinateAnchorName": "Marat · Llanura de aterrizaje",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-106"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml. Parte con los demás en dirección al pueblo que se ve a lo lejos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte con los demás en dirección al pueblo que se ve a lo lejos."
+          ]
         }
       ]
     },
@@ -336913,6 +339764,124 @@ window.ATLAS_DATA = {
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
       "events": []
+    },
+    {
+      "id": "mishinah-bethab-ob104",
+      "name": "Mishinah",
+      "initial": "M",
+      "role": "Esposa de Bethab, que lo representa ante Navani.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary223-104-mishinah-bethab-ob104-1",
+          "scene": "ob-chapter-104",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala interior de la reunión con Navani",
+          "placeId": "place-ob104-urithiru-inner-council",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob104",
+          "sourceIds": [
+            "primary223-ob104"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-104"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/104.Fuerza.xhtml. Participa en la reunión sobre la situación de Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión sobre la situación de Urithiru."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob105-gavilar-funeral-soulcaster",
+      "name": "Moldeador de almas del funeral de Gavilar",
+      "initial": "M",
+      "role": "Toca a Gavilar durante el sepelio y transforma su cuerpo en una estatua.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary223-105-ob105-gavilar-funeral-soulcaster-1",
+          "scene": "ob-chapter-105",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Catacumbas reales",
+          "placeId": "place-ob105-kholinar-royal-catacombs",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary223-ob105",
+          "sourceIds": [
+            "primary223-ob105"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 6,
+            "note": "El intervalo se indica en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-105"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/105.Espiritu.xhtml. Está en las catacumbas reales durante el sepelio de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        }
+      ]
     }
   ]
 };
