@@ -4258,6 +4258,44 @@ window.ATLAS_DATA = {
       "shallan",
       "syl",
       "tarah"
+    ],
+    "ob-chapter-113": [
+      "dai-gonarthis-ob113",
+      "dalinar",
+      "fen",
+      "leyten",
+      "sigzil",
+      "stormfather",
+      "taravangian",
+      "teft"
+    ],
+    "ob-interlude-12": [
+      "obi12-fused-transporter",
+      "rine-obi7",
+      "venli"
+    ],
+    "ob-interlude-13": [
+      "fladm-obi13",
+      "hmalka-obi13",
+      "obi13-gem-reserve-traitor",
+      "rysn",
+      "rysn-gift-larkin",
+      "tlik-obi13",
+      "vstim",
+      "wmlak-obi13"
+    ],
+    "ob-interlude-14": [
+      "bisig",
+      "eth",
+      "laran-obi14",
+      "leyten",
+      "lopen",
+      "lyn",
+      "malata",
+      "obi14-bridge-four-attacker",
+      "peet",
+      "rock",
+      "teft"
     ]
   },
   "knowledgeArchive": {
@@ -4807,6 +4845,15 @@ window.ATLAS_DATA = {
         "characterRevealedAt": {
           "bookId": "ob",
           "sceneId": "ob-chapter-108"
+        }
+      },
+      {
+        "id": "spren-person-dai-gonarthis-ob113",
+        "section": "spren-individuals",
+        "characterId": "dai-gonarthis-ob113",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-113"
         }
       }
     ],
@@ -15418,6 +15465,74 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Dice a Dalinar que Shinovar fue entregada a los humanos y que allí podían crecer los seres que trajeron.",
+        "sourceIds": [
+          "primary227-ob113"
+        ],
+        "id": "primary227-archive-shinovar-stormfather-account",
+        "entryId": "spren-person-stormfather",
+        "value": "Dice a Dalinar que Shinovar fue entregada a los humanos y que allí podían crecer los seres que trajeron.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-113"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Dai-gonarthis",
+        "sourceIds": [
+          "primary227-ob113"
+        ],
+        "id": "primary227-archive-dai-name",
+        "entryId": "spren-person-dai-gonarthis-ob113",
+        "value": "Dai-gonarthis",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-113"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Hessi propone y deja abiertas su identificación como noveno Deshecho y su posible relación con la destrucción de Aimia.",
+        "sourceIds": [
+          "primary227-ob113"
+        ],
+        "id": "primary227-archive-dai-hessi-hypothesis",
+        "entryId": "spren-person-dai-gonarthis-ob113",
+        "value": "Hessi propone y deja abiertas su identificación como noveno Deshecho y su posible relación con la destrucción de Aimia.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-113"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Cuando Teft huye al pasillo, lo rodean vergüenzaspren que caen.",
+        "sourceIds": [
+          "primary227-obi14"
+        ],
+        "id": "primary227-archive-teft-shamespren",
+        "entryId": "spren-type-shamespren",
+        "value": "Cuando Teft huye al pasillo, lo rodean vergüenzaspren que caen.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-interlude-14"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml",
         "supersedes": []
       }
     ],
@@ -72882,6 +72997,342 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Dalinar habla con el Puente Cuatro sobre las revelaciones de la cumbre. Teft anuncia su intención de volver a Urithiru.",
+      "sourceIds": [
+        "primary227-ob113"
+      ],
+      "id": "primary227-thaylen-bridge-four-departure",
+      "participants": [
+        "dalinar",
+        "teft",
+        "sigzil",
+        "leyten"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-113"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar habla con el Puente Cuatro sobre las revelaciones de la cumbre. Teft anuncia su intención de volver a Urithiru.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar habla con el Puente Cuatro sobre las revelaciones de la cumbre. Teft anuncia su intención de volver a Urithiru.",
+        "pairs": [
+          [
+            "dalinar",
+            "teft"
+          ],
+          [
+            "dalinar",
+            "sigzil"
+          ],
+          [
+            "dalinar",
+            "leyten"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Fen dice que sigue necesitando a la infantería alezi y Taravangian anuncia que no seguirá luchando al lado de Dalinar.",
+      "sourceIds": [
+        "primary227-ob113"
+      ],
+      "id": "primary227-coalition-fracture",
+      "participants": [
+        "dalinar",
+        "fen",
+        "taravangian"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-113"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Fen dice que sigue necesitando a la infantería alezi y Taravangian anuncia que no seguirá luchando al lado de Dalinar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Fen dice que sigue necesitando a la infantería alezi y Taravangian anuncia que no seguirá luchando al lado de Dalinar.",
+        "pairs": [
+          [
+            "dalinar",
+            "fen"
+          ],
+          [
+            "dalinar",
+            "taravangian"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Discuten el origen de los humanos, su llegada a Shinovar y lo que los Radiantes sabían.",
+      "sourceIds": [
+        "primary227-ob113"
+      ],
+      "id": "primary227-stormfather-human-origins",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-113"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Discuten el origen de los humanos, su llegada a Shinovar y lo que los Radiantes sabían.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Discuten el origen de los humanos, su llegada a Shinovar y lo que los Radiantes sabían.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. El Fusionado lleva a Venli al barco. Rine le explica por qué combaten y le pide que se prepare para zarpar.",
+      "sourceIds": [
+        "primary227-obi12"
+      ],
+      "id": "primary227-venli-boarded",
+      "participants": [
+        "venli",
+        "obi12-fused-transporter",
+        "rine-obi7"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El Fusionado lleva a Venli al barco. Rine le explica por qué combaten y le pide que se prepare para zarpar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Fusionado lleva a Venli al barco. Rine le explica por qué combaten y le pide que se prepare para zarpar.",
+        "pairs": [
+          [
+            "venli",
+            "obi12-fused-transporter"
+          ],
+          [
+            "venli",
+            "rine-obi7"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Vstim comunica su nombramiento y ofrece a Rysn la Vela Errante. Wmlak asiste a Rysn y Chiri-Chiri absorbe luz de una esfera de Vstim.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-rysn-vstim-wandersail",
+      "participants": [
+        "rysn",
+        "vstim",
+        "rysn-gift-larkin",
+        "wmlak-obi13"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Vstim comunica su nombramiento y ofrece a Rysn la Vela Errante. Wmlak asiste a Rysn y Chiri-Chiri absorbe luz de una esfera de Vstim.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Vstim comunica su nombramiento y ofrece a Rysn la Vela Errante. Wmlak asiste a Rysn y Chiri-Chiri absorbe luz de una esfera de Vstim.",
+        "pairs": [
+          [
+            "rysn",
+            "vstim"
+          ],
+          [
+            "vstim",
+            "rysn-gift-larkin"
+          ],
+          [
+            "rysn",
+            "wmlak-obi13"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. El guardia ataca a los presentes para robar el rubí. Chiri-Chiri agota el poder con que se cura y Rysn le dispara.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-royal-gem-vault-attempt",
+      "participants": [
+        "obi13-gem-reserve-traitor",
+        "tlik-obi13",
+        "fladm-obi13",
+        "vstim",
+        "rysn",
+        "rysn-gift-larkin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El guardia ataca a los presentes para robar el rubí. Chiri-Chiri agota el poder con que se cura y Rysn le dispara.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El guardia ataca a los presentes para robar el rubí. Chiri-Chiri agota el poder con que se cura y Rysn le dispara.",
+        "pairs": [
+          [
+            "obi13-gem-reserve-traitor",
+            "tlik-obi13"
+          ],
+          [
+            "obi13-gem-reserve-traitor",
+            "fladm-obi13"
+          ],
+          [
+            "obi13-gem-reserve-traitor",
+            "vstim"
+          ],
+          [
+            "rysn",
+            "obi13-gem-reserve-traitor"
+          ],
+          [
+            "rysn",
+            "rysn-gift-larkin"
+          ],
+          [
+            "obi13-gem-reserve-traitor",
+            "rysn-gift-larkin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Teft presta auxilio a Roca. Los demás comprueban el estado de los heridos y Lyn manda a Laran a buscar ayuda.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-bridge-four-rescue",
+      "participants": [
+        "teft",
+        "rock",
+        "peet",
+        "bisig",
+        "lopen",
+        "eth",
+        "lyn",
+        "laran-obi14",
+        "leyten"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Teft presta auxilio a Roca. Los demás comprueban el estado de los heridos y Lyn manda a Laran a buscar ayuda.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Teft presta auxilio a Roca. Los demás comprueban el estado de los heridos y Lyn manda a Laran a buscar ayuda.",
+        "pairs": [
+          [
+            "teft",
+            "rock"
+          ],
+          [
+            "peet",
+            "bisig"
+          ],
+          [
+            "lopen",
+            "eth"
+          ],
+          [
+            "lyn",
+            "laran-obi14"
+          ],
+          [
+            "leyten",
+            "bisig"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -109934,6 +110385,262 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Se traslada a Cripta de la Pena. Kaladin recibe dos cartas sobre su vida allí.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Hessi plantea si Dai-gonarthis es el noveno Deshecho y si tuvo relación con la destrucción de Aimia. La pregunta queda abierta.",
+      "sourceIds": [
+        "primary227-ob113"
+      ],
+      "id": "primary227-dai-gonarthis-ob113-intro",
+      "characterId": "dai-gonarthis-ob113",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-113"
+      },
+      "kind": "background",
+      "text": "Hessi plantea si Dai-gonarthis es el noveno Deshecho y si tuvo relación con la destrucción de Aimia. La pregunta queda abierta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Recoge a Venli junto a la entrada de la cueva y la lleva volando a la cubierta.",
+      "sourceIds": [
+        "primary227-obi12"
+      ],
+      "id": "primary227-obi12-fused-transporter-intro",
+      "characterId": "obi12-fused-transporter",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-12"
+      },
+      "kind": "background",
+      "text": "Recoge a Venli junto a la entrada de la cueva y la lleva volando a la cubierta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Vive en una cueva de Marat donde la llevan a hablar ante grupos de cantores.",
+      "sourceIds": [
+        "primary227-obi12"
+      ],
+      "id": "primary227-venli-marat-hermitage",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-12"
+      },
+      "kind": "background",
+      "text": "Vive en una cueva de Marat donde la llevan a hablar ante grupos de cantores.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Afirma que los Fusionados combaten para entregar la tierra a sus descendientes y que dormirán cuando cumplan su propósito.",
+      "sourceIds": [
+        "primary227-obi12"
+      ],
+      "id": "primary227-rine-withdrawal-account",
+      "characterId": "rine-obi7",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-12"
+      },
+      "kind": "background",
+      "text": "Afirma que los Fusionados combaten para entregar la tierra a sus descendientes y que dormirán cuando cumplan su propósito.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Ayudante y porteador de Rysn en la Reserva.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-wmlak-obi13-intro",
+      "characterId": "wmlak-obi13",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Ayudante y porteador de Rysn en la Reserva.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Guardia interior de la cámara acorazada.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-tlik-obi13-intro",
+      "characterId": "tlik-obi13",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Guardia interior de la cámara acorazada.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Guardia que da la alarma y cae herido de ballesta.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-fladm-obi13-intro",
+      "characterId": "fladm-obi13",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Guardia que da la alarma y cae herido de ballesta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Guardia de cabeza afeitada que mata a Tlik y toma el rubí.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-obi13-gem-reserve-traitor-intro",
+      "characterId": "obi13-gem-reserve-traitor",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Guardia de cabeza afeitada que mata a Tlik y toma el rubí.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Superior de Rysn, mencionada por Vstim.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-hmalka-obi13-intro",
+      "characterId": "hmalka-obi13",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Superior de Rysn, mencionada por Vstim.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Rysn llama Chiri-Chiri a su larkin, que absorbe luz tormentosa y ayuda a detener al atacante.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-chiri-chiri-name",
+      "characterId": "rysn-gift-larkin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Rysn llama Chiri-Chiri a su larkin, que absorbe luz tormentosa y ayuda a detener al atacante.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Vstim dice que será ministro de Comercio y enlace con el gremio de navieros. Ofrece a Rysn la Vela Errante.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-vstim-minister-and-ship",
+      "characterId": "vstim",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "kind": "background",
+      "text": "Vstim dice que será ministro de Comercio y enlace con el gremio de navieros. Ofrece a Rysn la Vela Errante.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Exmensajera a quien Lyn envía a buscar una vinculacaña.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-laran-obi14-intro",
+      "characterId": "laran-obi14",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "kind": "background",
+      "text": "Exmensajera a quien Lyn envía a buscar una vinculacaña.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Bisig describe a un alezi bajo con una casaca de teniente.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-obi14-bridge-four-attacker-intro",
+      "characterId": "obi14-bridge-four-attacker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "kind": "background",
+      "text": "Bisig describe a un alezi bajo con una casaca de teniente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Teft deduce que se usó la casaca que había vendido. El atacante queda sin identificar.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-teft-uniform-inference",
+      "characterId": "obi14-bridge-four-attacker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "kind": "background",
+      "text": "Teft deduce que se usó la casaca que había vendido. El atacante queda sin identificar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Teft recuerda que Eth tenía asignada la hoja de Honor ese día.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-eth-honorblade-duty",
+      "characterId": "eth",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "kind": "background",
+      "text": "Teft recuerda que Eth tenía asignada la hoja de Honor ese día.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Al oír a Bisig, Teft deduce que el atacante vestía la casaca que él había vendido.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-teft-coat-inference",
+      "characterId": "teft",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "kind": "background",
+      "text": "Al oír a Bisig, Teft deduce que el atacante vestía la casaca que él había vendido.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -112651,6 +113358,10 @@ window.ATLAS_DATA = {
         {
           "revision": 226,
           "notes": "Registrado el padre de Tarah. Revisadas las menciones de Tien, Fen y su hijo, los primos Lopen y Huio y la familia Kholin."
+        },
+        {
+          "revision": 227,
+          "notes": "Revisados el recuerdo de Gavilar, la fórmula colectiva de descendencia de Rine y los tratamientos entre Vstim y Rysn. El trato de aprendizaje no acredita parentesco."
         }
       ]
     }
@@ -115777,6 +116488,40 @@ window.ATLAS_DATA = {
       "notes": [
         "Muerte en el recuerdo de la fuga."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. El guardia de la reina mata a Tlik de una cuchillada en la cámara.",
+      "sourceIds": [
+        "primary227-obi13"
+      ],
+      "id": "primary227-death-tlik",
+      "characterId": "tlik-obi13",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-13"
+      },
+      "notes": [
+        "El guardia de la reina mata a Tlik de una cuchillada en la cámara."
+      ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Lo encuentran inerte en la sala común. Roca y Bisig siguen vivos.",
+      "sourceIds": [
+        "primary227-obi14"
+      ],
+      "id": "primary227-death-eth",
+      "characterId": "eth",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-interlude-14"
+      },
+      "notes": [
+        "Lo encuentran inerte en la sala común. Roca y Bisig siguen vivos."
+      ]
     }
   ],
   "bookId": "wok",
@@ -115807,7 +116552,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 226,
+  "revision": 227,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -118860,6 +119605,35 @@ window.ATLAS_DATA = {
       "part": "ob-4a",
       "source": "primary226-ob112",
       "mixedFlashback": true
+    },
+    {
+      "id": "ob-chapter-113",
+      "bookId": "ob",
+      "chapter": 113,
+      "label": "Capítulo 113 · Lo que mejor hacen los hombres",
+      "part": "ob-4a",
+      "source": "primary227-ob113"
+    },
+    {
+      "id": "ob-interlude-12",
+      "bookId": "ob",
+      "label": "Interludio I-12 · El ritmo de la retirada",
+      "part": "ob-interludes-12-14",
+      "source": "primary227-obi12"
+    },
+    {
+      "id": "ob-interlude-13",
+      "bookId": "ob",
+      "label": "Interludio I-13 · Rysn",
+      "part": "ob-interludes-12-14",
+      "source": "primary227-obi13"
+    },
+    {
+      "id": "ob-interlude-14",
+      "bookId": "ob",
+      "label": "Interludio I-14 · Teft",
+      "part": "ob-interludes-12-14",
+      "source": "primary227-obi14"
     }
   ],
   "experiencePresentation": {
@@ -180205,6 +180979,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la cámara principal del templo durante la cumbre."
           ]
+        },
+        {
+          "id": "primary227-113-dalinar-1",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Aposentos de la delegación Kholin",
+          "placeId": "place-ob111-thaylen-royal-district-lodging",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/111.Eila.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Se retira a sus aposentos y habla con el Padre Tormenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se retira a sus aposentos y habla con el Padre Tormenta."
+          ]
+        },
+        {
+          "id": "primary227-113-dalinar-2",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escalinata entre el templo y la mansión",
+          "placeId": "place-ob113-thaylen-temple-steps",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Está en la escalinata durante las conversaciones tras la cumbre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la escalinata durante las conversaciones tras la cumbre."
+          ]
+        },
+        {
+          "id": "primary227-113-dalinar-3",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Aposentos de la delegación Kholin",
+          "placeId": "place-ob111-thaylen-royal-district-lodging",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/111.Eila.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Regresa a la mansión después de que Taravangian se marche.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a la mansión después de que Taravangian se marche."
+          ]
         }
       ]
     },
@@ -209239,6 +210148,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
           ]
+        },
+        {
+          "id": "primary227-i14-rock-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
         }
       ]
     },
@@ -212348,6 +213305,242 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la plataforma de la Puerta Jurada durante la llegada de las delegaciones."
+          ]
+        },
+        {
+          "id": "primary227-113-teft-2",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escalinata entre el templo y la mansión",
+          "placeId": "place-ob113-thaylen-temple-steps",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Está en la escalinata durante las conversaciones tras la cumbre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la escalinata durante las conversaciones tras la cumbre."
+          ]
+        },
+        {
+          "id": "primary227-i14-teft-1",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Regresa con sus hombres por la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa con sus hombres por la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary227-i14-teft-2",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de acceso al acuartelamiento del Puente Cuatro",
+          "placeId": "place-obi14-urithiru-bridge-four-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. La spren que lo acompaña lo alerta y él corre al acuartelamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "La spren que lo acompaña lo alerta y él corre al acuartelamiento."
+          ]
+        },
+        {
+          "id": "primary227-i14-teft-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary227-i14-teft-4",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de acceso al acuartelamiento del Puente Cuatro",
+          "placeId": "place-obi14-urithiru-bridge-four-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Sale al pasillo tras oír la descripción del atacante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale al pasillo tras oír la descripción del atacante."
           ]
         }
       ]
@@ -217713,6 +218906,141 @@ window.ATLAS_DATA = {
           "locator": "Palabras radiantes, EPUB español aportado, interludio 3; líneas 8270-8366 de la extracción de 52283 líneas. Se encuentra en la choza durante la recuperación de Rysn.",
           "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary227-i13-rysn-1",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn en la Reserva de Gemas",
+          "placeId": "place-obi13-gem-reserve-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el despacho de la Reserva antes de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho de la Reserva antes de la inspección."
+          ]
+        },
+        {
+          "id": "primary227-i13-rysn-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        },
+        {
+          "id": "primary227-i13-rysn-4",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el pasillo de la cámara cuando Rysn se defiende.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el pasillo de la cámara cuando Rysn se defiende."
+          ]
         }
       ]
     },
@@ -217861,6 +219189,141 @@ window.ATLAS_DATA = {
           "locator": "Palabras radiantes, EPUB español aportado, interludio 3; líneas 8270-8366 de la extracción de 52283 líneas. Se encuentra en la choza durante la recuperación de Rysn.",
           "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary227-i13-vstim-1",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn en la Reserva de Gemas",
+          "placeId": "place-obi13-gem-reserve-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el despacho de la Reserva antes de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho de la Reserva antes de la inspección."
+          ]
+        },
+        {
+          "id": "primary227-i13-vstim-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        },
+        {
+          "id": "primary227-i13-vstim-3",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara trece de la reina",
+          "placeId": "place-obi13-gem-reserve-inner-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Entra en la cámara trece durante el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la cámara trece durante el ataque."
+          ]
         }
       ]
     },
@@ -219811,6 +221274,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la cámara principal del templo durante la cumbre."
+          ]
+        },
+        {
+          "id": "primary227-113-taravangian-2",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escalinata entre el templo y la mansión",
+          "placeId": "place-ob113-thaylen-temple-steps",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Está en la escalinata durante las conversaciones tras la cumbre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la escalinata durante las conversaciones tras la cumbre."
           ]
         }
       ]
@@ -223685,6 +225193,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la plataforma de la Puerta Jurada durante la llegada de las delegaciones."
           ]
+        },
+        {
+          "id": "primary227-i14-lopen-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
         }
       ]
     },
@@ -225267,6 +226823,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Bebe con los demás y participa en la conversación."
+          ]
+        },
+        {
+          "id": "primary227-113-sigzil-2",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escalinata entre el templo y la mansión",
+          "placeId": "place-ob113-thaylen-temple-steps",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Está en la escalinata durante las conversaciones tras la cumbre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la escalinata durante las conversaciones tras la cumbre."
           ]
         }
       ]
@@ -237110,6 +238711,99 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en las bibliotecas subterráneas donde se transcriben las gemas."
+          ]
+        },
+        {
+          "id": "primary227-113-leyten-2",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escalinata entre el templo y la mansión",
+          "placeId": "place-ob113-thaylen-temple-steps",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Está en la escalinata durante las conversaciones tras la cumbre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la escalinata durante las conversaciones tras la cumbre."
+          ]
+        },
+        {
+          "id": "primary227-i14-leyten-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
           ]
         }
       ]
@@ -250412,6 +252106,96 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Despierta en el suelo de la ermita con los dedos ensangrentados."
+          ]
+        },
+        {
+          "id": "primary227-i12-venli-1",
+          "scene": "ob-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Cueva de Venli",
+          "placeId": "place-obi12-marat-venli-cave",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi12",
+          "sourceIds": [
+            "primary227-obi12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi12-marat-venli-cave",
+          "coordinateAnchorName": "Marat · Cueva de Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Está junto a la entrada de la cueva después del discurso.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la entrada de la cueva después del discurso."
+          ]
+        },
+        {
+          "id": "primary227-i12-venli-2",
+          "scene": "ob-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Cubierta del barco fondeado en el puerto",
+          "placeId": "place-obi12-marat-fused-ship",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi12",
+          "sourceIds": [
+            "primary227-obi12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi12-marat-fused-ship",
+          "coordinateAnchorName": "Marat · Cubierta del barco fondeado en el puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Está en cubierta mientras se prepara la salida de la flota.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta mientras se prepara la salida de la flota."
           ]
         }
       ]
@@ -283868,6 +285652,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la plataforma de la Puerta Jurada durante la llegada de las delegaciones."
           ]
+        },
+        {
+          "id": "primary227-i14-lyn-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
         }
       ]
     },
@@ -285264,6 +287096,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la cámara principal del templo durante la cumbre."
+          ]
+        },
+        {
+          "id": "primary227-113-fen-2",
+          "scene": "ob-chapter-113",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escalinata entre el templo y la mansión",
+          "placeId": "place-ob113-thaylen-temple-steps",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-ob113",
+          "sourceIds": [
+            "primary227-ob113"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-113"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/113.Loquemejor.xhtml. Está en la escalinata durante las conversaciones tras la cumbre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la escalinata durante las conversaciones tras la cumbre."
           ]
         }
       ]
@@ -289303,6 +291180,53 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
+          ]
+        },
+        {
+          "id": "primary227-i14-malata-1",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Opera la Puerta Jurada por la que regresa Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Opera la Puerta Jurada por la que regresa Teft."
           ]
         }
       ]
@@ -294053,6 +295977,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Participa en las prácticas del Puente Cuatro en Narak."
           ]
+        },
+        {
+          "id": "primary227-i14-peet-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
         }
       ]
     },
@@ -294680,6 +296652,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Habla de los Fusionados con Rlain."
+          ]
+        },
+        {
+          "id": "primary227-i14-eth-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
           ]
         }
       ]
@@ -297979,6 +299999,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en Narak durante las pruebas de los escuderos y los aspirantes."
+          ]
+        },
+        {
+          "id": "primary227-i14-bisig-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
           ]
         }
       ]
@@ -305840,6 +307908,141 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "La criatura camina por el brazo de Rysn y vuela hasta las vigas de la choza."
+          ]
+        },
+        {
+          "id": "primary227-i13-rysn-gift-larkin-1",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn en la Reserva de Gemas",
+          "placeId": "place-obi13-gem-reserve-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el despacho de la Reserva antes de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho de la Reserva antes de la inspección."
+          ]
+        },
+        {
+          "id": "primary227-i13-rysn-gift-larkin-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        },
+        {
+          "id": "primary227-i13-rysn-gift-larkin-4",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el pasillo de la cámara cuando Rysn se defiende.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el pasillo de la cámara cuando Rysn se defiende."
           ]
         }
       ]
@@ -342361,6 +344564,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Aterriza junto a un refugio extramuros. Venli se suelta del arnés."
           ]
+        },
+        {
+          "id": "primary227-i12-rine-obi7-2",
+          "scene": "ob-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Cubierta del barco fondeado en el puerto",
+          "placeId": "place-obi12-marat-fused-ship",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi12",
+          "sourceIds": [
+            "primary227-obi12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi12-marat-fused-ship",
+          "coordinateAnchorName": "Marat · Cubierta del barco fondeado en el puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Está en cubierta mientras se prepara la salida de la flota.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta mientras se prepara la salida de la flota."
+          ]
         }
       ]
     },
@@ -346133,6 +348381,555 @@ window.ATLAS_DATA = {
       "name": "Padre de Tarah",
       "initial": "P",
       "role": "Ayudante de intendencia. Tarah cuenta que su nuevo trabajo permitiría que se trasladara con ella.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "dai-gonarthis-ob113",
+      "name": "Dai-gonarthis",
+      "initial": "D",
+      "role": "Hessi plantea si Dai-gonarthis es el noveno Deshecho y si tuvo relación con la destrucción de Aimia. La pregunta queda abierta.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "obi12-fused-transporter",
+      "name": "Fusionado que lleva a Venli al barco",
+      "initial": "F",
+      "role": "Recoge a Venli junto a la entrada de la cueva y la lleva volando a la cubierta.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary227-i12-obi12-fused-transporter-1",
+          "scene": "ob-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Cueva de Venli",
+          "placeId": "place-obi12-marat-venli-cave",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi12",
+          "sourceIds": [
+            "primary227-obi12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi12-marat-venli-cave",
+          "coordinateAnchorName": "Marat · Cueva de Venli",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Está junto a la entrada de la cueva después del discurso.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la entrada de la cueva después del discurso."
+          ]
+        },
+        {
+          "id": "primary227-i12-obi12-fused-transporter-2",
+          "scene": "ob-interlude-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marat · Cubierta del barco fondeado en el puerto",
+          "placeId": "place-obi12-marat-fused-ship",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi12",
+          "sourceIds": [
+            "primary227-obi12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-obi12-marat-fused-ship",
+          "coordinateAnchorName": "Marat · Cubierta del barco fondeado en el puerto",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-12"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-12.xhtml. Está en cubierta mientras se prepara la salida de la flota.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta mientras se prepara la salida de la flota."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wmlak-obi13",
+      "name": "Wmlak",
+      "initial": "W",
+      "role": "Ayudante y porteador de Rysn en la Reserva.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary227-i13-wmlak-obi13-1",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn en la Reserva de Gemas",
+          "placeId": "place-obi13-gem-reserve-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el despacho de la Reserva antes de la inspección.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho de la Reserva antes de la inspección."
+          ]
+        },
+        {
+          "id": "primary227-i13-wmlak-obi13-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tlik-obi13",
+      "name": "Tlik",
+      "initial": "T",
+      "role": "Guardia interior de la cámara acorazada.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary227-i13-tlik-obi13-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fladm-obi13",
+      "name": "Fladm",
+      "initial": "F",
+      "role": "Guardia que da la alarma y cae herido de ballesta.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary227-i13-fladm-obi13-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi13-gem-reserve-traitor",
+      "name": "Guardia que intenta robar la Lágrima del Rey",
+      "initial": "G",
+      "role": "Guardia de cabeza afeitada que mata a Tlik y toma el rubí.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary227-i13-obi13-gem-reserve-traitor-2",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en la cámara acorazada o su acceso durante la inspección o el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cámara acorazada o su acceso durante la inspección o el ataque."
+          ]
+        },
+        {
+          "id": "primary227-i13-obi13-gem-reserve-traitor-3",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara trece de la reina",
+          "placeId": "place-obi13-gem-reserve-inner-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Entra en la cámara trece durante el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en la cámara trece durante el ataque."
+          ]
+        },
+        {
+          "id": "primary227-i13-obi13-gem-reserve-traitor-4",
+          "scene": "ob-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cámara acorazada de la Reserva",
+          "placeId": "place-obi13-gem-reserve-vault",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi13",
+          "sourceIds": [
+            "primary227-obi13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-13"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-13.xhtml. Está en el pasillo de la cámara cuando Rysn se defiende.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el pasillo de la cámara cuando Rysn se defiende."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hmalka-obi13",
+      "name": "Hmalka",
+      "initial": "H",
+      "role": "Superior de Rysn, mencionada por Vstim.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "laran-obi14",
+      "name": "Laran",
+      "initial": "L",
+      "role": "Exmensajera a quien Lyn envía a buscar una vinculacaña.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary227-i14-laran-obi14-3",
+          "scene": "ob-interlude-14",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo de la entrega de la Hoja de Honor",
+          "placeId": "place-ob64-urithiru-bridge-four-hall",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/64.Vinculador.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary227-obi14",
+          "sourceIds": [
+            "primary227-obi14"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-interlude-14"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/1-14.xhtml. Está en la sala común cuando se descubren los heridos del Puente Cuatro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi14-bridge-four-attacker",
+      "name": "Atacante con casaca del Puente Cuatro",
+      "initial": "A",
+      "role": "Bisig describe a un alezi bajo con una casaca de teniente.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
