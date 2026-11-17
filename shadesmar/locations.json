@@ -4402,6 +4402,74 @@
       "szeth",
       "talenel",
       "teft"
+    ],
+    "ob-chapter-120": [
+      "adolin",
+      "amaram",
+      "black-sword",
+      "dalinar",
+      "fen",
+      "hrdalm-ob120",
+      "jasnah",
+      "kaladin",
+      "kdralk-ob59",
+      "lift",
+      "lopen",
+      "navani",
+      "nergaoul",
+      "ob87-platform-thread-spren",
+      "renarin",
+      "rock",
+      "shallan",
+      "syl",
+      "szeth",
+      "tshadr-ob120",
+      "venli"
+    ],
+    "ob-chapter-121": [
+      "ash-thaylen-ob119",
+      "black-sword",
+      "crescent-scar-stranger",
+      "jasnah",
+      "jezrien-vision",
+      "kaladin",
+      "lopen",
+      "moash",
+      "moash-duel-fused",
+      "ob121-thaylen-one-armed-soldier",
+      "rua-ob121",
+      "szeth",
+      "talenel",
+      "teft"
+    ],
+    "ob-chapter-122": [
+      "adolin",
+      "adrotagia",
+      "balat",
+      "dalinar",
+      "drehy",
+      "dukar-obi5",
+      "elhokar-son",
+      "eylita",
+      "jushu",
+      "kaladin",
+      "maben",
+      "moash",
+      "navani",
+      "odium",
+      "shallan",
+      "skar",
+      "szeth",
+      "taravangian",
+      "wikim"
+    ],
+    "ob-epilogue": [
+      "kheni-obep",
+      "obep-kheni-husband",
+      "obep-palace-cryptic",
+      "obep-refugee-girl",
+      "vatwha-obep",
+      "wit"
     ]
   },
   "knowledgeArchive": {
@@ -15776,6 +15844,57 @@
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/119.Unidad.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Adolin oye el nombre Mayalaran y usa la forma Maya.",
+        "sourceIds": [
+          "primary230-ob120"
+        ],
+        "id": "primary230-archive-maya-name-ob120",
+        "entryId": "spren-person-ob87-platform-thread-spren",
+        "value": "Adolin oye el nombre Mayalaran y usa la forma Maya.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-120"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. La Emoción deja de influir en las tropas cuando Dalinar la reúne en el rubí durante la batalla.",
+        "sourceIds": [
+          "primary230-ob120"
+        ],
+        "id": "primary230-archive-nergaoul-ruby-thaylen",
+        "entryId": "spren-person-nergaoul",
+        "value": "La Emoción deja de influir en las tropas cuando Dalinar la reúne en el rubí durante la batalla.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-120"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Moash mata a Jezrien con un cuchillo con zafiro. Ash siente una pérdida distinta de sus muertes anteriores.",
+        "sourceIds": [
+          "primary230-ob121"
+        ],
+        "id": "primary230-archive-jezrien-fate",
+        "entryId": "herald-jezrien-vision",
+        "value": "Moash mata a Jezrien con un cuchillo con zafiro. Ash siente una pérdida distinta de sus muertes anteriores.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-121"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -16150,6 +16269,20 @@
       "notes": [
         "La figura del espejo se presenta como Sja-anat y como la Tomadora de Secretos."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. La muerte del hombre del refugio se presenta como la muerte de Jezrien.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-ahu-jezrien",
+      "from": "ahu-ob88",
+      "to": "jezrien-vision",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      }
     }
   ],
   "relationships": [
@@ -31725,6 +31858,89 @@
       "networkEvidence": {
         "kind": "relationship",
         "reason": "El pasaje presenta a Malli como esposa de Felt."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Ash reconoce que la pérdida que siente es la muerte de Jezrien y lo llama su padre.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-ash-jezrien-kin",
+      "from": "jezrien-vision",
+      "to": "ash-thaylen-ob119",
+      "kind": "parent",
+      "label": "Padre e hija",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Ash reconoce que la pérdida que siente es la muerte de Jezrien y lo llama su padre."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Ash reconoce que la pérdida que siente es la muerte de Jezrien y lo llama su padre."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se celebra la boda de Shallan y Adolin.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-shallan-adolin-marriage",
+      "from": "shallan",
+      "to": "adolin",
+      "kind": "spouse",
+      "label": "Cónyuges",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [
+        "rel-shallan-adolin-wor-chapter-1"
+      ],
+      "notes": [
+        "Se celebra la boda de Shallan y Adolin."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Se celebra la boda de Shallan y Adolin."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. El pasaje presenta al refugiado como marido de Kheni.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-kheni-spouses",
+      "from": "kheni-obep",
+      "to": "obep-kheni-husband",
+      "kind": "spouse",
+      "label": "Cónyuges",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "El pasaje presenta al refugiado como marido de Kheni."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El pasaje presenta al refugiado como marido de Kheni."
       }
     }
   ],
@@ -74641,6 +74857,636 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Adolin oye el nombre Mayalaran, lucha contra el tronador y recibe ayuda de Hrdalm y Renarin.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-adolin-maya-thunderclast",
+      "participants": [
+        "adolin",
+        "ob87-platform-thread-spren",
+        "hrdalm-ob120",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Adolin oye el nombre Mayalaran, lucha contra el tronador y recibe ayuda de Hrdalm y Renarin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin oye el nombre Mayalaran, lucha contra el tronador y recibe ayuda de Hrdalm y Renarin.",
+        "pairs": [
+          [
+            "adolin",
+            "ob87-platform-thread-spren"
+          ],
+          [
+            "adolin",
+            "hrdalm-ob120"
+          ],
+          [
+            "adolin",
+            "renarin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Kaladin daña la gema del pecho de Amaram. Roca lo abate con dos flechas.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-kaladin-amaram-rock",
+      "participants": [
+        "kaladin",
+        "amaram",
+        "syl",
+        "rock"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin daña la gema del pecho de Amaram. Roca lo abate con dos flechas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin daña la gema del pecho de Amaram. Roca lo abate con dos flechas.",
+        "pairs": [
+          [
+            "kaladin",
+            "amaram"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "rock",
+            "amaram"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Lift y Szeth persiguen a los Fusionados que se llevan el rubí.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-lift-szeth-ruby-pursuit",
+      "participants": [
+        "lift",
+        "szeth"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Lift y Szeth persiguen a los Fusionados que se llevan el rubí.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift y Szeth persiguen a los Fusionados que se llevan el rubí.",
+        "pairs": [
+          [
+            "lift",
+            "szeth"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Los soldados dejan de estar bajo el influjo de la niebla. Kaladin encuentra a Dalinar con el rubí y a Lift a su lado.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-thaylen-battle-end",
+      "participants": [
+        "dalinar",
+        "lift",
+        "kaladin",
+        "lopen"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Los soldados dejan de estar bajo el influjo de la niebla. Kaladin encuentra a Dalinar con el rubí y a Lift a su lado.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los soldados dejan de estar bajo el influjo de la niebla. Kaladin encuentra a Dalinar con el rubí y a Lift a su lado.",
+        "pairs": [
+          [
+            "dalinar",
+            "lift"
+          ],
+          [
+            "kaladin",
+            "dalinar"
+          ],
+          [
+            "kaladin",
+            "lopen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Leshwi visita a Moash en las ruinas del palacio.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-moash-leswhi-palace",
+      "participants": [
+        "moash",
+        "moash-duel-fused"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Leshwi visita a Moash en las ruinas del palacio.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Leshwi visita a Moash en las ruinas del palacio.",
+        "pairs": [
+          [
+            "moash",
+            "moash-duel-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Moash clava el cuchillo de pomo de zafiro en Jezrien.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-jezriens-killing",
+      "participants": [
+        "moash",
+        "jezrien-vision"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Moash clava el cuchillo de pomo de zafiro en Jezrien.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Moash clava el cuchillo de pomo de zafiro en Jezrien.",
+        "pairs": [
+          [
+            "moash",
+            "jezrien-vision"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Szeth explica su elección y Nin se despide prometiendo supervisar su entrenamiento.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-szeth-nin-after-battle",
+      "participants": [
+        "szeth",
+        "crescent-scar-stranger"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth explica su elección y Nin se despide prometiendo supervisar su entrenamiento.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth explica su elección y Nin se despide prometiendo supervisar su entrenamiento.",
+        "pairs": [
+          [
+            "szeth",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Kaladin agradece la ayuda de Teft y hablan de los juramentos y de lo que todavía les cuesta.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-kaladin-teft-roof",
+      "participants": [
+        "kaladin",
+        "teft"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin agradece la ayuda de Teft y hablan de los juramentos y de lo que todavía les cuesta.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin agradece la ayuda de Teft y hablan de los juramentos y de lo que todavía les cuesta.",
+        "pairs": [
+          [
+            "kaladin",
+            "teft"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Lopen habla con un soldado herido y se aceptan sus Palabras. Kaladin le encarga quedar de segundo de Teft.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-lopen-thaylen-soldier",
+      "participants": [
+        "lopen",
+        "ob121-thaylen-one-armed-soldier",
+        "rua-ob121",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Lopen habla con un soldado herido y se aceptan sus Palabras. Kaladin le encarga quedar de segundo de Teft.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lopen habla con un soldado herido y se aceptan sus Palabras. Kaladin le encarga quedar de segundo de Teft.",
+        "pairs": [
+          [
+            "lopen",
+            "ob121-thaylen-one-armed-soldier"
+          ],
+          [
+            "lopen",
+            "rua-ob121"
+          ],
+          [
+            "lopen",
+            "kaladin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Drehy y Skar se reúnen con Kaladin y le muestran al niño que han protegido.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-gavinor-rescue",
+      "participants": [
+        "kaladin",
+        "drehy",
+        "skar",
+        "elhokar-son"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Drehy y Skar se reúnen con Kaladin y le muestran al niño que han protegido.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Drehy y Skar se reúnen con Kaladin y le muestran al niño que han protegido.",
+        "pairs": [
+          [
+            "kaladin",
+            "drehy"
+          ],
+          [
+            "kaladin",
+            "skar"
+          ],
+          [
+            "drehy",
+            "elhokar-son"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Taravangian acuerda servir a Odium a cambio de preservar a la gente nacida en Kharbranth y a sus cónyuges.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-odium-taravangian-accord",
+      "participants": [
+        "taravangian",
+        "odium"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Taravangian acuerda servir a Odium a cambio de preservar a la gente nacida en Kharbranth y a sus cónyuges.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Taravangian acuerda servir a Odium a cambio de preservar a la gente nacida en Kharbranth y a sus cónyuges.",
+        "pairs": [
+          [
+            "taravangian",
+            "odium"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Navani reúne a Shallan con sus hermanos antes de la boda.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-shallan-brothers-wedding",
+      "participants": [
+        "shallan",
+        "navani",
+        "balat",
+        "wikim",
+        "jushu"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Navani reúne a Shallan con sus hermanos antes de la boda.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani reúne a Shallan con sus hermanos antes de la boda.",
+        "pairs": [
+          [
+            "shallan",
+            "navani"
+          ],
+          [
+            "shallan",
+            "balat"
+          ],
+          [
+            "shallan",
+            "wikim"
+          ],
+          [
+            "shallan",
+            "jushu"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Tras el banquete, Dalinar escribe el título de su relato y lo firma de su mano.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-dalinar-written-account",
+      "participants": [
+        "dalinar",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Tras el banquete, Dalinar escribe el título de su relato y lo firma de su mano.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Tras el banquete, Dalinar escribe el título de su relato y lo firma de su mano.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Sagaz hace una muñeca para la niña y la lleva con Kheni.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-wit-refugee-girl",
+      "participants": [
+        "wit",
+        "kheni-obep",
+        "obep-kheni-husband",
+        "obep-refugee-girl"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Semanas después de la caída de Kholinar."
+      },
+      "type": "conversation",
+      "summary": "Sagaz hace una muñeca para la niña y la lleva con Kheni.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sagaz hace una muñeca para la niña y la lleva con Kheni.",
+        "pairs": [
+          [
+            "wit",
+            "kheni-obep"
+          ],
+          [
+            "wit",
+            "obep-kheni-husband"
+          ],
+          [
+            "wit",
+            "obep-refugee-girl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Sagaz ofrece refugio al críptico y pronuncia las Palabras al final.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-wit-kholinar-cryptic",
+      "participants": [
+        "wit",
+        "obep-palace-cryptic"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Semanas después de la caída de Kholinar."
+      },
+      "type": "conversation",
+      "summary": "Sagaz ofrece refugio al críptico y pronuncia las Palabras al final.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sagaz ofrece refugio al críptico y pronuncia las Palabras al final.",
+        "pairs": [
+          [
+            "wit",
+            "obep-palace-cryptic"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -112301,6 +113147,246 @@
       "kind": "background",
       "text": "Declara que sirve a Dalinar Kholin.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Portador de esquirlada thayleño que llega para detener al tronador.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-hrdalm-ob120-intro",
+      "characterId": "hrdalm-ob120",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "kind": "background",
+      "text": "Portador de esquirlada thayleño que llega para detener al tronador.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Portador que según Hrdalm defiende la plaza Tribunal.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-tshadr-ob120-intro",
+      "characterId": "tshadr-ob120",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "kind": "background",
+      "text": "Portador que según Hrdalm defiende la plaza Tribunal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Se adentra en la niebla y termina la batalla sosteniendo la Lágrima del Rey, con la que reúne la Emoción.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-dalinar-thrill-capture",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "kind": "background",
+      "text": "Se adentra en la niebla y termina la batalla sosteniendo la Lágrima del Rey, con la que reúne la Emoción.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Bebe con Lopen en la tienda y pregunta cómo unirse a los Radiantes.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-ob121-thaylen-one-armed-soldier-intro",
+      "characterId": "ob121-thaylen-one-armed-soldier",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "kind": "background",
+      "text": "Bebe con Lopen en la tienda y pregunta cómo unirse a los Radiantes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Spren de Lopen. Lo imita después de que se acepten sus Palabras.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-rua-ob121-intro",
+      "characterId": "rua-ob121",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "kind": "background",
+      "text": "Spren de Lopen. Lo imita después de que se acepten sus Palabras.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Se aceptan las Palabras cuando explica a un soldado cómo unirse a los Radiantes.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-lopen-accepted-ideal",
+      "characterId": "lopen",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "kind": "background",
+      "text": "Se aceptan las Palabras cuando explica a un soldado cómo unirse a los Radiantes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Acepta la hoja de Honor y asciende lanzándose después de recibir el nombre Vyre.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-vyre-receives-honorblade",
+      "characterId": "moash",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "kind": "background",
+      "text": "Acepta la hoja de Honor y asciende lanzándose después de recibir el nombre Vyre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Escribe de su mano el título de Juramentada, su relato.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-dalinar-oathbringer-book",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "kind": "background",
+      "text": "Escribe de su mano el título de Juramentada, su relato.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Acepta el acuerdo con Odium en los términos expuestos por este.",
+      "sourceIds": [
+        "primary230-ob122"
+      ],
+      "id": "primary230-taravangian-odium-protection",
+      "characterId": "taravangian",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-122"
+      },
+      "kind": "background",
+      "text": "Acepta el acuerdo con Odium en los términos expuestos por este.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Mujer refugiada a la que Sagaz entrega una niña.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-kheni-obep-intro",
+      "characterId": "kheni-obep",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "kind": "background",
+      "text": "Mujer refugiada a la que Sagaz entrega una niña.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Refugiado que habla con Sagaz cuando lleva a la niña a la plaza.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-obep-kheni-husband-intro",
+      "characterId": "obep-kheni-husband",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "kind": "background",
+      "text": "Refugiado que habla con Sagaz cuando lleva a la niña a la plaza.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Sale de su escondite cuando Sagaz le muestra una muñeca.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-obep-refugee-girl-intro",
+      "characterId": "obep-refugee-girl",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "kind": "background",
+      "text": "Sale de su escondite cuando Sagaz le muestra una muñeca.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Centinela que flota junto al palacio. Sagaz recuerda que bailó con ella hace miles de años.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-vatwha-obep-intro",
+      "characterId": "vatwha-obep",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "kind": "background",
+      "text": "Centinela que flota junto al palacio. Sagaz recuerda que bailó con ella hace miles de años.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Pequeño spren que sale de una grieta y se refugia en la mano de Sagaz.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-obep-palace-cryptic-intro",
+      "characterId": "obep-palace-cryptic",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "kind": "background",
+      "text": "Pequeño spren que sale de una grieta y se refugia en la mano de Sagaz.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Sale de una grieta en el palacio. Sagaz lo oculta y pronuncia las Palabras en los jardines.",
+      "sourceIds": [
+        "primary230-ob-epilogue"
+      ],
+      "id": "primary230-cryptic-wit-shelter",
+      "characterId": "obep-palace-cryptic",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-epilogue"
+      },
+      "kind": "background",
+      "text": "Sale de una grieta en el palacio. Sagaz lo oculta y pronuncia las Palabras en los jardines.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -115030,6 +116116,10 @@
         {
           "revision": 229,
           "notes": "Revisados los pasajes de Jasnah y su primo Renarin, Renarin y su hermano Adolin, Fen y su consorte y los recuerdos de Dalinar sobre Evi. Los parentescos ya constan en el atlas."
+        },
+        {
+          "revision": 230,
+          "notes": "Registrados el matrimonio Shallan–Adolin, la filiación Jezrien–Ash y los cónyuges Kheni y su marido. La acogida de la niña no se registra como parentesco."
         }
       ]
     }
@@ -118190,6 +119280,40 @@
       "notes": [
         "Lo encuentran inerte en la sala común. Roca y Bisig siguen vivos."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Roca le dispara dos flechas. Amaram muere y deja caer dos hojas esquirladas.",
+      "sourceIds": [
+        "primary230-ob120"
+      ],
+      "id": "primary230-death-amaram",
+      "characterId": "amaram",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-120"
+      },
+      "notes": [
+        "Roca le dispara dos flechas. Amaram muere y deja caer dos hojas esquirladas."
+      ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Moash lo hiere con un cuchillo de pomo de zafiro y Ash siente su muerte.",
+      "sourceIds": [
+        "primary230-ob121"
+      ],
+      "id": "primary230-death-jezrien",
+      "characterId": "jezrien-vision",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-121"
+      },
+      "notes": [
+        "Moash lo hiere con un cuchillo de pomo de zafiro y Ash siente su muerte."
+      ]
     }
   ],
   "bookId": "wok",
@@ -118220,7 +119344,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 229,
+  "revision": 230,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -121351,6 +122475,37 @@
       "label": "Capítulo 119 · Unidad",
       "part": "ob-5a",
       "source": "primary229-ob119"
+    },
+    {
+      "id": "ob-chapter-120",
+      "bookId": "ob",
+      "chapter": 120,
+      "label": "Capítulo 120 · La lanza que no se rompe",
+      "part": "ob-5a",
+      "source": "primary230-ob120"
+    },
+    {
+      "id": "ob-chapter-121",
+      "bookId": "ob",
+      "chapter": 121,
+      "label": "Capítulo 121 · Ideales",
+      "part": "ob-5a",
+      "source": "primary230-ob121"
+    },
+    {
+      "id": "ob-chapter-122",
+      "bookId": "ob",
+      "chapter": 122,
+      "label": "Capítulo 122 · Una deuda saldada",
+      "part": "ob-5a",
+      "source": "primary230-ob122"
+    },
+    {
+      "id": "ob-epilogue",
+      "bookId": "ob",
+      "label": "Epílogo",
+      "part": "ob-5a",
+      "source": "primary230-ob-epilogue"
     }
   ],
   "experiencePresentation": {
@@ -141272,6 +142427,234 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-kaladin-3",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Explanada entre la bahía y la muralla",
+          "placeId": "place-ob115-thaylen-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas."
+          ]
+        },
+        {
+          "id": "primary230-121-kaladin-2",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Azotea del Puente Cuatro",
+          "placeId": "place-ob121-thaylen-roof-bridge-four",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la azotea después de la batalla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la azotea después de la batalla."
+          ]
+        },
+        {
+          "id": "primary230-121-kaladin-3",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Tienda de heridos",
+          "placeId": "place-ob121-thaylen-field-hospital",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la tienda cuando se aceptan las Palabras de Lopen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda cuando se aceptan las Palabras de Lopen."
+          ]
+        },
+        {
+          "id": "primary230-122-kaladin-1",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kharbranth",
+          "placeId": "place-kharbranth",
+          "realm": "physical",
+          "placeNotes": [
+            "Nombre y posición heredados del prototipo; pendientes de comprobación.",
+            "Anclaje sobre el punto de Kharbranth en el mapa aportado. Los edificios heredan la ciudad sin coordenada urbana propia."
+          ],
+          "xy": [
+            570.231,
+            466.56
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kharbranth",
+          "coordinateAnchorName": "Kharbranth",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Hace escala para dormir y reabastecerse antes de seguir a la costa de Alezkar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hace escala para dormir y reabastecerse antes de seguir a la costa de Alezkar."
+          ]
+        },
+        {
+          "id": "primary230-122-kaladin-2",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "placeId": "place-ob122-alethkar-coastal-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob122-alethkar-coastal-rendezvous",
+          "coordinateAnchorName": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en el encuentro donde presentan al hijo de Elhokar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el encuentro donde presentan al hijo de Elhokar."
+          ]
         }
       ]
     },
@@ -160169,6 +161552,99 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-shallan-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Muralla durante la defensa",
+          "placeId": "place-ob115-thaylen-wall-defenders",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la defensa de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la defensa de la muralla."
+          ]
+        },
+        {
+          "id": "primary230-122-shallan-3",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia de los preparativos de la boda",
+          "placeId": "place-ob122-urithiru-wedding-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se reúne con Shallan antes de la boda o espera fuera de la estancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
+          ]
         }
       ]
     },
@@ -162549,6 +164025,96 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-jasnah-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Muralla durante la defensa",
+          "placeId": "place-ob115-thaylen-wall-defenders",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la defensa de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la defensa de la muralla."
+          ]
+        },
+        {
+          "id": "primary230-121-jasnah-4",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cola de evacuación a la Puerta Jurada",
+          "placeId": "place-ob121-thaylen-evacuation-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la zona de evacuación cuando Ash siente la pérdida de Jezrien.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de evacuación cuando Ash siente la pérdida de Jezrien."
+          ]
         }
       ]
     },
@@ -164880,6 +166446,143 @@
           "needsConfirmation": [],
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
+          ]
+        },
+        {
+          "id": "primary230-120-szeth-1",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Embarcaciones de los Fusionados",
+          "placeId": "place-ob120-thaylen-fused-docks",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada."
+          ]
+        },
+        {
+          "id": "primary230-121-szeth-1",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Aire sobre el campo de batalla",
+          "placeId": "place-ob116-thaylen-battlefield-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen."
+          ]
+        },
+        {
+          "id": "primary230-122-szeth-4",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos Kholin o junto a su puerta después del banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos Kholin o junto a su puerta después del banquete."
           ]
         }
       ]
@@ -171291,6 +172994,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la orilla tras la lucha en Shadesmar."
+          ]
+        },
+        {
+          "id": "primary230-120-syl-3",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Explanada entre la bahía y la muralla",
+          "placeId": "place-ob115-thaylen-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas."
           ]
         }
       ]
@@ -184637,6 +186385,98 @@
           "notes": [
             "Se dirige hacia el agua tras repartir las tareas."
           ]
+        },
+        {
+          "id": "primary230-120-dalinar-4",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Frente de la niebla roja junto al agua",
+          "placeId": "place-ob120-thaylen-red-mist",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está junto a la niebla roja cuando se recupera el rubí y se deshace el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la niebla roja cuando se recupera el rubí y se deshace el ataque."
+          ]
+        },
+        {
+          "id": "primary230-122-dalinar-4",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos Kholin o junto a su puerta después del banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos Kholin o junto a su puerta después del banquete."
+          ]
         }
       ]
     },
@@ -195512,6 +197352,51 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-adolin-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Calles del combate con el tronador",
+          "placeId": "place-ob120-thaylen-thunderclast-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Lucha o presta auxilio en las calles donde avanza el tronador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lucha o presta auxilio en las calles donde avanza el tronador."
+          ]
         }
       ]
     },
@@ -199489,6 +201374,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
+          ]
+        },
+        {
+          "id": "primary230-120-renarin-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Calles del combate con el tronador",
+          "placeId": "place-ob120-thaylen-thunderclast-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Lucha o presta auxilio en las calles donde avanza el tronador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lucha o presta auxilio en las calles donde avanza el tronador."
           ]
         }
       ]
@@ -210528,6 +212458,146 @@
           "notes": [
             "Está en el refugio de la muralla durante el enfrentamiento con los captores."
           ]
+        },
+        {
+          "id": "primary230-120-navani-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Muralla durante la defensa",
+          "placeId": "place-ob115-thaylen-wall-defenders",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la defensa de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la defensa de la muralla."
+          ]
+        },
+        {
+          "id": "primary230-122-navani-3",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia de los preparativos de la boda",
+          "placeId": "place-ob122-urithiru-wedding-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se reúne con Shallan antes de la boda o espera fuera de la estancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
+          ]
+        },
+        {
+          "id": "primary230-122-navani-4",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos Kholin o junto a su puerta después del banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos Kholin o junto a su puerta después del banquete."
+          ]
         }
       ]
     },
@@ -211391,6 +213461,150 @@
           "needsConfirmation": [],
           "notes": [
             "Se sienta con Shallan y continúa con ella el relato de la niña."
+          ]
+        },
+        {
+          "id": "primary230-122-wit-1",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de los refugiados",
+          "placeId": "place-obep-kholinar-refugee-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Está en la plaza cuando Sagaz lleva a la niña ante Kheni.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plaza cuando Sagaz lleva a la niña ante Kheni."
+          ]
+        },
+        {
+          "id": "primary230-122-wit-2",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Obra junto a la sección derruida del palacio",
+          "placeId": "place-obep-kholinar-palace-worksite",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Está junto a la grieta de la zona de obras donde aparece el críptico.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la grieta de la zona de obras donde aparece el críptico."
+          ]
+        },
+        {
+          "id": "primary230-122-wit-3",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Jardines del palacio",
+          "placeId": "place-obep-kholinar-palace-gardens",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Termina en los jardines después de que los guardias saquen a Sagaz.",
+          "needsConfirmation": [],
+          "notes": [
+            "Termina en los jardines después de que los guardias saquen a Sagaz."
           ]
         }
       ]
@@ -214258,6 +216472,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary230-120-rock-3",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Explanada entre la bahía y la muralla",
+          "placeId": "place-ob115-thaylen-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas."
           ]
         }
       ]
@@ -217605,6 +219864,51 @@
           "notes": [
             "Sale al pasillo tras oír la descripción del atacante."
           ]
+        },
+        {
+          "id": "primary230-121-teft-2",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Azotea del Puente Cuatro",
+          "placeId": "place-ob121-thaylen-roof-bridge-four",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la azotea después de la batalla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la azotea después de la batalla."
+          ]
         }
       ]
     },
@@ -217616,6 +219920,20 @@
       "role": "Puente Cuatro",
       "importance": "primary",
       "importanceReason": "Mantiene un arco personal sostenido que interviene directamente en la trama de Kaladin.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Leshwi lo llama Vyre y traducen el nombre como Aquel Que Acalla.",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "name": "Vyre",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          }
+        }
+      ],
       "events": [
         {
           "id": "wok-moash-chapter-14-01",
@@ -221154,6 +223472,102 @@
           "notes": [
             "Está en el salón de la galería oriental durante la refriega y la retirada."
           ]
+        },
+        {
+          "id": "primary230-121-moash-1",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Ala este derruida del palacio",
+          "placeId": "place-ob121-kholinar-palace-east-ruins",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la zona en obras de la galería oriental.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona en obras de la galería oriental."
+          ]
+        },
+        {
+          "id": "primary230-121-moash-2",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Refugio cerca del palacio",
+          "placeId": "place-ob121-kholinar-palace-refugees",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Ataca con un cuchillo a un hombre junto al refugio del palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ataca con un cuchillo a un hombre junto al refugio del palacio."
+          ]
         }
       ]
     },
@@ -222088,6 +224502,54 @@
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
           ]
+        },
+        {
+          "id": "primary230-122-balat-3",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia de los preparativos de la boda",
+          "placeId": "place-ob122-urithiru-wedding-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se reúne con Shallan antes de la boda o espera fuera de la estancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
+          ]
         }
       ]
     },
@@ -222624,6 +225086,54 @@
           "needsConfirmation": [],
           "notes": [
             "Entran para reunirse con los demás y examinan a su padre y el moldeador roto."
+          ]
+        },
+        {
+          "id": "primary230-122-wikim-3",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia de los preparativos de la boda",
+          "placeId": "place-ob122-urithiru-wedding-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se reúne con Shallan antes de la boda o espera fuera de la estancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
           ]
         }
       ]
@@ -225383,6 +227893,54 @@
           "notes": [
             "Está en la escalinata durante las conversaciones tras la cumbre."
           ]
+        },
+        {
+          "id": "primary230-122-taravangian-1",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos durante la espera de la reunión con Odium.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos durante la espera de la reunión con Odium."
+          ]
         }
       ]
     },
@@ -225541,6 +228099,54 @@
           "needsConfirmation": [],
           "notes": [
             "La escena incluye el hallazgo del cuerpo de Malise y la muerte de Lin. El estado vital se documenta aparte."
+          ]
+        },
+        {
+          "id": "primary230-122-eylita-3",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia de los preparativos de la boda",
+          "placeId": "place-ob122-urithiru-wedding-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se reúne con Shallan antes de la boda o espera fuera de la estancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
           ]
         }
       ]
@@ -229303,6 +231909,141 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary230-120-lopen-3",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Explanada entre la bahía y la muralla",
+          "placeId": "place-ob115-thaylen-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas."
+          ]
+        },
+        {
+          "id": "primary230-121-lopen-2",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Azotea del Puente Cuatro",
+          "placeId": "place-ob121-thaylen-roof-bridge-four",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la azotea después de la batalla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la azotea después de la batalla."
+          ]
+        },
+        {
+          "id": "primary230-121-lopen-3",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Tienda de heridos",
+          "placeId": "place-ob121-thaylen-field-hospital",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la tienda cuando se aceptan las Palabras de Lopen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda cuando se aceptan las Palabras de Lopen."
           ]
         }
       ]
@@ -236556,6 +239297,51 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-amaram-3",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Explanada entre la bahía y la muralla",
+          "placeId": "place-ob115-thaylen-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la explanada durante el combate final contra Amaram o sus consecuencias inmediatas."
+          ]
         }
       ]
     },
@@ -239417,6 +242203,51 @@
           "notes": [
             "Llega a la plataforma defendida por la Guardia de la Muralla."
           ]
+        },
+        {
+          "id": "primary230-122-skar-2",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "placeId": "place-ob122-alethkar-coastal-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob122-alethkar-coastal-rendezvous",
+          "coordinateAnchorName": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en el encuentro donde presentan al hijo de Elhokar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el encuentro donde presentan al hijo de Elhokar."
+          ]
         }
       ]
     },
@@ -241756,6 +244587,51 @@
           "needsConfirmation": [],
           "notes": [
             "Llega a la plataforma defendida por la Guardia de la Muralla."
+          ]
+        },
+        {
+          "id": "primary230-122-drehy-2",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "placeId": "place-ob122-alethkar-coastal-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob122-alethkar-coastal-rendezvous",
+          "coordinateAnchorName": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en el encuentro donde presentan al hijo de Elhokar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el encuentro donde presentan al hijo de Elhokar."
           ]
         }
       ]
@@ -244285,6 +247161,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
+          ]
+        },
+        {
+          "id": "primary230-121-talenel-4",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cola de evacuación a la Puerta Jurada",
+          "placeId": "place-ob121-thaylen-evacuation-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la zona de evacuación cuando Ash siente la pérdida de Jezrien.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de evacuación cuando Ash siente la pérdida de Jezrien."
           ]
         }
       ]
@@ -256893,6 +259814,51 @@
           "notes": [
             "Está en las inmediaciones de Odium durante el enfrentamiento."
           ]
+        },
+        {
+          "id": "primary230-120-venli-1",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Embarcaciones de los Fusionados",
+          "placeId": "place-ob120-thaylen-fused-docks",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada."
+          ]
         }
       ]
     },
@@ -258678,6 +261644,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está sobre el campo mientras Nin pide a Szeth que elija a quién obedecer."
+          ]
+        },
+        {
+          "id": "primary230-121-crescent-scar-stranger-1",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Aire sobre el campo de batalla",
+          "placeId": "place-ob116-thaylen-battlefield-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen."
           ]
         }
       ]
@@ -264061,6 +267072,54 @@
           "needsConfirmation": [],
           "notes": [
             "Entran para reunirse con los demás y examinan a su padre y el moldeador roto."
+          ]
+        },
+        {
+          "id": "primary230-122-jushu-3",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia de los preparativos de la boda",
+          "placeId": "place-ob122-urithiru-wedding-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Se reúne con Shallan antes de la boda o espera fuera de la estancia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
           ]
         }
       ]
@@ -274183,6 +277242,96 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-lift-1",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Embarcaciones de los Fusionados",
+          "placeId": "place-ob120-thaylen-fused-docks",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada."
+          ]
+        },
+        {
+          "id": "primary230-120-lift-4",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Frente de la niebla roja junto al agua",
+          "placeId": "place-ob120-thaylen-red-mist",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está junto a la niebla roja cuando se recupera el rubí y se deshace el ataque.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la niebla roja cuando se recupera el rubí y se deshace el ataque."
+          ]
         }
       ]
     },
@@ -280979,6 +284128,54 @@
           "notes": [
             "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
           ]
+        },
+        {
+          "id": "primary230-122-adrotagia-1",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos durante la espera de la reunión con Odium.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos durante la espera de la reunión con Odium."
+          ]
         }
       ]
     },
@@ -281768,6 +284965,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
+          ]
+        },
+        {
+          "id": "primary230-122-maben-1",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos durante la espera de la reunión con Odium.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos durante la espera de la reunión con Odium."
           ]
         }
       ]
@@ -287842,6 +291087,96 @@
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
           ]
+        },
+        {
+          "id": "primary230-120-black-sword-1",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Embarcaciones de los Fusionados",
+          "placeId": "place-ob120-thaylen-fused-docks",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada."
+          ]
+        },
+        {
+          "id": "primary230-121-black-sword-1",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Aire sobre el campo de batalla",
+          "placeId": "place-ob116-thaylen-battlefield-air",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen."
+          ]
         }
       ]
     },
@@ -292737,6 +296072,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el refugio de la muralla durante el enfrentamiento con los captores."
+          ]
+        },
+        {
+          "id": "primary230-120-fen-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Muralla durante la defensa",
+          "placeId": "place-ob115-thaylen-wall-defenders",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la defensa de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la defensa de la muralla."
           ]
         }
       ]
@@ -298137,6 +301517,51 @@
           "needsConfirmation": [],
           "notes": [
             "Un miembro de la Guardia de la Reina lo recoge y se lo lleva. El capítulo no fija su destino."
+          ]
+        },
+        {
+          "id": "primary230-122-elhokar-son-2",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "placeId": "place-ob122-alethkar-coastal-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob122-alethkar-coastal-rendezvous",
+          "coordinateAnchorName": "Costa de Alezkar · Refugio donde espera el grupo de Kholinar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en el encuentro donde presentan al hijo de Elhokar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el encuentro donde presentan al hijo de Elhokar."
           ]
         }
       ]
@@ -306035,6 +309460,54 @@
             "Ubicación cartográfica sin determinar."
           ],
           "notes": []
+        },
+        {
+          "id": "primary230-121-jezrien-vision-2",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Refugio cerca del palacio",
+          "placeId": "place-ob121-kholinar-palace-refugees",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Muere tras el ataque con el cuchillo del pomo de zafiro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Muere tras el ataque con el cuchillo del pomo de zafiro."
+          ]
         }
       ]
     },
@@ -306276,6 +309749,18 @@
           "sourceIds": [
             "primary205-ob54"
           ]
+        },
+        {
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Moash la llama Leshwi y recuerda que es la Fusionada a la que había matado.",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "name": "Leshwi",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          }
         }
       ],
       "events": [
@@ -306371,6 +309856,54 @@
           "needsConfirmation": [],
           "notes": [
             "Habla con Moash y explica cómo volvió en otro cuerpo."
+          ]
+        },
+        {
+          "id": "primary230-121-moash-duel-fused-1",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Ala este derruida del palacio",
+          "placeId": "place-ob121-kholinar-palace-east-ruins",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la zona en obras de la galería oriental.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona en obras de la galería oriental."
           ]
         }
       ]
@@ -340303,6 +343836,54 @@
           "notes": [
             "Está en los aposentos durante las pruebas de Taravangian."
           ]
+        },
+        {
+          "id": "primary230-122-dukar-obi5-1",
+          "scene": "ob-chapter-122",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob122",
+          "sourceIds": [
+            "primary230-ob122"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-122"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/122.Deudasaldada.xhtml. Está en los aposentos durante la espera de la reunión con Odium.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos durante la espera de la reunión con Odium."
+          ]
         }
       ]
     },
@@ -341134,6 +344715,51 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la plataforma de la Puerta Jurada durante la llegada de las delegaciones."
+          ]
+        },
+        {
+          "id": "primary230-120-kdralk-ob59-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Muralla durante la defensa",
+          "placeId": "place-ob115-thaylen-wall-defenders",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/115.Pasionequivocada.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Está en la defensa de la muralla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la defensa de la muralla."
           ]
         }
       ]
@@ -349804,6 +353430,20 @@
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Adolin oye el nombre Mayalaran y la llama Maya.",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "name": "Mayalaran",
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          }
+        }
+      ],
       "events": [
         {
           "id": "primary216-87-ob87-platform-thread-spren-4",
@@ -356152,6 +359792,572 @@
           "needsConfirmation": [],
           "notes": [
             "Está ante los cascotes de la muralla tras la apertura del paso entre reinos."
+          ]
+        },
+        {
+          "id": "primary230-121-ash-thaylen-ob119-4",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Cola de evacuación a la Puerta Jurada",
+          "placeId": "place-ob121-thaylen-evacuation-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la zona de evacuación cuando Ash siente la pérdida de Jezrien.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de evacuación cuando Ash siente la pérdida de Jezrien."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hrdalm-ob120",
+      "name": "Hrdalm",
+      "initial": "H",
+      "role": "Portador de esquirlada thayleño que llega para detener al tronador.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-120-hrdalm-ob120-2",
+          "scene": "ob-chapter-120",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Calles del combate con el tronador",
+          "placeId": "place-ob120-thaylen-thunderclast-streets",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob120",
+          "sourceIds": [
+            "primary230-ob120"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-120"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/120.Lalanza.xhtml. Lucha o presta auxilio en las calles donde avanza el tronador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lucha o presta auxilio en las calles donde avanza el tronador."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tshadr-ob120",
+      "name": "Tshadr",
+      "initial": "T",
+      "role": "Portador que según Hrdalm defiende la plaza Tribunal.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob121-thaylen-one-armed-soldier",
+      "name": "Soldado thayleño herido",
+      "initial": "S",
+      "role": "Bebe con Lopen en la tienda y pregunta cómo unirse a los Radiantes.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-121-ob121-thaylen-one-armed-soldier-3",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Tienda de heridos",
+          "placeId": "place-ob121-thaylen-field-hospital",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la tienda cuando se aceptan las Palabras de Lopen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda cuando se aceptan las Palabras de Lopen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rua-ob121",
+      "name": "Rua",
+      "initial": "R",
+      "role": "Spren de Lopen. Lo imita después de que se acepten sus Palabras.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-121-rua-ob121-3",
+          "scene": "ob-chapter-121",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Tienda de heridos",
+          "placeId": "place-ob121-thaylen-field-hospital",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob121",
+          "sourceIds": [
+            "primary230-ob121"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-121"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml. Está en la tienda cuando se aceptan las Palabras de Lopen.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la tienda cuando se aceptan las Palabras de Lopen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kheni-obep",
+      "name": "Kheni",
+      "initial": "K",
+      "role": "Mujer refugiada a la que Sagaz entrega una niña.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-122-kheni-obep-1",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de los refugiados",
+          "placeId": "place-obep-kholinar-refugee-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Está en la plaza cuando Sagaz lleva a la niña ante Kheni.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plaza cuando Sagaz lleva a la niña ante Kheni."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obep-kheni-husband",
+      "name": "Marido de Kheni",
+      "initial": "M",
+      "role": "Refugiado que habla con Sagaz cuando lleva a la niña a la plaza.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-122-obep-kheni-husband-1",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de los refugiados",
+          "placeId": "place-obep-kholinar-refugee-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Está en la plaza cuando Sagaz lleva a la niña ante Kheni.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plaza cuando Sagaz lleva a la niña ante Kheni."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obep-refugee-girl",
+      "name": "Niña refugiada",
+      "initial": "N",
+      "role": "Sale de su escondite cuando Sagaz le muestra una muñeca.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-122-obep-refugee-girl-1",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Plaza de los refugiados",
+          "placeId": "place-obep-kholinar-refugee-square",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Está en la plaza cuando Sagaz lleva a la niña ante Kheni.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la plaza cuando Sagaz lleva a la niña ante Kheni."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vatwha-obep",
+      "name": "Vatwha",
+      "initial": "V",
+      "role": "Centinela que flota junto al palacio. Sagaz recuerda que bailó con ella hace miles de años.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-122-vatwha-obep-2",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Obra junto a la sección derruida del palacio",
+          "placeId": "place-obep-kholinar-palace-worksite",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Es vista junto al puesto de guardia al acercarse Sagaz a la zona de obras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Es vista junto al puesto de guardia al acercarse Sagaz a la zona de obras."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obep-palace-cryptic",
+      "name": "Críptico del palacio de Kholinar",
+      "initial": "C",
+      "role": "Pequeño spren que sale de una grieta y se refugia en la mano de Sagaz.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary230-122-obep-palace-cryptic-2",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Obra junto a la sección derruida del palacio",
+          "placeId": "place-obep-kholinar-palace-worksite",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Está junto a la grieta de la zona de obras donde aparece el críptico.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a la grieta de la zona de obras donde aparece el críptico."
+          ]
+        },
+        {
+          "id": "primary230-122-obep-palace-cryptic-3",
+          "scene": "ob-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Jardines del palacio",
+          "placeId": "place-obep-kholinar-palace-gardens",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary230-ob-epilogue",
+          "sourceIds": [
+            "primary230-ob-epilogue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Semanas después de la caída de Kholinar."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-epilogue"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/Epilogo.xhtml. Termina en los jardines después de que los guardias saquen a Sagaz.",
+          "needsConfirmation": [],
+          "notes": [
+            "Termina en los jardines después de que los guardias saquen a Sagaz."
           ]
         }
       ]
