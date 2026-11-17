@@ -5029,6 +5029,24 @@
           "bookId": "ob",
           "sceneId": "ob-chapter-113"
         }
+      },
+      {
+        "id": "spren-person-ob116-thaylen-oathgate-bright",
+        "section": "spren-individuals",
+        "characterId": "ob116-thaylen-oathgate-bright",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-116"
+        }
+      },
+      {
+        "id": "spren-person-ob116-thaylen-oathgate-dark",
+        "section": "spren-individuals",
+        "characterId": "ob116-thaylen-oathgate-dark",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-116"
+        }
       }
     ],
     "facts": [
@@ -15894,6 +15912,118 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/121.Ideales.xhtml",
+        "supersedes": []
+      },
+      {
+        "id": "primary231-sja-anat-plate",
+        "entryId": "spren-person-sja-anat",
+        "field": "description",
+        "value": "La lámina llama a Sja-anat Tomadora de Secretos y caracteriza su trato con los spren y las criaturas que llama sus hijos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-77"
+        },
+        "sourceIds": [
+          "primary231-ob-illustrations"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "OEBPS/Text/Imagen14.xhtml, entre los capítulos 76 y 77.",
+        "readingLocator": "OEBPS/Text/Imagen14.xhtml, entre los capítulos 76 y 77.",
+        "supersedes": []
+      },
+      {
+        "id": "primary231-ob-ars-essences",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "La compilación atribuye asociaciones clásicas con las Diez Esencias a los Heraldos y las órdenes. Presenta la tabla como simbolismo tradicional imperfecto y considera interpretativo el foco corporal.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-epilogue"
+        },
+        "sourceIds": [
+          "primary231-ob-endmatter"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "OEBPS/Text/Ars-Arcanum.xhtml y OEBPS/Images/tabla.jpg. Anexo tras el epílogo.",
+        "readingLocator": "OEBPS/Text/Ars-Arcanum.xhtml y OEBPS/Images/tabla.jpg. Anexo tras el epílogo.",
+        "supersedes": []
+      },
+      {
+        "id": "primary231-thaylen-sentinel-bright-name",
+        "entryId": "spren-person-ob116-thaylen-oathgate-bright",
+        "field": "name",
+        "value": "Centinela luminoso de Ciudad Thaylen",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-116"
+        },
+        "sourceIds": [
+          "primary228-ob116",
+          "primary231-ob-illustrations"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "readingLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "supersedes": []
+      },
+      {
+        "id": "primary231-thaylen-sentinel-bright-plate",
+        "entryId": "spren-person-ob116-thaylen-oathgate-bright",
+        "field": "description",
+        "value": "La lámina representa una pareja de centinelas gigantes con lanzas sobre el puente y la plataforma. El capítulo siguiente sitúa a Shallan ante ambos en Ciudad Thaylen.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-116"
+        },
+        "sourceIds": [
+          "primary228-ob116",
+          "primary231-ob-illustrations"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "readingLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "supersedes": []
+      },
+      {
+        "id": "primary231-thaylen-sentinel-dark-name",
+        "entryId": "spren-person-ob116-thaylen-oathgate-dark",
+        "field": "name",
+        "value": "Centinela oscuro de Ciudad Thaylen",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-116"
+        },
+        "sourceIds": [
+          "primary228-ob116",
+          "primary231-ob-illustrations"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "readingLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "supersedes": []
+      },
+      {
+        "id": "primary231-thaylen-sentinel-dark-plate",
+        "entryId": "spren-person-ob116-thaylen-oathgate-dark",
+        "field": "description",
+        "value": "La lámina representa una pareja de centinelas gigantes con lanzas sobre el puente y la plataforma. El capítulo siguiente sitúa a Shallan ante ambos en Ciudad Thaylen.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-116"
+        },
+        "sourceIds": [
+          "primary228-ob116",
+          "primary231-ob-illustrations"
+        ],
+        "status": "confirmed",
+        "primaryReviewed": true,
+        "primaryLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "readingLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
         "supersedes": []
       }
     ],
@@ -119344,7 +119474,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 230,
+  "revision": 231,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
