@@ -4181,6 +4181,45 @@
       "ishar-mentioned",
       "ki-ob90",
       "szeth"
+    ],
+    "ob-chapter-107": [
+      "adrotagia",
+      "aladar",
+      "ba-ado-mishram-ob80",
+      "dalinar",
+      "dova",
+      "fen",
+      "kadash",
+      "kdralk-ob59",
+      "maben",
+      "malata",
+      "mintez-pr81",
+      "mrall",
+      "navani",
+      "ob107-fen-admiral",
+      "ob107-veden-prince-brother",
+      "ob107-veden-prince-speaker",
+      "spark",
+      "taravangian"
+    ],
+    "ob-chapter-108": [
+      "adolin",
+      "borea-ob108",
+      "chemoarish-ob108",
+      "highmarshal-celeste-ob61",
+      "kaladin",
+      "notum-ob108",
+      "shallan",
+      "syl"
+    ],
+    "ob-chapter-109": [
+      "creer-ob109",
+      "dalinar",
+      "navani",
+      "odium",
+      "re-shephir-mentioned",
+      "stormfather",
+      "venli"
     ]
   },
   "knowledgeArchive": {
@@ -4722,6 +4761,15 @@
       {
         "id": "spren-type-mandras-ob99",
         "section": "spren-types"
+      },
+      {
+        "id": "spren-person-chemoarish-ob108",
+        "section": "spren-individuals",
+        "characterId": "chemoarish-ob108",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-108"
+        }
       }
     ],
     "facts": [
@@ -15162,6 +15210,142 @@
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/106.Leyesluz.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Malata se refiere a su spren como Chispa y afirma que comparte sus planes.",
+        "sourceIds": [
+          "primary224-ob107"
+        ],
+        "id": "primary224-archive-spark-malata-report",
+        "entryId": "spren-person-spark",
+        "value": "Malata se refiere a su spren como Chispa y afirma que comparte sus planes.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-107"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Ante la escasez de testimonios recientes, Hessi conjetura dos destinos posibles para Ba-Ado-Mishram.",
+        "sourceIds": [
+          "primary224-ob107"
+        ],
+        "id": "primary224-archive-mishram-fate-hessi",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "Ante la escasez de testimonios recientes, Hessi conjetura dos destinos posibles para Ba-Ado-Mishram.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-107"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Notum distingue a los primeros hijos creados por el Padre Tormenta de los honorspren de generaciones posteriores.",
+        "sourceIds": [
+          "primary224-ob108"
+        ],
+        "id": "primary224-archive-honorspren-first-generation",
+        "entryId": "spren-type-honorspren",
+        "value": "Notum distingue a los primeros hijos creados por el Padre Tormenta de los honorspren de generaciones posteriores.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-108"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Notum observa vientospren en torno a Kaladin y afirma que son poco habituales en Shadesmar.",
+        "sourceIds": [
+          "primary224-ob108"
+        ],
+        "id": "primary224-archive-windspren-aboard",
+        "entryId": "spren-type-windspren",
+        "value": "Notum observa vientospren en torno a Kaladin y afirma que son poco habituales en Shadesmar.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-108"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Chemoarish / Madrepolvo",
+        "sourceIds": [
+          "primary224-ob108"
+        ],
+        "id": "primary224-archive-chemoarish-name",
+        "entryId": "spren-person-chemoarish-ob108",
+        "value": "Chemoarish / Madrepolvo",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-108"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Hessi rechaza la tradición que identifica a Chemoarish con la Vigilante Nocturna.",
+        "sourceIds": [
+          "primary224-ob108"
+        ],
+        "id": "primary224-archive-chemoarish-hessi",
+        "entryId": "spren-person-chemoarish-ob108",
+        "value": "Hessi rechaza la tradición que identifica a Chemoarish con la Vigilante Nocturna.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-108"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Tras regresar de la visión, Dalinar siente a través de su vínculo cuánto le ha costado al Padre Tormenta contener a Odium.",
+        "sourceIds": [
+          "primary224-ob109"
+        ],
+        "id": "primary224-archive-stormfather-contains-odium",
+        "entryId": "spren-person-stormfather",
+        "value": "Tras regresar de la visión, Dalinar siente a través de su vínculo cuánto le ha costado al Padre Tormenta contener a Odium.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-109"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. El epígrafe recoge la versión de Hessi de que Re-Shephir habría sido destruida en el Aharietiam.",
+        "sourceIds": [
+          "primary224-ob109"
+        ],
+        "id": "primary224-archive-reshephir-aharietiam",
+        "entryId": "spren-person-midnight-mother",
+        "value": "El epígrafe recoge la versión de Hessi de que Re-Shephir habría sido destruida en el Aharietiam.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-109"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
         "supersedes": []
       }
     ],
@@ -31031,6 +31215,33 @@
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Jevena menciona en el sepelio que Gavilar desciende del Hacedor de Soles."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Dalinar identifica como hermanos a los dos altos príncipes veden presentes.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-veden-prince-brothers",
+      "from": "ob107-veden-prince-speaker",
+      "to": "ob107-veden-prince-brother",
+      "kind": "sibling",
+      "label": "Hermanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Dalinar identifica como hermanos a los dos altos príncipes veden presentes."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Dalinar identifica como hermanos a los dos altos príncipes veden presentes."
       }
     }
   ],
@@ -71643,6 +71854,485 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Taravangian visita a Dalinar y este lo acompaña a la Galería de Mapas.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-dalinar-taravangian-map",
+      "participants": [
+        "dalinar",
+        "taravangian"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Taravangian visita a Dalinar y este lo acompaña a la Galería de Mapas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Taravangian visita a Dalinar y este lo acompaña a la Galería de Mapas.",
+        "pairs": [
+          [
+            "dalinar",
+            "taravangian"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Dalinar propone reforzar Ciudad Thaylen y la reunión examina cómo reunir una flota.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-thaylen-defense-plan",
+      "participants": [
+        "dalinar",
+        "navani",
+        "fen",
+        "aladar",
+        "kdralk-ob59"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar propone reforzar Ciudad Thaylen y la reunión examina cómo reunir una flota.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar propone reforzar Ciudad Thaylen y la reunión examina cómo reunir una flota.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "fen"
+          ],
+          [
+            "fen",
+            "aladar"
+          ],
+          [
+            "aladar",
+            "kdralk-ob59"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Dalinar plantea liberar a sus fervorosos de su servicio y Kadash pide una declaración pública.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-ardents-after-excommunication",
+      "participants": [
+        "dalinar",
+        "kadash"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar plantea liberar a sus fervorosos de su servicio y Kadash pide una declaración pública.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar plantea liberar a sus fervorosos de su servicio y Kadash pide una declaración pública.",
+        "pairs": [
+          [
+            "dalinar",
+            "kadash"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Mrall acompaña a Taravangian, Maben le sirve una infusión y Adrotagia y Malata discuten cómo socavar a Dalinar.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-taravangian-diagram-meeting",
+      "participants": [
+        "taravangian",
+        "mrall",
+        "maben",
+        "adrotagia",
+        "malata"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Mrall acompaña a Taravangian, Maben le sirve una infusión y Adrotagia y Malata discuten cómo socavar a Dalinar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mrall acompaña a Taravangian, Maben le sirve una infusión y Adrotagia y Malata discuten cómo socavar a Dalinar.",
+        "pairs": [
+          [
+            "taravangian",
+            "mrall"
+          ],
+          [
+            "taravangian",
+            "maben"
+          ],
+          [
+            "taravangian",
+            "adrotagia"
+          ],
+          [
+            "taravangian",
+            "malata"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Notum permite a Shallan recoger cuentas y le explica cómo se relacionan con su contraparte física.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-shallan-notum-beads",
+      "participants": [
+        "shallan",
+        "notum-ob108"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Notum permite a Shallan recoger cuentas y le explica cómo se relacionan con su contraparte física.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Notum permite a Shallan recoger cuentas y le explica cómo se relacionan con su contraparte física.",
+        "pairs": [
+          [
+            "shallan",
+            "notum-ob108"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Celeste muestra su hoja a Borea y pregunta por el arma que persigue.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-borea-celeste-sword",
+      "participants": [
+        "highmarshal-celeste-ob61",
+        "borea-ob108"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Celeste muestra su hoja a Borea y pregunta por el arma que persigue.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Celeste muestra su hoja a Borea y pregunta por el arma que persigue.",
+        "pairs": [
+          [
+            "highmarshal-celeste-ob61",
+            "borea-ob108"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Adolin le confiesa a Shallan que mató a Sadeas y ambos hablan de los papeles que adoptan ante los demás.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-adolin-confession",
+      "participants": [
+        "adolin",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Adolin le confiesa a Shallan que mató a Sadeas y ambos hablan de los papeles que adoptan ante los demás.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin le confiesa a Shallan que mató a Sadeas y ambos hablan de los papeles que adoptan ante los demás.",
+        "pairs": [
+          [
+            "adolin",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Kaladin pide que libere a Syl y que les ayude a volver al Reino Físico. Notum accede a pensarlo.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-kaladin-notum-syl",
+      "participants": [
+        "kaladin",
+        "notum-ob108"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin pide que libere a Syl y que les ayude a volver al Reino Físico. Notum accede a pensarlo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin pide que libere a Syl y que les ayude a volver al Reino Físico. Notum accede a pensarlo.",
+        "pairs": [
+          [
+            "kaladin",
+            "notum-ob108"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Creer entrega el mensaje y Dalinar y Navani hablan de la próxima cumbre y las defensas thayleñas.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-urithiru-fleet-message",
+      "participants": [
+        "navani",
+        "creer-ob109",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-109"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Creer entrega el mensaje y Dalinar y Navani hablan de la próxima cumbre y las defensas thayleñas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Creer entrega el mensaje y Dalinar y Navani hablan de la próxima cumbre y las defensas thayleñas.",
+        "pairs": [
+          [
+            "navani",
+            "creer-ob109"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Dalinar pide ayuda al Padre Tormenta para hablar con Venli en una visión.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-vision-stormfather",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-109"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar pide ayuda al Padre Tormenta para hablar con Venli en una visión.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar pide ayuda al Padre Tormenta para hablar con Venli en una visión.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Dalinar y Venli discuten la posibilidad de una tregua dentro de la visión. No alcanzan un acuerdo.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-vision-truce",
+      "participants": [
+        "dalinar",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-109"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Dalinar y Venli discuten la posibilidad de una tregua dentro de la visión. No alcanzan un acuerdo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar y Venli discuten la posibilidad de una tregua dentro de la visión. No alcanzan un acuerdo.",
+        "pairs": [
+          [
+            "dalinar",
+            "venli"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Odium interrumpe la visión y habla con Dalinar después de que Venli deja la escena.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-vision-odium",
+      "participants": [
+        "dalinar",
+        "odium"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-109"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Odium interrumpe la visión y habla con Dalinar después de que Venli deja la escena.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Odium interrumpe la visión y habla con Dalinar después de que Venli deja la escena.",
+        "pairs": [
+          [
+            "dalinar",
+            "odium"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -108423,6 +109113,182 @@
       "kind": "background",
       "text": "Nin le pide que considere qué Tercer Ideal jurar después de lo que aún debe mostrarle.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Uno de dos hermanos que Taravangian nombró altos príncipes.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-ob107-veden-prince-speaker-intro",
+      "characterId": "ob107-veden-prince-speaker",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "kind": "background",
+      "text": "Uno de dos hermanos que Taravangian nombró altos príncipes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. El otro hermano nombrado alto príncipe por Taravangian.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-ob107-veden-prince-brother-intro",
+      "characterId": "ob107-veden-prince-brother",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "kind": "background",
+      "text": "El otro hermano nombrado alto príncipe por Taravangian.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Explica las pérdidas de la flota thayleña.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-ob107-fen-admiral-intro",
+      "characterId": "ob107-fen-admiral",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "kind": "background",
+      "text": "Explica las pérdidas de la flota thayleña.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Taravangian ordena encargarle un ensayo anónimo para filtrarlo a Tashikk. El encargo se registra como plan.",
+      "sourceIds": [
+        "primary224-ob107"
+      ],
+      "id": "primary224-dova-anonymous-essay-order",
+      "characterId": "dova",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-107"
+      },
+      "kind": "background",
+      "text": "Taravangian ordena encargarle un ensayo anónimo para filtrarlo a Tashikk. El encargo se registra como plan.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Honorspren que capitanea el Sendero de Honor.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-notum-ob108-intro",
+      "characterId": "notum-ob108",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "kind": "background",
+      "text": "Honorspren que capitanea el Sendero de Honor.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Primera oficial del Sendero de Honor.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-borea-ob108-intro",
+      "characterId": "borea-ob108",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "kind": "background",
+      "text": "Primera oficial del Sendero de Honor.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Le confiesa a Shallan que mató a Sadeas.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-adolin-tells-shallan-sadeas",
+      "characterId": "adolin",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "kind": "background",
+      "text": "Le confiesa a Shallan que mató a Sadeas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Notum dice que el Padre Tormenta creó a los primeros honorspren y que solo Syl sobrevivió a la Traición.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-syl-stormfather-creation-report",
+      "characterId": "syl",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "kind": "background",
+      "text": "Notum dice que el Padre Tormenta creó a los primeros honorspren y que solo Syl sobrevivió a la Traición.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Hessi llama Madrepolvo a Chemoarish y discute las leyendas sobre su identidad.",
+      "sourceIds": [
+        "primary224-ob108"
+      ],
+      "id": "primary224-chemoarish-ob108-intro",
+      "characterId": "chemoarish-ob108",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-108"
+      },
+      "kind": "background",
+      "text": "Hessi llama Madrepolvo a Chemoarish y discute las leyendas sobre su identidad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Entrega a Navani el mensaje del brillante Khal.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-creer-ob109-intro",
+      "characterId": "creer-ob109",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-109"
+      },
+      "kind": "background",
+      "text": "Entrega a Navani el mensaje del brillante Khal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Al entrar en la visión, Venli advierte que el lugar que ve no es Marat. Su cuerpo no viaja al palacio de la visión.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-venli-marat-during-vision",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-109"
+      },
+      "kind": "background",
+      "text": "Al entrar en la visión, Venli advierte que el lugar que ve no es Marat. Su cuerpo no viaja al palacio de la visión.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -111132,6 +111998,10 @@
         {
           "revision": 223,
           "notes": "Registrados el matrimonio Bethab y la ascendencia de Gavilar. Revisadas las menciones familiares de Navani, Jasnah, Dalinar, Evi y sus hijos, y el patronímico shin de Szeth."
+        },
+        {
+          "revision": 224,
+          "notes": "Registrado el parentesco de los dos altos príncipes veden. Revisadas las referencias al hijo de Fen, a las familias Kholin y Davar y al relato de Notum sobre los honorspren. Las expresiones figuradas de Venli y Odium no se convierten en parentescos."
         }
       ]
     }
@@ -114288,7 +115158,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 223,
+  "revision": 224,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -117292,6 +118162,30 @@
       "label": "Capítulo 106 · La ley es luz",
       "part": "ob-4a",
       "source": "primary223-ob106"
+    },
+    {
+      "id": "ob-chapter-107",
+      "bookId": "ob",
+      "chapter": 107,
+      "label": "Capítulo 107 · Primer paso",
+      "part": "ob-4a",
+      "source": "primary224-ob107"
+    },
+    {
+      "id": "ob-chapter-108",
+      "bookId": "ob",
+      "chapter": 108,
+      "label": "Capítulo 108 · El sendero del honor",
+      "part": "ob-4a",
+      "source": "primary224-ob108"
+    },
+    {
+      "id": "ob-chapter-109",
+      "bookId": "ob",
+      "chapter": 109,
+      "label": "Capítulo 109 · Neshua Kadal",
+      "part": "ob-4a",
+      "source": "primary224-ob109"
     }
   ],
   "experiencePresentation": {
@@ -118580,6 +119474,32 @@
       "entryAnchor": {
         "placeId": "place-urithiru-dalinar-rooms",
         "name": "Urithiru · Dependencias de Dalinar",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Dalinar habla con Venli en una visión del antiguo palacio de Kholinar. Odium interviene y el Padre Tormenta contiene su avance.",
+      "sourceIds": [
+        "primary224-ob109"
+      ],
+      "id": "primary224-dalinar-venli-vision",
+      "characterId": "dalinar",
+      "sceneId": "ob-chapter-109",
+      "type": "vision",
+      "experiencedPlace": "Palacio de Nohadon y entorno de la visión interrumpida por Odium",
+      "physicalPlaceId": "place-ob109-urithiru-upper-vision-room",
+      "notes": [
+        "Dalinar habla con Venli en una visión del antiguo palacio de Kholinar. Odium interviene y el Padre Tormenta contiene su avance.",
+        "Dalinar vuelve a la sala de Urithiru."
+      ],
+      "entryAnchor": {
+        "placeId": "place-ob109-urithiru-upper-vision-room",
+        "name": "Urithiru · Sala superior desde la que Dalinar entra en la visión",
         "xy": [
           474.647,
           410.831
@@ -136512,6 +137432,96 @@
           "needsConfirmation": [],
           "notes": [
             "Embarca y sale de Celebrant en el navío de los honorspren."
+          ]
+        },
+        {
+          "id": "primary224-108-kaladin-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta principal",
+          "placeId": "place-ob108-honor-path-main-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-main-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta principal",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está a bordo en la cubierta principal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está a bordo en la cubierta principal."
+          ]
+        },
+        {
+          "id": "primary224-108-kaladin-2",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta alta",
+          "placeId": "place-ob108-honor-path-upper-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-upper-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta alta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está en la cubierta alta cuando se avista a los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta alta cuando se avista a los Fusionados."
           ]
         }
       ]
@@ -154787,6 +155797,96 @@
           "notes": [
             "Embarca y sale de Celebrant en el navío de los honorspren."
           ]
+        },
+        {
+          "id": "primary224-108-shallan-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta principal",
+          "placeId": "place-ob108-honor-path-main-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-main-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta principal",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está a bordo en la cubierta principal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está a bordo en la cubierta principal."
+          ]
+        },
+        {
+          "id": "primary224-108-shallan-2",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta alta",
+          "placeId": "place-ob108-honor-path-upper-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-upper-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta alta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está en la cubierta alta cuando se avista a los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta alta cuando se avista a los Fusionados."
+          ]
         }
       ]
     },
@@ -164842,6 +165942,51 @@
           "needsConfirmation": [],
           "notes": [
             "Embarca y sale de Celebrant en el navío de los honorspren."
+          ]
+        },
+        {
+          "id": "primary224-108-syl-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Encierro de Syl",
+          "placeId": "place-ob108-honor-path-brig",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-brig",
+          "coordinateAnchorName": "Sendero de Honor · Encierro de Syl",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Sigue encarcelada a bordo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigue encarcelada a bordo."
           ]
         }
       ]
@@ -177004,6 +178149,245 @@
           "notes": [
             "Está en la sala de lectura real durante la conversación sobre el libro o la expedición."
           ]
+        },
+        {
+          "id": "primary224-107-dalinar-1",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Se reúne en los aposentos de Dalinar antes de ir a la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en los aposentos de Dalinar antes de ir a la Galería de Mapas."
+          ]
+        },
+        {
+          "id": "primary224-107-dalinar-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
+        },
+        {
+          "id": "primary224-107-dalinar-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Jardín de los fervorosos",
+          "placeId": "place-ob107-urithiru-ardent-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Habla en el jardín de los fervorosos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en el jardín de los fervorosos."
+          ]
+        },
+        {
+          "id": "primary224-109-dalinar-1",
+          "scene": "ob-chapter-109",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Almacén superior con vetas de cristal",
+          "placeId": "place-ob109-urithiru-upper-store",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob109",
+          "sourceIds": [
+            "primary224-ob109"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-109"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Está en el almacén superior cuando llega el mensaje sobre la flota.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el almacén superior cuando llega el mensaje sobre la flota."
+          ]
+        },
+        {
+          "id": "primary224-109-dalinar-2",
+          "scene": "ob-chapter-109",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala superior desde la que Dalinar entra en la visión",
+          "placeId": "place-ob109-urithiru-upper-vision-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob109",
+          "sourceIds": [
+            "primary224-ob109"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-109"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Está en la sala superior de Urithiru antes o después de la visión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala superior de Urithiru antes o después de la visión."
+          ]
         }
       ]
     },
@@ -187212,6 +188596,96 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la sala de lectura real durante la conversación sobre el libro o la expedición."
+          ]
+        },
+        {
+          "id": "primary224-108-adolin-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta principal",
+          "placeId": "place-ob108-honor-path-main-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-main-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta principal",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está a bordo en la cubierta principal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está a bordo en la cubierta principal."
+          ]
+        },
+        {
+          "id": "primary224-108-adolin-2",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta alta",
+          "placeId": "place-ob108-honor-path-upper-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-upper-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta alta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está en la cubierta alta cuando se avista a los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta alta cuando se avista a los Fusionados."
           ]
         }
       ]
@@ -201680,6 +203154,150 @@
           "notes": [
             "Está en las catacumbas reales durante el sepelio de Gavilar."
           ]
+        },
+        {
+          "id": "primary224-107-navani-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
+        },
+        {
+          "id": "primary224-109-navani-1",
+          "scene": "ob-chapter-109",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Almacén superior con vetas de cristal",
+          "placeId": "place-ob109-urithiru-upper-store",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob109",
+          "sourceIds": [
+            "primary224-ob109"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-109"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Está en el almacén superior cuando llega el mensaje sobre la flota.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el almacén superior cuando llega el mensaje sobre la flota."
+          ]
+        },
+        {
+          "id": "primary224-109-navani-2",
+          "scene": "ob-chapter-109",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala superior desde la que Dalinar entra en la visión",
+          "placeId": "place-ob109-urithiru-upper-vision-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob109",
+          "sourceIds": [
+            "primary224-ob109"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-109"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Está en la sala superior de Urithiru antes o después de la visión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala superior de Urithiru antes o después de la visión."
+          ]
         }
       ]
     },
@@ -215702,6 +217320,149 @@
           "needsConfirmation": [],
           "notes": [
             "Conversa en el mirador donde Taravangian muestra un escudo semiesquirlado."
+          ]
+        },
+        {
+          "id": "primary224-107-taravangian-1",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Se reúne en los aposentos de Dalinar antes de ir a la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en los aposentos de Dalinar antes de ir a la Galería de Mapas."
+          ]
+        },
+        {
+          "id": "primary224-107-taravangian-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
+        },
+        {
+          "id": "primary224-107-taravangian-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
           ]
         }
       ]
@@ -242067,6 +243828,54 @@
           "needsConfirmation": [],
           "notes": [
             "Participa en la reunión sobre la situación de Urithiru."
+          ]
+        },
+        {
+          "id": "primary224-107-aladar-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
           ]
         }
       ]
@@ -269317,6 +271126,54 @@
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
           ]
+        },
+        {
+          "id": "primary224-107-adrotagia-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
+          ]
         }
       ]
     },
@@ -269904,6 +271761,54 @@
           "notes": [
             "Interviene mientras Taravangian consulta y reorganiza la copia del Diagrama."
           ]
+        },
+        {
+          "id": "primary224-107-mrall-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
+          ]
         }
       ]
     },
@@ -270010,6 +271915,54 @@
           "needsConfirmation": [],
           "notes": [
             "Interviene mientras Taravangian consulta y reorganiza la copia del Diagrama."
+          ]
+        },
+        {
+          "id": "primary224-107-maben-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
           ]
         }
       ]
@@ -276875,6 +278828,54 @@
           "notes": [
             "Contempla la destrucción y se arrodilla, mareado."
           ]
+        },
+        {
+          "id": "primary224-107-kadash-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Jardín de los fervorosos",
+          "placeId": "place-ob107-urithiru-ardent-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Habla en el jardín de los fervorosos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en el jardín de los fervorosos."
+          ]
         }
       ]
     },
@@ -280340,6 +282341,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        },
+        {
+          "id": "primary224-107-fen-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
           ]
         }
       ]
@@ -284331,6 +286380,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        },
+        {
+          "id": "primary224-107-malata-3",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Taravangian",
+          "placeId": "place-ob107-urithiru-taravangian-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aposentos de Taravangian durante su regreso o la reunión del Diagrama."
           ]
         }
       ]
@@ -318296,6 +320393,54 @@
           "notes": [
             "Se marchan tras las instrucciones."
           ]
+        },
+        {
+          "id": "primary224-107-mintez-pr81-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
         }
       ]
     },
@@ -327408,6 +329553,54 @@
           "notes": [
             "Está en el patio mientras se recompone la estatua."
           ]
+        },
+        {
+          "id": "primary224-107-kdralk-ob59-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
         }
       ]
     },
@@ -329312,6 +331505,96 @@
           "needsConfirmation": [],
           "notes": [
             "Embarca y sale de Celebrant en el navío de los honorspren."
+          ]
+        },
+        {
+          "id": "primary224-108-highmarshal-celeste-ob61-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta principal",
+          "placeId": "place-ob108-honor-path-main-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-main-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta principal",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está a bordo en la cubierta principal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está a bordo en la cubierta principal."
+          ]
+        },
+        {
+          "id": "primary224-108-highmarshal-celeste-ob61-2",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta alta",
+          "placeId": "place-ob108-honor-path-upper-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-upper-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta alta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está en la cubierta alta cuando se avista a los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta alta cuando se avista a los Fusionados."
           ]
         }
       ]
@@ -339879,6 +342162,409 @@
           "needsConfirmation": [],
           "notes": [
             "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob107-veden-prince-speaker",
+      "name": "Alto príncipe veden que interviene en la Galería",
+      "initial": "A",
+      "role": "Uno de dos hermanos que Taravangian nombró altos príncipes.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary224-107-ob107-veden-prince-speaker-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob107-veden-prince-brother",
+      "name": "Hermano del alto príncipe veden de la Galería",
+      "initial": "H",
+      "role": "El otro hermano nombrado alto príncipe por Taravangian.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary224-107-ob107-veden-prince-brother-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob107-fen-admiral",
+      "name": "Almirante de Fen en la Galería",
+      "initial": "A",
+      "role": "Explica las pérdidas de la flota thayleña.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary224-107-ob107-fen-admiral-2",
+          "scene": "ob-chapter-107",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Galería de Mapas del penúltimo piso",
+          "placeId": "place-ob107-urithiru-map-gallery",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob107",
+          "sourceIds": [
+            "primary224-ob107"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-107"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/107.Primerpaso.xhtml. Asiste a la reunión estratégica en la Galería de Mapas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Asiste a la reunión estratégica en la Galería de Mapas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "notum-ob108",
+      "name": "Notum",
+      "initial": "N",
+      "role": "Honorspren que capitanea el Sendero de Honor.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary224-108-notum-ob108-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta principal",
+          "placeId": "place-ob108-honor-path-main-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-main-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta principal",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está a bordo en la cubierta principal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está a bordo en la cubierta principal."
+          ]
+        },
+        {
+          "id": "primary224-108-notum-ob108-2",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta alta",
+          "placeId": "place-ob108-honor-path-upper-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-upper-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta alta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está en la cubierta alta cuando se avista a los Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cubierta alta cuando se avista a los Fusionados."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "borea-ob108",
+      "name": "Borea",
+      "initial": "B",
+      "role": "Primera oficial del Sendero de Honor.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary224-108-borea-ob108-1",
+          "scene": "ob-chapter-108",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Sendero de Honor · Cubierta principal",
+          "placeId": "place-ob108-honor-path-main-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob108",
+          "sourceIds": [
+            "primary224-ob108"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob108-honor-path-main-deck",
+          "coordinateAnchorName": "Sendero de Honor · Cubierta principal",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-108"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/108.Senderohonor.xhtml. Está a bordo en la cubierta principal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está a bordo en la cubierta principal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chemoarish-ob108",
+      "name": "Chemoarish",
+      "initial": "C",
+      "role": "Hessi llama Madrepolvo a Chemoarish y discute las leyendas sobre su identidad.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "creer-ob109",
+      "name": "Creer",
+      "initial": "C",
+      "role": "Entrega a Navani el mensaje del brillante Khal.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary224-109-creer-ob109-1",
+          "scene": "ob-chapter-109",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Almacén superior con vetas de cristal",
+          "placeId": "place-ob109-urithiru-upper-store",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary224-ob109",
+          "sourceIds": [
+            "primary224-ob109"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-109"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/109.Neshua.xhtml. Está en el almacén superior cuando llega el mensaje sobre la flota.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el almacén superior cuando llega el mensaje sobre la flota."
           ]
         }
       ]
