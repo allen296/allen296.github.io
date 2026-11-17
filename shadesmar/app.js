@@ -152,7 +152,7 @@ function updateMapLayers(evidence,scene){
  $('mapName').textContent=enabled?(alpha===1?'SHADESMAR':'ROSHAR + SHADESMAR'):'ROSHAR';
  const hasCognitiveExperience=cast.some(p=>p.id===identityId(selected)&&cognitiveExperience(p));
  $('viewCognitiveExperience').hidden=!hasCognitiveExperience;
- $('realmLegend').textContent=enabled?'Shadesmar: visitantes de este capítulo y personajes cuya última referencia sigue en el plano cognitivo. El token translúcido señala su entrada desde Roshar.':'Roshar. Activa Shadesmar para consultar los visitantes y las últimas referencias del plano cognitivo.';
+ $('realmLegend').textContent=enabled?'Shadesmar: visitantes de este capítulo y personajes cuya última referencia sigue en el plano cognitivo. El token translúcido señala su entrada desde Roshar.':'Roshar. Los marcadores translúcidos indican referencias en Shadesmar. Activa la capa para ver el plano cognitivo.';
  return {enabled,alpha};
 }
 const sourceFor=e=>data.sources[e.source]||'';
@@ -279,7 +279,7 @@ function renderAtlas(){
  for(const plane of ['physical','cognitive']){
   const group=document.createElementNS(NS,'g');group.setAttribute('data-realm',plane);
   if(plane==='physical'){group.setAttribute('opacity',1);group.style.display='';}
-  if(plane==='cognitive')group.style.display=mapLayers.enabled?'':'none';
+  if(plane==='cognitive'){group.setAttribute('opacity',mapLayers.enabled?1:0.45);group.setAttribute('data-projected-on-roshar',String(!mapLayers.enabled));}
   markerGroups[plane]=group;
  }
  const ghostGroup=document.createElementNS(NS,'g');ghostGroup.setAttribute('data-realm','physical-entry');ghostGroup.setAttribute('opacity',data.experiencePresentation?.physicalGhostOpacity??0.28);markerGroups.entryGhost=ghostGroup;$('markers').append(markerGroups.physical,ghostGroup,markerGroups.cognitive);
@@ -300,7 +300,7 @@ function renderAtlas(){
  }
  const positions=new Map();
  const plotted=available.filter(p=>isVisible(p)&&chapterLocationAvailable(p)&&inDisplayedRealm(p)).filter(p=>{const e=last(p);return Boolean(mapEvidence(p));});
- const representatives=plotted.map(cognitiveRepresentative).filter(Boolean);
+ const representatives=mapLayers.enabled?plotted.map(cognitiveRepresentative).filter(Boolean):[];
  mapClusters=clusterCharacters([...plotted,...representatives]);
  const activeKeys=new Set(mapClusters.filter(c=>c.members.length>1).map(c=>c.key));
  for(const key of expandedClusters)if(!activeKeys.has(key))expandedClusters.delete(key);
@@ -310,9 +310,9 @@ function renderAtlas(){
   if(n>1){
    const g=document.createElementNS(NS,'g');g.classList.add('marker');g.setAttribute('data-cluster-key',key);g.setAttribute('data-cluster-count',n);g.setAttribute('data-marker-kind',members[0].representativeExperience?'cognitive-representative':'reference');g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-expanded',String(expanded));
    const deadCount=members.filter(isDeceased).length;g.setAttribute('data-deceased-count',deadCount);
-   const action=expanded?'Contraer':'Desplegar';g.setAttribute('aria-label',action+' grupo de '+n+' personajes: '+members.map(p=>characterName(p)).join(', '));
+   const action=expanded?'Contraer':'Desplegar';const projection=cluster.realm==='cognitive'&&!mapLayers.enabled?' · Referencias en Shadesmar':'';g.setAttribute('aria-label',action+' grupo de '+n+' personajes'+projection+': '+members.map(p=>characterName(p)).join(', '));
    const hasSelected=detailOpen&&members.some(p=>markerOwner(p)===identityId(selected));
-   g.innerHTML='<title>'+action+': '+members.map(p=>escapeHtml(characterName(p))).join(', ')+'</title><circle r="'+(expanded?16:23)+'" fill="#162d3a" stroke="'+(deadCount===n?'#ef6464':hasSelected?'#fff1c6':'#c4a572')+'" stroke-width="3"/><text text-anchor="middle" dy="5" fill="#fff1c6" font-size="16" font-weight="700">'+(expanded?'−':n)+'</text>';
+   g.innerHTML='<title>'+action+projection+': '+members.map(p=>escapeHtml(characterName(p))).join(', ')+'</title><circle r="'+(expanded?16:23)+'" fill="#162d3a" stroke="'+(deadCount===n?'#ef6464':hasSelected?'#fff1c6':'#c4a572')+'" stroke-width="3"/><text text-anchor="middle" dy="5" fill="#fff1c6" font-size="16" font-weight="700">'+(expanded?'−':n)+'</text>';
    const toggle=()=>{if(expandedClusters.has(key))expandedClusters.delete(key);else{expandedClusters.clear();expandedClusters.add(key);}render();};
    if(deadCount)g.innerHTML+='<circle cx="19" cy="-19" r="10" fill="#7f252c" stroke="#ef6464"/><text x="19" y="-15" text-anchor="middle" fill="#fff" font-size="11">'+deadCount+'</text>';
    g.onclick=toggle;g.onkeydown=ev=>{if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();toggle();}};
@@ -345,7 +345,9 @@ function renderAtlas(){
   const g=document.createElementNS(NS,'g');mapPins.push({...pin,g});
   g.onmouseenter=()=>raiseMarker(g);g.onfocus=()=>raiseMarker(g);
   g.setAttribute('tabindex','0');g.setAttribute('role','button');g.setAttribute('aria-label',characterName(p)+' — '+e.place);g.classList.add('marker');if(isMemoryMarker(e))g.classList.add('memory-marker');g.setAttribute('data-realm',realm(e));g.setAttribute('data-character-id',markerOwner(p));g.setAttribute('aria-pressed',String(detailOpen&&markerOwner(p)===identityId(selected)));g.setAttribute('data-marker-kind',p.representativeExperience?'cognitive-representative':'reference');if(!p.representativeExperience&&cognitiveExperience(p)){g.setAttribute('data-entry-ghost','true');if(!$('showShadesmar').checked)g.setAttribute('opacity',data.experiencePresentation?.physicalGhostOpacity??0.28);}g.setAttribute('data-life-state',lifeState(p)?.state||'not-reported-dead');g.setAttribute('data-location-state',fallback?'last-mapped':'latest-reference');if(fallback)g.setAttribute('aria-label',characterName(p)+' · Referencia cartografiada: '+e.place+' · Referencia más reciente sin coordenadas: '+last(p).place);
-  const title=escapeHtml((isMemoryMarker(e)?'RECUERDO. ':'')+(p.representativeExperience?'Representante en Shadesmar sobre el punto de entrada en Roshar; no es una coordenada cognitiva confirmada. ':'')+(fallback?'Referencia cartografiada ('+scenes[index.get(e.scene)].label+'). Referencia actual sin coordenadas: '+last(p).place+'. ':'')+characterName(p)+' — '+e.place+' · '+(isRegional(e)?'Región aproximada: '+e.coordinateAnchorName:e.coordinateStatus==='calibrated'?'Punto calibrado':'Ubicación provisional'));
+  const projected=realm(e)==='cognitive'&&!mapLayers.enabled;
+  if(projected)g.setAttribute('aria-label',characterName(p)+' · Referencia en Shadesmar: '+e.place+(fallback?' · Último punto cartografiado':''));
+  const title=escapeHtml((projected?'Referencia en Shadesmar proyectada sobre Roshar. ':'')+(isMemoryMarker(e)?'RECUERDO. ':'')+(p.representativeExperience?'Representante en Shadesmar sobre el punto de entrada en Roshar; no es una coordenada cognitiva confirmada. ':'')+(fallback?'Referencia cartografiada ('+scenes[index.get(e.scene)].label+'). Referencia actual sin coordenadas: '+last(p).place+'. ':'')+characterName(p)+' — '+e.place+' · '+(isRegional(e)?'Región aproximada: '+e.coordinateAnchorName:e.coordinateStatus==='calibrated'?'Punto calibrado':'Ubicación provisional'));
   const badge=realm(e)==='cognitive'?'<path d="M0 -22L22 0L0 22L-22 0Z"':'<circle r="19"';
   g.innerHTML='<title>'+title+'</title>'+(isMemoryMarker(e)?'<path d="M-27 -20L-27 -27L-20 -27M20 -27L27 -27L27 -20M27 20L27 27L20 27M-20 27L-27 27L-27 20" fill="none" stroke="#c7a4ff" stroke-width="2"/>':'')+(isRegional(e)?'<circle r="29" fill="none" stroke="'+markerColor(p)+'" stroke-dasharray="2 5" opacity=".65"/>':'')+(detailOpen&&markerOwner(p)===identityId(selected)?'<circle class="selection-ring" r="25" fill="none" stroke="#fff1c6" stroke-width="2"'+(fallback||e.scene!==scene.id?' stroke-dasharray="4 3"':'')+'/>':'')+badge+' fill="#10212a" stroke="'+markerColor(p)+'" stroke-width="2.5"'+(fallback||e.scene!==scene.id?' stroke-dasharray="4 3"':'')+'/><text text-anchor="middle" dy="4" fill="'+markerColor(p)+'" font-family="system-ui" font-weight="700" font-size="12">'+escapeHtml(markerCode(p))+'</text><text class="marker-name'+(detailOpen&&markerOwner(p)===identityId(selected)?' selected-name':'')+'" text-anchor="middle" y="-31" fill="#fff1d6" font-size="13" style="paint-order:stroke;stroke:#10212a;stroke-width:5;stroke-linejoin:round">'+escapeHtml(characterName(p))+'</text>';
   g.onclick=ev=>{ev?.stopPropagation?.();focusCharacter(markerOwner(p));};g.onkeydown=ev=>{if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();ev.stopPropagation?.();focusCharacter(markerOwner(p));}};
