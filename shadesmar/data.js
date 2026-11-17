@@ -4073,6 +4073,42 @@ window.ATLAS_DATA = {
       "shallan",
       "sja-anat",
       "syl"
+    ],
+    "ob-chapter-98": [
+      "black-sword",
+      "crescent-scar-stranger",
+      "ki-ob90",
+      "moelach",
+      "ob98-tashikki-scorekeeper",
+      "sja-anat",
+      "szeth",
+      "ty-ob98",
+      "warren-ob98",
+      "zedzil-ob98"
+    ],
+    "ob-chapter-99": [
+      "bavamar-ob99",
+      "highmarshal-celeste-ob61",
+      "ico-ob99",
+      "kaladin",
+      "nergaoul",
+      "shallan",
+      "syl",
+      "tarah"
+    ],
+    "ob-chapter-100": [
+      "dalinar",
+      "geved-ob100",
+      "nalanar-ob100",
+      "navani",
+      "nergaoul",
+      "ob100-valath-vicar",
+      "ob100-veden-noblewife",
+      "ob100-veden-noblewife-husband",
+      "ob100-vedenar-rampart-soldier",
+      "rial",
+      "stormfather",
+      "taravangian"
     ]
   },
   "knowledgeArchive": {
@@ -4597,6 +4633,23 @@ window.ATLAS_DATA = {
           "bookId": "ob",
           "sceneId": "ob-chapter-87"
         }
+      },
+      {
+        "id": "spren-type-reachers-ob99",
+        "section": "spren-types"
+      },
+      {
+        "id": "spren-person-ico-ob99",
+        "section": "spren-individuals",
+        "characterId": "ico-ob99",
+        "characterRevealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        }
+      },
+      {
+        "id": "spren-type-mandras-ob99",
+        "section": "spren-types"
       }
     ],
     "facts": [
@@ -14646,6 +14699,210 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Juramentada, EPUB español, OEBPS/Text/97.Riino.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Szeth ve dos spren en forma de rendijas con estrellas después de la prueba. Warren también parece verlos.",
+        "sourceIds": [
+          "primary221-ob98"
+        ],
+        "id": "primary221-archive-highspren-revealed",
+        "entryId": "spren-type-highspren",
+        "value": "Szeth ve dos spren en forma de rendijas con estrellas después de la prueba. Warren también parece verlos.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-98"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Szeth lo reconoce como Nin-hijo-Dios y recuerda también los nombres Nale, Nakku y Nalan.",
+        "sourceIds": [
+          "primary221-ob98"
+        ],
+        "id": "primary221-archive-nin-returns",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Szeth lo reconoce como Nin-hijo-Dios y recuerda también los nombres Nale, Nakku y Nalan.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-98"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Hessi distingue la tradición que trata a Sja-anat como individuo de las que describen a Moelach y Ashertmarn como fuerzas.",
+        "sourceIds": [
+          "primary221-ob98"
+        ],
+        "id": "primary221-archive-hessi-sja-anat-reception",
+        "entryId": "spren-person-sja-anat",
+        "value": "Hessi distingue la tradición que trata a Sja-anat como individuo de las que describen a Moelach y Ashertmarn como fuerzas.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-98"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Según Hessi, ciertas tradiciones perciben a Moelach como una fuerza.",
+        "sourceIds": [
+          "primary221-ob98"
+        ],
+        "id": "primary221-archive-hessi-moelach-reception",
+        "entryId": "spren-person-moelach",
+        "value": "Según Hessi, ciertas tradiciones perciben a Moelach como una fuerza.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-98"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Lumispren / alcanzadores",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-name-spren-type-reachers-ob99",
+        "entryId": "spren-type-reachers-ob99",
+        "value": "Lumispren / alcanzadores",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Syl llama lumispren a los alcanzadores. La tripulación se da a sí misma el nombre de alcanzadores y tiene piel de aspecto metálico.",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-reachers-type",
+        "entryId": "spren-type-reachers-ob99",
+        "value": "Syl llama lumispren a los alcanzadores. La tripulación se da a sí misma el nombre de alcanzadores y tiene piel de aspecto metálico.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Ico",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-name-spren-person-ico-ob99",
+        "entryId": "spren-person-ico-ob99",
+        "value": "Ico",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Capitanea el barco y muestra a Kaladin una forma de obtener agua en cubierta.",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-ico-entry",
+        "entryId": "spren-person-ico-ob99",
+        "value": "Capitanea el barco y muestra a Kaladin una forma de obtener agua en cubierta.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Mandras",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-name-spren-type-mandras-ob99",
+        "entryId": "spren-type-mandras-ob99",
+        "value": "Mandras",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "name",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Tiran del barco en Shadesmar. Shallan observa su parecido con los suertespren y propone una relación sin darla por demostrada.",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-mandras-account",
+        "entryId": "spren-type-mandras-ob99",
+        "value": "Tiran del barco en Shadesmar. Shallan observa su parecido con los suertespren y propone una relación sin darla por demostrada.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Hessi recoge que infundía ferocidad a combatientes humanos y Portadores del Vacío.",
+        "sourceIds": [
+          "primary221-ob99"
+        ],
+        "id": "primary221-archive-nergaoul-two-sides",
+        "entryId": "spren-person-nergaoul",
+        "value": "Hessi recoge que infundía ferocidad a combatientes humanos y Portadores del Vacío.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-99"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Hessi vincula los relatos de la Emoción de batalla con los registros de Nergaoul, incluida la niebla roja.",
+        "sourceIds": [
+          "primary221-ob100"
+        ],
+        "id": "primary221-archive-nergaoul-thrill-hessi",
+        "entryId": "spren-person-nergaoul",
+        "value": "Hessi vincula los relatos de la Emoción de batalla con los registros de Nergaoul, incluida la niebla roja.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-100"
+        },
+        "field": "description",
+        "readingLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
         "supersedes": []
       }
     ],
@@ -30353,6 +30610,60 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Kaladin recuerda que Nalma buscaba a su marido."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Kaladin recuerda a Tarah como su primer romance.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-kaladin-tarah-past",
+      "from": "kaladin",
+      "to": "tarah",
+      "kind": "partner",
+      "label": "Antiguo romance",
+      "category": "social",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Vínculo pasado, recordado por Kaladin."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Kaladin recuerda a Tarah como su primer romance."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. La anfitriona es presentada como esposa de un nuevo alto príncipe veden.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-veden-host-marriage",
+      "from": "ob100-veden-noblewife",
+      "to": "ob100-veden-noblewife-husband",
+      "kind": "spouse",
+      "label": "Cónyuges",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "La anfitriona es presentada como esposa de un nuevo alto príncipe veden."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "La anfitriona es presentada como esposa de un nuevo alto príncipe veden."
       }
     }
   ],
@@ -69671,6 +69982,485 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Zedzil persigue a Szeth y Ty organiza a otros escuderos para atacarlo con bolsas de polvo.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-purelake-martial-trial",
+      "participants": [
+        "szeth",
+        "zedzil-ob98",
+        "ty-ob98"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Zedzil persigue a Szeth y Ty organiza a otros escuderos para atacarlo con bolsas de polvo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Zedzil persigue a Szeth y Ty organiza a otros escuderos para atacarlo con bolsas de polvo.",
+        "pairs": [
+          [
+            "szeth",
+            "zedzil-ob98"
+          ],
+          [
+            "szeth",
+            "ty-ob98"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Szeth se presenta con la ropa lavada por el lago. Discuten la redacción de las reglas y su destreza.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-purelake-martial-scoring",
+      "participants": [
+        "szeth",
+        "warren-ob98",
+        "ty-ob98",
+        "ki-ob90"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Szeth se presenta con la ropa lavada por el lago. Discuten la redacción de las reglas y su destreza.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth se presenta con la ropa lavada por el lago. Discuten la redacción de las reglas y su destreza.",
+        "pairs": [
+          [
+            "szeth",
+            "warren-ob98"
+          ],
+          [
+            "szeth",
+            "ty-ob98"
+          ],
+          [
+            "ki-ob90",
+            "warren-ob98"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Nin interrumpe el juramento y ordena reunir gemas y equipo para esa noche.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-nin-interrupts-ideal",
+      "participants": [
+        "szeth",
+        "crescent-scar-stranger",
+        "ki-ob90"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Nin interrumpe el juramento y ordena reunir gemas y equipo para esa noche.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Nin interrumpe el juramento y ordena reunir gemas y equipo para esa noche.",
+        "pairs": [
+          [
+            "szeth",
+            "crescent-scar-stranger"
+          ],
+          [
+            "ki-ob90",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Ico explica el intercambio de luz tormentosa y emplea una cuenta de hielo para enfriar un aparato que recoge agua.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-ico-water-and-gems",
+      "participants": [
+        "kaladin",
+        "ico-ob99"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Ico explica el intercambio de luz tormentosa y emplea una cuenta de hielo para enfriar un aparato que recoge agua.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ico explica el intercambio de luz tormentosa y emplea una cuenta de hielo para enfriar un aparato que recoge agua.",
+        "pairs": [
+          [
+            "kaladin",
+            "ico-ob99"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Syl explica a Kaladin que pidió a Shallan un tejido de luz para disimular su aspecto de honorspren.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-syl-lightweaving-disguise",
+      "participants": [
+        "kaladin",
+        "syl",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Syl explica a Kaladin que pidió a Shallan un tejido de luz para disimular su aspecto de honorspren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl explica a Kaladin que pidió a Shallan un tejido de luz para disimular su aspecto de honorspren.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "shallan",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Kaladin lleva agua a Shallan. Hablan de los mandras, del mapa de su ruta, de la visión de Kaladin y de lo ocurrido en Kholinar.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-shallan-deck-chart",
+      "participants": [
+        "kaladin",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Kaladin lleva agua a Shallan. Hablan de los mandras, del mapa de su ruta, de la visión de Kaladin y de lo ocurrido en Kholinar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin lleva agua a Shallan. Hablan de los mandras, del mapa de su ruta, de la visión de Kaladin y de lo ocurrido en Kholinar.",
+        "pairs": [
+          [
+            "kaladin",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. La anfitriona lleva a Navani a ver cuadros.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-vedenar-paintings",
+      "participants": [
+        "navani",
+        "ob100-veden-noblewife"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "La anfitriona lleva a Navani a ver cuadros.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "La anfitriona lleva a Navani a ver cuadros.",
+        "pairs": [
+          [
+            "navani",
+            "ob100-veden-noblewife"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Taravangian muestra un escudo semiesquirlado y conversa con Dalinar sobre fabriales, decisiones y el Hacedor de Soles.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-vedenar-shield",
+      "participants": [
+        "dalinar",
+        "taravangian"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Taravangian muestra un escudo semiesquirlado y conversa con Dalinar sobre fabriales, decisiones y el Hacedor de Soles.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Taravangian muestra un escudo semiesquirlado y conversa con Dalinar sobre fabriales, decisiones y el Hacedor de Soles.",
+        "pairs": [
+          [
+            "dalinar",
+            "taravangian"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Geved saluda a Dalinar y describe el furor de los combatientes en la guerra civil.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-vedenar-wounded",
+      "participants": [
+        "dalinar",
+        "geved-ob100"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Geved saluda a Dalinar y describe el furor de los combatientes en la guerra civil.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Geved saluda a Dalinar y describe el furor de los combatientes en la guerra civil.",
+        "pairs": [
+          [
+            "dalinar",
+            "geved-ob100"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. El soldado interpela a Dalinar en la muralla. Más tarde Rial le ofrece una petaca.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-vedenar-rampart-and-street",
+      "participants": [
+        "dalinar",
+        "ob100-vedenar-rampart-soldier",
+        "rial"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El soldado interpela a Dalinar en la muralla. Más tarde Rial le ofrece una petaca.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El soldado interpela a Dalinar en la muralla. Más tarde Rial le ofrece una petaca.",
+        "pairs": [
+          [
+            "dalinar",
+            "ob100-vedenar-rampart-soldier"
+          ],
+          [
+            "dalinar",
+            "rial"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Navani habla con Dalinar a la llegada. El vicario lo declara hereje y lo excomulga.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-vedenar-excommunication",
+      "participants": [
+        "dalinar",
+        "navani",
+        "ob100-valath-vicar"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "Navani habla con Dalinar a la llegada. El vicario lo declara hereje y lo excomulga.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani habla con Dalinar a la llegada. El vicario lo declara hereje y lo excomulga.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "ob100-valath-vicar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. El Padre Tormenta habla con Dalinar y reacciona a su uso de la Puerta Jurada.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-vedenar-oathgate-stormfather",
+      "participants": [
+        "dalinar",
+        "stormfather"
+      ],
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la escena; sin sincronizar tramas."
+      },
+      "type": "conversation",
+      "summary": "El Padre Tormenta habla con Dalinar y reacciona a su uso de la Puerta Jurada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Padre Tormenta habla con Dalinar y reacciona a su uso de la Puerta Jurada.",
+        "pairs": [
+          [
+            "dalinar",
+            "stormfather"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -105891,6 +106681,262 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Cuenta que su madre murió en Rathalas. La versión que él conoce atribuye la muerte a rebeldes y el incendio a Sadeas.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Maestro azishiano que dirige la prueba marcial de los escuderos.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-warren-ob98-intro",
+      "characterId": "warren-ob98",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "kind": "background",
+      "text": "Maestro azishiano que dirige la prueba marcial de los escuderos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Escudero que persigue a Szeth durante la prueba.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-zedzil-ob98-intro",
+      "characterId": "zedzil-ob98",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "kind": "background",
+      "text": "Escudero que persigue a Szeth durante la prueba.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Escudero que anima a los demás a centrarse en Szeth.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-ty-ob98-intro",
+      "characterId": "ty-ob98",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "kind": "background",
+      "text": "Escudero que anima a los demás a centrarse en Szeth.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Cuenta los puntos de la prueba en la orilla.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-ob98-tashikki-scorekeeper-intro",
+      "characterId": "ob98-tashikki-scorekeeper",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "kind": "background",
+      "text": "Cuenta los puntos de la prueba en la orilla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Anuncia que piensa jurar seguir la ley. Nin lo interrumpe antes de que pronuncie el Tercer Ideal.",
+      "sourceIds": [
+        "primary221-ob98"
+      ],
+      "id": "primary221-third-ideal-interrupted",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-98"
+      },
+      "kind": "background",
+      "text": "Anuncia que piensa jurar seguir la ley. Nin lo interrumpe antes de que pronuncie el Tercer Ideal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Capitán alcanzador del barco que lleva a los viajeros hacia Celebrant.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-ico-ob99-intro",
+      "characterId": "ico-ob99",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "kind": "background",
+      "text": "Capitán alcanzador del barco que lleva a los viajeros hacia Celebrant.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Persona citada por Shallan por sus cálculos sobre el peso de los grancaparazones reshi.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-bavamar-ob99-intro",
+      "characterId": "bavamar-ob99",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "kind": "background",
+      "text": "Persona citada por Shallan por sus cálculos sobre el peso de los grancaparazones reshi.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Kaladin recuerda a Tarah como su primer romance y piensa en cómo terminó.",
+      "sourceIds": [
+        "primary221-ob99"
+      ],
+      "id": "primary221-tarah-first-romance-recollection",
+      "characterId": "tarah",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-99"
+      },
+      "kind": "background",
+      "text": "Kaladin recuerda a Tarah como su primer romance y piensa en cómo terminó.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Acompaña a Navani a ver cuadros durante la visita.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-ob100-veden-noblewife-intro",
+      "characterId": "ob100-veden-noblewife",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Acompaña a Navani a ver cuadros durante la visita.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Su esposa guía a Navani. El pasaje no da su nombre.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-ob100-veden-noblewife-husband-intro",
+      "characterId": "ob100-veden-noblewife-husband",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Su esposa guía a Navani. El pasaje no da su nombre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Veterano herido que habla con Dalinar sobre la guerra civil veden.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-geved-ob100-intro",
+      "characterId": "geved-ob100",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Veterano herido que habla con Dalinar sobre la guerra civil veden.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Brillante señor de la infantería en la que Geved dice que combatió en Rocadiza.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-nalanar-ob100-intro",
+      "characterId": "nalanar-ob100",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Brillante señor de la infantería en la que Geved dice que combatió en Rocadiza.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Habla en nombre del consejo de vicarios del Santo Enclave de Valath.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-ob100-valath-vicar-intro",
+      "characterId": "ob100-valath-vicar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Habla en nombre del consejo de vicarios del Santo Enclave de Valath.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Interpela a Dalinar junto a la muralla.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-ob100-vedenar-rampart-soldier-intro",
+      "characterId": "ob100-vedenar-rampart-soldier",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Interpela a Dalinar junto a la muralla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Un vicario del Santo Enclave de Valath lo excomulga en nombre del consejo.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-dalinar-vedenar-excommunication",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Un vicario del Santo Enclave de Valath lo excomulga en nombre del consejo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Se retrae de Dalinar después del regreso a Urithiru. El vínculo permanece.",
+      "sourceIds": [
+        "primary221-ob100"
+      ],
+      "id": "primary221-stormfather-retracts-after-crossing",
+      "characterId": "stormfather",
+      "revealedAt": {
+        "bookId": "ob",
+        "sceneId": "ob-chapter-100"
+      },
+      "kind": "background",
+      "text": "Se retrae de Dalinar después del regreso a Urithiru. El vínculo permanece.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -108588,6 +109634,10 @@ window.ATLAS_DATA = {
         {
           "revision": 220,
           "notes": "Se registra al marido de Nalma y se revisan las referencias a los vínculos de Syl, la familia Kholin, el consorte de Fen, el hermano del príncipe de Tashikk y el relato de Adolin sobre Evi."
+        },
+        {
+          "revision": 221,
+          "notes": "Revisados el patronímico de Szeth, el compromiso de Shallan y Adolin, el padre de Shallan, Tarah, Evi, la ascendencia de Dalinar y la mención del matrimonio veden. El grado de ascendencia sigue abierto."
         }
       ]
     }
@@ -111744,7 +112794,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 220,
+  "revision": 221,
   "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
   "scenes": [
     {
@@ -114675,6 +115725,30 @@ window.ATLAS_DATA = {
       "part": "ob-4a",
       "source": "primary220-ob97",
       "mixedFlashback": true
+    },
+    {
+      "id": "ob-chapter-98",
+      "bookId": "ob",
+      "chapter": 98,
+      "label": "Capítulo 98 · Lagunas",
+      "part": "ob-4a",
+      "source": "primary221-ob98"
+    },
+    {
+      "id": "ob-chapter-99",
+      "bookId": "ob",
+      "chapter": 99,
+      "label": "Capítulo 99 · Alcanzadores",
+      "part": "ob-4a",
+      "source": "primary221-ob99"
+    },
+    {
+      "id": "ob-chapter-100",
+      "bookId": "ob",
+      "chapter": 100,
+      "label": "Capítulo 100 · Una vieja amiga",
+      "part": "ob-4a",
+      "source": "primary221-ob100"
     }
   ],
   "experiencePresentation": {
@@ -133420,6 +134494,186 @@ window.ATLAS_DATA = {
           "notes": [
             "Coincide con el grupo en la sala principal del faro."
           ]
+        },
+        {
+          "id": "primary221-99-kaladin-1",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Camarote del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-cabin",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-cabin",
+          "coordinateAnchorName": "Shadesmar · Camarote del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Despierta en el camarote compartido.",
+          "needsConfirmation": [],
+          "notes": [
+            "Despierta en el camarote compartido."
+          ]
+        },
+        {
+          "id": "primary221-99-kaladin-2",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Sube a cubierta y encuentra al capitán.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube a cubierta y encuentra al capitán."
+          ]
+        },
+        {
+          "id": "primary221-99-kaladin-3",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Bodega del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-hold",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-hold",
+          "coordinateAnchorName": "Shadesmar · Bodega del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Recoge de la bodega la caja con el aparato para obtener agua.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recoge de la bodega la caja con el aparato para obtener agua."
+          ]
+        },
+        {
+          "id": "primary221-99-kaladin-4",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Está en cubierta durante la travesía hacia Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la travesía hacia Celebrant."
+          ]
         }
       ]
     },
@@ -151379,6 +152633,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Coincide con el grupo en la sala principal del faro."
           ]
+        },
+        {
+          "id": "primary221-99-shallan-4",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Está en cubierta durante la travesía hacia Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la travesía hacia Celebrant."
+          ]
         }
       ]
     },
@@ -155092,6 +156391,186 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el murete donde Ki acepta a Szeth como escudero."
+          ]
+        },
+        {
+          "id": "primary221-98-szeth-1",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Parte de la fortaleza con los escuderos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte de la fortaleza con los escuderos."
+          ]
+        },
+        {
+          "id": "primary221-98-szeth-2",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "placeId": "place-ob98-purelake-post-course",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-post-course",
+          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo."
+          ]
+        },
+        {
+          "id": "primary221-98-szeth-3",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Orilla donde se cuentan las marcas",
+          "placeId": "place-ob98-purelake-score-shore",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-score-shore",
+          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el recuento de marcas en la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el recuento de marcas en la orilla."
+          ]
+        },
+        {
+          "id": "primary221-98-szeth-4",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está junto al patio cuando Nin interrumpe a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al patio cuando Nin interrumpe a Szeth."
           ]
         }
       ]
@@ -160661,6 +162140,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Vigila el mar de cuentas desde la orilla."
+          ]
+        },
+        {
+          "id": "primary221-99-syl-4",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Está en cubierta durante la travesía hacia Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la travesía hacia Celebrant."
           ]
         }
       ]
@@ -172202,6 +173726,387 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-1",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Jardín de la visita",
+          "placeId": "place-ob100-vedenar-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Llega a la visita del jardín.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la visita del jardín."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-2",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Mirador del jardín",
+          "placeId": "place-ob100-vedenar-garden-lookout",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Conversa en el mirador donde Taravangian muestra un escudo semiesquirlado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Conversa en el mirador donde Taravangian muestra un escudo semiesquirlado."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-3",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Tienda de heridos junto a los portones",
+          "placeId": "place-ob100-vedenar-wounded-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Habla de la guerra civil veden en la tienda de heridos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de la guerra civil veden en la tienda de heridos."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-4",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Adarve de la muralla",
+          "placeId": "place-ob100-vedenar-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Está en el tramo de muralla donde un soldado interpela a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de muralla donde un soldado interpela a Dalinar."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-5",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Puerta Jurada",
+          "placeId": "place-vedenar-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general del anclaje; no fija edificio ni calle."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Está en el acceso de la Puerta Jurada durante la excomunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el acceso de la Puerta Jurada durante la excomunión."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-6",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Regresa a Urithiru por la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-7",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Dalinar",
+          "placeId": "place-urithiru-dalinar-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Vuelve a su cuarto, toma el libro que le dejó Jasnah y acaba soltándolo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuelve a su cuarto, toma el libro que le dejó Jasnah y acaba soltándolo."
+          ]
+        },
+        {
+          "id": "primary221-100-dalinar-8",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Adolin",
+          "placeId": "place-ob100-urithiru-adolin-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Entra en el cuarto de Adolin y encuentra una botella de vino violeta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en el cuarto de Adolin y encuentra una botella de vino violeta."
           ]
         }
       ]
@@ -195898,6 +197803,101 @@ window.ATLAS_DATA = {
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
           ]
+        },
+        {
+          "id": "primary221-100-navani-1",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Jardín de la visita",
+          "placeId": "place-ob100-vedenar-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Llega a la visita del jardín.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la visita del jardín."
+          ]
+        },
+        {
+          "id": "primary221-100-navani-5",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Puerta Jurada",
+          "placeId": "place-vedenar-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general del anclaje; no fija edificio ni calle."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Está en el acceso de la Puerta Jurada durante la excomunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el acceso de la Puerta Jurada durante la excomunión."
+          ]
         }
       ]
     },
@@ -209872,6 +211872,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está presente en el salón durante la primera cumbre de monarcas."
+          ]
+        },
+        {
+          "id": "primary221-100-taravangian-2",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Mirador del jardín",
+          "placeId": "place-ob100-vedenar-garden-lookout",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Conversa en el mirador donde Taravangian muestra un escudo semiesquirlado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Conversa en el mirador donde Taravangian muestra un escudo semiesquirlado."
           ]
         }
       ]
@@ -241137,6 +243185,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Coordenadas de ciudad; no se fija un punto urbano exacto."
           ]
+        },
+        {
+          "id": "primary221-98-crescent-scar-stranger-4",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está junto al patio cuando Nin interrumpe a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al patio cuando Nin interrumpe a Szeth."
+          ]
         }
       ]
     },
@@ -268885,6 +270978,186 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el murete donde Ki acepta a Szeth como escudero."
           ]
+        },
+        {
+          "id": "primary221-98-black-sword-1",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Parte de la fortaleza con los escuderos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte de la fortaleza con los escuderos."
+          ]
+        },
+        {
+          "id": "primary221-98-black-sword-2",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "placeId": "place-ob98-purelake-post-course",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-post-course",
+          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo."
+          ]
+        },
+        {
+          "id": "primary221-98-black-sword-3",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Orilla donde se cuentan las marcas",
+          "placeId": "place-ob98-purelake-score-shore",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-score-shore",
+          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el recuento de marcas en la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el recuento de marcas en la orilla."
+          ]
+        },
+        {
+          "id": "primary221-98-black-sword-4",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está junto al patio cuando Nin interrumpe a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al patio cuando Nin interrumpe a Szeth."
+          ]
         }
       ]
     },
@@ -275406,6 +277679,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el patio de Talenelat durante la visita. Fen y su consorte se retiran antes del duelo."
+          ]
+        },
+        {
+          "id": "primary221-100-rial-2",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Jardín de la visita",
+          "placeId": "place-ob100-vedenar-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Aguarda con los guardias y sigue a Dalinar cuando baja.",
+          "needsConfirmation": [],
+          "notes": [
+            "Aguarda con los guardias y sigue a Dalinar cuando baja."
+          ]
+        },
+        {
+          "id": "primary221-100-rial-4",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Adarve de la muralla",
+          "placeId": "place-ob100-vedenar-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Está en el tramo de muralla donde un soldado interpela a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de muralla donde un soldado interpela a Dalinar."
           ]
         }
       ]
@@ -321688,6 +324057,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Coincide con el grupo en la sala principal del faro."
           ]
+        },
+        {
+          "id": "primary221-99-highmarshal-celeste-ob61-4",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Está en cubierta durante la travesía hacia Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la travesía hacia Celebrant."
+          ]
         }
       ]
     },
@@ -329663,6 +332077,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el murete donde Ki acepta a Szeth como escudero."
           ]
+        },
+        {
+          "id": "primary221-98-ki-ob90-3",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Orilla donde se cuentan las marcas",
+          "placeId": "place-ob98-purelake-score-shore",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-score-shore",
+          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el recuento de marcas en la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el recuento de marcas en la orilla."
+          ]
+        },
+        {
+          "id": "primary221-98-ki-ob90-4",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está junto al patio cuando Nin interrumpe a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al patio cuando Nin interrumpe a Szeth."
+          ]
         }
       ]
     },
@@ -330212,6 +332716,866 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Coincide con el grupo en la sala principal del faro."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "warren-ob98",
+      "name": "Warren",
+      "initial": "W",
+      "role": "Maestro azishiano que dirige la prueba marcial de los escuderos.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-98-warren-ob98-2",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "placeId": "place-ob98-purelake-post-course",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-post-course",
+          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Explica las reglas y da por terminada la prueba al ponerse el sol.",
+          "needsConfirmation": [],
+          "notes": [
+            "Explica las reglas y da por terminada la prueba al ponerse el sol."
+          ]
+        },
+        {
+          "id": "primary221-98-warren-ob98-3",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Orilla donde se cuentan las marcas",
+          "placeId": "place-ob98-purelake-score-shore",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-score-shore",
+          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el recuento de marcas en la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el recuento de marcas en la orilla."
+          ]
+        },
+        {
+          "id": "primary221-98-warren-ob98-4",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está junto al patio cuando Nin interrumpe a Szeth.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al patio cuando Nin interrumpe a Szeth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zedzil-ob98",
+      "name": "Zedzil",
+      "initial": "Z",
+      "role": "Escudero que persigue a Szeth durante la prueba.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-98-zedzil-ob98-1",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Parte de la fortaleza con los escuderos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte de la fortaleza con los escuderos."
+          ]
+        },
+        {
+          "id": "primary221-98-zedzil-ob98-2",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "placeId": "place-ob98-purelake-post-course",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-post-course",
+          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ty-ob98",
+      "name": "Ty",
+      "initial": "T",
+      "role": "Escudero que anima a los demás a centrarse en Szeth.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-98-ty-ob98-1",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "placeId": "place-ob90-marabezia-skybreaker-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/90.Renacido.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob90-marabezia-skybreaker-field",
+          "coordinateAnchorName": "Marabezia · Campo de piedra de la fortaleza frente al Lagopuro",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Parte de la fortaleza con los escuderos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Parte de la fortaleza con los escuderos."
+          ]
+        },
+        {
+          "id": "primary221-98-ty-ob98-2",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "placeId": "place-ob98-purelake-post-course",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-post-course",
+          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el circuito sobre el Lagopuro durante la prueba de bolsas de polvo."
+          ]
+        },
+        {
+          "id": "primary221-98-ty-ob98-3",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Orilla donde se cuentan las marcas",
+          "placeId": "place-ob98-purelake-score-shore",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-score-shore",
+          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el recuento de marcas en la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el recuento de marcas en la orilla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob98-tashikki-scorekeeper",
+      "name": "Escudero tashikki que cuenta las marcas",
+      "initial": "E",
+      "role": "Cuenta los puntos de la prueba en la orilla.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-98-ob98-tashikki-scorekeeper-3",
+          "scene": "ob-chapter-98",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Lagopuro · Orilla donde se cuentan las marcas",
+          "placeId": "place-ob98-purelake-score-shore",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob98",
+          "sourceIds": [
+            "primary221-ob98"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob98-purelake-score-shore",
+          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-98"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml. Está en el recuento de marcas en la orilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el recuento de marcas en la orilla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ico-ob99",
+      "name": "Ico",
+      "initial": "I",
+      "role": "Capitán alcanzador del barco que lleva a los viajeros hacia Celebrant.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-99-ico-ob99-2",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Llama a Kaladin y lo lleva a la bodega.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llama a Kaladin y lo lleva a la bodega."
+          ]
+        },
+        {
+          "id": "primary221-99-ico-ob99-3",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Bodega del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-hold",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-hold",
+          "coordinateAnchorName": "Shadesmar · Bodega del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Recoge de la bodega la caja con el aparato para obtener agua.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recoge de la bodega la caja con el aparato para obtener agua."
+          ]
+        },
+        {
+          "id": "primary221-99-ico-ob99-4",
+          "scene": "ob-chapter-99",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "placeId": "place-ob99-reacher-ship-deck",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
+            "Sin coordenadas cognitivas calibradas."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob99",
+          "sourceIds": [
+            "primary221-ob99"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
+          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-99"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml. Está en cubierta durante la travesía hacia Celebrant.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta durante la travesía hacia Celebrant."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bavamar-ob99",
+      "name": "Bavamar",
+      "initial": "B",
+      "role": "Persona citada por Shallan por sus cálculos sobre el peso de los grancaparazones reshi.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob100-veden-noblewife",
+      "name": "Esposa de un alto príncipe veden",
+      "initial": "E",
+      "role": "Acompaña a Navani a ver cuadros durante la visita.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-100-ob100-veden-noblewife-1",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Jardín de la visita",
+          "placeId": "place-ob100-vedenar-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Llega a la visita del jardín.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la visita del jardín."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob100-veden-noblewife-husband",
+      "name": "Alto príncipe veden mencionado en la visita",
+      "initial": "A",
+      "role": "Su esposa guía a Navani. El pasaje no da su nombre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "geved-ob100",
+      "name": "Geved",
+      "initial": "G",
+      "role": "Veterano herido que habla con Dalinar sobre la guerra civil veden.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-100-geved-ob100-3",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Tienda de heridos junto a los portones",
+          "placeId": "place-ob100-vedenar-wounded-tent",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Habla de la guerra civil veden en la tienda de heridos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla de la guerra civil veden en la tienda de heridos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nalanar-ob100",
+      "name": "Nalanar",
+      "initial": "N",
+      "role": "Brillante señor de la infantería en la que Geved dice que combatió en Rocadiza.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ob100-valath-vicar",
+      "name": "Vicario que excomulga a Dalinar",
+      "initial": "V",
+      "role": "Habla en nombre del consejo de vicarios del Santo Enclave de Valath.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-100-ob100-valath-vicar-5",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Puerta Jurada",
+          "placeId": "place-vedenar-oathgate",
+          "realm": "physical",
+          "placeNotes": [
+            "Referencia general del anclaje; no fija edificio ni calle."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Está en el acceso de la Puerta Jurada durante la excomunión.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el acceso de la Puerta Jurada durante la excomunión."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob100-vedenar-rampart-soldier",
+      "name": "Soldado veden del adarve",
+      "initial": "S",
+      "role": "Interpela a Dalinar junto a la muralla.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary221-100-ob100-vedenar-rampart-soldier-4",
+          "scene": "ob-chapter-100",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Vedenar · Adarve de la muralla",
+          "placeId": "place-ob100-vedenar-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            594.958,
+            426.334
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary221-ob100",
+          "sourceIds": [
+            "primary221-ob100"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-vedenar",
+          "coordinateAnchorName": "Vedenar · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la escena; sin sincronizar tramas."
+          },
+          "revealedAt": {
+            "bookId": "ob",
+            "sceneId": "ob-chapter-100"
+          },
+          "locator": "Juramentada, EPUB español, OEBPS/Text/100.Unaviejaamiga.xhtml. Está en el tramo de muralla donde un soldado interpela a Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de muralla donde un soldado interpela a Dalinar."
           ]
         }
       ]
