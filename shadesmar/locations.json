@@ -4470,6 +4470,26 @@
       "obep-refugee-girl",
       "vatwha-obep",
       "wit"
+    ],
+    "dawnshard-prologue": [
+      "brekv-dawn-prologue",
+      "dok-dawn-prologue",
+      "smta-dawn-prologue",
+      "yalb"
+    ],
+    "dawnshard-chapter-1": [
+      "mura-dawn1",
+      "nikli-dawn1",
+      "rysn",
+      "rysn-gift-larkin",
+      "talik"
+    ],
+    "dawnshard-chapter-2": [
+      "dawn2-urithiru-servants-guide",
+      "navani",
+      "nikli-dawn1",
+      "rysn",
+      "rysn-gift-larkin"
     ]
   },
   "knowledgeArchive": {
@@ -16024,6 +16044,23 @@
         "primaryReviewed": true,
         "primaryLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
         "readingLocator": "OEBPS/Text/Imagen19.xhtml y 116.Ensolitario.xhtml. Lámina y encuentro de Shallan en la Puerta Jurada de Ciudad Thaylen.",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Aparecen como anillos de humo azul cuando Navani se agacha para observar a Chiri-Chiri.",
+        "sourceIds": [
+          "primary232-dawnshard-2"
+        ],
+        "id": "primary232-archive-navani-awespren",
+        "entryId": "spren-type-awespren",
+        "value": "Aparecen como anillos de humo azul cuando Navani se agacha para observar a Chiri-Chiri.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-2"
+        },
+        "field": "description",
+        "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
         "supersedes": []
       }
     ],
@@ -75617,6 +75654,275 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Yalb pone a prueba a Dok con una historia de marineros sobre un spren.",
+      "sourceIds": [
+        "primary232-dawnshard-prologue"
+      ],
+      "id": "primary232-yalb-dok-sailor-test",
+      "participants": [
+        "yalb",
+        "dok-dawn-prologue"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-prologue"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+      },
+      "type": "conversation",
+      "summary": "Yalb pone a prueba a Dok con una historia de marineros sobre un spren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Yalb pone a prueba a Dok con una historia de marineros sobre un spren.",
+        "pairs": [
+          [
+            "yalb",
+            "dok-dawn-prologue"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Brekv confirma el avistamiento. Yalb avisa a la capitana y dirige el abordaje por orden de ella.",
+      "sourceIds": [
+        "primary232-dawnshard-prologue"
+      ],
+      "id": "primary232-first-derelict-sighting",
+      "participants": [
+        "yalb",
+        "brekv-dawn-prologue",
+        "smta-dawn-prologue"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-prologue"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+      },
+      "type": "conversation",
+      "summary": "Brekv confirma el avistamiento. Yalb avisa a la capitana y dirige el abordaje por orden de ella.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Brekv confirma el avistamiento. Yalb avisa a la capitana y dirige el abordaje por orden de ella.",
+        "pairs": [
+          [
+            "yalb",
+            "brekv-dawn-prologue"
+          ],
+          [
+            "yalb",
+            "smta-dawn-prologue"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Rysn le pide a Nikli que espere a que ella solicite ayuda.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-rysn-nikli-assistance",
+      "participants": [
+        "rysn",
+        "nikli-dawn1"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rysn le pide a Nikli que espere a que ella solicite ayuda.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rysn le pide a Nikli que espere a que ella solicite ayuda.",
+        "pairs": [
+          [
+            "rysn",
+            "nikli-dawn1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Rysn lee los diseños enviados por Mura y escribe una respuesta.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-rysn-mura-letters",
+      "participants": [
+        "rysn",
+        "mura-dawn1"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rysn lee los diseños enviados por Mura y escribe una respuesta.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rysn lee los diseños enviados por Mura y escribe una respuesta.",
+        "pairs": [
+          [
+            "rysn",
+            "mura-dawn1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Talik habla con Rysn sobre Chiri-Chiri y le transmite que debe llevarla a Akinah.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-talik-akinah-advice",
+      "participants": [
+        "rysn",
+        "talik"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Talik habla con Rysn sobre Chiri-Chiri y le transmite que debe llevarla a Akinah.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Talik habla con Rysn sobre Chiri-Chiri y le transmite que debe llevarla a Akinah.",
+        "pairs": [
+          [
+            "rysn",
+            "talik"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Rysn acepta el palanquín que le ofrece la escolta y pide a Nikli que la ayude a trasladarse.",
+      "sourceIds": [
+        "primary232-dawnshard-2"
+      ],
+      "id": "primary232-rysn-urithiru-welcome",
+      "participants": [
+        "rysn",
+        "nikli-dawn1"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-2"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rysn acepta el palanquín que le ofrece la escolta y pide a Nikli que la ayude a trasladarse.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rysn acepta el palanquín que le ofrece la escolta y pide a Nikli que la ayude a trasladarse.",
+        "pairs": [
+          [
+            "rysn",
+            "nikli-dawn1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Hablan del barco recuperado y acuerdan que la Vela Errante investigue Akinah.",
+      "sourceIds": [
+        "primary232-dawnshard-2"
+      ],
+      "id": "primary232-rysn-navani-expedition",
+      "participants": [
+        "rysn",
+        "navani",
+        "rysn-gift-larkin"
+      ],
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-2"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Hablan del barco recuperado y acuerdan que la Vela Errante investigue Akinah.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del barco recuperado y acuerdan que la Vela Errante investigue Akinah.",
+        "pairs": [
+          [
+            "rysn",
+            "navani"
+          ],
+          [
+            "navani",
+            "rysn-gift-larkin"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -113517,6 +113823,198 @@
       "kind": "background",
       "text": "Sale de una grieta en el palacio. Sagaz lo oculta y pronuncia las Palabras en los jardines.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Marinero joven al que Yalb pone a prueba con la historia del marinerospren.",
+      "sourceIds": [
+        "primary232-dawnshard-prologue"
+      ],
+      "id": "primary232-dok-dawn-prologue-intro",
+      "characterId": "dok-dawn-prologue",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-prologue"
+      },
+      "kind": "background",
+      "text": "Marinero joven al que Yalb pone a prueba con la historia del marinerospren.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Vigía que confirma el avistamiento de una nave a la deriva.",
+      "sourceIds": [
+        "primary232-dawnshard-prologue"
+      ],
+      "id": "primary232-brekv-dawn-prologue-intro",
+      "characterId": "brekv-dawn-prologue",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-prologue"
+      },
+      "kind": "background",
+      "text": "Vigía que confirma el avistamiento de una nave a la deriva.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Capitana de la nave en la que sirve Yalb.",
+      "sourceIds": [
+        "primary232-dawnshard-prologue"
+      ],
+      "id": "primary232-smta-dawn-prologue-intro",
+      "characterId": "smta-dawn-prologue",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-prologue"
+      },
+      "kind": "background",
+      "text": "Capitana de la nave en la que sirve Yalb.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Está vivo y sirve en el barco de Smta. Recuerda que otros dos supervivientes dieron versiones similares a la suya sobre la desaparición del Placer del Viento.",
+      "sourceIds": [
+        "primary232-dawnshard-prologue"
+      ],
+      "id": "primary232-yalb-winds-pleasure-survival",
+      "characterId": "yalb",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-prologue"
+      },
+      "kind": "background",
+      "text": "Está vivo y sirve en el barco de Smta. Recuerda que otros dos supervivientes dieron versiones similares a la suya sobre la desaparición del Placer del Viento.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Nuevo porteador jefe de Rysn.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-nikli-dawn1-intro",
+      "characterId": "nikli-dawn1",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "kind": "background",
+      "text": "Nuevo porteador jefe de Rysn.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Azishiana que intercambia cartas con Rysn y diseña aparatos para mejorar su movilidad.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-mura-dawn1-intro",
+      "characterId": "mura-dawn1",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "kind": "background",
+      "text": "Azishiana que intercambia cartas con Rysn y diseña aparatos para mejorar su movilidad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Rysn advierte que Chiri-Chiri está débil y ha perdido el apetito.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-chiri-chiri-dawnship-illness",
+      "characterId": "rysn-gift-larkin",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "kind": "background",
+      "text": "Rysn advierte que Chiri-Chiri está débil y ha perdido el apetito.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Cuenta que una familia de grancaparazones reshi acogió a los últimos larkin tras la caída de Aimia.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-talik-na-alind-larkin-report",
+      "characterId": "talik",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "kind": "background",
+      "text": "Cuenta que una familia de grancaparazones reshi acogió a los últimos larkin tras la caída de Aimia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Lee la solicitud de Navani y decide llevar su propuesta a Urithiru.",
+      "sourceIds": [
+        "primary232-dawnshard-1"
+      ],
+      "id": "primary232-rysn-considers-akinah",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-1"
+      },
+      "kind": "background",
+      "text": "Lee la solicitud de Navani y decide llevar su propuesta a Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. La recibe con cuatro porteadores y un palanquín por encargo de Navani.",
+      "sourceIds": [
+        "primary232-dawnshard-2"
+      ],
+      "id": "primary232-dawn2-urithiru-servants-guide-intro",
+      "characterId": "dawn2-urithiru-servants-guide",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-2"
+      },
+      "kind": "background",
+      "text": "La recibe con cuatro porteadores y un palanquín por encargo de Navani.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Se presenta a Navani como Rysn Ftori, Bah-Vstim.",
+      "sourceIds": [
+        "primary232-dawnshard-2"
+      ],
+      "id": "primary232-rysn-ftori-navani",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-2"
+      },
+      "kind": "background",
+      "text": "Se presenta a Navani como Rysn Ftori, Bah-Vstim.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Le cuenta a Navani que inspeccionó la nave al llevarla a puerto y no halló a la moldeadora de almas ni el aparato.",
+      "sourceIds": [
+        "primary232-dawnshard-2"
+      ],
+      "id": "primary232-rysn-derelict-inspection-report",
+      "characterId": "rysn",
+      "revealedAt": {
+        "bookId": "dawnshard",
+        "sceneId": "dawnshard-chapter-2"
+      },
+      "kind": "background",
+      "text": "Le cuenta a Navani que inspeccionó la nave al llevarla a puerto y no halló a la moldeadora de almas ni el aparato.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -116250,6 +116748,10 @@
         {
           "revision": 230,
           "notes": "Registrados el matrimonio Shallan–Adolin, la filiación Jezrien–Ash y los cónyuges Kheni y su marido. La acogida de la niña no se registra como parentesco."
+        },
+        {
+          "revision": 232,
+          "notes": "Revisados el parentesco colectivo de los Na-Alind, el rey reshi y su consorte, y el tratamiento de aprendizaje Bah-Vstim. Se conserva el vínculo de aprendizaje y las relaciones ya documentadas."
         }
       ]
     }
@@ -119468,14 +119970,19 @@
       "id": "ob",
       "title": "Juramentada",
       "order": 4
+    },
+    {
+      "id": "dawnshard",
+      "title": "Esquirla del amanecer",
+      "order": 5
     }
   ],
   "book": "El camino de los reyes",
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 231,
-  "coverage": "Selección parcial de personajes y presencias de cuatro obras. Fuentes secundarias y textos autorizados en inglés; traducciones, fechas y anclajes pendientes de cotejo.",
+  "revision": 232,
+  "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
       "id": "prelude",
@@ -122636,6 +123143,29 @@
       "label": "Epílogo",
       "part": "ob-5a",
       "source": "primary230-ob-epilogue"
+    },
+    {
+      "id": "dawnshard-prologue",
+      "bookId": "dawnshard",
+      "label": "Prólogo",
+      "part": "dawnshard",
+      "source": "primary232-dawnshard-prologue"
+    },
+    {
+      "id": "dawnshard-chapter-1",
+      "bookId": "dawnshard",
+      "chapter": 1,
+      "label": "Capítulo 1",
+      "part": "dawnshard",
+      "source": "primary232-dawnshard-1"
+    },
+    {
+      "id": "dawnshard-chapter-2",
+      "bookId": "dawnshard",
+      "chapter": 2,
+      "label": "Capítulo 2",
+      "part": "dawnshard",
+      "source": "primary232-dawnshard-2"
     }
   ],
   "experiencePresentation": {
@@ -212728,6 +213258,54 @@
           "notes": [
             "Está en los aposentos Kholin o junto a su puerta después del banquete."
           ]
+        },
+        {
+          "id": "primary232-2-navani-3",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Despacho de Navani para la audiencia de Rysn",
+          "placeId": "place-dawn2-urithiru-navani-study",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en el despacho durante el encuentro entre Navani y Rysn.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante el encuentro entre Navani y Rysn."
+          ]
         }
       ]
     },
@@ -225743,6 +226321,194 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el pasillo de la cámara cuando Rysn se defiende."
+          ]
+        },
+        {
+          "id": "primary232-1-rysn-1",
+          "scene": "dawnshard-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn",
+          "placeId": "place-dawn1-thaylen-rysn-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-1",
+          "sourceIds": [
+            "primary232-dawnshard-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn1-thaylen-rysn-office",
+          "coordinateAnchorName": "Ciudad Thaylen · Despacho de Rysn",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-1"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Está en el despacho mientras Rysn prepara su expedición o recibe a Talik.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho mientras Rysn prepara su expedición o recibe a Talik."
+          ]
+        },
+        {
+          "id": "primary232-2-rysn-1",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en la recepción de Rysn en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción de Rysn en Urithiru."
+          ]
+        },
+        {
+          "id": "primary232-2-rysn-2",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del atrio en el trayecto de Rysn",
+          "placeId": "place-dawn2-urithiru-atrium-lift",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Sube con la comitiva en el elevador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube con la comitiva en el elevador."
+          ]
+        },
+        {
+          "id": "primary232-2-rysn-3",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Despacho de Navani para la audiencia de Rysn",
+          "placeId": "place-dawn2-urithiru-navani-study",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en el despacho durante el encuentro entre Navani y Rysn.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante el encuentro entre Navani y Rysn."
           ]
         }
       ]
@@ -255007,6 +255773,186 @@
           "locator": "Palabras radiantes, EPUB español aportado (13234909 bytes), capítulo 6; líneas 4088-4160 de la extracción de 52283 líneas. Conversa con Shallan y el nuevo marinero; se marcha sin un destino preciso.",
           "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary232-prologue-yalb-1",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Aparejo y puesto de vigía del barco de Smta",
+          "placeId": "place-dawn-prologue-rigging",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-rigging",
+          "coordinateAnchorName": "Mar · Aparejo y puesto de vigía del barco de Smta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Está en los aparejos durante el avistamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aparejos durante el avistamiento."
+          ]
+        },
+        {
+          "id": "primary232-prologue-yalb-2",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del barco de Smta",
+          "placeId": "place-dawn-prologue-smta-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-smta-deck",
+          "coordinateAnchorName": "Mar · Cubierta del barco de Smta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Habla en cubierta tras descubrir la nave.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en cubierta tras descubrir la nave."
+          ]
+        },
+        {
+          "id": "primary232-prologue-yalb-3",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Embarcación a la deriva avistada por Yalb",
+          "placeId": "place-dawn-prologue-derelict",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-derelict",
+          "coordinateAnchorName": "Mar · Embarcación a la deriva avistada por Yalb",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Participa en el abordaje y la búsqueda de la tripulación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en el abordaje y la búsqueda de la tripulación."
+          ]
+        },
+        {
+          "id": "primary232-prologue-yalb-4",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del barco de Smta",
+          "placeId": "place-dawn-prologue-smta-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-smta-deck",
+          "coordinateAnchorName": "Mar · Cubierta del barco de Smta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Regresa a su barco tras la búsqueda y observa la nave a la deriva.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a su barco tras la búsqueda y observa la nave a la deriva."
+          ]
         }
       ]
     },
@@ -261924,6 +262870,51 @@
           "locator": "Palabras radiantes, EPUB español aportado, interludio 3; líneas 8270-8366 de la extracción de 52283 líneas. Se encuentra en la choza durante la recuperación de Rysn.",
           "needsConfirmation": [],
           "notes": []
+        },
+        {
+          "id": "primary232-1-talik-1",
+          "scene": "dawnshard-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn",
+          "placeId": "place-dawn1-thaylen-rysn-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-1",
+          "sourceIds": [
+            "primary232-dawnshard-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn1-thaylen-rysn-office",
+          "coordinateAnchorName": "Ciudad Thaylen · Despacho de Rysn",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-1"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Está en el despacho mientras Rysn prepara su expedición o recibe a Talik.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho mientras Rysn prepara su expedición o recibe a Talik."
+          ]
         }
       ]
     },
@@ -317801,6 +318792,194 @@
           "notes": [
             "Está en el pasillo de la cámara cuando Rysn se defiende."
           ]
+        },
+        {
+          "id": "primary232-1-rysn-gift-larkin-1",
+          "scene": "dawnshard-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn",
+          "placeId": "place-dawn1-thaylen-rysn-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-1",
+          "sourceIds": [
+            "primary232-dawnshard-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn1-thaylen-rysn-office",
+          "coordinateAnchorName": "Ciudad Thaylen · Despacho de Rysn",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-1"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Está en el despacho mientras Rysn prepara su expedición o recibe a Talik.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho mientras Rysn prepara su expedición o recibe a Talik."
+          ]
+        },
+        {
+          "id": "primary232-2-rysn-gift-larkin-1",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en la recepción de Rysn en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción de Rysn en Urithiru."
+          ]
+        },
+        {
+          "id": "primary232-2-rysn-gift-larkin-2",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del atrio en el trayecto de Rysn",
+          "placeId": "place-dawn2-urithiru-atrium-lift",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Sube con la comitiva en el elevador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube con la comitiva en el elevador."
+          ]
+        },
+        {
+          "id": "primary232-2-rysn-gift-larkin-3",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Despacho de Navani para la audiencia de Rysn",
+          "placeId": "place-dawn2-urithiru-navani-study",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en el despacho durante el encuentro entre Navani y Rysn.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante el encuentro entre Navani y Rysn."
+          ]
         }
       ]
     },
@@ -360488,6 +361667,441 @@
           "needsConfirmation": [],
           "notes": [
             "Termina en los jardines después de que los guardias saquen a Sagaz."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dok-dawn-prologue",
+      "name": "Dok",
+      "initial": "D",
+      "role": "Marinero joven al que Yalb pone a prueba con la historia del marinerospren.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary232-prologue-dok-dawn-prologue-1",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Aparejo y puesto de vigía del barco de Smta",
+          "placeId": "place-dawn-prologue-rigging",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-rigging",
+          "coordinateAnchorName": "Mar · Aparejo y puesto de vigía del barco de Smta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Está en los aparejos durante el avistamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aparejos durante el avistamiento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brekv-dawn-prologue",
+      "name": "Brekv",
+      "initial": "B",
+      "role": "Vigía que confirma el avistamiento de una nave a la deriva.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary232-prologue-brekv-dawn-prologue-1",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Aparejo y puesto de vigía del barco de Smta",
+          "placeId": "place-dawn-prologue-rigging",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-rigging",
+          "coordinateAnchorName": "Mar · Aparejo y puesto de vigía del barco de Smta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Está en los aparejos durante el avistamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en los aparejos durante el avistamiento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smta-dawn-prologue",
+      "name": "Smta",
+      "initial": "S",
+      "role": "Capitana de la nave en la que sirve Yalb.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary232-prologue-smta-dawn-prologue-2",
+          "scene": "dawnshard-prologue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Mar · Cubierta del barco de Smta",
+          "placeId": "place-dawn-prologue-smta-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-prologue",
+          "sourceIds": [
+            "primary232-dawnshard-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn-prologue-smta-deck",
+          "coordinateAnchorName": "Mar · Cubierta del barco de Smta",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "El hallazgo se sitúa unos dos meses antes del encargo descrito en el capítulo 1."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-prologue"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Prologo.xhtml. Habla en cubierta tras descubrir la nave.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en cubierta tras descubrir la nave."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nikli-dawn1",
+      "name": "Nikli",
+      "initial": "N",
+      "role": "Nuevo porteador jefe de Rysn.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary232-1-nikli-dawn1-1",
+          "scene": "dawnshard-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Despacho de Rysn",
+          "placeId": "place-dawn1-thaylen-rysn-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-1",
+          "sourceIds": [
+            "primary232-dawnshard-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-dawn1-thaylen-rysn-office",
+          "coordinateAnchorName": "Ciudad Thaylen · Despacho de Rysn",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-1"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/1.xhtml. Está en el despacho mientras Rysn prepara su expedición o recibe a Talik.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho mientras Rysn prepara su expedición o recibe a Talik."
+          ]
+        },
+        {
+          "id": "primary232-2-nikli-dawn1-1",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en la recepción de Rysn en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción de Rysn en Urithiru."
+          ]
+        },
+        {
+          "id": "primary232-2-nikli-dawn1-2",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Ascensor del atrio en el trayecto de Rysn",
+          "placeId": "place-dawn2-urithiru-atrium-lift",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Sube con la comitiva en el elevador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube con la comitiva en el elevador."
+          ]
+        },
+        {
+          "id": "primary232-2-nikli-dawn1-3",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Despacho de Navani para la audiencia de Rysn",
+          "placeId": "place-dawn2-urithiru-navani-study",
+          "realm": "physical",
+          "placeNotes": [
+            "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en el despacho durante el encuentro entre Navani y Rysn.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el despacho durante el encuentro entre Navani y Rysn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mura-dawn1",
+      "name": "Mura",
+      "initial": "M",
+      "role": "Azishiana que intercambia cartas con Rysn y diseña aparatos para mejorar su movilidad.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "dawn2-urithiru-servants-guide",
+      "name": "Maestro de sirvientes que recibe a Rysn",
+      "initial": "M",
+      "role": "La recibe con cuatro porteadores y un palanquín por encargo de Navani.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary232-2-dawn2-urithiru-servants-guide-1",
+          "scene": "dawnshard-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary232-dawnshard-2",
+          "sourceIds": [
+            "primary232-dawnshard-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "dawnshard",
+            "sceneId": "dawnshard-chapter-2"
+          },
+          "locator": "Esquirla del amanecer, EPUB español, OEBPS/Text/2.xhtml. Está en la recepción de Rysn en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción de Rysn en Urithiru."
           ]
         }
       ]
