@@ -4829,6 +4829,17 @@ window.ATLAS_DATA = {
       "teft",
       "vratim-row10",
       "yunfah-row10"
+    ],
+    "row-chapter-11": [
+      "dul-row11",
+      "fused-hearthstone-row1",
+      "leshwi-barber-row11",
+      "mazish-row11",
+      "moash-duel-fused",
+      "shumin-row11",
+      "venli",
+      "vod-row11",
+      "yokska-row11"
     ]
   },
   "knowledgeArchive": {
@@ -17204,6 +17215,40 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Timbre se oculta en la gema corazón de Venli. Se comunica mediante latidos y Venli interpreta sus ritmos.",
+        "sourceIds": [
+          "primary252-row-11"
+        ],
+        "id": "primary252-archive-row11-timbre-heart-gem",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "Timbre se oculta en la gema corazón de Venli. Se comunica mediante latidos y Venli interpreta sus ritmos.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-11"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Venli explica que la forma emisaria requiere albergar un vacíospren en la gema corazón.",
+        "sourceIds": [
+          "primary252-row-11"
+        ],
+        "id": "primary252-archive-row11-voidspren-emissary-form",
+        "entryId": "spren-type-voidspren",
+        "value": "Venli explica que la forma emisaria requiere albergar un vacíospren en la gema corazón.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-11"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
         "supersedes": []
       }
     ],
@@ -81187,6 +81232,252 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Venli ayuda a Vod a arreglarse antes del regreso de Leshwi.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-venli-vod-high-chamber",
+      "participants": [
+        "venli",
+        "vod-row11"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Venli ayuda a Vod a arreglarse antes del regreso de Leshwi.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli ayuda a Vod a arreglarse antes del regreso de Leshwi.",
+        "pairs": [
+          [
+            "venli",
+            "vod-row11"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Venli transmite la orden de comprobar si Shumin tolera la altura y le comunica que ha sido aceptada.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-leshwi-shumin-height-test",
+      "participants": [
+        "moash-duel-fused",
+        "venli",
+        "shumin-row11"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Venli transmite la orden de comprobar si Shumin tolera la altura y le comunica que ha sido aceptada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli transmite la orden de comprobar si Shumin tolera la altura y le comunica que ha sido aceptada.",
+        "pairs": [
+          [
+            "moash-duel-fused",
+            "venli"
+          ],
+          [
+            "venli",
+            "shumin-row11"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Leshwi habla de su duelo con Kaladin e identifica al Fusionado abatido en Piedralar como Lezian, el Perseguidor.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-leshwi-venli-piedralar-report",
+      "participants": [
+        "moash-duel-fused",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Leshwi habla de su duelo con Kaladin e identifica al Fusionado abatido en Piedralar como Lezian, el Perseguidor.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Leshwi habla de su duelo con Kaladin e identifica al Fusionado abatido en Piedralar como Lezian, el Perseguidor.",
+        "pairs": [
+          [
+            "moash-duel-fused",
+            "venli"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Venli presenta a Yokska e interpreta las palabras de Leshwi, que decide no contratarla como modista.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-yokska-modiste-audience",
+      "participants": [
+        "venli",
+        "yokska-row11",
+        "moash-duel-fused"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Venli presenta a Yokska e interpreta las palabras de Leshwi, que decide no contratarla como modista.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli presenta a Yokska e interpreta las palabras de Leshwi, que decide no contratarla como modista.",
+        "pairs": [
+          [
+            "venli",
+            "yokska-row11"
+          ],
+          [
+            "venli",
+            "moash-duel-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Venli explica su proyecto de construir un lugar independiente para su gente. Shumin se muestra dispuesta a unirse.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-venli-private-new-listeners",
+      "participants": [
+        "venli",
+        "shumin-row11",
+        "dul-row11",
+        "mazish-row11"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Venli explica su proyecto de construir un lugar independiente para su gente. Shumin se muestra dispuesta a unirse.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli explica su proyecto de construir un lugar independiente para su gente. Shumin se muestra dispuesta a unirse.",
+        "pairs": [
+          [
+            "venli",
+            "shumin-row11"
+          ],
+          [
+            "dul-row11",
+            "shumin-row11"
+          ],
+          [
+            "venli",
+            "dul-row11"
+          ],
+          [
+            "venli",
+            "mazish-row11"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Leshwi interrumpe la reunión y avisa a Venli de que está ocurriendo algo peligroso.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-leshwi-venli-war-warning",
+      "participants": [
+        "moash-duel-fused",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Leshwi interrumpe la reunión y avisa a Venli de que está ocurriendo algo peligroso.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Leshwi interrumpe la reunión y avisa a Venli de que está ocurriendo algo peligroso.",
+        "pairs": [
+          [
+            "moash-duel-fused",
+            "venli"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -121183,6 +121474,150 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Dalinar dispone que se haga pública la versión del suicidio. Es la versión comunicada y no resuelve la causa de la muerte.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Sirviente al que Venli arregla la camisa y el fajín al subir a la Alta Cámara.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-vod-row11-intro",
+      "characterId": "vod-row11",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Sirviente al que Venli arregla la camisa y el fajín al subir a la Alta Cámara.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Cautormentas de Leshwi y colaborador de Venli.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-dul-row11-intro",
+      "characterId": "dul-row11",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Cautormentas de Leshwi y colaborador de Venli.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Colabora con Venli y vigila fuera durante la reunión privada.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-mazish-row11-intro",
+      "characterId": "mazish-row11",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Colabora con Venli y vigila fuera durante la reunión privada.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Nueva recluta a la que Leshwi acepta como ayudante del cautormentas.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-shumin-row11-intro",
+      "characterId": "shumin-row11",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Nueva recluta a la que Leshwi acepta como ayudante del cautormentas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Modista humana que se presenta ante Leshwi.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-yokska-row11-intro",
+      "characterId": "yokska-row11",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Modista humana que se presenta ante Leshwi.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Afeita a Leshwi tras su regreso a la Alta Cámara.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-leshwi-barber-row11-intro",
+      "characterId": "leshwi-barber-row11",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Afeita a Leshwi tras su regreso a la Alta Cámara.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Leshwi identifica por nombre al Fusionado que Kaladin abatió durante la incursión. El relato se refiere a ese combate y no sitúa a Lezian en Kholinar.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-row11-persecutor-name-and-body",
+      "characterId": "fused-hearthstone-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Leshwi identifica por nombre al Fusionado que Kaladin abatió durante la incursión. El relato se refiere a ese combate y no sitúa a Lezian en Kholinar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Puede emplear luz tormentosa y luz del vacío. Como Voz de Leshwi, interpreta el idioma y los ritmos de su dama.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-row11-venli-lights-and-rhythms",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Puede emplear luz tormentosa y luz del vacío. Como Voz de Leshwi, interpreta el idioma y los ritmos de su dama.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Plantea un lugar donde los cantores puedan decidir su futuro y rechazar los papeles que les imponen.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-row11-venli-independence-project",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-11"
+      },
+      "kind": "background",
+      "text": "Plantea un lugar donde los cantores puedan decidir su futuro y rechazar los papeles que les imponen.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -123956,6 +124391,10 @@ window.ATLAS_DATA = {
         {
           "revision": 250,
           "notes": "Se conservan los parentescos ya documentados de Kaladin con Lirin y Hesina, de Navani con Jasnah y el matrimonio de Shallan y Adolin."
+        },
+        {
+          "revision": 252,
+          "notes": "Venli recuerda a su hermana Eshonai. El parentesco ya está registrado y el recuerdo no añade una presencia en Kholinar."
         }
       ]
     }
@@ -127292,7 +127731,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 251,
+  "revision": 252,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -130712,6 +131151,14 @@ window.ATLAS_DATA = {
       "label": "Capítulo 10 · Sola, baja",
       "part": "row-1",
       "source": "primary251-row-10"
+    },
+    {
+      "id": "row-chapter-11",
+      "bookId": "row",
+      "chapter": 11,
+      "label": "Capítulo 11 · Pasión",
+      "part": "row-1",
+      "source": "primary252-row-11"
     }
   ],
   "experiencePresentation": {
@@ -132032,6 +132479,31 @@ window.ATLAS_DATA = {
         "xy": [
           474.647,
           410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Desde su habitación física en Kholinar, mira la capa cognitiva para buscar espías. Conserva su posición física.",
+      "sourceIds": [
+        "primary252-row-11"
+      ],
+      "id": "primary252-venli-kholinar-perception",
+      "characterId": "venli",
+      "sceneId": "row-chapter-11",
+      "type": "perception",
+      "experiencedPlace": "Shadesmar superpuesto a la habitación de Venli en Kholinar",
+      "physicalPlaceId": "place-row11-kholinar-venli-quarters",
+      "notes": [
+        "Desde su habitación física en Kholinar, mira la capa cognitiva para buscar espías. Conserva su posición física."
+      ],
+      "entryAnchor": {
+        "placeId": "place-row11-kholinar-venli-quarters",
+        "name": "Kholinar · Habitación de Venli debajo de la Alta Cámara",
+        "xy": [
+          721.177,
+          344.038
         ],
         "coordinateStatus": "pending-calibration"
       }
@@ -280388,6 +280860,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Actúa en las inmediaciones de las embarcaciones durante la búsqueda del rubí o la retirada."
           ]
+        },
+        {
+          "id": "primary252-11-venli-1",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Escalera de la torre de Leshwi",
+          "placeId": "place-row11-kholinar-spire-stair",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Sube por la escalera de la torre antes del regreso de Leshwi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube por la escalera de la torre antes del regreso de Leshwi."
+          ]
+        },
+        {
+          "id": "primary252-11-venli-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
+          ]
+        },
+        {
+          "id": "primary252-11-venli-3",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Borde abierto de la Alta Cámara",
+          "placeId": "place-row11-kholinar-high-chamber-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Se acerca al borde abierto durante la prueba de altura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acerca al borde abierto durante la prueba de altura."
+          ]
+        },
+        {
+          "id": "primary252-11-venli-4",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska."
+          ]
+        },
+        {
+          "id": "primary252-11-venli-6",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitación de Venli debajo de la Alta Cámara",
+          "placeId": "place-row11-kholinar-venli-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Participa en la reunión privada en la habitación de Venli.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión privada en la habitación de Venli."
+          ]
         }
       ]
     },
@@ -334832,6 +335544,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el aire cuando ve el ataque contra los civiles. Kaladin parte en dirección a la mansión."
+          ]
+        },
+        {
+          "id": "primary252-11-moash-duel-fused-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
+          ]
+        },
+        {
+          "id": "primary252-11-moash-duel-fused-4",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska."
+          ]
+        },
+        {
+          "id": "primary252-11-moash-duel-fused-5",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Aire sobre la torre de Leshwi",
+          "placeId": "place-row11-kholinar-air-over-spire",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Sale por la abertura del techo para meditar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale por la abertura del techo para meditar."
+          ]
+        },
+        {
+          "id": "primary252-11-moash-duel-fused-7",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitación de Venli debajo de la Alta Cámara",
+          "placeId": "place-row11-kholinar-venli-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Baja hasta la habitación de Venli y la advierte de un posible vuelco en la guerra.",
+          "needsConfirmation": [],
+          "notes": [
+            "Baja hasta la habitación de Venli y la advierte de un posible vuelco en la guerra."
           ]
         }
       ]
@@ -390788,6 +391692,20 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "name": "Lezian, el Perseguidor",
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "status": "confirmed",
+          "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Leshwi dice que Kaladin ha matado a Lezian en la incursión de Piedralar.",
+          "sourceIds": [
+            "primary252-row-11"
+          ]
+        }
+      ],
       "events": [
         {
           "id": "primary242-1-fused-hearthstone-row1-5",
@@ -393173,6 +394091,696 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vod-row11",
+      "name": "Vod",
+      "initial": "V",
+      "role": "Sirviente al que Venli arregla la camisa y el fajín al subir a la Alta Cámara.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary252-11-vod-row11-1",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Escalera de la torre de Leshwi",
+          "placeId": "place-row11-kholinar-spire-stair",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Sube por la escalera de la torre antes del regreso de Leshwi.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sube por la escalera de la torre antes del regreso de Leshwi."
+          ]
+        },
+        {
+          "id": "primary252-11-vod-row11-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dul-row11",
+      "name": "Dul",
+      "initial": "D",
+      "role": "Cautormentas de Leshwi y colaborador de Venli.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary252-11-dul-row11-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
+          ]
+        },
+        {
+          "id": "primary252-11-dul-row11-4",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska."
+          ]
+        },
+        {
+          "id": "primary252-11-dul-row11-6",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitación de Venli debajo de la Alta Cámara",
+          "placeId": "place-row11-kholinar-venli-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Participa en la reunión privada en la habitación de Venli.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión privada en la habitación de Venli."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mazish-row11",
+      "name": "Mazish",
+      "initial": "M",
+      "role": "Colabora con Venli y vigila fuera durante la reunión privada.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary252-11-mazish-row11-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
+          ]
+        },
+        {
+          "id": "primary252-11-mazish-row11-6",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitación de Venli debajo de la Alta Cámara",
+          "placeId": "place-row11-kholinar-venli-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Participa en la reunión privada en la habitación de Venli.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión privada en la habitación de Venli."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shumin-row11",
+      "name": "Shumin",
+      "initial": "S",
+      "role": "Nueva recluta a la que Leshwi acepta como ayudante del cautormentas.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary252-11-shumin-row11-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
+          ]
+        },
+        {
+          "id": "primary252-11-shumin-row11-3",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Borde abierto de la Alta Cámara",
+          "placeId": "place-row11-kholinar-high-chamber-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Se acerca al borde abierto durante la prueba de altura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se acerca al borde abierto durante la prueba de altura."
+          ]
+        },
+        {
+          "id": "primary252-11-shumin-row11-4",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska."
+          ]
+        },
+        {
+          "id": "primary252-11-shumin-row11-6",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Habitación de Venli debajo de la Alta Cámara",
+          "placeId": "place-row11-kholinar-venli-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Participa en la reunión privada en la habitación de Venli.",
+          "needsConfirmation": [],
+          "notes": [
+            "Participa en la reunión privada en la habitación de Venli."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yokska-row11",
+      "name": "Yokska",
+      "initial": "Y",
+      "role": "Modista humana que se presenta ante Leshwi.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary252-11-yokska-row11-4",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara durante la aceptación de Shumin o la presentación de Yokska."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leshwi-barber-row11",
+      "name": "Barbero de Leshwi",
+      "initial": "B",
+      "role": "Afeita a Leshwi tras su regreso a la Alta Cámara.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary252-11-leshwi-barber-row11-2",
+          "scene": "row-chapter-11",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Alta Cámara de Leshwi",
+          "placeId": "place-row11-kholinar-high-chamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary252-row-11",
+          "sourceIds": [
+            "primary252-row-11"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-11"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml. Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la Alta Cámara cuando Leshwi vuelve y atiende a sus sirvientes."
           ]
         }
       ]
