@@ -4687,6 +4687,20 @@
       "oroden",
       "roshone",
       "syl"
+    ],
+    "row-chapter-3": [
+      "dalinar",
+      "dieno-enne-calah",
+      "edgedancer-boarding-row3",
+      "falilar",
+      "kaladin",
+      "kmakl-ob58",
+      "lirin",
+      "lyn",
+      "navani",
+      "ob68-sibling-epigraph",
+      "rushu",
+      "velat-mentioned-pr69"
     ]
   },
   "knowledgeArchive": {
@@ -16866,6 +16880,23 @@
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/2.Medula.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Navani conoce al Hermano como un spren poderoso ligado en el pasado a la torre y capaz de vincular a un Forjador de Vínculos.",
+        "sourceIds": [
+          "primary244-row-3"
+        ],
+        "id": "primary244-archive-row3-urithiru-sibling",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "Navani conoce al Hermano como un spren poderoso ligado en el pasado a la torre y capaz de vincular a un Forjador de Vínculos.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-3"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
         "supersedes": []
       }
     ],
@@ -79285,6 +79316,253 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Velat pide a Navani que se aparte de la borda y a Dalinar que intervenga.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-velat-navani-rail",
+      "participants": [
+        "velat-mentioned-pr69",
+        "navani",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Velat pide a Navani que se aparte de la borda y a Dalinar que intervenga.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Velat pide a Navani que se aparte de la borda y a Dalinar que intervenga.",
+        "pairs": [
+          [
+            "velat-mentioned-pr69",
+            "navani"
+          ],
+          [
+            "velat-mentioned-pr69",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Navani y Kmakl hablan del rendimiento de la plataforma y de las consecuencias para las armadas.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-navani-kmakl-airship",
+      "participants": [
+        "navani",
+        "kmakl-ob58"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Navani y Kmakl hablan del rendimiento de la plataforma y de las consecuencias para las armadas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani y Kmakl hablan del rendimiento de la plataforma y de las consecuencias para las armadas.",
+        "pairs": [
+          [
+            "navani",
+            "kmakl-ob58"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Kaladin presenta a Lirin. El cirujano pregunta por el uso de la nave como hospital móvil y por la evacuación.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-lirin-dalinar-hospital",
+      "participants": [
+        "kaladin",
+        "dalinar",
+        "lirin"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Kaladin presenta a Lirin. El cirujano pregunta por el uso de la nave como hospital móvil y por la evacuación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin presenta a Lirin. El cirujano pregunta por el uso de la nave como hospital móvil y por la evacuación.",
+        "pairs": [
+          [
+            "kaladin",
+            "dalinar"
+          ],
+          [
+            "lirin",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Dalinar renueva la luz tormentosa de Kaladin. Navani anota lo observado y habla con Dalinar sobre las gemas de Urithiru.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-dalinar-renews-kaladin",
+      "participants": [
+        "dalinar",
+        "kaladin",
+        "navani"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+      },
+      "type": "cooperation",
+      "summary": "Dalinar renueva la luz tormentosa de Kaladin. Navani anota lo observado y habla con Dalinar sobre las gemas de Urithiru.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar renueva la luz tormentosa de Kaladin. Navani anota lo observado y habla con Dalinar sobre las gemas de Urithiru.",
+        "pairs": [
+          [
+            "dalinar",
+            "kaladin"
+          ],
+          [
+            "dalinar",
+            "navani"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. El Visón aparece en el puesto de ingeniería y usa los mapas para señalar a sus soldados aislados. Dalinar se compromete a ayudarlos.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-mink-fourth-bridge-request",
+      "participants": [
+        "dieno-enne-calah",
+        "dalinar",
+        "navani",
+        "velat-mentioned-pr69"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "El Visón aparece en el puesto de ingeniería y usa los mapas para señalar a sus soldados aislados. Dalinar se compromete a ayudarlos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Visón aparece en el puesto de ingeniería y usa los mapas para señalar a sus soldados aislados. Dalinar se compromete a ayudarlos.",
+        "pairs": [
+          [
+            "dieno-enne-calah",
+            "dalinar"
+          ],
+          [
+            "dieno-enne-calah",
+            "navani"
+          ],
+          [
+            "dieno-enne-calah",
+            "velat-mentioned-pr69"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Lyn avisa desde cubierta de que se acercan tres escuadrones de Fusionados.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-lyn-fused-warning",
+      "participants": [
+        "lyn",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Lyn avisa desde cubierta de que se acercan tres escuadrones de Fusionados.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lyn avisa desde cubierta de que se acercan tres escuadrones de Fusionados.",
+        "pairs": [
+          [
+            "lyn",
+            "dalinar"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -118465,6 +118743,86 @@
       "kind": "background",
       "text": "Trae una plataforma flotante escoltada por Corredores del Viento para evacuar a la población. En este capítulo se ve llegar la plataforma.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Joven Radiante que sale del Cuarto Puente para ayudar en la evacuación. Navani no da su nombre en este pasaje.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-edgedancer-boarding-row3-intro",
+      "characterId": "edgedancer-boarding-row3",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "Joven Radiante que sale del Cuarto Puente para ayudar en la evacuación. Navani no da su nombre en este pasaje.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. El Cuarto Puente emplea sistemas separados de gemas conjuntadas para regular altura y desplazamiento horizontal. La sección de madera del antiguo puente está incrustada en su cubierta.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-fourth-bridge-design",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "El Cuarto Puente emplea sistemas separados de gemas conjuntadas para regular altura y desplazamiento horizontal. La sección de madera del antiguo puente está incrustada en su cubierta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Pide a Dalinar que rescate a los supervivientes de su ejército, dispersos en cuatro hondonadas entre Piedralar y Herdaz. El rescate queda acordado.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-mink-fourth-bridge-rescue-request",
+      "characterId": "dieno-enne-calah",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "Pide a Dalinar que rescate a los supervivientes de su ejército, dispersos en cuatro hondonadas entre Piedralar y Herdaz. El rescate queda acordado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Propone explorar el uso de una plataforma como hospital móvil.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-lirin-airship-hospital-idea",
+      "characterId": "lirin",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "Propone explorar el uso de una plataforma como hospital móvil.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Estudia si la columna de gemas alimentaba Urithiru. Dalinar informa de que su intento de infundir esa columna no funcionó.",
+      "sourceIds": [
+        "primary244-row-3"
+      ],
+      "id": "primary244-urithiru-gem-pillar",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "Estudia si la columna de gemas alimentaba Urithiru. Dalinar informa de que su intento de infundir esa columna no funcionó.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -121214,6 +121572,10 @@
         {
           "revision": 243,
           "notes": "El encuentro de Kaladin con sus padres y Oroden confirma parentescos ya registrados. Lyn se documenta como antigua pareja según el relato de Syl."
+        },
+        {
+          "revision": 244,
+          "notes": "El capítulo confirma el matrimonio de Kmakl y Fen y el parentesco de Lirin y Kaladin, ambos ya registrados. Elhokar figura en los recuerdos de su madre Navani."
         }
       ]
     }
@@ -124465,7 +124827,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 243,
+  "revision": 244,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -127821,6 +128183,14 @@
       "label": "Capítulo 2 · Médula",
       "part": "row-1",
       "source": "primary243-row-2"
+    },
+    {
+      "id": "row-chapter-3",
+      "bookId": "row",
+      "chapter": 3,
+      "label": "Capítulo 3 · Cuarto",
+      "part": "row-1",
+      "source": "primary244-row-3"
     }
   ],
   "experiencePresentation": {
@@ -148512,6 +148882,102 @@
           "needsConfirmation": [],
           "notes": [
             "Está cerca de los refugiados cuando la plataforma de evacuación llega a la vista."
+          ]
+        },
+        {
+          "id": "primary244-3-kaladin-4",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Se reúne en la parte delantera de cubierta tras el aterrizaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en la parte delantera de cubierta tras el aterrizaje."
+          ]
+        },
+        {
+          "id": "primary244-3-kaladin-5",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Recupera luz tormentosa y cruza la cubierta hasta la sección que incorpora el antiguo puente.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recupera luz tormentosa y cruza la cubierta hasta la sección que incorpora el antiguo puente."
           ]
         }
       ]
@@ -192845,6 +193311,198 @@
           "notes": [
             "Navani ve a Dalinar entre los invitados."
           ]
+        },
+        {
+          "id": "primary244-3-dalinar-1",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Borda del Cuarto Puente en vuelo",
+          "placeId": "place-row3-fourth-bridge-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está en cubierta mientras Navani se asoma por la borda durante la aproximación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta mientras Navani se asoma por la borda durante la aproximación."
+          ]
+        },
+        {
+          "id": "primary244-3-dalinar-4",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Se reúne en la parte delantera de cubierta tras el aterrizaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en la parte delantera de cubierta tras el aterrizaje."
+          ]
+        },
+        {
+          "id": "primary244-3-dalinar-6",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta."
+          ]
+        },
+        {
+          "id": "primary244-3-dalinar-7",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está en cubierta cuando Lyn aterriza y avisa de los escuadrones de Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta cuando Lyn aterriza y avisa de los escuadrones de Fusionados."
+          ]
         }
       ]
     },
@@ -219602,6 +220260,294 @@
           "notes": [
             "Regresa a la despensa y encuentra vacío el saquito de Gavilar."
           ]
+        },
+        {
+          "id": "primary244-3-navani-1",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Borda del Cuarto Puente en vuelo",
+          "placeId": "place-row3-fourth-bridge-rail",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está en cubierta mientras Navani se asoma por la borda durante la aproximación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta mientras Navani se asoma por la borda durante la aproximación."
+          ]
+        },
+        {
+          "id": "primary244-3-navani-2",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto al puesto de mando e ingeniería durante la llegada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al puesto de mando e ingeniería durante la llegada."
+          ]
+        },
+        {
+          "id": "primary244-3-navani-3",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Habla del rendimiento del Cuarto Puente y del futuro de las armadas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla del rendimiento del Cuarto Puente y del futuro de las armadas."
+          ]
+        },
+        {
+          "id": "primary244-3-navani-4",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Se reúne en la parte delantera de cubierta tras el aterrizaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en la parte delantera de cubierta tras el aterrizaje."
+          ]
+        },
+        {
+          "id": "primary244-3-navani-6",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta."
+          ]
+        },
+        {
+          "id": "primary244-3-navani-7",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está en cubierta cuando Lyn aterriza y avisa de los escuadrones de Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta cuando Lyn aterriza y avisa de los escuadrones de Fusionados."
+          ]
         }
       ]
     },
@@ -245906,6 +246852,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está cerca de los refugiados cuando la plataforma de evacuación llega a la vista."
+          ]
+        },
+        {
+          "id": "primary244-3-lirin-4",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Se reúne en la parte delantera de cubierta tras el aterrizaje.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en la parte delantera de cubierta tras el aterrizaje."
           ]
         }
       ]
@@ -305265,6 +306259,54 @@
           "notes": [
             "Hace una última ronda por las ruinas tras la batalla."
           ]
+        },
+        {
+          "id": "primary244-3-rushu-2",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto al puesto de mando e ingeniería durante la llegada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al puesto de mando e ingeniería durante la llegada."
+          ]
         }
       ]
     },
@@ -306596,6 +307638,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary244-3-lyn-7",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Parte delantera de la cubierta superior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-upper-deck",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está en cubierta cuando Lyn aterriza y avisa de los escuadrones de Fusionados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en cubierta cuando Lyn aterriza y avisa de los escuadrones de Fusionados."
           ]
         }
       ]
@@ -340895,6 +341985,54 @@
           "notes": [
             "Baja con los investigadores para inspeccionar las gemas."
           ]
+        },
+        {
+          "id": "primary244-3-falilar-2",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto al puesto de mando e ingeniería durante la llegada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al puesto de mando e ingeniería durante la llegada."
+          ]
         }
       ]
     },
@@ -347788,6 +348926,150 @@
           "needsConfirmation": [],
           "notes": [
             "Presencia individualizada en la tienda del mapa."
+          ]
+        },
+        {
+          "id": "primary244-3-velat-mentioned-pr69-1",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Desde la cubierta advierte a Navani que se aleje de la borda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Desde la cubierta advierte a Navani que se aleje de la borda."
+          ]
+        },
+        {
+          "id": "primary244-3-velat-mentioned-pr69-2",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto al puesto de mando e ingeniería durante la llegada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al puesto de mando e ingeniería durante la llegada."
+          ]
+        },
+        {
+          "id": "primary244-3-velat-mentioned-pr69-6",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta."
           ]
         }
       ]
@@ -359069,6 +360351,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el refugio de la muralla durante el enfrentamiento con los captores."
+          ]
+        },
+        {
+          "id": "primary244-3-kmakl-ob58-3",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Habla del rendimiento del Cuarto Puente y del futuro de las armadas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla del rendimiento del Cuarto Puente y del futuro de las armadas."
           ]
         }
       ]
@@ -378987,6 +380317,54 @@
           "notes": [
             "Está junto al control mientras trasladan en camilla a un acompañante del Visón."
           ]
+        },
+        {
+          "id": "primary244-3-dieno-enne-calah-6",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Puesto de mando e ingeniería del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-command",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las mesas del puesto de ingeniería cuando el Visón se presenta."
+          ]
         }
       ]
     },
@@ -379949,6 +381327,113 @@
           "needsConfirmation": [],
           "notes": [
             "Interviene en el encuentro con los soldados tras el regreso de Kaladin."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edgedancer-boarding-row3",
+      "name": "Danzante del Filo que tropieza al desembarcar",
+      "initial": "D",
+      "role": "Joven Radiante que sale del Cuarto Puente para ayudar en la evacuación. Navani no da su nombre en este pasaje.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary244-3-edgedancer-boarding-row3-3",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Entrada de la bodega inferior del Cuarto Puente",
+          "placeId": "place-row3-fourth-bridge-lower-hold",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Sale por las puertas del nivel inferior con los demás Danzantes del Filo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale por las puertas del nivel inferior con los demás Danzantes del Filo."
+          ]
+        },
+        {
+          "id": "primary244-3-edgedancer-boarding-row3-4",
+          "scene": "row-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Suelo junto al Cuarto Puente al posarse",
+          "placeId": "place-row3-fourth-bridge-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary244-row-3",
+          "sourceIds": [
+            "primary244-row-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Continuación de la evacuación de Piedralar; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-3"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml. Tropieza con una roca al saltar fuera de la plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tropieza con una roca al saltar fuera de la plataforma."
           ]
         }
       ]
