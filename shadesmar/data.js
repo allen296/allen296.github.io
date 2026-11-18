@@ -4701,6 +4701,15 @@ window.ATLAS_DATA = {
       "ob68-sibling-epigraph",
       "rushu",
       "velat-mentioned-pr69"
+    ],
+    "row-chapter-4": [
+      "ialai",
+      "pattern",
+      "shallan",
+      "sons-honor-fabrial-operator-row4",
+      "sons-honor-speaker-row4",
+      "sons-honor-tall-man-row4",
+      "sons-honor-woman-row4"
     ]
   },
   "knowledgeArchive": {
@@ -79563,6 +79572,58 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Los Hijos de Honor interrogan y someten a prueba a Shallan, a quien llaman Chanasha Hasareh. Velo sostiene la identidad de infiltración hasta que Shallan toma la palabra.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-shallan-sons-initiation",
+      "participants": [
+        "shallan",
+        "sons-honor-speaker-row4",
+        "sons-honor-woman-row4",
+        "sons-honor-tall-man-row4",
+        "sons-honor-fabrial-operator-row4"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de la infiltración de Shallan."
+      },
+      "type": "conversation",
+      "summary": "Los Hijos de Honor interrogan y someten a prueba a Shallan, a quien llaman Chanasha Hasareh. Velo sostiene la identidad de infiltración hasta que Shallan toma la palabra.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los Hijos de Honor interrogan y someten a prueba a Shallan, a quien llaman Chanasha Hasareh. Velo sostiene la identidad de infiltración hasta que Shallan toma la palabra.",
+        "pairs": [
+          [
+            "shallan",
+            "sons-honor-speaker-row4"
+          ],
+          [
+            "shallan",
+            "sons-honor-woman-row4"
+          ],
+          [
+            "shallan",
+            "sons-honor-tall-man-row4"
+          ],
+          [
+            "shallan",
+            "sons-honor-fabrial-operator-row4"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -118823,6 +118884,166 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Estudia si la columna de gemas alimentaba Urithiru. Dalinar informa de que su intento de infundir esa columna no funcionó.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Habla desde la primera fila y da paso a la iniciación.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-sons-honor-speaker-row4-intro",
+      "characterId": "sons-honor-speaker-row4",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Habla desde la primera fila y da paso a la iniciación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Dirige parte de la iniciación. Velo sospecha que es Ulina.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-sons-honor-woman-row4-intro",
+      "characterId": "sons-honor-woman-row4",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Dirige parte de la iniciación. Velo sospecha que es Ulina.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Sujeta a la aspirante y, al final, intenta taparle de nuevo la cabeza.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-sons-honor-tall-man-row4-intro",
+      "characterId": "sons-honor-tall-man-row4",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Sujeta a la aspirante y, al final, intenta taparle de nuevo la cabeza.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Saca del saco un dispositivo con granates para examinar a la aspirante.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-sons-honor-fabrial-operator-row4-intro",
+      "characterId": "sons-honor-fabrial-operator-row4",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Saca del saco un dispositivo con granates para examinar a la aspirante.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Los Hijos de Honor la llaman Chanasha Hasareh durante la iniciación. Radiante, Velo y Shallan alternan el control en esa misma presencia física.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-chanasha-cover",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Los Hijos de Honor la llaman Chanasha Hasareh durante la iniciación. Radiante, Velo y Shallan alternan el control en esa misma presencia física.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Había hecho llegar al grupo un fabrial que simula desenmascarar ilusiones. Los sectarios lo usan durante la iniciación y creen que ha validado su identidad.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-sons-honor-false-illusion-test",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Había hecho llegar al grupo un fabrial que simula desenmascarar ilusiones. Los sectarios lo usan durante la iniciación y creen que ha validado su identidad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Velo cree reconocer a Ulina, escriba del círculo de Ialai. La mujer lleva la cara oculta y su identidad no se confirma en el pasaje.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-ulina-suspected-at-initiation",
+      "characterId": "sons-honor-woman-row4",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Velo cree reconocer a Ulina, escriba del círculo de Ialai. La mujer lleva la cara oculta y su identidad no se confirma en el pasaje.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Un sectario afirma tener una fuente próxima a Dalinar. Shallan considera tanto el riesgo de infiltración como la posibilidad de que esté mintiendo.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-sons-honor-inner-source-claim",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Un sectario afirma tener una fuente próxima a Dalinar. Shallan considera tanto el riesgo de infiltración como la posibilidad de que esté mintiendo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Shallan espera que la siga a distancia según sus instrucciones. La escena no muestra dónde está Patrón.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-pattern-asked-to-follow",
+      "characterId": "pattern",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Shallan espera que la siga a distancia según sus instrucciones. La escena no muestra dónde está Patrón.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Los reclutadores exigen un juramento de lealtad a Ialai. La mencionan como su reina, sin que Shallan confirme que esté en la ceremonia.",
+      "sourceIds": [
+        "primary245-row-4"
+      ],
+      "id": "primary245-ialai-recruitment-allegiance",
+      "characterId": "ialai",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Los reclutadores exigen un juramento de lealtad a Ialai. La mencionan como su reina, sin que Shallan confirme que esté en la ceremonia.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -124827,7 +125048,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 244,
+  "revision": 245,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -128191,6 +128412,14 @@ window.ATLAS_DATA = {
       "label": "Capítulo 3 · Cuarto",
       "part": "row-1",
       "source": "primary244-row-3"
+    },
+    {
+      "id": "row-chapter-4",
+      "bookId": "row",
+      "chapter": 4,
+      "label": "Capítulo 4 · Arquitectos",
+      "part": "row-1",
+      "source": "primary245-row-4"
     }
   ],
   "experiencePresentation": {
@@ -167977,6 +168206,147 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
+          ]
+        },
+        {
+          "id": "primary245-4-shallan-1",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Traslado con la cabeza cubierta hacia la iniciación",
+          "placeId": "place-row4-sons-honor-transfer",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row4-sons-honor-transfer",
+          "coordinateAnchorName": "Traslado con la cabeza cubierta hacia la iniciación",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Radiante despierta mientras la llevan al hombro y con un saco en la cabeza. No alcanza a ver el trayecto.",
+          "needsConfirmation": [],
+          "notes": [
+            "Radiante despierta mientras la llevan al hombro y con un saco en la cabeza. No alcanza a ver el trayecto."
+          ]
+        },
+        {
+          "id": "primary245-4-shallan-2",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Abismo de la iniciación de los Hijos de Honor",
+          "placeId": "place-row4-sons-honor-chasm",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Está en el abismo durante la ceremonia de iniciación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el abismo durante la ceremonia de iniciación."
+          ]
+        },
+        {
+          "id": "primary245-4-shallan-3",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Abismo de la iniciación de los Hijos de Honor",
+          "placeId": "place-row4-sons-honor-chasm",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Velo cede el control a Shallan, que interrumpe la ceremonia antes de que le vuelvan a cubrir la cabeza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Velo cede el control a Shallan, que interrumpe la ceremonia antes de que le vuelvan a cubrir la cabeza."
           ]
         }
       ]
@@ -381434,6 +381804,242 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Tropieza con una roca al saltar fuera de la plataforma."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-honor-speaker-row4",
+      "name": "Hombre de voz grave de los Hijos de Honor",
+      "initial": "H",
+      "role": "Habla desde la primera fila y da paso a la iniciación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary245-4-sons-honor-speaker-row4-2",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Abismo de la iniciación de los Hijos de Honor",
+          "placeId": "place-row4-sons-honor-chasm",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Está en el abismo durante la ceremonia de iniciación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el abismo durante la ceremonia de iniciación."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-honor-woman-row4",
+      "name": "Mujer encapuchada de los Hijos de Honor",
+      "initial": "M",
+      "role": "Dirige parte de la iniciación. Velo sospecha que es Ulina.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary245-4-sons-honor-woman-row4-2",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Abismo de la iniciación de los Hijos de Honor",
+          "placeId": "place-row4-sons-honor-chasm",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Está en el abismo durante la ceremonia de iniciación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el abismo durante la ceremonia de iniciación."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-honor-tall-man-row4",
+      "name": "Hombre alto de los Hijos de Honor",
+      "initial": "H",
+      "role": "Sujeta a la aspirante y, al final, intenta taparle de nuevo la cabeza.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary245-4-sons-honor-tall-man-row4-2",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Abismo de la iniciación de los Hijos de Honor",
+          "placeId": "place-row4-sons-honor-chasm",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Está en el abismo durante la ceremonia de iniciación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el abismo durante la ceremonia de iniciación."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-honor-fabrial-operator-row4",
+      "name": "Encapuchado con el fabrial de prueba",
+      "initial": "E",
+      "role": "Saca del saco un dispositivo con granates para examinar a la aspirante.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary245-4-sons-honor-fabrial-operator-row4-2",
+          "scene": "row-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Abismo de la iniciación de los Hijos de Honor",
+          "placeId": "place-row4-sons-honor-chasm",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary245-row-4",
+          "sourceIds": [
+            "primary245-row-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de la infiltración de Shallan."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-4"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml. Está en el abismo durante la ceremonia de iniciación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el abismo durante la ceremonia de iniciación."
           ]
         }
       ]
