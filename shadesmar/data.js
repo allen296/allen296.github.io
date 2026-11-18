@@ -4840,6 +4840,33 @@ window.ATLAS_DATA = {
       "venli",
       "vod-row11",
       "yokska-row11"
+    ],
+    "row-chapter-12": [
+      "adolin",
+      "cord",
+      "dakhnah-companion-row12",
+      "dakhnah-father-row12",
+      "dakhnah-row12",
+      "hem-row12",
+      "jezs-duty-server-row12",
+      "jor",
+      "ka",
+      "ka-sister-row12",
+      "kaladin",
+      "kara-row12",
+      "kryst-row12",
+      "leyten",
+      "lopen",
+      "marni-row12",
+      "pattern",
+      "ristina",
+      "rock",
+      "shallan",
+      "sigzil",
+      "skar",
+      "syl",
+      "teft",
+      "tuaka"
     ]
   },
   "knowledgeArchive": {
@@ -17249,6 +17276,57 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/11.Pasion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Sale a buscar a Adolin para que acompañe a Kaladin y luego curiosea por la cantina.",
+        "sourceIds": [
+          "primary253-row-12"
+        ],
+        "id": "primary253-archive-row12-syl-adolin-help",
+        "entryId": "spren-person-syl",
+        "value": "Sale a buscar a Adolin para que acompañe a Kaladin y luego curiosea por la cantina.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-12"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Se congregan como chorros de polvo en los aposentos de Kaladin.",
+        "sourceIds": [
+          "primary253-row-12"
+        ],
+        "id": "primary253-archive-row12-kaladin-exhaustionspren",
+        "entryId": "spren-type-exhaustionspren",
+        "value": "Se congregan como chorros de polvo en los aposentos de Kaladin.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-12"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Se manifiestan como rostros de piedra invertidos y retorcidos cerca de Kaladin.",
+        "sourceIds": [
+          "primary253-row-12"
+        ],
+        "id": "primary253-archive-row12-kaladin-painspren",
+        "entryId": "spren-type-painspren",
+        "value": "Se manifiestan como rostros de piedra invertidos y retorcidos cerca de Kaladin.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-12"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
         "supersedes": []
       }
     ],
@@ -33404,6 +33482,87 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "El narrador presenta juntos al zapatero Leven y a su esposa."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Jor presenta a Kryst como su esposa en la celebración de su boda.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-jor-kryst",
+      "from": "jor",
+      "to": "kryst-row12",
+      "kind": "spouse",
+      "label": "Matrimonio",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Jor presenta a Kryst como su esposa en la celebración de su boda."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Jor presenta a Kryst como su esposa en la celebración de su boda."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Adolin identifica a Dakhnah como hija de un general de Dalinar.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-dakhnah-father",
+      "from": "dakhnah-father-row12",
+      "to": "dakhnah-row12",
+      "kind": "parent",
+      "label": "Padre e hija",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Adolin identifica a Dakhnah como hija de un general de Dalinar."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Adolin identifica a Dakhnah como hija de un general de Dalinar."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Velo menciona a la hermana de Ka.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-ka-sister",
+      "from": "ka",
+      "to": "ka-sister-row12",
+      "kind": "sibling",
+      "label": "Hermanos",
+      "category": "family",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Velo menciona a la hermana de Ka."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Velo menciona a la hermana de Ka."
       }
     }
   ],
@@ -81478,6 +81637,282 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Los amigos de Kaladin intentan animarlo al llegar a la torre. Leyten pide estofado y Kara bromea con Roca.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-urithiru-return-banter",
+      "participants": [
+        "kaladin",
+        "skar",
+        "sigzil",
+        "leyten",
+        "rock",
+        "kara-row12"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Los amigos de Kaladin intentan animarlo al llegar a la torre. Leyten pide estofado y Kara bromea con Roca.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los amigos de Kaladin intentan animarlo al llegar a la torre. Leyten pide estofado y Kara bromea con Roca.",
+        "pairs": [
+          [
+            "kaladin",
+            "skar"
+          ],
+          [
+            "kaladin",
+            "sigzil"
+          ],
+          [
+            "leyten",
+            "rock"
+          ],
+          [
+            "kara-row12",
+            "rock"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Adolin llega con Syl a los aposentos de Kaladin y lo invita a pasar la velada acompañado.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-adolin-syl-kaladin-outing",
+      "participants": [
+        "adolin",
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Adolin llega con Syl a los aposentos de Kaladin y lo invita a pasar la velada acompañado.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin llega con Syl a los aposentos de Kaladin y lo invita a pasar la velada acompañado.",
+        "pairs": [
+          [
+            "adolin",
+            "kaladin"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Hablan en el reservado de la misión y de sus dificultades. Adolin escucha a Kaladin y expresa su preocupación por él y por Shallan.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-jezs-duty-booth-conversation",
+      "participants": [
+        "kaladin",
+        "shallan",
+        "adolin",
+        "pattern",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Hablan en el reservado de la misión y de sus dificultades. Adolin escucha a Kaladin y expresa su preocupación por él y por Shallan.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan en el reservado de la misión y de sus dificultades. Adolin escucha a Kaladin y expresa su preocupación por él y por Shallan.",
+        "pairs": [
+          [
+            "kaladin",
+            "shallan"
+          ],
+          [
+            "kaladin",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "kaladin",
+            "pattern"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Kaladin pide naranja y Velo insiste en que la camarera respete su elección.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-kaladin-drink-order",
+      "participants": [
+        "kaladin",
+        "jezs-duty-server-row12",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Kaladin pide naranja y Velo insiste en que la camarera respete su elección.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin pide naranja y Velo insiste en que la camarera respete su elección.",
+        "pairs": [
+          [
+            "kaladin",
+            "jezs-duty-server-row12"
+          ],
+          [
+            "shallan",
+            "jezs-duty-server-row12"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Jor presenta a su esposa Kryst y Adolin entrega un regalo a la pareja.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-jor-kryst-wedding-gift",
+      "participants": [
+        "jor",
+        "adolin",
+        "kryst-row12"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Jor presenta a su esposa Kryst y Adolin entrega un regalo a la pareja.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Jor presenta a su esposa Kryst y Adolin entrega un regalo a la pareja.",
+        "pairs": [
+          [
+            "jor",
+            "adolin"
+          ],
+          [
+            "kryst-row12",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Roca anuncia que regresará para afrontar la justicia de su pueblo. Kaladin le da su bendición y se despiden con un abrazo.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-rock-kaladin-farewell",
+      "participants": [
+        "rock",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Roca anuncia que regresará para afrontar la justicia de su pueblo. Kaladin le da su bendición y se despiden con un abrazo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Roca anuncia que regresará para afrontar la justicia de su pueblo. Kaladin le da su bendición y se despiden con un abrazo.",
+        "pairs": [
+          [
+            "rock",
+            "kaladin"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -121618,6 +122053,214 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Plantea un lugar donde los cantores puedan decidir su futuro y rechazar los papeles que les imponen.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Integra el grupo que regresa a Urithiru y bromea con Roca.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-kara-row12-intro",
+      "characterId": "kara-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Integra el grupo que regresa a Urithiru y bromea con Roca.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Ofrece vino a Kaladin y recibe su pedido de naranja.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-jezs-duty-server-row12-intro",
+      "characterId": "jezs-duty-server-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Ofrece vino a Kaladin y recibe su pedido de naranja.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Camarera de El Deber de Jez a quien Velo señala durante la conversación.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-hem-row12-intro",
+      "characterId": "hem-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Camarera de El Deber de Jez a quien Velo señala durante la conversación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Hija de un general de Dalinar y antigua cortejada de Adolin.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-dakhnah-row12-intro",
+      "characterId": "dakhnah-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Hija de un general de Dalinar y antigua cortejada de Adolin.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Llega con Dakhnah a El Deber de Jez.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-dakhnah-companion-row12-intro",
+      "characterId": "dakhnah-companion-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Llega con Dakhnah a El Deber de Jez.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Esposa de Jor, que la presenta a Adolin durante la celebración.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-kryst-row12-intro",
+      "characterId": "kryst-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Esposa de Jor, que la presenta a Adolin durante la celebración.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. General de Dalinar. Adolin dice que Dakhnah ha sido escriba de sus reuniones.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-dakhnah-father-row12-intro",
+      "characterId": "dakhnah-father-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "General de Dalinar. Adolin dice que Dakhnah ha sido escriba de sus reuniones.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Velo la propone en la conversación sobre posibles parejas de Kaladin.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-ka-sister-row12-intro",
+      "characterId": "ka-sister-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Velo la propone en la conversación sobre posibles parejas de Kaladin.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Adolin la menciona al criticar los uniformes de la cantina.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-marni-row12-intro",
+      "characterId": "marni-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Adolin la menciona al criticar los uniformes de la cantina.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Adolin confirma que la cortejó en el pasado.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-dakhnah-courted-adolin",
+      "characterId": "dakhnah-row12",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Adolin confirma que la cortejó en el pasado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Adolin dice que Cikatriz ha empezado una relación con Ristina.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-ristina-skar-courtship",
+      "characterId": "ristina",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Adolin dice que Cikatriz ha empezado una relación con Ristina.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Decide regresar con Canción y sus hijos menores. Cuerda y Don quieren quedarse. Kaladin autoriza que Cikatriz y Drehy los acompañen como escolta. El capítulo muestra su salida de la cantina, antes del viaje.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-row12-rock-return-plan",
+      "characterId": "rock",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Decide regresar con Canción y sus hijos menores. Cuerda y Don quieren quedarse. Kaladin autoriza que Cikatriz y Drehy los acompañen como escolta. El capítulo muestra su salida de la cantina, antes del viaje.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Roca dice que Cuerda quiere quedarse y entrenarse.",
+      "sourceIds": [
+        "primary253-row-12"
+      ],
+      "id": "primary253-row12-cord-stays-to-train",
+      "characterId": "cord",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-12"
+      },
+      "kind": "background",
+      "text": "Roca dice que Cuerda quiere quedarse y entrenarse.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -124395,6 +125038,10 @@ window.ATLAS_DATA = {
         {
           "revision": 252,
           "notes": "Venli recuerda a su hermana Eshonai. El parentesco ya está registrado y el recuerdo no añade una presencia en Kholinar."
+        },
+        {
+          "revision": 253,
+          "notes": "Añadidos el matrimonio de Jor y Kryst, el padre de Dakhnah y la hermana de Ka. La familia de Roca conserva sus fichas y los planes de viaje no generan llegadas a los Picos."
         }
       ]
     }
@@ -127731,7 +128378,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 252,
+  "revision": 253,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -131159,6 +131806,14 @@ window.ATLAS_DATA = {
       "label": "Capítulo 11 · Pasión",
       "part": "row-1",
       "source": "primary252-row-11"
+    },
+    {
+      "id": "row-chapter-12",
+      "bookId": "row",
+      "chapter": 12,
+      "label": "Capítulo 12 · Forma",
+      "part": "row-1",
+      "source": "primary253-row-12"
     }
   ],
   "experiencePresentation": {
@@ -153217,6 +153872,339 @@ window.ATLAS_DATA = {
           "notes": [
             "Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin."
           ]
+        },
+        {
+          "id": "primary253-12-kaladin-1",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Regresa a Urithiru por la plataforma de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la plataforma de la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary253-12-kaladin-2",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada de la torre desde la Puerta Jurada",
+          "placeId": "place-row12-urithiru-entry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está con el grupo al llegar a la entrada de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo al llegar a la entrada de la torre."
+          ]
+        },
+        {
+          "id": "primary253-12-kaladin-3",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Kaladin",
+          "placeId": "place-urithiru-kaladin-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Entra solo en sus aposentos y se sienta junto a la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra solo en sus aposentos y se sienta junto a la puerta."
+          ]
+        },
+        {
+          "id": "primary253-12-kaladin-4",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Kaladin",
+          "placeId": "place-urithiru-kaladin-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la habitación cuando Adolin llega con Syl y propone salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la habitación cuando Adolin llega con Syl y propone salir."
+          ]
+        },
+        {
+          "id": "primary253-12-kaladin-5",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Mercado de los Diez Anillos",
+          "placeId": "place-row12-urithiru-ten-rings",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Cruza los Diez Anillos de camino a la cantina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza los Diez Anillos de camino a la cantina."
+          ]
+        },
+        {
+          "id": "primary253-12-kaladin-6",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en el reservado durante la conversación y el servicio de las bebidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado durante la conversación y el servicio de las bebidas."
+          ]
+        },
+        {
+          "id": "primary253-12-kaladin-9",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Habla en privado sobre la decisión de Roca de volver a los Picos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en privado sobre la decisión de Roca de volver a los Picos."
+          ]
         }
       ]
     },
@@ -173221,6 +174209,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Viaja en carruaje y examina la libreta de Ialai durante el trayecto."
           ]
+        },
+        {
+          "id": "primary253-12-shallan-6",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en el reservado durante la conversación y el servicio de las bebidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado durante la conversación y el servicio de las bebidas."
+          ]
         }
       ]
     },
@@ -185911,6 +186947,148 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin."
+          ]
+        },
+        {
+          "id": "primary253-12-syl-1",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Regresa a Urithiru por la plataforma de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la plataforma de la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary253-12-syl-4",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Kaladin",
+          "placeId": "place-urithiru-kaladin-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la habitación cuando Adolin llega con Syl y propone salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la habitación cuando Adolin llega con Syl y propone salir."
+          ]
+        },
+        {
+          "id": "primary253-12-syl-5",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Mercado de los Diez Anillos",
+          "placeId": "place-row12-urithiru-ten-rings",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Cruza los Diez Anillos de camino a la cantina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza los Diez Anillos de camino a la cantina."
           ]
         }
       ]
@@ -211301,6 +212479,197 @@ window.ATLAS_DATA = {
           "notes": [
             "Viaja en carruaje y examina la libreta de Ialai durante el trayecto."
           ]
+        },
+        {
+          "id": "primary253-12-adolin-4",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Kaladin",
+          "placeId": "place-urithiru-kaladin-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la habitación cuando Adolin llega con Syl y propone salir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la habitación cuando Adolin llega con Syl y propone salir."
+          ]
+        },
+        {
+          "id": "primary253-12-adolin-5",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Mercado de los Diez Anillos",
+          "placeId": "place-row12-urithiru-ten-rings",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Cruza los Diez Anillos de camino a la cantina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cruza los Diez Anillos de camino a la cantina."
+          ]
+        },
+        {
+          "id": "primary253-12-adolin-6",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en el reservado durante la conversación y el servicio de las bebidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado durante la conversación y el servicio de las bebidas."
+          ]
+        },
+        {
+          "id": "primary253-12-adolin-8",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Jor presenta a Kryst y Adolin les entrega un regalo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jor presenta a Kryst y Adolin les entrega un regalo."
+          ]
         }
       ]
     },
@@ -232012,6 +233381,245 @@ window.ATLAS_DATA = {
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
+        },
+        {
+          "id": "primary253-12-rock-1",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Regresa a Urithiru por la plataforma de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la plataforma de la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary253-12-rock-2",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada de la torre desde la Puerta Jurada",
+          "placeId": "place-row12-urithiru-entry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está con el grupo al llegar a la entrada de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo al llegar a la entrada de la torre."
+          ]
+        },
+        {
+          "id": "primary253-12-rock-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        },
+        {
+          "id": "primary253-12-rock-9",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Habla en privado sobre la decisión de Roca de volver a los Picos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla en privado sobre la decisión de Roca de volver a los Picos."
+          ]
+        },
+        {
+          "id": "primary253-12-rock-10",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta de El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-door",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Roca recoge a Canción y sale de la cantina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Roca recoge a Canción y sale de la cantina."
+          ]
         }
       ]
     },
@@ -235648,6 +237256,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
+        },
+        {
+          "id": "primary253-12-teft-2",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada de la torre desde la Puerta Jurada",
+          "placeId": "place-row12-urithiru-entry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está con el grupo al llegar a la entrada de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo al llegar a la entrada de la torre."
           ]
         }
       ]
@@ -251282,6 +252938,53 @@ window.ATLAS_DATA = {
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
+        },
+        {
+          "id": "primary253-12-lopen-1",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Regresa a Urithiru por la plataforma de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la plataforma de la Puerta Jurada."
+          ]
         }
       ]
     },
@@ -253056,6 +254759,53 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
+        },
+        {
+          "id": "primary253-12-sigzil-1",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Regresa a Urithiru por la plataforma de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la plataforma de la Puerta Jurada."
           ]
         }
       ]
@@ -262709,6 +264459,53 @@ window.ATLAS_DATA = {
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
+        },
+        {
+          "id": "primary253-12-skar-1",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Llegada por la Puerta Jurada",
+          "placeId": "place-urithiru-oathgate-arrival",
+          "realm": "physical",
+          "placeNotes": [
+            "Punto y dependencia exactos pendientes de cotejo; no afirmar precisión superior al anclaje disponible."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Regresa a Urithiru por la plataforma de la Puerta Jurada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a Urithiru por la plataforma de la Puerta Jurada."
+          ]
         }
       ]
     },
@@ -266624,6 +268421,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
+        },
+        {
+          "id": "primary253-12-leyten-2",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada de la torre desde la Puerta Jurada",
+          "placeId": "place-row12-urithiru-entry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está con el grupo al llegar a la entrada de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo al llegar a la entrada de la torre."
           ]
         }
       ]
@@ -275477,6 +277322,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Encuentra el compartimento del muro que esconde la libreta."
+          ]
+        },
+        {
+          "id": "primary253-12-pattern-6",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en el reservado durante la conversación y el servicio de las bebidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado durante la conversación y el servicio de las bebidas."
           ]
         }
       ]
@@ -321948,6 +323841,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla con Shallan y trata de ayudarla al verla afectada por la bebida."
           ]
+        },
+        {
+          "id": "primary253-12-jor-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        },
+        {
+          "id": "primary253-12-jor-8",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Jor presenta a Kryst y Adolin les entrega un regalo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jor presenta a Kryst y Adolin les entrega un regalo."
+          ]
         }
       ]
     },
@@ -332188,6 +334177,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El grupo se dirige al puente hacia la Puerta Jurada."
+          ]
+        },
+        {
+          "id": "primary253-12-tuaka-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        },
+        {
+          "id": "primary253-12-tuaka-10",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Puerta de El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-door",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Roca recoge a Canción y sale de la cantina.",
+          "needsConfirmation": [],
+          "notes": [
+            "Roca recoge a Canción y sale de la cantina."
           ]
         }
       ]
@@ -394784,6 +396869,438 @@ window.ATLAS_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "kara-row12",
+      "name": "Kara",
+      "initial": "K",
+      "role": "Integra el grupo que regresa a Urithiru y bromea con Roca.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary253-12-kara-row12-2",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada de la torre desde la Puerta Jurada",
+          "placeId": "place-row12-urithiru-entry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está con el grupo al llegar a la entrada de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está con el grupo al llegar a la entrada de la torre."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jezs-duty-server-row12",
+      "name": "Cantinera que atiende el reservado",
+      "initial": "C",
+      "role": "Ofrece vino a Kaladin y recibe su pedido de naranja.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary253-12-jezs-duty-server-row12-6",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en el reservado durante la conversación y el servicio de las bebidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el reservado durante la conversación y el servicio de las bebidas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hem-row12",
+      "name": "Hem",
+      "initial": "H",
+      "role": "Camarera de El Deber de Jez a quien Velo señala durante la conversación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary253-12-hem-row12-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dakhnah-row12",
+      "name": "Dakhnah",
+      "initial": "D",
+      "role": "Hija de un general de Dalinar y antigua cortejada de Adolin.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary253-12-dakhnah-row12-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dakhnah-companion-row12",
+      "name": "Acompañante de Dakhnah",
+      "initial": "A",
+      "role": "Llega con Dakhnah a El Deber de Jez.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary253-12-dakhnah-companion-row12-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kryst-row12",
+      "name": "Kryst",
+      "initial": "K",
+      "role": "Esposa de Jor, que la presenta a Adolin durante la celebración.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary253-12-kryst-row12-7",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cantina El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Está en la cantina durante la celebración de la boda.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cantina durante la celebración de la boda."
+          ]
+        },
+        {
+          "id": "primary253-12-kryst-row12-8",
+          "scene": "row-chapter-12",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Reservado de Adolin en El Deber de Jez",
+          "placeId": "place-row12-urithiru-jezs-duty-booth",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary253-row-12",
+          "sourceIds": [
+            "primary253-row-12"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-12"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml. Jor presenta a Kryst y Adolin les entrega un regalo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jor presenta a Kryst y Adolin les entrega un regalo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dakhnah-father-row12",
+      "name": "Padre de Dakhnah",
+      "initial": "P",
+      "role": "General de Dalinar. Adolin dice que Dakhnah ha sido escriba de sus reuniones.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ka-sister-row12",
+      "name": "Hermana de Ka",
+      "initial": "H",
+      "role": "Velo la propone en la conversación sobre posibles parejas de Kaladin.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "marni-row12",
+      "name": "Marni",
+      "initial": "M",
+      "role": "Adolin la menciona al criticar los uniformes de la cantina.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
     }
   ]
 };
