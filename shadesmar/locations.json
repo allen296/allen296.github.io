@@ -4807,6 +4807,28 @@
       "shallan",
       "syl",
       "teft"
+    ],
+    "row-chapter-10": [
+      "dalinar",
+      "drehy",
+      "ialai",
+      "kaladin",
+      "laran-obi14",
+      "leyten",
+      "lopen",
+      "lyn",
+      "narak-battalionlord-row10",
+      "navani",
+      "peet",
+      "renarin",
+      "rock",
+      "shen",
+      "sigzil",
+      "skar",
+      "syl",
+      "teft",
+      "vratim-row10",
+      "yunfah-row10"
     ]
   },
   "knowledgeArchive": {
@@ -5414,6 +5436,15 @@
       {
         "id": "spren-type-distressspren",
         "section": "spren-types"
+      },
+      {
+        "id": "spren-person-yunfah",
+        "section": "spren-individuals",
+        "characterId": "yunfah-row10",
+        "characterRevealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-10"
+        }
       }
     ],
     "facts": [
@@ -17122,6 +17153,57 @@
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/9.Contradicciones.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Yunfah",
+        "sourceIds": [
+          "primary251-row-10"
+        ],
+        "id": "primary251-archive-name-yunfah",
+        "entryId": "spren-person-yunfah",
+        "field": "name",
+        "value": "Yunfah",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-10"
+        },
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Vuela en forma de un anciano sobre una nube. Estuvo vinculado a Vratim y considera opciones para un nuevo vínculo.",
+        "sourceIds": [
+          "primary251-row-10"
+        ],
+        "id": "primary251-archive-yunfah-first-appearance",
+        "entryId": "spren-person-yunfah",
+        "value": "Vuela en forma de un anciano sobre una nube. Estuvo vinculado a Vratim y considera opciones para un nuevo vínculo.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-10"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Aparecen debajo de Kaladin cuando reacciona a la decisión de Dalinar.",
+        "sourceIds": [
+          "primary251-row-10"
+        ],
+        "id": "primary251-archive-kaladin-narak-angerspren",
+        "entryId": "spren-type-angerspren",
+        "value": "Aparecen debajo de Kaladin cuando reacciona a la decisión de Dalinar.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-10"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
         "supersedes": []
       }
     ],
@@ -80976,6 +81058,135 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Syl interpreta la conversación en vuelo. Kaladin pide a Yunfah que intente trabajar con Rlain durante diez días antes de elegir a otra persona.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-kaladin-yunfah-rlain",
+      "participants": [
+        "kaladin",
+        "yunfah-row10",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Syl interpreta la conversación en vuelo. Kaladin pide a Yunfah que intente trabajar con Rlain durante diez días antes de elegir a otra persona.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl interpreta la conversación en vuelo. Kaladin pide a Yunfah que intente trabajar con Rlain durante diez días antes de elegir a otra persona.",
+        "pairs": [
+          [
+            "kaladin",
+            "yunfah-row10"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "syl",
+            "yunfah-row10"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Dalinar recibe el informe sobre Ialai, ordena difundir la versión del suicidio y autoriza ocupar los campamentos de guerra.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-dalinar-narak-battalion-report",
+      "participants": [
+        "dalinar",
+        "narak-battalionlord-row10"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Dalinar recibe el informe sobre Ialai, ordena difundir la versión del suicidio y autoriza ocupar los campamentos de guerra.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar recibe el informe sobre Ialai, ordena difundir la versión del suicidio y autoriza ocupar los campamentos de guerra.",
+        "pairs": [
+          [
+            "dalinar",
+            "narak-battalionlord-row10"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Hablan del combate contra los Celestiales y de la falta de nuevos honorspren. Dalinar retira a Kaladin del servicio activo y le da diez días para comunicar qué puesto prefiere.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-dalinar-kaladin-narak-service",
+      "participants": [
+        "dalinar",
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Hablan del combate contra los Celestiales y de la falta de nuevos honorspren. Dalinar retira a Kaladin del servicio activo y le da diez días para comunicar qué puesto prefiere.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del combate contra los Celestiales y de la falta de nuevos honorspren. Dalinar retira a Kaladin del servicio activo y le da diez días para comunicar qué puesto prefiere.",
+        "pairs": [
+          [
+            "dalinar",
+            "kaladin"
+          ],
+          [
+            "dalinar",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -120876,6 +121087,102 @@
       "kind": "background",
       "text": "Ella y Adolin entregan a los prisioneros en una meseta fortificada y ordenan trasladarlos a Narak para interrogarlos. En este capítulo no se muestra que hayan llegado.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Honorspren que había estado vinculado a Vratim y está considerando un nuevo vínculo.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-yunfah-row10-intro",
+      "characterId": "yunfah-row10",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Honorspren que había estado vinculado a Vratim y está considerando un nuevo vínculo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Corredor del Viento que estuvo vinculado a Yunfah. Kaladin recuerda que murió meses antes.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-vratim-row10-intro",
+      "characterId": "vratim-row10",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Corredor del Viento que estuvo vinculado a Yunfah. Kaladin recuerda que murió meses antes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Entrega un informe a Dalinar. Lleva un tatuaje de la Vieja Sangre.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-narak-battalionlord-row10-intro",
+      "characterId": "narak-battalionlord-row10",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Entrega un informe a Dalinar. Lleva un tatuaje de la Vieja Sangre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Dalinar lo retira del servicio activo y le ofrece funciones de apoyo. Kaladin interpreta lo ocurrido como una baja personal, en sentido figurado.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-row10-active-duty-removal",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Dalinar lo retira del servicio activo y le ofrece funciones de apoyo. Kaladin interpreta lo ocurrido como una baja personal, en sentido figurado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin propone a Rlain como candidato para Yunfah. No se muestra a Rlain en la conversación ni se establece un vínculo.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-row10-rlain-proposed-bond",
+      "characterId": "shen",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Kaladin propone a Rlain como candidato para Yunfah. No se muestra a Rlain en la conversación ni se establece un vínculo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Dalinar dispone que se haga pública la versión del suicidio. Es la versión comunicada y no resuelve la causa de la muerte.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-row10-ialai-public-version",
+      "characterId": "ialai",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Dalinar dispone que se haga pública la versión del suicidio. Es la versión comunicada y no resuelve la causa de la muerte.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -126928,6 +127235,23 @@
       "notes": [
         "Kaladin encuentra su cadáver encadenado junto al de Jeber."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin recuerda que Vratim murió meses antes. El capítulo no sitúa esa muerte.",
+      "sourceIds": [
+        "primary251-row-10"
+      ],
+      "id": "primary251-vratim-reported-death",
+      "characterId": "vratim-row10",
+      "state": "reported-dead",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "notes": [
+        "Kaladin recuerda que Vratim murió meses antes. El capítulo no sitúa esa muerte."
+      ]
     }
   ],
   "bookId": "wok",
@@ -126968,7 +127292,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 250,
+  "revision": 251,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -130380,6 +130704,14 @@
       "label": "Capítulo 9 · Contradicciones",
       "part": "row-1",
       "source": "primary250-row-9"
+    },
+    {
+      "id": "row-chapter-10",
+      "bookId": "row",
+      "chapter": 10,
+      "label": "Capítulo 10 · Sola, baja",
+      "part": "row-1",
+      "source": "primary251-row-10"
     }
   ],
   "experiencePresentation": {
@@ -152220,6 +152552,198 @@
           "needsConfirmation": [],
           "notes": [
             "Se desplaza por aire con la comitiva que se adelanta a la nave."
+          ]
+        },
+        {
+          "id": "primary251-10-kaladin-1",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Aproximación aérea a Narak",
+          "placeId": "place-row10-narak-air-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Habla o vuela junto a la comitiva durante la aproximación a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o vuela junto a la comitiva durante la aproximación a Narak."
+          ]
+        },
+        {
+          "id": "primary251-10-kaladin-2",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Muralla oriental de la meseta fortificada",
+          "placeId": "place-row10-narak-eastern-wall",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Llega a la muralla oriental y observa las obras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la muralla oriental y observa las obras."
+          ]
+        },
+        {
+          "id": "primary251-10-kaladin-4",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Zona de aterrizaje junto a la muralla",
+          "placeId": "place-row10-narak-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón."
+          ]
+        },
+        {
+          "id": "primary251-10-kaladin-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Paso entre los dos graneros",
+          "placeId": "place-row10-narak-granaries",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin."
           ]
         }
       ]
@@ -184724,6 +185248,198 @@
           "notes": [
             "Está junto a la borda cuando el Cuarto Puente deja Piedralar."
           ]
+        },
+        {
+          "id": "primary251-10-syl-1",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Aproximación aérea a Narak",
+          "placeId": "place-row10-narak-air-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Habla o vuela junto a la comitiva durante la aproximación a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o vuela junto a la comitiva durante la aproximación a Narak."
+          ]
+        },
+        {
+          "id": "primary251-10-syl-2",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Muralla oriental de la meseta fortificada",
+          "placeId": "place-row10-narak-eastern-wall",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Llega a la muralla oriental y observa las obras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la muralla oriental y observa las obras."
+          ]
+        },
+        {
+          "id": "primary251-10-syl-3",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Columna escalonada del borde de la meseta",
+          "placeId": "place-row10-narak-watch-column",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Vuela alrededor de la columna escalonada junto al borde de la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Vuela alrededor de la columna escalonada junto al borde de la meseta."
+          ]
+        },
+        {
+          "id": "primary251-10-syl-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Paso entre los dos graneros",
+          "placeId": "place-row10-narak-granaries",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin."
+          ]
         }
       ]
     },
@@ -198706,6 +199422,198 @@
           "needsConfirmation": [],
           "notes": [
             "Se desplaza por aire con la comitiva que se adelanta a la nave."
+          ]
+        },
+        {
+          "id": "primary251-10-dalinar-2",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Zona de aterrizaje junto a la muralla",
+          "placeId": "place-row10-narak-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Llega a la meseta con la comitiva aérea. Navani sigue dentro de su vehículo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la meseta con la comitiva aérea. Navani sigue dentro de su vehículo."
+          ]
+        },
+        {
+          "id": "primary251-10-dalinar-4",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Zona de aterrizaje junto a la muralla",
+          "placeId": "place-row10-narak-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón."
+          ]
+        },
+        {
+          "id": "primary251-10-dalinar-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Paso entre los dos graneros",
+          "placeId": "place-row10-narak-granaries",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está entre los graneros durante la conversación privada sobre el servicio activo de Kaladin."
+          ]
+        },
+        {
+          "id": "primary251-10-dalinar-6",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Tras hablar con Kaladin, vuelve hacia los otros Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras hablar con Kaladin, vuelve hacia los otros Corredores del Viento."
           ]
         }
       ]
@@ -214106,6 +215014,54 @@
           "notes": [
             "Permanece en el sótano cuando Renarin ayuda a Kaladin a ponerse en pie."
           ]
+        },
+        {
+          "id": "primary251-10-renarin-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -226421,6 +227377,54 @@
           "notes": [
             "Tras aterrizar cerca del centro de las Llanuras Quebradas, usa el rubí para responder por vinculacaña."
           ]
+        },
+        {
+          "id": "primary251-10-navani-2",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Zona de aterrizaje junto a la muralla",
+          "placeId": "place-row10-narak-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Llega a la meseta con la comitiva aérea. Navani sigue dentro de su vehículo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Llega a la meseta con la comitiva aérea. Navani sigue dentro de su vehículo."
+          ]
         }
       ]
     },
@@ -230488,6 +231492,54 @@
           "notes": [
             "Está en cubierta durante la apertura de la perpendicularidad."
           ]
+        },
+        {
+          "id": "primary251-10-rock-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -234076,6 +235128,54 @@
           "needsConfirmation": [],
           "notes": [
             "Se desplaza por aire con la comitiva que se adelanta a la nave."
+          ]
+        },
+        {
+          "id": "primary251-10-teft-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
         }
       ]
@@ -249662,6 +250762,54 @@
           "notes": [
             "Está cerca de las casas y los evacuados durante la persecución a baja altura."
           ]
+        },
+        {
+          "id": "primary251-10-lopen-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -251388,6 +252536,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el espacio aéreo del combate en que Leshwi hiere a Sigzil."
+          ]
+        },
+        {
+          "id": "primary251-10-sigzil-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
         }
       ]
@@ -260993,6 +262189,54 @@
           "notes": [
             "Combate en el aire cuando Leshwi pasa entre él y otro Fusionado."
           ]
+        },
+        {
+          "id": "primary251-10-skar-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -263426,6 +264670,54 @@
           "notes": [
             "Está en la formación que defiende la evacuación."
           ]
+        },
+        {
+          "id": "primary251-10-drehy-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -264812,6 +266104,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary251-10-leyten-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
         }
       ]
@@ -315717,6 +317057,54 @@
           "notes": [
             "Está en el sector aéreo donde Kaladin detecta al Fusionado y pide a Lyn que avise a los demás."
           ]
+        },
+        {
+          "id": "primary251-10-lyn-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -327352,6 +328740,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la sala común cuando se descubren los heridos del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary251-10-peet-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
         }
       ]
@@ -383655,6 +385091,54 @@
           "notes": [
             "Está en cubierta cuando Kaladin felicita a Laran y le pide que invoque su hoja."
           ]
+        },
+        {
+          "id": "primary251-10-laran-obi14-5",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Patio de la base fortificada",
+          "placeId": "place-row10-narak-yard",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
+          ]
         }
       ]
     },
@@ -391564,6 +393048,134 @@
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
       "events": []
+    },
+    {
+      "id": "yunfah-row10",
+      "name": "Yunfah",
+      "initial": "Y",
+      "role": "Honorspren que había estado vinculado a Vratim y está considerando un nuevo vínculo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary251-10-yunfah-row10-1",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Aproximación aérea a Narak",
+          "placeId": "place-row10-narak-air-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Habla o vuela junto a la comitiva durante la aproximación a Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o vuela junto a la comitiva durante la aproximación a Narak."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vratim-row10",
+      "name": "Vratim",
+      "initial": "V",
+      "role": "Corredor del Viento que estuvo vinculado a Yunfah. Kaladin recuerda que murió meses antes.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "narak-battalionlord-row10",
+      "name": "Señor de batallón al mando de Narak",
+      "initial": "S",
+      "role": "Entrega un informe a Dalinar. Lleva un tatuaje de la Vieja Sangre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary251-10-narak-battalionlord-row10-4",
+          "scene": "row-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Zona de aterrizaje junto a la muralla",
+          "placeId": "place-row10-narak-landing",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary251-row-10",
+          "sourceIds": [
+            "primary251-row-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-10"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml. Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la zona de llegada cuando Dalinar recibe el informe del señor de batallón."
+          ]
+        }
+      ]
     }
   ]
 }
