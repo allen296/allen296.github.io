@@ -4656,6 +4656,22 @@
       "rushur-kris-rowpro",
       "sadeas",
       "short-ambassador-wor-prologue"
+    ],
+    "row-chapter-1": [
+      "abiajan-row1",
+      "aric",
+      "dieno-enne-calah",
+      "dor-row1",
+      "durnash-row1",
+      "fused-hearthstone-row1",
+      "fused-interpreter-hearthstone-row1",
+      "herdazian-child-hearthstone-row1",
+      "herdazian-mother-hearthstone-row1",
+      "hesina",
+      "kaladin",
+      "laral",
+      "lirin",
+      "roshone"
     ]
   },
   "knowledgeArchive": {
@@ -16767,6 +16783,40 @@
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Se ven junto a los refugiados de la fila de Piedralar.",
+        "sourceIds": [
+          "primary242-row-1"
+        ],
+        "id": "primary242-archive-row1-hearthstone-hungerspren",
+        "entryId": "spren-type-hungerspren",
+        "value": "Se ven junto a los refugiados de la fila de Piedralar.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-1"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. En el epígrafe, Navani explica que una hoguera ayuda a atraer a un llamaspren para un fabrial.",
+        "sourceIds": [
+          "primary242-row-1"
+        ],
+        "id": "primary242-archive-row1-epigraph-flamespren",
+        "entryId": "spren-type-flamespren",
+        "value": "En el epígrafe, Navani explica que una hoguera ayuda a atraer a un llamaspren para un fabrial.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-1"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
         "supersedes": []
       }
     ],
@@ -78787,6 +78837,174 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Lirin examina al niño e indica a su madre cómo conseguir zumo.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-lirin-refugee-treatment",
+      "participants": [
+        "lirin",
+        "herdazian-mother-hearthstone-row1"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Lirin examina al niño e indica a su madre cómo conseguir zumo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lirin examina al niño e indica a su madre cómo conseguir zumo.",
+        "pairs": [
+          [
+            "lirin",
+            "herdazian-mother-hearthstone-row1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Laral indica en qué lugar de la fila espera el Visón. Lirin lo atiende y pide a Aric una camilla para facilitar el paso.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-lirin-laral-mink",
+      "participants": [
+        "lirin",
+        "laral",
+        "dieno-enne-calah",
+        "aric"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Laral indica en qué lugar de la fila espera el Visón. Lirin lo atiende y pide a Aric una camilla para facilitar el paso.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Laral indica en qué lugar de la fila espera el Visón. Lirin lo atiende y pide a Aric una camilla para facilitar el paso.",
+        "pairs": [
+          [
+            "lirin",
+            "laral"
+          ],
+          [
+            "lirin",
+            "dieno-enne-calah"
+          ],
+          [
+            "lirin",
+            "aric"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Dor compara con los retratos la cara del hombre que llevan en la camilla.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-lirin-dor-checkpoint",
+      "participants": [
+        "lirin",
+        "dor-row1"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Dor compara con los retratos la cara del hombre que llevan en la camilla.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dor compara con los retratos la cara del hombre que llevan en la camilla.",
+        "pairs": [
+          [
+            "lirin",
+            "dor-row1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Abiajan llama a Lirin. La intérprete comunica la búsqueda de un hombre con el glifo shash.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-hearthstone-spy-search",
+      "participants": [
+        "abiajan-row1",
+        "lirin",
+        "fused-interpreter-hearthstone-row1",
+        "fused-hearthstone-row1"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Abiajan llama a Lirin. La intérprete comunica la búsqueda de un hombre con el glifo shash.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Abiajan llama a Lirin. La intérprete comunica la búsqueda de un hombre con el glifo shash.",
+        "pairs": [
+          [
+            "abiajan-row1",
+            "lirin"
+          ],
+          [
+            "lirin",
+            "fused-interpreter-hearthstone-row1"
+          ],
+          [
+            "fused-hearthstone-row1",
+            "fused-interpreter-hearthstone-row1"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -117727,6 +117945,166 @@
       "kind": "background",
       "text": "Tras ver el cadáver de Gavilar, descubre que el saquito que llevaba está vacío. No presencia el asesinato.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. El Visón. General y líder de la resistencia herdaziana.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-dieno-enne-calah-intro",
+      "characterId": "dieno-enne-calah",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "El Visón. General y líder de la resistencia herdaziana.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Consistora de Piedralar al servicio de los Fusionados.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-abiajan-row1-intro",
+      "characterId": "abiajan-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Consistora de Piedralar al servicio de los Fusionados.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Cantor armado que pasa junto a Lirin y Laral durante la inspección.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-durnash-row1-intro",
+      "characterId": "durnash-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Cantor armado que pasa junto a Lirin y Laral durante la inspección.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Cantor asignado a comprobar los retratos en la garita de Piedralar.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-dor-row1-intro",
+      "characterId": "dor-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Cantor asignado a comprobar los retratos en la garita de Piedralar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Dirige la búsqueda del hombre con el glifo shash.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-fused-hearthstone-row1-intro",
+      "characterId": "fused-hearthstone-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Dirige la búsqueda del hombre con el glifo shash.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Cantora en forma de guerra que traduce las preguntas del Fusionado.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-fused-interpreter-hearthstone-row1-intro",
+      "characterId": "fused-interpreter-hearthstone-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Cantora en forma de guerra que traduce las preguntas del Fusionado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Llega con un hijo y espera noticias de los otros.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-herdazian-mother-hearthstone-row1-intro",
+      "characterId": "herdazian-mother-hearthstone-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Llega con un hijo y espera noticias de los otros.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Lirin le examina las encías y recomienda zumo cada mañana.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-herdazian-child-hearthstone-row1-intro",
+      "characterId": "herdazian-child-hearthstone-row1",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Lirin le examina las encías y recomienda zumo cada mañana.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Un subalterno retira su capucha en la fila. Lirin lo reconoce justo antes de que Kaladin se ilumine.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-kaladin-discovered-hearthstone",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Un subalterno retira su capucha en la fila. Lirin lo reconoce justo antes de que Kaladin se ilumine.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Lirin lo presenta como marido de Laral y antiguo consistor. Distrae a los guardias en el control.",
+      "sourceIds": [
+        "primary242-row-1"
+      ],
+      "id": "primary242-roshone-laral-distraction",
+      "characterId": "roshone",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "Lirin lo presenta como marido de Laral y antiguo consistor. Distrae a los guardias en el control.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -123706,7 +124084,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 241,
+  "revision": 242,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -127046,6 +127424,14 @@
       "memoryEventLabel": "Noche de la muerte de Gavilar",
       "memoryPerspective": "Navani",
       "narrativeFrame": "flashback"
+    },
+    {
+      "id": "row-chapter-1",
+      "bookId": "row",
+      "chapter": 1,
+      "label": "Capítulo 1 · Callosidades",
+      "part": "row-1",
+      "source": "primary242-row-1"
     }
   ],
   "experiencePresentation": {
@@ -147257,6 +147643,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en el atrio al concluir el vuelo y antes de la audiencia reshi."
+          ]
+        },
+        {
+          "id": "primary242-1-kaladin-5",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Tramo de la fila registrado por los soldados del Fusionado",
+          "placeId": "place-row1-hearthstone-inspection-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash."
           ]
         }
       ]
@@ -244076,6 +244510,198 @@
           "notes": [
             "Sale del salón, entrega una esfera y decide quedarse para atender al pueblo."
           ]
+        },
+        {
+          "id": "primary242-1-lirin-1",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la fila durante el primer reconocimiento de refugiados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la fila durante el primer reconocimiento de refugiados."
+          ]
+        },
+        {
+          "id": "primary242-1-lirin-3",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Pasa o permanece junto a la fila antes del control del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa o permanece junto a la fila antes del control del Visón."
+          ]
+        },
+        {
+          "id": "primary242-1-lirin-4",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está junto al control mientras trasladan en camilla a un acompañante del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al control mientras trasladan en camilla a un acompañante del Visón."
+          ]
+        },
+        {
+          "id": "primary242-1-lirin-5",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Tramo de la fila registrado por los soldados del Fusionado",
+          "placeId": "place-row1-hearthstone-inspection-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash."
+          ]
         }
       ]
     },
@@ -244478,6 +245104,102 @@
           "needsConfirmation": [],
           "notes": [
             "Presenta a Oroden y organiza el intercambio de esferas."
+          ]
+        },
+        {
+          "id": "primary242-1-hesina-2",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la garita mientras los guardias comparan rostros con retratos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la garita mientras los guardias comparan rostros con retratos."
+          ]
+        },
+        {
+          "id": "primary242-1-hesina-4",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está junto al control mientras trasladan en camilla a un acompañante del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al control mientras trasladan en camilla a un acompañante del Visón."
           ]
         }
       ]
@@ -245186,6 +245908,54 @@
           "notes": [
             "Escucha el discurso de Kaladin en los escalones junto a Roshone."
           ]
+        },
+        {
+          "id": "primary242-1-laral-3",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Pasa o permanece junto a la fila antes del control del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa o permanece junto a la fila antes del control del Visón."
+          ]
         }
       ]
     },
@@ -245684,6 +246454,54 @@
           "needsConfirmation": [],
           "notes": [
             "Escucha el discurso desde la escalera."
+          ]
+        },
+        {
+          "id": "primary242-1-roshone-4",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Edificio donde Roshone distrae a los guardias",
+          "placeId": "place-row1-hearthstone-crem-roof",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Distrae a los inspectores haciendo ademán de raspar el crem del tejado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Distrae a los inspectores haciendo ademán de raspar el crem del tejado."
           ]
         }
       ]
@@ -302093,6 +302911,54 @@
           "needsConfirmation": [],
           "notes": [
             "Relata la huida de los parshmenios y se marcha con los guardias."
+          ]
+        },
+        {
+          "id": "primary242-1-aric-1",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la fila durante el primer reconocimiento de refugiados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la fila durante el primer reconocimiento de refugiados."
           ]
         }
       ]
@@ -376568,6 +377434,670 @@
           "needsConfirmation": [],
           "notes": [
             "Está en la cocina cuando Navani dispone que usen su reserva de vino."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dieno-enne-calah",
+      "name": "Dieno enne Calah",
+      "initial": "D",
+      "role": "El Visón. General y líder de la resistencia herdaziana.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-dieno-enne-calah-3",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Pasa o permanece junto a la fila antes del control del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa o permanece junto a la fila antes del control del Visón."
+          ]
+        },
+        {
+          "id": "primary242-1-dieno-enne-calah-4",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está junto al control mientras trasladan en camilla a un acompañante del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al control mientras trasladan en camilla a un acompañante del Visón."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abiajan-row1",
+      "name": "Abiajan",
+      "initial": "A",
+      "role": "Consistora de Piedralar al servicio de los Fusionados.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-abiajan-row1-3",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Pasa o permanece junto a la fila antes del control del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa o permanece junto a la fila antes del control del Visón."
+          ]
+        },
+        {
+          "id": "primary242-1-abiajan-row1-5",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Tramo de la fila registrado por los soldados del Fusionado",
+          "placeId": "place-row1-hearthstone-inspection-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "durnash-row1",
+      "name": "Durnash",
+      "initial": "D",
+      "role": "Cantor armado que pasa junto a Lirin y Laral durante la inspección.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-durnash-row1-3",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Pasa o permanece junto a la fila antes del control del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa o permanece junto a la fila antes del control del Visón."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dor-row1",
+      "name": "Dor",
+      "initial": "D",
+      "role": "Cantor asignado a comprobar los retratos en la garita de Piedralar.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-dor-row1-4",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está junto al control mientras trasladan en camilla a un acompañante del Visón.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto al control mientras trasladan en camilla a un acompañante del Visón."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fused-hearthstone-row1",
+      "name": "Fusionado que registra Piedralar",
+      "initial": "F",
+      "role": "Dirige la búsqueda del hombre con el glifo shash.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-fused-hearthstone-row1-5",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Tramo de la fila registrado por los soldados del Fusionado",
+          "placeId": "place-row1-hearthstone-inspection-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fused-interpreter-hearthstone-row1",
+      "name": "Intérprete del Fusionado en Piedralar",
+      "initial": "I",
+      "role": "Cantora en forma de guerra que traduce las preguntas del Fusionado.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-fused-interpreter-hearthstone-row1-5",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Tramo de la fila registrado por los soldados del Fusionado",
+          "placeId": "place-row1-hearthstone-inspection-approach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el tramo de la fila donde los soldados buscan al hombre de la marca shash."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "herdazian-mother-hearthstone-row1",
+      "name": "Madre refugiada de Herdaz",
+      "initial": "M",
+      "role": "Llega con un hijo y espera noticias de los otros.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-herdazian-mother-hearthstone-row1-1",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la fila durante el primer reconocimiento de refugiados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la fila durante el primer reconocimiento de refugiados."
+          ]
+        },
+        {
+          "id": "primary242-1-herdazian-mother-hearthstone-row1-2",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la garita mientras los guardias comparan rostros con retratos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la garita mientras los guardias comparan rostros con retratos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "herdazian-child-hearthstone-row1",
+      "name": "Niño refugiado atendido por Lirin",
+      "initial": "N",
+      "role": "Lirin le examina las encías y recomienda zumo cada mañana.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary242-1-herdazian-child-hearthstone-row1-1",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Fila y reconocimiento de refugiados",
+          "placeId": "place-row1-hearthstone-refugee-queue",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la fila durante el primer reconocimiento de refugiados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la fila durante el primer reconocimiento de refugiados."
+          ]
+        },
+        {
+          "id": "primary242-1-herdazian-child-hearthstone-row1-2",
+          "scene": "row-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Garita de inspección",
+          "placeId": "place-row1-hearthstone-guard-post",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary242-row-1",
+          "sourceIds": [
+            "primary242-row-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-1"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml. Está en la garita mientras los guardias comparan rostros con retratos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la garita mientras los guardias comparan rostros con retratos."
           ]
         }
       ]
