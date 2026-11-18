@@ -4642,6 +4642,20 @@ window.ATLAS_DATA = {
       "rushu",
       "rysn",
       "rysn-gift-larkin"
+    ],
+    "row-prologue": [
+      "aesudan",
+      "crescent-scar-stranger",
+      "dalinar",
+      "gavilar",
+      "gereh-rowpro",
+      "hatham",
+      "maratham-rowpro",
+      "navani",
+      "palace-cook-rowpro",
+      "rushur-kris-rowpro",
+      "sadeas",
+      "short-ambassador-wor-prologue"
     ]
   },
   "knowledgeArchive": {
@@ -16702,6 +16716,57 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "Esquirla del amanecer, EPUB español, OEBPS/Text/Epilogo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Aparecen en las cocinas mientras el personal prepara el banquete.",
+        "sourceIds": [
+          "primary241-row-prologue"
+        ],
+        "id": "primary241-archive-rowpro-kitchen-expectaspren",
+        "entryId": "spren-type-anticipationspren",
+        "value": "Aparecen en las cocinas mientras el personal prepara el banquete.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-prologue"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Se acumulan a los pies de Navani en los jardines.",
+        "sourceIds": [
+          "primary241-row-prologue"
+        ],
+        "id": "primary241-archive-rowpro-navani-angerspren",
+        "entryId": "spren-type-angerspren",
+        "value": "Se acumulan a los pies de Navani en los jardines.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-prologue"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Aparecen como triángulos de luz quebrada cuando Navani comprende que Gavilar ha muerto.",
+        "sourceIds": [
+          "primary241-row-prologue"
+        ],
+        "id": "primary241-archive-rowpro-navani-surprisespren",
+        "entryId": "spren-type-surprisespren",
+        "value": "Aparecen como triángulos de luz quebrada cuando Navani comprende que Gavilar ha muerto.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-prologue"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
         "supersedes": []
       }
     ],
@@ -78503,6 +78568,225 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Aesudan aparta a Navani del grupo que observa el fabrial de Kris.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-navani-aesudan-kris",
+      "participants": [
+        "navani",
+        "aesudan",
+        "rushur-kris-rowpro"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+      },
+      "type": "conversation",
+      "summary": "Aesudan aparta a Navani del grupo que observa el fabrial de Kris.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Aesudan aparta a Navani del grupo que observa el fabrial de Kris.",
+        "pairs": [
+          [
+            "navani",
+            "aesudan"
+          ],
+          [
+            "aesudan",
+            "rushur-kris-rowpro"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Navani resuelve la falta de vino y se ocupa de la audiencia pendiente de Hatham.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-navani-banquet-logistics",
+      "participants": [
+        "navani",
+        "maratham-rowpro",
+        "palace-cook-rowpro",
+        "gereh-rowpro",
+        "hatham"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+      },
+      "type": "conversation",
+      "summary": "Navani resuelve la falta de vino y se ocupa de la audiencia pendiente de Hatham.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Navani resuelve la falta de vino y se ocupa de la audiencia pendiente de Hatham.",
+        "pairs": [
+          [
+            "navani",
+            "maratham-rowpro"
+          ],
+          [
+            "navani",
+            "palace-cook-rowpro"
+          ],
+          [
+            "navani",
+            "gereh-rowpro"
+          ],
+          [
+            "navani",
+            "hatham"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Los tres hablan de su proyecto y examinan las esferas. El visitante vorin llama Nale al makabaki.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-gavilar-study-visitors",
+      "participants": [
+        "gavilar",
+        "crescent-scar-stranger",
+        "short-ambassador-wor-prologue"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+      },
+      "type": "conversation",
+      "summary": "Los tres hablan de su proyecto y examinan las esferas. El visitante vorin llama Nale al makabaki.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los tres hablan de su proyecto y examinan las esferas. El visitante vorin llama Nale al makabaki.",
+        "pairs": [
+          [
+            "gavilar",
+            "crescent-scar-stranger"
+          ],
+          [
+            "gavilar",
+            "short-ambassador-wor-prologue"
+          ],
+          [
+            "crescent-scar-stranger",
+            "short-ambassador-wor-prologue"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Tras la salida de los visitantes, Navani pregunta por las esferas y se enfrenta a Gavilar en el estudio.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-navani-gavilar-study",
+      "participants": [
+        "navani",
+        "gavilar"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+      },
+      "type": "conflict",
+      "summary": "Tras la salida de los visitantes, Navani pregunta por las esferas y se enfrenta a Gavilar en el estudio.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Tras la salida de los visitantes, Navani pregunta por las esferas y se enfrenta a Gavilar en el estudio.",
+        "pairs": [
+          [
+            "navani",
+            "gavilar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. El mayordomo comunica a Navani el asesinato. Más tarde, Sadeas le cuenta el papel que desempeñó.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-navani-assassination-report",
+      "participants": [
+        "navani",
+        "gereh-rowpro",
+        "sadeas"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7,
+        "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+      },
+      "type": "conversation",
+      "summary": "El mayordomo comunica a Navani el asesinato. Más tarde, Sadeas le cuenta el papel que desempeñó.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El mayordomo comunica a Navani el asesinato. Más tarde, Sadeas le cuenta el papel que desempeñó.",
+        "pairs": [
+          [
+            "navani",
+            "gereh-rowpro"
+          ],
+          [
+            "navani",
+            "sadeas"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -117331,6 +117615,118 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "En el viaje de vuelta lamenta la pérdida de tres tripulantes. El pasaje no los identifica individualmente.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Artista y maestro artifabriano que muestra un fabrial calefactor en el banquete.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-rushur-kris-rowpro-intro",
+      "characterId": "rushur-kris-rowpro",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "Artista y maestro artifabriano que muestra un fabrial calefactor en el banquete.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Organiza la recepción e informa a Navani de la muerte del rey.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-gereh-rowpro-intro",
+      "characterId": "gereh-rowpro",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "Organiza la recepción e informa a Navani de la muerte del rey.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Organizadora del palacio que coordina los comedores con Navani.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-maratham-rowpro-intro",
+      "characterId": "maratham-rowpro",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "Organizadora del palacio que coordina los comedores con Navani.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Avisa a Navani de que se ha agotado el vino reservado para la recepción.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-palace-cook-rowpro-intro",
+      "characterId": "palace-cook-rowpro",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "Avisa a Navani de que se ha agotado el vino reservado para la recepción.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. El mayordomo se refiere al alto señor como Rine Hatham cuando anuncia su llegada.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-rine-hatham-banquet",
+      "characterId": "hatham",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "El mayordomo se refiere al alto señor como Rine Hatham cuando anuncia su llegada.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. El otro visitante se dirige a él como Nale en el estudio de Gavilar.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-nale-banquet-name",
+      "characterId": "crescent-scar-stranger",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "El otro visitante se dirige a él como Nale en el estudio de Gavilar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Tras ver el cadáver de Gavilar, descubre que el saquito que llevaba está vacío. No presencia el asesinato.",
+      "sourceIds": [
+        "primary241-row-prologue"
+      ],
+      "id": "primary241-navani-gavilar-empty-pouch",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-prologue"
+      },
+      "kind": "background",
+      "text": "Tras ver el cadáver de Gavilar, descubre que el saquito que llevaba está vacío. No presencia el asesinato.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -123299,13 +123695,18 @@ window.ATLAS_DATA = {
       "id": "dawnshard",
       "title": "Esquirla del amanecer",
       "order": 5
+    },
+    {
+      "id": "row",
+      "title": "El ritmo de la guerra",
+      "order": 6
     }
   ],
   "book": "El camino de los reyes",
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 240,
+  "revision": 241,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -126633,6 +127034,18 @@ window.ATLAS_DATA = {
       "label": "Epílogo",
       "part": "dawnshard",
       "source": "primary239-dawnshard-epilogue"
+    },
+    {
+      "id": "row-prologue",
+      "bookId": "row",
+      "label": "Prólogo",
+      "part": "row-prologue",
+      "source": "primary241-row-prologue",
+      "flashback": true,
+      "memoryEventId": "gavilar-death-night",
+      "memoryEventLabel": "Noche de la muerte de Gavilar",
+      "memoryPerspective": "Navani",
+      "narrativeFrame": "flashback"
     }
   ],
   "experiencePresentation": {
@@ -190793,6 +191206,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en los aposentos Kholin o junto a su puerta después del banquete."
           ]
+        },
+        {
+          "id": "primary241-prologue-dalinar-5",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Navani ve a Dalinar entre los invitados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Navani ve a Dalinar entre los invitados."
+          ]
         }
       ]
     },
@@ -217021,6 +217482,534 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el despacho durante el encuentro entre Navani y Rysn."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-1",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocinas del palacio",
+          "placeId": "place-rowpro-palace-kitchens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en las cocinas mientras se organiza el banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las cocinas mientras se organiza el banquete."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-2",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Jardines y fuentes del palacio",
+          "placeId": "place-rowpro-palace-gardens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está junto a las fuentes mientras se muestra el fabrial calefactor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las fuentes mientras se muestra el fabrial calefactor."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-3",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocinas del palacio",
+          "placeId": "place-rowpro-palace-kitchens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en la cocina cuando Navani dispone que usen su reserva de vino.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cocina cuando Navani dispone que usen su reserva de vino."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-4",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en la recepción, donde Rine Hatham pregunta por su audiencia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción, donde Rine Hatham pregunta por su audiencia."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-5",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Navani ve a Dalinar entre los invitados.",
+          "needsConfirmation": [],
+          "notes": [
+            "Navani ve a Dalinar entre los invitados."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-7",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en el estudio después de que salgan los dos visitantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el estudio después de que salgan los dos visitantes."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-8",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Banquete en el palacio",
+          "placeId": "place-rowpro-palace-feast",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Preside una de las cenas durante el banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preside una de las cenas durante el banquete."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-9",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "after",
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. El mayordomo informa a Navani de lo sucedido después del asesinato.",
+          "needsConfirmation": [],
+          "notes": [
+            "El mayordomo informa a Navani de lo sucedido después del asesinato."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-10",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "after",
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Despensa donde llevan el cuerpo de Gavilar",
+          "placeId": "place-rowpro-palace-pantry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Ve el cuerpo de Gavilar en la despensa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ve el cuerpo de Gavilar en la despensa."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-11",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "after",
+          "memoryOrder": 11,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Balcón derrumbado que muestran a Navani",
+          "placeId": "place-rowpro-collapsed-balcony",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Examina el balcón derrumbado después del asesinato.",
+          "needsConfirmation": [],
+          "notes": [
+            "Examina el balcón derrumbado después del asesinato."
+          ]
+        },
+        {
+          "id": "primary241-prologue-navani-12",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "after",
+          "memoryOrder": 12,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Despensa donde llevan el cuerpo de Gavilar",
+          "placeId": "place-rowpro-palace-pantry",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Regresa a la despensa y encuentra vacío el saquito de Gavilar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa a la despensa y encuentra vacío el saquito de Gavilar."
           ]
         }
       ]
@@ -269428,6 +270417,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla o escucha la conversación sobre los juramentos sobre Ciudad Thaylen."
           ]
+        },
+        {
+          "id": "primary241-prologue-crescent-scar-stranger-6",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en el estudio durante la conversación que Navani oye desde la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el estudio durante la conversación que Navani oye desde la puerta."
+          ]
         }
       ]
     },
@@ -296342,6 +297379,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Dalinar reconoce su voz al otro lado de la puerta."
           ]
+        },
+        {
+          "id": "primary241-prologue-gavilar-6",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en el estudio durante la conversación que Navani oye desde la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el estudio durante la conversación que Navani oye desde la puerta."
+          ]
+        },
+        {
+          "id": "primary241-prologue-gavilar-7",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en el estudio después de que salgan los dos visitantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el estudio después de que salgan los dos visitantes."
+          ]
+        },
+        {
+          "id": "primary241-prologue-gavilar-8",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 8,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Banquete en el palacio",
+          "placeId": "place-rowpro-palace-feast",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Preside una de las cenas durante el banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preside una de las cenas durante el banquete."
+          ]
         }
       ]
     },
@@ -309951,6 +311132,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        },
+        {
+          "id": "primary241-prologue-aesudan-2",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Jardines y fuentes del palacio",
+          "placeId": "place-rowpro-palace-gardens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está junto a las fuentes mientras se muestra el fabrial calefactor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las fuentes mientras se muestra el fabrial calefactor."
           ]
         }
       ]
@@ -323904,6 +325133,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Participa en la reunión sobre la situación de Urithiru."
           ]
+        },
+        {
+          "id": "primary241-prologue-hatham-4",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en la recepción, donde Rine Hatham pregunta por su audiencia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción, donde Rine Hatham pregunta por su audiencia."
+          ]
         }
       ]
     },
@@ -333145,6 +334422,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Habla con el embajador azishiano y regresa para tomarlo del brazo.",
             "El anclaje regional no identifica una habitación o coordenada exacta."
+          ]
+        },
+        {
+          "id": "primary241-prologue-short-ambassador-wor-prologue-6",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en el estudio durante la conversación que Navani oye desde la puerta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el estudio durante la conversación que Navani oye desde la puerta."
           ]
         }
       ]
@@ -374959,6 +376284,290 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está a bordo al salir de la tormenta. El barco se aproxima a la isla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rushur-kris-rowpro",
+      "name": "Rushur Kris",
+      "initial": "R",
+      "role": "Artista y maestro artifabriano que muestra un fabrial calefactor en el banquete.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary241-prologue-rushur-kris-rowpro-2",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Jardines y fuentes del palacio",
+          "placeId": "place-rowpro-palace-gardens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está junto a las fuentes mientras se muestra el fabrial calefactor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está junto a las fuentes mientras se muestra el fabrial calefactor."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gereh-rowpro",
+      "name": "Gereh",
+      "initial": "G",
+      "role": "Organiza la recepción e informa a Navani de la muerte del rey.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary241-prologue-gereh-rowpro-4",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en la recepción, donde Rine Hatham pregunta por su audiencia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la recepción, donde Rine Hatham pregunta por su audiencia."
+          ]
+        },
+        {
+          "id": "primary241-prologue-gereh-rowpro-9",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "after",
+          "memoryOrder": 9,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Recibidor del palacio",
+          "placeId": "place-rowpro-palace-reception",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. El mayordomo informa a Navani de lo sucedido después del asesinato.",
+          "needsConfirmation": [],
+          "notes": [
+            "El mayordomo informa a Navani de lo sucedido después del asesinato."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maratham-rowpro",
+      "name": "Maratham",
+      "initial": "M",
+      "role": "Organizadora del palacio que coordina los comedores con Navani.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary241-prologue-maratham-rowpro-1",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocinas del palacio",
+          "placeId": "place-rowpro-palace-kitchens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en las cocinas mientras se organiza el banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en las cocinas mientras se organiza el banquete."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palace-cook-rowpro",
+      "name": "Cocinero del banquete de Kholinar",
+      "initial": "C",
+      "role": "Avisa a Navani de que se ha agotado el vino reservado para la recepción.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary241-prologue-palace-cook-rowpro-3",
+          "scene": "row-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Cocinas del palacio",
+          "placeId": "place-rowpro-palace-kitchens",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary241-row-prologue",
+          "sourceIds": [
+            "primary241-row-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7,
+            "note": "Perspectiva de Navani de la noche de la muerte de Gavilar."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-prologue"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml. Está en la cocina cuando Navani dispone que usen su reserva de vino.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la cocina cuando Navani dispone que usen su reserva de vino."
           ]
         }
       ]
