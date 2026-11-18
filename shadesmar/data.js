@@ -4759,6 +4759,26 @@ window.ATLAS_DATA = {
       "sigzil",
       "sons-honor-woman-row4",
       "syl"
+    ],
+    "row-chapter-7": [
+      "adolin",
+      "fused-hearthstone-row1",
+      "gaz",
+      "godeke-row5",
+      "hearthstone-suppression-operator-row7",
+      "ialai",
+      "ialai-soldier-row6",
+      "ishnah",
+      "kaladin",
+      "lift",
+      "pattern",
+      "red",
+      "roshone",
+      "shallan",
+      "syl",
+      "thanadal",
+      "vathah",
+      "waber"
     ]
   },
   "knowledgeArchive": {
@@ -80279,6 +80299,220 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Ialai y Shallan hablan a solas. Ialai anticipa su propia muerte y pide a Shallan que busque en los aposentos la variedad más excepcional.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-shallan-ialai-wine",
+      "participants": [
+        "shallan",
+        "ialai"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+      },
+      "type": "conversation",
+      "summary": "Ialai y Shallan hablan a solas. Ialai anticipa su propia muerte y pide a Shallan que busque en los aposentos la variedad más excepcional.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ialai y Shallan hablan a solas. Ialai anticipa su propia muerte y pide a Shallan que busque en los aposentos la variedad más excepcional.",
+        "pairs": [
+          [
+            "shallan",
+            "ialai"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Adolin y sus hombres irrumpen. Shallan prepara el disfraz de Ialai y ordenan que salga escoltada.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-sadeas-fortress-extraction",
+      "participants": [
+        "shallan",
+        "adolin",
+        "ialai",
+        "ishnah"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+      },
+      "type": "conversation",
+      "summary": "Adolin y sus hombres irrumpen. Shallan prepara el disfraz de Ialai y ordenan que salga escoltada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin y sus hombres irrumpen. Shallan prepara el disfraz de Ialai y ordenan que salga escoltada.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "ialai"
+          ],
+          [
+            "shallan",
+            "ishnah"
+          ],
+          [
+            "adolin",
+            "ialai"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Vathah sugiere veneno e Ishnah explica qué sabe de la ruinaoscura. Shallan le pide examinar el cadáver para esclarecer la causa.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-ialai-body-examination",
+      "participants": [
+        "shallan",
+        "ishnah",
+        "vathah"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+      },
+      "type": "conversation",
+      "summary": "Vathah sugiere veneno e Ishnah explica qué sabe de la ruinaoscura. Shallan le pide examinar el cadáver para esclarecer la causa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Vathah sugiere veneno e Ishnah explica qué sabe de la ruinaoscura. Shallan le pide examinar el cadáver para esclarecer la causa.",
+        "pairs": [
+          [
+            "shallan",
+            "ishnah"
+          ],
+          [
+            "shallan",
+            "vathah"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Kaladin entra en la mansión con sus capacidades suprimidas y derriba al Fusionado con una daga. Distingue la caída de este cuerpo de un posible renacimiento.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-kaladin-fused-mansion-trap",
+      "participants": [
+        "kaladin",
+        "fused-hearthstone-row1"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+      },
+      "type": "conflict",
+      "summary": "Kaladin entra en la mansión con sus capacidades suprimidas y derriba al Fusionado con una daga. Distingue la caída de este cuerpo de un posible renacimiento.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin entra en la mansión con sus capacidades suprimidas y derriba al Fusionado con una daga. Distingue la caída de este cuerpo de un posible renacimiento.",
+        "pairs": [
+          [
+            "kaladin",
+            "fused-hearthstone-row1"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Kaladin interroga al operador y Lift desactiva el dispositivo. Syl identifica que el fabrial se alimenta con luz del vacío.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-kaladin-lift-suppression",
+      "participants": [
+        "kaladin",
+        "lift",
+        "hearthstone-suppression-operator-row7",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+      },
+      "type": "conversation",
+      "summary": "Kaladin interroga al operador y Lift desactiva el dispositivo. Syl identifica que el fabrial se alimenta con luz del vacío.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin interroga al operador y Lift desactiva el dispositivo. Syl identifica que el fabrial se alimenta con luz del vacío.",
+        "pairs": [
+          [
+            "kaladin",
+            "lift"
+          ],
+          [
+            "kaladin",
+            "hearthstone-suppression-operator-row7"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -119923,6 +120157,102 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "La herida de Sigzil desencadena un recuerdo del palacio de Kholinar en pleno combate. Su ubicación presente sigue siendo Piedralar.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Ialai muere durante la extracción. El veneno, la vía de administración y quién pudo causarle la muerte siguen siendo hipótesis al cerrar el capítulo.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-ialai-death-cause-unresolved",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "Ialai muere durante la extracción. El veneno, la vía de administración y quién pudo causarle la muerte siguen siendo hipótesis al cerrar el capítulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. La conversación da por fallecido a Thanadal. Ialai y Shallan se contradicen sobre quién lo mató.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-row7-thanadal-death-claims",
+      "characterId": "thanadal",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "La conversación da por fallecido a Thanadal. Ialai y Shallan se contradicen sobre quién lo mató.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Activa el dispositivo y se retira de la mansión después de que Kaladin lo interrogue.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-hearthstone-suppression-operator-row7-intro",
+      "characterId": "hearthstone-suppression-operator-row7",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "Activa el dispositivo y se retira de la mansión después de que Kaladin lo interrogue.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Lift dice que vio entrar a Roshone con Godeke antes de la pelea. Al final Kaladin se dispone a buscarlo.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-row7-lift-roshone-mansion-report",
+      "characterId": "roshone",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "Lift dice que vio entrar a Roshone con Godeke antes de la pelea. Al final Kaladin se dispone a buscarlo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. El Fusionado lo lleva herido a la mansión. Kaladin pide a Lift que lo saque y se asegure de que se recupere.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-row7-godeke-captive",
+      "characterId": "godeke-row5",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "El Fusionado lo lleva herido a la mansión. Kaladin pide a Lift que lo saque y se asegure de que se recupere.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Desactiva el fabrial en la mansión. Kaladin le pide que después lo lleve a Navani.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-row7-lift-suppression-device",
+      "characterId": "lift",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "Desactiva el fabrial en la mansión. Kaladin le pide que después lo lleve a Navani.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -122684,6 +123014,10 @@ window.ATLAS_DATA = {
         {
           "revision": 247,
           "notes": "Navani recuerda a Elhokar al reconocer a Moash y Kaladin recuerda a Tien durante el duelo. Sus parentescos ya están registrados."
+        },
+        {
+          "revision": 248,
+          "notes": "Ialai se refiere al hijo de Elhokar y nieto de Gavilar. Los parentescos ya están registrados; el plan que relata no es un traslado observado."
         }
       ]
     }
@@ -125895,6 +126229,23 @@ window.ATLAS_DATA = {
       "notes": [
         "Muere durante la escaramuza con Kaladin junto a la fila."
       ]
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Ialai se desploma en la antesala de la fortaleza. Un soldado le busca el pulso y confirma su muerte. La causa queda sin confirmar.",
+      "sourceIds": [
+        "primary248-row-7"
+      ],
+      "id": "primary248-death-ialai",
+      "characterId": "ialai",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "notes": [
+        "Ialai se desploma en la antesala de la fortaleza. Un soldado le busca el pulso y confirma su muerte. La causa queda sin confirmar."
+      ]
     }
   ],
   "bookId": "wok",
@@ -125935,7 +126286,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 247,
+  "revision": 248,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -129323,6 +129674,14 @@ window.ATLAS_DATA = {
       "label": "Capítulo 6 · Cabo",
       "part": "row-1",
       "source": "primary247-row-6"
+    },
+    {
+      "id": "row-chapter-7",
+      "bookId": "row",
+      "chapter": 7,
+      "label": "Capítulo 7 · Variedad",
+      "part": "row-1",
+      "source": "primary248-row-7"
     }
   ],
   "experiencePresentation": {
@@ -150639,6 +150998,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el aire cuando ve el ataque contra los civiles. Kaladin parte en dirección a la mansión."
           ]
+        },
+        {
+          "id": "primary248-7-kaladin-1",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Exterior de la mansión consistorial en llamas",
+          "placeId": "place-row6-hearthstone-burning-mansion-front",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está delante de la mansión durante la trampa con los civiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está delante de la mansión durante la trampa con los civiles."
+          ]
+        },
+        {
+          "id": "primary248-7-kaladin-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Comedor de la mansión consistorial en llamas",
+          "placeId": "place-row7-hearthstone-mansion-dining-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en el comedor de la mansión durante la trampa del fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el comedor de la mansión durante la trampa del fabrial."
+          ]
         }
       ]
     },
@@ -170067,6 +170522,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Shallan entra y encuentra a Ialai sentada al fondo de la estancia."
           ]
+        },
+        {
+          "id": "primary248-7-shallan-1",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala del aparador al empezar la entrevista, antes de que el guardia salga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala del aparador al empezar la entrevista, antes de que el guardia salga."
+          ]
+        },
+        {
+          "id": "primary248-7-shallan-2",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala cuando Shallan y Ialai hablan y se materializa la hoja esquirlada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala cuando Shallan y Ialai hablan y se materializa la hoja esquirlada."
+          ]
+        },
+        {
+          "id": "primary248-7-shallan-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala durante la intervención de los Kholin y la preparación de la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala durante la intervención de los Kholin y la preparación de la extracción."
+          ]
+        },
+        {
+          "id": "primary248-7-shallan-4",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Antesala de la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-antechamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la antesala después de que Ialai se desplome durante la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la antesala después de que Ialai se desplome durante la extracción."
+          ]
+        },
+        {
+          "id": "primary248-7-shallan-5",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala de los vinos al iniciarse el registro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala de los vinos al iniciarse el registro."
+          ]
         }
       ]
     },
@@ -182229,6 +182924,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el aire cuando ve el ataque contra los civiles. Kaladin parte en dirección a la mansión."
+          ]
+        },
+        {
+          "id": "primary248-7-syl-1",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Exterior de la mansión consistorial en llamas",
+          "placeId": "place-row6-hearthstone-burning-mansion-front",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está delante de la mansión durante la trampa con los civiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está delante de la mansión durante la trampa con los civiles."
+          ]
+        },
+        {
+          "id": "primary248-7-syl-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Comedor de la mansión consistorial en llamas",
+          "placeId": "place-row7-hearthstone-mansion-dining-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en el comedor de la mansión durante la trampa del fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el comedor de la mansión durante la trampa del fabrial."
           ]
         }
       ]
@@ -207093,6 +207884,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Lucha o presta auxilio en las calles donde avanza el tronador."
+          ]
+        },
+        {
+          "id": "primary248-7-adolin-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala durante la intervención de los Kholin y la preparación de la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala durante la intervención de los Kholin y la preparación de la extracción."
+          ]
+        },
+        {
+          "id": "primary248-7-adolin-4",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Antesala de la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-antechamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la antesala después de que Ialai se desplome durante la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la antesala después de que Ialai se desplome durante la extracción."
           ]
         }
       ]
@@ -242245,6 +243132,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Participa en la lección de Ishnah."
           ]
+        },
+        {
+          "id": "primary248-7-gaz-5",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala de los vinos al iniciarse el registro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala de los vinos al iniciarse el registro."
+          ]
         }
       ]
     },
@@ -269981,6 +270916,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en la plataforma de la Puerta Jurada."
           ]
+        },
+        {
+          "id": "primary248-7-pattern-2",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala cuando Shallan y Ialai hablan y se materializa la hoja esquirlada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala cuando Shallan y Ialai hablan y se materializa la hoja esquirlada."
+          ]
         }
       ]
     },
@@ -281112,6 +282095,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Llega con el carro de comida y queda al pie de la escalera para la descarga."
           ]
+        },
+        {
+          "id": "primary248-7-vathah-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala durante la intervención de los Kholin y la preparación de la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala durante la intervención de los Kholin y la preparación de la extracción."
+          ]
+        },
+        {
+          "id": "primary248-7-vathah-4",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Antesala de la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-antechamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la antesala después de que Ialai se desplome durante la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la antesala después de que Ialai se desplome durante la extracción."
+          ]
         }
       ]
     },
@@ -281790,6 +282869,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el abismo durante la continuación de la infiltración y la alarma por la llegada de tropas."
+          ]
+        },
+        {
+          "id": "primary248-7-red-5",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala de los vinos al iniciarse el registro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala de los vinos al iniciarse el registro."
           ]
         }
       ]
@@ -283936,6 +285063,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Shallan entra y encuentra a Ialai sentada al fondo de la estancia."
+          ]
+        },
+        {
+          "id": "primary248-7-ialai-1",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala del aparador al empezar la entrevista, antes de que el guardia salga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala del aparador al empezar la entrevista, antes de que el guardia salga."
+          ]
+        },
+        {
+          "id": "primary248-7-ialai-2",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala cuando Shallan y Ialai hablan y se materializa la hoja esquirlada.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala cuando Shallan y Ialai hablan y se materializa la hoja esquirlada."
+          ]
+        },
+        {
+          "id": "primary248-7-ialai-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala durante la intervención de los Kholin y la preparación de la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala durante la intervención de los Kholin y la preparación de la extracción."
+          ]
+        },
+        {
+          "id": "primary248-7-ialai-4",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Antesala de la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-antechamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la antesala después de que Ialai se desplome durante la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la antesala después de que Ialai se desplome durante la extracción."
           ]
         }
       ]
@@ -293298,6 +294617,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está junto a la niebla roja cuando se recupera el rubí y se deshace el ataque."
+          ]
+        },
+        {
+          "id": "primary248-7-lift-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Comedor de la mansión consistorial en llamas",
+          "placeId": "place-row7-hearthstone-mansion-dining-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en el comedor de la mansión durante la trampa del fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el comedor de la mansión durante la trampa del fabrial."
           ]
         }
       ]
@@ -321583,6 +322950,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Entrega a Shallan la nota que ha recibido mientras imitaba a Velo."
           ]
+        },
+        {
+          "id": "primary248-7-ishnah-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala durante la intervención de los Kholin y la preparación de la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala durante la intervención de los Kholin y la preparación de la extracción."
+          ]
+        },
+        {
+          "id": "primary248-7-ishnah-4",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Antesala de la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-antechamber",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la antesala después de que Ialai se desplome durante la extracción.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la antesala después de que Ialai se desplome durante la extracción."
+          ]
         }
       ]
     },
@@ -341353,7 +342816,56 @@ window.ATLAS_DATA = {
       "color": "#a8b8c5",
       "importance": "tertiary",
       "importanceReason": "Mención primaria con contexto propio, sin coordenadas añadidas para habilitar su ficha.",
-      "events": []
+      "events": [
+        {
+          "id": "primary248-7-waber-1",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Exterior de la mansión consistorial en llamas",
+          "placeId": "place-row6-hearthstone-burning-mansion-front",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está delante de la mansión durante la trampa con los civiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está delante de la mansión durante la trampa con los civiles."
+          ]
+        }
+      ]
     },
     {
       "id": "callins",
@@ -385234,6 +386746,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Kaladin lo ve entre sus soldados y los civiles, delante de la mansión incendiada."
           ]
+        },
+        {
+          "id": "primary248-7-fused-hearthstone-row1-2",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Brecha en el muro junto a la entrada lateral",
+          "placeId": "place-row7-hearthstone-mansion-wall-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Entra por la brecha. El Fusionado lleva a Godeke herido.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra por la brecha. El Fusionado lleva a Godeke herido."
+          ]
+        },
+        {
+          "id": "primary248-7-fused-hearthstone-row1-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Comedor de la mansión consistorial en llamas",
+          "placeId": "place-row7-hearthstone-mansion-dining-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en el comedor de la mansión durante la trampa del fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el comedor de la mansión durante la trampa del fabrial."
+          ]
         }
       ]
     },
@@ -386329,6 +387937,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Parte hacia la mansión para intentar liberar a los presos."
           ]
+        },
+        {
+          "id": "primary248-7-godeke-row5-2",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Brecha en el muro junto a la entrada lateral",
+          "placeId": "place-row7-hearthstone-mansion-wall-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Entra por la brecha. El Fusionado lleva a Godeke herido.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra por la brecha. El Fusionado lleva a Godeke herido."
+          ]
+        },
+        {
+          "id": "primary248-7-godeke-row5-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Comedor de la mansión consistorial en llamas",
+          "placeId": "place-row7-hearthstone-mansion-dining-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en el comedor de la mansión durante la trampa del fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el comedor de la mansión durante la trampa del fabrial."
+          ]
         }
       ]
     },
@@ -386672,6 +388376,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Sale de la sala contigua antes de que Velo entre."
           ]
+        },
+        {
+          "id": "primary248-7-ialai-soldier-row6-1",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Campamento de Sadeas · Sala de Ialai en la fortaleza",
+          "placeId": "place-row6-sadeas-fortress-ialai",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en la sala del aparador al empezar la entrevista, antes de que el guardia salga.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en la sala del aparador al empezar la entrevista, antes de que el guardia salga."
+          ]
         }
       ]
     },
@@ -386730,6 +388482,113 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en la antesala donde Shallan se quita el saco."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hearthstone-suppression-operator-row7",
+      "name": "Cantor que activa el fabrial en la mansión",
+      "initial": "C",
+      "role": "Activa el dispositivo y se retira de la mansión después de que Kaladin lo interrogue.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary248-7-hearthstone-suppression-operator-row7-3",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Comedor de la mansión consistorial en llamas",
+          "placeId": "place-row7-hearthstone-mansion-dining-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Está en el comedor de la mansión durante la trampa del fabrial.",
+          "needsConfirmation": [],
+          "notes": [
+            "Está en el comedor de la mansión durante la trampa del fabrial."
+          ]
+        },
+        {
+          "id": "primary248-7-hearthstone-suppression-operator-row7-4",
+          "scene": "row-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Piedralar · Brecha en el muro junto a la entrada lateral",
+          "placeId": "place-row7-hearthstone-mansion-wall-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            697.926,
+            370.24
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary248-row-7",
+          "sourceIds": [
+            "primary248-row-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-alethkar-memory-region",
+          "coordinateAnchorName": "Alethkar · referencia regional de recuerdos sin localizar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Orden interno de cada trama, sin sincronizar ambos lugares."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-7"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml. Sale por la brecha cuando Kaladin lo deja marchar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale por la brecha cuando Kaladin lo deja marchar."
           ]
         }
       ]
