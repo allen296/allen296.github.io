@@ -4867,6 +4867,18 @@ window.ATLAS_DATA = {
       "syl",
       "teft",
       "tuaka"
+    ],
+    "row-chapter-13": [
+      "balat",
+      "eylita",
+      "ialai",
+      "jushu",
+      "mraize",
+      "pattern",
+      "restares",
+      "shallan",
+      "sja-anat",
+      "talanan-row13"
     ]
   },
   "knowledgeArchive": {
@@ -17327,6 +17339,57 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/12.Forma.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Imitan objetos del hogar que Shallan recuerda de Jah Keved mientras ella dibuja en Urithiru.",
+        "sourceIds": [
+          "primary254-row-13"
+        ],
+        "id": "primary254-archive-row13-creationspren-imagined-hearth",
+        "entryId": "spren-type-creationspren",
+        "value": "Imitan objetos del hogar que Shallan recuerda de Jah Keved mientras ella dibuja en Urithiru.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-13"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Se mecen delante de la puerta de la terraza durante la charla de los Davar.",
+        "sourceIds": [
+          "primary254-row-13"
+        ],
+        "id": "primary254-archive-row13-terrace-laughterspren",
+        "entryId": "spren-type-laughterspren",
+        "value": "Se mecen delante de la puerta de la terraza durante la charla de los Davar.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-13"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Crecen como estacas desde la barandilla de la terraza.",
+        "sourceIds": [
+          "primary254-row-13"
+        ],
+        "id": "primary254-archive-row13-terrace-coldspren",
+        "entryId": "spren-type-coldspren",
+        "value": "Crecen como estacas desde la barandilla de la terraza.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-13"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
         "supersedes": []
       }
     ],
@@ -33563,6 +33626,35 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Velo menciona a la hermana de Ka."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. El narrador presenta a Eylita como esposa de Balat.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-balat-eylita-marriage",
+      "from": "balat",
+      "to": "eylita",
+      "kind": "spouse",
+      "category": "family",
+      "label": "Matrimonio",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [
+        "audit-wok-bond-208"
+      ],
+      "notes": [
+        "El narrador presenta a Eylita como esposa de Balat."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El narrador presenta a Eylita como esposa de Balat."
       }
     }
   ],
@@ -81913,6 +82005,164 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Jushu recibe a Shallan. Hablan de su dibujo y de cuánto se ven ahora.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-shallan-jushu-drawing",
+      "participants": [
+        "shallan",
+        "jushu"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Mañana posterior a la celebración; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Jushu recibe a Shallan. Hablan de su dibujo y de cuánto se ven ahora.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Jushu recibe a Shallan. Hablan de su dibujo y de cuánto se ven ahora.",
+        "pairs": [
+          [
+            "shallan",
+            "jushu"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Mraize visita a los Davar bajo el aspecto de un guardia conocido por ellos como Gobby.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-mraize-davar-guard-cover",
+      "participants": [
+        "mraize",
+        "balat",
+        "jushu",
+        "eylita"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Mañana posterior a la celebración; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Mraize visita a los Davar bajo el aspecto de un guardia conocido por ellos como Gobby.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mraize visita a los Davar bajo el aspecto de un guardia conocido por ellos como Gobby.",
+        "pairs": [
+          [
+            "mraize",
+            "balat"
+          ],
+          [
+            "mraize",
+            "jushu"
+          ],
+          [
+            "mraize",
+            "eylita"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Balat cuenta a Shallan que Gobby entrena como soldado y que Talanan lo reprendió.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-shallan-balat-gobby",
+      "participants": [
+        "shallan",
+        "balat"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Mañana posterior a la celebración; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Balat cuenta a Shallan que Gobby entrena como soldado y que Talanan lo reprendió.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Balat cuenta a Shallan que Gobby entrena como soldado y que Talanan lo reprendió.",
+        "pairs": [
+          [
+            "shallan",
+            "balat"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Mraize admite haber enviado a un asesino contra Ialai, expone el interés en transportar Investidura y encarga encontrar a Restares en Integridad Duradera.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-shallan-mraize-garden",
+      "participants": [
+        "shallan",
+        "mraize"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Mañana posterior a la celebración; orden interno del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Mraize admite haber enviado a un asesino contra Ialai, expone el interés en transportar Investidura y encarga encontrar a Restares en Integridad Duradera.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mraize admite haber enviado a un asesino contra Ialai, expone el interés en transportar Investidura y encarga encontrar a Restares en Integridad Duradera.",
+        "pairs": [
+          [
+            "shallan",
+            "mraize"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -122261,6 +122511,134 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Roca dice que Cuerda quiere quedarse y entrenarse.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Capitán que, según Balat, reprendió a Gobby tras un incidente de entrenamiento.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-talanan-row13-intro",
+      "characterId": "talanan-row13",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Capitán que, según Balat, reprendió a Gobby tras un incidente de entrenamiento.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Shallan recuerda expresamente que Jushu y Wikim son mellizos; el pasaje presente muestra a Jushu en Urithiru.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-jushu-wikim-twins",
+      "characterId": "jushu",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Shallan recuerda expresamente que Jushu y Wikim son mellizos; el pasaje presente muestra a Jushu en Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Balat lo conoce como Gobby. Shallan reconoce al mismo Mraize bajo el uniforme de Sebarial.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-gobby-cover",
+      "characterId": "mraize",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Balat lo conoce como Gobby. Shallan reconoce al mismo Mraize bajo el uniforme de Sebarial.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Mraize afirma que ha obtenido asilo en Integridad Duradera, ciudad de los honorspren en Shadesmar, y encarga a Shallan encontrarlo. No se muestra una escena de Restares allí.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-restares-asylum-report",
+      "characterId": "restares",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Mraize afirma que ha obtenido asilo en Integridad Duradera, ciudad de los honorspren en Shadesmar, y encarga a Shallan encontrarlo. No se muestra una escena de Restares allí.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Shallan informa de que acepta enviar un spren para que considere un vínculo con un miembro de la organización. El vínculo no está acordado.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-sja-anat-offer",
+      "characterId": "sja-anat",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Shallan informa de que acepta enviar un spren para que considere un vínculo con un miembro de la organización. El vínculo no está acordado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Explica su interés en transportar luz tormentosa fuera de Roshar y las dificultades que atribuye a la Conexión. Menciona Nalthis, Scadrial, Ashyn y Braize.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-investiture-trade-explanation",
+      "characterId": "mraize",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Explica su interés en transportar luz tormentosa fuera de Roshar y las dificultades que atribuye a la Conexión. Menciona Nalthis, Scadrial, Ashyn y Braize.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Imagina un hogar de Jah Keved con sus hermanos y sus padres. La escena física continúa en los aposentos de Jushu, en Urithiru.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-davar-memory",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Imagina un hogar de Jah Keved con sus hermanos y sus padres. La escena física continúa en los aposentos de Jushu, en Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Mraize admite que un enviado suyo mató a Ialai y da a entender que vigila a Shallan por medio de un Tejedor de Luz. La identidad del agente no se revela.",
+      "sourceIds": [
+        "primary254-row-13"
+      ],
+      "id": "primary254-row13-mraize-admits-agent",
+      "characterId": "ialai",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-13"
+      },
+      "kind": "background",
+      "text": "Mraize admite que un enviado suyo mató a Ialai y da a entender que vigila a Shallan por medio de un Tejedor de Luz. La identidad del agente no se revela.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -125042,6 +125420,10 @@ window.ATLAS_DATA = {
         {
           "revision": 253,
           "notes": "Añadidos el matrimonio de Jor y Kryst, el padre de Dakhnah y la hermana de Ka. La familia de Roca conserva sus fichas y los planes de viaje no generan llegadas a los Picos."
+        },
+        {
+          "revision": 254,
+          "notes": "El matrimonio de Balat y Eylita sustituye el compromiso anterior. Se coteja la mención de que Jushu y Wikim son mellizos. Los recuerdos de los Davar se mantienen ligados al lugar presente de Shallan."
         }
       ]
     }
@@ -128378,7 +128760,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 253,
+  "revision": 254,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -131814,6 +132196,14 @@ window.ATLAS_DATA = {
       "label": "Capítulo 12 · Forma",
       "part": "row-1",
       "source": "primary253-row-12"
+    },
+    {
+      "id": "row-chapter-13",
+      "bookId": "row",
+      "chapter": 13,
+      "label": "Capítulo 13 · Cacería",
+      "part": "row-1",
+      "source": "primary254-row-13"
     }
   ],
   "experiencePresentation": {
@@ -174256,6 +174646,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Está en el reservado durante la conversación y el servicio de las bebidas."
+          ]
+        },
+        {
+          "id": "primary254-13-shallan-1",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 1,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de audiencias de Shallan",
+          "placeId": "place-row13-shallan-audience",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Termina la reunión de cuentas y lee el mensaje que anuncia la llegada de un spren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Termina la reunión de cuentas y lee el mensaje que anuncia la llegada de un spren."
+          ]
+        },
+        {
+          "id": "primary254-13-shallan-2",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Shallan visita a Jushu, dibuja junto al fabrial calentador y examina la libreta de Ialai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan visita a Jushu, dibuja junto al fabrial calentador y examina la libreta de Ialai."
+          ]
+        },
+        {
+          "id": "primary254-13-shallan-5",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de los hermanos Davar",
+          "placeId": "place-row13-davar-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Habla o se asoma a la terraza durante la visita del supuesto guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o se asoma a la terraza durante la visita del supuesto guardia."
+          ]
+        },
+        {
+          "id": "primary254-13-shallan-7",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Jardín bajo las ventanas de los Davar",
+          "placeId": "place-row13-davar-lower-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Se reúne en el jardín para hablar de la misión y de los Sangre Espectral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en el jardín para hablar de la misión y de los Sangre Espectral."
           ]
         }
       ]
@@ -242090,6 +242672,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
           ]
+        },
+        {
+          "id": "primary254-13-balat-3",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Entra en los aposentos tras el turno de guardia de Balat.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en los aposentos tras el turno de guardia de Balat."
+          ]
+        },
+        {
+          "id": "primary254-13-balat-4",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia del fabrial enfriador de los Davar",
+          "placeId": "place-row13-davar-food-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Pasa a la estancia de los alimentos antes de salir a la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la estancia de los alimentos antes de salir a la terraza."
+          ]
+        },
+        {
+          "id": "primary254-13-balat-5",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de los hermanos Davar",
+          "placeId": "place-row13-davar-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Habla o se asoma a la terraza durante la visita del supuesto guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o se asoma a la terraza durante la visita del supuesto guardia."
+          ]
         }
       ]
     },
@@ -247084,6 +247810,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
+          ]
+        },
+        {
+          "id": "primary254-13-eylita-3",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Entra en los aposentos tras el turno de guardia de Balat.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en los aposentos tras el turno de guardia de Balat."
+          ]
+        },
+        {
+          "id": "primary254-13-eylita-4",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia del fabrial enfriador de los Davar",
+          "placeId": "place-row13-davar-food-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Pasa a la estancia de los alimentos antes de salir a la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la estancia de los alimentos antes de salir a la terraza."
+          ]
+        },
+        {
+          "id": "primary254-13-eylita-5",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de los hermanos Davar",
+          "placeId": "place-row13-davar-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Habla o se asoma a la terraza durante la visita del supuesto guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o se asoma a la terraza durante la visita del supuesto guardia."
+          ]
+        },
+        {
+          "id": "primary254-13-eylita-6",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 6,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Regresa al interior para apartarse del frío.",
+          "needsConfirmation": [],
+          "notes": [
+            "Regresa al interior para apartarse del frío."
           ]
         }
       ]
@@ -277371,6 +278289,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Está en el reservado durante la conversación y el servicio de las bebidas."
           ]
+        },
+        {
+          "id": "primary254-13-pattern-2",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Shallan visita a Jushu, dibuja junto al fabrial calentador y examina la libreta de Ialai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan visita a Jushu, dibuja junto al fabrial calentador y examina la libreta de Ialai."
+          ]
+        },
+        {
+          "id": "primary254-13-pattern-7",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Jardín bajo las ventanas de los Davar",
+          "placeId": "place-row13-davar-lower-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Se reúne en el jardín para hablar de la misión y de los Sangre Espectral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en el jardín para hablar de la misión y de los Sangre Espectral."
+          ]
         }
       ]
     },
@@ -290937,6 +291951,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Se reúne con Shallan antes de la boda o espera fuera de la estancia."
           ]
+        },
+        {
+          "id": "primary254-13-jushu-2",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 2,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Shallan visita a Jushu, dibuja junto al fabrial calentador y examina la libreta de Ialai.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan visita a Jushu, dibuja junto al fabrial calentador y examina la libreta de Ialai."
+          ]
+        },
+        {
+          "id": "primary254-13-jushu-5",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de los hermanos Davar",
+          "placeId": "place-row13-davar-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Habla o se asoma a la terraza durante la visita del supuesto guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o se asoma a la terraza durante la visita del supuesto guardia."
+          ]
         }
       ]
     },
@@ -295800,6 +296910,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Entra tras los guardias, habla con Pom y ordena una bonificación para Mem."
+          ]
+        },
+        {
+          "id": "primary254-13-mraize-3",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 3,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de los hermanos Davar",
+          "placeId": "place-row13-davar-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Entra en los aposentos tras el turno de guardia de Balat.",
+          "needsConfirmation": [],
+          "notes": [
+            "Entra en los aposentos tras el turno de guardia de Balat."
+          ]
+        },
+        {
+          "id": "primary254-13-mraize-4",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 4,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia del fabrial enfriador de los Davar",
+          "placeId": "place-row13-davar-food-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Pasa a la estancia de los alimentos antes de salir a la terraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Pasa a la estancia de los alimentos antes de salir a la terraza."
+          ]
+        },
+        {
+          "id": "primary254-13-mraize-5",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 5,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Terraza de los hermanos Davar",
+          "placeId": "place-row13-davar-terrace",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Habla o se asoma a la terraza durante la visita del supuesto guardia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Habla o se asoma a la terraza durante la visita del supuesto guardia."
+          ]
+        },
+        {
+          "id": "primary254-13-mraize-7",
+          "scene": "row-chapter-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 7,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Jardín bajo las ventanas de los Davar",
+          "placeId": "place-row13-davar-lower-garden",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary254-row-13",
+          "sourceIds": [
+            "primary254-row-13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Mañana posterior a la celebración; orden interno del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-13"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/13.Caceria.xhtml. Se reúne en el jardín para hablar de la misión y de los Sangre Espectral.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se reúne en el jardín para hablar de la misión y de los Sangre Espectral."
           ]
         }
       ]
@@ -397297,6 +398599,16 @@ window.ATLAS_DATA = {
       "name": "Marni",
       "initial": "M",
       "role": "Adolin la menciona al criticar los uniformes de la cantina.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "talanan-row13",
+      "name": "Talanan",
+      "initial": "T",
+      "role": "Capitán que, según Balat, reprendió a Gobby tras un incidente de entrenamiento.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
