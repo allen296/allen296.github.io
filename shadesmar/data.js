@@ -5800,6 +5800,77 @@ window.ATLAS_DATA = {
       "pattern",
       "sekeir-row82",
       "shallan"
+    ],
+    "row-chapter-83": [
+      "dabbid",
+      "hesina",
+      "lift",
+      "lirin",
+      "moash-duel-fused",
+      "shen",
+      "venli"
+    ],
+    "row-chapter-84": [
+      "navani",
+      "rabeniel-row14"
+    ],
+    "row-chapter-85": [
+      "dabbid",
+      "dabbid-mother-row85",
+      "kaladin",
+      "lift",
+      "shen",
+      "teft"
+    ],
+    "row-chapter-86": [
+      "denshil-row86",
+      "eshonai",
+      "jaxlim",
+      "mikaim-row86",
+      "venli"
+    ],
+    "row-chapter-87": [
+      "adolin",
+      "amuna-row87",
+      "kelek-puuli",
+      "lusintia-row78",
+      "mix-row78",
+      "notum-ob108",
+      "pattern",
+      "sekeir-row82",
+      "shallan"
+    ],
+    "row-chapter-88": [
+      "eshonai",
+      "jaxlim",
+      "venli"
+    ],
+    "row-chapter-89": [
+      "navani",
+      "ob68-sibling-epigraph",
+      "rabeniel-row14",
+      "tone-playing-singers-row89"
+    ],
+    "row-chapter-90": [
+      "adolin",
+      "kelek-puuli",
+      "pattern",
+      "shallan",
+      "veratorim-row90"
+    ],
+    "row-chapter-91": [
+      "dabbid",
+      "kaladin",
+      "phendorana",
+      "shen",
+      "teft",
+      "teft-father",
+      "teft-mother"
+    ],
+    "row-chapter-92": [
+      "rabeniel-row14",
+      "regal-report-row92",
+      "venli"
     ]
   },
   "knowledgeArchive": {
@@ -21235,6 +21306,74 @@ window.ATLAS_DATA = {
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/82.Daga.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Venli y Ulim hablan de cómo atraerlos y ella sale por primera vez a buscarlos en la tormenta.",
+        "sourceIds": [
+          "primary277-row-86"
+        ],
+        "id": "primary277-archive-86-stormspren",
+        "entryId": "spren-type-stormspren",
+        "value": "Venli y Ulim hablan de cómo atraerlos y ella sale por primera vez a buscarlos en la tormenta.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-86"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Amuna declara que se ocupa de los ojomuertos de la fortaleza.",
+        "sourceIds": [
+          "primary277-row-87"
+        ],
+        "id": "primary277-archive-87-amuna",
+        "entryId": "spren-type-honorspren",
+        "value": "Amuna declara que se ocupa de los ojomuertos de la fortaleza.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Vuelve a responder por la veta. Teme morir y Navani propone un vínculo.",
+        "sourceIds": [
+          "primary277-row-89"
+        ],
+        "id": "primary277-archive-89-sibling",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "Vuelve a responder por la veta. Teme morir y Navani propone un vínculo.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Phendorana acompaña y consuela a Teft en el refugio de la décima planta.",
+        "sourceIds": [
+          "primary277-row-91"
+        ],
+        "id": "primary277-archive-91-phendorana",
+        "entryId": "spren-person-phendorana",
+        "value": "Phendorana acompaña y consuela a Teft en el refugio de la décima planta.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-91"
+        },
+        "field": "description",
+        "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml",
         "supersedes": []
       }
     ],
@@ -38194,6 +38333,30 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Rabeniel se identifica como su madre."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Dabbid recuerda a su madre, que murió antes de que él se uniera a los hombres de los puentes.",
+      "sourceIds": [
+        "primary277-row-85"
+      ],
+      "id": "primary277-dabbid-mother",
+      "from": "dabbid-mother-row85",
+      "to": "dabbid",
+      "kind": "parent",
+      "category": "family",
+      "certainty": "stated",
+      "state": "known",
+      "label": "Madre → hijo",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-85"
+      },
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El narrador la identifica expresamente como su madre."
       }
     }
   ],
@@ -95984,6 +96147,770 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Hablan del rumbo que está tomando la ocupación y del papel de Rabeniel.",
+      "sourceIds": [
+        "primary277-row-83"
+      ],
+      "id": "primary277-83-leshwi",
+      "participants": [
+        "venli",
+        "moash-duel-fused"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-83"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Hablan del rumbo que está tomando la ocupación y del papel de Rabeniel.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del rumbo que está tomando la ocupación y del papel de Rabeniel.",
+        "pairs": [
+          [
+            "venli",
+            "moash-duel-fused"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Rlain pide ayuda y los padres de Kaladin discrepan sobre qué hacer.",
+      "sourceIds": [
+        "primary277-row-83"
+      ],
+      "id": "primary277-83-ward",
+      "participants": [
+        "shen",
+        "hesina",
+        "lirin"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-83"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rlain pide ayuda y los padres de Kaladin discrepan sobre qué hacer.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rlain pide ayuda y los padres de Kaladin discrepan sobre qué hacer.",
+        "pairs": [
+          [
+            "shen",
+            "hesina"
+          ],
+          [
+            "shen",
+            "lirin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Venli libera a Lift, y Dabbid le pide que cure a Kaladin.",
+      "sourceIds": [
+        "primary277-row-83"
+      ],
+      "id": "primary277-83-lift",
+      "participants": [
+        "venli",
+        "lift",
+        "dabbid"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-83"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "cooperation",
+      "summary": "Venli libera a Lift, y Dabbid le pide que cure a Kaladin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli libera a Lift, y Dabbid le pide que cure a Kaladin.",
+        "pairs": [
+          [
+            "venli",
+            "lift"
+          ],
+          [
+            "dabbid",
+            "lift"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/84.Erudita.xhtml. Hablan del metal de la daga, el spren emparejado y el instrumental que necesita Navani.",
+      "sourceIds": [
+        "primary277-row-84"
+      ],
+      "id": "primary277-84-dagger",
+      "participants": [
+        "navani",
+        "rabeniel-row14"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-84"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Hablan del metal de la daga, el spren emparejado y el instrumental que necesita Navani.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del metal de la daga, el spren emparejado y el instrumental que necesita Navani.",
+        "pairs": [
+          [
+            "navani",
+            "rabeniel-row14"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Lift interviene para sanar a los dos y habla con Dabbid.",
+      "sourceIds": [
+        "primary277-row-85"
+      ],
+      "id": "primary277-85-lift-heals",
+      "participants": [
+        "lift",
+        "kaladin",
+        "teft",
+        "dabbid"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-85"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "cooperation",
+      "summary": "Lift interviene para sanar a los dos y habla con Dabbid.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lift interviene para sanar a los dos y habla con Dabbid.",
+        "pairs": [
+          [
+            "lift",
+            "kaladin"
+          ],
+          [
+            "lift",
+            "teft"
+          ],
+          [
+            "dabbid",
+            "lift"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Rlain escucha a Dabbid hablar de sí mismo tras la curación.",
+      "sourceIds": [
+        "primary277-row-85"
+      ],
+      "id": "primary277-85-rlain",
+      "participants": [
+        "dabbid",
+        "shen"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-85"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rlain escucha a Dabbid hablar de sí mismo tras la curación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rlain escucha a Dabbid hablar de sí mismo tras la curación.",
+        "pairs": [
+          [
+            "dabbid",
+            "shen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Venli le pide que reduzca la entrega de gemas a los campos.",
+      "sourceIds": [
+        "primary277-row-86"
+      ],
+      "id": "primary277-86-denshil",
+      "participants": [
+        "venli",
+        "denshil-row86"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-86"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 1.5,
+        "note": "Intervalo indicado en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Venli le pide que reduzca la entrega de gemas a los campos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli le pide que reduzca la entrega de gemas a los campos.",
+        "pairs": [
+          [
+            "venli",
+            "denshil-row86"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Mikaim explica el estado de Jaxlim y discute sus cuidados.",
+      "sourceIds": [
+        "primary277-row-86"
+      ],
+      "id": "primary277-86-mikaim",
+      "participants": [
+        "venli",
+        "mikaim-row86"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-86"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 1.5,
+        "note": "Intervalo indicado en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Mikaim explica el estado de Jaxlim y discute sus cuidados.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Mikaim explica el estado de Jaxlim y discute sus cuidados.",
+        "pairs": [
+          [
+            "venli",
+            "mikaim-row86"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Eshonai agradece a su hermana su contribución y le pregunta por una forma adecuada para negociar.",
+      "sourceIds": [
+        "primary277-row-86"
+      ],
+      "id": "primary277-86-eshonai",
+      "participants": [
+        "venli",
+        "eshonai"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-86"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 1.5,
+        "note": "Intervalo indicado en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Eshonai agradece a su hermana su contribución y le pregunta por una forma adecuada para negociar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Eshonai agradece a su hermana su contribución y le pregunta por una forma adecuada para negociar.",
+        "pairs": [
+          [
+            "venli",
+            "eshonai"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Adolin responde a los testigos y Kelek hace que Sekeir exponga las reglas.",
+      "sourceIds": [
+        "primary277-row-87"
+      ],
+      "id": "primary277-87-hearing",
+      "participants": [
+        "adolin",
+        "amuna-row87",
+        "mix-row78",
+        "notum-ob108",
+        "kelek-puuli",
+        "sekeir-row82"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-87"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Adolin responde a los testigos y Kelek hace que Sekeir exponga las reglas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin responde a los testigos y Kelek hace que Sekeir exponga las reglas.",
+        "pairs": [
+          [
+            "adolin",
+            "amuna-row87"
+          ],
+          [
+            "adolin",
+            "mix-row78"
+          ],
+          [
+            "adolin",
+            "notum-ob108"
+          ],
+          [
+            "kelek-puuli",
+            "sekeir-row82"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Lusintia y Patrón intervienen después de que Shallan caiga.",
+      "sourceIds": [
+        "primary277-row-87"
+      ],
+      "id": "primary277-87-fall",
+      "participants": [
+        "shallan",
+        "lusintia-row78",
+        "pattern"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-87"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Lusintia y Patrón intervienen después de que Shallan caiga.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Lusintia y Patrón intervienen después de que Shallan caiga.",
+        "pairs": [
+          [
+            "shallan",
+            "lusintia-row78"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml. Venli propone recurrir a una forma de poder y Eshonai se marcha hacia la tormenta.",
+      "sourceIds": [
+        "primary277-row-88"
+      ],
+      "id": "primary277-88-sisters",
+      "participants": [
+        "eshonai",
+        "venli"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-88"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 1.5,
+        "note": "Intervalo indicado en el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Venli propone recurrir a una forma de poder y Eshonai se marcha hacia la tormenta.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli propone recurrir a una forma de poder y Eshonai se marcha hacia la tormenta.",
+        "pairs": [
+          [
+            "eshonai",
+            "venli"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Las cantoras ejecutan la demostración y Navani y Rabeniel comparan los efectos de los tonos.",
+      "sourceIds": [
+        "primary277-row-89"
+      ],
+      "id": "primary277-89-tones",
+      "participants": [
+        "navani",
+        "rabeniel-row14",
+        "tone-playing-singers-row89"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Las cantoras ejecutan la demostración y Navani y Rabeniel comparan los efectos de los tonos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Las cantoras ejecutan la demostración y Navani y Rabeniel comparan los efectos de los tonos.",
+        "pairs": [
+          [
+            "navani",
+            "rabeniel-row14"
+          ],
+          [
+            "rabeniel-row14",
+            "tone-playing-singers-row89"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. El Hermano responde a Navani por la veta y expresa su miedo.",
+      "sourceIds": [
+        "primary277-row-89"
+      ],
+      "id": "primary277-89-sibling",
+      "participants": [
+        "navani",
+        "ob68-sibling-epigraph"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "message",
+      "summary": "El Hermano responde a Navani por la veta y expresa su miedo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Hermano responde a Navani por la veta y expresa su miedo.",
+        "pairs": [
+          [
+            "navani",
+            "ob68-sibling-epigraph"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Kelek dirige el turno de Adolin y advierte a Veratorim.",
+      "sourceIds": [
+        "primary277-row-90"
+      ],
+      "id": "primary277-90-testimony",
+      "participants": [
+        "adolin",
+        "kelek-puuli",
+        "veratorim-row90"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Kelek dirige el turno de Adolin y advierte a Veratorim.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kelek dirige el turno de Adolin y advierte a Veratorim.",
+        "pairs": [
+          [
+            "adolin",
+            "kelek-puuli"
+          ],
+          [
+            "kelek-puuli",
+            "veratorim-row90"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Comparten su preocupación por el juicio y por la posibilidad de que los honorspren cambien de bando.",
+      "sourceIds": [
+        "primary277-row-90"
+      ],
+      "id": "primary277-90-after",
+      "participants": [
+        "adolin",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Comparten su preocupación por el juicio y por la posibilidad de que los honorspren cambien de bando.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Comparten su preocupación por el juicio y por la posibilidad de que los honorspren cambien de bando.",
+        "pairs": [
+          [
+            "adolin",
+            "shallan"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Teft habla de su familia y Phendorana lo acompaña durante la conversación.",
+      "sourceIds": [
+        "primary277-row-91"
+      ],
+      "id": "primary277-91-teft",
+      "participants": [
+        "teft",
+        "kaladin",
+        "shen",
+        "phendorana"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-91"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Teft habla de su familia y Phendorana lo acompaña durante la conversación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Teft habla de su familia y Phendorana lo acompaña durante la conversación.",
+        "pairs": [
+          [
+            "teft",
+            "kaladin"
+          ],
+          [
+            "kaladin",
+            "shen"
+          ],
+          [
+            "teft",
+            "phendorana"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Venli traduce a la regia la respuesta de Rabeniel.",
+      "sourceIds": [
+        "primary277-row-92"
+      ],
+      "id": "primary277-92-regal",
+      "participants": [
+        "venli",
+        "regal-report-row92"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-92"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Venli traduce a la regia la respuesta de Rabeniel.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli traduce a la regia la respuesta de Rabeniel.",
+        "pairs": [
+          [
+            "venli",
+            "regal-report-row92"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Rabeniel da a Venli el informe y le pregunta por los oyentes huidos.",
+      "sourceIds": [
+        "primary277-row-92"
+      ],
+      "id": "primary277-92-report",
+      "participants": [
+        "venli",
+        "rabeniel-row14"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-92"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Secuencia narrativa del capítulo."
+      },
+      "type": "conversation",
+      "summary": "Rabeniel da a Venli el informe y le pregunta por los oyentes huidos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rabeniel da a Venli el informe y le pregunta por los oyentes huidos.",
+        "pairs": [
+          [
+            "venli",
+            "rabeniel-row14"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -143276,6 +144203,278 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Saca la daga del cubo tras hablar con Mraize. La misión sigue pendiente.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. La piedra la guía al punto desde el que puede abrir paso hacia la celda de Lift.",
+      "sourceIds": [
+        "primary277-row-83"
+      ],
+      "id": "primary277-fact-83-stone",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-83"
+      },
+      "kind": "background",
+      "text": "La piedra la guía al punto desde el que puede abrir paso hacia la celda de Lift.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/84.Erudita.xhtml. Observa que la otra mitad del rubí responde a la daga y que su hoja puede afectar a un spren atrapado.",
+      "sourceIds": [
+        "primary277-row-84"
+      ],
+      "id": "primary277-fact-84-paired-ruby",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-84"
+      },
+      "kind": "background",
+      "text": "Observa que la otra mitad del rubí responde a la daga y que su hoja puede afectar a un spren atrapado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Dabbid recuerda la forma en que su madre hablaba de sus diferencias y el trato que recibió tras perderla.",
+      "sourceIds": [
+        "primary277-row-85"
+      ],
+      "id": "primary277-fact-dabbid-mother-row85-intro",
+      "characterId": "dabbid-mother-row85",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-85"
+      },
+      "kind": "background",
+      "text": "Dabbid recuerda la forma en que su madre hablaba de sus diferencias y el trato que recibió tras perderla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Dabbid lleva a Lift al refugio de la décima planta, donde ella lo cura. El pasaje no narra cómo llegó hasta el refugio.",
+      "sourceIds": [
+        "primary277-row-85"
+      ],
+      "id": "primary277-fact-85-recovery",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-85"
+      },
+      "kind": "background",
+      "text": "Dabbid lleva a Lift al refugio de la décima planta, donde ella lo cura. El pasaje no narra cómo llegó hasta el refugio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Trabaja con las gemas corazón y negocia con Venli cómo conseguir más.",
+      "sourceIds": [
+        "primary277-row-86"
+      ],
+      "id": "primary277-fact-denshil-row86-intro",
+      "characterId": "denshil-row86",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-86"
+      },
+      "kind": "background",
+      "text": "Trabaja con las gemas corazón y negocia con Venli cómo conseguir más.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Estudiosa de Venli y cirujana que cuida a Jaxlim.",
+      "sourceIds": [
+        "primary277-row-86"
+      ],
+      "id": "primary277-fact-mikaim-row86-intro",
+      "characterId": "mikaim-row86",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-86"
+      },
+      "kind": "background",
+      "text": "Estudiosa de Venli y cirujana que cuida a Jaxlim.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Honorspren encargada del cuidado de los ojomuertos que declara ante el tribunal.",
+      "sourceIds": [
+        "primary277-row-87"
+      ],
+      "id": "primary277-fact-amuna-row87-intro",
+      "characterId": "amuna-row87",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-87"
+      },
+      "kind": "background",
+      "text": "Honorspren encargada del cuidado de los ojomuertos que declara ante el tribunal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml. Un pequeño spren luminoso aparece durante el encuentro con el abismoide. Aquí no se da su nombre.",
+      "sourceIds": [
+        "primary277-row-88"
+      ],
+      "id": "primary277-fact-88-light",
+      "characterId": "eshonai",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-88"
+      },
+      "kind": "background",
+      "text": "Un pequeño spren luminoso aparece durante el encuentro con el abismoide. Aquí no se da su nombre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Rabeniel les pide producir tonos con arcos y placas de metal.",
+      "sourceIds": [
+        "primary277-row-89"
+      ],
+      "id": "primary277-fact-tone-playing-singers-row89-intro",
+      "characterId": "tone-playing-singers-row89",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-89"
+      },
+      "kind": "background",
+      "text": "Rabeniel les pide producir tonos con arcos y placas de metal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Busca en secreto la antiluz del vacío y centra su investigación en las vibraciones.",
+      "sourceIds": [
+        "primary277-row-89"
+      ],
+      "id": "primary277-fact-89-antilight",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-89"
+      },
+      "kind": "background",
+      "text": "Busca en secreto la antiluz del vacío y centra su investigación en las vibraciones.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Spren al que Kelek llama al orden cuando interrumpe la declaración.",
+      "sourceIds": [
+        "primary277-row-90"
+      ],
+      "id": "primary277-fact-veratorim-row90-intro",
+      "characterId": "veratorim-row90",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-90"
+      },
+      "kind": "background",
+      "text": "Spren al que Kelek llama al orden cuando interrumpe la declaración.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Velo se suma a Radiante en rechazar el plan de capturar a Kelek con la daga.",
+      "sourceIds": [
+        "primary277-row-90"
+      ],
+      "id": "primary277-fact-90-veil",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-90"
+      },
+      "kind": "background",
+      "text": "Velo se suma a Radiante en rechazar el plan de capturar a Kelek con la daga.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Relata que su madre ya había muerto cuando denunció al grupo de su familia. Tenía ocho años al morir su padre.",
+      "sourceIds": [
+        "primary277-row-91"
+      ],
+      "id": "primary277-fact-91-parents",
+      "characterId": "teft",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-91"
+      },
+      "kind": "background",
+      "text": "Relata que su madre ya había muerto cuando denunció al grupo de su familia. Tenía ocho años al morir su padre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Teft vincula la muerte de su padre a lo sucedido después de que él hablara ante el consistorio.",
+      "sourceIds": [
+        "primary277-row-91"
+      ],
+      "id": "primary277-fact-91-father",
+      "characterId": "teft-father",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-91"
+      },
+      "kind": "background",
+      "text": "Teft vincula la muerte de su padre a lo sucedido después de que él hablara ante el consistorio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Teft precisa que su madre ya había muerto al tiempo de aquellos hechos.",
+      "sourceIds": [
+        "primary277-row-91"
+      ],
+      "id": "primary277-fact-91-mother",
+      "characterId": "teft-mother",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-91"
+      },
+      "kind": "background",
+      "text": "Teft precisa que su madre ya había muerto al tiempo de aquellos hechos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Presenta un informe ante Rabeniel y Venli traduce la respuesta.",
+      "sourceIds": [
+        "primary277-row-92"
+      ],
+      "id": "primary277-fact-regal-report-row92-intro",
+      "characterId": "regal-report-row92",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-92"
+      },
+      "kind": "background",
+      "text": "Presenta un informe ante Rabeniel y Venli traduce la respuesta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Lee un informe que apunta a la posible supervivencia de oyentes huidos. Todavía no se encuentra con ellos.",
+      "sourceIds": [
+        "primary277-row-92"
+      ],
+      "id": "primary277-fact-92-survivors",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-92"
+      },
+      "kind": "background",
+      "text": "Lee un informe que apunta a la posible supervivencia de oyentes huidos. Todavía no se encuentra con ellos.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -146137,6 +147336,10 @@ window.ATLAS_DATA = {
         {
           "revision": 276,
           "notes": "Se cotejan las referencias al padre de Szeth, Jaxlim como madre de Venli, a la madre de Shallan y al matrimonio de Hesina y Lirin. La comparación de Vstim con un progenitor expresa su papel de babsk; no abre parentesco."
+        },
+        {
+          "revision": 277,
+          "notes": "El 85 documenta a la madre de Dabbid. El 91 amplía el testimonio de Teft sobre sus padres. Se conservan la filiación de Kaladin y los vínculos de Jaxlim ya registrados."
         }
       ]
     }
@@ -149711,7 +150914,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 276,
+  "revision": 277,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -153788,6 +154991,90 @@ window.ATLAS_DATA = {
       "label": "Capítulo 82 · Daga",
       "part": "row-4",
       "source": "primary276-row-82"
+    },
+    {
+      "id": "row-chapter-83",
+      "bookId": "row",
+      "chapter": 83,
+      "label": "Capítulo 83 · Los juegos de hombres y cantores",
+      "part": "row-4",
+      "source": "primary277-row-83"
+    },
+    {
+      "id": "row-chapter-84",
+      "bookId": "row",
+      "chapter": 84,
+      "label": "Capítulo 84 · Erudita",
+      "part": "row-4",
+      "source": "primary277-row-84"
+    },
+    {
+      "id": "row-chapter-85",
+      "bookId": "row",
+      "chapter": 85,
+      "label": "Capítulo 85 · Dabbid",
+      "part": "row-4",
+      "source": "primary277-row-85"
+    },
+    {
+      "id": "row-chapter-86",
+      "bookId": "row",
+      "chapter": 86,
+      "label": "Capítulo 86 · La canción de las mañanas",
+      "part": "row-4",
+      "source": "primary277-row-86",
+      "flashback": true,
+      "narrativeFrame": "flashback"
+    },
+    {
+      "id": "row-chapter-87",
+      "bookId": "row",
+      "chapter": 87,
+      "label": "Capítulo 87 · Juicio por testimonio",
+      "part": "row-4",
+      "source": "primary277-row-87"
+    },
+    {
+      "id": "row-chapter-88",
+      "bookId": "row",
+      "chapter": 88,
+      "label": "Capítulo 88 · Estrella fugaz",
+      "part": "row-4",
+      "source": "primary277-row-88",
+      "flashback": true,
+      "narrativeFrame": "flashback"
+    },
+    {
+      "id": "row-chapter-89",
+      "bookId": "row",
+      "chapter": 89,
+      "label": "Capítulo 89 · Voz de las luces",
+      "part": "row-4",
+      "source": "primary277-row-89"
+    },
+    {
+      "id": "row-chapter-90",
+      "bookId": "row",
+      "chapter": 90,
+      "label": "Capítulo 90 · Única oportunidad",
+      "part": "row-4",
+      "source": "primary277-row-90"
+    },
+    {
+      "id": "row-chapter-91",
+      "bookId": "row",
+      "chapter": 91,
+      "label": "Capítulo 91 · Merecedor de salvación",
+      "part": "row-4",
+      "source": "primary277-row-91"
+    },
+    {
+      "id": "row-chapter-92",
+      "bookId": "row",
+      "chapter": 92,
+      "label": "Capítulo 92 · Un regalo",
+      "part": "row-4",
+      "source": "primary277-row-92"
     }
   ],
   "experiencePresentation": {
@@ -179872,6 +181159,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Kaladin recuerda haber trepado por el exterior después de entrar en la tormenta."
           ]
+        },
+        {
+          "id": "primary277-85-kaladin-20",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft."
+          ]
+        },
+        {
+          "id": "primary277-91-kaladin-10",
+          "scene": "row-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-91",
+          "sourceIds": [
+            "primary277-row-91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-91"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes."
+          ]
         }
       ]
     },
@@ -201803,6 +203186,141 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Shallan habla por el cubo y recupera la daga oculta en su interior."
+          ]
+        },
+        {
+          "id": "primary277-87-shallan-20",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "placeId": "place-row87-lasting-tree",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-tree",
+          "coordinateAnchorName": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Shallan comprueba el efecto de la barrera y cae desde el árbol.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan comprueba el efecto de la barrera y cae desde el árbol."
+          ]
+        },
+        {
+          "id": "primary277-90-shallan-10",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Adolin declara y las preguntas del público se vuelven hostiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin declara y las preguntas del público se vuelven hostiles."
+          ]
+        },
+        {
+          "id": "primary277-90-shallan-20",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "placeId": "place-row78-lasting-quarters",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row78-lasting-quarters",
+          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Shallan y Adolin hablan después de abandonar el foro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Adolin hablan después de abandonar el foro."
           ]
         }
       ]
@@ -246584,6 +248102,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Adolin plantea su solicitud ante Kelek y se decide que el juicio será por testimonio."
           ]
+        },
+        {
+          "id": "primary277-87-adolin-10",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Primera jornada del juicio. Declaran Amuna, Mezcla y Notum.",
+          "needsConfirmation": [],
+          "notes": [
+            "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
+        },
+        {
+          "id": "primary277-90-adolin-10",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Adolin declara y las preguntas del público se vuelven hostiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin declara y las preguntas del público se vuelven hostiles."
+          ]
+        },
+        {
+          "id": "primary277-90-adolin-20",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "placeId": "place-row78-lasting-quarters",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row78-lasting-quarters",
+          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Shallan y Adolin hablan después de abandonar el foro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan y Adolin hablan después de abandonar el foro."
+          ]
         }
       ]
     },
@@ -265372,6 +267025,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Navani y Rabeniel sincronizan sus tonos y obtienen una luz híbrida."
           ]
+        },
+        {
+          "id": "primary277-84-navani-10",
+          "scene": "row-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Biblioteca donde Rabeniel deja a Navani estudiar la luz",
+          "placeId": "place-row61-library-light-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/61.Aceite.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-84",
+          "sourceIds": [
+            "primary277-row-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-84"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/84.Erudita.xhtml. Rabeniel presta a Navani una daga y esta comprueba que el emparejamiento del rubí sigue funcionando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rabeniel presta a Navani una daga y esta comprueba que el emparejamiento del rubí sigue funcionando."
+          ]
+        },
+        {
+          "id": "primary277-89-navani-10",
+          "scene": "row-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Biblioteca donde Rabeniel deja a Navani estudiar la luz",
+          "placeId": "place-row61-library-light-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/61.Aceite.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-89",
+          "sourceIds": [
+            "primary277-row-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-89"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Los tonos se prueban en el laboratorio; Navani habla después con el Hermano por la veta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los tonos se prueban en el laboratorio; Navani habla después con el Hermano por la veta."
+          ]
         }
       ]
     },
@@ -274694,6 +276443,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dabbid trae víveres y gemas; Kaladin ayuda a alimentar a Teft."
+          ]
+        },
+        {
+          "id": "primary277-85-teft-20",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft."
+          ]
+        },
+        {
+          "id": "primary277-91-teft-10",
+          "scene": "row-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-91",
+          "sourceIds": [
+            "primary277-row-91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-91"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes."
           ]
         }
       ]
@@ -295446,6 +297291,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Los tres recorren las mesetas; Eshonai y Thude hablan de la guerra."
           ]
+        },
+        {
+          "id": "primary277-83-shen-20",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Enfermería de los Radiantes en la lavandería",
+          "placeId": "place-row74-radiant-ward",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/74.Simbolo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. En la enfermería discuten cómo ayudar a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "En la enfermería discuten cómo ayudar a Kaladin."
+          ]
+        },
+        {
+          "id": "primary277-83-shen-40",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 40,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala donde se reúne el grupo tras liberar a Lift",
+          "placeId": "place-row83-lift-meeting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin."
+          ]
+        },
+        {
+          "id": "primary277-85-shen-10",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Punto de encuentro de la novena planta",
+          "placeId": "place-row85-ninth-floor-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Rlain y Dabbid se reúnen con Lift antes de subir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rlain y Dabbid se reúnen con Lift antes de subir."
+          ]
+        },
+        {
+          "id": "primary277-85-shen-20",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft."
+          ]
+        },
+        {
+          "id": "primary277-91-shen-10",
+          "scene": "row-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-91",
+          "sourceIds": [
+            "primary277-row-91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-91"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes."
+          ]
         }
       ]
     },
@@ -297054,6 +299139,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Rlain expone sus sospechas y estudia con Hesina los mapas."
           ]
+        },
+        {
+          "id": "primary277-83-lirin-20",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Enfermería de los Radiantes en la lavandería",
+          "placeId": "place-row74-radiant-ward",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/74.Simbolo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. En la enfermería discuten cómo ayudar a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "En la enfermería discuten cómo ayudar a Kaladin."
+          ]
         }
       ]
     },
@@ -298367,6 +300500,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Rlain expone sus sospechas y estudia con Hesina los mapas."
+          ]
+        },
+        {
+          "id": "primary277-83-hesina-20",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Enfermería de los Radiantes en la lavandería",
+          "placeId": "place-row74-radiant-ward",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/74.Simbolo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. En la enfermería discuten cómo ayudar a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "En la enfermería discuten cómo ayudar a Kaladin."
           ]
         }
       ]
@@ -308150,6 +310331,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dabbid pide ayuda para Kaladin, que no despierta."
+          ]
+        },
+        {
+          "id": "primary277-83-dabbid-40",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 40,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala donde se reúne el grupo tras liberar a Lift",
+          "placeId": "place-row83-lift-meeting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin."
+          ]
+        },
+        {
+          "id": "primary277-85-dabbid-10",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Punto de encuentro de la novena planta",
+          "placeId": "place-row85-ninth-floor-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Rlain y Dabbid se reúnen con Lift antes de subir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rlain y Dabbid se reúnen con Lift antes de subir."
+          ]
+        },
+        {
+          "id": "primary277-85-dabbid-20",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft."
+          ]
+        },
+        {
+          "id": "primary277-91-dabbid-10",
+          "scene": "row-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-91",
+          "sourceIds": [
+            "primary277-row-91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-91"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes."
           ]
         }
       ]
@@ -319483,6 +321856,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Shallan habla por el cubo y recupera la daga oculta en su interior."
           ]
+        },
+        {
+          "id": "primary277-87-pattern-20",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "placeId": "place-row87-lasting-tree",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-tree",
+          "coordinateAnchorName": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Shallan comprueba el efecto de la barrera y cae desde el árbol.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan comprueba el efecto de la barrera y cae desde el árbol."
+          ]
+        },
+        {
+          "id": "primary277-90-pattern-10",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Adolin declara y las preguntas del público se vuelven hostiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin declara y las preguntas del público se vuelven hostiles."
+          ]
         }
       ]
     },
@@ -324254,6 +326717,148 @@ window.ATLAS_DATA = {
           "notes": [
             "Los tres recorren las mesetas; Eshonai y Thude hablan de la guerra."
           ]
+        },
+        {
+          "id": "primary277-86-eshonai-30",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Eshonai y Venli conversan sobre las formas y la situación de los oyentes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai y Venli conversan sobre las formas y la situación de los oyentes."
+          ]
+        },
+        {
+          "id": "primary277-88-eshonai-10",
+          "scene": "row-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-88",
+          "sourceIds": [
+            "primary277-row-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-88"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml. Eshonai vuelve a casa de su madre y Venli le muestra lo que ha encontrado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai vuelve a casa de su madre y Venli le muestra lo que ha encontrado."
+          ]
+        },
+        {
+          "id": "primary277-88-eshonai-20",
+          "scene": "row-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Llanuras Quebradas · Borde del precipicio donde Eshonai ve al spren",
+          "placeId": "place-row88-storm-chasm-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-88",
+          "sourceIds": [
+            "primary277-row-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-88"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml. Sale hacia la alta tormenta y ve a un abismoide junto a un pequeño spren luminoso.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sale hacia la alta tormenta y ve a un abismoide junto a un pequeño spren luminoso."
+          ]
         }
       ]
     },
@@ -327908,6 +330513,483 @@ window.ATLAS_DATA = {
           "notes": [
             "Venli muestra cinco gemas con vacíospren y explica su plan a los estudiosos."
           ]
+        },
+        {
+          "id": "primary277-83-venli-10",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo donde se reúnen Venli y Leshwi",
+          "placeId": "place-row83-leshwi-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Venli pregunta a Leshwi por Rabeniel y sus intenciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli pregunta a Leshwi por Rabeniel y sus intenciones."
+          ]
+        },
+        {
+          "id": "primary277-83-venli-20",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Enfermería de los Radiantes en la lavandería",
+          "placeId": "place-row74-radiant-ward",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/74.Simbolo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. En la enfermería discuten cómo ayudar a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "En la enfermería discuten cómo ayudar a Kaladin."
+          ]
+        },
+        {
+          "id": "primary277-83-venli-30",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Celda de Lift y pared por donde sale",
+          "placeId": "place-row83-lift-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Venli utiliza su poder sobre la piedra para abrir una salida a Lift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli utiliza su poder sobre la piedra para abrir una salida a Lift."
+          ]
+        },
+        {
+          "id": "primary277-83-venli-40",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 40,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala donde se reúne el grupo tras liberar a Lift",
+          "placeId": "place-row83-lift-meeting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin."
+          ]
+        },
+        {
+          "id": "primary277-86-venli-10",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Calle por donde Denshil lleva la gema",
+          "placeId": "place-row86-narak-gem-route",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Venli exige a Denshil que reserve más gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli exige a Denshil que reserve más gemas."
+          ]
+        },
+        {
+          "id": "primary277-86-venli-20",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Encuentra a su madre con la cabeza vendada y habla con Mikaim.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a su madre con la cabeza vendada y habla con Mikaim."
+          ]
+        },
+        {
+          "id": "primary277-86-venli-30",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Eshonai y Venli conversan sobre las formas y la situación de los oyentes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai y Venli conversan sobre las formas y la situación de los oyentes."
+          ]
+        },
+        {
+          "id": "primary277-88-venli-10",
+          "scene": "row-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-88",
+          "sourceIds": [
+            "primary277-row-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-88"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml. Eshonai vuelve a casa de su madre y Venli le muestra lo que ha encontrado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai vuelve a casa de su madre y Venli le muestra lo que ha encontrado."
+          ]
+        },
+        {
+          "id": "primary277-92-venli-10",
+          "scene": "row-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada del pasillo de los murales",
+          "placeId": "place-row92-mural-reports",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-92",
+          "sourceIds": [
+            "primary277-row-92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-92"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Venli interpreta los informes junto al trono de Rabeniel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli interpreta los informes junto al trono de Rabeniel."
+          ]
+        },
+        {
+          "id": "primary277-92-venli-20",
+          "scene": "row-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Escritorio de Rabeniel al final del pasillo",
+          "placeId": "place-row92-rabeniel-desk",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-92",
+          "sourceIds": [
+            "primary277-row-92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-92"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Rabeniel entrega a Venli un informe que podría referirse a los oyentes que escaparon.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rabeniel entrega a Venli un informe que podría referirse a los oyentes que escaparon."
+          ]
         }
       ]
     },
@@ -331412,6 +334494,147 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Jaxlim intenta recitar las canciones de los antepasados."
+          ]
+        },
+        {
+          "id": "primary277-86-jaxlim-20",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Encuentra a su madre con la cabeza vendada y habla con Mikaim.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a su madre con la cabeza vendada y habla con Mikaim."
+          ]
+        },
+        {
+          "id": "primary277-86-jaxlim-30",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Eshonai y Venli conversan sobre las formas y la situación de los oyentes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai y Venli conversan sobre las formas y la situación de los oyentes."
+          ]
+        },
+        {
+          "id": "primary277-88-jaxlim-10",
+          "scene": "row-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-88",
+          "sourceIds": [
+            "primary277-row-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-88"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/88.Estrella.xhtml. Eshonai vuelve a casa de su madre y Venli le muestra lo que ha encontrado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Eshonai vuelve a casa de su madre y Venli le muestra lo que ha encontrado."
           ]
         }
       ]
@@ -348493,6 +351716,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El enviado presenta una Danzante del Filo despierta en una jaula y ofrece un trato para usar las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary277-83-lift-30",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Celda de Lift y pared por donde sale",
+          "placeId": "place-row83-lift-cell",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Venli utiliza su poder sobre la piedra para abrir una salida a Lift.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli utiliza su poder sobre la piedra para abrir una salida a Lift."
+          ]
+        },
+        {
+          "id": "primary277-83-lift-40",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 40,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala donde se reúne el grupo tras liberar a Lift",
+          "placeId": "place-row83-lift-meeting-room",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dabbid y Rlain se reúnen con Venli y Lift y piden ayuda para Kaladin."
+          ]
+        },
+        {
+          "id": "primary277-85-lift-10",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Punto de encuentro de la novena planta",
+          "placeId": "place-row85-ninth-floor-rendezvous",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Rlain y Dabbid se reúnen con Lift antes de subir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rlain y Dabbid se reúnen con Lift antes de subir."
+          ]
+        },
+        {
+          "id": "primary277-85-lift-20",
+          "scene": "row-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-85",
+          "sourceIds": [
+            "primary277-row-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-85"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml. Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift reinfunde la entrada, cura a Kaladin y despierta también a Teft."
           ]
         }
       ]
@@ -383714,6 +387129,96 @@ window.ATLAS_DATA = {
           "notes": [
             "Adolin plantea su solicitud ante Kelek y se decide que el juicio será por testimonio."
           ]
+        },
+        {
+          "id": "primary277-87-kelek-puuli-10",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Primera jornada del juicio. Declaran Amuna, Mezcla y Notum.",
+          "needsConfirmation": [],
+          "notes": [
+            "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
+        },
+        {
+          "id": "primary277-90-kelek-puuli-10",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Adolin declara y las preguntas del público se vuelven hostiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin declara y las preguntas del público se vuelven hostiles."
+          ]
         }
       ]
     },
@@ -386614,6 +390119,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Teft invoca su lanza esquirlada al presentarse como Radiante en la puerta."
           ]
+        },
+        {
+          "id": "primary277-91-phendorana-10",
+          "scene": "row-chapter-91",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Refugio de la décima planta",
+          "placeId": "place-row85-tenth-floor-hideout",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/85.Dabbid.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-91",
+          "sourceIds": [
+            "primary277-row-91"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-91"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/91.Merecedor.xhtml. Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ya convalecientes, debaten la defensa del último nodo y cómo liberar a los Radiantes."
+          ]
         }
       ]
     },
@@ -388112,6 +391665,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kaladin esquiva al Perseguidor y combate con Leshwi mientras Syl busca el nodo."
+          ]
+        },
+        {
+          "id": "primary277-83-moash-duel-fused-10",
+          "scene": "row-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo donde se reúnen Venli y Leshwi",
+          "placeId": "place-row83-leshwi-passage",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-83",
+          "sourceIds": [
+            "primary277-row-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-83"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/83.Juegos.xhtml. Venli pregunta a Leshwi por Rabeniel y sus intenciones.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli pregunta a Leshwi por Rabeniel y sus intenciones."
           ]
         }
       ]
@@ -441148,6 +444749,51 @@ window.ATLAS_DATA = {
           "notes": [
             "La portavoz rechaza inicialmente la delegación. Adolin solicita que lo juzguen."
           ]
+        },
+        {
+          "id": "primary277-87-notum-ob108-10",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Primera jornada del juicio. Declaran Amuna, Mezcla y Notum.",
+          "needsConfirmation": [],
+          "notes": [
+            "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
         }
       ]
     },
@@ -454095,6 +457741,198 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Navani y Rabeniel sincronizan sus tonos y obtienen una luz híbrida."
+          ]
+        },
+        {
+          "id": "primary277-84-rabeniel-row14-10",
+          "scene": "row-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Biblioteca donde Rabeniel deja a Navani estudiar la luz",
+          "placeId": "place-row61-library-light-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/61.Aceite.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-84",
+          "sourceIds": [
+            "primary277-row-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-84"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/84.Erudita.xhtml. Rabeniel presta a Navani una daga y esta comprueba que el emparejamiento del rubí sigue funcionando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rabeniel presta a Navani una daga y esta comprueba que el emparejamiento del rubí sigue funcionando."
+          ]
+        },
+        {
+          "id": "primary277-89-rabeniel-row14-10",
+          "scene": "row-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Biblioteca donde Rabeniel deja a Navani estudiar la luz",
+          "placeId": "place-row61-library-light-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/61.Aceite.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-89",
+          "sourceIds": [
+            "primary277-row-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-89"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Los tonos se prueban en el laboratorio; Navani habla después con el Hermano por la veta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los tonos se prueban en el laboratorio; Navani habla después con el Hermano por la veta."
+          ]
+        },
+        {
+          "id": "primary277-92-rabeniel-row14-10",
+          "scene": "row-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada del pasillo de los murales",
+          "placeId": "place-row92-mural-reports",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-92",
+          "sourceIds": [
+            "primary277-row-92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-92"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Venli interpreta los informes junto al trono de Rabeniel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli interpreta los informes junto al trono de Rabeniel."
+          ]
+        },
+        {
+          "id": "primary277-92-rabeniel-row14-20",
+          "scene": "row-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Escritorio de Rabeniel al final del pasillo",
+          "placeId": "place-row92-rabeniel-desk",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-92",
+          "sourceIds": [
+            "primary277-row-92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-92"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Rabeniel entrega a Venli un informe que podría referirse a los oyentes que escaparon.",
+          "needsConfirmation": [],
+          "notes": [
+            "Rabeniel entrega a Venli un informe que podría referirse a los oyentes que escaparon."
           ]
         }
       ]
@@ -469588,6 +473426,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Adolin plantea su solicitud ante Kelek y se decide que el juicio será por testimonio."
           ]
+        },
+        {
+          "id": "primary277-87-mix-row78-10",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Primera jornada del juicio. Declaran Amuna, Mezcla y Notum.",
+          "needsConfirmation": [],
+          "notes": [
+            "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
         }
       ]
     },
@@ -469643,6 +473526,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El grupo ve llegar al juez y Lusintia explica que se trata del Heraldo Kalak."
+          ]
+        },
+        {
+          "id": "primary277-87-lusintia-row78-20",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "placeId": "place-row87-lasting-tree",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-tree",
+          "coordinateAnchorName": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Shallan comprueba el efecto de la barrera y cae desde el árbol.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan comprueba el efecto de la barrera y cae desde el árbol."
           ]
         }
       ]
@@ -469768,6 +473696,408 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin plantea su solicitud ante Kelek y se decide que el juicio será por testimonio."
+          ]
+        },
+        {
+          "id": "primary277-87-sekeir-row82-10",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Primera jornada del juicio. Declaran Amuna, Mezcla y Notum.",
+          "needsConfirmation": [],
+          "notes": [
+            "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dabbid-mother-row85",
+      "name": "Madre de Dabbid",
+      "initial": "M",
+      "role": "Dabbid recuerda la forma en que su madre hablaba de sus diferencias y el trato que recibió tras perderla.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "denshil-row86",
+      "name": "Denshil",
+      "initial": "D",
+      "role": "Trabaja con las gemas corazón y negocia con Venli cómo conseguir más.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary277-86-denshil-row86-10",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Calle por donde Denshil lleva la gema",
+          "placeId": "place-row86-narak-gem-route",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Venli exige a Denshil que reserve más gemas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli exige a Denshil que reserve más gemas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mikaim-row86",
+      "name": "Mikaim",
+      "initial": "M",
+      "role": "Estudiosa de Venli y cirujana que cuida a Jaxlim.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary277-86-mikaim-row86-20",
+          "scene": "row-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Vivienda de la madre de Eshonai y Venli",
+          "placeId": "place-narak-jaxlim-home",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-86",
+          "sourceIds": [
+            "primary277-row-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 1.5,
+            "note": "Intervalo indicado en el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-86"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/86.Cancion.xhtml. Encuentra a su madre con la cabeza vendada y habla con Mikaim.",
+          "needsConfirmation": [],
+          "notes": [
+            "Encuentra a su madre con la cabeza vendada y habla con Mikaim."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amuna-row87",
+      "name": "Amuna",
+      "initial": "A",
+      "role": "Honorspren encargada del cuidado de los ojomuertos que declara ante el tribunal.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary277-87-amuna-row87-10",
+          "scene": "row-chapter-87",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-87",
+          "sourceIds": [
+            "primary277-row-87"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-87"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml. Primera jornada del juicio. Declaran Amuna, Mezcla y Notum.",
+          "needsConfirmation": [],
+          "notes": [
+            "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tone-playing-singers-row89",
+      "name": "Dos cantoras que interpretan los tonos",
+      "initial": "D",
+      "role": "Rabeniel les pide producir tonos con arcos y placas de metal.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary277-89-tone-playing-singers-row89-10",
+          "scene": "row-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Biblioteca donde Rabeniel deja a Navani estudiar la luz",
+          "placeId": "place-row61-library-light-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/61.Aceite.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-89",
+          "sourceIds": [
+            "primary277-row-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-89"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/89.Voz.xhtml. Los tonos se prueban en el laboratorio; Navani habla después con el Hermano por la veta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los tonos se prueban en el laboratorio; Navani habla después con el Hermano por la veta."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veratorim-row90",
+      "name": "Veratorim",
+      "initial": "V",
+      "role": "Spren al que Kelek llama al orden cuando interrumpe la declaración.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary277-90-veratorim-row90-10",
+          "scene": "row-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Integridad Duradera: sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-90",
+          "sourceIds": [
+            "primary277-row-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-row87-lasting-forum",
+          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-90"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/90.Oportunidad.xhtml. Adolin declara y las preguntas del público se vuelven hostiles.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin declara y las preguntas del público se vuelven hostiles."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regal-report-row92",
+      "name": "Regia que informa de la búsqueda",
+      "initial": "R",
+      "role": "Presenta un informe ante Rabeniel y Venli traduce la respuesta.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary277-92-regal-report-row92-10",
+          "scene": "row-chapter-92",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Entrada del pasillo de los murales",
+          "placeId": "place-row92-mural-reports",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary277-row-92",
+          "sourceIds": [
+            "primary277-row-92"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Secuencia narrativa del capítulo."
+          },
+          "revealedAt": {
+            "bookId": "row",
+            "sceneId": "row-chapter-92"
+          },
+          "locator": "El ritmo de la guerra, EPUB español, OEBPS/Text/92.Regalo.xhtml. Venli interpreta los informes junto al trono de Rabeniel.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli interpreta los informes junto al trono de Rabeniel."
           ]
         }
       ]
