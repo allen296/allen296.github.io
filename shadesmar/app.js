@@ -179,23 +179,23 @@ function keepTimelineViewport(update){
  if(preserve&&window.scrollY!==y&&typeof window.scrollTo==='function')window.scrollTo({left:Number.isFinite(x)?x:0,top:y,behavior:'instant'});
 }
 function go(value){keepTimelineViewport(()=>{stop();expandedClusters.clear();const target=Math.max(0,Math.min(scenes.length-1,value));step=skipFlashbacks&&(scenes[target].flashback||scenes[target].memoryEventId)?nextReadingStep(target,value<step?-1:1):target;memoryView=false;render();showSelectedGroup();});}
-let unlocatedTrayExpanded=false,dawnshardTrayExpanded=true;
-function renderMemoryTokens(people,chapterMode=false){
+let unlocatedTrayExpanded=false,dawnshardTrayExpanded=true,documentedTrayExpanded=true;
+function renderMemoryTokens(people,chapterMode=false,documentedChapter=false){
  const panel=$('memoryUnlocatedPanel'),grid=$('memoryUnlocatedTokens');
- const dawnshardChapter=chapterMode&&dawnshardScene(),expanded=dawnshardChapter?dawnshardTrayExpanded:unlocatedTrayExpanded;
+ const dawnshardChapter=chapterMode&&dawnshardScene(),expanded=dawnshardChapter?dawnshardTrayExpanded:documentedChapter?documentedTrayExpanded:unlocatedTrayExpanded;
  const visible=inMemory()||chapterMode?people.slice().sort((a,b)=>characterName(a).localeCompare(characterName(b),'es')||a.id.localeCompare(b.id)):[];
  panel.setAttribute('aria-label',dawnshardChapter?'Personajes del capítulo sin punto en el mapa':chapterMode?'Personajes mencionados sin ubicación en este capítulo':'Personajes del recuerdo sin ubicación conocida');
- $('memoryUnlocatedCaption').textContent=chapterMode?'No se ha podido localizar en este capítulo a estos personajes':'Personajes del recuerdo · Sin ubicación conocida';
+ $('memoryUnlocatedCaption').textContent=documentedChapter?'La ubicación de estos personajes en este capítulo no tiene coordenadas en el mapa':chapterMode?'No se ha podido localizar en este capítulo a estos personajes':'Personajes del recuerdo · Sin ubicación conocida';
  panel.hidden=visible.length===0;panel.style.maxWidth='360px';grid.replaceChildren();
  grid.hidden=!expanded;
  const toggle=$('toggleUnlocatedTokens');
  toggle.textContent=(expanded?'Ocultar':'Ver')+(dawnshardChapter?' personajes sin punto en el mapa (':' personajes sin localizar (')+visible.length+')';
  toggle.setAttribute('aria-expanded',String(expanded));
- toggle.onclick=()=>{if(dawnshardChapter)dawnshardTrayExpanded=!expanded;else unlocatedTrayExpanded=!expanded;render();};
+ toggle.onclick=()=>{if(dawnshardChapter)dawnshardTrayExpanded=!expanded;else if(documentedChapter)documentedTrayExpanded=!expanded;else unlocatedTrayExpanded=!expanded;render();};
  grid.onwheel=e=>e.stopPropagation();grid.onpointerdown=e=>e.stopPropagation();
  for(const p of visible){
   const b=document.createElement('button'),active=detailOpen&&selected===p.id,color=markerColor(p);
-  b.type='button';b.className='memory-unlocated-token';b.setAttribute('data-character-id',p.id);b.setAttribute('data-location-state','unlocated');b.setAttribute('aria-label',characterName(p)+(dawnshardChapter?' · Sin punto en el mapa':chapterMode?' · Sin ubicación documentada en este capítulo':' · Recuerdo sin ubicación conocida'));b.setAttribute('aria-pressed',String(active));b.setAttribute('title',characterName(p)+' · '+(dawnshardChapter&&last(p)?.scene===scenes[step].id?last(p).place+' (sin punto en el mapa)':'Ubicación desconocida'));
+  b.type='button';b.className='memory-unlocated-token';b.setAttribute('data-character-id',p.id);b.setAttribute('data-location-state','unlocated');b.setAttribute('aria-label',characterName(p)+(dawnshardChapter?' · Sin punto en el mapa':chapterMode?' · Sin ubicación documentada en este capítulo':' · Recuerdo sin ubicación conocida'));b.setAttribute('aria-pressed',String(active));b.setAttribute('title',characterName(p)+' · '+((dawnshardChapter||documentedChapter)&&last(p)?.scene===scenes[step].id?last(p).place+' (sin punto en el mapa)':'Ubicación desconocida'));
   b.innerHTML='<svg viewBox="-32 -32 64 64" width="58" height="58" aria-hidden="true" focusable="false"><path d="M-27 -20L-27 -27L-20 -27M20 -27L27 -27L27 -20M27 20L27 27L20 27M-20 27L-27 27L-27 20" fill="none" stroke="#c7a4ff" stroke-width="2"/>'+(active?'<circle r="25" fill="none" stroke="#fff1c6" stroke-width="2"/>':'')+'<circle r="19" fill="#10212a" stroke="'+color+'" stroke-width="2.5"/><text text-anchor="middle" dy="4" fill="'+color+'" font-family="system-ui" font-weight="700" font-size="12">'+escapeHtml(markerCode(p))+'</text></svg><span>'+escapeHtml(characterName(p))+'</span>';
   b.onclick=()=>{if(chapterMode&&!last(p)){selectRelationshipPerson(p.id);showAtlasView('relationships');}else focusCharacter(p.id);};grid.append(b);
  }
@@ -236,7 +236,12 @@ function renderAtlas(){
  const mapLayers=updateMapLayers(onlyChapterCharacters&&current&&!chapterCharacterVisible(current)?null:evidence,scene);
  const chapterMentionsMode=(onlyChapterCharacters||dawnshardScene())&&(!inMemory()||scene.id==='prelude');
  const chapterUnlocated=chapterMentionsMode?(typeof relationshipPeople==='function'?relationshipPeople():cast).filter(p=>isVisible(p)&&(inDisplayedRealm(p)||dawnshardScene()&&!last(p))&&(dawnshardScene()?currentChapterIds().has(p.id)&&(!last(p)||last(p).scene!==scene.id||!mapEvidence(p)):!chapterLocationAvailable(p))&&characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es'))):[];
- renderMemoryTokens(chapterUnlocated.length?chapterUnlocated:visibleMemoryUnlocated,chapterMentionsMode);
+ const currentWithoutPoint=(!inMemory()&&!dawnshardScene()?available:[]).filter(p=>{
+  const reference=last(p);
+  return reference?.scene===scene.id&&!reference.xy&&isVisible(p)&&inDisplayedRealm(p)&&characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es'));
+ });
+ const documentedChapter=currentWithoutPoint.length>0;
+ renderMemoryTokens(chapterUnlocated.length?chapterUnlocated:documentedChapter?currentWithoutPoint:visibleMemoryUnlocated,chapterMentionsMode||documentedChapter,documentedChapter);
  const filtered=available.filter(categoryVisible).filter(chapterCharacterVisible).filter(p=>characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es')));
  $('count').textContent=available.filter(p=>isVisible(p)&&inDisplayedRealm(p)).length+' / '+available.length+' visibles';$('people').replaceChildren();
  for(const p of filtered){
