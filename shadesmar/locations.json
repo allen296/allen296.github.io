@@ -148021,6 +148021,54 @@
       "kind": "background",
       "text": "Siente que algo no encaja tras el encuentro. Odium ha intervenido en la Investidura externa con la que conserva recuerdos.",
       "supersedes": []
+    },
+    {
+      "id": "primary281-row-brazalete",
+      "characterId": "navani",
+      "kind": "background",
+      "text": "Guía a Kaladin por la veta para emparejar los rubíes del brazalete con los pesos de la planta 19. El aparato transmite la tracción de los pesos y Kaladin decide cuándo acoplarlo.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/63.Practica.xhtml. Instalación de rubíes y explicación del interruptor.",
+      "sourceIds": [
+        "primary275-row-63"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-63"
+      },
+      "supersedes": []
+    },
+    {
+      "id": "primary281-row-contrapesos",
+      "characterId": "kaladin",
+      "kind": "background",
+      "text": "Con el brazalete activo, el brazo se desplaza en la dirección en que apunta. Al desconectarlo libera el brazo y los frenos detienen el peso.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/63.Practica.xhtml. Pruebas del brazalete y verificación del freno en el hueco.",
+      "sourceIds": [
+        "primary275-row-63"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-63"
+      },
+      "supersedes": []
+    },
+    {
+      "id": "primary281-row-figuras",
+      "characterId": "venli",
+      "kind": "background",
+      "text": "Mientras practica en Urithiru, oye que la piedra la reconoce y ve pequeñas figuras que dan forma a hogares. Es una experiencia de Venli mientras toca la piedra.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/67.Cancion.xhtml. La piedra responde y presenta escenas de los antiguos.",
+      "sourceIds": [
+        "primary275-row-67"
+      ],
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-67"
+      },
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -154574,7 +154622,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 280,
+  "revision": 281,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
