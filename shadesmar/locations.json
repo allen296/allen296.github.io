@@ -4671,6 +4671,7 @@
       "kaladin",
       "laral",
       "lirin",
+      "navani",
       "roshone"
     ],
     "row-chapter-2": [
@@ -4684,8 +4685,10 @@
       "laral",
       "lirin",
       "lyn",
+      "navani",
       "oroden",
       "roshone",
+      "shallan",
       "syl"
     ],
     "row-chapter-3": [
@@ -4704,6 +4707,7 @@
     ],
     "row-chapter-4": [
       "ialai",
+      "navani",
       "pattern",
       "shallan",
       "sons-honor-fabrial-operator-row4",
@@ -4725,6 +4729,7 @@
       "lopen",
       "lyn",
       "moash-duel-fused",
+      "navani",
       "red",
       "rock",
       "roshone",
@@ -4771,6 +4776,7 @@
       "ishnah",
       "kaladin",
       "lift",
+      "navani",
       "pattern",
       "red",
       "roshone",
@@ -4787,6 +4793,7 @@
       "jeber-row8",
       "kaladin",
       "moash",
+      "navani",
       "pattern",
       "red",
       "renarin",
@@ -148069,6 +148076,214 @@
         "sceneId": "row-chapter-67"
       },
       "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-1",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-1"
+      },
+      "kind": "background",
+      "text": "En su lección sobre fabriales, Navani explica que la gema y un estímulo familiar ayudan a atraer al spren. Usa la hoguera y los llamaspren como ejemplo.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/1.Callosidades.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-1-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-2",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-2"
+      },
+      "kind": "background",
+      "text": "Navani describe cómo un spren examina una gema parcialmente infusa. El grado que cita procede de los experimentos de su equipo.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/2.Medula.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-2-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-3",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "Navani describe al larkin como un cremlino que consume luz tormentosa. Relaciona la búsqueda de estas criaturas con las guerras de Aimia.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-3-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-4",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-4"
+      },
+      "kind": "background",
+      "text": "Navani describe el método amista de transferencia de luz y menciona las gemas grandes del gremio Vriztl de Thaylenah.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/4.Arquitectos.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-4-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-5",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-5"
+      },
+      "kind": "background",
+      "text": "Navani compara la retirada rápida de luz y la captura del spren con un diferencial de presión, y distingue los fundamentos de ambos fenómenos.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/5.Lanzas.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-5-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-6",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-6"
+      },
+      "kind": "background",
+      "text": "Navani explica que la jaula permite controlar el fabrial porque el spren atrapado responde de manera distinta a cada metal.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/6.Cabo.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-6-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-7",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-7"
+      },
+      "kind": "background",
+      "text": "Navani atribuye al zinc y al latón efectos opuestos sobre la intensidad con que se manifiesta el spren atrapado.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/7.Variedad.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-7-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-8",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-8"
+      },
+      "kind": "background",
+      "text": "Navani describe el bronce y el heliodoro en fabriales admonitorios. Plantea que otras gemas podrían funcionar.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/8.Rendicion.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-8-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-9",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-9"
+      },
+      "kind": "background",
+      "text": "Navani describe las jaulas de peltre como aumentadores y pone como ejemplo el calor de un llamaspren.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/9.Contradicciones.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-9-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-epigraph-10",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-10"
+      },
+      "kind": "background",
+      "text": "Navani describe el estaño como reductor y menciona el uso de acero y hierro para cambiar la polaridad en jaulas avanzadas.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/10.Sola-baja.xhtml · epígrafe y atribución de la lección de Navani",
+      "sourceIds": [
+        "primary283-row-10-epigraph"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-shallan-books",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-2"
+      },
+      "kind": "background",
+      "text": "Recuerda que aprendió contabilidad llevando los libros de su padre. El recuerdo surge mientras intenta concentrarse en las cuentas.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/2.Medula.xhtml · pasaje narrativo",
+      "sourceIds": [
+        "primary283-row-2-mention"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-navani-elhokar",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-3"
+      },
+      "kind": "background",
+      "text": "Al ver su nave, piensa que habría querido compartir la emoción con su hijo Elhokar.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/3.Cuarto.xhtml · pasaje narrativo",
+      "sourceIds": [
+        "primary283-row-3-mention"
+      ],
+      "supersedes": []
+    },
+    {
+      "id": "primary283-kaladin-lirin-advice",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "row",
+        "sceneId": "row-chapter-8"
+      },
+      "kind": "background",
+      "text": "En el comedor recuerda el criterio de su padre para priorizar a quienes aún puede auxiliar.",
+      "status": "confirmed",
+      "primaryLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/8.Rendicion.xhtml · pasaje narrativo",
+      "sourceIds": [
+        "primary283-row-8-mention"
+      ],
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -154622,7 +154837,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 282,
+  "revision": 283,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
