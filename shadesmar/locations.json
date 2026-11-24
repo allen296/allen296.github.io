@@ -154837,7 +154837,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 292,
+  "revision": 293,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -179308,9 +179308,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -179318,10 +179322,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -179353,9 +179357,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -179363,10 +179371,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -179398,9 +179406,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -179408,10 +179420,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -179443,9 +179455,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -179453,10 +179469,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -204945,9 +204961,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -204955,10 +204975,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -204990,9 +205010,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -205000,10 +205024,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -205035,9 +205059,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -205045,10 +205073,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -205080,9 +205108,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -205090,10 +205122,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207135,14 +207167,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -207150,10 +207184,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207495,14 +207529,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -207510,10 +207546,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207638,14 +207674,16 @@
           "memoryOrder": 50,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -207653,10 +207691,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207683,14 +207721,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -207698,10 +207738,10 @@
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221006,9 +221046,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -221016,10 +221060,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221051,9 +221095,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -221061,10 +221109,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221096,9 +221144,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -221106,10 +221158,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221141,9 +221193,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -221151,10 +221207,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252145,9 +252201,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -252155,10 +252215,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252190,9 +252250,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -252200,10 +252264,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252235,9 +252299,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -252245,10 +252313,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252280,9 +252348,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -252290,10 +252362,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253621,14 +253693,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -253636,10 +253710,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253756,14 +253830,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -253771,10 +253847,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -329525,9 +329601,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -329535,10 +329615,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -329570,9 +329650,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -329580,10 +329664,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -329615,9 +329699,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -329625,10 +329713,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -329660,9 +329748,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -329670,10 +329762,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330424,14 +330516,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -330439,10 +330533,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330559,14 +330653,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -330574,10 +330670,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330604,14 +330700,16 @@
           "memoryOrder": 50,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -330619,10 +330717,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330649,14 +330747,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -330664,10 +330764,10 @@
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -348217,14 +348317,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -348232,10 +348334,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -348352,14 +348454,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -348367,10 +348471,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -374557,14 +374661,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -374572,10 +374678,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -393478,14 +393584,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -393493,10 +393601,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -405336,14 +405444,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -405351,10 +405461,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -408625,14 +408735,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -408640,10 +408752,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -408670,14 +408782,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -408685,10 +408799,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -431543,14 +431657,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -431558,10 +431674,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -431588,14 +431704,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -431603,10 +431721,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450767,9 +450885,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -450777,10 +450899,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450812,9 +450934,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary226-ob112",
@@ -450822,10 +450948,10 @@
             "primary226-ob112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450857,9 +450983,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -450867,10 +450997,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-thaylen-overlook",
-          "coordinateAnchorName": "Shadesmar · Colina desde la que se ve la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450902,9 +451032,13 @@
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/112.Paralosvivos.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Punto regional de la aproximación a Ciudad Thaylen. La colina está al otro lado del valle desde el puente; el bosque da cobertura inmediata al grupo. Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob115",
@@ -450912,10 +451046,10 @@
             "primary228-ob115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob112-shadesmar-crimson-forest",
-          "coordinateAnchorName": "Shadesmar · Bosque de troncos carmesíes",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451138,14 +451272,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -451153,10 +451289,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451183,14 +451319,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -451198,10 +451336,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -454634,14 +454772,16 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
-          "placeId": "place-ob99-reacher-ship-deck",
+          "place": "Celebrant · Cubierta del barco de Ico durante la inspección",
+          "placeId": "place-ob102-ico-deck-celebrant",
           "realm": "cognitive",
           "placeNotes": [
-            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "El barco está en el puerto. La cubierta en tránsito conserva su registro propio."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -454649,10 +454789,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
-          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -455021,14 +455161,16 @@
           "memoryOrder": 2,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Cubierta del barco de los alcanzadores",
-          "placeId": "place-ob99-reacher-ship-deck",
+          "place": "Celebrant · Cubierta del barco de Ico durante la inspección",
+          "placeId": "place-ob102-ico-deck-celebrant",
           "realm": "cognitive",
           "placeNotes": [
-            "Juramentada, EPUB español, OEBPS/Text/99.Alcanzadores.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "El barco está en el puerto. La cubierta en tránsito conserva su registro propio."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -455036,10 +455178,10 @@
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob99-reacher-ship-deck",
-          "coordinateAnchorName": "Shadesmar · Cubierta del barco de los alcanzadores",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -457243,14 +457385,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -457258,10 +457402,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -466045,14 +466189,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -466060,10 +466206,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -466090,14 +466236,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -466105,10 +466253,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -472649,14 +472797,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -472664,10 +472814,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -473297,14 +473447,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -473312,10 +473464,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -473712,14 +473864,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -473727,10 +473881,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474028,14 +474182,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474043,10 +474199,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474784,14 +474940,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474799,10 +474957,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475132,14 +475290,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475147,10 +475307,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475431,14 +475591,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475446,10 +475608,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475761,14 +475923,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475776,10 +475940,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475941,14 +476105,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -475956,10 +476122,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -476203,14 +476369,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476218,10 +476386,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -476563,14 +476731,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476578,10 +476748,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -476727,14 +476897,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476742,10 +476914,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -476817,14 +476989,16 @@
           "memoryOrder": 10,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Barcaza durante la escala de las Orillas Astrales",
+          "placeId": "place-row29-barge-southern-stop",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Aproximación inmediata y estancia en la barcaza en la escala. Las escenas en alta mar quedan separadas."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -476832,10 +477006,10 @@
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -476971,14 +477145,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476986,10 +477162,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -477241,14 +477417,16 @@
           "memoryOrder": 40,
           "supersedes": [],
           "excludedFromRoute": false,
-          "place": "Shadesmar · Barcaza rumbo a la costa meridional",
-          "placeId": "place-row22-shadesmar-meridian-barge",
+          "place": "Shadesmar · Salida de la barcaza desde Urithiru",
+          "placeId": "place-row22-barge-departure",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Embarcación en movimiento. La ruta prevista no fija su posición diaria."
+            "Solo para la salida desde el embarcadero al pie de la columna."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -477256,10 +477434,10 @@
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-meridian-barge",
-          "coordinateAnchorName": "Shadesmar · Barcaza rumbo a la costa meridional",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
