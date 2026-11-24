@@ -6111,6 +6111,98 @@
       "design-row80",
       "taravangian",
       "wit"
+    ],
+    "wat-prologue": [
+      "dalinar",
+      "gavilar",
+      "sadeas",
+      "szeth",
+      "taravangian-mother-obi5",
+      "tearim"
+    ],
+    "wat-chapter-1": [
+      "cryptic-deadeye-row29",
+      "kaladin",
+      "shallan",
+      "syl",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-2": [
+      "hesina",
+      "kaladin",
+      "lirin",
+      "oroden",
+      "syl",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-3": [
+      "adolin",
+      "ba-ado-mishram-ob80",
+      "kelek-puuli",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "wind-truth-book-author-wat",
+      "wit"
+    ],
+    "wat-chapter-4": [
+      "dalinar",
+      "design-row80",
+      "kaladin",
+      "wind-truth-book-author-wat",
+      "wit"
+    ],
+    "wat-chapter-5": [
+      "adolin",
+      "godeke-row5",
+      "kelek-puuli",
+      "notum-ob108",
+      "shallan",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-6": [
+      "dalinar",
+      "kaladin",
+      "syl",
+      "szeth",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-7": [
+      "adolin",
+      "felt-scout-pr81",
+      "gallant",
+      "kelek-puuli",
+      "mosaic-wat7",
+      "ob87-platform-thread-spren",
+      "pattern",
+      "shallan",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-8": [
+      "adolin",
+      "dabbid",
+      "gallant",
+      "kaladin",
+      "leyten",
+      "shallan",
+      "syl",
+      "szeth",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-9": [
+      "adolin",
+      "drehy",
+      "kaladin",
+      "shallan",
+      "skar",
+      "syl",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-10": [
+      "book-steward-wat10",
+      "kaladin",
+      "syl",
+      "wind-truth-book-author-wat"
     ]
   },
   "knowledgeArchive": {
@@ -21873,6 +21965,40 @@
         },
         "field": "description",
         "readingLocator": "El ritmo de la guerra, EPUB español, OEBPS/Text/Epilogo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. Patrón describe la Conexión que Mishram estableció con los cantores.",
+        "sourceIds": [
+          "primary294-wat-3"
+        ],
+        "id": "primary294-archive-3-mishram",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "Patrón describe la Conexión que Mishram estableció con los cantores.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-3"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Señala a Shallan que antiguamente había reglas contra el solapamiento de vínculos Nahel; se conserva como su recuerdo.",
+        "sourceIds": [
+          "primary294-wat-5"
+        ],
+        "id": "primary294-archive-5-kelek",
+        "entryId": "herald-kelek-puuli",
+        "value": "Señala a Shallan que antiguamente había reglas contra el solapamiento de vínculos Nahel; se conserva como su recuerdo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-5"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml",
         "supersedes": []
       }
     ],
@@ -99856,6 +99982,707 @@
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Gavilar conversa con su hermano antes del asesinato.",
+      "sourceIds": [
+        "primary294-wat-prologue"
+      ],
+      "id": "primary294-pro-dalinar",
+      "participants": [
+        "gavilar",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7.5,
+        "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+      },
+      "type": "conversation",
+      "summary": "Gavilar conversa con su hermano antes del asesinato.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Gavilar conversa con su hermano antes del asesinato.",
+        "pairs": [
+          [
+            "gavilar",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Gavilar se enfrenta al asesino durante el ataque.",
+      "sourceIds": [
+        "primary294-wat-prologue"
+      ],
+      "id": "primary294-pro-attack",
+      "participants": [
+        "gavilar",
+        "szeth"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-prologue"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "at-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 7.5,
+        "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+      },
+      "type": "conflict",
+      "summary": "Gavilar se enfrenta al asesino durante el ataque.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Gavilar se enfrenta al asesino durante el ataque.",
+        "pairs": [
+          [
+            "gavilar",
+            "szeth"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Kaladin y Syl conversan mientras él se prepara.",
+      "sourceIds": [
+        "primary294-wat-1"
+      ],
+      "id": "primary294-1-syl",
+      "participants": [
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Kaladin y Syl conversan mientras él se prepara.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin y Syl conversan mientras él se prepara.",
+        "pairs": [
+          [
+            "kaladin",
+            "syl"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Shallan habla con Testimonio y la abraza.",
+      "sourceIds": [
+        "primary294-wat-1"
+      ],
+      "id": "primary294-1-testament",
+      "participants": [
+        "shallan",
+        "cryptic-deadeye-row29"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-1"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Shallan habla con Testimonio y la abraza.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan habla con Testimonio y la abraza.",
+        "pairs": [
+          [
+            "shallan",
+            "cryptic-deadeye-row29"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Kaladin comparte la mañana con su familia antes de marchar.",
+      "sourceIds": [
+        "primary294-wat-2"
+      ],
+      "id": "primary294-2-family",
+      "participants": [
+        "kaladin",
+        "oroden",
+        "hesina",
+        "lirin"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-2"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Kaladin comparte la mañana con su familia antes de marchar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin comparte la mañana con su familia antes de marchar.",
+        "pairs": [
+          [
+            "kaladin",
+            "oroden"
+          ],
+          [
+            "kaladin",
+            "hesina"
+          ],
+          [
+            "kaladin",
+            "lirin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. Hablan del regreso y preguntan por el pasado de los spren.",
+      "sourceIds": [
+        "primary294-wat-3"
+      ],
+      "id": "primary294-3-wall",
+      "participants": [
+        "shallan",
+        "adolin",
+        "kelek-puuli",
+        "ob87-platform-thread-spren"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Hablan del regreso y preguntan por el pasado de los spren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del regreso y preguntan por el pasado de los spren.",
+        "pairs": [
+          [
+            "shallan",
+            "adolin"
+          ],
+          [
+            "shallan",
+            "kelek-puuli"
+          ],
+          [
+            "adolin",
+            "ob87-platform-thread-spren"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. Shallan pregunta a la proyección de Sagaz si sus hermanos están a salvo y él lo afirma.",
+      "sourceIds": [
+        "primary294-wat-3"
+      ],
+      "id": "primary294-3-wit",
+      "participants": [
+        "shallan",
+        "wit"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-3"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "message",
+      "summary": "Shallan pregunta a la proyección de Sagaz si sus hermanos están a salvo y él lo afirma.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan pregunta a la proyección de Sagaz si sus hermanos están a salvo y él lo afirma.",
+        "pairs": [
+          [
+            "shallan",
+            "wit"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Hablan de la música y del Viento.",
+      "sourceIds": [
+        "primary294-wat-4"
+      ],
+      "id": "primary294-4-wit",
+      "participants": [
+        "kaladin",
+        "wit"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-4"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Hablan de la música y del Viento.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de la música y del Viento.",
+        "pairs": [
+          [
+            "kaladin",
+            "wit"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Dalinar recibe a Kaladin al salir de la reunión.",
+      "sourceIds": [
+        "primary294-wat-4"
+      ],
+      "id": "primary294-4-dalinar",
+      "participants": [
+        "kaladin",
+        "dalinar"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-4"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Dalinar recibe a Kaladin al salir de la reunión.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar recibe a Kaladin al salir de la reunión.",
+        "pairs": [
+          [
+            "kaladin",
+            "dalinar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Shallan agradece a Notum cómo los apoyó en el juicio.",
+      "sourceIds": [
+        "primary294-wat-5"
+      ],
+      "id": "primary294-5-notum",
+      "participants": [
+        "shallan",
+        "notum-ob108"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-5"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Shallan agradece a Notum cómo los apoyó en el juicio.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan agradece a Notum cómo los apoyó en el juicio.",
+        "pairs": [
+          [
+            "shallan",
+            "notum-ob108"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Kelek reflexiona sobre el solapamiento de dos vínculos Nahel al hablar con Shallan.",
+      "sourceIds": [
+        "primary294-wat-5"
+      ],
+      "id": "primary294-5-kelek",
+      "participants": [
+        "shallan",
+        "kelek-puuli"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-5"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Kelek reflexiona sobre el solapamiento de dos vínculos Nahel al hablar con Shallan.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kelek reflexiona sobre el solapamiento de dos vínculos Nahel al hablar con Shallan.",
+        "pairs": [
+          [
+            "shallan",
+            "kelek-puuli"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Hablan de la expedición y de cómo tratar con Ishar.",
+      "sourceIds": [
+        "primary294-wat-6"
+      ],
+      "id": "primary294-6-mission",
+      "participants": [
+        "dalinar",
+        "kaladin",
+        "szeth"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-6"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Hablan de la expedición y de cómo tratar con Ishar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan de la expedición y de cómo tratar con Ishar.",
+        "pairs": [
+          [
+            "dalinar",
+            "kaladin"
+          ],
+          [
+            "kaladin",
+            "szeth"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Shallan se despide de Felt antes de partir.",
+      "sourceIds": [
+        "primary294-wat-7"
+      ],
+      "id": "primary294-7-felt",
+      "participants": [
+        "shallan",
+        "felt-scout-pr81"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Shallan se despide de Felt antes de partir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan se despide de Felt antes de partir.",
+        "pairs": [
+          [
+            "shallan",
+            "felt-scout-pr81"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Shallan y Kelek conversan antes de separarse.",
+      "sourceIds": [
+        "primary294-wat-7"
+      ],
+      "id": "primary294-7-kelek",
+      "participants": [
+        "shallan",
+        "kelek-puuli"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-7"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Shallan y Kelek conversan antes de separarse.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan y Kelek conversan antes de separarse.",
+        "pairs": [
+          [
+            "shallan",
+            "kelek-puuli"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Leyten enseña el equipo y Dabbid trae provisiones.",
+      "sourceIds": [
+        "primary294-wat-8"
+      ],
+      "id": "primary294-8-kit",
+      "participants": [
+        "kaladin",
+        "leyten",
+        "dabbid"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-8"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Leyten enseña el equipo y Dabbid trae provisiones.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Leyten enseña el equipo y Dabbid trae provisiones.",
+        "pairs": [
+          [
+            "kaladin",
+            "leyten"
+          ],
+          [
+            "kaladin",
+            "dabbid"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Cikatriz recuerda que salió con otros a recuperar un supuesto cadáver y encontraron vivo a Kaladin.",
+      "sourceIds": [
+        "primary294-wat-9"
+      ],
+      "id": "primary294-9-cikatriz",
+      "participants": [
+        "kaladin",
+        "skar"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-9"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Cikatriz recuerda que salió con otros a recuperar un supuesto cadáver y encontraron vivo a Kaladin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Cikatriz recuerda que salió con otros a recuperar un supuesto cadáver y encontraron vivo a Kaladin.",
+        "pairs": [
+          [
+            "kaladin",
+            "skar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Drehy lo recupera tras la caída entre las cuentas.",
+      "sourceIds": [
+        "primary294-wat-9"
+      ],
+      "id": "primary294-9-rescue",
+      "participants": [
+        "drehy",
+        "adolin"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-9"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "cooperation",
+      "summary": "Drehy lo recupera tras la caída entre las cuentas.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Drehy lo recupera tras la caída entre las cuentas.",
+        "pairs": [
+          [
+            "drehy",
+            "adolin"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml. Syl recoge sus cosas. Kaladin sugiere a la bibliotecaria que hable con alguien de lo que le preocupa.",
+      "sourceIds": [
+        "primary294-wat-10"
+      ],
+      "id": "primary294-10-library",
+      "participants": [
+        "syl",
+        "book-steward-wat10",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-10"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Primer día. Secuencia narrativa."
+      },
+      "type": "conversation",
+      "summary": "Syl recoge sus cosas. Kaladin sugiere a la bibliotecaria que hable con alguien de lo que le preocupa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Syl recoge sus cosas. Kaladin sugiere a la bibliotecaria que hable con alguien de lo que le preocupa.",
+        "pairs": [
+          [
+            "syl",
+            "book-steward-wat10"
+          ],
+          [
+            "kaladin",
+            "book-steward-wat10"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -148284,6 +149111,310 @@
         "primary283-row-8-mention"
       ],
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Una voz a la que toma por el Padre Tormenta discute con él sobre las Palabras y su propósito. La atribución queda como percepción de Gavilar.",
+      "sourceIds": [
+        "primary294-wat-prologue"
+      ],
+      "id": "primary294-fact-pro-voice",
+      "characterId": "gavilar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-prologue"
+      },
+      "kind": "background",
+      "text": "Una voz a la que toma por el Padre Tormenta discute con él sobre las Palabras y su propósito. La atribución queda como percepción de Gavilar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Taravangian relata que su madre murió de tumores unos diez años antes de la conversación con Gavilar.",
+      "sourceIds": [
+        "primary294-wat-prologue"
+      ],
+      "id": "primary294-fact-pro-mother-account",
+      "characterId": "taravangian-mother-obi5",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-prologue"
+      },
+      "kind": "background",
+      "text": "Taravangian relata que su madre murió de tumores unos diez años antes de la conversación con Gavilar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 1. Quien escribe recuerda las señales de que alguien le observaba.",
+      "sourceIds": [
+        "primary294-wat-1"
+      ],
+      "id": "primary294-fact-epigraph-1",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-1"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 1. Quien escribe recuerda las señales de que alguien le observaba.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 2. Quien escribe recuerda su primer contacto con el Viento en la infancia.",
+      "sourceIds": [
+        "primary294-wat-2"
+      ],
+      "id": "primary294-fact-epigraph-2",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-2"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 2. Quien escribe recuerda su primer contacto con el Viento en la infancia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Recuerda la voz de su hermano Tien; el recuerdo no implica una nueva presencia.",
+      "sourceIds": [
+        "primary294-wat-2"
+      ],
+      "id": "primary294-fact-2-tien",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-2"
+      },
+      "kind": "background",
+      "text": "Recuerda la voz de su hermano Tien; el recuerdo no implica una nueva presencia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 3. El Viento atribuye el regreso de su voz al cambio de recipiente de Odium; quien escribe mantiene reservas.",
+      "sourceIds": [
+        "primary294-wat-3"
+      ],
+      "id": "primary294-fact-epigraph-3",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-3"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 3. El Viento atribuye el regreso de su voz al cambio de recipiente de Odium; quien escribe mantiene reservas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. Sagaz asegura a Shallan que sus hermanos están a salvo. La conversación no sitúa a los hermanos en Integridad Duradera.",
+      "sourceIds": [
+        "primary294-wat-3"
+      ],
+      "id": "primary294-fact-3-brothers",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-3"
+      },
+      "kind": "background",
+      "text": "Sagaz asegura a Shallan que sus hermanos están a salvo. La conversación no sitúa a los hermanos en Integridad Duradera.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. Recuerda que ya tenía una hoja esquirlada antes del vínculo con su Patrón actual.",
+      "sourceIds": [
+        "primary294-wat-3"
+      ],
+      "id": "primary294-fact-3-blade",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-3"
+      },
+      "kind": "background",
+      "text": "Recuerda que ya tenía una hoja esquirlada antes del vínculo con su Patrón actual.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 4. Quien escribe recoge referencias a que el Viento hablaba con humanos y cantores en tiempos antiguos.",
+      "sourceIds": [
+        "primary294-wat-4"
+      ],
+      "id": "primary294-fact-epigraph-4",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-4"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 4. Quien escribe recoge referencias a que el Viento hablaba con humanos y cantores en tiempos antiguos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 5. Quien escribe distingue su interés histórico del filosófico.",
+      "sourceIds": [
+        "primary294-wat-5"
+      ],
+      "id": "primary294-fact-epigraph-5",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-5"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 5. Quien escribe distingue su interés histórico del filosófico.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 6. El epígrafe presenta la investigación sobre las circunstancias de la purga de Shinovar.",
+      "sourceIds": [
+        "primary294-wat-6"
+      ],
+      "id": "primary294-fact-epigraph-6",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-6"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 6. El epígrafe presenta la investigación sobre las circunstancias de la purga de Shinovar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Le indica a Kaladin que Navani ocupará su puesto si cae en el duelo.",
+      "sourceIds": [
+        "primary294-wat-6"
+      ],
+      "id": "primary294-fact-6-navani",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-6"
+      },
+      "kind": "background",
+      "text": "Le indica a Kaladin que Navani ocupará su puesto si cae en el duelo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 7. El epígrafe diferencia al Viento de una mente humana y lo compara con los spren.",
+      "sourceIds": [
+        "primary294-wat-7"
+      ],
+      "id": "primary294-fact-epigraph-7",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-7"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 7. El epígrafe diferencia al Viento de una mente humana y lo compara con los spren.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Spren de Felt, nombrado al despedirse la expedición.",
+      "sourceIds": [
+        "primary294-wat-7"
+      ],
+      "id": "primary294-fact-mosaic-wat7-intro",
+      "characterId": "mosaic-wat7",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-7"
+      },
+      "kind": "background",
+      "text": "Spren de Felt, nombrado al despedirse la expedición.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 8. Quien escribe distingue la memoria del Viento de su interpretación.",
+      "sourceIds": [
+        "primary294-wat-8"
+      ],
+      "id": "primary294-fact-epigraph-8",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-8"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 8. Quien escribe distingue la memoria del Viento de su interpretación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 9. Quien escribe considera decisivo que Kaladin escuchara.",
+      "sourceIds": [
+        "primary294-wat-9"
+      ],
+      "id": "primary294-fact-epigraph-9",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-9"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 9. Quien escribe considera decisivo que Kaladin escuchara.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Cikatriz cuenta que él y otros salieron a recuperar un supuesto cadáver durante la tormenta y encontraron vivo a Kaladin. No precisa el recorrido de regreso al refugio.",
+      "sourceIds": [
+        "primary294-wat-9"
+      ],
+      "id": "primary294-fact-9-storm-rescue",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-9"
+      },
+      "kind": "background",
+      "text": "Cikatriz cuenta que él y otros salieron a recuperar un supuesto cadáver durante la tormenta y encontraron vivo a Kaladin. No precisa el recorrido de regreso al refugio.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml. Caballeros de viento y verdad, epígrafe del capítulo 10. Quien escribe sitúa un segundo momento decisivo en la decisión de Szeth de afrontar la misión.",
+      "sourceIds": [
+        "primary294-wat-10"
+      ],
+      "id": "primary294-fact-epigraph-10",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-10"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, epígrafe del capítulo 10. Quien escribe sitúa un segundo momento decisivo en la decisión de Szeth de afrontar la misión.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml. Escriba a la que Syl pide los libros y objetos que había reservado.",
+      "sourceIds": [
+        "primary294-wat-10"
+      ],
+      "id": "primary294-fact-book-steward-wat10-intro",
+      "characterId": "book-steward-wat10",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-10"
+      },
+      "kind": "background",
+      "text": "Escriba a la que Syl pide los libros y objetos que había reservado.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -151161,6 +152292,10 @@
         {
           "revision": 280,
           "notes": "Jaxlim reaparece viva con su hija Venli. Se conserva la filiación ya documentada y la referencia a la hija de Rabeniel."
+        },
+        {
+          "revision": 294,
+          "notes": "Prólogo y capítulos 1–10 de Viento y verdad: madre de Taravangian, hermandad de Gavilar y Dalinar, familia de Kaladin y referencias de Shallan a su padre. Conservar los recuerdos separados de la presencia."
         }
       ]
     }
@@ -154831,13 +155966,18 @@
       "id": "row",
       "title": "El ritmo de la guerra",
       "order": 6
+    },
+    {
+      "id": "wat",
+      "title": "Viento y verdad",
+      "order": 7
     }
   ],
   "book": "El camino de los reyes",
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 293,
+  "revision": 294,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -159230,6 +160370,98 @@
       "label": "Epílogo",
       "part": "row-5",
       "source": "primary280-row-epilogue"
+    },
+    {
+      "id": "wat-prologue",
+      "bookId": "wat",
+      "label": "Prólogo · Vivir",
+      "part": "wat-prologue",
+      "source": "primary294-wat-prologue",
+      "flashback": true,
+      "narrativeFrame": "flashback",
+      "memoryEventId": "gavilar-death-night",
+      "memoryEventLabel": "Noche de la muerte de Gavilar",
+      "memoryPerspective": "Gavilar"
+    },
+    {
+      "id": "wat-chapter-1",
+      "bookId": "wat",
+      "chapter": 1,
+      "label": "Capítulo 1 · Terreno desconocido",
+      "part": "wat-day-1",
+      "source": "primary294-wat-1"
+    },
+    {
+      "id": "wat-chapter-2",
+      "bookId": "wat",
+      "chapter": 2,
+      "label": "Capítulo 2 · Dar el siguiente paso",
+      "part": "wat-day-1",
+      "source": "primary294-wat-2"
+    },
+    {
+      "id": "wat-chapter-3",
+      "bookId": "wat",
+      "chapter": 3,
+      "label": "Capítulo 3 · Los costes del heroísmo",
+      "part": "wat-day-1",
+      "source": "primary294-wat-3"
+    },
+    {
+      "id": "wat-chapter-4",
+      "bookId": "wat",
+      "chapter": 4,
+      "label": "Capítulo 4 · Escuchar",
+      "part": "wat-day-1",
+      "source": "primary294-wat-4"
+    },
+    {
+      "id": "wat-chapter-5",
+      "bookId": "wat",
+      "chapter": 5,
+      "label": "Capítulo 5 · Lo que aún podría ser",
+      "part": "wat-day-1",
+      "source": "primary294-wat-5"
+    },
+    {
+      "id": "wat-chapter-6",
+      "bookId": "wat",
+      "chapter": 6,
+      "label": "Capítulo 6 · Nobleza",
+      "part": "wat-day-1",
+      "source": "primary294-wat-6"
+    },
+    {
+      "id": "wat-chapter-7",
+      "bookId": "wat",
+      "chapter": 7,
+      "label": "Capítulo 7 · Hojas perdidas",
+      "part": "wat-day-1",
+      "source": "primary294-wat-7"
+    },
+    {
+      "id": "wat-chapter-8",
+      "bookId": "wat",
+      "chapter": 8,
+      "label": "Capítulo 8 · La tormenta que llega",
+      "part": "wat-day-1",
+      "source": "primary294-wat-8"
+    },
+    {
+      "id": "wat-chapter-9",
+      "bookId": "wat",
+      "chapter": 9,
+      "label": "Capítulo 9 · Tirar lanzas",
+      "part": "wat-day-1",
+      "source": "primary294-wat-9"
+    },
+    {
+      "id": "wat-chapter-10",
+      "bookId": "wat",
+      "chapter": 10,
+      "label": "Capítulo 10 · Intendente de libros",
+      "part": "wat-day-1",
+      "source": "primary294-wat-10"
     }
   ],
   "experiencePresentation": {
@@ -186344,6 +187576,485 @@
           "notes": [
             "Encuentra en el mercado el caballo de madera."
           ]
+        },
+        {
+          "id": "primary294-1-kaladin-10",
+          "scene": "wat-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Kaladin",
+          "placeId": "place-urithiru-kaladin-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-1",
+          "sourceIds": [
+            "primary294-wat-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-1"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Kaladin se prepara junto a su ventana y distingue una voz en el viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin se prepara junto a su ventana y distingue una voz en el viento."
+          ]
+        },
+        {
+          "id": "primary294-2-kaladin-10",
+          "scene": "wat-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vivienda de Lirin y Hesina, quinta planta",
+          "placeId": "place-row18-urithiru-lirin-home",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/18.Cirujano.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-2",
+          "sourceIds": [
+            "primary294-wat-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-2"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Kaladin pasa tiempo con Oroden y habla con sus padres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin pasa tiempo con Oroden y habla con sus padres."
+          ]
+        },
+        {
+          "id": "primary294-4-kaladin-10",
+          "scene": "wat-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-4",
+          "sourceIds": [
+            "primary294-wat-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-4"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Kaladin encuentra a Sagaz cerca de la sala de reuniones y habla con él de la flauta y de escuchar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin encuentra a Sagaz cerca de la sala de reuniones y habla con él de la flauta y de escuchar."
+          ]
+        },
+        {
+          "id": "primary294-4-kaladin-20",
+          "scene": "wat-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-4",
+          "sourceIds": [
+            "primary294-wat-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-4"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Dalinar abre la puerta e invita a Kaladin a pasar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar abre la puerta e invita a Kaladin a pasar."
+          ]
+        },
+        {
+          "id": "primary294-6-kaladin-10",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar."
+          ]
+        },
+        {
+          "id": "primary294-6-kaladin-20",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vista exterior de Dalinar y Kaladin",
+          "placeId": "place-wat6-urithiru-view",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar sale con Kaladin para contemplar la torre y conversar sobre el futuro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar sale con Kaladin para contemplar la torre y conversar sobre el futuro."
+          ]
+        },
+        {
+          "id": "primary294-8-kaladin-10",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Kaladin acuerda con Szeth dónde reunirse antes de emprender la marcha.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin acuerda con Szeth dónde reunirse antes de emprender la marcha."
+          ]
+        },
+        {
+          "id": "primary294-8-kaladin-20",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Intendencia de los Corredores del Viento",
+          "placeId": "place-wat8-windrunner-stores",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Recogen el equipo en la intendencia de los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recogen el equipo en la intendencia de los Corredores del Viento."
+          ]
+        },
+        {
+          "id": "primary294-9-kaladin-10",
+          "scene": "wat-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de instrucción de los Corredores del Viento",
+          "placeId": "place-wat9-windrunner-drill",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-9",
+          "sourceIds": [
+            "primary294-wat-9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-9"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Cikatriz instruye a los escuderos y conversa con Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cikatriz instruye a los escuderos y conversa con Kaladin."
+          ]
+        },
+        {
+          "id": "primary294-10-kaladin-10",
+          "scene": "wat-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Mostrador de la bibliotecaria jefe",
+          "placeId": "place-wat10-book-steward",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-10",
+          "sourceIds": [
+            "primary294-wat-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-10"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml. Syl recoge lo que había pedido y Kaladin conversa con la bibliotecaria.",
+          "needsConfirmation": [],
+          "notes": [
+            "Syl recoge lo que había pedido y Kaladin conversa con la bibliotecaria."
+          ]
         }
       ]
     },
@@ -208677,6 +210388,333 @@
           "notes": [
             "Shallan y Adolin hablan con sus acompañantes. El primer spren de Shallan recibe el nombre Testimonio."
           ]
+        },
+        {
+          "id": "primary294-1-shallan-20",
+          "scene": "wat-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-1",
+          "sourceIds": [
+            "primary294-wat-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-1"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Shallan se acerca a Testimonio y la abraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan se acerca a Testimonio y la abraza."
+          ]
+        },
+        {
+          "id": "primary294-3-shallan-10",
+          "scene": "wat-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-3",
+          "sourceIds": [
+            "primary294-wat-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-3"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram."
+          ]
+        },
+        {
+          "id": "primary294-5-shallan-10",
+          "scene": "wat-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-5",
+          "sourceIds": [
+            "primary294-wat-5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-5"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Shallan dibuja en el foro y habla con Notum y Kelek.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan dibuja en el foro y habla con Notum y Kelek."
+          ]
+        },
+        {
+          "id": "primary294-7-shallan-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
+          ]
+        },
+        {
+          "id": "primary294-7-shallan-20",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Vuelo después de salir de Integridad Duradera",
+          "placeId": "place-wat7-shadesmar-flight",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat7-shadesmar-flight",
+          "coordinateAnchorName": "Shadesmar · Vuelo después de salir de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Se alejan de la fortaleza por el aire con los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se alejan de la fortaleza por el aire con los Corredores del Viento."
+          ]
+        },
+        {
+          "id": "primary294-8-shallan-30",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Mar de cuentas donde atacan a la expedición",
+          "placeId": "place-wat8-shadesmar-attack",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat8-shadesmar-attack",
+          "coordinateAnchorName": "Shadesmar · Mar de cuentas donde atacan a la expedición",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Los Celestiales atacan al grupo en vuelo y Adolin y Shallan caen hacia las cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Celestiales atacan al grupo en vuelo y Adolin y Shallan caen hacia las cuentas."
+          ]
+        },
+        {
+          "id": "primary294-9-shallan-20",
+          "scene": "wat-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio tejido entre las cuentas tras el ataque",
+          "placeId": "place-wat9-bead-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-9",
+          "sourceIds": [
+            "primary294-wat-9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat9-bead-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio tejido entre las cuentas tras el ataque",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-9"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Drehy alcanza a Adolin y Shallan forma un refugio de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Drehy alcanza a Adolin y Shallan forma un refugio de cuentas."
+          ]
         }
       ]
     },
@@ -214952,6 +216990,150 @@
           "needsConfirmation": [],
           "notes": [
             "Szeth se presenta en la casa de reclusión y hiere mortalmente a Taravangian."
+          ]
+        },
+        {
+          "id": "primary294-prologue-szeth-30",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "assassination",
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Galería y balcón del duelo de Gavilar",
+          "placeId": "place-watpro-gavilar-fight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Szeth se enfrenta a Gavilar durante el ataque en el palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth se enfrenta a Gavilar durante el ataque en el palacio."
+          ]
+        },
+        {
+          "id": "primary294-6-szeth-10",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar."
+          ]
+        },
+        {
+          "id": "primary294-8-szeth-10",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Kaladin acuerda con Szeth dónde reunirse antes de emprender la marcha.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin acuerda con Szeth dónde reunirse antes de emprender la marcha."
           ]
         }
       ]
@@ -225787,6 +227969,341 @@
           "needsConfirmation": [],
           "notes": [
             "Dalinar propone que Kaladin lo ayude a encontrar una forma de tratar con Ishar."
+          ]
+        },
+        {
+          "id": "primary294-1-syl-10",
+          "scene": "wat-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Dependencias de Kaladin",
+          "placeId": "place-urithiru-kaladin-quarters",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de Urithiru; dependencia sin plano interior calibrado."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-1",
+          "sourceIds": [
+            "primary294-wat-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-1"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Kaladin se prepara junto a su ventana y distingue una voz en el viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin se prepara junto a su ventana y distingue una voz en el viento."
+          ]
+        },
+        {
+          "id": "primary294-2-syl-10",
+          "scene": "wat-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vivienda de Lirin y Hesina, quinta planta",
+          "placeId": "place-row18-urithiru-lirin-home",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/18.Cirujano.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-2",
+          "sourceIds": [
+            "primary294-wat-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-2"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Kaladin pasa tiempo con Oroden y habla con sus padres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin pasa tiempo con Oroden y habla con sus padres."
+          ]
+        },
+        {
+          "id": "primary294-6-syl-10",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar."
+          ]
+        },
+        {
+          "id": "primary294-6-syl-20",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vista exterior de Dalinar y Kaladin",
+          "placeId": "place-wat6-urithiru-view",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar sale con Kaladin para contemplar la torre y conversar sobre el futuro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar sale con Kaladin para contemplar la torre y conversar sobre el futuro."
+          ]
+        },
+        {
+          "id": "primary294-8-syl-20",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Intendencia de los Corredores del Viento",
+          "placeId": "place-wat8-windrunner-stores",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Recogen el equipo en la intendencia de los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recogen el equipo en la intendencia de los Corredores del Viento."
+          ]
+        },
+        {
+          "id": "primary294-9-syl-10",
+          "scene": "wat-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de instrucción de los Corredores del Viento",
+          "placeId": "place-wat9-windrunner-drill",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-9",
+          "sourceIds": [
+            "primary294-wat-9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-9"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Cikatriz instruye a los escuderos y conversa con Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cikatriz instruye a los escuderos y conversa con Kaladin."
+          ]
+        },
+        {
+          "id": "primary294-10-syl-10",
+          "scene": "wat-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Mostrador de la bibliotecaria jefe",
+          "placeId": "place-wat10-book-steward",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-10",
+          "sourceIds": [
+            "primary294-wat-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-10"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml. Syl recoge lo que había pedido y Kaladin conversa con la bibliotecaria.",
+          "needsConfirmation": [],
+          "notes": [
+            "Syl recoge lo que había pedido y Kaladin conversa con la bibliotecaria."
           ]
         }
       ]
@@ -241636,6 +244153,198 @@
           "notes": [
             "Dalinar y Navani se encuentran en la cima de Urithiru."
           ]
+        },
+        {
+          "id": "primary294-prologue-dalinar-10",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Gavilar habla con Dalinar y recibe a Tearim durante la noche del banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Gavilar habla con Dalinar y recibe a Tearim durante la noche del banquete."
+          ]
+        },
+        {
+          "id": "primary294-4-dalinar-20",
+          "scene": "wat-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-4",
+          "sourceIds": [
+            "primary294-wat-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-4"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Dalinar abre la puerta e invita a Kaladin a pasar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar abre la puerta e invita a Kaladin a pasar."
+          ]
+        },
+        {
+          "id": "primary294-6-dalinar-10",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Kaladin hablan de Ishar y la misión mientras Szeth se prepara para viajar."
+          ]
+        },
+        {
+          "id": "primary294-6-dalinar-20",
+          "scene": "wat-chapter-6",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vista exterior de Dalinar y Kaladin",
+          "placeId": "place-wat6-urithiru-view",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-6",
+          "sourceIds": [
+            "primary294-wat-6"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-6"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/6.Nobleza.xhtml. Dalinar sale con Kaladin para contemplar la torre y conversar sobre el futuro.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar sale con Kaladin para contemplar la torre y conversar sobre el futuro."
+          ]
         }
       ]
     },
@@ -255124,6 +257833,285 @@
           "notes": [
             "Shallan y Adolin hablan con sus acompañantes. El primer spren de Shallan recibe el nombre Testimonio."
           ]
+        },
+        {
+          "id": "primary294-3-adolin-10",
+          "scene": "wat-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-3",
+          "sourceIds": [
+            "primary294-wat-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-3"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram."
+          ]
+        },
+        {
+          "id": "primary294-5-adolin-10",
+          "scene": "wat-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-5",
+          "sourceIds": [
+            "primary294-wat-5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-5"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Shallan dibuja en el foro y habla con Notum y Kelek.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan dibuja en el foro y habla con Notum y Kelek."
+          ]
+        },
+        {
+          "id": "primary294-7-adolin-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
+          ]
+        },
+        {
+          "id": "primary294-7-adolin-20",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Vuelo después de salir de Integridad Duradera",
+          "placeId": "place-wat7-shadesmar-flight",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat7-shadesmar-flight",
+          "coordinateAnchorName": "Shadesmar · Vuelo después de salir de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Se alejan de la fortaleza por el aire con los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se alejan de la fortaleza por el aire con los Corredores del Viento."
+          ]
+        },
+        {
+          "id": "primary294-8-adolin-30",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Mar de cuentas donde atacan a la expedición",
+          "placeId": "place-wat8-shadesmar-attack",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat8-shadesmar-attack",
+          "coordinateAnchorName": "Shadesmar · Mar de cuentas donde atacan a la expedición",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Los Celestiales atacan al grupo en vuelo y Adolin y Shallan caen hacia las cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Celestiales atacan al grupo en vuelo y Adolin y Shallan caen hacia las cuentas."
+          ]
+        },
+        {
+          "id": "primary294-9-adolin-20",
+          "scene": "wat-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio tejido entre las cuentas tras el ataque",
+          "placeId": "place-wat9-bead-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-9",
+          "sourceIds": [
+            "primary294-wat-9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat9-bead-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio tejido entre las cuentas tras el ataque",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-9"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Drehy alcanza a Adolin y Shallan forma un refugio de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Drehy alcanza a Adolin y Shallan forma un refugio de cuentas."
+          ]
         }
       ]
     },
@@ -265045,6 +268033,54 @@
           "needsConfirmation": [],
           "notes": [
             "Está en las catacumbas reales durante el sepelio de Gavilar."
+          ]
+        },
+        {
+          "id": "primary294-prologue-sadeas-20",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Sadeas advierte a Gavilar del ataque y Tearim lo ayuda con la armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sadeas advierte a Gavilar del ataque y Tearim lo ayuda con la armadura."
           ]
         }
       ]
@@ -276079,6 +279115,54 @@
           "needsConfirmation": [],
           "notes": [
             "Sagaz habla con Odium y su percepción del encuentro se altera."
+          ]
+        },
+        {
+          "id": "primary294-4-wit-10",
+          "scene": "wat-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-4",
+          "sourceIds": [
+            "primary294-wat-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-4"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Kaladin encuentra a Sagaz cerca de la sala de reuniones y habla con él de la flauta y de escuchar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin encuentra a Sagaz cerca de la sala de reuniones y habla con él de la flauta y de escuchar."
           ]
         }
       ]
@@ -308123,6 +311207,54 @@
           "notes": [
             "Kaladin manifiesta la armadura, alcanza a Lirin y lo sostiene a salvo."
           ]
+        },
+        {
+          "id": "primary294-2-lirin-10",
+          "scene": "wat-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vivienda de Lirin y Hesina, quinta planta",
+          "placeId": "place-row18-urithiru-lirin-home",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/18.Cirujano.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-2",
+          "sourceIds": [
+            "primary294-wat-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-2"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Kaladin pasa tiempo con Oroden y habla con sus padres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin pasa tiempo con Oroden y habla con sus padres."
+          ]
         }
       ]
     },
@@ -309532,6 +312664,54 @@
           "needsConfirmation": [],
           "notes": [
             "Hesina y Lirin conversan sobre su hijo y luego hablan con Noril en la enfermería."
+          ]
+        },
+        {
+          "id": "primary294-2-hesina-10",
+          "scene": "wat-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vivienda de Lirin y Hesina, quinta planta",
+          "placeId": "place-row18-urithiru-lirin-home",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/18.Cirujano.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-2",
+          "sourceIds": [
+            "primary294-wat-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-2"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Kaladin pasa tiempo con Oroden y habla con sus padres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin pasa tiempo con Oroden y habla con sus padres."
           ]
         }
       ]
@@ -316391,6 +319571,54 @@
           "notes": [
             "Regresa a Urithiru por la plataforma de la Puerta Jurada."
           ]
+        },
+        {
+          "id": "primary294-9-skar-10",
+          "scene": "wat-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de instrucción de los Corredores del Viento",
+          "placeId": "place-wat9-windrunner-drill",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-9",
+          "sourceIds": [
+            "primary294-wat-9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-9"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Cikatriz instruye a los escuderos y conversa con Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Cikatriz instruye a los escuderos y conversa con Kaladin."
+          ]
         }
       ]
     },
@@ -318872,6 +322100,51 @@
           "notes": [
             "Kaladin lo reconoce mirando hacia el patio desde donde habla con Dalinar."
           ]
+        },
+        {
+          "id": "primary294-9-drehy-20",
+          "scene": "wat-chapter-9",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Refugio tejido entre las cuentas tras el ataque",
+          "placeId": "place-wat9-bead-shelter",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-9",
+          "sourceIds": [
+            "primary294-wat-9"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat9-bead-shelter",
+          "coordinateAnchorName": "Shadesmar · Refugio tejido entre las cuentas tras el ataque",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-9"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/9.Tirar.xhtml. Drehy alcanza a Adolin y Shallan forma un refugio de cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Drehy alcanza a Adolin y Shallan forma un refugio de cuentas."
+          ]
         }
       ]
     },
@@ -319651,6 +322924,54 @@
           "needsConfirmation": [],
           "notes": [
             "Leshwi y su gente colaboran en el triaje y el traslado de los Radiantes con Rlain y Dabbid."
+          ]
+        },
+        {
+          "id": "primary294-8-dabbid-20",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Intendencia de los Corredores del Viento",
+          "placeId": "place-wat8-windrunner-stores",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Recogen el equipo en la intendencia de los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recogen el equipo en la intendencia de los Corredores del Viento."
           ]
         }
       ]
@@ -321074,6 +324395,54 @@
           "needsConfirmation": [],
           "notes": [
             "El equipo presenta el reconocimiento y Sidéreo muestra una reconstrucción tejida."
+          ]
+        },
+        {
+          "id": "primary294-8-leyten-20",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Intendencia de los Corredores del Viento",
+          "placeId": "place-wat8-windrunner-stores",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Recogen el equipo en la intendencia de los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Recogen el equipo en la intendencia de los Corredores del Viento."
           ]
         }
       ]
@@ -331316,6 +334685,102 @@
           "needsConfirmation": [],
           "notes": [
             "Shallan y Adolin hablan con sus acompañantes. El primer spren de Shallan recibe el nombre Testimonio."
+          ]
+        },
+        {
+          "id": "primary294-3-pattern-10",
+          "scene": "wat-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-3",
+          "sourceIds": [
+            "primary294-wat-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-3"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram."
+          ]
+        },
+        {
+          "id": "primary294-7-pattern-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
           ]
         }
       ]
@@ -373889,6 +377354,150 @@
           "notes": [
             "Ven al abismoide y hablan de las cacerías, la escritura y las ruinas."
           ]
+        },
+        {
+          "id": "primary294-prologue-gavilar-10",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Gavilar habla con Dalinar y recibe a Tearim durante la noche del banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Gavilar habla con Dalinar y recibe a Tearim durante la noche del banquete."
+          ]
+        },
+        {
+          "id": "primary294-prologue-gavilar-20",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Sadeas advierte a Gavilar del ataque y Tearim lo ayuda con la armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sadeas advierte a Gavilar del ataque y Tearim lo ayuda con la armadura."
+          ]
+        },
+        {
+          "id": "primary294-prologue-gavilar-30",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "assassination",
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Galería y balcón del duelo de Gavilar",
+          "placeId": "place-watpro-gavilar-fight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Szeth se enfrenta a Gavilar durante el ataque en el palacio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth se enfrenta a Gavilar durante el ataque en el palacio."
+          ]
         }
       ]
     },
@@ -381276,6 +384885,54 @@
           "needsConfirmation": [],
           "notes": [
             "Según el informe recibido por Venli, los tres están retenidos en la clínica."
+          ]
+        },
+        {
+          "id": "primary294-2-oroden-10",
+          "scene": "wat-chapter-2",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Vivienda de Lirin y Hesina, quinta planta",
+          "placeId": "place-row18-urithiru-lirin-home",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/18.Cirujano.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-2",
+          "sourceIds": [
+            "primary294-wat-2"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-2"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/2.Dar.xhtml. Kaladin pasa tiempo con Oroden y habla con sus padres.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin pasa tiempo con Oroden y habla con sus padres."
           ]
         }
       ]
@@ -394044,6 +397701,102 @@
           "notes": [
             "Capitán de Gavilar; lleva la otra armadura de Dalinar para la batalla."
           ]
+        },
+        {
+          "id": "primary294-prologue-tearim-10",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Gavilar habla con Dalinar y recibe a Tearim durante la noche del banquete.",
+          "needsConfirmation": [],
+          "notes": [
+            "Gavilar habla con Dalinar y recibe a Tearim durante la noche del banquete."
+          ]
+        },
+        {
+          "id": "primary294-prologue-tearim-20",
+          "scene": "wat-prologue",
+          "retrospective": false,
+          "memoryPhase": "before",
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Kholinar · Estudio donde Gavilar se reúne con los embajadores",
+          "placeId": "place-rowpro-gavilar-study",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/Prologo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            721.177,
+            344.038
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-prologue",
+          "sourceIds": [
+            "primary294-wat-prologue"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-kholinar-ciudad",
+          "coordinateAnchorName": "Kholinar · anclaje de ciudad",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "at-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 7.5,
+            "note": "La noche de la muerte de Gavilar, siete años y medio antes según el encabezado."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-prologue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Prologo.xhtml. Sadeas advierte a Gavilar del ataque y Tearim lo ayuda con la armadura.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sadeas advierte a Gavilar del ataque y Tearim lo ayuda con la armadura."
+          ]
         }
       ]
     },
@@ -397872,6 +401625,150 @@
           "needsConfirmation": [],
           "notes": [
             "Shallan recuerda a su primer spren y habla con Kelek. Lusintia y Sekeir llegan después."
+          ]
+        },
+        {
+          "id": "primary294-3-kelek-puuli-10",
+          "scene": "wat-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-3",
+          "sourceIds": [
+            "primary294-wat-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-3"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram."
+          ]
+        },
+        {
+          "id": "primary294-5-kelek-puuli-10",
+          "scene": "wat-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-5",
+          "sourceIds": [
+            "primary294-wat-5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-5"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Shallan dibuja en el foro y habla con Notum y Kelek.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan dibuja en el foro y habla con Notum y Kelek."
+          ]
+        },
+        {
+          "id": "primary294-7-kelek-puuli-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
           ]
         }
       ]
@@ -409012,6 +412909,144 @@
           "needsConfirmation": [],
           "notes": [
             "La portavoz rechaza inicialmente la delegación. Adolin solicita que lo juzguen."
+          ]
+        },
+        {
+          "id": "primary294-7-gallant-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
+          ]
+        },
+        {
+          "id": "primary294-7-gallant-20",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Vuelo después de salir de Integridad Duradera",
+          "placeId": "place-wat7-shadesmar-flight",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat7-shadesmar-flight",
+          "coordinateAnchorName": "Shadesmar · Vuelo después de salir de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Se alejan de la fortaleza por el aire con los Corredores del Viento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Se alejan de la fortaleza por el aire con los Corredores del Viento."
+          ]
+        },
+        {
+          "id": "primary294-8-gallant-30",
+          "scene": "wat-chapter-8",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Mar de cuentas donde atacan a la expedición",
+          "placeId": "place-wat8-shadesmar-attack",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml",
+            "Posición exacta en tránsito pendiente."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-8",
+          "sourceIds": [
+            "primary294-wat-8"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat8-shadesmar-attack",
+          "coordinateAnchorName": "Shadesmar · Mar de cuentas donde atacan a la expedición",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-8"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/8.Tormenta.xhtml. Los Celestiales atacan al grupo en vuelo y Adolin y Shallan caen hacia las cuentas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Celestiales atacan al grupo en vuelo y Adolin y Shallan caen hacia las cuentas."
           ]
         }
       ]
@@ -431840,6 +435875,54 @@
           "notes": [
             "La ayuda de la expedición llega al escenario del ataque."
           ]
+        },
+        {
+          "id": "primary294-7-felt-scout-pr81-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
+          ]
         }
       ]
     },
@@ -451989,6 +456072,102 @@
           "notes": [
             "Shallan y Adolin hablan con sus acompañantes. El primer spren de Shallan recibe el nombre Testimonio."
           ]
+        },
+        {
+          "id": "primary294-3-ob87-platform-thread-spren-10",
+          "scene": "wat-chapter-3",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-3",
+          "sourceIds": [
+            "primary294-wat-3"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-3"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/3.Costes.xhtml. El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se reúne en el adarve y habla del regreso a Urithiru y de Mishram."
+          ]
+        },
+        {
+          "id": "primary294-7-ob87-platform-thread-spren-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
+          ]
         }
       ]
     },
@@ -456265,6 +460444,54 @@
           "needsConfirmation": [],
           "notes": [
             "Primera jornada del juicio. Declaran Amuna, Mezcla y Notum."
+          ]
+        },
+        {
+          "id": "primary294-5-notum-ob108-10",
+          "scene": "wat-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-5",
+          "sourceIds": [
+            "primary294-wat-5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-5"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Shallan dibuja en el foro y habla con Notum y Kelek.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan dibuja en el foro y habla con Notum y Kelek."
           ]
         }
       ]
@@ -466616,6 +470843,54 @@
           "needsConfirmation": [],
           "notes": [
             "Regresan al campamento y se preparan para seguir hacia la fortaleza."
+          ]
+        },
+        {
+          "id": "primary294-5-godeke-row5-10",
+          "scene": "wat-chapter-5",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "placeId": "place-row87-lasting-forum",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-5",
+          "sourceIds": [
+            "primary294-wat-5"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-5"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/5.Podriaser.xhtml. Shallan dibuja en el foro y habla con Notum y Kelek.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan dibuja en el foro y habla con Notum y Kelek."
           ]
         }
       ]
@@ -479925,6 +484200,54 @@
           "notes": [
             "Shallan y Adolin hablan con sus acompañantes. El primer spren de Shallan recibe el nombre Testimonio."
           ]
+        },
+        {
+          "id": "primary294-1-cryptic-deadeye-row29-20",
+          "scene": "wat-chapter-1",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Adarve de Integridad Duradera",
+          "placeId": "place-wat1-lasting-wall",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-1",
+          "sourceIds": [
+            "primary294-wat-1"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-1"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/1.Terreno.xhtml. Shallan se acerca a Testimonio y la abraza.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan se acerca a Testimonio y la abraza."
+          ]
         }
       ]
     },
@@ -487144,6 +491467,54 @@
           "notes": [
             "Sagaz practica trucos de monedas con Diseño en los pasillos."
           ]
+        },
+        {
+          "id": "primary294-4-design-row80-10",
+          "scene": "wat-chapter-4",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-4",
+          "sourceIds": [
+            "primary294-wat-4"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-4"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/4.Escuchar.xhtml. Kaladin encuentra a Sagaz cerca de la sala de reuniones y habla con él de la flauta y de escuchar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin encuentra a Sagaz cerca de la sala de reuniones y habla con él de la flauta y de escuchar."
+          ]
         }
       ]
     },
@@ -488407,6 +492778,134 @@
           "needsConfirmation": [],
           "notes": [
             "Shallan y Adolin hablan con sus acompañantes. El primer spren de Shallan recibe el nombre Testimonio."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wind-truth-book-author-wat",
+      "name": "Voz de Caballeros de viento y verdad",
+      "initial": "V",
+      "role": "Voz narrativa de los epígrafes, sin identidad confirmada en este lote.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Voz documental del libro citado.",
+      "events": []
+    },
+    {
+      "id": "mosaic-wat7",
+      "name": "Mosaico",
+      "initial": "M",
+      "role": "Spren de Felt, nombrado al despedirse la expedición.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary294-7-mosaic-wat7-10",
+          "scene": "wat-chapter-7",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Partida desde Integridad Duradera",
+          "placeId": "place-wat7-lasting-departure",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml",
+            "Referencia regional compartida de Integridad Duradera."
+          ],
+          "xy": [
+            438,
+            483
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-7",
+          "sourceIds": [
+            "primary294-wat-7"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-7"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/7.Hojas.xhtml. Preparan la partida y Shallan se despide de quienes se quedan.",
+          "needsConfirmation": [],
+          "notes": [
+            "Preparan la partida y Shallan se despide de quienes se quedan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "book-steward-wat10",
+      "name": "Bibliotecaria jefe de Urithiru",
+      "initial": "B",
+      "role": "Escriba a la que Syl pide los libros y objetos que había reservado.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary294-10-book-steward-wat10-10",
+          "scene": "wat-chapter-10",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Mostrador de la bibliotecaria jefe",
+          "placeId": "place-wat10-book-steward",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary294-wat-10",
+          "sourceIds": [
+            "primary294-wat-10"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Primer día. Secuencia narrativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-10"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/10.Intendente.xhtml. Syl recoge lo que había pedido y Kaladin conversa con la bibliotecaria.",
+          "needsConfirmation": [],
+          "notes": [
+            "Syl recoge lo que había pedido y Kaladin conversa con la bibliotecaria."
           ]
         }
       ]
