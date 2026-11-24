@@ -28,11 +28,12 @@ function clusterCharacters(people){
   const first=pending.values().next().value;pending.delete(first);const members=[first];
   for(let i=0;i<members.length;i++)for(const p of [...pending]){
    const a=mapEvidence(members[i]),b=mapEvidence(p);
-   if(realm(a)===realm(b)&&Boolean(members[i].representativeExperience)===Boolean(p.representativeExperience)&&(!$('showShadesmar').checked||Boolean(cognitiveExperience(members[i]))===Boolean(cognitiveExperience(p)))&&Math.hypot(a.xy[0]-b.xy[0],a.xy[1]-b.xy[1])*factor<54){members.push(p);pending.delete(p);}
+   if(Math.hypot(a.xy[0]-b.xy[0],a.xy[1]-b.xy[1])*factor<54){members.push(p);pending.delete(p);}
   }
   members.sort((a,b)=>a.id.localeCompare(b.id));
   const xy=[0,0];for(const p of members){const e=mapEvidence(p);xy[0]+=e.xy[0]/members.length;xy[1]+=e.xy[1]/members.length;}
-  groups.push({key:(first.representativeExperience?'representative:':$('showShadesmar').checked&&cognitiveExperience(first)?'entry-ghost:':'')+realm(mapEvidence(first))+':'+members.map(p=>p.id).join('|'),members,xy,realm:realm(mapEvidence(first))});
+  const planes=new Set(members.map(p=>realm(mapEvidence(p))));
+  groups.push({key:members.map(p=>p.id).join('|'),members,xy,realm:planes.size>1?'mixed':realm(mapEvidence(first))});
  }
  return groups;
 }
@@ -317,19 +318,22 @@ function renderAtlas(){
  mapClusters=clusterCharacters([...plotted,...representatives]);
  const activeKeys=new Set(mapClusters.filter(c=>c.members.length>1).map(c=>c.key));
  for(const key of expandedClusters)if(!activeKeys.has(key))expandedClusters.delete(key);
+ const sharedClusters=document.createElementNS(NS,'g');
+ sharedClusters.setAttribute('data-realm','mixed');
+ $('markers').append(sharedClusters);
  const visiblePeople=[];
  for(const cluster of mapClusters){
   const {members,xy,key}=cluster,n=members.length,expanded=expandedClusters.has(key);
   if(n>1){
-   const g=document.createElementNS(NS,'g');g.classList.add('marker');g.setAttribute('data-cluster-key',key);g.setAttribute('data-cluster-count',n);g.setAttribute('data-marker-kind',members[0].representativeExperience?'cognitive-representative':'reference');g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-expanded',String(expanded));
+   const g=document.createElementNS(NS,'g');g.classList.add('marker');g.setAttribute('data-cluster-key',key);g.setAttribute('data-cluster-count',n);g.setAttribute('data-marker-kind',members.every(p=>p.representativeExperience)?'cognitive-representative':'reference');g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-expanded',String(expanded));
    const deadCount=members.filter(isDeceased).length;g.setAttribute('data-deceased-count',deadCount);
-   const action=expanded?'Contraer':'Desplegar';const projection=cluster.realm==='cognitive'&&!mapLayers.enabled?' · Referencias en Shadesmar':'';g.setAttribute('aria-label',action+' grupo de '+n+' personajes'+projection+': '+members.map(p=>characterName(p)).join(', '));
+   const action=expanded?'Contraer':'Desplegar';const projection=cluster.realm==='mixed'?' · Roshar y Shadesmar':cluster.realm==='cognitive'&&!mapLayers.enabled?' · Referencias en Shadesmar':'';g.setAttribute('aria-label',action+' grupo de '+n+' personajes'+projection+': '+members.map(p=>characterName(p)).join(', '));
    const hasSelected=detailOpen&&members.some(p=>markerOwner(p)===identityId(selected));
    g.innerHTML='<title>'+action+projection+': '+members.map(p=>escapeHtml(characterName(p))).join(', ')+'</title><circle r="'+(expanded?16:23)+'" fill="#162d3a" stroke="'+(deadCount===n?'#ef6464':hasSelected?'#fff1c6':'#c4a572')+'" stroke-width="3"/><text text-anchor="middle" dy="5" fill="#fff1c6" font-size="16" font-weight="700">'+(expanded?'−':n)+'</text>';
    const toggle=()=>{if(expandedClusters.has(key))expandedClusters.delete(key);else{expandedClusters.clear();expandedClusters.add(key);}render();};
    if(deadCount)g.innerHTML+='<circle cx="19" cy="-19" r="10" fill="#7f252c" stroke="#ef6464"/><text x="19" y="-15" text-anchor="middle" fill="#fff" font-size="11">'+deadCount+'</text>';
    g.onclick=toggle;g.onkeydown=ev=>{if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();toggle();}};
-   markerGroup(markerGroups,members[0]).append(g);mapPins.push({g,xy,dx:0,dy:0});
+   (cluster.realm==='mixed'?sharedClusters:markerGroup(markerGroups,members[0])).append(g);mapPins.push({g,xy,dx:0,dy:0});
    if(!expanded)continue;
   }
   const factor=zoom*atlasScale;

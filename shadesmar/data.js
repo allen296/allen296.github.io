@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 286,
+  "revision": 287,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -179452,9 +179452,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El combate aéreo tiene lugar ante la Puerta Jurada. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob116",
@@ -179462,10 +179466,10 @@ window.ATLAS_DATA = {
             "primary228-ob116"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-aerial-fight",
-          "coordinateAnchorName": "Shadesmar · Combate aéreo ante la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -206970,9 +206974,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -206980,8 +206988,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -207015,9 +207023,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -207025,10 +207037,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221046,9 +221058,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob116",
@@ -221056,10 +221072,10 @@ window.ATLAS_DATA = {
             "primary228-ob116"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221091,9 +221107,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob117",
@@ -221101,10 +221121,10 @@ window.ATLAS_DATA = {
             "primary229-ob117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221136,9 +221156,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/117.Campeon.xhtml",
-            "Sin coordenadas cognitivas propias."
+            "Sin coordenadas cognitivas propias.",
+            "La orilla corresponde a la retirada inmediata desde el puente. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob117",
@@ -221146,10 +221170,10 @@ window.ATLAS_DATA = {
             "primary229-ob117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob117-shadesmar-thaylen-beach",
-          "coordinateAnchorName": "Shadesmar · Orilla del mar de cuentas junto al puente",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -250466,9 +250490,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/87.Estesitio.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El mar de cuentas en esta escena corresponde al tramo inmediato a la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            720.99609375,
+            343.75
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary216-ob87",
@@ -250476,10 +250504,10 @@ window.ATLAS_DATA = {
             "primary216-ob87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob87-shadesmar-bead-sea",
-          "coordinateAnchorName": "Shadesmar · Mar de cuentas junto a la plataforma",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-shadesmar-kholinar-oathgate-anchor",
+          "coordinateAnchorName": "Shadesmar · Entorno de la Puerta Jurada de Kholinar",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252133,9 +252161,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob116",
@@ -252143,10 +252175,10 @@ window.ATLAS_DATA = {
             "primary228-ob116"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252178,9 +252210,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob117",
@@ -252188,10 +252224,10 @@ window.ATLAS_DATA = {
             "primary229-ob117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -252223,9 +252259,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/117.Campeon.xhtml",
-            "Sin coordenadas cognitivas propias."
+            "Sin coordenadas cognitivas propias.",
+            "La orilla corresponde a la retirada inmediata desde el puente. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob117",
@@ -252233,10 +252273,10 @@ window.ATLAS_DATA = {
             "primary229-ob117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob117-shadesmar-thaylen-beach",
-          "coordinateAnchorName": "Shadesmar · Orilla del mar de cuentas junto al puente",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253271,9 +253311,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -253281,8 +253325,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -253316,9 +253360,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -253326,10 +253374,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253361,9 +253409,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Pequeña zona de suelo firme junto a la rampa."
+            "Pequeña zona de suelo firme junto a la rampa.",
+            "El embarcadero está al pie de la misma columna. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -253371,10 +253423,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-dock",
-          "coordinateAnchorName": "Shadesmar · Embarcadero al pie de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -329413,9 +329465,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob116",
@@ -329423,10 +329479,10 @@ window.ATLAS_DATA = {
             "primary228-ob116"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330031,9 +330087,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -330041,8 +330101,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -330076,9 +330136,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -330086,10 +330150,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -347808,9 +347872,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -347818,8 +347886,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -347853,9 +347921,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -347863,10 +347935,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -374132,9 +374204,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -374142,8 +374218,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -374177,9 +374253,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -374187,10 +374267,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -393033,9 +393113,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -393043,8 +393127,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -393078,9 +393162,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -393088,10 +393176,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -404883,9 +404971,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -404893,8 +404985,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -404928,9 +405020,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -404938,10 +405034,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -408152,9 +408248,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -408162,8 +408262,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -408197,9 +408297,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -408207,10 +408311,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -431050,9 +431154,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -431060,8 +431168,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -431095,9 +431203,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -431105,10 +431217,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450487,9 +450599,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary228-ob116",
@@ -450497,10 +450613,10 @@ window.ATLAS_DATA = {
             "primary228-ob116"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450532,9 +450648,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/116.Ensolitario.xhtml",
-            "Sin coordenadas propias."
+            "Sin coordenadas propias.",
+            "El puente conduce a esta plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob117",
@@ -450542,10 +450662,10 @@ window.ATLAS_DATA = {
             "primary229-ob117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-bridge",
-          "coordinateAnchorName": "Shadesmar · Puente blanco hacia la Puerta Jurada de Ciudad Thaylen",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450577,9 +450697,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/117.Campeon.xhtml",
-            "Sin coordenadas cognitivas propias."
+            "Sin coordenadas cognitivas propias.",
+            "La orilla corresponde a la retirada inmediata desde el puente. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob117",
@@ -450587,10 +450711,10 @@ window.ATLAS_DATA = {
             "primary229-ob117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob117-shadesmar-thaylen-beach",
-          "coordinateAnchorName": "Shadesmar · Orilla del mar de cuentas junto al puente",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450622,9 +450746,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -450632,10 +450760,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -456618,9 +456746,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -456628,8 +456760,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -456663,9 +456795,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -456673,10 +456809,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -465404,9 +465540,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -465414,8 +465554,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -465449,9 +465589,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -465459,10 +465603,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -471968,9 +472112,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -471978,8 +472126,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -472013,9 +472161,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -472023,10 +472175,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -472604,9 +472756,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -472614,8 +472770,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -472649,9 +472805,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -472659,10 +472819,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -472999,9 +473159,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -473009,8 +473173,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -473044,9 +473208,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -473054,10 +473222,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -473307,9 +473475,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -473317,8 +473489,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -473352,9 +473524,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -473362,10 +473538,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474051,9 +474227,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474061,8 +474241,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -474096,9 +474276,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474106,10 +474290,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474383,9 +474567,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474393,8 +474581,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -474428,9 +474616,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474438,10 +474630,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474670,9 +474862,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474680,8 +474876,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -474715,9 +474911,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474725,10 +474925,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474943,9 +475143,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474953,8 +475157,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -474988,9 +475192,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -474998,10 +475206,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475033,9 +475241,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Pequeña zona de suelo firme junto a la rampa."
+            "Pequeña zona de suelo firme junto a la rampa.",
+            "El embarcadero está al pie de la misma columna. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475043,10 +475255,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-dock",
-          "coordinateAnchorName": "Shadesmar · Embarcadero al pie de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475418,9 +475630,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475428,8 +475644,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -475463,9 +475679,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475473,10 +475693,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475758,9 +475978,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475768,8 +475992,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -475803,9 +476027,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475813,10 +476041,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475963,9 +476191,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Pequeña zona de suelo firme junto a la rampa."
+            "Pequeña zona de suelo firme junto a la rampa.",
+            "El embarcadero está al pie de la misma columna. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -475973,10 +476205,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-dock",
-          "coordinateAnchorName": "Shadesmar · Embarcadero al pie de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -476345,9 +476577,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476355,8 +476591,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -476401,9 +476637,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo."
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476411,8 +476651,8 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
           "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
@@ -476457,9 +476697,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
-            "Baja desde la plataforma hasta el mar de cuentas."
+            "Baja desde la plataforma hasta el mar de cuentas.",
+            "La rampa desciende desde la plataforma. Representación regional sin punto individual."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary264-row-22",
@@ -476467,10 +476711,10 @@ window.ATLAS_DATA = {
             "primary264-row-22"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row22-shadesmar-urithiru-ramp",
-          "coordinateAnchorName": "Shadesmar · Rampa helicoidal de la columna de Urithiru",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
