@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 290,
+  "revision": 291,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -178205,9 +178205,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -178215,8 +178219,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -178912,9 +178916,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -178922,10 +178930,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -204141,9 +204149,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -204151,8 +204163,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -204570,9 +204582,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -204580,10 +204596,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -220309,9 +220325,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -220319,8 +220339,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -220693,9 +220713,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -220703,10 +220727,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -251092,9 +251116,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -251102,8 +251130,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -251566,9 +251594,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -251576,10 +251608,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -328813,9 +328845,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -328823,8 +328859,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -329152,9 +329188,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -329162,10 +329202,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -442552,9 +442592,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -442562,8 +442606,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -442981,9 +443025,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -442991,10 +443039,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450015,9 +450063,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/95.Vacioineludible.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Sector aproximado de la península que el grupo recorre al sur de Kholinar y que termina en el faro descrito en el 97. El faro y la Puerta Jurada orientan el punto; la marcha del 95 no se sitúa dentro del faro."
           ],
-          "xy": null,
+          "xy": [
+            716,
+            350
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary220-ob95",
@@ -450025,8 +450077,8 @@ window.ATLAS_DATA = {
             "primary220-ob95"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob95-shadesmar-peninsula",
           "coordinateAnchorName": "Shadesmar · Península de obsidiana al sur de Kholinar",
           "storyTime": {
@@ -450350,9 +450402,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/102.Celebrant.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Referencia regional de Celebrant únicamente para el embarque y la salida inmediata de puerto en el capítulo 102. No se traslada a las escenas del barco en alta mar."
           ],
-          "xy": null,
+          "xy": [
+            691.9921875,
+            412.01171875
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary222-ob102",
@@ -450360,10 +450416,10 @@ window.ATLAS_DATA = {
             "primary222-ob102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob102-honorspren-ship",
-          "coordinateAnchorName": "Shadesmar · Barco blanco y dorado de los honorspren",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-shadesmar-celebrant-anchor",
+          "coordinateAnchorName": "Shadesmar · Celebrant",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
