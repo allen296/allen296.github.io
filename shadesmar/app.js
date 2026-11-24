@@ -23,15 +23,45 @@ const atlasScale=data.mapPresentation?.atlasScale||1;
 let mapPins=[],mapClusters=[];
 const expandedClusters=new Set();
 function clusterCharacters(people){
- const pending=new Set(people),groups=[],factor=zoom*atlasScale;
+ const factor=zoom*atlasScale, cellSize=54/factor;
+ const pending=new Set(people), groups=[], cells=new Map(), points=new Map();
+ const cellKey=(col,row)=>col+'|'+row;
+ for(const p of people){
+  const [x,y]=mapEvidence(p).xy;
+  const col=Math.floor(x/cellSize), row=Math.floor(y/cellSize), key=cellKey(col,row);
+  if(!cells.has(key))cells.set(key,new Set());
+  const cell=cells.get(key);
+  cell.add(p);
+  points.set(p,{x,y,col,row,cell});
+ }
+ function removePending(p){
+  pending.delete(p);
+  points.get(p).cell.delete(p);
+ }
  while(pending.size){
-  const first=pending.values().next().value;pending.delete(first);const members=[first];
-  for(let i=0;i<members.length;i++)for(const p of [...pending]){
-   const a=mapEvidence(members[i]),b=mapEvidence(p);
-   if(Math.hypot(a.xy[0]-b.xy[0],a.xy[1]-b.xy[1])*factor<54){members.push(p);pending.delete(p);}
+  const first=pending.values().next().value, members=[first];
+  removePending(first);
+  // Follow chains of nearby markers, including markers on different planes.
+  for(let i=0;i<members.length;i++){
+   const point=points.get(members[i]);
+   for(let dy=-1;dy<=1;dy++)for(let dx=-1;dx<=1;dx++){
+    const neighbors=cells.get(cellKey(point.col+dx,point.row+dy));
+    if(!neighbors)continue;
+    for(const p of neighbors){
+     const neighbor=points.get(p);
+     if(Math.hypot(point.x-neighbor.x,point.y-neighbor.y)*factor>=54)continue;
+     members.push(p);
+     removePending(p);
+    }
+   }
   }
   members.sort((a,b)=>a.id.localeCompare(b.id));
-  const xy=[0,0];for(const p of members){const e=mapEvidence(p);xy[0]+=e.xy[0]/members.length;xy[1]+=e.xy[1]/members.length;}
+  const xy=[0,0];
+  for(const member of members){
+   const point=points.get(member);
+   xy[0]+=point.x/members.length;
+   xy[1]+=point.y/members.length;
+  }
   const planes=new Set(members.map(p=>realm(mapEvidence(p))));
   groups.push({key:members.map(p=>p.id).join('|'),members,xy,realm:planes.size>1?'mixed':realm(mapEvidence(first))});
  }
@@ -49,8 +79,20 @@ let hiddenCharacters=new Set();
 try{const saved=JSON.parse(window.localStorage?.getItem('shadesmar-hidden-characters')||'[]');if(Array.isArray(saved))hiddenCharacters=new Set(saved.filter(id=>cast.some(p=>p.id===id)));}catch{}
 function saveVisibility(){try{window.localStorage?.setItem('shadesmar-hidden-characters',JSON.stringify([...hiddenCharacters]));}catch{}}
 function changeVisibility(id,visible){if(visible)hiddenCharacters.delete(id);else hiddenCharacters.add(id);saveVisibility();render();showSelectedGroup();}
-function identityId(id){const seen=new Set();let current=id;while(!seen.has(current)){seen.add(current);const link=(data.identityAliases||[]).find(x=>x.from===current&&index.get(x.revealedAt.sceneId)<=step);if(!link)break;current=link.to;}return current;}
-function characterName(p){const personId=identityId(p.ownerId||p.id),person=cast.find(c=>c.id===personId)||p;return (person.nameRevelations||[]).filter(x=>x.status!=='rejected'&&index.get(x.revealedAt.sceneId)<=step).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)).at(-1)?.name||person.name;}
+function identityId(id){
+ const cache=renderMemo?.identities;
+ if(!cache)return resolveIdentityId(id);
+ if(!cache.has(id))cache.set(id,resolveIdentityId(id));
+ return cache.get(id);
+}
+function resolveIdentityId(id){const seen=new Set();let current=id;while(!seen.has(current)){seen.add(current);const link=(data.identityAliases||[]).find(x=>x.from===current&&index.get(x.revealedAt.sceneId)<=step);if(!link)break;current=link.to;}return current;}
+function characterName(p){
+ const cache=renderMemo?.names;
+ if(!cache)return resolveCharacterName(p);
+ if(!cache.has(p))cache.set(p,resolveCharacterName(p));
+ return cache.get(p);
+}
+function resolveCharacterName(p){const personId=identityId(p.ownerId||p.id),person=(renderMemo?renderMemo.castById.get(personId):cast.find(c=>c.id===personId))||p;return (person.nameRevelations||[]).filter(x=>x.status!=='rejected'&&index.get(x.revealedAt.sceneId)<=step).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)).at(-1)?.name||person.name;}
 const markerCode=p=>characterName(p).split(/[\s-]+/).filter(Boolean).map(w=>w[0]).join('').slice(0,3).toLocaleUpperCase('es')||(p.initial||'?');
 const escapeHtml=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const tierLabels={primary:'Principal',secondary:'Secundario',tertiary:'Terciario'};
@@ -64,8 +106,29 @@ const categoryVisible=p=>({primary:showPrimary,secondary:showSecondary,tertiary:
 let showDeceased=true;
 try{showDeceased=window.localStorage?.getItem('shadesmar-show-deceased')!=='false';}catch{}
 function lifeState(p){
+ const cache=renderMemo?.life;
+ if(!cache)return resolveLifeState(p);
+ if(!cache.has(p))cache.set(p,resolveLifeState(p));
+ return cache.get(p);
+}
+function resolveLifeState(p){
+ let state;
+ if(renderMemo){
+  if(!renderMemo.lifeById){
+   renderMemo.lifeById=new Map();
+   for(const event of data.lifeEvents||[]){
+    const at=index.get(event.revealedAt.sceneId);
+    if(event.status==='rejected'||!(at<=step))continue;
+    const id=identityId(event.characterId), previous=renderMemo.lifeById.get(id);
+    if(!previous||at>=index.get(previous.revealedAt.sceneId))renderMemo.lifeById.set(id,event);
+   }
+  }
+  state=renderMemo.lifeById.get(identityId(p.ownerId||p.id));
+ }else{
  const known=(data.lifeEvents||[]).filter(x=>x.status!=='rejected'&&identityId(x.characterId)===identityId(p.ownerId||p.id)&&index.get(x.revealedAt.sceneId)<=step).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId));
- const state=known.at(-1);if(!state)return null;
+ state=known.at(-1);
+ }
+ if(!state)return null;
  const e=last(p);if(nightReview){if(!isNightEvent({scene:state.revealedAt.sceneId})||nightPhase(e)===0)return null;return state;}if(inMemory()&&e?.scene===scenes[step].id&&isPast(e)&&state.revealedAt.sceneId!==scenes[step].id)return null;
  return state;
 }
@@ -79,8 +142,31 @@ const dawnshardPhysicalReference=p=>{
  return dawnshardScene()&&e?.scene===scenes[step].id&&realm(e)==='physical';
 };
 const inDisplayedRealm=p=>!$('showShadesmar').checked||realm(last(p))==='cognitive'||Boolean(cognitiveExperience(p))||dawnshardPhysicalReference(p);
-const eventsFor=p=>{
- if(identityId(p.id)!==p.id)return [];const candidates=[...p.events,...(data.identityAliases||[]).filter(x=>identityId(x.from)===p.id&&identityId(x.from)!==x.from).flatMap(x=>cast.find(c=>c.id===x.from)?.events||[])].sort((a,b)=>index.get(a.scene)-index.get(b.scene)||(a.memoryOrder||0)-(b.memoryOrder||0)||index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId));const known=candidates.filter(e=>index.get(e.revealedAt?.sceneId||e.scene)<=step&&index.get(e.scene)<=step);
+function eventsFor(p){
+ const cache=renderMemo?.events;
+ if(!cache)return resolveEventsFor(p);
+ if(!cache.has(p))cache.set(p,resolveEventsFor(p));
+ return cache.get(p);
+}
+function eventCandidatesWithAliases(person){
+ if(!renderMemo){
+  return (data.identityAliases||[]).filter(link=>identityId(link.from)===person.id&&identityId(link.from)!==link.from)
+   .flatMap(link=>cast.find(p=>p.id===link.from)?.events||[]);
+ }
+ if(!renderMemo.aliasEvents){
+  const byOwner=new Map();
+  for(const link of data.identityAliases||[]){
+   const owner=identityId(link.from);
+   if(owner===link.from)continue;
+   if(!byOwner.has(owner))byOwner.set(owner,[]);
+   byOwner.get(owner).push(...(renderMemo.castById.get(link.from)?.events||[]));
+  }
+  renderMemo.aliasEvents=byOwner;
+ }
+ return renderMemo.aliasEvents.get(person.id)||[];
+}
+const resolveEventsFor=p=>{
+ if(identityId(p.id)!==p.id)return [];const candidates=[...p.events,...eventCandidatesWithAliases(p)].sort((a,b)=>index.get(a.scene)-index.get(b.scene)||(a.memoryOrder||0)-(b.memoryOrder||0)||index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId));const known=candidates.filter(e=>index.get(e.revealedAt?.sceneId||e.scene)<=step&&index.get(e.scene)<=step);
  const superseded=new Set(known.flatMap(e=>e.supersedes||[]));
  return known.filter(e=>!superseded.has(e.id)&&!e.excludedFromRoute);
 };
@@ -95,13 +181,19 @@ function renderNightControls(){const known=knownNightScenes();$('reviewNight').h
  $('nightReviewStatus').textContent='RECUERDO COMPARTIDO · Noche de la muerte de Gavilar. '+known.length+' perspectivas conocidas hasta '+sceneLabel(scenes[step])+'. Se muestra el último momento documentado de cada personaje esa noche; los puntos no afirman que todos coincidieran a la vez. Selecciona la perspectiva de Jasnah para ver también su visita breve a Shadesmar y el anclaje de entrada en Roshar; es un episodio con retorno, no una estancia permanente.';
 }
 const isPast=e=>e.storyTime?.frame==='flashback';
-const last=p=>{
+function last(p){
+ const cache=renderMemo?.latest;
+ if(!cache)return resolveLast(p);
+ if(!cache.has(p))cache.set(p,resolveLast(p));
+ return cache.get(p);
+}
+const resolveLast=p=>{
  const known=eventsFor(p);
  if(nightReview)return nightEventsFor(p).at(-1);
  if(inMemory())return known.filter(e=>e.scene===scenes[step].id&&isPast(e)).at(-1);
  return known.filter(e=>!isPast(e)).at(-1)||known.at(-1);
 };
-let renderedMapEvidence=null;
+let renderedMapEvidence=null, renderMemo=null;
 function mapEvidence(p){
  if(p.representativeEvidence)return p.representativeEvidence;
  if(!renderedMapEvidence)return resolveMapEvidence(p);
@@ -126,7 +218,11 @@ function resolveMapEvidence(p){
 const books=data.books||[{id:data.bookId||'wok',title:data.book,order:1}];
 const sceneBook=s=>s.bookId||data.bookId||'wok';
 const sceneLabel=s=>(books.find(b=>b.id===sceneBook(s))?.title||'')+' \u00b7 '+s.label.replace(/^PR\s*\u00b7\s*/,'');
-function syncReadingControls(scene){
+let readingControlsKey;
+function syncReadingControls(){
+ const key=skipFlashbacks+"|"+scenes.length;
+ if(readingControlsKey===key)return;
+ readingControlsKey=key;
  const entries=readingSteps(),parts=[...new Set(entries.map(({s})=>s.part))];
  $('partSelect').replaceChildren(...parts.map(id=>{const o=document.createElement('option');o.value=id;const s=scenes.find(s=>s.part===id),name=partNames[id]||id;o.textContent=name.startsWith('Palabras radiantes')?name:(books.find(b=>b.id===sceneBook(s))?.title||'')+' \u00b7 '+name;return o;}));
  $('sceneSelect').replaceChildren(...entries.map(({s,i})=>{const o=document.createElement('option');o.value=i;o.textContent=sceneLabel(s)+(s.memoryEventId?' · Recuerdo: noche de Gavilar':s.flashback?' · Recuerdo':s.mixedFlashback?' · Presente y recuerdo':'')+(s.excluded?' \u00b7 Fuera del recorrido':'');return o;}));
@@ -179,7 +275,7 @@ function keepTimelineViewport(update){
  update();
  if(preserve&&window.scrollY!==y&&typeof window.scrollTo==='function')window.scrollTo({left:Number.isFinite(x)?x:0,top:y,behavior:'instant'});
 }
-function go(value){keepTimelineViewport(()=>{stop();expandedClusters.clear();const target=Math.max(0,Math.min(scenes.length-1,value));step=skipFlashbacks&&(scenes[target].flashback||scenes[target].memoryEventId)?nextReadingStep(target,value<step?-1:1):target;memoryView=false;render();showSelectedGroup();});}
+function go(value){keepTimelineViewport(()=>{stop();expandedClusters.clear();const target=Math.max(0,Math.min(scenes.length-1,value));step=skipFlashbacks&&(scenes[target].flashback||scenes[target].memoryEventId)?nextReadingStep(target,value<step?-1:1):target;memoryView=false;render({expandSelection:true});});}
 let unlocatedTrayExpanded=false,dawnshardTrayExpanded=true,documentedTrayExpanded=true;
 function renderMemoryTokens(people,chapterMode=false,documentedChapter=false){
  const panel=$('memoryUnlocatedPanel'),grid=$('memoryUnlocatedTokens');
@@ -201,18 +297,79 @@ function renderMemoryTokens(people,chapterMode=false,documentedChapter=false){
   b.onclick=()=>{if(chapterMode&&!last(p)){selectRelationshipPerson(p.id);showAtlasView('relationships');}else focusCharacter(p.id);};grid.append(b);
  }
 }
-function render(){
+function render({expandSelection=false}={}){
  // Keep results only for this synchronous render, including unmapped characters.
- const previous=renderedMapEvidence;
+ const previous=renderedMapEvidence, previousMemo=renderMemo;
+ renderMemo={identities:new Map(),names:new WeakMap(),life:new WeakMap(),events:new WeakMap(),latest:new WeakMap(),lifeById:null,castById:new Map(cast.map(p=>[p.id,p]))};
  renderedMapEvidence=new WeakMap();
- try{renderAtlas();}finally{renderedMapEvidence=previous;}
+ try{renderAtlas(expandSelection);}finally{renderMemo=previousMemo;renderedMapEvidence=previous;}
 }
-function renderAtlas(){
+const characterRows=new Map();
+function renderCharacterRows(people,scene){
+ const panel=$('people');
+ if(!people.length){
+  panel.replaceChildren();
+  panel.textContent='Sin coincidencias en este punto de lectura.';
+  return;
+ }
+ if(panel.firstChild?.nodeType===3)panel.firstChild.remove();
+ const ordered=[];
+ for(const p of people){
+  let entry=characterRows.get(p.id);
+  if(!entry){
+   const row=document.createElement('div');row.className='person-row';
+   const check=document.createElement('input');check.type='checkbox';
+   check.onchange=()=>changeVisibility(p.id,check.checked);
+   const button=document.createElement('button');
+   button.onclick=()=>focusCharacter(p.id);
+   row.append(check,button);
+   entry={row,check,button};
+   characterRows.set(p.id,entry);
+  }
+  const {row,check,button}=entry;
+  const name=characterName(p),checked=!hiddenCharacters.has(p.id),active=detailOpen&&selected===p.id;
+  const importance=tierLabels[p.importance], title=importance+': '+p.importanceReason;
+  if(check.checked!==checked)check.checked=checked;
+  if(entry.name!==name){
+   check.setAttribute('aria-label','Mostrar a '+name+' en el mapa');
+   entry.name=name;
+  }
+  if(entry.active!==active){
+   button.className='person'+(active?' active':'');
+   button.setAttribute('aria-pressed',String(active));
+   entry.active=active;
+  }
+  if(entry.title!==title){
+   button.setAttribute('title',title);
+   entry.title=title;
+  }
+  const e=last(p), death=lifeState(p)?.state;
+  const deceased=death==='dead'||death==='reported-dead';
+  const reference=deceased?(death==='reported-dead'?'Dado por fallecido':'Fallecido'):isPast(e)?'Referencia del pasado':e.scene===scene.id?'Referencia del capítulo':'Última referencia';
+  const html='<span class="avatar" style="color:'+(deceased?'#ef6464':p.color)+'">'+escapeHtml(p.initial)+'</span><span><strong>'+escapeHtml(name)+'</strong><small>'+escapeHtml(importance)+' · '+reference+'</small></span>';
+  if(entry.html!==html){
+   button.innerHTML=html;
+   entry.html=html;
+  }
+  ordered.push(row);
+ }
+ if(!panel.insertBefore){
+  panel.replaceChildren(...ordered);
+  return;
+ }
+ const keep=new Set(ordered);
+ for(const row of Array.from(panel.children))if(!keep.has(row))row.remove();
+ for(let i=0;i<ordered.length;i++){
+  const current=panel.children[i]||null;
+  if(current!==ordered[i])panel.insertBefore(ordered[i],current);
+ }
+}
+function renderAtlas(expandSelection){
  if(nightReview&&nightPerspective!=='all'&&!knownNightScenes().some(s=>s.id===nightPerspective)){nightPerspective='all';$('showShadesmar').checked=false;}
  const scene=scenes[step], available=cast.filter(p=>last(p));
  $('onlyChapterCharacters').setAttribute('aria-pressed',String(onlyChapterCharacters));
  $('onlyChapterCharacters').textContent='Solo personajes del capítulo: '+(onlyChapterCharacters?'Sí':'No');
- syncReadingControls(scene);renderNightControls();
+ syncReadingControls();renderNightControls();
  $('skipFlashbacks').textContent='Omitir flashbacks: '+(skipFlashbacks?'Sí':'No');$('skipFlashbacks').setAttribute('aria-pressed',String(skipFlashbacks));
  $('memoryView').hidden=nightReview||!scene.mixedFlashback||skipFlashbacks;$('memoryView').textContent=inMemory()?'Volver al presente':'Ver recuerdo';$('memoryView').setAttribute('aria-pressed',String(inMemory()));
  const memoryUnlocated=available.filter(p=>!mapEvidence(p));
@@ -244,16 +401,7 @@ function renderAtlas(){
  const documentedChapter=currentWithoutPoint.length>0;
  renderMemoryTokens(chapterUnlocated.length?chapterUnlocated:documentedChapter?currentWithoutPoint:visibleMemoryUnlocated,chapterMentionsMode||documentedChapter,documentedChapter);
  const filtered=available.filter(categoryVisible).filter(chapterCharacterVisible).filter(p=>characterName(p).toLocaleLowerCase('es').includes($('search').value.toLocaleLowerCase('es')));
- $('count').textContent=available.filter(p=>isVisible(p)&&inDisplayedRealm(p)).length+' / '+available.length+' visibles';$('people').replaceChildren();
- for(const p of filtered){
-  const row=document.createElement('div');row.className='person-row';
-  const check=document.createElement('input');check.type='checkbox';check.checked=!hiddenCharacters.has(p.id);check.setAttribute('aria-label','Mostrar a '+characterName(p)+' en el mapa');check.onchange=()=>changeVisibility(p.id,check.checked);
-  const e=last(p),b=document.createElement('button');b.className='person'+(detailOpen&&selected===p.id?' active':'');
-  b.setAttribute('aria-pressed',String(detailOpen&&selected===p.id));b.setAttribute('title',tierLabels[p.importance]+': '+p.importanceReason);
-  b.innerHTML='<span class="avatar" style="color:'+markerColor(p)+'">'+escapeHtml(p.initial)+'</span><span><strong>'+escapeHtml(characterName(p))+'</strong><small>'+escapeHtml(tierLabels[p.importance])+' · '+(isDeceased(p)?(lifeState(p).state==='reported-dead'?'Dado por fallecido':'Fallecido'):isPast(e)?'Referencia del pasado':e.scene===scene.id?'Referencia del capítulo':'Última referencia')+'</small></span>';
-  b.onclick=()=>{focusCharacter(p.id);};row.append(check,b);$('people').append(row);
- }
- if(!filtered.length)$('people').textContent='Sin coincidencias en este punto de lectura.';
+ $('count').textContent=available.filter(p=>isVisible(p)&&inDisplayedRealm(p)).length+' / '+available.length+' visibles';renderCharacterRows(filtered,scene);
  $('pendingCharacterSelection').replaceChildren();$('pendingCharacterSelection').hidden=true;
  if(current&&!available.some(p=>p.id===current.id)){
   const introduced=typeof relationshipPeople==='function'?relationshipPeople().some(p=>p.id===current.id):eventsFor(current).length>0;
@@ -318,6 +466,11 @@ function renderAtlas(){
  mapClusters=clusterCharacters([...plotted,...representatives]);
  const activeKeys=new Set(mapClusters.filter(c=>c.members.length>1).map(c=>c.key));
  for(const key of expandedClusters)if(!activeKeys.has(key))expandedClusters.delete(key);
+ if(expandSelection&&detailOpen&&current&&isVisible(current)){
+  for(const cluster of mapClusters){
+   if(cluster.members.length>1&&cluster.members.some(p=>markerOwner(p)===current.id))expandedClusters.add(cluster.key);
+  }
+ }
  const sharedClusters=document.createElementNS(NS,'g');
  sharedClusters.setAttribute('data-realm','mixed');
  $('markers').append(sharedClusters);

@@ -3,7 +3,8 @@ let atlasView='map',relationshipFocus=null,relationshipOther='',relationshipMode
 let relationshipFilters={primary:true,secondary:true,tertiary:true,deceased:true};
 try{const saved=JSON.parse(window.localStorage?.getItem('shadesmar-relationship-filters')||'null');if(saved)for(const k of Object.keys(relationshipFilters))if(typeof saved[k]==='boolean')relationshipFilters[k]=saved[k];}catch{}
 const relationKnownAt=at=>Number.isInteger(index.get(at?.sceneId))&&index.get(at.sceneId)<=step;
-function relationRecords(records){const known=(records||[]).filter(r=>r.status!=='rejected'&&relationKnownAt(r.revealedAt));const replaced=new Set(known.flatMap(r=>r.supersedes||[]));return known.filter(r=>!replaced.has(r.id)).map(r=>({...r,...(r.from?{from:identityId(r.from),to:identityId(r.to)}:{}),...(r.characterId?{characterId:identityId(r.characterId)}:{}),...(r.participants?{participants:[...new Set(r.participants.map(identityId))]}:{})}));}
+function activeRelationRecords(records){const known=(records||[]).filter(r=>r.status!=='rejected'&&relationKnownAt(r.revealedAt));const replaced=new Set(known.flatMap(r=>r.supersedes||[]));return known.filter(r=>!replaced.has(r.id));}
+function relationRecords(records){return activeRelationRecords(records).map(r=>({...r,...(r.from?{from:identityId(r.from),to:identityId(r.to)}:{}),...(r.characterId?{characterId:identityId(r.characterId)}:{}),...(r.participants?{participants:[...new Set(r.participants.map(identityId))]}:{})}));}
 const relationshipsKnown=()=>relationRecords(data.relationships);
 const interactionsKnown=()=>relationRecords(data.interactions).filter(e=>!e.occurredAt||relationKnownAt(e.occurredAt));
 const characterFactsKnown=()=>relationRecords(data.characterFacts);
@@ -15,7 +16,21 @@ const relationName=id=>{const p=relationPerson(id);return p?characterName(p):'Si
 function relationLife(id){return (data.lifeEvents||[]).filter(e=>e.status!=='rejected'&&identityId(e.characterId)===identityId(id)&&relationKnownAt(e.revealedAt)).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)).at(-1);}
 const relationDead=id=>['dead','reported-dead'].includes(relationLife(id)?.state);
 const relationVisible=id=>{const p=relationPerson(id);return p&&relationshipFilters[p.importance||'tertiary']&&(relationshipFilters.deceased||!relationDead(id));};
-function relationshipPeople(){const ids=new Set(cast.filter(p=>p.events.some(e=>relationKnownAt(e.revealedAt||{sceneId:e.scene}))).map(p=>p.id));for(const r of relationshipsKnown()){ids.add(r.from);ids.add(r.to);}for(const e of interactionsKnown())for(const id of e.participants)ids.add(id);for(const f of characterFactsKnown())ids.add(f.characterId);const canonicalIds=new Set([...ids].map(identityId));return cast.filter(p=>canonicalIds.has(p.id)&&identityId(p.id)===p.id).sort((a,b)=>characterName(a).localeCompare(characterName(b),'es'));}
+const relationshipNameOrder=new Intl.Collator('es');
+function relationshipPeople(){
+ if(typeof renderMemo!=='undefined'&&renderMemo?.relationshipPeople)return renderMemo.relationshipPeople;
+ const ids=new Set(cast.filter(p=>p.events.some(e=>relationKnownAt(e.revealedAt||{sceneId:e.scene}))).map(p=>p.id));
+ for(const r of activeRelationRecords(data.relationships)){ids.add(r.from);ids.add(r.to);}
+ for(const e of activeRelationRecords(data.interactions)){
+  if(!e.occurredAt||relationKnownAt(e.occurredAt))for(const id of e.participants)ids.add(id);
+ }
+ for(const f of activeRelationRecords(data.characterFacts))ids.add(f.characterId);
+ const canonicalIds=new Set([...ids].map(identityId));
+ const people=cast.filter(p=>canonicalIds.has(p.id)&&identityId(p.id)===p.id)
+  .sort((a,b)=>relationshipNameOrder.compare(characterName(a),characterName(b)));
+ if(typeof renderMemo!=='undefined'&&renderMemo)renderMemo.relationshipPeople=people;
+ return people;
+}
 const relationshipHistory=(id,other='')=>interactionsKnown().filter(e=>interactionContacts(e,id).some(p=>!other||p===identityId(other))).sort((a,b)=>(index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId))||(a.id.localeCompare(b.id)));
 function relationshipContacts(id){id=identityId(id);const ids=new Set();for(const e of relationshipHistory(id))for(const p of interactionContacts(e,id))ids.add(p);for(const r of documentedRelationships().filter(r=>r.from===id||r.to===id))ids.add(r.from===id?r.to:r.from);return [...ids].sort((a,b)=>relationName(a).localeCompare(relationName(b),'es'));}
 function genealogyRelationships(){
