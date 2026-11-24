@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 288,
+  "revision": 289,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -207485,9 +207485,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -207495,8 +207499,8 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -207530,9 +207534,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Población costera sin nombre en el capítulo."
+            "Población costera sin nombre en el capítulo.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -207540,10 +207548,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-south-coast-market",
-          "coordinateAnchorName": "Shadesmar · Calles y comercios de la población de caravanas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253654,9 +253662,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Población costera sin nombre en el capítulo."
+            "Población costera sin nombre en el capítulo.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -253664,10 +253676,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-south-coast-market",
-          "coordinateAnchorName": "Shadesmar · Calles y comercios de la población de caravanas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253699,9 +253711,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "En la población costera."
+            "En la población costera.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -253709,10 +253725,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-inkspren-shop",
-          "coordinateAnchorName": "Shadesmar · Comercio del tintaspren y la críptica ojomuerta",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253744,9 +253760,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/30.Traicion.xhtml",
-            "En el campo de obsidiana a las afueras del puerto."
+            "En el campo de obsidiana a las afueras del puerto.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -253754,10 +253774,10 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row30-tukari-camp",
-          "coordinateAnchorName": "Shadesmar · Campamento tukari junto a la población costera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253789,9 +253809,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -253799,8 +253823,8 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -348174,9 +348198,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -348184,8 +348212,8 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -450925,9 +450953,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Población costera sin nombre en el capítulo."
+            "Población costera sin nombre en el capítulo.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -450935,10 +450967,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-south-coast-market",
-          "coordinateAnchorName": "Shadesmar · Calles y comercios de la población de caravanas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450970,9 +451002,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "En la población costera."
+            "En la población costera.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -450980,10 +451016,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-inkspren-shop",
-          "coordinateAnchorName": "Shadesmar · Comercio del tintaspren y la críptica ojomuerta",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451015,9 +451051,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/30.Traicion.xhtml",
-            "En el campo de obsidiana a las afueras del puerto."
+            "En el campo de obsidiana a las afueras del puerto.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -451025,10 +451065,10 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row30-tukari-camp",
-          "coordinateAnchorName": "Shadesmar · Campamento tukari junto a la población costera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451060,9 +451100,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -451070,8 +451114,8 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -455410,9 +455454,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -455420,8 +455468,8 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -465776,9 +465824,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/30.Traicion.xhtml",
-            "En el campo de obsidiana a las afueras del puerto."
+            "En el campo de obsidiana a las afueras del puerto.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -465786,10 +465838,10 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row30-tukari-camp",
-          "coordinateAnchorName": "Shadesmar · Campamento tukari junto a la población costera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -465821,9 +465873,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -465831,8 +465887,8 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -475583,9 +475639,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -475593,8 +475653,8 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -475886,9 +475946,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/30.Traicion.xhtml",
-            "En el campo de obsidiana a las afueras del puerto."
+            "En el campo de obsidiana a las afueras del puerto.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -475896,10 +475960,10 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row30-tukari-camp",
-          "coordinateAnchorName": "Shadesmar · Campamento tukari junto a la población costera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -475931,9 +475995,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -475941,8 +476009,8 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -476443,9 +476511,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -476453,8 +476525,8 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -476488,9 +476560,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "Arribo en la costa meridional tras unas dos semanas de barcaza."
+            "Arribo en la costa meridional tras unas dos semanas de barcaza.",
+            "Punto representativo del sector costero de las Orillas Astrales en la ruta de Adolin y Shallan (Mapa4). El mapa distingue Innominado de otro paradero. El capítulo 29 no identifica por su nombre dónde atraca la barcaza."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -476498,8 +476574,8 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row29-south-coast-port",
           "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
@@ -479158,9 +479234,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "En la población costera."
+            "En la población costera.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -479168,10 +479248,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-inkspren-shop",
-          "coordinateAnchorName": "Shadesmar · Comercio del tintaspren y la críptica ojomuerta",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -479228,9 +479308,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/29.Jaula.xhtml",
-            "En la población costera."
+            "En la población costera.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-29",
@@ -479238,10 +479322,10 @@ window.ATLAS_DATA = {
             "primary266-row-29"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row29-inkspren-shop",
-          "coordinateAnchorName": "Shadesmar · Comercio del tintaspren y la críptica ojomuerta",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -479332,9 +479416,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/30.Traicion.xhtml",
-            "En el campo de obsidiana a las afueras del puerto."
+            "En el campo de obsidiana a las afueras del puerto.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -479342,10 +479430,10 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row30-tukari-camp",
-          "coordinateAnchorName": "Shadesmar · Campamento tukari junto a la población costera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -479478,9 +479566,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/30.Traicion.xhtml",
-            "En el campo de obsidiana a las afueras del puerto."
+            "En el campo de obsidiana a las afueras del puerto.",
+            "Usa el punto regional de la escala en la costa meridional. La escena sucede en el poblado o a sus afueras."
           ],
-          "xy": null,
+          "xy": [
+            452,
+            479
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-30",
@@ -479488,10 +479580,10 @@ window.ATLAS_DATA = {
             "primary266-row-30"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row30-tukari-camp",
-          "coordinateAnchorName": "Shadesmar · Campamento tukari junto a la población costera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row29-south-coast-port",
+          "coordinateAnchorName": "Shadesmar · Muelle de la población de caravanas",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
