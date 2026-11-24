@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 291,
+  "revision": 292,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -177845,9 +177845,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El cruce une la plataforma y la franja del río. Comparte la referencia de la zona, sin trazar un recorrido exacto."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -177855,10 +177859,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
-          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -177890,9 +177894,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -177900,8 +177908,8 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -177935,9 +177943,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -177945,10 +177957,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -178025,9 +178037,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Kaladin ve el istmo del río y vuelve con los demás al campamento. Se conserva la ubicación presente junto al río, separada del recuerdo del ejército de Amaram."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob91",
@@ -178035,10 +178051,10 @@ window.ATLAS_DATA = {
             "primary218-ob91"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob91-shadesmar-obsidian-seat",
-          "coordinateAnchorName": "Shadesmar · Saliente de obsidiana junto al campamento",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -178070,9 +178086,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob91",
@@ -178080,10 +178100,10 @@ window.ATLAS_DATA = {
             "primary218-ob91"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -178115,9 +178135,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -178125,8 +178149,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -178160,9 +178184,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -178170,8 +178198,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -203969,9 +203997,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El cruce une la plataforma y la franja del río. Comparte la referencia de la zona, sin trazar un recorrido exacto."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -203979,10 +204011,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
-          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -204014,9 +204046,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -204024,8 +204060,8 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -204059,9 +204095,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -204069,10 +204109,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -204104,9 +204144,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -204114,8 +204158,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -220100,9 +220144,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El cruce une la plataforma y la franja del río. Comparte la referencia de la zona, sin trazar un recorrido exacto."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -220110,10 +220158,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
-          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -220145,9 +220193,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -220155,8 +220207,8 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -220190,9 +220242,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -220200,10 +220256,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -220235,9 +220291,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/91.Porquesebloqueo.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Kaladin ve el istmo del río y vuelve con los demás al campamento. Se conserva la ubicación presente junto al río, separada del recuerdo del ejército de Amaram."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob91",
@@ -220245,10 +220305,10 @@ window.ATLAS_DATA = {
             "primary218-ob91"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob91-shadesmar-obsidian-seat",
-          "coordinateAnchorName": "Shadesmar · Saliente de obsidiana junto al campamento",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -220280,9 +220340,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -220290,8 +220354,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -250801,9 +250865,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El cruce une la plataforma y la franja del río. Comparte la referencia de la zona, sin trazar un recorrido exacto."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -250811,10 +250879,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
-          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -250846,9 +250914,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -250856,8 +250928,8 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -250891,9 +250963,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -250901,10 +250977,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -250936,9 +251012,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -250946,10 +251026,10 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -250981,9 +251061,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -250991,8 +251075,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -251026,9 +251110,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -251036,8 +251124,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -328620,9 +328708,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El cruce une la plataforma y la franja del río. Comparte la referencia de la zona, sin trazar un recorrido exacto."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -328630,10 +328722,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
-          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -328665,9 +328757,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -328675,8 +328771,8 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -328710,9 +328806,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -328720,10 +328820,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -328755,9 +328855,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob91",
@@ -328765,10 +328869,10 @@ window.ATLAS_DATA = {
             "primary218-ob91"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -328800,9 +328904,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -328810,8 +328918,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -442367,9 +442475,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "El cruce une la plataforma y la franja del río. Comparte la referencia de la zona, sin trazar un recorrido exacto."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -442377,10 +442489,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-bead-crossing",
-          "coordinateAnchorName": "Shadesmar · Travesía del mar de cuentas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -442412,9 +442524,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -442422,8 +442538,8 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -442457,9 +442573,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary218-ob89",
@@ -442467,10 +442587,10 @@ window.ATLAS_DATA = {
             "primary218-ob89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -442502,9 +442622,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -442512,8 +442636,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -442547,9 +442671,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -442557,8 +442685,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
@@ -449973,9 +450101,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "Adolin encuentra la depresión al explorar orilla arriba. Se usa la referencia regional de esa misma orilla."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -449983,10 +450115,10 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob89-shadesmar-obsidian-camp",
-          "coordinateAnchorName": "Shadesmar · Depresión de piedra negra donde acampa el grupo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
+          "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450018,9 +450150,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/89.Condenacion.xhtml",
-            "Sin coordenadas cognitivas calibradas."
+            "Sin coordenadas cognitivas calibradas.",
+            "La franja de tierra se identifica con el río junto a Kholinar. Punto orientativo del corredor entre la Puerta Jurada y la salida hacia el sur, sin fijar el punto de desembarco."
           ],
-          "xy": null,
+          "xy": [
+            719,
+            347
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob93",
@@ -450028,8 +450164,8 @@ window.ATLAS_DATA = {
             "primary219-ob93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-ob89-shadesmar-river-shore",
           "coordinateAnchorName": "Shadesmar · Orilla de piedra negra en la franja del río",
           "storyTime": {
