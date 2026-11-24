@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 287,
+  "revision": 288,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -179501,9 +179501,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/118.Elpeso.xhtml",
-            "Sin coordenadas cognitivas propias."
+            "Sin coordenadas cognitivas propias.",
+            "Kaladin y Syl están junto a Adolin herido mientras se acercan los Fusionados. Continuidad con la retirada a la orilla junto al puente, con un punto regional compartido."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob118",
@@ -179511,10 +179515,10 @@ window.ATLAS_DATA = {
             "primary229-ob118"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob118-shadesmar-kaladin-shore",
-          "coordinateAnchorName": "Shadesmar · Orilla donde Kaladin se detiene junto a su grupo",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -206929,9 +206933,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -206939,10 +206947,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -221205,9 +221213,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/118.Elpeso.xhtml",
-            "Sin coordenadas cognitivas propias."
+            "Sin coordenadas cognitivas propias.",
+            "Kaladin y Syl están junto a Adolin herido mientras se acercan los Fusionados. Continuidad con la retirada a la orilla junto al puente, con un punto regional compartido."
           ],
-          "xy": null,
+          "xy": [
+            582.71484375,
+            508.984375
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary229-ob118",
@@ -221215,10 +221227,10 @@ window.ATLAS_DATA = {
             "primary229-ob118"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob118-shadesmar-kaladin-shore",
-          "coordinateAnchorName": "Shadesmar · Orilla donde Kaladin se detiene junto a su grupo",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-ob116-shadesmar-thaylen-oathgate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada de Ciudad Thaylen",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -253266,9 +253278,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -253276,10 +253292,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330042,9 +330058,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -330052,10 +330072,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -347827,9 +347847,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -347837,10 +347861,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -374159,9 +374183,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -374169,10 +374197,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -393068,9 +393096,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -393078,10 +393110,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -408203,9 +408235,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -408213,10 +408249,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -431109,9 +431145,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -431119,10 +431159,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -456701,9 +456741,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -456711,10 +456755,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -465495,9 +465539,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -465505,10 +465553,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -472067,9 +472115,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -472077,10 +472129,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -472711,9 +472763,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -472721,10 +472777,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474182,9 +474238,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -474192,10 +474252,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474522,9 +474582,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -474532,10 +474596,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -474817,9 +474881,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/21.Nudo.xhtml",
-            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada."
+            "El capítulo termina con el cruce. Todavía no describe el entorno del punto de llegada.",
+            "El cruce de la Puerta Jurada de Urithiru al final del 21 desemboca en la plataforma donde empieza el 22. Se usa su referencia regional, sin adelantar detalles de la escena siguiente."
           ],
-          "xy": null,
+          "xy": [
+            501,
+            405
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary263-row-21",
@@ -474827,10 +474895,10 @@ window.ATLAS_DATA = {
             "primary263-row-21"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row21-shadesmar-crossing",
-          "coordinateAnchorName": "Shadesmar · Punto de llegada de la expedición de Adolin",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
