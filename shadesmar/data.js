@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 283,
+  "revision": 284,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -207949,9 +207949,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -207959,8 +207963,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -207994,9 +207998,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
-            "El capítulo termina con Adolin detenido tras cruzar los portones."
+            "El capítulo termina con Adolin detenido tras cruzar los portones.",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -208004,10 +208012,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row36-lasting-integrity-entry",
-          "coordinateAnchorName": "Shadesmar · Interior de los portones de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208039,9 +208047,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/75.Paso.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-75",
@@ -208049,10 +208060,10 @@ window.ATLAS_DATA = {
             "primary276-row-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row75-lasting-foreigners",
-          "coordinateAnchorName": "Shadesmar · Zona de los visitantes de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208084,9 +208095,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -208094,10 +208108,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208129,9 +208143,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -208139,10 +208156,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-south",
-          "coordinateAnchorName": "Shadesmar · Plano sur de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208174,9 +208191,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-82",
@@ -208184,10 +208204,10 @@ window.ATLAS_DATA = {
             "primary276-row-82"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208219,9 +208239,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -208229,10 +208252,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-tree",
-          "coordinateAnchorName": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208264,9 +208287,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -208274,10 +208300,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208309,9 +208335,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -208319,10 +208348,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208354,9 +208383,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -208364,10 +208396,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208398,9 +208430,13 @@ window.ATLAS_DATA = {
           "placeId": "place-row93-kelek-house",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml"
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -208408,10 +208444,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row93-kelek-house",
-          "coordinateAnchorName": "Shadesmar · Casa de Kelek en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -208443,9 +208479,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-115",
@@ -208453,10 +208492,10 @@ window.ATLAS_DATA = {
             "primary280-row-115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -211312,9 +211351,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias.",
-            "La lámina XII rotula la cuenca del Drunmu en el sur de Emul. Falta ubicar el punto preciso del combate."
+            "La lámina XII rotula la cuenca del Drunmu en el sur de Emul. Falta ubicar el punto preciso del combate.",
+            "Anclaje aproximado en el sur de Emul a partir de la lámina XII, contrastada con Azimir, Yeddaw, Sesemalex Dar y Urithiru en el mapa físico. Representa la cuenca, sin fijar el campo de batalla exacto."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -211322,10 +211365,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -211359,7 +211402,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -211367,10 +211413,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -211404,7 +211450,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -211412,10 +211461,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254014,9 +254063,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -254024,8 +254077,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -254059,9 +254112,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
-            "El capítulo termina con Adolin detenido tras cruzar los portones."
+            "El capítulo termina con Adolin detenido tras cruzar los portones.",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -254069,10 +254126,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row36-lasting-integrity-entry",
-          "coordinateAnchorName": "Shadesmar · Interior de los portones de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254104,9 +254161,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/75.Paso.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-75",
@@ -254114,10 +254174,10 @@ window.ATLAS_DATA = {
             "primary276-row-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row75-lasting-walls",
-          "coordinateAnchorName": "Shadesmar · Almenas de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254149,9 +254209,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -254159,10 +254222,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-library",
-          "coordinateAnchorName": "Shadesmar · Biblioteca de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254194,9 +254257,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -254204,10 +254270,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-south",
-          "coordinateAnchorName": "Shadesmar · Plano sur de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254239,9 +254305,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/82.Daga.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-82",
@@ -254249,10 +254318,10 @@ window.ATLAS_DATA = {
             "primary276-row-82"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row82-lasting-judge",
-          "coordinateAnchorName": "Shadesmar · Zona de la audiencia con Kelek",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254284,9 +254353,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -254294,10 +254366,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254329,9 +254401,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -254339,10 +254414,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254374,9 +254449,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -254384,10 +254462,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254419,9 +254497,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -254429,10 +254510,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254464,9 +254545,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-94",
@@ -254474,10 +254558,10 @@ window.ATLAS_DATA = {
             "primary278-row-94"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254557,9 +254641,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-115",
@@ -254567,10 +254654,10 @@ window.ATLAS_DATA = {
             "primary280-row-115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -275302,7 +275389,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -275310,10 +275400,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -275347,7 +275437,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -275355,10 +275448,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330179,9 +330272,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -330189,8 +330286,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -330224,9 +330321,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
-            "El capítulo termina con Adolin detenido tras cruzar los portones."
+            "El capítulo termina con Adolin detenido tras cruzar los portones.",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -330234,10 +330335,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row36-lasting-integrity-entry",
-          "coordinateAnchorName": "Shadesmar · Interior de los portones de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330269,9 +330370,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/75.Paso.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-75",
@@ -330279,10 +330383,10 @@ window.ATLAS_DATA = {
             "primary276-row-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row75-lasting-foreigners",
-          "coordinateAnchorName": "Shadesmar · Zona de los visitantes de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330314,9 +330418,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -330324,10 +330431,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330359,9 +330466,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -330369,10 +330479,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-south",
-          "coordinateAnchorName": "Shadesmar · Plano sur de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330404,9 +330514,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-82",
@@ -330414,10 +330527,10 @@ window.ATLAS_DATA = {
             "primary276-row-82"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330449,9 +330562,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -330459,10 +330575,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-tree",
-          "coordinateAnchorName": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330494,9 +330610,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -330504,10 +330623,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330539,9 +330658,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -330549,10 +330671,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -330584,9 +330706,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-115",
@@ -330594,10 +330719,10 @@ window.ATLAS_DATA = {
             "primary280-row-115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -396858,9 +396983,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -396868,10 +396996,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-south",
-          "coordinateAnchorName": "Shadesmar · Plano sur de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -396903,9 +397031,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/82.Daga.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-82",
@@ -396913,10 +397044,10 @@ window.ATLAS_DATA = {
             "primary276-row-82"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row82-lasting-judge",
-          "coordinateAnchorName": "Shadesmar · Zona de la audiencia con Kelek",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -396948,9 +397079,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -396958,10 +397092,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -396993,9 +397127,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -397003,10 +397140,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -397037,9 +397174,13 @@ window.ATLAS_DATA = {
           "placeId": "place-row93-kelek-house",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml"
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -397047,10 +397188,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row93-kelek-house",
-          "coordinateAnchorName": "Shadesmar · Casa de Kelek en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -402868,9 +403009,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias.",
-            "La lámina XII rotula la cuenca del Drunmu en el sur de Emul. Falta ubicar el punto preciso del combate."
+            "La lámina XII rotula la cuenca del Drunmu en el sur de Emul. Falta ubicar el punto preciso del combate.",
+            "Anclaje aproximado en el sur de Emul a partir de la lámina XII, contrastada con Azimir, Yeddaw, Sesemalex Dar y Urithiru en el mapa físico. Representa la cuenca, sin fijar el campo de batalla exacto."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -402878,10 +403023,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -408127,9 +408272,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -408137,8 +408286,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -450800,9 +450949,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -450810,8 +450963,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -450845,9 +450998,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
-            "El capítulo termina con Adolin detenido tras cruzar los portones."
+            "El capítulo termina con Adolin detenido tras cruzar los portones.",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -450855,10 +451012,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row36-lasting-integrity-entry",
-          "coordinateAnchorName": "Shadesmar · Interior de los portones de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450890,9 +451047,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-94",
@@ -450900,10 +451060,10 @@ window.ATLAS_DATA = {
             "primary278-row-94"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -450935,9 +451095,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-115",
@@ -450945,10 +451108,10 @@ window.ATLAS_DATA = {
             "primary280-row-115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -455136,9 +455299,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -455146,8 +455313,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -455181,9 +455348,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -455191,10 +455361,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -461991,7 +462161,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -461999,10 +462172,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -478558,9 +478731,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-115",
@@ -478568,10 +478744,10 @@ window.ATLAS_DATA = {
             "primary280-row-115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -479639,9 +479815,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -479649,8 +479829,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -479696,9 +479876,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/36.Precio.xhtml",
             "Fortaleza de los honorspren en una península de obsidiana.",
-            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas."
+            "El mapa del Mar de las Almas Meridional representa Integridad Duradera en una península de las Orillas Astrales. Falta calibrarla en el mapa del atlas.",
+            "Anclaje aproximado de la fortaleza junto al rótulo de Integridad Duradera en la capa cognitiva, contrastado con Mapa4 del EPUB. Pendiente el punto exacto del portón."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -479706,8 +479890,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row36-lasting-integrity-gate",
           "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
@@ -484469,9 +484653,13 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/64.Recordatorio.xhtml",
             "Sin coordenadas propias.",
-            "La lámina XII rotula la cuenca del Drunmu en el sur de Emul. Falta ubicar el punto preciso del combate."
+            "La lámina XII rotula la cuenca del Drunmu en el sur de Emul. Falta ubicar el punto preciso del combate.",
+            "Anclaje aproximado en el sur de Emul a partir de la lámina XII, contrastada con Azimir, Yeddaw, Sesemalex Dar y Urithiru en el mapa físico. Representa la cuenca, sin fijar el campo de batalla exacto."
           ],
-          "xy": null,
+          "xy": [
+            429.62132631972577,
+            444.41342610510685
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-64",
@@ -484479,10 +484667,10 @@ window.ATLAS_DATA = {
             "primary275-row-64"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row50-coalition-field-camp",
-          "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row64-drunmu",
+          "coordinateAnchorName": "Emul · Campo de batalla de la cuenca del Drunmu",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485143,9 +485331,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/75.Paso.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-75",
@@ -485153,10 +485344,10 @@ window.ATLAS_DATA = {
             "primary276-row-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row75-lasting-walls",
-          "coordinateAnchorName": "Shadesmar · Almenas de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485199,9 +485390,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/75.Paso.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-75",
@@ -485209,10 +485403,10 @@ window.ATLAS_DATA = {
             "primary276-row-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row75-lasting-foreigners",
-          "coordinateAnchorName": "Shadesmar · Zona de los visitantes de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485314,9 +485508,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -485324,10 +485521,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-library",
-          "coordinateAnchorName": "Shadesmar · Biblioteca de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485359,9 +485556,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -485369,10 +485569,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-south",
-          "coordinateAnchorName": "Shadesmar · Plano sur de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485404,9 +485604,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/82.Daga.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-82",
@@ -485414,10 +485617,10 @@ window.ATLAS_DATA = {
             "primary276-row-82"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row82-lasting-judge",
-          "coordinateAnchorName": "Shadesmar · Zona de la audiencia con Kelek",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485449,9 +485652,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -485459,10 +485665,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485494,9 +485700,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-94",
@@ -485504,10 +485713,10 @@ window.ATLAS_DATA = {
             "primary278-row-94"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485550,9 +485759,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-78",
@@ -485560,10 +485772,10 @@ window.ATLAS_DATA = {
             "primary276-row-78"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-south",
-          "coordinateAnchorName": "Shadesmar · Plano sur de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485595,9 +485807,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -485605,10 +485820,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-tree",
-          "coordinateAnchorName": "Shadesmar · Árbol junto a la barrera de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485639,9 +485854,13 @@ window.ATLAS_DATA = {
           "placeId": "place-row93-kelek-house",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml"
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -485649,10 +485868,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row93-kelek-house",
-          "coordinateAnchorName": "Shadesmar · Casa de Kelek en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485813,9 +486032,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/82.Daga.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-82",
@@ -485823,10 +486045,10 @@ window.ATLAS_DATA = {
             "primary276-row-82"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row82-lasting-judge",
-          "coordinateAnchorName": "Shadesmar · Zona de la audiencia con Kelek",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485858,9 +486080,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -485868,10 +486093,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485902,9 +486127,13 @@ window.ATLAS_DATA = {
           "placeId": "place-row93-kelek-house",
           "realm": "cognitive",
           "placeNotes": [
-            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml"
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/93.Bastante.xhtml",
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-93",
@@ -485912,10 +486141,10 @@ window.ATLAS_DATA = {
             "primary278-row-93"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row93-kelek-house",
-          "coordinateAnchorName": "Shadesmar · Casa de Kelek en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -485947,9 +486176,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-94",
@@ -485957,10 +486189,10 @@ window.ATLAS_DATA = {
             "primary278-row-94"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -486130,9 +486362,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-87",
@@ -486140,10 +486375,10 @@ window.ATLAS_DATA = {
             "primary277-row-87"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -486175,9 +486410,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-94",
@@ -486185,10 +486423,10 @@ window.ATLAS_DATA = {
             "primary278-row-94"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -486290,9 +486528,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/87.Juicio.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary277-row-90",
@@ -486300,10 +486541,10 @@ window.ATLAS_DATA = {
             "primary277-row-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row87-lasting-forum",
-          "coordinateAnchorName": "Shadesmar · Foro del juicio de Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -486934,9 +487175,12 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/78.Juez.xhtml",
-            "Integridad Duradera: sin coordenadas propias."
+            "Hereda el anclaje aproximado de la fortaleza; sin punto propio."
           ],
-          "xy": null,
+          "xy": [
+            438,
+            483
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-115",
@@ -486944,10 +487188,10 @@ window.ATLAS_DATA = {
             "primary280-row-115"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row78-lasting-quarters",
-          "coordinateAnchorName": "Shadesmar · Habitación de Shallan y Adolin en Integridad Duradera",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row36-lasting-integrity-gate",
+          "coordinateAnchorName": "Shadesmar · Entrada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
