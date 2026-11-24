@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 289,
+  "revision": 290,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -207718,9 +207718,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -207728,8 +207732,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -207763,9 +207767,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Saliente en la obsidiana desde donde observan al spren en las nubes."
+            "Saliente en la obsidiana desde donde observan al spren en las nubes.",
+            "Desde el saliente todavía se veía el campamento. Se usa su referencia regional."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -207773,10 +207781,10 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row34-starspren-lookout",
-          "coordinateAnchorName": "Shadesmar · Mirador del estrellaspren",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207808,9 +207816,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Parada de la expedición en el campo de obsidiana."
+            "Parada de la expedición en el campo de obsidiana.",
+            "Es una parada de la marcha tras partir del campamento en dirección oeste. Usa el anclaje del tramo de aproximación."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -207818,10 +207830,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-rear-lookout",
-          "coordinateAnchorName": "Shadesmar · Peñasco de vigilancia de la retaguardia",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207853,9 +207865,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -207863,10 +207879,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207898,9 +207914,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -207908,10 +207928,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -207943,9 +207963,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -207953,8 +207977,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -253948,9 +253972,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -253958,8 +253986,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -253993,9 +254021,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Saliente en la obsidiana desde donde observan al spren en las nubes."
+            "Saliente en la obsidiana desde donde observan al spren en las nubes.",
+            "Desde el saliente todavía se veía el campamento. Se usa su referencia regional."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -254003,10 +254035,10 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row34-starspren-lookout",
-          "coordinateAnchorName": "Shadesmar · Mirador del estrellaspren",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254038,9 +254070,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -254048,8 +254084,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -254083,9 +254119,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Parada de la expedición en el campo de obsidiana."
+            "Parada de la expedición en el campo de obsidiana.",
+            "Es una parada de la marcha tras partir del campamento en dirección oeste. Usa el anclaje del tramo de aproximación."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -254093,10 +254133,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-rear-lookout",
-          "coordinateAnchorName": "Shadesmar · Peñasco de vigilancia de la retaguardia",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254128,9 +254168,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -254138,10 +254182,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254173,9 +254217,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -254183,10 +254231,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -254218,9 +254266,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -254228,8 +254280,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -330499,9 +330551,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -330509,8 +330565,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -374448,9 +374504,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -374458,8 +374518,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -374493,9 +374553,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -374503,8 +374567,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -405264,9 +405328,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -405274,8 +405342,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -405309,9 +405377,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -405319,8 +405391,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -408545,9 +408617,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -408555,8 +408631,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -408590,9 +408666,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -408600,10 +408680,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -431410,9 +431490,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Parada de la expedición en el campo de obsidiana."
+            "Parada de la expedición en el campo de obsidiana.",
+            "Es una parada de la marcha tras partir del campamento en dirección oeste. Usa el anclaje del tramo de aproximación."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -431420,10 +431504,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-rear-lookout",
-          "coordinateAnchorName": "Shadesmar · Peñasco de vigilancia de la retaguardia",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -431455,9 +431539,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -431465,10 +431553,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451194,9 +451282,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -451204,8 +451296,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -451239,9 +451331,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -451249,10 +451345,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451284,9 +451380,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -451294,10 +451394,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -451329,9 +451429,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -451339,8 +451443,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -455548,9 +455652,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -455558,8 +455666,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -455593,9 +455701,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -455603,10 +455715,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -455638,9 +455750,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -455648,10 +455764,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -455683,9 +455799,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -455693,8 +455813,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -456981,9 +457101,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -456991,8 +457115,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -465922,9 +466046,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -465932,8 +466060,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -465967,9 +466095,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -465977,8 +466109,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -466012,9 +466144,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -466022,10 +466158,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -466057,9 +466193,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -466067,10 +466207,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -466102,9 +466242,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -466112,8 +466256,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -473101,9 +473245,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -473111,8 +473259,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -473146,9 +473294,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -473156,10 +473308,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -473191,9 +473343,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -473201,8 +473357,8 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -474486,9 +474642,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -474496,8 +474656,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -476044,9 +476204,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -476054,8 +476218,8 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -479510,9 +479674,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-35",
@@ -479520,10 +479688,10 @@ window.ATLAS_DATA = {
             "primary266-row-35"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -480260,9 +480428,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Saliente en la obsidiana desde donde observan al spren en las nubes."
+            "Saliente en la obsidiana desde donde observan al spren en las nubes.",
+            "Desde el saliente todavía se veía el campamento. Se usa su referencia regional."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -480270,10 +480442,10 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row34-starspren-lookout",
-          "coordinateAnchorName": "Shadesmar · Mirador del estrellaspren",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -480316,9 +480488,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/34.Llama.xhtml",
-            "Lugar de paso sin coordenadas propias."
+            "Lugar de paso sin coordenadas propias.",
+            "El capítulo 34 sitúa el campamento a una jornada de Integridad Duradera. El Mapa4 muestra su corredor de aproximación desde el este. El punto representa ese tramo costero; no fija la distancia ni el emplazamiento exactos."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-34",
@@ -480326,8 +480502,8 @@ window.ATLAS_DATA = {
             "primary266-row-34"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
           "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
@@ -480382,9 +480558,13 @@ window.ATLAS_DATA = {
           "realm": "cognitive",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/35.Fuerza.xhtml",
-            "Lugar del ataque de la caravana, fuera de Integridad Duradera."
+            "Lugar del ataque de la caravana, fuera de Integridad Duradera.",
+            "El rescate ocurre en el campo de obsidiana cercano, en la dirección en que se apartó Notum hacia el sur. El regreso al campamento se narra en el capítulo 36. Se usa la misma referencia regional, sin fijar el lugar del combate."
           ],
-          "xy": null,
+          "xy": [
+            444,
+            481
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary266-row-36",
@@ -480392,10 +480572,10 @@ window.ATLAS_DATA = {
             "primary266-row-36"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-row35-shadesmar-notum-rescue",
-          "coordinateAnchorName": "Shadesmar · Campo de obsidiana donde rescatan a Notum",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row34-shadesmar-coastal-camp",
+          "coordinateAnchorName": "Shadesmar · Campamento costero a una jornada de Integridad Duradera",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
