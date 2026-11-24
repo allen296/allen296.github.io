@@ -154837,7 +154837,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 284,
+  "revision": 285,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -160694,8 +160694,11 @@ window.ATLAS_DATA = {
       "entryAnchor": {
         "placeId": "place-row54-renarin-vision-outside-fire",
         "name": "Campamento de la coalición · Zona oscura fuera del círculo de la hoguera",
-        "xy": null,
-        "coordinateStatus": "unlocated"
+        "xy": [
+          422.9788929648581,
+          422.2699891286548
+        ],
+        "coordinateStatus": "pending-calibration"
       }
     },
     {
@@ -160838,8 +160841,11 @@ window.ATLAS_DATA = {
       "entryAnchor": {
         "placeId": "place-row71-emul-storm-chair",
         "name": "Emul · Asiento de Dalinar frente a la alta tormenta",
-        "xy": null,
-        "coordinateStatus": "unlocated"
+        "xy": [
+          422.9788929648581,
+          422.2699891286548
+        ],
+        "coordinateStatus": "pending-calibration"
       }
     },
     {
@@ -160910,8 +160916,11 @@ window.ATLAS_DATA = {
       "entryAnchor": {
         "placeId": "place-row50-coalition-field-camp",
         "name": "Azir y Emul · Campamento de la fuerza expedicionaria",
-        "xy": null,
-        "coordinateStatus": "unlocated"
+        "xy": [
+          422.9788929648581,
+          422.2699891286548
+        ],
+        "coordinateStatus": "pending-calibration"
       }
     },
     {
@@ -160932,8 +160941,11 @@ window.ATLAS_DATA = {
       "entryAnchor": {
         "placeId": "place-row66-taravangian-house",
         "name": "Emul · Casa reforzada donde custodian a Taravangian",
-        "xy": null,
-        "coordinateStatus": "unlocated"
+        "xy": [
+          422.9788929648581,
+          422.2699891286548
+        ],
+        "coordinateStatus": "pending-calibration"
       }
     },
     {
@@ -211262,7 +211274,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -211270,8 +211285,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -211307,7 +211322,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -211315,8 +211333,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -211498,7 +211516,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/99.Sinataduras.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-99",
@@ -211506,8 +211527,8 @@ window.ATLAS_DATA = {
             "primary278-row-99"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -211543,7 +211564,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/101.Subtexto.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-101",
@@ -211551,8 +211575,8 @@ window.ATLAS_DATA = {
             "primary278-row-101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -211588,7 +211612,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/101.Subtexto.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-101",
@@ -211596,8 +211623,8 @@ window.ATLAS_DATA = {
             "primary278-row-101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214357,7 +214384,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -214365,8 +214395,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214402,7 +214432,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-66",
@@ -214410,8 +214443,8 @@ window.ATLAS_DATA = {
             "primary275-row-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214447,7 +214480,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -214455,8 +214491,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214492,7 +214528,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -214500,8 +214539,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214537,7 +214576,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -214545,8 +214587,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214582,7 +214624,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i9",
@@ -214590,8 +214635,8 @@ window.ATLAS_DATA = {
             "primary276-row-i9"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -214625,9 +214670,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 111 sitúa la expedición en el sector fronterizo de Tukar y menciona el acercamiento a la costa. La lámina XII representa al ejército de Ishar al otro lado de la cuenca del Drunmu.",
+            "El punto representa el sector del ejército indicado en la lámina. La posición del pabellón dentro de ese sector queda pendiente."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -214635,8 +214684,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -214672,7 +214721,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -214680,8 +214732,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -214717,7 +214769,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-113",
@@ -214725,8 +214780,8 @@ window.ATLAS_DATA = {
             "primary280-row-113"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240377,7 +240432,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -240385,8 +240443,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240422,7 +240480,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -240430,8 +240491,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240467,7 +240528,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -240475,8 +240539,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240512,7 +240576,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -240520,8 +240587,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240557,7 +240624,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -240565,8 +240635,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240650,7 +240720,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-66",
@@ -240658,8 +240731,8 @@ window.ATLAS_DATA = {
             "primary275-row-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240695,7 +240768,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/71.Jinete.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-71",
@@ -240703,8 +240779,8 @@ window.ATLAS_DATA = {
             "primary275-row-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240740,7 +240816,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/71.Jinete.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-71",
@@ -240748,8 +240827,8 @@ window.ATLAS_DATA = {
             "primary275-row-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240785,7 +240864,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -240793,8 +240875,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240830,7 +240912,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -240838,8 +240923,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240873,9 +240958,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 50 da Laqqi como asentamiento ocupado por la coalición y la lámina XII lo rotula en la frontera de Emul. El 112 sitúa el regreso en el campamento emuli.",
+            "Punto aproximado de Laqqi trasladado al mapa físico con Azimir, Yeddaw y Urithiru como referencias. Las tiendas y edificios no tienen un punto propio."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -240883,8 +240972,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240920,7 +241009,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/98.Color.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -240928,8 +241020,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -240965,7 +241057,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/101.Subtexto.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-101",
@@ -240973,8 +241068,8 @@ window.ATLAS_DATA = {
             "primary278-row-101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -241010,7 +241105,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/101.Subtexto.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-101",
@@ -241018,8 +241116,8 @@ window.ATLAS_DATA = {
             "primary278-row-101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -241098,9 +241196,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 111 sitúa la expedición en el sector fronterizo de Tukar y menciona el acercamiento a la costa. La lámina XII representa al ejército de Ishar al otro lado de la cuenca del Drunmu.",
+            "El punto representa el sector del ejército indicado en la lámina. La posición del pabellón dentro de ese sector queda pendiente."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -241108,8 +241210,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -241145,7 +241247,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -241153,8 +241258,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -241188,9 +241293,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 50 da Laqqi como asentamiento ocupado por la coalición y la lámina XII lo rotula en la frontera de Emul. El 112 sitúa el regreso en el campamento emuli.",
+            "Punto aproximado de Laqqi trasladado al mapa físico con Azimir, Yeddaw y Urithiru como referencias. Las tiendas y edificios no tienen un punto propio."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-112",
@@ -241198,8 +241307,8 @@ window.ATLAS_DATA = {
             "primary279-row-112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -258971,7 +259080,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -258979,8 +259091,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -259016,7 +259128,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -259024,8 +259139,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -259061,7 +259176,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -259069,8 +259187,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -259106,7 +259224,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i9",
@@ -259114,8 +259235,8 @@ window.ATLAS_DATA = {
             "primary276-row-i9"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -275299,7 +275420,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -275307,8 +275431,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -275344,7 +275468,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -275352,8 +275479,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -275485,7 +275612,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/99.Sinataduras.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-99",
@@ -275493,8 +275623,8 @@ window.ATLAS_DATA = {
             "primary278-row-99"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -294808,7 +294938,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-66",
@@ -294816,8 +294949,8 @@ window.ATLAS_DATA = {
             "primary275-row-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -294853,7 +294986,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i9",
@@ -294861,8 +294997,8 @@ window.ATLAS_DATA = {
             "primary276-row-i9"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -294898,7 +295034,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-i12",
@@ -294906,8 +295045,8 @@ window.ATLAS_DATA = {
             "primary278-row-i12"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -294943,7 +295082,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-113",
@@ -294951,8 +295093,8 @@ window.ATLAS_DATA = {
             "primary280-row-113"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -301287,7 +301429,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -301295,8 +301440,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -303246,7 +303391,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -303254,8 +303402,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -303291,7 +303439,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/98.Color.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -303299,8 +303450,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -303334,9 +303485,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 111 sitúa la expedición en el sector fronterizo de Tukar y menciona el acercamiento a la costa. La lámina XII representa al ejército de Ishar al otro lado de la cuenca del Drunmu.",
+            "El punto representa el sector del ejército indicado en la lámina. La posición del pabellón dentro de ese sector queda pendiente."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -303344,8 +303499,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -303381,7 +303536,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -303389,8 +303547,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -303424,9 +303582,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 50 da Laqqi como asentamiento ocupado por la coalición y la lámina XII lo rotula en la frontera de Emul. El 112 sitúa el regreso en el campamento emuli.",
+            "Punto aproximado de Laqqi trasladado al mapa físico con Azimir, Yeddaw y Urithiru como referencias. Las tiendas y edificios no tienen un punto propio."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-112",
@@ -303434,8 +303596,8 @@ window.ATLAS_DATA = {
             "primary279-row-112"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -320541,7 +320703,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/98.Color.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -320549,8 +320714,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -366162,7 +366327,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/101.Subtexto.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-101",
@@ -366170,8 +366338,8 @@ window.ATLAS_DATA = {
             "primary278-row-101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -376650,7 +376818,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -376658,8 +376829,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -376695,7 +376866,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/66.Portador.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary280-row-113",
@@ -376703,8 +376877,8 @@ window.ATLAS_DATA = {
             "primary280-row-113"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -381540,7 +381714,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/98.Color.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -381548,8 +381725,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -381628,9 +381805,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 111 sitúa la expedición en el sector fronterizo de Tukar y menciona el acercamiento a la costa. La lámina XII representa al ejército de Ishar al otro lado de la cuenca del Drunmu.",
+            "El punto representa el sector del ejército indicado en la lámina. La posición del pabellón dentro de ese sector queda pendiente."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -381638,8 +381819,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -382469,7 +382650,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -382477,8 +382661,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -389307,7 +389491,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -389315,8 +389502,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -389352,7 +389539,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -389360,8 +389550,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -391585,7 +391775,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -391593,8 +391786,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -395305,7 +395498,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/54.Futuro.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-54",
@@ -395313,8 +395509,8 @@ window.ATLAS_DATA = {
             "primary268-row-54"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -411138,7 +411334,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/101.Subtexto.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-101",
@@ -411146,8 +411345,8 @@ window.ATLAS_DATA = {
             "primary278-row-101"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -413070,9 +413269,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 111 sitúa la expedición en el sector fronterizo de Tukar y menciona el acercamiento a la costa. La lámina XII representa al ejército de Ishar al otro lado de la cuenca del Drunmu.",
+            "El punto representa el sector del ejército indicado en la lámina. La posición del pabellón dentro de ese sector queda pendiente."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -413080,8 +413283,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
@@ -440294,7 +440497,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -440302,8 +440508,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -457320,7 +457526,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/71.Jinete.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-71",
@@ -457328,8 +457537,8 @@ window.ATLAS_DATA = {
             "primary275-row-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -462071,7 +462280,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -462079,8 +462291,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -462116,7 +462328,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -462124,8 +462339,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -462207,9 +462422,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
-            "Sin coordenadas propias."
+            "El capítulo 50 da Laqqi como asentamiento ocupado por la coalición y la lámina XII lo rotula en la frontera de Emul. El 112 sitúa el regreso en el campamento emuli.",
+            "Punto aproximado de Laqqi trasladado al mapa físico con Azimir, Yeddaw y Urithiru como referencias. Las tiendas y edificios no tienen un punto propio."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -462217,8 +462436,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -472131,7 +472350,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/98.Color.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary278-row-98",
@@ -472139,8 +472361,8 @@ window.ATLAS_DATA = {
             "primary278-row-98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -482174,7 +482396,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/50.Reina.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary268-row-50",
@@ -482182,8 +482407,8 @@ window.ATLAS_DATA = {
             "primary268-row-50"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -485047,7 +485272,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/71.Jinete.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary275-row-71",
@@ -485055,8 +485283,8 @@ window.ATLAS_DATA = {
             "primary275-row-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -485221,7 +485449,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -485229,8 +485460,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -485277,7 +485508,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/I-7.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            422.9788929648581,
+            422.2699891286548
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary276-row-i7",
@@ -485285,8 +485519,8 @@ window.ATLAS_DATA = {
             "primary276-row-i7"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-row50-coalition-field-camp",
           "coordinateAnchorName": "Azir y Emul · Campamento de la fuerza expedicionaria",
           "storyTime": {
@@ -487111,7 +487345,10 @@ window.ATLAS_DATA = {
             "El ritmo de la guerra, EPUB español, OEBPS/Text/111.Desencadenado.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            433.31157011900535,
+            456.5923173561281
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary279-row-111",
@@ -487119,8 +487356,8 @@ window.ATLAS_DATA = {
             "primary279-row-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-row111-ishar-encampment",
           "coordinateAnchorName": "Tukar · Campamento y pabellón de Ishar",
           "storyTime": {
