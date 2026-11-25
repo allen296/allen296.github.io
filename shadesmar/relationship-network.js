@@ -4,19 +4,46 @@ function networkNameLines(id){const words=relationName(id).split(' '),lines=['']
 
 function relationshipNetworkModel(focus){
  focus=identityId(focus);
- const people=relationshipPeople().filter(p=>relationVisible(p.id)),contacts=new Map();
- for(const p of people){if(p.id===focus)continue;const history=relationshipHistory(focus,p.id),bonds=documentedRelationships().filter(r=>(r.from===focus&&r.to===p.id)||(r.to===focus&&r.from===p.id));contacts.set(p.id,{id:p.id,history,bonds,score:history.length+bonds.length*2,direct:history.length>0||bonds.length>0});}
- const near=[...contacts.values()].filter(p=>p.direct).sort((a,b)=>b.score-a.score||relationName(a.id).localeCompare(relationName(b.id),'es')),outer=[...contacts.values()].filter(p=>!p.direct).sort((a,b)=>relationName(a.id).localeCompare(relationName(b.id),'es')),nodes=[];
+ const people=relationshipPeople().filter(p=>relationVisible(p.id));
+ const contacts=new Map();
+ for(const person of people){
+  if(person.id!==focus)contacts.set(person.id,{id:person.id,history:[],bonds:[],score:0,direct:false});
+ }
+ // Each interaction contributes only to the documented pairs involving the focus.
+ for(const event of relationshipHistory(focus)){
+  for(const id of interactionContacts(event,focus))contacts.get(id)?.history.push(event);
+ }
+ for(const bond of documentedRelationships()){
+  if(bond.from===focus)contacts.get(bond.to)?.bonds.push(bond);
+  else if(bond.to===focus)contacts.get(bond.from)?.bonds.push(bond);
+ }
+ const near=[],outer=[];
+ let unconnectedCount=0;
+ for(const contact of contacts.values()){
+  contact.score=contact.history.length+contact.bonds.length*2;
+  contact.direct=contact.score>0;
+  if(contact.direct)near.push(contact);
+  else{
+   unconnectedCount++;
+   if(relationshipShowUnconnected)outer.push(contact);
+  }
+ }
+ // relationshipPeople is already sorted by revealed name. A stable sort keeps ties in that order.
+ near.sort((a,b)=>b.score-a.score);
+ const nodes=[];
  const scale=Math.max(.4,relationshipNetworkZoom),boxes=[{x:-84,y:-32,w:168,h:100}];let cursor=Math.max(180,210*scale),ringIndex=0;
- function pack(items){let offset=0;while(offset<items.length){let radius=cursor;const capacity=Math.max(4,Math.floor(2*Math.PI*radius/220)),row=items.slice(offset,offset+capacity);let fitted=null;for(let attempt=0;attempt<150&&!fitted;attempt++){const angleOffset=-Math.PI/2+ringIndex*2.399963229728653,candidate=row.map((p,i)=>{const a=angleOffset+i*2*Math.PI/row.length,x=Math.cos(a)*radius,y=Math.sin(a)*radius;return {...p,radius:radius/scale,dx:x/scale,dy:y/scale,box:{x:x-83,y:y-24,w:166,h:94}};});const placed=[];let overlap=false;for(const p of candidate){if([...boxes,...placed].some(b=>p.box.x<b.x+b.w&&p.box.x+p.box.w>b.x&&p.box.y<b.y+b.h&&p.box.y+p.box.h>b.y)){overlap=true;break;}placed.push(p.box);}if(!overlap)fitted=candidate;else radius+=18;}
+ function pack(items){let offset=0;while(offset<items.length){let radius=cursor;const capacity=Math.max(4,Math.floor(2*Math.PI*radius/220)),row=items.slice(offset,offset+capacity);let fitted=null;for(let attempt=0;attempt<150&&!fitted;attempt++){const angleOffset=-Math.PI/2+ringIndex*2.399963229728653,candidate=row.map((p,i)=>{const a=angleOffset+i*2*Math.PI/row.length,x=Math.cos(a)*radius,y=Math.sin(a)*radius;return {...p,radius:radius/scale,dx:x/scale,dy:y/scale,box:{x:x-83,y:y-24,w:166,h:94}};});const placed=[];let overlap=false;for(const p of candidate){const intersects=b=>p.box.x<b.x+b.w&&p.box.x+p.box.w>b.x&&p.box.y<b.y+b.h&&p.box.y+p.box.h>b.y;if(boxes.some(intersects)||placed.some(intersects)){overlap=true;break;}placed.push(p.box);}if(!overlap)fitted=candidate;else radius+=18;}
  if(!fitted)throw Error('Network packing failed');for(const p of fitted){boxes.push(p.box);nodes.push(p);}cursor=radius+Math.max(125,150*scale);offset+=row.length;ringIndex++;}}
  // Three strength bands avoid one mostly empty circle per distinct score.
  const max=Math.max(1,...near.map(p=>p.score)),bands=[near.filter(p=>p.score>=max*.5),near.filter(p=>p.score<max*.5&&p.score>=max*.2),near.filter(p=>p.score<max*.2)];for(const band of bands)if(band.length)pack(band);
  if(relationshipShowUnconnected){cursor+=70;pack(outer);}const extent=Math.max(240,...nodes.map(p=>p.radius));
- return {focus:people.some(p=>p.id===focus)?focus:null,nodes,near,extent,unconnectedCount:outer.length};
+ return {focus:people.some(p=>p.id===focus)?focus:null,nodes,near,extent,unconnectedCount};
 }
 function centerRelationshipNetwork(){const view=$('relationshipNetworkViewport');view.scrollLeft=Math.max(0,(relationshipNetworkSize-(view.clientWidth||800))/2);view.scrollTop=Math.max(0,(relationshipNetworkSize-(view.clientHeight||500))/2);}
 function renderRelationshipNetwork(){
+ return withRenderMemo(drawRelationshipNetwork);
+}
+function drawRelationshipNetwork(){
  const wrap=$('relationshipNetworkWrap');wrap.hidden=relationshipMode!=='social';if(wrap.hidden)return;const svg=$('relationshipNetwork');svg.replaceChildren();
  if(!relationshipFocus||!relationshipPeople().some(p=>p.id===identityId(relationshipFocus))){return;}
  const model=relationshipNetworkModel(identityId(relationshipFocus)),view=$("relationshipNetworkViewport"),scale=Math.max(.4,relationshipNetworkZoom),overview=Math.min(1,relationshipNetworkZoom/.4),size=Math.max((view.clientWidth||800)+600,(view.clientWidth||800)/overview,(view.clientHeight||500)/overview,Math.ceil(model.extent*scale*2+150)),center=size/2;relationshipNetworkSize=size*overview;svg.setAttribute('width',relationshipNetworkSize);svg.setAttribute('height',relationshipNetworkSize);svg.setAttribute('viewBox','0 0 '+size+' '+size);$('relationshipNetworkZoom').textContent=Math.round(relationshipNetworkZoom*100)+' %';
@@ -32,19 +59,26 @@ function renderRelationshipNetwork(){
  const key=relationshipFocus+'|'+relationshipNetworkZoom+'|'+relationshipShowUnconnected+'|'+JSON.stringify(relationshipFilters);if(key!==relationshipNetworkKey){relationshipNetworkKey=key;centerRelationshipNetwork();}
  $('relationshipNetworkStatus').textContent=model.near.length+' conexiones directas · '+model.unconnectedCount+' sin conexión registrada'+(relationshipShowUnconnected?' en el exterior.':' ocultos.');$('relationshipUnconnected').checked=relationshipShowUnconnected;
 }
+function zoomRelationshipNetwork(delta){
+ const next=Math.max(.1,Math.min(2,relationshipNetworkZoom+delta));
+ if(next===relationshipNetworkZoom)return;
+ relationshipNetworkZoom=next;
+ renderRelationshipNetwork();
+}
 function initRelationshipNetwork(){
  $('relationshipUnconnected').onchange=e=>{relationshipShowUnconnected=e.target.checked;renderRelationshipNetwork();};$('relationshipClearPair').onclick=()=>{relationshipOther='';renderRelationships();};
- for(const [id,change] of [['relationshipNetworkPlus',.15],['relationshipNetworkMinus',-.15]])$(id).onclick=()=>{relationshipNetworkZoom=Math.max(.1,Math.min(2,relationshipNetworkZoom+change));renderRelationshipNetwork();};$('relationshipNetworkCenter').onclick=centerRelationshipNetwork;
- bindRelationshipStage($('relationshipNetworkViewport'),'[data-network-person],[data-network-contact]',centerRelationshipNetwork,delta=>{relationshipNetworkZoom=Math.max(.1,Math.min(2,relationshipNetworkZoom+delta));renderRelationshipNetwork();});
+ for(const [id,change] of [['relationshipNetworkPlus',.15],['relationshipNetworkMinus',-.15]])$(id).onclick=()=>zoomRelationshipNetwork(change);
+ $('relationshipNetworkCenter').onclick=centerRelationshipNetwork;
+ bindRelationshipStage($('relationshipNetworkViewport'),'[data-network-person],[data-network-contact]',centerRelationshipNetwork,zoomRelationshipNetwork);
 }
 function bindRelationshipStage(view,interactive,center,zoom){
  let drag=null;
  view.addEventListener('pointerdown',e=>{if(e.button!==0||e.target.closest?.(interactive))return;e.preventDefault();drag={id:e.pointerId,x:e.clientX,y:e.clientY,left:view.scrollLeft,top:view.scrollTop};view.setPointerCapture?.(e.pointerId);});
  view.addEventListener('pointermove',e=>{if(!drag||drag.id!==e.pointerId)return;view.scrollLeft=drag.left+drag.x-e.clientX;view.scrollTop=drag.top+drag.y-e.clientY;});
  for(const type of ['pointerup','pointercancel','lostpointercapture'])view.addEventListener(type,()=>{drag=null;});
- view.addEventListener('wheel',e=>{e.preventDefault();zoom(e.deltaY>0?-.1:.1);},{passive:false});
+ view.addEventListener('wheel',e=>{if(!e.deltaY)return;e.preventDefault();zoom(e.deltaY>0?-.1:.1);},{passive:false});
  view.addEventListener('keydown',e=>{if(e.target!==view)return;const moves={ArrowLeft:[-80,0],ArrowRight:[80,0],ArrowUp:[0,-80],ArrowDown:[0,80]};if(moves[e.key]){view.scrollLeft+=moves[e.key][0];view.scrollTop+=moves[e.key][1];e.preventDefault();}else if(e.key==='Home'){center();e.preventDefault();}else if(e.key==='+'||e.key==='='){zoom(.1);e.preventDefault();}else if(e.key==='-'){zoom(-.1);e.preventDefault();}});
 }
 let familyZoom=1,familyStageWidth=1000,familyStageHeight=700,familyStageKey='';
 function centerFamilyStage(){const v=$('familyViewport');v.scrollLeft=Math.max(0,(familyStageWidth-(v.clientWidth||800))/2);v.scrollTop=Math.max(0,(familyStageHeight-(v.clientHeight||500))/2);}
-function initFamilyStage(){const zoom=delta=>{familyZoom=Math.max(.65,Math.min(2.5,familyZoom+delta));renderRelationships();};$('familyPlus').onclick=()=>zoom(.15);$('familyMinus').onclick=()=>zoom(-.15);$('familyCenter').onclick=centerFamilyStage;bindRelationshipStage($('familyViewport'),'[data-person-id],[data-relationship-id]',centerFamilyStage,zoom);}
+function initFamilyStage(){const zoom=delta=>{const next=Math.max(.65,Math.min(2.5,familyZoom+delta));if(next===familyZoom)return;familyZoom=next;withRenderMemo(()=>renderCurrentFamily());};$('familyPlus').onclick=()=>zoom(.15);$('familyMinus').onclick=()=>zoom(-.15);$('familyCenter').onclick=centerFamilyStage;bindRelationshipStage($('familyViewport'),'[data-person-id],[data-relationship-id]',centerFamilyStage,zoom);}

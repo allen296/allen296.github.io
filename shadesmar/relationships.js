@@ -11,9 +11,9 @@ const characterFactsKnown=()=>relationRecords(data.characterFacts);
 const documentedRelationships=()=>relationshipsKnown().filter(r=>r.networkEvidence?.kind==='relationship'&&r.state!=='refuted');
 function interactionPairs(e){if(e.networkEvidence?.kind!=='interaction')return [];const seen=new Set();return (e.networkEvidence.pairs||[]).map(pair=>pair.map(identityId)).filter(pair=>{const key=[...pair].sort().join('|');if(pair.length!==2||pair[0]===pair[1]||seen.has(key))return false;seen.add(key);return true;});}
 function interactionContacts(e,id){id=identityId(id);return [...new Set(interactionPairs(e).filter(pair=>pair.includes(id)).flat().filter(other=>other!==id))];}
-const relationPerson=id=>{const personId=identityId(id);return cast.find(p=>p.id===personId);};
+const relationPerson=id=>{const personId=identityId(id);return renderMemo?renderMemo.castById.get(personId):cast.find(p=>p.id===personId);};
 const relationName=id=>{const p=relationPerson(id);return p?characterName(p):'Sin identificar';};
-function relationLife(id){return (data.lifeEvents||[]).filter(e=>e.status!=='rejected'&&identityId(e.characterId)===identityId(id)&&relationKnownAt(e.revealedAt)).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)).at(-1);}
+function relationLife(id){return latestDisclosedLife(id);}
 const relationDead=id=>['dead','reported-dead'].includes(relationLife(id)?.state);
 const relationVisible=id=>{const p=relationPerson(id);return p&&relationshipFilters[p.importance||'tertiary']&&(relationshipFilters.deceased||!relationDead(id));};
 const relationshipNameOrder=new Intl.Collator('es');
@@ -78,7 +78,14 @@ function renderFamily(model){
   const focus=()=>selectRelationshipPerson(id);g.onclick=focus;g.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();focus();}};svg.append(g);
  }
 }
+function renderCurrentFamily(id=identityId(relationshipFocus),visible=relationVisible(id)){
+ if(relationshipMode!=='family'||!relationshipPeople().some(p=>p.id===id))return;
+ const model=visible?familyModel(id):{nodes:[],edges:[],ranks:new Map(),hidden:0};renderFamily(model);$('familyNotice').textContent=model.hidden?model.hidden+' familiares ocultos por los filtros; no se sustituyen por parentescos directos.':model.edges.length?'Cada línea une solo los dos personajes indicados. Las flechas apuntan al descendiente; un cruce no es un parentesco. Arrastra el fondo para moverte.':'Sin parentescos revisados para este personaje hasta este capítulo.';
+}
 function renderRelationships(){
+ return withRenderMemo(drawRelationships);
+}
+function drawRelationships(){
  $('mapViewControls').hidden=atlasView!=='map';
  $('relationshipsView').setAttribute('data-mode',relationshipMode);$('atlasLayout').setAttribute('data-view',atlasView);$('relationshipsView').hidden=atlasView!=='relationships';$('viewMap').setAttribute('aria-pressed',String(atlasView==='map'));$('viewRelationships').setAttribute('aria-pressed',String(atlasView==='relationships'));
  if(atlasView!=='relationships')return;
@@ -96,7 +103,7 @@ function renderRelationships(){
  $('relationshipTitle').textContent=characterName(focus);$('relationshipDossier').innerHTML='<h3>Lo que sabes hasta aquí</h3><p class="relationship-muted">Ficha parcial: '+facts.length+' notas, '+relations.length+' vínculos y '+relationshipHistory(focus.id).length+' interacciones registradas hasta este capítulo. La ausencia de un registro no significa que el libro no lo cuente.</p><p class="relationship-identity">'+escapeHtml(characterName(focus))+'</p>'+(life?'<p>'+escapeHtml(life.state==='reported-dead'?'Dado por fallecido':life.state==='dead'?'Fallecido':'Con vida según el último informe')+' · '+escapeHtml(relationSceneLabel(life.revealedAt))+'</p>':'')+(lastEvent?'<p><b>'+(!present?'Referencia histórica':'Última ubicación documentada')+':</b> '+escapeHtml(lastEvent.place)+' · '+escapeHtml(sceneLabel(scenes[index.get(lastEvent.scene)]))+'</p>':'<p>Sin ubicación corporal documentada.</p>')+(facts.length?'<ul>'+facts.map(f=>'<li>'+escapeHtml(f.text)+' <small>'+escapeHtml(relationSceneLabel(f.revealedAt))+'</small>'+relationshipSources(f)+'</li>').join(''):'<p>No hay notas biográficas revisadas para este personaje en este punto. Las relaciones, encuentros y ubicaciones disponibles se muestran en esta ficha.</p>')+'<h4>Vínculos conocidos</h4>'+(relations.length?'<ul>'+relations.map(r=>'<li>'+escapeHtml(relationName(r.from))+' — '+escapeHtml(r.label)+' — '+escapeHtml(relationName(r.to))+(r.state==='refuted'?' · Desmentido':r.certainty==='inferred'?' · Deducido':r.certainty==='reported'?' · Según un informe':'')+' <small>'+escapeHtml(relationSceneLabel(r.revealedAt))+'</small>'+relationshipSources(r)+'</li>').join('')+'</ul>':'<p>No hay vínculos revisados hasta este capítulo.</p>')+'<details><summary>Ubicaciones y recuerdos anteriores ('+events.length+')</summary><ol>'+events.map(e=>'<li>'+escapeHtml(sceneLabel(scenes[index.get(e.scene)]))+' · '+escapeHtml(e.place)+(e.storyTime?.frame==='flashback'?' · Recuerdo':'')+'</li>').join('')+'</ol></details>';
  $('relationshipHidden').textContent=visible?'':'El personaje está oculto por los filtros de esta vista.';
  $('familyGraphWrap').hidden=relationshipMode!=='family';$('relationshipContacts').hidden=relationshipMode!=='social';
- if(relationshipMode==='family'){const model=visible?familyModel(focus.id):{nodes:[],edges:[],ranks:new Map(),hidden:0};renderFamily(model);$('familyNotice').textContent=model.hidden?model.hidden+' familiares ocultos por los filtros; no se sustituyen por parentescos directos.':model.edges.length?'Cada línea une solo los dos personajes indicados. Las flechas apuntan al descendiente; un cruce no es un parentesco. Arrastra el fondo para moverte.':'Sin parentescos revisados para este personaje hasta este capítulo.';}
+ if(relationshipMode==='family')renderCurrentFamily(focus.id,visible);
  const contacts=relationshipContacts(focus.id).filter(relationVisible);if(!contacts.includes(relationshipOther))relationshipOther='';$('relationshipWith').replaceChildren();const all=document.createElement('option');all.value='';all.textContent='Todas las interacciones';$('relationshipWith').append(all);for(const id of contacts){const o=document.createElement('option');o.value=id;o.textContent=relationName(id);$('relationshipWith').append(o);}$('relationshipWith').value=relationshipOther;
  if(typeof renderRelationshipNetwork==='function')renderRelationshipNetwork();
  $('relationshipContacts').replaceChildren();for(const id of visible?contacts:[]){const b=document.createElement('button');b.className='relationship-contact';b.setAttribute('data-contact-id',id);const count=relationshipHistory(focus.id,id).length;b.textContent=relationName(id)+' · '+count+' encuentros';b.onclick=()=>{relationshipOther=id;renderRelationships();};$('relationshipContacts').append(b);}if(!contacts.length)$('relationshipContacts').textContent='Sin contactos revisados hasta este capítulo.';

@@ -111,8 +111,8 @@ function lifeState(p){
  if(!cache.has(p))cache.set(p,resolveLifeState(p));
  return cache.get(p);
 }
-function resolveLifeState(p){
- let state;
+function latestDisclosedLife(id){
+ const canonical=identityId(id);
  if(renderMemo){
   if(!renderMemo.lifeById){
    renderMemo.lifeById=new Map();
@@ -123,11 +123,13 @@ function resolveLifeState(p){
     if(!previous||at>=index.get(previous.revealedAt.sceneId))renderMemo.lifeById.set(id,event);
    }
   }
-  state=renderMemo.lifeById.get(identityId(p.ownerId||p.id));
- }else{
- const known=(data.lifeEvents||[]).filter(x=>x.status!=='rejected'&&identityId(x.characterId)===identityId(p.ownerId||p.id)&&index.get(x.revealedAt.sceneId)<=step).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId));
- state=known.at(-1);
+  return renderMemo.lifeById.get(canonical);
  }
+ return (data.lifeEvents||[]).filter(event=>event.status!=='rejected'&&identityId(event.characterId)===canonical&&index.get(event.revealedAt.sceneId)<=step)
+  .sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)).at(-1);
+}
+function resolveLifeState(p){
+ const state=latestDisclosedLife(p.ownerId||p.id);
  if(!state)return null;
  const e=last(p);if(nightReview){if(!isNightEvent({scene:state.revealedAt.sceneId})||nightPhase(e)===0)return null;return state;}if(inMemory()&&e?.scene===scenes[step].id&&isPast(e)&&state.revealedAt.sceneId!==scenes[step].id)return null;
  return state;
@@ -297,10 +299,18 @@ function renderMemoryTokens(people,chapterMode=false,documentedChapter=false){
   b.onclick=()=>{if(chapterMode&&!last(p)){selectRelationshipPerson(p.id);showAtlasView('relationships');}else focusCharacter(p.id);};grid.append(b);
  }
 }
+function createRenderMemo(){
+ return {identities:new Map(),names:new WeakMap(),life:new WeakMap(),events:new WeakMap(),latest:new WeakMap(),lifeById:null,castById:new Map(cast.map(p=>[p.id,p]))};
+}
+function withRenderMemo(update){
+ if(renderMemo)return update();
+ renderMemo=createRenderMemo();
+ try{return update();}finally{renderMemo=null;}
+}
 function render({expandSelection=false}={}){
  // Keep results only for this synchronous render, including unmapped characters.
  const previous=renderedMapEvidence, previousMemo=renderMemo;
- renderMemo={identities:new Map(),names:new WeakMap(),life:new WeakMap(),events:new WeakMap(),latest:new WeakMap(),lifeById:null,castById:new Map(cast.map(p=>[p.id,p]))};
+ renderMemo=createRenderMemo();
  renderedMapEvidence=new WeakMap();
  try{renderAtlas(expandSelection);}finally{renderMemo=previousMemo;renderedMapEvidence=previous;}
 }
