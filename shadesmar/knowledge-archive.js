@@ -43,10 +43,35 @@ function archiveGroupedFacts(facts){
  for(const f of facts){const key=['name','alias'].includes(f.field)?'identity':f.field;if(key==='description')continue;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(f);}
  return [...groups].map(([field,records])=>({field,records,values:[...new Set(records.flatMap(f=>field==='identity'?f.value.split(/\s+\/\s+/):[f.value]).map(v=>v.trim()).filter(Boolean))]}));
 }
+function archiveValuesHtml(values){
+ return '<div class="archive-values">'+values.map(value=>'<span>'+escapeHtml(value)+'</span>').join('')+'</div>';
+}
+function archiveEvolutionHtml(records,summary){
+ return '<details class="archive-evolution"><summary>'+summary+'</summary><ol>'+
+  records.map(record=>'<li><p>'+escapeHtml(record.value)+'</p>'+archiveReferences(record)+'</li>').join('')+'</ol></details>';
+}
 function archiveSummaryHtml(facts,isHerald){
  const groups=archiveGroupedFacts(facts),order=['identity','order','title','type','nature','appearance'];
  groups.sort((a,b)=>(order.includes(a.field)?order.indexOf(a.field):99)-(order.includes(b.field)?order.indexOf(b.field):99));
- let html=groups.map(g=>'<article data-archive-field="'+escapeHtml(g.field)+'"><span class="archive-label">'+(g.field==='identity'?'Nombres conocidos':archiveFactLabel(g.field))+'</span><div class="archive-values">'+g.values.map(v=>'<span>'+escapeHtml(v)+'</span>').join('')+'</div><details class="archive-evolution"><summary>'+(g.field==='identity'?'Cuándo se conoce cada nombre':'Referencias y evolución')+'</summary><ol>'+g.records.map(r=>'<li><p>'+escapeHtml(r.value)+'</p>'+archiveReferences(r)+'</li>').join('')+'</ol></details></article>').join('');
+ const names=isHerald&&groups.find(group=>group.field==='identity');
+ const titles=isHerald&&groups.find(group=>group.field==='title');
+ const combined=names&&titles;
+ let html='';
+ for(const group of groups){
+  if(combined&&group===titles)continue;
+  if(combined&&group===names){
+   const records=facts.filter(f=>['name','alias','title'].includes(f.field));
+   html+='<article data-archive-field="identity"><span class="archive-label">Nombres y títulos</span>'+
+    '<small>Nombres</small>'+archiveValuesHtml(names.values)+
+    '<small>Títulos</small>'+archiveValuesHtml(titles.values)+
+    archiveEvolutionHtml(records,'Cuándo se conoce cada nombre o título')+'</article>';
+   continue;
+  }
+  const label=group.field==='identity'?'Nombres conocidos':archiveFactLabel(group.field);
+  const summary=group.field==='identity'?'Cuándo se conoce cada nombre':'Referencias y evolución';
+  html+='<article data-archive-field="'+escapeHtml(group.field)+'"><span class="archive-label">'+label+'</span>'+
+   archiveValuesHtml(group.values)+archiveEvolutionHtml(group.records,summary)+'</article>';
+ }
  if(isHerald&&!groups.some(g=>g.field==='order'))html+='<article data-archive-field="order"><span class="archive-label">Orden asociada</span><p>Pasaje pendiente de localizar</p><small>No hay una referencia revisada que permita mostrarla en este capítulo. Esto no afirma que el libro aún no la haya revelado.</small></article>';
  return html;
 }

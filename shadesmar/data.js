@@ -24449,6 +24449,23 @@ window.ATLAS_DATA = {
           "primary297-heralds-wat-chapter-25"
         ],
         "supersedes": []
+      },
+      {
+        "id": "primary298-jezrien-windrunners-historical",
+        "entryId": "herald-jezrien-vision",
+        "field": "order",
+        "value": "Corredores del Viento — asociación histórica",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-64"
+        ],
+        "supersedes": []
       }
     ],
     "links": [
@@ -161295,7 +161312,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 297,
+  "revision": 298,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
