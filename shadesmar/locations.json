@@ -325,6 +325,7 @@
     ],
     "chapter-23": [
       "bavadin",
+      "ishar-mentioned",
       "jaks",
       "kaladin",
       "natam",
@@ -1868,6 +1869,7 @@
       "huqin",
       "huqin-thief-brother1-i9",
       "huqin-thief-brother2-i9",
+      "jezrien-vision",
       "lift",
       "lift-mother",
       "maxin",
@@ -2073,6 +2075,7 @@
       "adolin",
       "amaram",
       "bridge-saboteur-pr68",
+      "chan-arach-story",
       "dalinar",
       "kaladin",
       "kaladin-return-messenger-pr75",
@@ -2150,6 +2153,7 @@
     ],
     "wor-chapter-77": [
       "adolin",
+      "chan-arach-story",
       "chanaranach-temple-name-pr77",
       "dalinar",
       "gaz",
@@ -2605,6 +2609,7 @@
     ],
     "ed-chapter-16": [
       "black-sword",
+      "crescent-scar-stranger",
       "lift",
       "szeth",
       "wyndle",
@@ -4007,6 +4012,7 @@
       "ki-ob90",
       "kwati-ob92",
       "ob92-escaped-prisoner",
+      "shalash-mentioned",
       "szeth"
     ],
     "ob-chapter-93": [
@@ -4397,6 +4403,7 @@
       "lift",
       "odium",
       "renarin",
+      "shalash-mentioned",
       "shallan",
       "stormfather",
       "szeth",
@@ -4438,6 +4445,7 @@
       "moash-duel-fused",
       "ob121-thaylen-one-armed-soldier",
       "rua-ob121",
+      "shalash-mentioned",
       "szeth",
       "talenel",
       "teft"
@@ -4513,7 +4521,8 @@
       "kstled-dawn4",
       "lopen",
       "rushu",
-      "rysn"
+      "rysn",
+      "shalash-mentioned"
     ],
     "dawnshard-chapter-6": [
       "alalhawithador-dawn6",
@@ -4706,6 +4715,7 @@
       "velat-mentioned-pr69"
     ],
     "row-chapter-4": [
+      "chan-arach-story",
       "ialai",
       "navani",
       "pattern",
@@ -4937,6 +4947,7 @@
       "ishar-mentioned",
       "jasnah",
       "jasnah-four-guards-row17",
+      "jezrien-vision",
       "kelek-puuli",
       "mink-niece-row17",
       "navani",
@@ -5787,6 +5798,7 @@
     ],
     "row-chapter-80": [
       "design-row80",
+      "jezrien-vision",
       "kaladin",
       "wit"
     ],
@@ -5811,6 +5823,7 @@
     "row-chapter-83": [
       "dabbid",
       "hesina",
+      "kelek-puuli",
       "lift",
       "lirin",
       "moash-duel-fused",
@@ -5818,6 +5831,8 @@
       "venli"
     ],
     "row-chapter-84": [
+      "jezrien-vision",
+      "kelek-puuli",
       "navani",
       "rabeniel-row14"
     ],
@@ -5825,6 +5840,7 @@
       "dabbid",
       "dabbid-mother-row85",
       "kaladin",
+      "kelek-puuli",
       "lift",
       "shen",
       "teft"
@@ -5853,6 +5869,7 @@
       "venli"
     ],
     "row-chapter-89": [
+      "kelek-puuli",
       "navani",
       "ob68-sibling-epigraph",
       "rabeniel-row14",
@@ -5881,6 +5898,7 @@
     ],
     "row-chapter-93": [
       "adolin",
+      "jezrien-vision",
       "kelek-puuli",
       "lusintia-row78",
       "pattern",
@@ -5890,6 +5908,7 @@
     "row-chapter-94": [
       "adolin",
       "amuna-row87",
+      "kelek-puuli",
       "mix-row78",
       "ob87-platform-thread-spren",
       "sekeir-row82"
@@ -5903,11 +5922,13 @@
       "ba-ado-mishram-ob80",
       "dul-row11",
       "jaxlim",
+      "kelek-puuli",
       "mazish-row11",
       "shen",
       "venli"
     ],
     "row-chapter-97": [
+      "kelek-puuli",
       "navani",
       "rabeniel-daughter-attendant-row97",
       "rabeniel-daughter-row65",
@@ -5934,15 +5955,19 @@
     "row-chapter-98": [
       "dalinar",
       "dieno-enne-calah",
+      "ishar-mentioned",
       "leyten",
       "lyn",
       "sidereo-father-row98",
       "sidereo-row20",
-      "sigzil"
+      "sigzil",
+      "talenel"
     ],
     "row-chapter-99": [
       "el-epigraph-row99",
       "jasnah",
+      "shalash-mentioned",
+      "talenel",
       "wit"
     ],
     "row-chapter-100": [
@@ -6098,6 +6123,7 @@
       "dalinar",
       "el-epigraph-row99",
       "fused-hearthstone-row1",
+      "ishar-mentioned",
       "kaladin",
       "navani",
       "stormfather",
@@ -6113,8 +6139,12 @@
       "wit"
     ],
     "wat-prologue": [
+      "chan-arach-story",
+      "crescent-scar-stranger",
       "dalinar",
       "gavilar",
+      "jezrien-vision",
+      "kelek-puuli",
       "sadeas",
       "szeth",
       "taravangian-mother-obi5",
@@ -6148,6 +6178,7 @@
     "wat-chapter-4": [
       "dalinar",
       "design-row80",
+      "ishar-mentioned",
       "kaladin",
       "wind-truth-book-author-wat",
       "wit"
@@ -6162,6 +6193,7 @@
     ],
     "wat-chapter-6": [
       "dalinar",
+      "ishar-mentioned",
       "kaladin",
       "syl",
       "szeth",
@@ -6237,6 +6269,7 @@
     "wat-interlude-1": [
       "ala-row115",
       "felt-scout-pr81",
+      "ishar-mentioned",
       "iyatil",
       "kelek-puuli",
       "thaidakar"
@@ -6253,6 +6286,7 @@
       "fladrn-wat14",
       "gawx",
       "jasnah",
+      "jezrien-vision",
       "kmakl-ob58",
       "navani",
       "nohadon",
@@ -6285,6 +6319,7 @@
       "colot",
       "gawx",
       "gaz",
+      "jezrien-vision",
       "nohadon",
       "shallan"
     ],
@@ -6304,6 +6339,7 @@
     ],
     "wat-chapter-19": [
       "black-sword",
+      "crescent-scar-stranger",
       "kaladin",
       "nohadon",
       "syl",
@@ -6347,6 +6383,7 @@
     "wat-chapter-22": [
       "black-sword",
       "dalinar",
+      "ishar-mentioned",
       "kaladin",
       "nohadon",
       "stormfather",
@@ -6384,6 +6421,7 @@
       "ghostblood-actress-wat25",
       "ghostblood-azish-vizier-wat25",
       "iyatil",
+      "kelek-puuli",
       "mraize",
       "navani",
       "nohadon",
@@ -6421,7 +6459,8 @@
       "pattern",
       "shallan",
       "syl",
-      "szeth"
+      "szeth",
+      "talenel"
     ],
     "wat-chapter-29": [
       "darcira-row20",
@@ -7240,6 +7279,10 @@
       {
         "id": "spren-type-musispren-wat11",
         "section": "spren-types"
+      },
+      {
+        "id": "herald-pailiah",
+        "section": "heralds"
       }
     ],
     "facts": [
@@ -22501,6 +22544,1910 @@
         },
         "field": "description",
         "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/30.Nosolo.xhtml",
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-p-wor-chapter-14-name",
+        "entryId": "herald-pailiah",
+        "field": "name",
+        "value": "Pailiah",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-14"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 14 (02_014.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 14 (02_014.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-14"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-p-wor-chapter-14-description",
+        "entryId": "herald-pailiah",
+        "field": "description",
+        "value": "Adolin invoca a Pailiah al inclinarse durante la plegaria. Es una referencia devocional.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-14"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 14 (02_014.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 14 (02_014.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-14"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-p-ob-chapter-115-alias",
+        "entryId": "herald-pailiah",
+        "field": "alias",
+        "value": "Pailiah’Elin",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-115"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 115 · Pasión equivocada (115.Pasionequivocada.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 115 · Pasión equivocada (115.Pasionequivocada.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-115"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-p-ob-chapter-115-description",
+        "entryId": "herald-pailiah",
+        "field": "description",
+        "value": "Jasnah encuentra a Renarin en el templo de Pailiah’Elin de Ciudad Thaylen.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-115"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 115 · Pasión equivocada (115.Pasionequivocada.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 115 · Pasión equivocada (115.Pasionequivocada.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-115"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-p-ob-chapter-117-description",
+        "entryId": "herald-pailiah",
+        "field": "description",
+        "value": "Renarin permanece en el templo de Pailiah y tiene allí una visión.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-117"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 117 · Campeón de nueve sombras (117.Campeon.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 117 · Campeón de nueve sombras (117.Campeon.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-117"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-p-row-prologue-description",
+        "entryId": "herald-pailiah",
+        "field": "description",
+        "value": "La segunda guarda delantera lleva su retrato. El índice de láminas y los agradecimientos la identifican como Heraldo. Se registra como paratexto de apertura.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-prologue"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Prólogo (Imagen2.xhtml; Laminas.xhtml; Agradecimiento.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Prólogo (Imagen2.xhtml; Laminas.xhtml; Agradecimiento.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-prologue"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-chapter-18-name",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "name",
+        "value": "Nalan’Elin",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "chapter-18"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El camino de los reyes, EPUB español, Capítulo 18 (02_018.xhtml)",
+        "readingLocator": "El camino de los reyes, EPUB español, Capítulo 18 (02_018.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-chapter-18"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-chapter-18-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "En el palacio de los campamentos, Dalinar y Renarin pasan ante una talla de Nalan’Elin con una espada en alto.",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "chapter-18"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El camino de los reyes, EPUB español, Capítulo 18 (02_018.xhtml)",
+        "readingLocator": "El camino de los reyes, EPUB español, Capítulo 18 (02_018.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-chapter-18"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-chapter-27-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Kaladin cree ver a Jezerezeh o a Nalan representado en un cuchillo parshendi. La figura queda sin identificar.",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "chapter-27"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El camino de los reyes, EPUB español, Capítulo 27 (02_027.xhtml)",
+        "readingLocator": "El camino de los reyes, EPUB español, Capítulo 27 (02_027.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-chapter-27"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-wor-chapter-88-alias",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "alias",
+        "value": "Nin / Nale / Nalan",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-88"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 88 (05_088.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 88 (05_088.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-88"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-wor-chapter-88-title",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "title",
+        "value": "Heraldo de la Justicia",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-88"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 88 (05_088.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 88 (05_088.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-88"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ed-chapter-9-alias",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "alias",
+        "value": "Nin-hijo-Dios",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-9"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Danzante del Filo, EPUB español, Capítulo 9 (009.xhtml)",
+        "readingLocator": "Danzante del Filo, EPUB español, Capítulo 9 (009.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ed-chapter-9"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ed-chapter-16-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Arclo dice que Nin obtuvo del príncipe un mandato que limita el uso de la potenciación.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-16"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Danzante del Filo, EPUB español, Capítulo 16 (016.xhtml)",
+        "readingLocator": "Danzante del Filo, EPUB español, Capítulo 16 (016.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ed-chapter-16"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ed-chapter-19-alias",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "alias",
+        "value": "Oscuridad / Nakku",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-19"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Danzante del Filo, EPUB español, Capítulo 19 (019.xhtml)",
+        "readingLocator": "Danzante del Filo, EPUB español, Capítulo 19 (019.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ed-chapter-19"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ed-chapter-19-title",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "title",
+        "value": "El Juez",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-19"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Danzante del Filo, EPUB español, Capítulo 19 (019.xhtml)",
+        "readingLocator": "Danzante del Filo, EPUB español, Capítulo 19 (019.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ed-chapter-19"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ob-chapter-40-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Un escrito atribuye a Nale el liderazgo de los Rompedores del Cielo, su continuidad tras la Traición y la persecución de personas próximas a vincular un spren.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-40"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 40 (40.Preguntasrevel.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 40 (40.Preguntasrevel.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-40"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ob-chapter-90-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Szeth recuerda que Nale le entregó la espada negra como prueba y que usó un fabrial para sanarlo después de su caída.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-90"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 90 · Renacido (90.Renacido.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 90 · Renacido (90.Renacido.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-90"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ob-chapter-98-title",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "title",
+        "value": "El Iluminador",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-98"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 98 · Lagunas (98.Lagunas.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 98 · Lagunas (98.Lagunas.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-98"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-ob-chapter-106-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Nale atribuye a la influencia de Ishar parte de sus decisiones y relata haberlo visitado. Declara que se pondrá de parte de los cantores.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-106"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 106 · La ley es luz (106.Leyesluz.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 106 · La ley es luz (106.Leyesluz.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-106"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-row-chapter-47-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Se enfrenta a Dalinar y Szeth. Por Conexión, Dalinar ve recuerdos de Nale: defendió a un niño, pidió leyes que protegieran a los débiles, se arrodilló ante un altospren y aceptó el Pacto de manos de Jezrien.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-47"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 47 · Una jaula forjada de espíritus (47.Jaula.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 47 · Una jaula forjada de espíritus (47.Jaula.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-47"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-wat-prologue-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Restares llama Nale al hombre de la marca facial que lo acompaña en la reunión. Gavilar duda de que sea el Heraldo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-prologue"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-prologue"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-n-wat-chapter-19-description",
+        "entryId": "herald-nalan-historical-codex",
+        "field": "description",
+        "value": "Szeth recuerda que Nale le permitió usar la División tras alcanzar el Tercer Ideal. Su spren mantiene su propia restricción.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-19"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 19 · Gobernada por voces (19.Gobernada.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 19 · Gobernada por voces (19.Gobernada.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-19"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-chapter-55-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "Sigzil lo presenta como señor de las tormentas y dador de agua y vida, asociado con la furia y la misericordia. El uso cultural de Padre Tormenta se registra como título, sin identificarlo con el spren.",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "chapter-55"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El camino de los reyes, EPUB español, Capítulo 55 (04_55.xhtml)",
+        "readingLocator": "El camino de los reyes, EPUB español, Capítulo 55 (04_55.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-chapter-55"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-wor-interlude-9-alias",
+        "entryId": "herald-jezrien-vision",
+        "field": "alias",
+        "value": "Yaezir",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-9"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Interludio I-9 (I3_009.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Interludio I-9 (I3_009.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-interlude-9"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-wor-interlude-9-title",
+        "entryId": "herald-jezrien-vision",
+        "field": "title",
+        "value": "Kadasix de Reyes",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-9"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Interludio I-9 (I3_009.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Interludio I-9 (I3_009.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-interlude-9"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-ob-chapter-64-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "Dalinar asocia su Hoja de Honor con los Corredores del Viento. El Padre Tormenta aclara que Jezrien vivió antes de la fundación de esa orden.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-64"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-ob-chapter-121-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "La narración reúne los nombres Jezrien, Yaezir y Jezerezeh’Elin, y Ash percibe que esta muerte es distinta de las anteriores.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-121"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-121"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-row-chapter-17-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "Shalash se refiere a Jezrien como su padre al explicar que los restantes Heraldos sintieron su muerte.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-17"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-17"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-row-chapter-84-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "Navani relaciona lo que Shalash contó de la caída de Jezrien con las conclusiones de Rabeniel sobre la captura de su alma.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-84"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 84 · Erudita (84.Erudita.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 84 · Erudita (84.Erudita.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-84"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-wat-prologue-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "En la visión, Gavilar ensaya con una representación curva de la Hoja de Honor de Jezrien. Durante el ataque, reconoce una hoja parecida en manos de Szeth.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-prologue"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-prologue"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-wat-chapter-14-title",
+        "entryId": "herald-jezrien-vision",
+        "field": "title",
+        "value": "Dios de las alturas",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-14"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 14 · Sin dormir (14.Sindormir.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 14 · Sin dormir (14.Sindormir.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-14"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-wat-chapter-17-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "Un visir vincula el acceso de Yanagawn al trono con la senda que le atribuye a Yaezir.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-17"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 17 · Un amor más duro (17.Amor.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 17 · Un amor más duro (17.Amor.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-17"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-chapter-23-title",
+        "entryId": "herald-ishar-mentioned",
+        "field": "title",
+        "value": "Heraldo de la Suerte",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "chapter-23"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El camino de los reyes, EPUB español, Capítulo 23 (02_023.xhtml)",
+        "readingLocator": "El camino de los reyes, EPUB español, Capítulo 23 (02_023.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-chapter-23"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-wor-chapter-42-alias",
+        "entryId": "herald-ishar-mentioned",
+        "field": "alias",
+        "value": "Ishi’Elin",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-42"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 42 (03_042.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 42 (03_042.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-42"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-ed-chapter-9-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Nale afirma que Ishar le aconsejó impedir los vínculos entre spren y humanos y le aseguró que los Portadores del Vacío no habían regresado.",
+        "revealedAt": {
+          "bookId": "edgedancer",
+          "sceneId": "ed-chapter-9"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Danzante del Filo, EPUB español, Capítulo 9 (009.xhtml)",
+        "readingLocator": "Danzante del Filo, EPUB español, Capítulo 9 (009.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ed-chapter-9"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-ob-chapter-64-alias",
+        "entryId": "herald-ishar-mentioned",
+        "field": "alias",
+        "value": "Tezim",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-64"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-ob-chapter-64-title",
+        "entryId": "herald-ishar-mentioned",
+        "field": "title",
+        "value": "Vinculador de Dioses",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-64"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 64 · Vinculador de dioses (64.Vinculador.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-64"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-ob-chapter-106-alias",
+        "entryId": "herald-ishar-mentioned",
+        "field": "alias",
+        "value": "Ishu-hijo-Dios",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-106"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 106 · La ley es luz (106.Leyesluz.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 106 · La ley es luz (106.Leyesluz.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-106"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-71-title",
+        "entryId": "herald-ishar-mentioned",
+        "field": "title",
+        "value": "Heraldo de los Misterios",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-71"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 71 · Jinete de la tormenta (71.Jinete.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 71 · Jinete de la tormenta (71.Jinete.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-71"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-71-order",
+        "entryId": "herald-ishar-mentioned",
+        "field": "order",
+        "value": "Forjadores de Vínculos",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-71"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 71 · Jinete de la tormenta (71.Jinete.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 71 · Jinete de la tormenta (71.Jinete.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-71"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-98-appearance",
+        "entryId": "herald-ishar-mentioned",
+        "field": "appearance",
+        "value": "El reconocimiento aéreo muestra a Ishar como un shin anciano de barba blanca y piel pálida, de túnica azul oscura.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-98"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 98 · Un color malsano (98.Color.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 98 · Un color malsano (98.Color.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-98"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-111-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Según Shalash, Ishar descubrió cómo viajar entre mundos y condujo a los humanos a Roshar. El Padre Tormenta lo recuerda ambicioso y entre los primeros a quienes engañó Odium en Ashyn.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-111"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-111"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-111-description-2",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Ishar combate con su Hoja de Honor, Conecta a los Corredores con el suelo e intenta apropiarse del vínculo de Dalinar. Szeth corta la Conexión. Ishar abre una perpendicularidad y se retira hacia Shadesmar.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-111"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-111"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-111-description-3",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Según Ishar, los shin le devolvieron su Hoja de Honor. Atribuye la entrega al padre de Szeth; queda registrado como su versión.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-111"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-111"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-row-chapter-116-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Dalinar cree que la dolencia de Ishar es sobrenatural y pide a Kaladin que lo ayude.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-116"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 116 · Piedad (116.Piedad.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 116 · Piedad (116.Piedad.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-116"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-wat-chapter-4-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Sagaz insiste en que Kaladin debe ir a Shinovar para ayudar a Ishar y le advierte que no podrá resolver el duelo como espera Dalinar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-4"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 4 · Escuchar (4.Escuchar.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 4 · Escuchar (4.Escuchar.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-4"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-wat-chapter-6-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Dalinar recuerda que Ishar habló de refundar el Juramento y relaciona la luz de los Ideales con momentos de claridad. Le pide a Kaladin que ayude a Ishar y a Szeth.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-6"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 6 · Nobleza (6.Nobleza.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 6 · Nobleza (6.Nobleza.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-6"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-wat-interlude-1-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Kalak cree que Ishar contiene una parte de la oscuridad que lo amenaza. Es la interpretación de Kalak.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-interlude-1"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Interludio I-1 · Kalak (I-1.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Interludio I-1 · Kalak (I-1.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-interlude-1"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-i-wat-chapter-22-description",
+        "entryId": "herald-ishar-mentioned",
+        "field": "description",
+        "value": "Szeth usa el nombre Ishu-hijo-Dios y dice que no sabe dónde se oculta en Shinovar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-22"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 22 · Buscando una tercera opción (22.Buscando.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 22 · Buscando una tercera opción (22.Buscando.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-22"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-chapter-6-title",
+        "entryId": "herald-talenel",
+        "field": "title",
+        "value": "Portador de Todas las Agonías",
+        "revealedAt": {
+          "bookId": "wok",
+          "sceneId": "chapter-6"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El camino de los reyes, EPUB español, Capítulo 6 (01_006.xhtml)",
+        "readingLocator": "El camino de los reyes, EPUB español, Capítulo 6 (01_006.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-chapter-6"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-wor-chapter-88-description",
+        "entryId": "herald-talenel",
+        "field": "description",
+        "value": "Amaram abre un hueco para liberar al hombre al que llama Talenelat’Elin y Heraldo de la Guerra.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-88"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 88 (05_088.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 88 (05_088.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-88"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-ob-chapter-59-title",
+        "entryId": "herald-talenel",
+        "field": "title",
+        "value": "Heraldo de los Soldados",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-59"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 59 · Forjador de vínculos (59.Forjadorvinculos.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 59 · Forjador de vínculos (59.Forjadorvinculos.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-59"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-ob-chapter-119-description",
+        "entryId": "herald-talenel",
+        "field": "description",
+        "value": "Se muestra lúcido en su conversación con Ash, se alegra del tiempo ganado por la humanidad y más tarde pierde esa claridad.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-119"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 119 · Unidad (119.Unidad.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 119 · Unidad (119.Unidad.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-119"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-row-chapter-98-alias",
+        "entryId": "herald-talenel",
+        "field": "alias",
+        "value": "Tuk",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-98"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 98 · Un color malsano (98.Color.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 98 · Un color malsano (98.Color.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-98"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-row-chapter-99-description",
+        "entryId": "herald-talenel",
+        "field": "description",
+        "value": "Jasnah conserva notas de sus entrevistas con Taln y Ash. Distingue lo que ignoran, lo que no quieren contar y lo que Taln no puede contar.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-99"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 99 · Sin ataduras (99.Sinataduras.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 99 · Sin ataduras (99.Sinataduras.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-99"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-wat-chapter-28-alias",
+        "entryId": "herald-talenel",
+        "field": "alias",
+        "value": "Talmut",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-28"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 28 · Obstáculo (28.Obstaculo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 28 · Obstáculo (28.Obstaculo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-28"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-t-wat-chapter-28-description",
+        "entryId": "herald-talenel",
+        "field": "description",
+        "value": "Szeth identifica a Talmut con Taln y señala el primer monasterio donde vivió. Explica que la hoja de Taln no está allí.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-28"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 28 · Obstáculo (28.Obstaculo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 28 · Obstáculo (28.Obstaculo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-28"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-wor-chapter-30-title",
+        "entryId": "herald-shalash-mentioned",
+        "field": "title",
+        "value": "Heraldo de la Belleza",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-30"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 30 (02_030.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 30 (02_030.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-30"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-ob-chapter-92-alias",
+        "entryId": "herald-shalash-mentioned",
+        "field": "alias",
+        "value": "Shush-hija-Dios",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-92"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 92 · Agua cálida como la sangre (92.Aguacalida.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 92 · Agua cálida como la sangre (92.Aguacalida.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-92"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-ob-chapter-119-description",
+        "entryId": "herald-shalash-mentioned",
+        "field": "description",
+        "value": "Ash toma de la mano a Taln y le pide perdón por haberlo dejado. La escena muestra su reacción a la respuesta de Taln.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-119"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 119 · Unidad (119.Unidad.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 119 · Unidad (119.Unidad.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-119"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-ob-chapter-121-description",
+        "entryId": "herald-shalash-mentioned",
+        "field": "description",
+        "value": "Ash rechaza que los adoren o representen, acompaña a Taln y siente un vacío al morir Jezrien. Reconoce el estilo de los retratos que lleva Jasnah.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-121"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-121"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-dawnshard-chapter-5-description",
+        "entryId": "herald-shalash-mentioned",
+        "field": "description",
+        "value": "La expresión por los ojos de Ash aparece en una conversación de Rysn. Es una invocación sin presencia de la Heraldo.",
+        "revealedAt": {
+          "bookId": "dawnshard",
+          "sceneId": "dawnshard-chapter-5"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Esquirla del amanecer, EPUB español, Capítulo 5 (5.xhtml)",
+        "readingLocator": "Esquirla del amanecer, EPUB español, Capítulo 5 (5.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-dawnshard-chapter-5"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-row-chapter-17-alias",
+        "entryId": "herald-shalash-mentioned",
+        "field": "alias",
+        "value": "Ash",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-17"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-17"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-row-chapter-17-description",
+        "entryId": "herald-shalash-mentioned",
+        "field": "description",
+        "value": "Navani presenta a Shalash como Ash, el nombre que prefiere. Ash llama padre a Jezrien y dice que todos los Heraldos sintieron su muerte.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-17"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-17"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-a-row-chapter-99-description",
+        "entryId": "herald-shalash-mentioned",
+        "field": "description",
+        "value": "En las entrevistas con Jasnah, Ash relata el Desafío de Fuertormenta y explica la maniobra detrás del tratado de las cuatro noches.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-99"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 99 · Sin ataduras (99.Sinataduras.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 99 · Sin ataduras (99.Sinataduras.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-99"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-wor-chapter-75-alias",
+        "entryId": "herald-chan-arach-story",
+        "field": "alias",
+        "value": "Chana",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-75"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 75 (04_075.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 75 (04_075.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-75"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-wor-chapter-77-alias",
+        "entryId": "herald-chan-arach-story",
+        "field": "alias",
+        "value": "Chanaranach",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-77"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 77 (05_077.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 77 (05_077.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-77"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-wor-chapter-77-description",
+        "entryId": "herald-chan-arach-story",
+        "field": "description",
+        "value": "Shallan recrea un mural exterior del templo dedicado a Chanaranach en Sedetormenta.",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-77"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 77 (05_077.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 77 (05_077.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-77"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-row-chapter-4-alias",
+        "entryId": "herald-chan-arach-story",
+        "field": "alias",
+        "value": "Chanaranach’Elin",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-4"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 4 · Arquitectos (4.Arquitectos.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 4 · Arquitectos (4.Arquitectos.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-4"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-row-chapter-4-title",
+        "entryId": "herald-chan-arach-story",
+        "field": "title",
+        "value": "Heraldo del Hombre Corriente",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-4"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 4 · Arquitectos (4.Arquitectos.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 4 · Arquitectos (4.Arquitectos.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-4"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-row-chapter-4-description",
+        "entryId": "herald-chan-arach-story",
+        "field": "description",
+        "value": "La interlocutora de Chanasha Hasareh atribuye su nombre al legado de Chanaranach. El nombre compartido se registra como homenaje.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-4"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 4 · Arquitectos (4.Arquitectos.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 4 · Arquitectos (4.Arquitectos.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-4"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-c-wat-prologue-description",
+        "entryId": "herald-chan-arach-story",
+        "field": "description",
+        "value": "En la visión, Gavilar empuña una representación de la hoja bifurcada de Chana. La voz con la que habla recuerda a Chanarach como militar; se conserva la atribución a esa voz.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-prologue"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-prologue"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-v-wor-interlude-7-alias",
+        "entryId": "herald-vedel-historical-codex",
+        "field": "alias",
+        "value": "Vedel",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-interlude-7"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Interludio I-7 (I2_007.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Interludio I-7 (I2_007.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-interlude-7"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-v-ob-chapter-68-alias",
+        "entryId": "herald-vedel-historical-codex",
+        "field": "alias",
+        "value": "Vev",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-68"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 68 · Apuntar al sol (68.Apuntarsol.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 68 · Apuntar al sol (68.Apuntarsol.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-68"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-v-row-chapter-46-description",
+        "entryId": "herald-vedel-historical-codex",
+        "field": "description",
+        "value": "Navani invoca las llaves doradas de Vev mientras discute el acceso a spren dispuestos a colaborar.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-46"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 46 · El peso de la torre (46.Peso.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 46 · El peso de la torre (46.Peso.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-46"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-b-wor-chapter-14-alias",
+        "entryId": "herald-battar-historical-codex",
+        "field": "alias",
+        "value": "Battah",
+        "revealedAt": {
+          "bookId": "wor",
+          "sceneId": "wor-chapter-14"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Palabras radiantes, EPUB español, PR · Capítulo 14 (02_014.xhtml)",
+        "readingLocator": "Palabras radiantes, EPUB español, PR · Capítulo 14 (02_014.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wor-chapter-14"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-b-ob-chapter-121-alias",
+        "entryId": "herald-battar-historical-codex",
+        "field": "alias",
+        "value": "Battah’Elin",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-121"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-121"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-b-ob-chapter-121-description",
+        "entryId": "herald-battar-historical-codex",
+        "field": "description",
+        "value": "Taravangian dice que sospechan que la fervorosa Dova es Battah’Elin y le atribuye un aviso sobre la Desolación. En este corte sigue siendo su sospecha.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-121"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-121"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-78-alias",
+        "entryId": "herald-kelek-puuli",
+        "field": "alias",
+        "value": "Kelek’Elin",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-78"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 78 · El juez supremo (78.Juez.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 78 · El juez supremo (78.Juez.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-78"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-82-alias",
+        "entryId": "herald-kelek-puuli",
+        "field": "alias",
+        "value": "Restares",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-82"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 82 · Daga (82.Daga.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 82 · Daga (82.Daga.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-82"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-82-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Kalak intenta salir de Roshar y sostiene que el Juramento está roto. Mraize vincula a Kalak con el proyecto de Gavilar y la captura de Mishram; son afirmaciones de Mraize.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-82"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 82 · Daga (82.Daga.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 82 · Daga (82.Daga.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-82"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-87-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "En el juicio de Adolin, Kalak interroga a Mezcla sobre la suerte de los antiguos spren y permite que se examine el relato de la Traición.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-87"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 87 · Juicio por testimonio (87.Juicio.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 87 · Juicio por testimonio (87.Juicio.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-87"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-90-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Velo decide, como Radiante, que no matará a Kalak. La misión de Shallan no se convierte en un ataque.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-90"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 90 · Única oportunidad (90.Oportunidad.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 90 · Única oportunidad (90.Oportunidad.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-90"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-93-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Kalak reconoce que Shallan fue enviada a matarlo cuando ella lo confronta en Integridad Duradera.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-93"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 93 · Lo bastante fuerte (93.Bastante.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 93 · Lo bastante fuerte (93.Bastante.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-93"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-wat-prologue-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Restares se opone a forzar otro Retorno. Gavilar le atribuye la fundación de los Hijos de Honor. En la reunión con Nale, Restares dice conocer dónde se escondió el alma de Ba-Ado-Mishram.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-prologue"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Prólogo · Vivir (Prologo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-prologue"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-wat-chapter-3-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Shallan le pregunta por Ba-Ado-Mishram junto a Adolin y Maya. Kalak teme que intenten aprisionarlo y se retira.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-3"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 3 · Los costes del heroísmo (3.Costes.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 3 · Los costes del heroísmo (3.Costes.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-3"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-wat-chapter-5-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Kalak vacila sobre liberar a Mishram. Al ver el retrato de Shallan, le pregunta si sus dibujos pueden rozar posibles versiones de las personas por medio de Fortuna.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-5"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 5 · Lo que aún podría ser (5.Podriaser.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 5 · Lo que aún podría ser (5.Podriaser.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-5"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-wat-chapter-7-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Advierte a Shallan sobre sus dos vínculos y recuerda a Tejedores capaces de dar sustancia temporal a sus creaciones. Se abrazan antes de la partida.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-7"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 7 · Hojas perdidas (7.Hojas.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 7 · Hojas perdidas (7.Hojas.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-7"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-wat-interlude-1-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Felt y Ala lo sorprenden en su estudio. Ala pregunta si deben usar la daga. Felt se demora y Kalak siente alivio al no tener que decidir.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-interlude-1"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Interludio I-1 · Kalak (I-1.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Interludio I-1 · Kalak (I-1.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-interlude-1"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-wat-chapter-25-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "Felt cuenta a los Sangre Espectral que Restares reveló que la prisión de Mishram está en el Reino Espiritual. Es un informe remoto.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-25"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 25 · Peligro con propósito (25.Peligro.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 25 · Peligro con propósito (25.Peligro.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-25"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-chapter-17-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Ash explica que Braize y Ashyn son planetas, atribuye a Ishar el Juramento y lo da por roto tras la muerte de su padre. Distingue las capacidades de las Hojas de Honor de las de los Radiantes.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-17"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 17 · Una propuesta (17.Propuesta.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-17"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-chapter-47-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Dalinar percibe líneas de Conexión desde Nale. El Padre Tormenta describe el Juramento como una jaula espiritual dañada incluso antes de la muerte de Jezrien.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-47"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 47 · Una jaula forjada de espíritus (47.Jaula.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 47 · Una jaula forjada de espíritus (47.Jaula.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-47"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-chapter-71-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Ash dice que los Radiantes se modelaron a imagen de los Heraldos. Distingue a Nale, que también pertenece a una orden.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-71"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 71 · Jinete de la tormenta (71.Jinete.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 71 · Jinete de la tormenta (71.Jinete.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-71"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-chapter-111-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "El Padre Tormenta dice que todos los Heraldos aprendieron a luchar con los milenios de guerra, incluso quienes empezaron sin formación marcial.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-111"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 111 · Desencadenado (111.Desencadenado.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-111"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-wat-chapter-28-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Szeth explica que los shin entrenan en una peregrinación de monasterio en monasterio con las Hojas de Honor. Entre las ausentes cita las de Talmut, Nin e Ishar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-28"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 28 · Obstáculo (28.Obstaculo.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 28 · Obstáculo (28.Obstaculo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-28"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-interlude-1-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Syl atribuye a un Forjador de Vínculos la Conexión de los Heraldos con Braize, su inmortalidad y el encierro de los enemigos. Sitúa estos poderes antes de la fundación de los Radiantes.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-interlude-1"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Interludio I-1 · Sylphrena (I-1.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Interludio I-1 · Sylphrena (I-1.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-interlude-1"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-chapter-79-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "El epígrafe describe cómo quien escribe sintió la pérdida de Jezrien desde Integridad Duradera. Afirma que el Juramento estaba roto y que aún quedaban Conexiones por las que los Heraldos se sentían entre sí.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-79"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 79 · Herida abierta (79.Herida.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 79 · Herida abierta (79.Herida.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-79"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-row-chapter-80-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "La voz del epígrafe dice que los cantores capturaron primero a Jezrien en una gema.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-80"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 80 · El perro y el dragón (80.Perro.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 80 · El perro y el dragón (80.Perro.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-80"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-82-description-2",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "El epígrafe de esta secuencia lamenta los milenios transcurridos. Su lectura se conserva como parte del testimonio de la voz de los epígrafes vinculada a Kalak.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-82"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 82 · Daga (82.Daga.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 82 · Daga (82.Daga.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-82"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-83-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "En la secuencia de epígrafes vinculada a Kalak, quien escribe dice recordar muy poco de esos siglos.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-83"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 83 · Los juegos de hombres y cantores (83.Juegos.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 83 · Los juegos de hombres y cantores (83.Juegos.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-83"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-84-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes atribuye a Midius la sugerencia de usar Investidura para mejorar la memoria. La sugerencia queda como testimonio.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-84"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 84 · Erudita (84.Erudita.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 84 · Erudita (84.Erudita.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-84"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-85-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes se pregunta por qué querría recuperar lo que ha olvidado.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-85"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 85 · Dabbid (85.Dabbid.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 85 · Dabbid (85.Dabbid.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-85"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-87-description-2",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes considera que recordar su vida quizá le devolvería la confianza para tomar decisiones.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-87"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 87 · Juicio por testimonio (87.Juicio.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 87 · Juicio por testimonio (87.Juicio.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-87"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-89-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes teme que recobrar sus recuerdos la paralizaría al recordar a quienes falló.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-89"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 89 · Voz de las luces (89.Voz.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 89 · Voz de las luces (89.Voz.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-89"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-90-description-2",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes teme que, después de Jezrien, la persigan incluso dentro de Integridad Duradera, y ofrece ese motivo para escribir.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-90"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 90 · Única oportunidad (90.Oportunidad.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 90 · Única oportunidad (90.Oportunidad.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-90"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-row-chapter-92-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Según el epígrafe, la Conexión preserva a los Heraldos y una captura que la corte acabaría por dejar que el alma se desvanezca en el Más Allá.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-92"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 92 · Un regalo (92.Regalo.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 92 · Un regalo (92.Regalo.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-92"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-j-row-chapter-93-description",
+        "entryId": "herald-jezrien-vision",
+        "field": "description",
+        "value": "La voz del epígrafe dice que Jezrien se fue disipando durante semanas y acabó muriendo después de que lo capturaran.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-93"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 93 · Lo bastante fuerte (93.Bastante.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 93 · Lo bastante fuerte (93.Bastante.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-93"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-94-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes decide dejar sus respuestas por escrito al reconocer en sí un resto de lo que fue.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-94"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 94 · Sacrificio (94.Sacrificio.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 94 · Sacrificio (94.Sacrificio.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-94"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-96-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes pide liberar a la Deshecha cautiva y afirma que ella no se desvanecerá por sí sola.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-96"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 96 · Mil mentiras (96.Mil.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 96 · Mil mentiras (96.Mil.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-96"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-k-row-chapter-97-description",
+        "entryId": "herald-kelek-puuli",
+        "field": "description",
+        "value": "La voz de los epígrafes pide liberar a Mishram por su propio bien y por el de los spren. Habla desde su experiencia de siglos de sufrimiento.",
+        "revealedAt": {
+          "bookId": "row",
+          "sceneId": "row-chapter-97"
+        },
+        "status": "confirmed",
+        "primaryLocator": "El ritmo de la guerra, EPUB español, Capítulo 97 · Libertad (97.Libertad.xhtml)",
+        "readingLocator": "El ritmo de la guerra, EPUB español, Capítulo 97 · Libertad (97.Libertad.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-row-chapter-97"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-ob-chapter-121-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Lopen observa que todavía se siguen consejos de los Heraldos sobre hervir los vendajes para matar putrispren.",
+        "revealedAt": {
+          "bookId": "ob",
+          "sceneId": "ob-chapter-121"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "readingLocator": "Juramentada, EPUB español, Capítulo 121 · Ideales (121.Ideales.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-ob-chapter-121"
+        ],
+        "supersedes": []
+      },
+      {
+        "id": "primary297-herald-g-wat-chapter-25-description",
+        "entryId": "herald-heralds-collective",
+        "field": "description",
+        "value": "Dalinar afirma que, según Ash, Honor se relacionaba a menudo con los Heraldos.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-25"
+        },
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, Capítulo 25 · Peligro con propósito (25.Peligro.xhtml)",
+        "readingLocator": "Viento y verdad, EPUB español, Capítulo 25 · Peligro con propósito (25.Peligro.xhtml)",
+        "sourceIds": [
+          "primary297-heralds-wat-chapter-25"
+        ],
         "supersedes": []
       }
     ],
@@ -159348,7 +161295,7 @@
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 296,
+  "revision": 297,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
