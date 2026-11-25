@@ -44,7 +44,7 @@ function renderRelationshipNetwork(){
  return withRenderMemo(drawRelationshipNetwork);
 }
 function drawRelationshipNetwork(){
- const wrap=$('relationshipNetworkWrap');wrap.hidden=relationshipMode!=='social';if(wrap.hidden)return;const svg=$('relationshipNetwork');svg.replaceChildren();
+ const wrap=$('relationshipNetworkWrap');wrap.hidden=relationshipMode!=='social'||!relationVisible(relationshipFocus);const svg=$('relationshipNetwork');svg.replaceChildren();if(wrap.hidden)return;
  if(!relationshipFocus||!relationshipPeople().some(p=>p.id===identityId(relationshipFocus))){return;}
  const model=relationshipNetworkModel(identityId(relationshipFocus)),view=$("relationshipNetworkViewport"),scale=Math.max(.4,relationshipNetworkZoom),overview=Math.min(1,relationshipNetworkZoom/.4),size=Math.max((view.clientWidth||800)+600,(view.clientWidth||800)/overview,(view.clientHeight||500)/overview,Math.ceil(model.extent*scale*2+150)),center=size/2;relationshipNetworkSize=size*overview;svg.setAttribute('width',relationshipNetworkSize);svg.setAttribute('height',relationshipNetworkSize);svg.setAttribute('viewBox','0 0 '+size+' '+size);$('relationshipNetworkZoom').textContent=Math.round(relationshipNetworkZoom*100)+' %';
  for(const radius of [...new Set(model.nodes.map(p=>p.radius))]){const ring=document.createElementNS(NS,'circle');ring.setAttribute('cx',center);ring.setAttribute('cy',center);ring.setAttribute('r',radius*scale);ring.setAttribute('fill','none');ring.setAttribute('stroke','#2b424c');ring.setAttribute('stroke-dasharray','3 8');ring.setAttribute('pointer-events','none');svg.append(ring);}
