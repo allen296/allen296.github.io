@@ -6633,6 +6633,7 @@ window.ATLAS_DATA = {
       "colot",
       "gawx",
       "hmask-wat42",
+      "jezrien-vision",
       "kaladin",
       "kushkam-wat34",
       "may-aladar",
@@ -7224,6 +7225,202 @@ window.ATLAS_DATA = {
       "skybreaker-speaker-wat80",
       "wat-seventh-day-epigraph-voice",
       "zabra-wat60"
+    ],
+    "wat-chapter-81": [
+      "adolin",
+      "ethenia-wat81",
+      "fent-wat56",
+      "gallant",
+      "kalleb-wat81",
+      "leyten",
+      "moash",
+      "neziham-wat47",
+      "sigzil",
+      "sigzil-spren-row19",
+      "wat-seventh-day-epigraph-voice"
+    ],
+    "wat-chapter-82": [
+      "adolin",
+      "dalinar",
+      "elhokar-son",
+      "navani",
+      "neziham-wat47",
+      "ob68-sibling-epigraph",
+      "urithiru-evacuee-daughter-wat82",
+      "urithiru-evacuee-son-wat82",
+      "urithiru-evacuee-wat82",
+      "wat-seventh-day-epigraph-voice"
+    ],
+    "wat-chapter-83": [
+      "dulo-wat83",
+      "elid-wat24",
+      "gearil-wat83",
+      "jezrien-vision",
+      "kai-garnis-ob117",
+      "moss-wat70",
+      "pozen-wat53",
+      "sivi-shin-wat57",
+      "szeth",
+      "terushal-wat-plate-xviii",
+      "tuko-wat68",
+      "vambra-wat68",
+      "yushah-ob117"
+    ],
+    "wat-chapter-84": [
+      "abidi-wat84",
+      "adolin",
+      "aesudan",
+      "ash-thaylen-ob119",
+      "ba-ado-mishram-ob80",
+      "gallant",
+      "glys",
+      "harvo-wat79",
+      "hmask-wat42",
+      "renarin",
+      "shalash-mentioned",
+      "shen",
+      "talenel",
+      "tumi-row114",
+      "wat-seventh-day-epigraph-voice",
+      "zahel"
+    ],
+    "wat-chapter-85": [
+      "abidi-wat84",
+      "adolin",
+      "ash-thaylen-ob119",
+      "colot",
+      "dalinar",
+      "elhokar-son",
+      "garith-historical-wat80",
+      "gawx",
+      "hmask-wat42",
+      "kelek-puuli",
+      "kushkam-wat34",
+      "may-aladar",
+      "melishi",
+      "navani",
+      "rahel-wat39",
+      "shalash-mentioned",
+      "singer-envoy-wat85",
+      "talenel",
+      "wat-seventh-day-epigraph-voice"
+    ],
+    "wat-chapter-86": [
+      "crescent-scar-stranger",
+      "cryptic-deadeye-row29",
+      "glys",
+      "goshel",
+      "highspren-121-wat86",
+      "kaladin",
+      "pattern",
+      "renarin",
+      "shallan",
+      "shen",
+      "syl",
+      "szeth",
+      "szeth-highspren-rowi7",
+      "tumi-row114",
+      "wat-seventh-day-epigraph-voice",
+      "wat-wind-speaker"
+    ],
+    "wat-chapter-87": [
+      "ba-ado-mishram-ob80",
+      "cryptic-deadeye-row29",
+      "dalinar",
+      "elhokar-son",
+      "garith-historical-wat80",
+      "glys",
+      "kelek-puuli",
+      "melishi",
+      "navani",
+      "odium",
+      "pattern",
+      "renarin",
+      "shallan",
+      "shen",
+      "singer-envoy-wat85",
+      "sja-anat",
+      "stormfather",
+      "tumi-row114",
+      "wat-seventh-day-epigraph-voice"
+    ],
+    "wat-interlude-13": [
+      "axindweth-aviar-wat-i9",
+      "axindweth-row52",
+      "lift",
+      "ob68-sibling-epigraph",
+      "red-bird-rowi5",
+      "wyndle",
+      "zahel",
+      "zahel-captor-thugs-wat-i13",
+      "zahel-captor-woman-wat-i13",
+      "zahel-parrot-wat-i9"
+    ],
+    "wat-interlude-14": [
+      "cultivation",
+      "dalinar",
+      "sja-anat",
+      "taravangian"
+    ],
+    "wat-chapter-88": [
+      "dalinar",
+      "elhokar-son",
+      "malan",
+      "navani",
+      "odium",
+      "rortel-wat88",
+      "sigzil",
+      "sigzil-spren-row19",
+      "winn-wat74",
+      "yelig-nar"
+    ],
+    "wat-chapter-89": [
+      "bila",
+      "crescent-scar-stranger",
+      "crzmak-wat89",
+      "estel-wat89",
+      "fen",
+      "jasnah",
+      "jezrien-vision",
+      "kaladin",
+      "kivor-wat89",
+      "moash-duel-fused",
+      "navani",
+      "syl",
+      "szeth",
+      "szeth-highspren-rowi7",
+      "taravangian",
+      "thude",
+      "thundercloud-wat70",
+      "venli"
+    ],
+    "wat-chapter-90": [
+      "balivar-wat90",
+      "bila",
+      "chella-wat90",
+      "crescent-scar-stranger",
+      "elid-wat24",
+      "estel-wat89",
+      "ethenia-wat81",
+      "ishar-mentioned",
+      "jezrien-vision",
+      "kaladin",
+      "kivor-wat89",
+      "navani",
+      "negative-numbers-mathematician-wat90",
+      "neturo",
+      "sigzil",
+      "sigzil-spren-row19",
+      "stormwall-wat63",
+      "syl",
+      "szeth",
+      "szeth-highspren-rowi7",
+      "talenel",
+      "thude",
+      "venli",
+      "winn-wat74",
+      "wit",
+      "zeenid-wat27"
     ]
   },
   "knowledgeArchive": {
@@ -8049,6 +8246,33 @@ window.ATLAS_DATA = {
         "characterRevealedAt": {
           "bookId": "wat",
           "sceneId": "wat-interlude-11"
+        }
+      },
+      {
+        "id": "spren-person-ethenia-wat81",
+        "section": "spren-individuals",
+        "characterId": "ethenia-wat81",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-81"
+        }
+      },
+      {
+        "id": "spren-person-szeth-highspren-rowi7",
+        "section": "spren-individuals",
+        "characterId": "szeth-highspren-rowi7",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        }
+      },
+      {
+        "id": "spren-person-highspren-121-wat86",
+        "section": "spren-individuals",
+        "characterId": "highspren-121-wat86",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
         }
       }
     ],
@@ -27290,6 +27514,669 @@ window.ATLAS_DATA = {
         "field": "description",
         "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/80.Vemos.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Ethenia",
+        "sourceIds": [
+          "primary304-wat-81"
+        ],
+        "id": "primary304-archive-ethenia-wat81-name",
+        "entryId": "spren-person-ethenia-wat81",
+        "value": "Ethenia",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-81"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Leyten la llama cuando Moash alcanza a ambos. La escena muestra la reacción de Leyten cuando la alcanza el ataque.",
+        "sourceIds": [
+          "primary304-wat-81"
+        ],
+        "id": "primary304-archive-ethenia-wat81-description",
+        "entryId": "spren-person-ethenia-wat81",
+        "value": "Leyten la llama cuando Moash alcanza a ambos. La escena muestra la reacción de Leyten cuando la alcanza el ataque.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-81"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Navani alcanza al Hermano desde la visión. El Hermano le recomienda seguir al Corredor del Viento rirano y dice que el Padre Tormenta se niega a traerlos de vuelta.",
+        "sourceIds": [
+          "primary304-wat-82"
+        ],
+        "id": "primary304-archive-82-sibling",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "Navani alcanza al Hermano desde la visión. El Hermano le recomienda seguir al Corredor del Viento rirano y dice que el Padre Tormenta se niega a traerlos de vuelta.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-82"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. El vestíbulo conserva un retrato de Yesoran-hijo-Dios, sobre el que Szeth deja a Tuko tras el duelo.",
+        "sourceIds": [
+          "primary304-wat-83"
+        ],
+        "id": "primary304-archive-83-jezrien",
+        "entryId": "herald-jezrien-vision",
+        "value": "El vestíbulo conserva un retrato de Yesoran-hijo-Dios, sobre el que Szeth deja a Tuko tras el duelo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-83"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/42.Celebraciones.xhtml. Yesoran",
+        "sourceIds": [
+          "primary304-wat-42-yesoran"
+        ],
+        "id": "primary304-archive-42-yesoran",
+        "entryId": "herald-jezrien-vision",
+        "value": "Yesoran",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-42"
+        },
+        "field": "alias",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/42.Celebraciones.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Yesoran-hijo-Dios",
+        "sourceIds": [
+          "primary304-wat-83"
+        ],
+        "id": "primary304-archive-83-yesoran",
+        "entryId": "herald-jezrien-vision",
+        "value": "Yesoran-hijo-Dios",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-83"
+        },
+        "field": "alias",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Corredores del Viento",
+        "sourceIds": [
+          "primary304-wat-83"
+        ],
+        "id": "primary304-archive-83-jezrien-order",
+        "entryId": "herald-jezrien-vision",
+        "value": "Corredores del Viento",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-83"
+        },
+        "field": "order",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Taln sale de su estado en la enfermería de Azimir y contraataca desarmado al ver la amenaza contra los heridos.",
+        "sourceIds": [
+          "primary304-wat-84"
+        ],
+        "id": "primary304-archive-84-taln",
+        "entryId": "herald-talenel",
+        "value": "Taln sale de su estado en la enfermería de Azimir y contraataca desarmado al ver la amenaza contra los heridos.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-84"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Ash se queda con Taln en la enfermería y planta cara a Abidi cuando ordena matar a los heridos.",
+        "sourceIds": [
+          "primary304-wat-84"
+        ],
+        "id": "primary304-archive-84-ash",
+        "entryId": "herald-shalash-mentioned",
+        "value": "Ash se queda con Taln en la enfermería y planta cara a Abidi cuando ordena matar a los heridos.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-84"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Crea con Renarin ventanas hacia otras experiencias y le avisa cuando llega Shallan.",
+        "sourceIds": [
+          "primary304-wat-84"
+        ],
+        "id": "primary304-archive-84-glys",
+        "entryId": "spren-person-glys",
+        "value": "Crea con Renarin ventanas hacia otras experiencias y le avisa cuando llega Shallan.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-84"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Golpea la ventana que la separa de Renarin y le pide ayuda. Su prisión sigue sin ubicar.",
+        "sourceIds": [
+          "primary304-wat-84"
+        ],
+        "id": "primary304-archive-84-mishram",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "Golpea la ventana que la separa de Renarin y le pide ayuda. Su prisión sigue sin ubicar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-84"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin lo encuentra muerto entre los Fusionados caídos junto a la cúpula.",
+        "sourceIds": [
+          "primary304-wat-85"
+        ],
+        "id": "primary304-archive-85-taln",
+        "entryId": "herald-talenel",
+        "value": "Adolin lo encuentra muerto entre los Fusionados caídos junto a la cúpula.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-85"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Lucha junto a Taln. Adolin la encuentra viva pero muy malherida y la ve quedar inmóvil.",
+        "sourceIds": [
+          "primary304-wat-85"
+        ],
+        "id": "primary304-archive-85-ash",
+        "entryId": "herald-shalash-mentioned",
+        "value": "Lucha junto a Taln. Adolin la encuentra viva pero muy malherida y la ve quedar inmóvil.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-85"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Dalinar descubre a Kalak entre quienes acompañan a Melishi a la reunión nocturna en la recreación.",
+        "sourceIds": [
+          "primary304-wat-85"
+        ],
+        "id": "primary304-archive-85-kalak",
+        "entryId": "herald-kelek-puuli",
+        "value": "Dalinar descubre a Kalak entre quienes acompañan a Melishi a la reunión nocturna en la recreación.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-85"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. 12.124",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-szeth-highspren-rowi7-name",
+        "entryId": "spren-person-szeth-highspren-rowi7",
+        "value": "12.124",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Altospren de Szeth. Se presenta ante Kaladin y le pide ayuda para comprender su propio vínculo.",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-szeth-highspren-rowi7-description",
+        "entryId": "spren-person-szeth-highspren-rowi7",
+        "value": "Altospren de Szeth. Se presenta ante Kaladin y le pide ayuda para comprender su propio vínculo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. 121",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-highspren-121-wat86-name",
+        "entryId": "spren-person-highspren-121-wat86",
+        "value": "121",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Altospren de Nale, identificado por Syl al hablar con 12.124.",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-highspren-121-wat86-description",
+        "entryId": "spren-person-highspren-121-wat86",
+        "value": "Altospren de Nale, identificado por Syl al hablar con 12.124.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. 12.124 afirma que usan números como nombres y que tanto el spren como el Radiante pronuncian juramentos en su orden.",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-86-highspren",
+        "entryId": "spren-type-highspren",
+        "value": "12.124 afirma que usan números como nombres y que tanto el spren como el Radiante pronuncian juramentos en su orden.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Aparece junto al fuego como una figura humana de uniforme hecha de un vacío negro lleno de estrellas.",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-86-high-appearance",
+        "entryId": "spren-person-szeth-highspren-rowi7",
+        "value": "Aparece junto al fuego como una figura humana de uniforme hecha de un vacío negro lleno de estrellas.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "appearance",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. El Viento transmite a Kaladin fragmentos de recuerdos en los que Nale rescató a personas olvidadas durante milenios. En el presente, Nale señala la reunión de spren en dirección a los últimos monasterios.",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-86-nale",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "El Viento transmite a Kaladin fragmentos de recuerdos en los que Nale rescató a personas olvidadas durante milenios. En el presente, Nale señala la reunión de spren en dirección a los últimos monasterios.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Glys y Tumi incluyen un estrellaspren en la recreación del lugar donde Shallan y Adolin lo vieron en Shadesmar.",
+        "sourceIds": [
+          "primary304-wat-86"
+        ],
+        "id": "primary304-archive-86-starspren",
+        "entryId": "spren-type-starspren",
+        "value": "Glys y Tumi incluyen un estrellaspren en la recreación del lugar donde Shallan y Adolin lo vieron en Shadesmar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-86"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. La recreación muestra que quería negociar la paz. Melishi la encierra en la gema por orden de Honor. La escena deja sin ubicar la prisión.",
+        "sourceIds": [
+          "primary304-wat-87"
+        ],
+        "id": "primary304-archive-87-mishram",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "La recreación muestra que quería negociar la paz. Melishi la encierra en la gema por orden de Honor. La escena deja sin ubicar la prisión.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Dalinar deduce que fue testigo de la captura. El Padre Tormenta dice que dejará de ocultar a Dalinar de Odium.",
+        "sourceIds": [
+          "primary304-wat-87"
+        ],
+        "id": "primary304-archive-87-stormfather",
+        "entryId": "spren-person-stormfather",
+        "value": "Dalinar deduce que fue testigo de la captura. El Padre Tormenta dice que dejará de ocultar a Dalinar de Odium.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan plantea el precedente de Sja-anat para explicar por qué la presencia de un Deshecho puede pasar inadvertida. No la identifica entre los presentes en la hondonada.",
+        "sourceIds": [
+          "primary304-wat-87"
+        ],
+        "id": "primary304-archive-87-sja",
+        "entryId": "spren-person-sja-anat",
+        "value": "Shallan plantea el precedente de Sja-anat para explicar por qué la presencia de un Deshecho puede pasar inadvertida. No la identifica entre los presentes en la hondonada.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Aparece con quienes observan la reunión de Garith y Shmone antes de que Melishi encierre a Mishram.",
+        "sourceIds": [
+          "primary304-wat-87"
+        ],
+        "id": "primary304-archive-87-kalak",
+        "entryId": "herald-kelek-puuli",
+        "value": "Aparece con quienes observan la reunión de Garith y Shmone antes de que Melishi encierre a Mishram.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-87"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Oye el eco de la voz del ave desde un pasillo de viviendas del piso treinta y dos. Advierte a Lift que no puede percibir el interior revestido de aluminio.",
+        "sourceIds": [
+          "primary304-wat-i13"
+        ],
+        "id": "primary304-archive-i13-sibling",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "Oye el eco de la voz del ave desde un pasillo de viviendas del piso treinta y dos. Advierte a Lift que no puede percibir el interior revestido de aluminio.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-interlude-13"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Toma forma de espada para que Lift entre por el suelo de piedra y la ayuda dentro del recinto.",
+        "sourceIds": [
+          "primary304-wat-i13"
+        ],
+        "id": "primary304-archive-i13-wyndle",
+        "entryId": "spren-person-wyndle",
+        "value": "Toma forma de espada para que Lift entre por el suelo de piedra y la ayuda dentro del recinto.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-interlude-13"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-14.xhtml. Odium llama a los intrusos ratas de Sja-anat en su pensamiento. El interludio conserva esa atribución sin señalar una aparición de ella.",
+        "sourceIds": [
+          "primary304-wat-i14"
+        ],
+        "id": "primary304-archive-i14-sja",
+        "entryId": "spren-person-sja-anat",
+        "value": "Odium llama a los intrusos ratas de Sja-anat en su pensamiento. El interludio conserva esa atribución sin señalar una aparición de ella.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-interlude-14"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-14.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Se manifiesta en Narak Tres mientras sus fuerzas conquistan la meseta. Los defensores derriban su forma corpórea. La narración describe su manifestación como temporal.",
+        "sourceIds": [
+          "primary304-wat-88"
+        ],
+        "id": "primary304-archive-88-yelig",
+        "entryId": "spren-person-yelig-nar",
+        "value": "Se manifiesta en Narak Tres mientras sus fuerzas conquistan la meseta. Los defensores derriban su forma corpórea. La narración describe su manifestación como temporal.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-88"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Le dice a Szeth que tiene seis Hojas de Honor y que, tras la muerte de Jezrien, ya no sirven de ancla al Juramento.",
+        "sourceIds": [
+          "primary304-wat-89"
+        ],
+        "id": "primary304-archive-89-nale",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Le dice a Szeth que tiene seis Hojas de Honor y que, tras la muerte de Jezrien, ya no sirven de ancla al Juramento.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Nale dice que las seis Hojas de Honor que lleva Szeth ya no están vinculadas a los Heraldos tras la muerte de Jezrien.",
+        "sourceIds": [
+          "primary304-wat-89"
+        ],
+        "id": "primary304-archive-89-jezrien",
+        "entryId": "herald-jezrien-vision",
+        "value": "Nale dice que las seis Hojas de Honor que lleva Szeth ya no están vinculadas a los Heraldos tras la muerte de Jezrien.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-89"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Confirma que se busca un sucesor de Jezrien. Defiende renovar el Juramento aunque no sabe qué habría ocurrido sin la tormenta eterna.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-nale",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Confirma que se busca un sucesor de Jezrien. Defiende renovar el Juramento aunque no sabe qué habría ocurrido sin la tormenta eterna.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Según Nale, Ishar promueve renovar el Juramento y considera a Szeth un posible sucesor de Jezrien.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-ishar",
+        "entryId": "herald-ishar-mentioned",
+        "value": "Según Nale, Ishar promueve renovar el Juramento y considera a Szeth un posible sucesor de Jezrien.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Elid y Nale afirman que el peregrinaje prepara a Szeth para ocupar el puesto que dejó Jezrien.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-jezrien",
+        "entryId": "herald-jezrien-vision",
+        "value": "Elid y Nale afirman que el peregrinaje prepara a Szeth para ocupar el puesto que dejó Jezrien.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Nale atribuye el Retorno de los Fusionados a que Taln se quebró. Syl discute si rehacer el Juramento detendría el Retorno con la tormenta eterna y la ruta cognitiva. Se conserva la afirmación como testimonio de Nale.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-taln",
+        "entryId": "herald-talenel",
+        "value": "Nale atribuye el Retorno de los Fusionados a que Taln se quebró. Syl discute si rehacer el Juramento detendría el Retorno con la tormenta eterna y la ruta cognitiva. Se conserva la afirmación como testimonio de Nale.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Habla con Szeth antes de que decida no combatir y le dice que ha estado pensando.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-highspren",
+        "entryId": "spren-person-szeth-highspren-rowi7",
+        "value": "Habla con Szeth antes de que decida no combatir y le dice que ha estado pensando.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Vienta recuerda el grito de Ethenia al hablar de la posibilidad de que muera un spren. El pasaje vincula la pérdida con el ataque sin mostrar el estado posterior de Ethenia.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-ethenia",
+        "entryId": "spren-person-ethenia-wat81",
+        "value": "Vienta recuerda el grito de Ethenia al hablar de la posibilidad de que muera un spren. El pasaje vincula la pérdida con el ataque sin mostrar el estado posterior de Ethenia.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Timbre recuerda un estanque de Cultivación y conjetura cómo pudo permanecer oculto el de Narak.",
+        "sourceIds": [
+          "primary304-wat-90"
+        ],
+        "id": "primary304-archive-90-timbre",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "Timbre recuerda un estanque de Cultivación y conjetura cómo pudo permanecer oculto el de Narak.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-90"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -27809,6 +28696,20 @@ window.ATLAS_DATA = {
       "revealedAt": {
         "bookId": "wat",
         "sceneId": "wat-chapter-62"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift recupera su ave junto al mismo cautivo, en la misma jaula y sala descritas en I-9.",
+      "sourceIds": [
+        "primary304-wat-i13"
+      ],
+      "id": "primary304-alias-zahel-parrot",
+      "from": "zahel-parrot-wat-i9",
+      "to": "red-bird-rowi5",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-13"
       }
     }
   ],
@@ -45263,6 +46164,141 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Taravangian enumera por nombre a sus tres nietas al observar lo sucedido en Kharbranth."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Navani identifica a la mujer y a su hijo dentro de la recreación.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-relationship-evac-son",
+      "from": "urithiru-evacuee-wat82",
+      "to": "urithiru-evacuee-son-wat82",
+      "kind": "parent",
+      "category": "family",
+      "label": "Madre → hijo",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Navani identifica a la mujer y a su hijo dentro de la recreación."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Navani identifica a la mujer y a su hijo dentro de la recreación."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Navani identifica a la mujer y a su hija dentro de la recreación.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-relationship-evac-daughter",
+      "from": "urithiru-evacuee-wat82",
+      "to": "urithiru-evacuee-daughter-wat82",
+      "kind": "parent",
+      "category": "family",
+      "label": "Madre → hija",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Navani identifica a la mujer y a su hija dentro de la recreación."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Navani identifica a la mujer y a su hija dentro de la recreación."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin propone intentarlo. Rlain toma su mano; ambos salen juntos de la recreación.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-relationship-renarin-rlain",
+      "from": "renarin",
+      "to": "shen",
+      "kind": "partner",
+      "category": "social",
+      "label": "Comienzan una relación",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Renarin propone intentarlo. Rlain toma su mano; ambos salen juntos de la recreación."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Renarin propone intentarlo. Rlain toma su mano; ambos salen juntos de la recreación."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin llama prima a Aesudan al recordar las reuniones sociales. El pasaje no precisa la rama del parentesco.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-relationship-renarin-aesudan",
+      "from": "renarin",
+      "to": "aesudan",
+      "kind": "cousin",
+      "category": "family",
+      "label": "Primos",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Renarin llama prima a Aesudan al recordar las reuniones sociales. El pasaje no precisa la rama del parentesco."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Renarin llama prima a Aesudan al recordar las reuniones sociales. El pasaje no precisa la rama del parentesco."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shmone y Garith explican que se veían en secreto desde hacía años y esperaban que su relación abriera un camino a la paz.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-relationship-garith-shmone",
+      "from": "garith-historical-wat80",
+      "to": "singer-envoy-wat85",
+      "kind": "partner",
+      "category": "social",
+      "label": "Pareja",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Shmone y Garith explican que se veían en secreto desde hacía años y esperaban que su relación abriera un camino a la paz."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Shmone y Garith explican que se veían en secreto desde hacía años y esperaban que su relación abriera un camino a la paz."
       }
     }
   ],
@@ -113560,6 +114596,1189 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Los escuderos acuden a Sigzil y lo siguen cuando vuelve al combate.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-81-squires",
+      "participants": [
+        "sigzil",
+        "fent-wat56",
+        "kalleb-wat81"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "Los escuderos acuden a Sigzil y lo siguen cuando vuelve al combate.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Los escuderos acuden a Sigzil y lo siguen cuando vuelve al combate.",
+        "pairs": [
+          [
+            "sigzil",
+            "fent-wat56"
+          ],
+          [
+            "sigzil",
+            "kalleb-wat81"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Sigzil encuentra a Leyten en la emboscada de Moash y trata de salvarlo.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-81-ambush",
+      "participants": [
+        "sigzil",
+        "leyten",
+        "moash"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conflict",
+      "summary": "Sigzil encuentra a Leyten en la emboscada de Moash y trata de salvarlo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sigzil encuentra a Leyten en la emboscada de Moash y trata de salvarlo.",
+        "pairs": [
+          [
+            "sigzil",
+            "leyten"
+          ],
+          [
+            "sigzil",
+            "moash"
+          ],
+          [
+            "leyten",
+            "moash"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Adolin prepara con Neziham la emboscada y aparta a Galante.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-81-chain",
+      "participants": [
+        "adolin",
+        "neziham-wat47",
+        "gallant"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "Adolin prepara con Neziham la emboscada y aparta a Galante.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Adolin prepara con Neziham la emboscada y aparta a Galante.",
+        "pairs": [
+          [
+            "adolin",
+            "neziham-wat47"
+          ],
+          [
+            "adolin",
+            "gallant"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. El Hermano y Navani se oyen brevemente. Navani y Dalinar prueban a adoptar otro papel y a cambiar de visión.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-82-test",
+      "participants": [
+        "navani",
+        "ob68-sibling-epigraph",
+        "dalinar",
+        "elhokar-son"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "El Hermano y Navani se oyen brevemente. Navani y Dalinar prueban a adoptar otro papel y a cambiar de visión.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Hermano y Navani se oyen brevemente. Navani y Dalinar prueban a adoptar otro papel y a cambiar de visión.",
+        "pairs": [
+          [
+            "navani",
+            "ob68-sibling-epigraph"
+          ],
+          [
+            "navani",
+            "dalinar"
+          ],
+          [
+            "navani",
+            "elhokar-son"
+          ],
+          [
+            "dalinar",
+            "elhokar-son"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Neziham acude al combate junto a Adolin antes de morir.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-82-fall",
+      "participants": [
+        "adolin",
+        "neziham-wat47"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conflict",
+      "summary": "Neziham acude al combate junto a Adolin antes de morir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Neziham acude al combate junto a Adolin antes de morir.",
+        "pairs": [
+          [
+            "adolin",
+            "neziham-wat47"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Después del duelo, varios portadores hablan con Szeth de la sucesión, el peregrinaje y los motivos de Tuko.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-83-duel",
+      "participants": [
+        "szeth",
+        "tuko-wat68",
+        "sivi-shin-wat57",
+        "pozen-wat53",
+        "moss-wat70"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "storyTime": {
+        "frame": "flashback",
+        "relationToStart": "before-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": 9.5,
+        "note": "Recuerdo de Szeth, nueve años y medio antes."
+      },
+      "type": "conflict",
+      "summary": "Después del duelo, varios portadores hablan con Szeth de la sucesión, el peregrinaje y los motivos de Tuko.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Después del duelo, varios portadores hablan con Szeth de la sucesión, el peregrinaje y los motivos de Tuko.",
+        "pairs": [
+          [
+            "szeth",
+            "tuko-wat68"
+          ],
+          [
+            "szeth",
+            "sivi-shin-wat57"
+          ],
+          [
+            "szeth",
+            "pozen-wat53"
+          ],
+          [
+            "szeth",
+            "moss-wat70"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Ash acompaña a Taln y se encara con los atacantes. El Heraldo se levanta ante Abidi.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-84-hospital",
+      "participants": [
+        "ash-thaylen-ob119",
+        "talenel",
+        "abidi-wat84"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conflict",
+      "summary": "Ash acompaña a Taln y se encara con los atacantes. El Heraldo se levanta ante Abidi.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ash acompaña a Taln y se encara con los atacantes. El Heraldo se levanta ante Abidi.",
+        "pairs": [
+          [
+            "ash-thaylen-ob119",
+            "talenel"
+          ],
+          [
+            "ash-thaylen-ob119",
+            "abidi-wat84"
+          ],
+          [
+            "talenel",
+            "abidi-wat84"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin oye los temores de Glys, conversa con Mishram y después se reúne con Rlain.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-84-visions",
+      "participants": [
+        "renarin",
+        "glys",
+        "ba-ado-mishram-ob80",
+        "shen"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "Renarin oye los temores de Glys, conversa con Mishram y después se reúne con Rlain.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Renarin oye los temores de Glys, conversa con Mishram y después se reúne con Rlain.",
+        "pairs": [
+          [
+            "renarin",
+            "glys"
+          ],
+          [
+            "renarin",
+            "ba-ado-mishram-ob80"
+          ],
+          [
+            "renarin",
+            "shen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Atienden la herida de Adolin y Rahel responde tras el hallazgo de Kushkam.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-85-rescue",
+      "participants": [
+        "adolin",
+        "may-aladar",
+        "rahel-wat39",
+        "hmask-wat42",
+        "gawx",
+        "kushkam-wat34"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "Atienden la herida de Adolin y Rahel responde tras el hallazgo de Kushkam.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Atienden la herida de Adolin y Rahel responde tras el hallazgo de Kushkam.",
+        "pairs": [
+          [
+            "adolin",
+            "may-aladar"
+          ],
+          [
+            "adolin",
+            "rahel-wat39"
+          ],
+          [
+            "adolin",
+            "hmask-wat42"
+          ],
+          [
+            "adolin",
+            "gawx"
+          ],
+          [
+            "kushkam-wat34",
+            "rahel-wat39"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Ash alcanza a hablarle a Adolin antes de cerrar los ojos junto a Taln.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-85-ash",
+      "participants": [
+        "adolin",
+        "ash-thaylen-ob119"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "Ash alcanza a hablarle a Adolin antes de cerrar los ojos junto a Taln.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ash alcanza a hablarle a Adolin antes de cerrar los ojos junto a Taln.",
+        "pairs": [
+          [
+            "adolin",
+            "ash-thaylen-ob119"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Dalinar guía a Navani y Gavinor hasta las conversaciones y la reunión nocturna dentro de la recreación.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-85-follow",
+      "participants": [
+        "dalinar",
+        "navani",
+        "elhokar-son"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "Dalinar guía a Navani y Gavinor hasta las conversaciones y la reunión nocturna dentro de la recreación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar guía a Navani y Gavinor hasta las conversaciones y la reunión nocturna dentro de la recreación.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "navani",
+            "elhokar-son"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. En el campamento Kaladin acompaña a Szeth, invita a cenar a Nale y escucha las dudas del altospren.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-86-camp",
+      "participants": [
+        "kaladin",
+        "szeth",
+        "syl",
+        "crescent-scar-stranger",
+        "szeth-highspren-rowi7"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "En el campamento Kaladin acompaña a Szeth, invita a cenar a Nale y escucha las dudas del altospren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "En el campamento Kaladin acompaña a Szeth, invita a cenar a Nale y escucha las dudas del altospren.",
+        "pairs": [
+          [
+            "kaladin",
+            "szeth"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "crescent-scar-stranger"
+          ],
+          [
+            "kaladin",
+            "szeth-highspren-rowi7"
+          ],
+          [
+            "syl",
+            "szeth-highspren-rowi7"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. El Viento habla de Nale y transmite a Kaladin recuerdos de las personas a las que ayudó.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-86-wind",
+      "participants": [
+        "kaladin",
+        "wat-wind-speaker",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "El Viento habla de Nale y transmite a Kaladin recuerdos de las personas a las que ayudó.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Viento habla de Nale y transmite a Kaladin recuerdos de las personas a las que ayudó.",
+        "pairs": [
+          [
+            "kaladin",
+            "wat-wind-speaker"
+          ],
+          [
+            "syl",
+            "wat-wind-speaker"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. El grupo reúne sus hallazgos sobre Mishram y acuerda seguir a Shallan a otra visión.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-86-search",
+      "participants": [
+        "shallan",
+        "renarin",
+        "shen",
+        "glys",
+        "tumi-row114"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "El grupo reúne sus hallazgos sobre Mishram y acuerda seguir a Shallan a otra visión.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El grupo reúne sus hallazgos sobre Mishram y acuerda seguir a Shallan a otra visión.",
+        "pairs": [
+          [
+            "shallan",
+            "renarin"
+          ],
+          [
+            "shallan",
+            "shen"
+          ],
+          [
+            "shallan",
+            "glys"
+          ],
+          [
+            "shallan",
+            "tumi-row114"
+          ],
+          [
+            "renarin",
+            "shen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. El Padre Tormenta se dirige a Dalinar. Los otros observadores discuten cómo llegar a la prisión antes de que los descubra Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-87-spiritual",
+      "participants": [
+        "dalinar",
+        "navani",
+        "stormfather",
+        "odium",
+        "renarin",
+        "shen",
+        "shallan"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Séptimo día."
+      },
+      "type": "conversation",
+      "summary": "El Padre Tormenta se dirige a Dalinar. Los otros observadores discuten cómo llegar a la prisión antes de que los descubra Odium.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Padre Tormenta se dirige a Dalinar. Los otros observadores discuten cómo llegar a la prisión antes de que los descubra Odium.",
+        "pairs": [
+          [
+            "dalinar",
+            "navani"
+          ],
+          [
+            "dalinar",
+            "stormfather"
+          ],
+          [
+            "dalinar",
+            "odium"
+          ],
+          [
+            "renarin",
+            "shen"
+          ],
+          [
+            "shallan",
+            "renarin"
+          ],
+          [
+            "shallan",
+            "shen"
+          ],
+          [
+            "shallan",
+            "odium"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. El Hermano y Wyndle ayudan en la búsqueda. Lift rescata al ave y vuelve más tarde a hablar con Zahel.",
+      "sourceIds": [
+        "primary304-wat-i13"
+      ],
+      "id": "primary304-i13-rescue",
+      "participants": [
+        "lift",
+        "ob68-sibling-epigraph",
+        "wyndle",
+        "red-bird-rowi5",
+        "zahel-captor-thugs-wat-i13",
+        "zahel-captor-woman-wat-i13",
+        "zahel"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-13"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Entre el séptimo y el octavo día."
+      },
+      "type": "conversation",
+      "summary": "El Hermano y Wyndle ayudan en la búsqueda. Lift rescata al ave y vuelve más tarde a hablar con Zahel.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Hermano y Wyndle ayudan en la búsqueda. Lift rescata al ave y vuelve más tarde a hablar con Zahel.",
+        "pairs": [
+          [
+            "lift",
+            "ob68-sibling-epigraph"
+          ],
+          [
+            "lift",
+            "wyndle"
+          ],
+          [
+            "lift",
+            "red-bird-rowi5"
+          ],
+          [
+            "lift",
+            "zahel-captor-thugs-wat-i13"
+          ],
+          [
+            "lift",
+            "zahel-captor-woman-wat-i13"
+          ],
+          [
+            "lift",
+            "zahel"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Winn y Sigzil hablan de las bajas y de la escasez de luz tormentosa.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-88-loss",
+      "participants": [
+        "sigzil",
+        "winn-wat74",
+        "sigzil-spren-row19"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Winn y Sigzil hablan de las bajas y de la escasez de luz tormentosa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Winn y Sigzil hablan de las bajas y de la escasez de luz tormentosa.",
+        "pairs": [
+          [
+            "sigzil",
+            "winn-wat74"
+          ],
+          [
+            "sigzil",
+            "sigzil-spren-row19"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Gavinor habla con Dalinar mientras se deshace la recreación. Odium interviene y los separa.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-88-feast",
+      "participants": [
+        "dalinar",
+        "elhokar-son",
+        "odium"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Gavinor habla con Dalinar mientras se deshace la recreación. Odium interviene y los separa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Gavinor habla con Dalinar mientras se deshace la recreación. Odium interviene y los separa.",
+        "pairs": [
+          [
+            "dalinar",
+            "elhokar-son"
+          ],
+          [
+            "dalinar",
+            "odium"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Nale habla del peregrinaje y de las Hojas de Honor. Kaladin cuestiona su forma de juzgar las decisiones.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-89-dustbringer",
+      "participants": [
+        "kaladin",
+        "crescent-scar-stranger",
+        "szeth"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Nale habla del peregrinaje y de las Hojas de Honor. Kaladin cuestiona su forma de juzgar las decisiones.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Nale habla del peregrinaje y de las Hojas de Honor. Kaladin cuestiona su forma de juzgar las decisiones.",
+        "pairs": [
+          [
+            "kaladin",
+            "crescent-scar-stranger"
+          ],
+          [
+            "szeth",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Venli señala la dirección del sonido. Los presentes discuten el peligro y los Cinco votan seguir.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-89-listeners",
+      "participants": [
+        "venli",
+        "thude",
+        "bila",
+        "moash-duel-fused",
+        "kivor-wat89"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Venli señala la dirección del sonido. Los presentes discuten el peligro y los Cinco votan seguir.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli señala la dirección del sonido. Los presentes discuten el peligro y los Cinco votan seguir.",
+        "pairs": [
+          [
+            "venli",
+            "thude"
+          ],
+          [
+            "venli",
+            "bila"
+          ],
+          [
+            "venli",
+            "moash-duel-fused"
+          ],
+          [
+            "kivor-wat89",
+            "thude"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Odium enfrenta a Jasnah en el templo y afirma que se ocupará personalmente de la ciudad.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-89-jasnah",
+      "participants": [
+        "jasnah",
+        "taravangian"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Odium enfrenta a Jasnah en el templo y afirma que se ocupará personalmente de la ciudad.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Odium enfrenta a Jasnah en el templo y afirma que se ocupará personalmente de la ciudad.",
+        "pairs": [
+          [
+            "jasnah",
+            "taravangian"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth habla con Elid. Después pregunta a Nale por el propósito del peregrinaje.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-90-elid",
+      "participants": [
+        "szeth",
+        "elid-wat24",
+        "szeth-highspren-rowi7",
+        "crescent-scar-stranger",
+        "kaladin",
+        "syl"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Szeth habla con Elid. Después pregunta a Nale por el propósito del peregrinaje.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth habla con Elid. Después pregunta a Nale por el propósito del peregrinaje.",
+        "pairs": [
+          [
+            "szeth",
+            "elid-wat24"
+          ],
+          [
+            "szeth",
+            "szeth-highspren-rowi7"
+          ],
+          [
+            "szeth",
+            "crescent-scar-stranger"
+          ],
+          [
+            "kaladin",
+            "crescent-scar-stranger"
+          ],
+          [
+            "syl",
+            "crescent-scar-stranger"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Sigzil debate los costes con Balivar y Chella y pide a Winn una estimación.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-90-command",
+      "participants": [
+        "sigzil",
+        "winn-wat74",
+        "balivar-wat90",
+        "chella-wat90"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Sigzil debate los costes con Balivar y Chella y pide a Winn una estimación.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sigzil debate los costes con Balivar y Chella y pide a Winn una estimación.",
+        "pairs": [
+          [
+            "sigzil",
+            "winn-wat74"
+          ],
+          [
+            "sigzil",
+            "balivar-wat90"
+          ],
+          [
+            "sigzil",
+            "chella-wat90"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Vienta le cuenta a Sigzil que aún oye el grito de Ethenia.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-90-vienta",
+      "participants": [
+        "sigzil",
+        "sigzil-spren-row19"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Vienta le cuenta a Sigzil que aún oye el grito de Ethenia.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Vienta le cuenta a Sigzil que aún oye el grito de Ethenia.",
+        "pairs": [
+          [
+            "sigzil",
+            "sigzil-spren-row19"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Hablan del estanque. Bila aparta a Thude cuando intenta tocarlo.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-90-pond",
+      "participants": [
+        "venli",
+        "thude",
+        "bila"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Octavo día."
+      },
+      "type": "conversation",
+      "summary": "Hablan del estanque. Bila aparta a Thude cuando intenta tocarlo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Hablan del estanque. Bila aparta a Thude cuando intenta tocarlo.",
+        "pairs": [
+          [
+            "venli",
+            "thude"
+          ],
+          [
+            "venli",
+            "bila"
+          ],
+          [
+            "thude",
+            "bila"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -167396,6 +169615,966 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Dalinar identifica a Melishi como Forjador de Vínculos de la torre durante la evacuación. Navani interpreta su papel para escuchar a los Radiantes.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. La voz reconoce que todavía hay cosas que no consigue aprender tras diez mil años.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-fact-wat-seventh-day-epigraph-voice-epigraph-81",
+      "characterId": "wat-seventh-day-epigraph-voice",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "kind": "background",
+      "text": "La voz reconoce que todavía hay cosas que no consigue aprender tras diez mil años.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Escudero de Sigzil que lo auxilia junto a Fent durante el ataque a Narak Principal.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-fact-kalleb-wat81-kalleb-wat81-intro",
+      "characterId": "kalleb-wat81",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "kind": "background",
+      "text": "Escudero de Sigzil que lo auxilia junto a Fent durante el ataque a Narak Principal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Spren de Leyten. Él pronuncia su nombre tras el ataque de Moash.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-fact-ethenia-wat81-ethenia-wat81-intro",
+      "characterId": "ethenia-wat81",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "kind": "background",
+      "text": "Spren de Leyten. Él pronuncia su nombre tras el ataque de Moash.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. La voz reflexiona sobre la dificultad de encontrar el grado adecuado de firmeza.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-fact-wat-seventh-day-epigraph-voice-epigraph-82",
+      "characterId": "wat-seventh-day-epigraph-voice",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "kind": "background",
+      "text": "La voz reflexiona sobre la dificultad de encontrar el grado adecuado de firmeza.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Evacuada cuyo papel adopta Navani al reconocer similitudes con su propia vida. Tiene un hijo y una hija.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-fact-urithiru-evacuee-wat82-urithiru-evacuee-wat82-intro",
+      "characterId": "urithiru-evacuee-wat82",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "kind": "background",
+      "text": "Evacuada cuyo papel adopta Navani al reconocer similitudes con su propia vida. Tiene un hijo y una hija.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Hijo de la mujer que Navani interpreta en la recreación.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-fact-urithiru-evacuee-son-wat82-urithiru-evacuee-son-wat82-intro",
+      "characterId": "urithiru-evacuee-son-wat82",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "kind": "background",
+      "text": "Hijo de la mujer que Navani interpreta en la recreación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Hija de la mujer que Navani interpreta en la recreación.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-fact-urithiru-evacuee-daughter-wat82-urithiru-evacuee-daughter-wat82-intro",
+      "characterId": "urithiru-evacuee-daughter-wat82",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "kind": "background",
+      "text": "Hija de la mujer que Navani interpreta en la recreación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Portador de la Hoja de Honor del Danzante del Filo que asiste al duelo.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-fact-dulo-wat83-dulo-wat83-intro",
+      "characterId": "dulo-wat83",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Portador de la Hoja de Honor del Danzante del Filo que asiste al duelo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Portadora de la Hoja de Honor de la Portadora del Polvo en la época del duelo.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-fact-gearil-wat83-gearil-wat83-intro",
+      "characterId": "gearil-wat83",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Portadora de la Hoja de Honor de la Portadora del Polvo en la época del duelo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Atribuye a Tuko planes de rebelión y dice que ocultó sus motivos a Szeth. El relato conserva que es la versión de Sivi.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-fact-sivi-shin-wat57-83-tuko",
+      "characterId": "sivi-shin-wat57",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Atribuye a Tuko planes de rebelión y dice que ocultó sus motivos a Szeth. El relato conserva que es la versión de Sivi.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth piensa que lleva más de cinco años sin ver a su hermana al hablar con Sivi.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-fact-elid-wat24-83-elid",
+      "characterId": "elid-wat24",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Szeth piensa que lleva más de cinco años sin ver a su hermana al hablar con Sivi.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. La Voz llama a Szeth a Ayabiza y menciona una cueva sagrada. El viaje todavía no ocurre en este capítulo.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-fact-szeth-83-ayabiza",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "La Voz llama a Szeth a Ayabiza y menciona una cueva sagrada. El viaje todavía no ocurre en este capítulo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXVIII.xhtml. Tronador nombrado junto a Kai-garnis y Yushah en la lámina XVIII.",
+      "sourceIds": [
+        "primary304-wat-plate-xviii"
+      ],
+      "id": "primary304-fact-terushal-wat-plate-xviii-terushal-wat-plate-xviii-intro",
+      "characterId": "terushal-wat-plate-xviii",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Tronador nombrado junto a Kai-garnis y Yushah en la lámina XVIII.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXVIII.xhtml. Figura entre los tres tronadores nombrados en la lámina XVIII, que se basa en descripciones oculares.",
+      "sourceIds": [
+        "primary304-wat-plate-xviii"
+      ],
+      "id": "primary304-fact-kai-garnis-ob117-83-illustration",
+      "characterId": "kai-garnis-ob117",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Figura entre los tres tronadores nombrados en la lámina XVIII, que se basa en descripciones oculares.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXVIII.xhtml. Figura entre los tres tronadores nombrados en la lámina XVIII, que se basa en descripciones oculares.",
+      "sourceIds": [
+        "primary304-wat-plate-xviii"
+      ],
+      "id": "primary304-fact-yushah-ob117-83-yushah-illustration",
+      "characterId": "yushah-ob117",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "kind": "background",
+      "text": "Figura entre los tres tronadores nombrados en la lámina XVIII, que se basa en descripciones oculares.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. La voz admite que en su relación alternó entre agobiar a su interlocutor e implicarse demasiado poco.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-fact-wat-seventh-day-epigraph-voice-epigraph-84",
+      "characterId": "wat-seventh-day-epigraph-voice",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "kind": "background",
+      "text": "La voz admite que en su relación alternó entre agobiar a su interlocutor e implicarse demasiado poco.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Fusionado que irrumpe en la enfermería de Azimir y ordena matar a los heridos.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-fact-abidi-wat84-abidi-wat84-intro",
+      "characterId": "abidi-wat84",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "kind": "background",
+      "text": "Fusionado que irrumpe en la enfermería de Azimir y ordena matar a los heridos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Rlain dice que trató de llamar la atención de Harvo la primera vez que probó la forma carnal.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-fact-shen-84-harvo",
+      "characterId": "shen",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "kind": "background",
+      "text": "Rlain dice que trató de llamar la atención de Harvo la primera vez que probó la forma carnal.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Rlain le cuenta a Renarin que se sintió atraído por Harvo. No señala que fueran pareja.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-fact-harvo-wat79-84-rlain",
+      "characterId": "harvo-wat79",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "kind": "background",
+      "text": "Rlain le cuenta a Renarin que se sintió atraído por Harvo. No señala que fueran pareja.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin recuerda que su prima Aesudan lo sentaba junto a otras personas en reuniones sociales.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-fact-aesudan-84-cousin",
+      "characterId": "aesudan",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "kind": "background",
+      "text": "Renarin recuerda que su prima Aesudan lo sentaba junto a otras personas en reuniones sociales.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin recuerda un consejo que le dio Zahel durante su entrenamiento.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-fact-zahel-84-advice",
+      "characterId": "zahel",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-84"
+      },
+      "kind": "background",
+      "text": "Renarin recuerda un consejo que le dio Zahel durante su entrenamiento.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. La voz reconoce que sus propias mentiras terminan por traicionarla.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-fact-wat-seventh-day-epigraph-voice-epigraph-85",
+      "characterId": "wat-seventh-day-epigraph-voice",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "kind": "background",
+      "text": "La voz reconoce que sus propias mentiras terminan por traicionarla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin la encuentra sangrando y apoyada en Taln. Ella dice que no lo dejará ir solo y queda inmóvil.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-fact-ash-thaylen-ob119-85-breach",
+      "characterId": "ash-thaylen-ob119",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "kind": "background",
+      "text": "Adolin la encuentra sangrando y apoyada en Taln. Ella dice que no lo dejará ir solo y queda inmóvil.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Participa en el parlamento de la Falsa Desolación y habla con Garith. El pasaje todavía no da su nombre.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-fact-singer-envoy-wat85-singer-envoy-wat85-intro",
+      "characterId": "singer-envoy-wat85",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "kind": "background",
+      "text": "Participa en el parlamento de la Falsa Desolación y habla con Garith. El pasaje todavía no da su nombre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Negocia tierras con los cantores. Dalinar y Navani lo presentan como el Corredor del Viento que han seguido desde Urithiru.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-fact-garith-historical-wat80-85-parley",
+      "characterId": "garith-historical-wat80",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "kind": "background",
+      "text": "Negocia tierras con los cantores. Dalinar y Navani lo presentan como el Corredor del Viento que han seguido desde Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Sostiene que Honor ha dejado de intervenir. Prepara con otros un plan contra Garith.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-fact-melishi-85-parley",
+      "characterId": "melishi",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "kind": "background",
+      "text": "Sostiene que Honor ha dejado de intervenir. Prepara con otros un plan contra Garith.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. La voz se disculpa y valora haber intentado mantener la relación.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-fact-wat-seventh-day-epigraph-voice-epigraph-86",
+      "characterId": "wat-seventh-day-epigraph-voice",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "kind": "background",
+      "text": "La voz se disculpa y valora haber intentado mantener la relación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Syl lo identifica como el altospren de Nale. La conversación lo menciona sin mostrarlo.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-fact-highspren-121-wat86-highspren-121-wat86-intro",
+      "characterId": "highspren-121-wat86",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "kind": "background",
+      "text": "Syl lo identifica como el altospren de Nale. La conversación lo menciona sin mostrarlo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin recuerda que mató a un oficial para proteger a unos civiles y luego se alistó con otro ejército. Lo usa como ejemplo al hablar con Szeth.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-fact-goshel-86-goshel",
+      "characterId": "goshel",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "kind": "background",
+      "text": "Kaladin recuerda que mató a un oficial para proteger a unos civiles y luego se alistó con otro ejército. Lo usa como ejemplo al hablar con Szeth.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Busca el recuerdo del día en que mató a su madre porque cree que Mishram pudo intentar mostrarle algo.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-fact-shallan-86-memory",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-86"
+      },
+      "kind": "background",
+      "text": "Busca el recuerdo del día en que mató a su madre porque cree que Mishram pudo intentar mostrarle algo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. La voz se despide y duda de que ambos vuelvan a verse.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-fact-wat-seventh-day-epigraph-voice-epigraph-87",
+      "characterId": "wat-seventh-day-epigraph-voice",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "kind": "background",
+      "text": "La voz se despide y duda de que ambos vuelvan a verse.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Se opone a Melishi tras la captura de Mishram y ve lo que le ocurre a Shmone. Honor muestra después una visión de destrucción.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-fact-garith-historical-wat80-87-capture",
+      "characterId": "garith-historical-wat80",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "kind": "background",
+      "text": "Se opone a Melishi tras la captura de Mishram y ve lo que le ocurre a Shmone. Honor muestra después una visión de destrucción.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. En la recreación, Honor le ordena actuar y Melishi atrae a Mishram a una gema mediante una Conexión.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-fact-melishi-87-capture",
+      "characterId": "melishi",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "kind": "background",
+      "text": "En la recreación, Honor le ordena actuar y Melishi atrae a Mishram a una gema mediante una Conexión.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Pierde la forma funesta en el momento del encierro de Ba-Ado-Mishram y queda en brazos de Garith.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-fact-singer-envoy-wat85-87-forms",
+      "characterId": "singer-envoy-wat85",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "kind": "background",
+      "text": "Pierde la forma funesta en el momento del encierro de Ba-Ado-Mishram y queda en brazos de Garith.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Interpreta los hechos de la hondonada y la visión posterior como parte de lo que empujó a abandonar sus juramentos a Garith y a muchos Radiantes.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-fact-dalinar-87-recreance",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-87"
+      },
+      "kind": "background",
+      "text": "Interpreta los hechos de la hondonada y la visión posterior como parte de lo que empujó a abandonar sus juramentos a Garith y a muchos Radiantes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Entra con dos matones. Lift supone que trabaja con el hombre que la capturó. Su nombre queda abierto.",
+      "sourceIds": [
+        "primary304-wat-i13"
+      ],
+      "id": "primary304-fact-zahel-captor-woman-wat-i13-zahel-captor-woman-wat-i13-intro",
+      "characterId": "zahel-captor-woman-wat-i13",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-13"
+      },
+      "kind": "background",
+      "text": "Entra con dos matones. Lift supone que trabaja con el hombre que la capturó. Su nombre queda abierto.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Acompañan a la mujer de los anillos e intentan apresar a Lift.",
+      "sourceIds": [
+        "primary304-wat-i13"
+      ],
+      "id": "primary304-fact-zahel-captor-thugs-wat-i13-zahel-captor-thugs-wat-i13-intro",
+      "characterId": "zahel-captor-thugs-wat-i13",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-13"
+      },
+      "kind": "background",
+      "text": "Acompañan a la mujer de los anillos e intentan apresar a Lift.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift lo reconoce encadenado en la habitación revestida de aluminio que el Hermano ubica en Urithiru. Después lo visita en las salas médicas.",
+      "sourceIds": [
+        "primary304-wat-i13"
+      ],
+      "id": "primary304-fact-zahel-i13-cell",
+      "characterId": "zahel",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-13"
+      },
+      "kind": "background",
+      "text": "Lift lo reconoce encadenado en la habitación revestida de aluminio que el Hermano ubica en Urithiru. Después lo visita en las salas médicas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Hace de doble de Navani con una ilusión preparada por Sagaz durante la ausencia de la reina.",
+      "sourceIds": [
+        "primary304-wat-i13"
+      ],
+      "id": "primary304-fact-lift-i13-disguise",
+      "characterId": "lift",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-13"
+      },
+      "kind": "background",
+      "text": "Hace de doble de Navani con una ilusión preparada por Sagaz durante la ausencia de la reina.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-14.xhtml. Odium piensa que el futuro de Dalinar está emborronado. Quiere doblegarlo e incorporarlo a sus planes.",
+      "sourceIds": [
+        "primary304-wat-i14"
+      ],
+      "id": "primary304-fact-taravangian-i14-dalinar",
+      "characterId": "taravangian",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-14"
+      },
+      "kind": "background",
+      "text": "Odium piensa que el futuro de Dalinar está emborronado. Quiere doblegarlo e incorporarlo a sus planes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-14.xhtml. Según Odium, Cultivación ha dejado de intentar persuadirlo después de lo ocurrido en Kharbranth.",
+      "sourceIds": [
+        "primary304-wat-i14"
+      ],
+      "id": "primary304-fact-cultivation-i14-cultivation",
+      "characterId": "cultivation",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-interlude-14"
+      },
+      "kind": "background",
+      "text": "Según Odium, Cultivación ha dejado de intentar persuadirlo después de lo ocurrido en Kharbranth.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. El Ritmo de la Guerra, primera coda, de Navani Kholin. Navani revisa los límites de su propia explicación de la antiluz.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-fact-navani-epigraph-88",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "kind": "background",
+      "text": "El Ritmo de la Guerra, primera coda, de Navani Kholin. Navani revisa los límites de su propia explicación de la antiluz.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Miembro de la élite de Dalinar cuyo papel adopta durante la recreación del banquete de Gavilar.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-fact-rortel-wat88-rortel-wat88-intro",
+      "characterId": "rortel-wat88",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "kind": "background",
+      "text": "Miembro de la élite de Dalinar cuyo papel adopta durante la recreación del banquete de Gavilar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Dalinar recuerda que Rortel murió durante uno de los primeros asaltos a mesetas. La recreación del banquete corresponde a una época anterior.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-fact-rortel-wat88-88-death",
+      "characterId": "rortel-wat88",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "kind": "background",
+      "text": "Dalinar recuerda que Rortel murió durante uno de los primeros asaltos a mesetas. La recreación del banquete corresponde a una época anterior.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. En la recreación del banquete, Malan forma parte de la Guardia de Cobalto y habla con quien cree que es Rortel.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-fact-malan-88-guard",
+      "characterId": "malan",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "kind": "background",
+      "text": "En la recreación del banquete, Malan forma parte de la Guardia de Cobalto y habla con quien cree que es Rortel.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Revive la noche del asesinato de su hermano desde la recreación y se enfrenta a su propia conducta durante la fiesta.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-fact-dalinar-88-gavilar",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-88"
+      },
+      "kind": "background",
+      "text": "Revive la noche del asesinato de su hermano desde la recreación y se enfrenta a su propia conducta durante la fiesta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. El Ritmo de la Guerra, primera coda, de Navani Kholin. Navani distingue la oposición filosófica de lo que ocurre entre luz y antiluz en física.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-fact-navani-epigraph-89",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "kind": "background",
+      "text": "El Ritmo de la Guerra, primera coda, de Navani Kholin. Navani distingue la oposición filosófica de lo que ocurre entre luz y antiluz en física.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Integrante reciente de los Cinco. Viste la forma diestra.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-fact-estel-wat89-estel-wat89-intro",
+      "characterId": "estel-wat89",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "kind": "background",
+      "text": "Integrante reciente de los Cinco. Viste la forma diestra.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Integrante de los Cinco que insiste en someter a votación la marcha.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-fact-kivor-wat89-kivor-wat89-intro",
+      "characterId": "kivor-wat89",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "kind": "background",
+      "text": "Integrante de los Cinco que insiste en someter a votación la marcha.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Jasnah y Fen llegan a un acuerdo. Los Radiantes parten a las Llanuras Quebradas.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-fact-fen-89-reinforcements",
+      "characterId": "fen",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "kind": "background",
+      "text": "Jasnah y Fen llegan a un acuerdo. Los Radiantes parten a las Llanuras Quebradas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Figura recordada por Jasnah al pensar en la Estabilidad de Crzmak y en la formación de la coalición thayleña.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-fact-crzmak-wat89-crzmak-wat89-intro",
+      "characterId": "crzmak-wat89",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "kind": "background",
+      "text": "Figura recordada por Jasnah al pensar en la Estabilidad de Crzmak y en la formación de la coalición thayleña.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Envía a Marfil a escuchar lo que se dice y reconoce el rostro de Taravangian en la manifestación que la visita.",
+      "sourceIds": [
+        "primary304-wat-89"
+      ],
+      "id": "primary304-fact-jasnah-89-thaylen",
+      "characterId": "jasnah",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-89"
+      },
+      "kind": "background",
+      "text": "Envía a Marfil a escuchar lo que se dice y reconoce el rostro de Taravangian en la manifestación que la visita.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. El Ritmo de la Guerra, primera coda, de Navani Kholin. Navani recurre a los números negativos y a su utilidad como analogía.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-navani-epigraph-90",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "El Ritmo de la Guerra, primera coda, de Navani Kholin. Navani recurre a los números negativos y a su utilidad como analogía.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Navani menciona en la coda a la mujer que desarrolló los números negativos sin identificarla en el epígrafe.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-negative-numbers-mathematician-wat90-negative-numbers-mathematician-wat90-intro",
+      "characterId": "negative-numbers-mathematician-wat90",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Navani menciona en la coda a la mujer que desarrolló los números negativos sin identificarla en el epígrafe.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Le cuenta a Szeth que ganó su propia hoja después de su marcha. Dice que la Voz la tomó y su figura se desvanece.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-elid-wat24-90-blade",
+      "characterId": "elid-wat24",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Le cuenta a Szeth que ganó su propia hoja después de su marcha. Dice que la Voz la tomó y su figura se desvanece.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Elid le dice que buscan a alguien que ocupe el lugar de Jezrien. Nale confirma el propósito del peregrinaje.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-szeth-90-herald",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Elid le dice que buscan a alguien que ocupe el lugar de Jezrien. Nale confirma el propósito del peregrinaje.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Mando de la defensa de Narak que interviene en la reunión de la mesa.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-balivar-wat90-balivar-wat90-intro",
+      "characterId": "balivar-wat90",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Mando de la defensa de Narak que interviene en la reunión de la mesa.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Danzante del Filo que debate con Sigzil las bajas y las reservas. La edición usa también Challa una vez en esta conversación.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-chella-wat90-chella-wat90-intro",
+      "characterId": "chella-wat90",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Danzante del Filo que debate con Sigzil las bajas y las reservas. La edición usa también Challa una vez en esta conversación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Sigzil recuerda que Hoid fue su maestro y trató de enseñarle filosofía.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-wit-90-sigzil",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Sigzil recuerda que Hoid fue su maestro y trató de enseñarle filosofía.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Compara el estanque con la perpendicularidad de Cultivación que le describe Timbre. Deduce que el que han hallado es el de Odium por su ocultación y por las fuerzas que lo protegen.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-fact-venli-90-pool",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "kind": "background",
+      "text": "Compara el estanque con la perpendicularidad de Cultivación que le describe Timbre. Deduce que el que han hallado es el de Odium por su ocultación y por las fuerzas que lo protegen.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -170305,6 +173484,10 @@ window.ATLAS_DATA = {
         {
           "revision": 303,
           "notes": "Se registran la relación de Neturo y Sivi, las hermanas de Zeenid, la familia de Dyel y las tres nietas de Taravangian. Dova conserva «tía» como tratamiento de Gavinor. Se deja pendiente la identidad y filiación precisa del hijo al que se refiere Hmask."
+        },
+        {
+          "revision": 304,
+          "notes": "Se añaden los hijos de la evacuada de Urithiru y se registra la conversación de los hermanos Szeth y Elid con el relato sobre sus padres. Se anota el trato de prima que Renarin da a Aesudan, con la vía de parentesco por confirmar."
         }
       ]
     }
@@ -174211,6 +177394,114 @@ window.ATLAS_DATA = {
         "Leyten cuenta que Gabaron murió dos carreras después por un fallo de la armadura."
       ],
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Los Danzantes del Filo encuentran a Sigzil intentando auxiliar a Leyten, que ya ha muerto.",
+      "sourceIds": [
+        "primary304-wat-81"
+      ],
+      "id": "primary304-life-leyten",
+      "characterId": "leyten",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-81"
+      },
+      "notes": [
+        "Los Danzantes del Filo encuentran a Sigzil intentando auxiliar a Leyten, que ya ha muerto."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. El tronador aplasta a Neziham y rompe la cadena.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-life-neziham",
+      "characterId": "neziham-wat47",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-82"
+      },
+      "notes": [
+        "El tronador aplasta a Neziham y rompe la cadena."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth sostiene el cadáver de Tuko y luego lo deposita sobre el retrato de Yesoran-hijo-Dios.",
+      "sourceIds": [
+        "primary304-wat-83"
+      ],
+      "id": "primary304-life-tuko",
+      "characterId": "tuko-wat68",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-83"
+      },
+      "notes": [
+        "Szeth sostiene el cadáver de Tuko y luego lo deposita sobre el retrato de Yesoran-hijo-Dios."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra el cuerpo de Taln junto a la brecha. La narración lo da por muerto en esta batalla.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-life-taln",
+      "characterId": "talenel",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-85"
+      },
+      "notes": [
+        "Adolin encuentra el cuerpo de Taln junto a la brecha. La narración lo da por muerto en esta batalla."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Elid dice a Szeth que su madre murió de tumores y que estuvo a su lado.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-life-zeenid",
+      "characterId": "zeenid-wat27",
+      "state": "reported-dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "notes": [
+        "Elid dice a Szeth que su madre murió de tumores y que estuvo a su lado."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Elid le dice a Szeth que su padre está muerto y que lo tomó la Voz. Su relato está pendiente de corroboración.",
+      "sourceIds": [
+        "primary304-wat-90"
+      ],
+      "id": "primary304-life-neturo",
+      "characterId": "neturo",
+      "state": "reported-dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-90"
+      },
+      "notes": [
+        "Elid le dice a Szeth que su padre está muerto y que lo tomó la Voz. Su relato está pendiente de corroboración."
+      ],
+      "supersedes": []
     }
   ],
   "bookId": "wok",
@@ -174256,7 +177547,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 303,
+  "revision": 304,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -179407,6 +182698,102 @@ window.ATLAS_DATA = {
       "label": "Capítulo 80 · Vemos el futuro",
       "part": "wat-day-7",
       "source": "primary303-wat-80"
+    },
+    {
+      "id": "wat-chapter-81",
+      "bookId": "wat",
+      "chapter": 81,
+      "label": "Capítulo 81 · El erudito con lanza",
+      "part": "wat-day-7",
+      "source": "primary304-wat-81"
+    },
+    {
+      "id": "wat-chapter-82",
+      "bookId": "wat",
+      "chapter": 82,
+      "label": "Capítulo 82 · El principal propósito de la ciencia",
+      "part": "wat-day-7",
+      "source": "primary304-wat-82"
+    },
+    {
+      "id": "wat-chapter-83",
+      "bookId": "wat",
+      "chapter": 83,
+      "label": "Capítulo 83 · Hoja a sueldo",
+      "part": "wat-day-7",
+      "source": "primary304-wat-83",
+      "flashback": true,
+      "narrativeFrame": "flashback"
+    },
+    {
+      "id": "wat-chapter-84",
+      "bookId": "wat",
+      "chapter": 84,
+      "label": "Capítulo 84 · A por los rotos",
+      "part": "wat-day-7",
+      "source": "primary304-wat-84"
+    },
+    {
+      "id": "wat-chapter-85",
+      "bookId": "wat",
+      "chapter": 85,
+      "label": "Capítulo 85 · Parlamento",
+      "part": "wat-day-7",
+      "source": "primary304-wat-85"
+    },
+    {
+      "id": "wat-chapter-86",
+      "bookId": "wat",
+      "chapter": 86,
+      "label": "Capítulo 86 · Río de luz",
+      "part": "wat-day-7",
+      "source": "primary304-wat-86"
+    },
+    {
+      "id": "wat-chapter-87",
+      "bookId": "wat",
+      "chapter": 87,
+      "label": "Capítulo 87 · Amor y traición",
+      "part": "wat-day-7",
+      "source": "primary304-wat-87"
+    },
+    {
+      "id": "wat-interlude-13",
+      "bookId": "wat",
+      "label": "Interludio I-13 · Lift",
+      "part": "wat-interludes-13-14",
+      "source": "primary304-wat-i13"
+    },
+    {
+      "id": "wat-interlude-14",
+      "bookId": "wat",
+      "label": "Interludio I-14 · El futuro correcto",
+      "part": "wat-interludes-13-14",
+      "source": "primary304-wat-i14"
+    },
+    {
+      "id": "wat-chapter-88",
+      "bookId": "wat",
+      "chapter": 88,
+      "label": "Capítulo 88 · El ciclo de la guerra",
+      "part": "wat-day-8",
+      "source": "primary304-wat-88"
+    },
+    {
+      "id": "wat-chapter-89",
+      "bookId": "wat",
+      "chapter": 89,
+      "label": "Capítulo 89 · Revelaciones",
+      "part": "wat-day-8",
+      "source": "primary304-wat-89"
+    },
+    {
+      "id": "wat-chapter-90",
+      "bookId": "wat",
+      "chapter": 90,
+      "label": "Capítulo 90 · Una vela ante la tempestad",
+      "part": "wat-day-8",
+      "source": "primary304-wat-90"
     }
   ],
   "experiencePresentation": {
@@ -184030,6 +187417,978 @@ window.ATLAS_DATA = {
       "experiencedPlace": "Reino Espiritual · Explanada de Urithiru antes de la Traición",
       "notes": [
         "Los Forjadores y Gavinor siguen a los evacuados. Dalinar desplaza a Navani al papel de Melishi durante la discusión."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Navani contacta con el Hermano desde la visión y, junto a Dalinar y Gav, ensaya cómo cambiar de perspectiva.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-experience-82-platform-navani",
+      "characterId": "navani",
+      "sceneId": "wat-chapter-82",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Plataforma de evacuación de Urithiru",
+      "notes": [
+        "Navani contacta con el Hermano desde la visión y, junto a Dalinar y Gav, ensaya cómo cambiar de perspectiva."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Navani contacta con el Hermano desde la visión y, junto a Dalinar y Gav, ensaya cómo cambiar de perspectiva.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-experience-82-platform-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-82",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Plataforma de evacuación de Urithiru",
+      "notes": [
+        "Navani contacta con el Hermano desde la visión y, junto a Dalinar y Gav, ensaya cómo cambiar de perspectiva."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Navani contacta con el Hermano desde la visión y, junto a Dalinar y Gav, ensaya cómo cambiar de perspectiva.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-experience-82-platform-elhokar-son",
+      "characterId": "elhokar-son",
+      "sceneId": "wat-chapter-82",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Plataforma de evacuación de Urithiru",
+      "notes": [
+        "Navani contacta con el Hermano desde la visión y, junto a Dalinar y Gav, ensaya cómo cambiar de perspectiva."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Los tres siguen la Conexión hasta una visión en la que Garith se acerca a una tienda.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-experience-82-camp-navani",
+      "characterId": "navani",
+      "sceneId": "wat-chapter-82",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Campamento cercano al parlamento de la Falsa Desolación",
+      "notes": [
+        "Los tres siguen la Conexión hasta una visión en la que Garith se acerca a una tienda."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Los tres siguen la Conexión hasta una visión en la que Garith se acerca a una tienda.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-experience-82-camp-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-82",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Campamento cercano al parlamento de la Falsa Desolación",
+      "notes": [
+        "Los tres siguen la Conexión hasta una visión en la que Garith se acerca a una tienda."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Los tres siguen la Conexión hasta una visión en la que Garith se acerca a una tienda.",
+      "sourceIds": [
+        "primary304-wat-82"
+      ],
+      "id": "primary304-experience-82-camp-elhokar-son",
+      "characterId": "elhokar-son",
+      "sceneId": "wat-chapter-82",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Campamento cercano al parlamento de la Falsa Desolación",
+      "notes": [
+        "Los tres siguen la Conexión hasta una visión en la que Garith se acerca a una tienda."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin habla con Mishram a través de una ventana. Glys teme lo que ella pueda hacerles.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-experience-84-windows-renarin",
+      "characterId": "renarin",
+      "sceneId": "wat-chapter-84",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Galería de ventanas de cristal tintado",
+      "notes": [
+        "Renarin habla con Mishram a través de una ventana. Glys teme lo que ella pueda hacerles."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin habla con Mishram a través de una ventana. Glys teme lo que ella pueda hacerles.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-experience-84-windows-glys",
+      "characterId": "glys",
+      "sceneId": "wat-chapter-84",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Galería de ventanas de cristal tintado",
+      "notes": [
+        "Renarin habla con Mishram a través de una ventana. Glys teme lo que ella pueda hacerles."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-experience-84-listener-meeting-renarin",
+      "characterId": "renarin",
+      "sceneId": "wat-chapter-84",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Sala de reuniones de los oyentes recreada por Rlain",
+      "notes": [
+        "Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-experience-84-listener-meeting-shen",
+      "characterId": "shen",
+      "sceneId": "wat-chapter-84",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Sala de reuniones de los oyentes recreada por Rlain",
+      "notes": [
+        "Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-experience-84-listener-meeting-glys",
+      "characterId": "glys",
+      "sceneId": "wat-chapter-84",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Sala de reuniones de los oyentes recreada por Rlain",
+      "notes": [
+        "Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten.",
+      "sourceIds": [
+        "primary304-wat-84"
+      ],
+      "id": "primary304-experience-84-listener-meeting-tumi-row114",
+      "characterId": "tumi-row114",
+      "sceneId": "wat-chapter-84",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Sala de reuniones de los oyentes recreada por Rlain",
+      "notes": [
+        "Renarin visita a Rlain en la sala que evoca de su pasado. Ambos se hablan de su familia y de la atracción que sienten."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo se acerca a la mesa en la que Garith negocia con los regios.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-experience-85-parley-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-85",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Pabellón del parlamento de la Falsa Desolación",
+      "notes": [
+        "El grupo se acerca a la mesa en la que Garith negocia con los regios."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo se acerca a la mesa en la que Garith negocia con los regios.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-experience-85-parley-navani",
+      "characterId": "navani",
+      "sceneId": "wat-chapter-85",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Pabellón del parlamento de la Falsa Desolación",
+      "notes": [
+        "El grupo se acerca a la mesa en la que Garith negocia con los regios."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo se acerca a la mesa en la que Garith negocia con los regios.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-experience-85-parley-elhokar-son",
+      "characterId": "elhokar-son",
+      "sceneId": "wat-chapter-85",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Pabellón del parlamento de la Falsa Desolación",
+      "notes": [
+        "El grupo se acerca a la mesa en la que Garith negocia con los regios."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Siguen la Conexión con Melishi hasta la reunión nocturna. Dalinar adopta el papel de Garith.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-experience-85-ambush-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-85",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la Falsa Desolación",
+      "notes": [
+        "Siguen la Conexión con Melishi hasta la reunión nocturna. Dalinar adopta el papel de Garith."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Siguen la Conexión con Melishi hasta la reunión nocturna. Dalinar adopta el papel de Garith.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-experience-85-ambush-navani",
+      "characterId": "navani",
+      "sceneId": "wat-chapter-85",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la Falsa Desolación",
+      "notes": [
+        "Siguen la Conexión con Melishi hasta la reunión nocturna. Dalinar adopta el papel de Garith."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Siguen la Conexión con Melishi hasta la reunión nocturna. Dalinar adopta el papel de Garith.",
+      "sourceIds": [
+        "primary304-wat-85"
+      ],
+      "id": "primary304-experience-85-ambush-elhokar-son",
+      "characterId": "elhokar-son",
+      "sceneId": "wat-chapter-85",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la Falsa Desolación",
+      "notes": [
+        "Siguen la Conexión con Melishi hasta la reunión nocturna. Dalinar adopta el papel de Garith."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin recibe impresiones fugaces de testigos que vieron a Nale salvar a otras personas.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-nale-kaladin",
+      "characterId": "kaladin",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat86-shin-camp-spren-stream",
+      "experiencedPlace": "Recuerdos transmitidos por el Viento · Rescates de Nale",
+      "notes": [
+        "Kaladin recibe impresiones fugaces de testigos que vieron a Nale salvar a otras personas."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat86-shin-camp-spren-stream",
+        "name": "Shinovar · Campamento desde el que se ve el río de spren",
+        "xy": null,
+        "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-shallan",
+      "characterId": "shallan",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-renarin",
+      "characterId": "renarin",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-shen",
+      "characterId": "shen",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-pattern",
+      "characterId": "pattern",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-cryptic-deadeye-row29",
+      "characterId": "cryptic-deadeye-row29",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-glys",
+      "characterId": "glys",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre.",
+      "sourceIds": [
+        "primary304-wat-86"
+      ],
+      "id": "primary304-experience-86-shallan-tumi-row114",
+      "characterId": "tumi-row114",
+      "sceneId": "wat-chapter-86",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Colina de Shadesmar recreada con un estrellaspren",
+      "notes": [
+        "Shallan pide a Glys y Tumi que recreen una loma del viaje con Adolin. El grupo decide buscar un recuerdo de su padre."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Los tres presencian desde perspectivas distintas el encierro de Mishram y sus consecuencias.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-kholins-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Los tres presencian desde perspectivas distintas el encierro de Mishram y sus consecuencias."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Los tres presencian desde perspectivas distintas el encierro de Mishram y sus consecuencias.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-kholins-navani",
+      "characterId": "navani",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Los tres presencian desde perspectivas distintas el encierro de Mishram y sus consecuencias."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Los tres presencian desde perspectivas distintas el encierro de Mishram y sus consecuencias.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-kholins-elhokar-son",
+      "characterId": "elhokar-son",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Los tres presencian desde perspectivas distintas el encierro de Mishram y sus consecuencias."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-shallan",
+      "characterId": "shallan",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-renarin",
+      "characterId": "renarin",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-shen",
+      "characterId": "shen",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-pattern",
+      "characterId": "pattern",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-cryptic-deadeye-row29",
+      "characterId": "cryptic-deadeye-row29",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-glys",
+      "characterId": "glys",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium.",
+      "sourceIds": [
+        "primary304-wat-87"
+      ],
+      "id": "primary304-experience-87-witnesses-tumi-row114",
+      "characterId": "tumi-row114",
+      "sceneId": "wat-chapter-87",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Hondonada de la captura de Ba-Ado-Mishram",
+      "notes": [
+        "Shallan, Renarin y Rlain observan el encierro. Su búsqueda de una Conexión con la prisión se interrumpe cuando llega Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/I-14.xhtml. La narración sigue a Odium mientras Dalinar permanece aislado en el Reino Espiritual.",
+      "sourceIds": [
+        "primary304-wat-i14"
+      ],
+      "id": "primary304-experience-i14-dalinar-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-interlude-14",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Aislamiento bajo la influencia de Odium",
+      "notes": [
+        "La narración sigue a Odium mientras Dalinar permanece aislado en el Reino Espiritual."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Dalinar adopta el papel de Rortel, encuentra una versión de sí mismo y trata de proteger al Gavinor de su época.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-experience-88-banquet-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-88",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Banquete de la noche del asesinato de Gavilar",
+      "notes": [
+        "Dalinar adopta el papel de Rortel, encuentra una versión de sí mismo y trata de proteger al Gavinor de su época."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Dalinar adopta el papel de Rortel, encuentra una versión de sí mismo y trata de proteger al Gavinor de su época.",
+      "sourceIds": [
+        "primary304-wat-88"
+      ],
+      "id": "primary304-experience-88-banquet-elhokar-son",
+      "characterId": "elhokar-son",
+      "sceneId": "wat-chapter-88",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Banquete de la noche del asesinato de Gavilar",
+      "notes": [
+        "Dalinar adopta el papel de Rortel, encuentra una versión de sí mismo y trata de proteger al Gavinor de su época."
       ],
       "entryAnchor": {
         "placeId": "place-wat31-urithiru-experiment-physical",
@@ -211078,6 +215437,141 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Syl advierte el peligro. Kaladin interviene y Szeth recoge la Hoja de Honor de la portadora."
+          ]
+        },
+        {
+          "id": "primary304-86-kaladin-10",
+          "scene": "wat-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Campamento desde el que se ve el río de spren",
+          "placeId": "place-wat86-shin-camp-spren-stream",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-86",
+          "sourceIds": [
+            "primary304-wat-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat86-shin-camp-spren-stream",
+          "coordinateAnchorName": "Shinovar · Campamento desde el que se ve el río de spren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-86"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren."
+          ]
+        },
+        {
+          "id": "primary304-89-kaladin-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor."
+          ]
+        },
+        {
+          "id": "primary304-90-kaladin-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca."
           ]
         }
       ]
@@ -238581,6 +243075,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Jasnah y Fen reciben el mensaje, que informa de piedras en las bodegas. Hablan de enviar refuerzos a las Llanuras Quebradas."
           ]
+        },
+        {
+          "id": "primary304-89-jasnah-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Exterior de la plataforma de la Puerta Jurada",
+          "placeId": "place-wat89-thaylen-gate-platform",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            583.1464159333294,
+            509.0017729100904
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Jasnah ve partir por la Puerta Jurada el último grupo de refuerzos hacia las Llanuras Quebradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jasnah ve partir por la Puerta Jurada el último grupo de refuerzos hacia las Llanuras Quebradas."
+          ]
+        },
+        {
+          "id": "primary304-89-jasnah-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escritorio de Jasnah en el templo de Talenelat",
+          "placeId": "place-wat89-thaylen-temple-desk",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            583.1464159333294,
+            509.0017729100904
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Jasnah vuelve al templo y la manifestación de Odium adopta la forma de Taravangian.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jasnah vuelve al templo y la manifestación de Odium adopta la forma de Taravangian."
+          ]
         }
       ]
     },
@@ -244322,6 +248912,186 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Neturo espera a Szeth en el puente y habla con él de la separación de sus padres."
+          ]
+        },
+        {
+          "id": "primary304-83-szeth-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
+          ]
+        },
+        {
+          "id": "primary304-86-szeth-10",
+          "scene": "wat-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Campamento desde el que se ve el río de spren",
+          "placeId": "place-wat86-shin-camp-spren-stream",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-86",
+          "sourceIds": [
+            "primary304-wat-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat86-shin-camp-spren-stream",
+          "coordinateAnchorName": "Shinovar · Campamento desde el que se ve el río de spren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-86"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren."
+          ]
+        },
+        {
+          "id": "primary304-89-szeth-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor."
+          ]
+        },
+        {
+          "id": "primary304-90-szeth-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca."
           ]
         }
       ]
@@ -256680,6 +261450,141 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Syl advierte el peligro. Kaladin interviene y Szeth recoge la Hoja de Honor de la portadora."
+          ]
+        },
+        {
+          "id": "primary304-86-syl-10",
+          "scene": "wat-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Campamento desde el que se ve el río de spren",
+          "placeId": "place-wat86-shin-camp-spren-stream",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-86",
+          "sourceIds": [
+            "primary304-wat-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat86-shin-camp-spren-stream",
+          "coordinateAnchorName": "Shinovar · Campamento desde el que se ve el río de spren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-86"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren."
+          ]
+        },
+        {
+          "id": "primary304-89-syl-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor."
+          ]
+        },
+        {
+          "id": "primary304-90-syl-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca."
           ]
         }
       ]
@@ -288880,6 +293785,342 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin sale a la plataforma y ve al enorme tronador avanzar."
+          ]
+        },
+        {
+          "id": "primary304-81-adolin-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Adolin abre el cajón de la cadena, se prepara con Neziham y manda apartar a Galante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin abre el cajón de la cadena, se prepara con Neziham y manda apartar a Galante."
+          ]
+        },
+        {
+          "id": "primary304-82-adolin-20",
+          "scene": "wat-chapter-82",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-82",
+          "sourceIds": [
+            "primary304-wat-82"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-82"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Adolin intenta inmovilizar al tronador con la cadena. Neziham interviene y recibe el golpe mortal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin intenta inmovilizar al tronador con la cadena. Neziham interviene y recibe el golpe mortal."
+          ]
+        },
+        {
+          "id": "primary304-84-adolin-10",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Hmask ayuda a levantarse a Adolin, que recupera la hoja de Neziham.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hmask ayuda a levantarse a Adolin, que recupera la hoja de Neziham."
+          ]
+        },
+        {
+          "id": "primary304-84-adolin-20",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puesto de exploración sobre una torre",
+          "placeId": "place-wat80-azimir-watchtower",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/80.Vemos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Adolin llama a Galante y usa la torre de vigilancia para alcanzar al tronador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin llama a Galante y usa la torre de vigilancia para alcanzar al tronador."
+          ]
+        },
+        {
+          "id": "primary304-85-adolin-10",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla."
+          ]
+        },
+        {
+          "id": "primary304-85-adolin-20",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Plaza ante la Puerta Jurada",
+          "placeId": "place-wat34-azimir-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/34.BienRoshar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo."
+          ]
+        },
+        {
+          "id": "primary304-85-adolin-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Brecha de la cúpula y exterior inmediato",
+          "placeId": "place-wat85-azimir-dome-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos."
           ]
         }
       ]
@@ -323933,6 +329174,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Sigzil distingue al Fusionado junto a la abertura y reconoce a Moash cuando emerge del portal."
           ]
+        },
+        {
+          "id": "primary304-81-moash-20",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Roca con el fabrial de anulación",
+          "placeId": "place-wat81-narak-nullification-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo."
+          ]
         }
       ]
     },
@@ -331121,6 +336410,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Los avatares de Taravangian y Cultivación se encuentran sobre Kharbranth durante el asalto."
+          ]
+        },
+        {
+          "id": "primary304-89-taravangian-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Ciudad Thaylen · Escritorio de Jasnah en el templo de Talenelat",
+          "placeId": "place-wat89-thaylen-temple-desk",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            583.1464159333294,
+            509.0017729100904
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-ciudad-thaylen",
+          "coordinateAnchorName": "Ciudad Thaylen",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Jasnah vuelve al templo y la manifestación de Odium adopta la forma de Taravangian.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jasnah vuelve al templo y la manifestación de Odium adopta la forma de Taravangian."
           ]
         }
       ]
@@ -340824,6 +346161,294 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sigzil llega al adarve y habla con Leyten de su vida antes del Puente Cuatro."
+          ]
+        },
+        {
+          "id": "primary304-81-sigzil-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Ataque sobre la meseta",
+          "placeId": "place-wat81-narak-main-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta."
+          ]
+        },
+        {
+          "id": "primary304-81-sigzil-20",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Roca con el fabrial de anulación",
+          "placeId": "place-wat81-narak-nullification-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo."
+          ]
+        },
+        {
+          "id": "primary304-88-sigzil-10",
+          "scene": "wat-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Tres · Centro de la meseta durante el ataque",
+          "placeId": "place-wat88-narak-three-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-88",
+          "sourceIds": [
+            "primary304-wat-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-88"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Yelig-nar es liberado en el centro de Narak Tres y los defensores derriban su forma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Yelig-nar es liberado en el centro de Narak Tres y los defensores derriban su forma."
+          ]
+        },
+        {
+          "id": "primary304-88-sigzil-20",
+          "scene": "wat-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Adarve sobre los patios",
+          "placeId": "place-wat88-narak-main-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-88",
+          "sourceIds": [
+            "primary304-wat-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-88"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Tras el repliegue, Sigzil aterriza en las almenas de Narak Principal y Winn se reúne con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras el repliegue, Sigzil aterriza en las almenas de Narak Principal y Winn se reúne con él."
+          ]
+        },
+        {
+          "id": "primary304-90-sigzil-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir."
+          ]
+        },
+        {
+          "id": "primary304-90-sigzil-20",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Acabada la reunión, Sigzil y Vienta hablan de las pérdidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acabada la reunión, Sigzil y Vienta hablan de las pérdidas."
           ]
         }
       ]
@@ -359327,6 +364952,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Sigzil llega al adarve y habla con Leyten de su vida antes del Puente Cuatro."
           ]
+        },
+        {
+          "id": "primary304-81-leyten-20",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Roca con el fabrial de anulación",
+          "placeId": "place-wat81-narak-nullification-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo."
+          ]
         }
       ]
     },
@@ -360669,6 +366342,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin visita a los heridos. Ash vela junto a Taln y Rahel atiende a los soldados."
+          ]
+        },
+        {
+          "id": "primary304-84-talenel-10",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Pasillo habilitado como enfermería",
+          "placeId": "place-wat84-azimir-infirmary",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Ash acompaña a Taln. Abidi entra y ordena matar a los heridos. Taln se levanta y lo hace huir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ash acompaña a Taln. Abidi entra y ordena matar a los heridos. Taln se levanta y lo hace huir."
+          ]
+        },
+        {
+          "id": "primary304-85-talenel-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Brecha de la cúpula y exterior inmediato",
+          "placeId": "place-wat85-azimir-dome-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos."
           ]
         }
       ]
@@ -380293,6 +386062,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Nubetrueno eleva a Venli para que vea el puente encajado."
           ]
+        },
+        {
+          "id": "primary304-89-venli-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
+          ]
+        },
+        {
+          "id": "primary304-89-venli-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Entrada al túnel abierto por Venli",
+          "placeId": "place-wat89-narak-tunnel-mouth",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Venli sigue el sonido hacia abajo y abre un acceso en la roca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli sigue el sonido hacia abajo y abre un acceso en la roca."
+          ]
+        },
+        {
+          "id": "primary304-90-venli-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla."
+          ]
         }
       ]
     },
@@ -382499,6 +388412,141 @@ window.ATLAS_DATA = {
           "notes": [
             "Syl advierte el peligro. Kaladin interviene y Szeth recoge la Hoja de Honor de la portadora."
           ]
+        },
+        {
+          "id": "primary304-86-crescent-scar-stranger-10",
+          "scene": "wat-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Campamento desde el que se ve el río de spren",
+          "placeId": "place-wat86-shin-camp-spren-stream",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-86",
+          "sourceIds": [
+            "primary304-wat-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat86-shin-camp-spren-stream",
+          "coordinateAnchorName": "Shinovar · Campamento desde el que se ve el río de spren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-86"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren."
+          ]
+        },
+        {
+          "id": "primary304-89-crescent-scar-stranger-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor."
+          ]
+        },
+        {
+          "id": "primary304-90-crescent-scar-stranger-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca."
+          ]
         }
       ]
     },
@@ -383773,6 +389821,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Venli guía la expedición desde el este. Viajan Thude, los Cinco, otros oyentes, Leshwi con sus compañeros y cinco abismoides."
           ]
+        },
+        {
+          "id": "primary304-89-thude-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
+          ]
+        },
+        {
+          "id": "primary304-89-thude-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Entrada al túnel abierto por Venli",
+          "placeId": "place-wat89-narak-tunnel-mouth",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Venli sigue el sonido hacia abajo y abre un acceso en la roca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli sigue el sonido hacia abajo y abre un acceso en la roca."
+          ]
+        },
+        {
+          "id": "primary304-90-thude-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla."
+          ]
         }
       ]
     },
@@ -384068,6 +390260,150 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Los abismoides llevan a los oyentes por encima de una presa natural. Venli conversa con Leshwi."
+          ]
+        },
+        {
+          "id": "primary304-89-bila-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
+          ]
+        },
+        {
+          "id": "primary304-89-bila-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Entrada al túnel abierto por Venli",
+          "placeId": "place-wat89-narak-tunnel-mouth",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Venli sigue el sonido hacia abajo y abre un acceso en la roca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli sigue el sonido hacia abajo y abre un acceso en la roca."
+          ]
+        },
+        {
+          "id": "primary304-90-bila-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla."
           ]
         }
       ]
@@ -386217,6 +392553,154 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos."
+          ]
+        },
+        {
+          "id": "primary304-i13-cell-revelation-zahel",
+          "scene": "wat-interlude-9",
+          "retrospective": true,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [
+            "primary302-i9-zahel-10"
+          ],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary302-wat-i9",
+          "sourceIds": [
+            "primary302-wat-i9",
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Después del quinto día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos.",
+            "I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru."
+          ]
+        },
+        {
+          "id": "primary304-i13-zahel-30",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas."
+          ]
+        },
+        {
+          "id": "primary304-i13-zahel-40",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 40,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salas médicas donde atienden a Zahel",
+          "placeId": "place-wat-i13-urithiru-medical-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Tras el rescate, Lift se acerca a Zahel en las salas médicas y le pregunta cómo comenzarían el entrenamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras el rescate, Lift se acerca a Zahel en las salas médicas y le pregunta cómo comenzarían el entrenamiento."
           ]
         }
       ]
@@ -403150,6 +409634,198 @@ window.ATLAS_DATA = {
           "notes": [
             "Sagaz retiene a Lift y examina las consecuencias. Gavinor falta cuando se cierra el portal."
           ]
+        },
+        {
+          "id": "primary304-i13-lift-10",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia donde Lift sostiene la ilusión de Navani",
+          "placeId": "place-wat-i13-urithiru-queen-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift aparenta ser Navani. El Hermano oye al ave en otro sector de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift aparenta ser Navani. El Hermano oye al ave en otro sector de la torre."
+          ]
+        },
+        {
+          "id": "primary304-i13-lift-20",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo bajo el recinto revestido de aluminio",
+          "placeId": "place-wat-i13-urithiru-aluminum-below",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. El Hermano guía a Lift hasta el piso inferior y Wyndle la ayuda a abrir un acceso.",
+          "needsConfirmation": [],
+          "notes": [
+            "El Hermano guía a Lift hasta el piso inferior y Wyndle la ayuda a abrir un acceso."
+          ]
+        },
+        {
+          "id": "primary304-i13-lift-30",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas."
+          ]
+        },
+        {
+          "id": "primary304-i13-lift-40",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 40,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Salas médicas donde atienden a Zahel",
+          "placeId": "place-wat-i13-urithiru-medical-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Tras el rescate, Lift se acerca a Zahel en las salas médicas y le pregunta cómo comenzarían el entrenamiento.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras el rescate, Lift se acerca a Zahel en las salas médicas y le pregunta cómo comenzarían el entrenamiento."
+          ]
         }
       ]
     },
@@ -407141,6 +413817,150 @@ window.ATLAS_DATA = {
           "notes": [
             "Sagaz retiene a Lift y examina las consecuencias. Gavinor falta cuando se cierra el portal."
           ]
+        },
+        {
+          "id": "primary304-i13-wyndle-10",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia donde Lift sostiene la ilusión de Navani",
+          "placeId": "place-wat-i13-urithiru-queen-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift aparenta ser Navani. El Hermano oye al ave en otro sector de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift aparenta ser Navani. El Hermano oye al ave en otro sector de la torre."
+          ]
+        },
+        {
+          "id": "primary304-i13-wyndle-20",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo bajo el recinto revestido de aluminio",
+          "placeId": "place-wat-i13-urithiru-aluminum-below",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. El Hermano guía a Lift hasta el piso inferior y Wyndle la ayuda a abrir un acceso.",
+          "needsConfirmation": [],
+          "notes": [
+            "El Hermano guía a Lift hasta el piso inferior y Wyndle la ayuda a abrir un acceso."
+          ]
+        },
+        {
+          "id": "primary304-i13-wyndle-30",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas."
+          ]
         }
       ]
     },
@@ -408353,6 +415173,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin y el emperador juegan y hablan con sus acompañantes. Llega Noura con noticias de los refuerzos."
+          ]
+        },
+        {
+          "id": "primary304-85-gawx-20",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Plaza ante la Puerta Jurada",
+          "placeId": "place-wat34-azimir-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/34.BienRoshar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo."
+          ]
+        },
+        {
+          "id": "primary304-85-gawx-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Brecha de la cúpula y exterior inmediato",
+          "placeId": "place-wat85-azimir-dome-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos."
           ]
         }
       ]
@@ -425842,6 +432758,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "May supervisa a Zabra y Notum acude al ser llamado."
+          ]
+        },
+        {
+          "id": "primary304-85-may-aladar-10",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla."
           ]
         }
       ]
@@ -447996,6 +454960,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Los abismoides llevan a los oyentes por encima de una presa natural. Venli conversa con Leshwi."
           ]
+        },
+        {
+          "id": "primary304-89-moash-duel-fused-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
+          ]
         }
       ]
     },
@@ -450618,6 +457630,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Colot enseña a Adolin el binocular fabrial y ambos observan figuras fuera de Azimir."
+          ]
+        },
+        {
+          "id": "primary304-85-colot-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Brecha de la cúpula y exterior inmediato",
+          "placeId": "place-wat85-azimir-dome-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos."
           ]
         }
       ]
@@ -453589,7 +460649,56 @@ window.ATLAS_DATA = {
       "color": "#b8b6a4",
       "importance": "tertiary",
       "importanceReason": "Referencia nominal localizada, sin perspectiva propia sostenida en los pasajes revisados.",
-      "events": []
+      "events": [
+        {
+          "id": "primary304-88-yelig-nar-10",
+          "scene": "wat-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Tres · Centro de la meseta durante el ataque",
+          "placeId": "place-wat88-narak-three-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-88",
+          "sourceIds": [
+            "primary304-wat-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-88"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Yelig-nar es liberado en el centro de Narak Tres y los defensores derriban su forma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Yelig-nar es liberado en el centro de Narak Tres y los defensores derriban su forma."
+          ]
+        }
+      ]
     },
     {
       "id": "dai-gonarthis",
@@ -455743,6 +462852,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Llegan las autoridades azishianas y Adolin negocia el despliegue de sus tropas con Kushkam."
+          ]
+        },
+        {
+          "id": "primary304-81-gallant-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Adolin abre el cajón de la cadena, se prepara con Neziham y manda apartar a Galante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin abre el cajón de la cadena, se prepara con Neziham y manda apartar a Galante."
+          ]
+        },
+        {
+          "id": "primary304-84-gallant-20",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Puesto de exploración sobre una torre",
+          "placeId": "place-wat80-azimir-watchtower",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/80.Vemos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Adolin llama a Galante y usa la torre de vigilancia para alcanzar al tronador.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin llama a Galante y usa la torre de vigilancia para alcanzar al tronador."
           ]
         }
       ]
@@ -492995,7 +500200,104 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary304-i13-ob68-sibling-epigraph-10",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Estancia donde Lift sostiene la ilusión de Navani",
+          "placeId": "place-wat-i13-urithiru-queen-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift aparenta ser Navani. El Hermano oye al ave en otro sector de la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift aparenta ser Navani. El Hermano oye al ave en otro sector de la torre."
+          ]
+        },
+        {
+          "id": "primary304-i13-ob68-sibling-epigraph-20",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Pasillo bajo el recinto revestido de aluminio",
+          "placeId": "place-wat-i13-urithiru-aluminum-below",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. El Hermano guía a Lift hasta el piso inferior y Wyndle la ayuda a abrir un acceso.",
+          "needsConfirmation": [],
+          "notes": [
+            "El Hermano guía a Lift hasta el piso inferior y Wyndle la ayuda a abrir un acceso."
+          ]
+        }
+      ]
     },
     {
       "id": "ob69-square-fused",
@@ -506326,6 +513628,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Shalash responde a Dalinar en el edificio del campamento."
+          ]
+        },
+        {
+          "id": "primary304-84-ash-thaylen-ob119-10",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Pasillo habilitado como enfermería",
+          "placeId": "place-wat84-azimir-infirmary",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Ash acompaña a Taln. Abidi entra y ordena matar a los heridos. Taln se levanta y lo hace huir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ash acompaña a Taln. Abidi entra y ordena matar a los heridos. Taln se levanta y lo hace huir."
+          ]
+        },
+        {
+          "id": "primary304-85-ash-thaylen-ob119-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Brecha de la cúpula y exterior inmediato",
+          "placeId": "place-wat85-azimir-dome-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos."
           ]
         }
       ]
@@ -521113,6 +528511,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Sigzil llega al adarve y habla con Leyten de su vida antes del Puente Cuatro."
           ]
+        },
+        {
+          "id": "primary304-81-sigzil-spren-row19-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Ataque sobre la meseta",
+          "placeId": "place-wat81-narak-main-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta."
+          ]
+        },
+        {
+          "id": "primary304-81-sigzil-spren-row19-20",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Roca con el fabrial de anulación",
+          "placeId": "place-wat81-narak-nullification-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo."
+          ]
+        },
+        {
+          "id": "primary304-88-sigzil-spren-row19-10",
+          "scene": "wat-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Tres · Centro de la meseta durante el ataque",
+          "placeId": "place-wat88-narak-three-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-88",
+          "sourceIds": [
+            "primary304-wat-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-88"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Yelig-nar es liberado en el centro de Narak Tres y los defensores derriban su forma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Yelig-nar es liberado en el centro de Narak Tres y los defensores derriban su forma."
+          ]
+        },
+        {
+          "id": "primary304-88-sigzil-spren-row19-20",
+          "scene": "wat-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Adarve sobre los patios",
+          "placeId": "place-wat88-narak-main-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-88",
+          "sourceIds": [
+            "primary304-wat-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-88"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Tras el repliegue, Sigzil aterriza en las almenas de Narak Principal y Winn se reúne con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras el repliegue, Sigzil aterriza en las almenas de Narak Principal y Winn se reúne con él."
+          ]
+        },
+        {
+          "id": "primary304-90-sigzil-spren-row19-20",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Acabada la reunión, Sigzil y Vienta hablan de las pérdidas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Acabada la reunión, Sigzil y Vienta hablan de las pérdidas."
+          ]
         }
       ]
     },
@@ -533082,6 +540720,58 @@ window.ATLAS_DATA = {
           "notes": [
             "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos."
           ]
+        },
+        {
+          "id": "primary304-i13-cell-revelation-axindweth-row52",
+          "scene": "wat-interlude-9",
+          "retrospective": true,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [
+            "primary302-i9-axindweth-row52-10"
+          ],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary302-wat-i9",
+          "sourceIds": [
+            "primary302-wat-i9",
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Después del quinto día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos.",
+            "I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru."
+          ]
         }
       ]
     },
@@ -533815,6 +541505,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El ave roja guía a Lift hasta el funcionario muerto; el hombre con cicatrices aparece luego con el ave verde."
+          ]
+        },
+        {
+          "id": "primary304-i13-red-bird-rowi5-30",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas."
           ]
         }
       ]
@@ -536018,6 +543756,23 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. El altospren de Szeth se presenta con el número 12.124.",
+          "sourceIds": [
+            "primary304-wat-86"
+          ],
+          "name": "12.124",
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-86"
+          },
+          "notes": [
+            "El altospren de Szeth se presenta con el número 12.124."
+          ]
+        }
+      ],
       "events": [
         {
           "id": "primary276-i7-szeth-highspren-rowi7-20",
@@ -536381,6 +544136,141 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "La comitiva alcanza el monasterio tras tomar el sendero del barranco. Kaladin y Nale quedan en la entrada."
+          ]
+        },
+        {
+          "id": "primary304-86-szeth-highspren-rowi7-10",
+          "scene": "wat-chapter-86",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Campamento desde el que se ve el río de spren",
+          "placeId": "place-wat86-shin-camp-spren-stream",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-86",
+          "sourceIds": [
+            "primary304-wat-86"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat86-shin-camp-spren-stream",
+          "coordinateAnchorName": "Shinovar · Campamento desde el que se ve el río de spren",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-86"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/86.Rio.xhtml. Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin prepara la cena. Habla con Szeth, Syl y el altospren antes de observar el río de spren."
+          ]
+        },
+        {
+          "id": "primary304-89-szeth-highspren-rowi7-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se acerca al monasterio de montaña. Nale habla con Kaladin y Szeth acerca de las Hojas de Honor."
+          ]
+        },
+        {
+          "id": "primary304-90-szeth-highspren-rowi7-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca."
           ]
         }
       ]
@@ -539817,6 +547707,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Elid interrumpe la meditación de Szeth para hablarle del plan de Neturo."
           ]
+        },
+        {
+          "id": "primary304-90-elid-wat24-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Monasterio de la Portadora del Polvo",
+          "placeId": "place-wat89-dustbringer-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat89-dustbringer-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth reconoce a Elid mientras ella porta la Hoja de Honor. Hablan antes de que ella se desvanezca."
+          ]
         }
       ]
     },
@@ -541517,6 +549452,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Adolin y Kushkam discuten las defensas y si pueden sostener la ciudad si cae la cúpula."
           ]
+        },
+        {
+          "id": "primary304-85-kushkam-wat34-20",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Plaza ante la Puerta Jurada",
+          "placeId": "place-wat34-azimir-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/34.BienRoshar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo."
+          ]
         }
       ]
     },
@@ -541996,6 +549979,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin visita a los heridos. Ash vela junto a Taln y Rahel atiende a los soldados."
+          ]
+        },
+        {
+          "id": "primary304-85-rahel-wat39-10",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla."
+          ]
+        },
+        {
+          "id": "primary304-85-rahel-wat39-20",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Plaza ante la Puerta Jurada",
+          "placeId": "place-wat34-azimir-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/34.BienRoshar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo."
           ]
         }
       ]
@@ -543161,6 +551240,198 @@ window.ATLAS_DATA = {
           "notes": [
             "Adolin y el emperador juegan y hablan con sus acompañantes. Llega Noura con noticias de los refuerzos."
           ]
+        },
+        {
+          "id": "primary304-84-hmask-wat42-10",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Hmask ayuda a levantarse a Adolin, que recupera la hoja de Neziham.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hmask ayuda a levantarse a Adolin, que recupera la hoja de Neziham."
+          ]
+        },
+        {
+          "id": "primary304-85-hmask-wat42-10",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla.",
+          "needsConfirmation": [],
+          "notes": [
+            "May, Rahel y Hmask atienden a Adolin tras la caída. Rahel no logra regenerarle el pie y la pantorrilla."
+          ]
+        },
+        {
+          "id": "primary304-85-hmask-wat42-20",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Plaza ante la Puerta Jurada",
+          "placeId": "place-wat34-azimir-plaza",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/34.BienRoshar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo busca supervivientes. Encuentran a Kushkam bajo otros cuerpos y Rahel corre a atenderlo."
+          ]
+        },
+        {
+          "id": "primary304-85-hmask-wat42-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Brecha de la cúpula y exterior inmediato",
+          "placeId": "place-wat85-azimir-dome-breach",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin encuentra a Taln muerto y a Ash gravemente herida entre los Fusionados caídos. Colot dispone refuerzos."
+          ]
         }
       ]
     },
@@ -543451,6 +551722,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Adolin encuentra a Neziham, lo ayuda a ponerse en pie y se enfrenta a Abidi."
+          ]
+        },
+        {
+          "id": "primary304-81-neziham-wat47-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Adolin abre el cajón de la cadena, se prepara con Neziham y manda apartar a Galante.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin abre el cajón de la cadena, se prepara con Neziham y manda apartar a Galante."
+          ]
+        },
+        {
+          "id": "primary304-82-neziham-wat47-20",
+          "scene": "wat-chapter-82",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Calle en el camino del tronador",
+          "placeId": "place-wat81-azimir-thunderclast-route",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-82",
+          "sourceIds": [
+            "primary304-wat-82"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-82"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/82.Principal.xhtml. Adolin intenta inmovilizar al tronador con la cadena. Neziham interviene y recibe el golpe mortal.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin intenta inmovilizar al tronador con la cadena. Neziham interviene y recibe el golpe mortal."
           ]
         }
       ]
@@ -544099,6 +552466,51 @@ window.ATLAS_DATA = {
           "notes": [
             "Pozen observa el duelo y envía a Szeth a buscar las pistas por Bajomok."
           ]
+        },
+        {
+          "id": "primary304-83-pozen-wat53-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
+          ]
         }
       ]
     },
@@ -544523,6 +552935,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sigzil y sus escuderos interceptan a los Celestiales. Vienta comenta con él lo sucedido."
+          ]
+        },
+        {
+          "id": "primary304-81-fent-wat56-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Ataque sobre la meseta",
+          "placeId": "place-wat81-narak-main-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta."
           ]
         }
       ]
@@ -545153,6 +553613,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sivi comparte las pistas con Szeth y conversa con él sobre el peregrinaje y su padre."
+          ]
+        },
+        {
+          "id": "primary304-83-sivi-shin-wat57-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
           ]
         }
       ]
@@ -545883,6 +554388,23 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. La narración lo llama Dami, Custodio de la Piedra conocido como el Muralla de Tormenta.",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "name": "Dami (Muralla de Tormenta)",
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "notes": [
+            "La narración lo llama Dami, Custodio de la Piedra conocido como el Muralla de Tormenta."
+          ]
+        }
+      ],
       "events": [
         {
           "id": "primary302-63-stormwall-wat63-10",
@@ -545930,6 +554452,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "La tronadora abre una brecha. Sigzil organiza la defensa del paso y, tras el relevo, da instrucciones a sus escuderos."
+          ]
+        },
+        {
+          "id": "primary304-90-stormwall-wat63-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir."
           ]
         }
       ]
@@ -546563,6 +555133,51 @@ window.ATLAS_DATA = {
           "notes": [
             "La caravana sale del campamento. Neturo y Elid parten con Szeth y Zeenid se queda atrás."
           ]
+        },
+        {
+          "id": "primary304-83-vambra-wat68-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
+          ]
         }
       ]
     },
@@ -546591,7 +555206,53 @@ window.ATLAS_DATA = {
           ]
         }
       ],
-      "events": []
+      "events": [
+        {
+          "id": "primary304-83-tuko-wat68-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
+          ]
+        }
+      ]
     },
     {
       "id": "zahel-parrot-wat-i9",
@@ -546645,6 +555306,58 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos."
+          ]
+        },
+        {
+          "id": "primary304-i13-cell-revelation-zahel-parrot-wat-i9",
+          "scene": "wat-interlude-9",
+          "retrospective": true,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [
+            "primary302-i9-zahel-parrot-wat-i9-10"
+          ],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary302-wat-i9",
+          "sourceIds": [
+            "primary302-wat-i9",
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Después del quinto día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos.",
+            "I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru."
           ]
         }
       ]
@@ -546701,6 +555414,58 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos."
+          ]
+        },
+        {
+          "id": "primary304-i13-cell-revelation-axindweth-aviar-wat-i9",
+          "scene": "wat-interlude-9",
+          "retrospective": true,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [
+            "primary302-i9-axindweth-aviar-wat-i9-10"
+          ],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary302-wat-i9",
+          "sourceIds": [
+            "primary302-wat-i9",
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Después del quinto día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru.",
+          "needsConfirmation": [],
+          "notes": [
+            "Zahel permanece cautivo. Axindweth entra con su aviar y pide que le ceda parte de sus alientos.",
+            "I-9 e I-13 describen a Zahel encadenado junto a un loro enjaulado, en una cámara circular de aluminio con libros y un colchón. En I-13 el Hermano sitúa esa cámara en Urithiru."
           ]
         }
       ]
@@ -546861,6 +555626,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Syl entra sin dejarse ver y ayuda a Szeth a resolver la prueba. Moss se oculta bajo el mural."
+          ]
+        },
+        {
+          "id": "primary304-83-moss-wat70-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
           ]
         }
       ]
@@ -547026,6 +555836,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Nubetrueno eleva a Venli para que vea el puente encajado."
+          ]
+        },
+        {
+          "id": "primary304-89-thundercloud-wat70-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
           ]
         }
       ]
@@ -547415,6 +556273,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Sigzil reúne a los mandos y pide a Sidéreo preparar un señuelo en Narak Tres."
+          ]
+        },
+        {
+          "id": "primary304-88-winn-wat74-20",
+          "scene": "wat-chapter-88",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Adarve sobre los patios",
+          "placeId": "place-wat88-narak-main-rampart",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-88",
+          "sourceIds": [
+            "primary304-wat-88"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-88"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/88.Ciclo.xhtml. Tras el repliegue, Sigzil aterriza en las almenas de Narak Principal y Winn se reúne con él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Tras el repliegue, Sigzil aterriza en las almenas de Narak Principal y Winn se reúne con él."
+          ]
+        },
+        {
+          "id": "primary304-90-winn-wat74-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir."
           ]
         }
       ]
@@ -548668,6 +557622,996 @@ window.ATLAS_DATA = {
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
       "events": []
+    },
+    {
+      "id": "kalleb-wat81",
+      "name": "Kalleb",
+      "initial": "K",
+      "role": "Escudero de Sigzil que lo auxilia junto a Fent durante el ataque a Narak Principal.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-81-kalleb-wat81-10",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Ataque sobre la meseta",
+          "placeId": "place-wat81-narak-main-battle",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil combate sobre Narak Principal. Fent y Kalleb acuden cuando cae a la meseta."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ethenia-wat81",
+      "name": "Ethenia",
+      "initial": "E",
+      "role": "Spren de Leyten. Él pronuncia su nombre tras el ataque de Moash.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-81-ethenia-wat81-20",
+          "scene": "wat-chapter-81",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Roca con el fabrial de anulación",
+          "placeId": "place-wat81-narak-nullification-field",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-81",
+          "sourceIds": [
+            "primary304-wat-81"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-81"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/81.Erudito.xhtml. Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo.",
+          "needsConfirmation": [],
+          "notes": [
+            "Moash ataca a Leyten y su grupo tras activar el fabrial oculto. Sigzil llega para socorrerlo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urithiru-evacuee-wat82",
+      "name": "Mujer de la evacuación de Urithiru",
+      "initial": "M",
+      "role": "Evacuada cuyo papel adopta Navani al reconocer similitudes con su propia vida. Tiene un hijo y una hija.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "urithiru-evacuee-son-wat82",
+      "name": "Hijo de la evacuada de Urithiru",
+      "initial": "H",
+      "role": "Hijo de la mujer que Navani interpreta en la recreación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "urithiru-evacuee-daughter-wat82",
+      "name": "Hija de la evacuada de Urithiru",
+      "initial": "H",
+      "role": "Hija de la mujer que Navani interpreta en la recreación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "dulo-wat83",
+      "name": "Dulo-hijo-Tudla",
+      "initial": "D",
+      "role": "Portador de la Hoja de Honor del Danzante del Filo que asiste al duelo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-83-dulo-wat83-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gearil-wat83",
+      "name": "Gearil",
+      "initial": "G",
+      "role": "Portadora de la Hoja de Honor de la Portadora del Polvo en la época del duelo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-83-gearil-wat83-10",
+          "scene": "wat-chapter-83",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "placeId": "place-wat83-windrunner-monastery",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-83",
+          "sourceIds": [
+            "primary304-wat-83"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat83-windrunner-monastery",
+          "coordinateAnchorName": "Shinovar · Gran vestíbulo del Monasterio del Corredor del Viento",
+          "storyTime": {
+            "frame": "flashback",
+            "relationToStart": "before-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": 9.5,
+            "note": "Recuerdo de Szeth, nueve años y medio antes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-83"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/83.Hoja.xhtml. Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth mata a Tuko en el duelo y toma su hoja bajo la mirada de seis portadores de Honor."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terushal-wat-plate-xviii",
+      "name": "Terushal",
+      "initial": "T",
+      "role": "Tronador nombrado junto a Kai-garnis y Yushah en la lámina XVIII.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "abidi-wat84",
+      "name": "Abidi",
+      "initial": "A",
+      "role": "Fusionado que irrumpe en la enfermería de Azimir y ordena matar a los heridos.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-84-abidi-wat84-10",
+          "scene": "wat-chapter-84",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Pasillo habilitado como enfermería",
+          "placeId": "place-wat84-azimir-infirmary",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-84",
+          "sourceIds": [
+            "primary304-wat-84"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-84"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/84.Rotos.xhtml. Ash acompaña a Taln. Abidi entra y ordena matar a los heridos. Taln se levanta y lo hace huir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ash acompaña a Taln. Abidi entra y ordena matar a los heridos. Taln se levanta y lo hace huir."
+          ]
+        },
+        {
+          "id": "primary304-85-abidi-wat84-30",
+          "scene": "wat-chapter-85",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Cúpula de la Puerta Jurada",
+          "placeId": "place-wat34-azimir-dome",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/34.BienRoshar.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-85",
+          "sourceIds": [
+            "primary304-wat-85"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Séptimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-85"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/85.Parlamento.xhtml. Adolin ve a Abidi y sus tropas dentro de la cúpula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Adolin ve a Abidi y sus tropas dentro de la cúpula."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "singer-envoy-wat85",
+      "name": "Enviada cantora en forma funesta",
+      "initial": "E",
+      "role": "Participa en el parlamento de la Falsa Desolación y habla con Garith. El pasaje todavía no da su nombre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/87.Amor.xhtml. Garith se dirige a la mujer por su nombre cuando pierde la forma funesta.",
+          "sourceIds": [
+            "primary304-wat-87"
+          ],
+          "name": "Shmone",
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-87"
+          },
+          "notes": [
+            "Garith se dirige a la mujer por su nombre cuando pierde la forma funesta."
+          ]
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": "highspren-121-wat86",
+      "name": "121",
+      "initial": "1",
+      "role": "Syl lo identifica como el altospren de Nale. La conversación lo menciona sin mostrarlo.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "zahel-captor-woman-wat-i13",
+      "name": "Mujer de los anillos de la sala de aluminio",
+      "initial": "M",
+      "role": "Entra con dos matones. Lift supone que trabaja con el hombre que la capturó. Su nombre queda abierto.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-i13-zahel-captor-woman-wat-i13-30",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zahel-captor-thugs-wat-i13",
+      "name": "Dos matones de la sala de aluminio",
+      "initial": "D",
+      "role": "Acompañan a la mujer de los anillos e intentan apresar a Lift.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-i13-zahel-captor-thugs-wat-i13-30",
+          "scene": "wat-interlude-13",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala revestida de aluminio, piso treinta y dos",
+          "placeId": "place-wat-i13-urithiru-aluminum-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-i13",
+          "sourceIds": [
+            "primary304-wat-i13"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Entre el séptimo y el octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-interlude-13"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/I-13.xhtml. Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lift libera al ave y se enfrenta a quienes entran. Allí reconoce a Zahel, sujeto por cadenas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rortel-wat88",
+      "name": "Rortel",
+      "initial": "R",
+      "role": "Miembro de la élite de Dalinar cuyo papel adopta durante la recreación del banquete de Gavilar.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "estel-wat89",
+      "name": "Estel",
+      "initial": "E",
+      "role": "Integrante reciente de los Cinco. Viste la forma diestra.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-89-estel-wat89-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
+          ]
+        },
+        {
+          "id": "primary304-89-estel-wat89-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Entrada al túnel abierto por Venli",
+          "placeId": "place-wat89-narak-tunnel-mouth",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Venli sigue el sonido hacia abajo y abre un acceso en la roca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli sigue el sonido hacia abajo y abre un acceso en la roca."
+          ]
+        },
+        {
+          "id": "primary304-90-estel-wat89-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kivor-wat89",
+      "name": "Kivor",
+      "initial": "K",
+      "role": "Integrante de los Cinco que insiste en someter a votación la marcha.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-89-kivor-wat89-10",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Abismos bajo las mesetas centrales",
+          "placeId": "place-wat89-narak-central-chasms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás.",
+          "needsConfirmation": [],
+          "notes": [
+            "La expedición alcanza las mesetas centrales. Los Cinco votan y dejan a Celestiales y abismoides atrás."
+          ]
+        },
+        {
+          "id": "primary304-89-kivor-wat89-20",
+          "scene": "wat-chapter-89",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Entrada al túnel abierto por Venli",
+          "placeId": "place-wat89-narak-tunnel-mouth",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-89",
+          "sourceIds": [
+            "primary304-wat-89"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-89"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml. Venli sigue el sonido hacia abajo y abre un acceso en la roca.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli sigue el sonido hacia abajo y abre un acceso en la roca."
+          ]
+        },
+        {
+          "id": "primary304-90-kivor-wat89-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli y los Cinco alcanzan el estanque oculto bajo la meseta principal. Thude agita el agua con su hacha y Bila contiene su intento de tocarla."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crzmak-wat89",
+      "name": "Crzmak",
+      "initial": "C",
+      "role": "Figura recordada por Jasnah al pensar en la Estabilidad de Crzmak y en la formación de la coalición thayleña.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "negative-numbers-mathematician-wat90",
+      "name": "Matemática de los números negativos",
+      "initial": "M",
+      "role": "Navani menciona en la coda a la mujer que desarrolló los números negativos sin identificarla en el epígrafe.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "balivar-wat90",
+      "name": "Balivar",
+      "initial": "B",
+      "role": "Mando de la defensa de Narak que interviene en la reunión de la mesa.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-90-balivar-wat90-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chella-wat90",
+      "name": "Chella",
+      "initial": "C",
+      "role": "Danzante del Filo que debate con Sigzil las bajas y las reservas. La edición usa también Challa una vez en esta conversación.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary304-90-chella-wat90-10",
+          "scene": "wat-chapter-90",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Reunión de mando de los defensores",
+          "placeId": "place-wat90-narak-command-table",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary304-wat-90",
+          "sourceIds": [
+            "primary304-wat-90"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Octavo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-90"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml. Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los mandos debaten las bajas, las reservas de luz y cuánto pueden resistir."
+          ]
+        }
+      ]
     }
   ]
 };
