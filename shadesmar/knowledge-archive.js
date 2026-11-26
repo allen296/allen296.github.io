@@ -3,7 +3,12 @@ const heraldOverviewId='herald-heralds-collective';
 let archiveRenderFacts=null;
 const archiveFocus={heralds:null,'spren-types':null,'spren-individuals':null};
 let sprenArchiveMode='spren-types';
-function archiveFactsKnown(){return archiveRenderFacts||relationRecords(data.knowledgeArchive?.facts||[]).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)||a.id.localeCompare(b.id));}
+function archiveFactsKnown(){
+ if(archiveRenderFacts)return archiveRenderFacts;
+ const archive=data.knowledgeArchive;
+ const retired=new Set((archive?.entries||[]).filter(e=>e.retiredAt&&relationKnownAt(e.retiredAt)).map(e=>e.id));
+ return relationRecords(archive?.facts||[]).filter(f=>!retired.has(f.entryId)).sort((a,b)=>index.get(a.revealedAt.sceneId)-index.get(b.revealedAt.sceneId)||a.id.localeCompare(b.id));
+}
 function archiveEntryKnown(entry){return archiveFactsKnown().some(f=>f.entryId===entry.id&&f.field==='name');}
 function archiveCharacter(entry){return entry?.characterId&&relationKnownAt(entry.characterRevealedAt)?relationPerson(entry.characterId):null;}
 function archiveName(entry){if(!entry||!archiveEntryKnown(entry))return '?????';const person=entry.section==='spren-individuals'?archiveCharacter(entry):null;return person?characterName(person):archiveFactsKnown().filter(f=>f.entryId===entry.id&&f.field==='name').at(-1)?.value||'?????';}
