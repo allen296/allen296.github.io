@@ -8234,6 +8234,190 @@ window.ATLAS_DATA = {
       "taravangian",
       "wat-wind-speaker",
       "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-141": [
+      "ba-ado-mishram-ob80",
+      "black-sword",
+      "crescent-scar-stranger",
+      "cryptic-deadeye-row29",
+      "dalinar",
+      "elhokar-son",
+      "elid-wat24",
+      "glys",
+      "honor-power-wat-i16",
+      "ishar-mentioned",
+      "kaladin",
+      "moss-wat70",
+      "neturo",
+      "pattern",
+      "pozen-wat53",
+      "renarin",
+      "shallan",
+      "shen",
+      "shin-stoneward-fused-wat141",
+      "syl",
+      "szeth",
+      "taravangian",
+      "truthwatcher-holder-wat72",
+      "tumi-row114",
+      "wat-wind-speaker",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-142": [
+      "black-sword",
+      "crescent-scar-stranger",
+      "dalinar",
+      "elhokar-son",
+      "honor-power-wat-i16",
+      "ishar-mentioned",
+      "kaladin",
+      "nohadon",
+      "stormfather",
+      "syl",
+      "szeth",
+      "taravangian",
+      "wat-wind-speaker",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-143": [
+      "black-sword",
+      "crescent-scar-stranger",
+      "cryptic-deadeye-row29",
+      "dalinar",
+      "elhokar-son",
+      "glys",
+      "honor-power-wat-i16",
+      "ishar-mentioned",
+      "iyatil-spren-wat134",
+      "kaladin",
+      "mraize-spren-wat138",
+      "neturo",
+      "pattern",
+      "renarin",
+      "shallan",
+      "shen",
+      "sja-anat",
+      "stormfather",
+      "syl",
+      "szeth",
+      "taravangian",
+      "truthwatcher-holder-wat72",
+      "tumi-row114",
+      "urithiru-black-sentinel-row22",
+      "urithiru-white-sentinel-row22",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-144": [
+      "black-sword",
+      "crescent-scar-stranger",
+      "cultivation",
+      "ishar-mentioned",
+      "jezrien-vision",
+      "kaladin",
+      "kelek-puuli",
+      "pailiah-historical-wat62",
+      "shalash-mentioned",
+      "syl",
+      "szeth",
+      "talenel",
+      "wat-wind-speaker",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-145": [
+      "blackthorn-spren-wat145",
+      "crescent-scar-stranger",
+      "cultivation",
+      "dalinar",
+      "elhokar-son",
+      "ishar-mentioned",
+      "kaladin",
+      "navani",
+      "ob68-sibling-epigraph",
+      "shallan",
+      "syl",
+      "taravangian",
+      "urithiru-black-sentinel-row22",
+      "urithiru-white-sentinel-row22",
+      "vedel-historical-wat62",
+      "wat-wind-speaker",
+      "wind-truth-book-author-wat"
+    ],
+    "wat-chapter-146": [
+      "aladar",
+      "bila",
+      "black-sword",
+      "dalinar",
+      "el-motionless-husk-wat91",
+      "elhokar-son",
+      "jasnah",
+      "jaxlim",
+      "kaladin",
+      "lirin",
+      "navani",
+      "ob68-sibling-epigraph",
+      "renarin",
+      "sebarial",
+      "shen",
+      "sigzil",
+      "szeth",
+      "taravangian",
+      "teshav",
+      "thude",
+      "venli",
+      "wind-truth-book-author-wat",
+      "wit"
+    ],
+    "wat-chapter-147": [
+      "adolin",
+      "adrotagia",
+      "ala-row115",
+      "cryptic-deadeye-row29",
+      "felt-scout-pr81",
+      "gawx",
+      "iriali-caravan-guards-wat147",
+      "iriali-caravan-host-family-wat147",
+      "iyatil",
+      "iyatil-brother-wat147",
+      "kushkam-wat34",
+      "malli-ob114",
+      "masha-daughter-shaliv-ob56",
+      "may-aladar",
+      "notum-ob108",
+      "noura",
+      "ob87-platform-thread-spren",
+      "olo-wat147",
+      "pattern",
+      "shaliv-ob56",
+      "shallan",
+      "sigzil",
+      "sigzil-spren-row19",
+      "szeth",
+      "szeth-highspren-rowi7",
+      "taravangian",
+      "taravangian-daughter-row19",
+      "taravangian-grandchildren-wat-i8",
+      "thaidakar",
+      "ulaam-wat147",
+      "wit",
+      "xorm-wat147",
+      "zabra-wat60"
+    ],
+    "wat-epilogue": [
+      "former-ladrian-driver-wat-epilogue",
+      "grimes-wat-epilogue",
+      "jasnah",
+      "jone-wat-epilogue",
+      "ladrian-housekeeper-applicant-wat-epilogue",
+      "valour-wat-epilogue",
+      "wit"
+    ],
+    "wat-postlude-a": [
+      "cultivation",
+      "dalinar",
+      "dova",
+      "kaladin",
+      "kelek-puuli",
+      "talenel"
     ]
   },
   "knowledgeArchive": {
@@ -9171,6 +9355,51 @@ window.ATLAS_DATA = {
         "characterRevealedAt": {
           "bookId": "wat",
           "sceneId": "wat-chapter-138"
+        }
+      },
+      {
+        "id": "herald-kaladin-wat144",
+        "section": "heralds",
+        "characterId": "kaladin",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        }
+      },
+      {
+        "id": "spren-person-blackthorn-spren-wat145",
+        "section": "spren-individuals",
+        "characterId": "blackthorn-spren-wat145",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        }
+      },
+      {
+        "id": "spren-person-xorm-wat147",
+        "section": "spren-individuals",
+        "characterId": "xorm-wat147",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        }
+      },
+      {
+        "id": "spren-person-ala-row115",
+        "section": "spren-individuals",
+        "characterId": "ala-row115",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        }
+      },
+      {
+        "id": "spren-person-olo-wat147",
+        "section": "spren-individuals",
+        "characterId": "olo-wat147",
+        "characterRevealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
         }
       }
     ],
@@ -31234,6 +31463,856 @@ window.ATLAS_DATA = {
         "field": "description",
         "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/140.xhtml",
         "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Tras salir de la gema toma forma y confronta a Rlain por defender a Renarin. No llega a atacarlo. Su paradero después de la expulsión queda abierto.",
+        "sourceIds": [
+          "primary310-wat-141"
+        ],
+        "id": "primary310-archive-141-mishram",
+        "entryId": "spren-person-ba-ado-mishram-ob80",
+        "value": "Tras salir de la gema toma forma y confronta a Rlain por defender a Renarin. No llega a atacarlo. Su paradero después de la expulsión queda abierto.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-141"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Frena a Dalinar cuando el contacto de los poderes amenaza Roshar y después acepta la decisión que Dalinar toma.",
+        "sourceIds": [
+          "primary310-wat-142"
+        ],
+        "id": "primary310-archive-142-stormfather",
+        "entryId": "spren-person-stormfather",
+        "value": "Frena a Dalinar cuando el contacto de los poderes amenaza Roshar y después acepta la decisión que Dalinar toma.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-142"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Dice que el futuro de Roshar no está escrito y pide a Kaladin que esté allí cuando lo necesite.",
+        "sourceIds": [
+          "primary310-wat-142"
+        ],
+        "id": "primary310-archive-142-wind",
+        "entryId": "spren-person-wat-wind-speaker",
+        "value": "Dice que el futuro de Roshar no está escrito y pide a Kaladin que esté allí cuando lo necesite.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-142"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Recibe a los spren heridos de Iyatil y Mraize en la pasarela de Urithiru y los llama hijos suyos. Aconseja a Shallan regresar al Reino Físico.",
+        "sourceIds": [
+          "primary310-wat-143"
+        ],
+        "id": "primary310-archive-143-sja-anat",
+        "entryId": "spren-person-sja-anat",
+        "value": "Recibe a los spren heridos de Iyatil y Mraize en la pasarela de Urithiru y los llama hijos suyos. Aconseja a Shallan regresar al Reino Físico.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-143"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Taravangian lo vaporiza al quedar roto el contrato. El resto de su historia se conserva hasta ese momento.",
+        "sourceIds": [
+          "primary310-wat-143"
+        ],
+        "id": "primary310-archive-143-stormfather",
+        "entryId": "spren-person-stormfather",
+        "value": "Taravangian lo vaporiza al quedar roto el contrato. El resto de su historia se conserva hasta ese momento.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-143"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Kaladin Bendito por la Tormenta",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-kaladin-name",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Kaladin Bendito por la Tormenta",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Heraldo de Reyes",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-kaladin-kings",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Heraldo de Reyes",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "title",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Heraldo del Viento",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-kaladin-wind",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Heraldo del Viento",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "title",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Heraldo de las Segundas Oportunidades",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-kaladin-chances",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Heraldo de las Segundas Oportunidades",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "title",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ocupa la plaza de Jezrien en el nuevo Juramento. Su lanza se forma con la esencia de Honor y Sylphrena acepta sus Palabras.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-kaladin",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Ocupa la plaza de Jezrien en el nuevo Juramento. Su lanza se forma con la esencia de Honor y Sylphrena acepta sus Palabras.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Kaladin ocupa la plaza vacante del círculo. La nueva lanza de Honor se coloca en la ranura de Jezrien.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-jezrien",
+        "entryId": "herald-jezrien-vision",
+        "value": "Kaladin ocupa la plaza vacante del círculo. La nueva lanza de Honor se coloca en la ranura de Jezrien.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Rehace el Juramento con ayuda de los Heraldos y del Viento. Propone enviar sus mentes a una visión apartada cuando sus almas regresen a Braize.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-ishar",
+        "entryId": "herald-ishar-mentioned",
+        "value": "Rehace el Juramento con ayuda de los Heraldos y del Viento. Propone enviar sus mentes a una visión apartada cuando sus almas regresen a Braize.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar dice que espera poder proteger sus mentes si Pralla y Ash le ayudan.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-pailiah",
+        "entryId": "herald-pailiah",
+        "value": "Ishar dice que espera poder proteger sus mentes si Pralla y Ash le ayudan.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar pide su ayuda para el plan y Kaladin la ve responder a la llamada del Juramento en forma fantasmal.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-ash",
+        "entryId": "herald-shalash-mentioned",
+        "value": "Ishar pide su ayuda para el plan y Kaladin la ve responder a la llamada del Juramento en forma fantasmal.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Coloca nueve hojas y acepta participar en el Juramento vuelto a forjar pese al temor a la tortura.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-nale",
+        "entryId": "herald-nalan-historical-codex",
+        "value": "Coloca nueve hojas y acepta participar en el Juramento vuelto a forjar pese al temor a la tortura.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Kaladin distingue a Kalak entre las figuras casi transparentes que responden a Ishar en el círculo.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-kalak",
+        "entryId": "herald-kelek-puuli",
+        "value": "Kaladin distingue a Kalak entre las figuras casi transparentes que responden a Ishar en el círculo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Kaladin cree reconocer a Taln en la primera figura fantasmal que vuelve al círculo.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-taln",
+        "entryId": "herald-talenel",
+        "value": "Kaladin cree reconocer a Taln en la primera figura fantasmal que vuelve al círculo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Los otros Heraldos responden a la llamada de Ishar. Kaladin completa el anillo en el puesto que había ocupado Jezrien.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-heralds",
+        "entryId": "herald-heralds-collective",
+        "value": "Los otros Heraldos responden a la llamada de Ishar. Kaladin completa el anillo en el puesto que había ocupado Jezrien.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Sugiere aprovechar el Juramento para proteger a los spren y pide a Ishar que ampare las mentes de los Heraldos en una visión.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-wind",
+        "entryId": "spren-person-wat-wind-speaker",
+        "value": "Sugiere aprovechar el Juramento para proteger a los spren y pide a Ishar que ampare las mentes de los Heraldos en una visión.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Llora la muerte del Padre Tormenta, a quien llama su padre. Acepta las Palabras de Kaladin y lo acompaña al círculo.",
+        "sourceIds": [
+          "primary310-wat-144"
+        ],
+        "id": "primary310-archive-144-syl",
+        "entryId": "spren-person-syl",
+        "value": "Llora la muerte del Padre Tormenta, a quien llama su padre. Acepta las Palabras de Kaladin y lo acompaña al círculo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-144"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Avisa a Navani y se dispone a defender Urithiru de Represalia.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-145-sibling",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "Avisa a Navani y se dispone a defender Urithiru de Represalia.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Shallan encuentra que los dos guardianes se reducen de tamaño y que la puerta ya no puede activarse.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-145-gate-white",
+        "entryId": "spren-person-urithiru-white-row22",
+        "value": "Shallan encuentra que los dos guardianes se reducen de tamaño y que la puerta ya no puede activarse.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. La puerta se queda sin luz tormentosa tras el paso de Renarin y Rlain.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-145-gate-black",
+        "entryId": "spren-person-urithiru-black-row22",
+        "value": "La puerta se queda sin luz tormentosa tras el paso de Renarin y Rlain.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Espina Negra del Reino Espiritual",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-blackthorn-spren-wat145-name",
+        "entryId": "spren-person-blackthorn-spren-wat145",
+        "value": "Espina Negra del Reino Espiritual",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Represalia lo encuentra en el Reino Espiritual entre los restos de una visión y consigue su apoyo. El Dalinar original ha muerto.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-blackthorn-spren-wat145-description",
+        "entryId": "spren-person-blackthorn-spren-wat145",
+        "value": "Represalia lo encuentra en el Reino Espiritual entre los restos de una visión y consigue su apoyo. El Dalinar original ha muerto.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar llama método de Vedel al que utiliza para incorporar a Kaladin. Dice que exige un juramento y un fragmento del poder de un dios.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-145-vedel",
+        "entryId": "herald-vedel-historical-codex",
+        "value": "Ishar llama método de Vedel al que utiliza para incorporar a Kaladin. Dice que exige un juramento y un fragmento del poder de un dios.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar le explica que su alma dejará atrás el cuerpo original. Kaladin alcanza a sentir a los otros Heraldos antes de perder la consciencia.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-145-kaladin",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Ishar le explica que su alma dejará atrás el cuerpo original. Kaladin alcanza a sentir a los otros Heraldos antes de perder la consciencia.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. El Juramento protege a los spren. Ishar explica que los cuerpos del Retorno se forman con poder y sin ocupar personas.",
+        "sourceIds": [
+          "primary310-wat-145"
+        ],
+        "id": "primary310-archive-145-heralds",
+        "entryId": "herald-heralds-collective",
+        "value": "El Juramento protege a los spren. Ishar explica que los cuerpos del Retorno se forman con poder y sin ocupar personas.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-145"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. El Hermano entra en un estado que Sagaz llama coma autoprotector. La torre permanece operativa tras cerrarse la cúpula.",
+        "sourceIds": [
+          "primary310-wat-146"
+        ],
+        "id": "primary310-archive-146-sibling",
+        "entryId": "spren-person-sibling-epigraph-ob68",
+        "value": "El Hermano entra en un estado que Sagaz llama coma autoprotector. La torre permanece operativa tras cerrarse la cúpula.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-146"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Vibra a Esperanza cuando Venli se pregunta si puede encontrar la paz.",
+        "sourceIds": [
+          "primary310-wat-146"
+        ],
+        "id": "primary310-archive-146-timbre",
+        "entryId": "spren-person-venli-light-obi6",
+        "value": "Vibra a Esperanza cuando Venli se pregunta si puede encontrar la paz.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-146"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Xorm",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-xorm-wat147-name",
+        "entryId": "spren-person-xorm-wat147",
+        "value": "Xorm",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Yanagawn lo nombra como el spren de su hoja y dice que sigue recuperándose.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-xorm-wat147-description",
+        "entryId": "spren-person-xorm-wat147",
+        "value": "Yanagawn lo nombra como el spren de su hoja y dice que sigue recuperándose.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Regresa de Urithiru y ya puede mirarse con ojos visibles, aunque siguen las cicatrices. Su vínculo con Adolin le permite cruzar sin las Puertas Juradas.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-maya",
+        "entryId": "spren-person-ob87-platform-thread-spren",
+        "value": "Regresa de Urithiru y ya puede mirarse con ojos visibles, aunque siguen las cicatrices. Su vínculo con Adolin le permite cruzar sin las Puertas Juradas.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Confirma en Azimir que los Injuramentados todavía pueden invocar sus hojas y armaduras.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-notum",
+        "entryId": "spren-person-notum-wat63",
+        "value": "Confirma en Azimir que los Injuramentados todavía pueden invocar sus hojas y armaduras.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Ala",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-ala-name",
+        "entryId": "spren-person-ala-row115",
+        "value": "Ala",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Seon",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-ala-type",
+        "entryId": "spren-person-ala-row115",
+        "value": "Seon",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "type",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. En Haka-alaku establece contacto con Thaidakar sin luz tormentosa y acepta acompañar a Shallan manteniendo su comunicación con Thaidakar.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-ala",
+        "entryId": "spren-person-ala-row115",
+        "value": "En Haka-alaku establece contacto con Thaidakar sin luz tormentosa y acepta acompañar a Shallan manteniendo su comunicación con Thaidakar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Olo",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-olo-wat147-name",
+        "entryId": "spren-person-olo-wat147",
+        "value": "Olo",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "name",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Seon",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-olo-wat147-type",
+        "entryId": "spren-person-olo-wat147",
+        "value": "Seon",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "type",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Ala dice que salió de Urithiru y se dirige a las Llanuras Quebradas. Shallan pide que le ofrezca un encargo en Azimir.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-olo-wat147-description",
+        "entryId": "spren-person-olo-wat147",
+        "value": "Ala dice que salió de Urithiru y se dirige a las Llanuras Quebradas. Shallan pide que le ofrezca un encargo en Azimir.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Patrón acompaña a Testimonio en Haka-alaku. Testimonio habla más y las raspaduras de sus ojos casi han desaparecido.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-testimony",
+        "entryId": "spren-person-deadeye-row29",
+        "value": "Patrón acompaña a Testimonio en Haka-alaku. Testimonio habla más y las raspaduras de sus ojos casi han desaparecido.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Haka-alaku tiene un gobierno local cumbrespren con un senado que incluye humanos. Los Fusionados tienen el control efectivo de la ciudad.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-peakspren",
+        "entryId": "spren-type-peakspren-row22",
+        "value": "Haka-alaku tiene un gobierno local cumbrespren con un senado que incluye humanos. Los Fusionados tienen el control efectivo de la ciudad.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Se encuentra con Sigzil en la caravana iriali, se identifica como antiguo spren de Szeth y dice que ya no quiere conservar su nombre.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-highspren",
+        "entryId": "spren-person-szeth-highspren-rowi7",
+        "value": "Se encuentra con Sigzil en la caravana iriali, se identifica como antiguo spren de Szeth y dice que ya no quiere conservar su nombre.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Sigzil refiere que Vienta le envió un mensaje. Vive, está sanando y no quiere hablarle. No se precisa dónde se encuentra.",
+        "sourceIds": [
+          "primary310-wat-147"
+        ],
+        "id": "primary310-archive-147-vienta",
+        "entryId": "spren-person-sigzil-row19",
+        "value": "Sigzil refiere que Vienta le envió un mensaje. Vive, está sanando y no quiere hablarle. No se precisa dónde se encuentra.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-chapter-147"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Se presenta a Kalak como reemplazo de Jezrien en la visión que protege sus mentes. Le ofrece ayuda antes del próximo Retorno.",
+        "sourceIds": [
+          "primary310-wat-postludioa"
+        ],
+        "id": "primary310-archive-postlude-kaladin",
+        "entryId": "herald-kaladin-wat144",
+        "value": "Se presenta a Kalak como reemplazo de Jezrien en la visión que protege sus mentes. Le ofrece ayuda antes del próximo Retorno.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-postlude-a"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Despierta en un promontorio de la visión. Después de oír que Taln los perdona, toma la mano que le ofrece Kaladin.",
+        "sourceIds": [
+          "primary310-wat-postludioa"
+        ],
+        "id": "primary310-archive-postlude-kalak",
+        "entryId": "herald-kelek-puuli",
+        "value": "Despierta en un promontorio de la visión. Después de oír que Taln los perdona, toma la mano que le ofrece Kaladin.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-postlude-a"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kaladin transmite a Kalak que Taln ha perdonado a los demás. Taln está en el refugio y todavía necesita tiempo.",
+        "sourceIds": [
+          "primary310-wat-postludioa"
+        ],
+        "id": "primary310-archive-postlude-taln",
+        "entryId": "herald-talenel",
+        "value": "Kaladin transmite a Kalak que Taln ha perdonado a los demás. Taln está en el refugio y todavía necesita tiempo.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-postlude-a"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kaladin explica que sus mentes están en el refugio creado por Ishar y que allí disponen de tiempo para recuperarse antes de regresar a Roshar.",
+        "sourceIds": [
+          "primary310-wat-postludioa"
+        ],
+        "id": "primary310-archive-postlude-heralds",
+        "entryId": "herald-heralds-collective",
+        "value": "Kaladin explica que sus mentes están en el refugio creado por Ishar y que allí disponen de tiempo para recuperarse antes de regresar a Roshar.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-postlude-a"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXXV.xhtml. Nominadores de lo Otro",
+        "sourceIds": [
+          "primary310-wat-plate-25"
+        ],
+        "id": "primary310-archive-final-battah-order",
+        "entryId": "herald-battar-historical-codex",
+        "value": "Nominadores de lo Otro",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-postlude-a"
+        },
+        "field": "order",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXXV.xhtml",
+        "supersedes": []
+      },
+      {
+        "status": "confirmed",
+        "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXXV.xhtml. En el retrato de cierre, que el índice nombra Battah, lleva diadema y el glifo plateado de los Nominadores de lo Otro.",
+        "sourceIds": [
+          "primary310-wat-plate-25"
+        ],
+        "id": "primary310-archive-final-battah-portrait",
+        "entryId": "herald-battar-historical-codex",
+        "value": "En el retrato de cierre, que el índice nombra Battah, lleva diadema y el glifo plateado de los Nominadores de lo Otro.",
+        "revealedAt": {
+          "bookId": "wat",
+          "sceneId": "wat-postlude-a"
+        },
+        "field": "description",
+        "readingLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXXV.xhtml",
+        "supersedes": []
       }
     ],
     "links": [
@@ -31839,6 +32918,20 @@ window.ATLAS_DATA = {
       "revealedAt": {
         "bookId": "wat",
         "sceneId": "wat-chapter-131"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La firma al pie del epígrafe identifica a la cronista con Masha-hija-Shaliv. Jasnah ya había citado sus volúmenes en Juramentada.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-alias-author-masha",
+      "from": "wind-truth-book-author-wat",
+      "to": "masha-daughter-shaliv-ob56",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
       }
     }
   ],
@@ -49780,6 +50873,141 @@ window.ATLAS_DATA = {
       "networkEvidence": {
         "kind": "relationship",
         "reason": "Ishar dice que Derethil necesitaba la ayuda de su nieto para caminar. No da su nombre ni el de su progenitor."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Masha identifica a Szeth como su marido en una crónica redactada seis años después del Caetormenta.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-relationship-szeth-masha",
+      "from": "szeth",
+      "to": "masha-daughter-shaliv-ob56",
+      "kind": "spouse",
+      "category": "family",
+      "label": "Esposos",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Masha identifica a Szeth como su marido en una crónica redactada seis años después del Caetormenta."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Masha identifica a Szeth como su marido en una crónica redactada seis años después del Caetormenta."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. El nombre Masha-hija-Shaliv identifica a Shaliv en su filiación. El epígrafe no indica cuándo se celebró el matrimonio ni qué miembro de la pareja de la granja era Shaliv.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-relationship-shaliv-masha",
+      "from": "shaliv-ob56",
+      "to": "masha-daughter-shaliv-ob56",
+      "kind": "parent",
+      "category": "family",
+      "label": "Progenitor citado en el nombre → hija",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "El nombre Masha-hija-Shaliv identifica a Shaliv en su filiación. El epígrafe no indica cuándo se celebró el matrimonio ni qué miembro de la pareja de la granja era Shaliv."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El nombre Masha-hija-Shaliv identifica a Shaliv en su filiación. El epígrafe no indica cuándo se celebró el matrimonio ni qué miembro de la pareja de la granja era Shaliv."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. El emperador menciona por nombre al spren de su espada.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-relationship-yanagawn-xorm",
+      "from": "gawx",
+      "to": "xorm-wat147",
+      "kind": "companion",
+      "category": "social",
+      "label": "Yanagawn y su spren de la hoja",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "El emperador menciona por nombre al spren de su espada."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "El emperador menciona por nombre al spren de su espada."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Thaidakar dice que tendrá que darle al hermano de Iyatil la noticia de su muerte.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-relationship-iyatil-brother",
+      "from": "iyatil",
+      "to": "iyatil-brother-wat147",
+      "kind": "sibling",
+      "category": "family",
+      "label": "Hermanos",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "certainty": "stated",
+      "state": "known",
+      "supersedes": [],
+      "notes": [
+        "Thaidakar dice que tendrá que darle al hermano de Iyatil la noticia de su muerte."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Thaidakar dice que tendrá que darle al hermano de Iyatil la noticia de su muerte."
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Hoid dice que su anterior patrona en otro planeta rompió con él. El 146 contiene la despedida a Jasnah y el 147 recuerda a la mujer a la que había amado.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-relationship-epilogue-wit-jasnah",
+      "from": "wit",
+      "to": "jasnah",
+      "kind": "partner",
+      "category": "social",
+      "label": "Antigua relación",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "certainty": "stated",
+      "state": "former",
+      "supersedes": [],
+      "notes": [
+        "Hoid dice que su anterior patrona en otro planeta rompió con él. El 146 contiene la despedida a Jasnah y el 147 recuerda a la mujer a la que había amado."
+      ],
+      "networkEvidence": {
+        "kind": "relationship",
+        "reason": "Hoid dice que su anterior patrona en otro planeta rompió con él. El 146 contiene la despedida a Jasnah y el 147 recuerda a la mujer a la que había amado."
       }
     }
   ],
@@ -123879,6 +125107,1075 @@ window.ATLAS_DATA = {
           ]
         ]
       }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Szeth vence a cuatro de los portadores, incluida su hermana. El Viento habla con Kaladin.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-141-porters",
+      "participants": [
+        "szeth",
+        "pozen-wat53",
+        "moss-wat70",
+        "shin-stoneward-fused-wat141",
+        "elid-wat24",
+        "kaladin",
+        "wat-wind-speaker"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conflict",
+      "summary": "Szeth vence a cuatro de los portadores, incluida su hermana. El Viento habla con Kaladin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Szeth vence a cuatro de los portadores, incluida su hermana. El Viento habla con Kaladin.",
+        "pairs": [
+          [
+            "szeth",
+            "pozen-wat53"
+          ],
+          [
+            "szeth",
+            "moss-wat70"
+          ],
+          [
+            "szeth",
+            "shin-stoneward-fused-wat141"
+          ],
+          [
+            "szeth",
+            "elid-wat24"
+          ],
+          [
+            "kaladin",
+            "wat-wind-speaker"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Rlain se interpone entre Mishram y Renarin y defiende que los actos de un humano concreto importan más que lo que ella atribuye a su pueblo.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-141-mishram",
+      "participants": [
+        "shen",
+        "ba-ado-mishram-ob80",
+        "renarin"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Rlain se interpone entre Mishram y Renarin y defiende que los actos de un humano concreto importan más que lo que ella atribuye a su pueblo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Rlain se interpone entre Mishram y Renarin y defiende que los actos de un humano concreto importan más que lo que ella atribuye a su pueblo.",
+        "pairs": [
+          [
+            "shen",
+            "ba-ado-mishram-ob80"
+          ],
+          [
+            "renarin",
+            "shen"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. El poder acepta a Dalinar tras la liberación de Mishram y Dalinar se acerca a Odium.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-141-ascension",
+      "participants": [
+        "dalinar",
+        "honor-power-wat-i16",
+        "taravangian"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "El poder acepta a Dalinar tras la liberación de Mishram y Dalinar se acerca a Odium.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El poder acepta a Dalinar tras la liberación de Mishram y Dalinar se acerca a Odium.",
+        "pairs": [
+          [
+            "dalinar",
+            "honor-power-wat-i16"
+          ],
+          [
+            "dalinar",
+            "taravangian"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Dalinar contiene el choque tras oír al Padre Tormenta y considera cómo puede cambiar el poder de Honor.",
+      "sourceIds": [
+        "primary310-wat-142"
+      ],
+      "id": "primary310-142-duel-restraint",
+      "participants": [
+        "dalinar",
+        "taravangian",
+        "stormfather",
+        "honor-power-wat-i16"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-142"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Dalinar contiene el choque tras oír al Padre Tormenta y considera cómo puede cambiar el poder de Honor.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar contiene el choque tras oír al Padre Tormenta y considera cómo puede cambiar el poder de Honor.",
+        "pairs": [
+          [
+            "dalinar",
+            "taravangian"
+          ],
+          [
+            "dalinar",
+            "stormfather"
+          ],
+          [
+            "dalinar",
+            "honor-power-wat-i16"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. El Viento pide a Kaladin que esté preparado y este intenta que Ishar abra una perpendicularidad.",
+      "sourceIds": [
+        "primary310-wat-142"
+      ],
+      "id": "primary310-142-kaladin-wind",
+      "participants": [
+        "kaladin",
+        "wat-wind-speaker",
+        "syl",
+        "ishar-mentioned"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-142"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "El Viento pide a Kaladin que esté preparado y este intenta que Ishar abra una perpendicularidad.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Viento pide a Kaladin que esté preparado y este intenta que Ishar abra una perpendicularidad.",
+        "pairs": [
+          [
+            "kaladin",
+            "wat-wind-speaker"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "ishar-mentioned"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Neturo cuenta cómo acabó bajo el mando de Ishar. Sangre Nocturna cesa tras escuchar a Kaladin.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-143-neturo",
+      "participants": [
+        "szeth",
+        "neturo",
+        "truthwatcher-holder-wat72",
+        "black-sword",
+        "kaladin"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conflict",
+      "summary": "Neturo cuenta cómo acabó bajo el mando de Ishar. Sangre Nocturna cesa tras escuchar a Kaladin.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Neturo cuenta cómo acabó bajo el mando de Ishar. Sangre Nocturna cesa tras escuchar a Kaladin.",
+        "pairs": [
+          [
+            "szeth",
+            "neturo"
+          ],
+          [
+            "szeth",
+            "truthwatcher-holder-wat72"
+          ],
+          [
+            "szeth",
+            "black-sword"
+          ],
+          [
+            "kaladin",
+            "black-sword"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan lleva a los spren heridos con Sja-anat y discute con ella el trato que les dio a los dos grupos.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-143-sja-anat",
+      "participants": [
+        "shallan",
+        "sja-anat",
+        "pattern",
+        "mraize-spren-wat138",
+        "iyatil-spren-wat134"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Shallan lleva a los spren heridos con Sja-anat y discute con ella el trato que les dio a los dos grupos.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan lleva a los spren heridos con Sja-anat y discute con ella el trato que les dio a los dos grupos.",
+        "pairs": [
+          [
+            "shallan",
+            "sja-anat"
+          ],
+          [
+            "shallan",
+            "pattern"
+          ],
+          [
+            "pattern",
+            "mraize-spren-wat138"
+          ],
+          [
+            "shallan",
+            "iyatil-spren-wat134"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Dalinar renuncia a sus juramentos. Taravangian destruye al Padre Tormenta y los poderes se reúnen en él como Represalia.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-143-retribution",
+      "participants": [
+        "dalinar",
+        "taravangian",
+        "stormfather",
+        "honor-power-wat-i16"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conflict",
+      "summary": "Dalinar renuncia a sus juramentos. Taravangian destruye al Padre Tormenta y los poderes se reúnen en él como Represalia.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Dalinar renuncia a sus juramentos. Taravangian destruye al Padre Tormenta y los poderes se reúnen en él como Represalia.",
+        "pairs": [
+          [
+            "dalinar",
+            "taravangian"
+          ],
+          [
+            "taravangian",
+            "stormfather"
+          ],
+          [
+            "dalinar",
+            "honor-power-wat-i16"
+          ],
+          [
+            "taravangian",
+            "honor-power-wat-i16"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. El Viento propone rehacer el Juramento. Kaladin se ofrece, Syl acepta sus Palabras e Ishar y Nale sostienen las hojas en el círculo.",
+      "sourceIds": [
+        "primary310-wat-144"
+      ],
+      "id": "primary310-144-reforge",
+      "participants": [
+        "kaladin",
+        "ishar-mentioned",
+        "crescent-scar-stranger",
+        "syl",
+        "wat-wind-speaker"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-144"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "El Viento propone rehacer el Juramento. Kaladin se ofrece, Syl acepta sus Palabras e Ishar y Nale sostienen las hojas en el círculo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Viento propone rehacer el Juramento. Kaladin se ofrece, Syl acepta sus Palabras e Ishar y Nale sostienen las hojas en el círculo.",
+        "pairs": [
+          [
+            "kaladin",
+            "ishar-mentioned"
+          ],
+          [
+            "kaladin",
+            "crescent-scar-stranger"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "wat-wind-speaker"
+          ],
+          [
+            "crescent-scar-stranger",
+            "ishar-mentioned"
+          ],
+          [
+            "ishar-mentioned",
+            "wat-wind-speaker"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. El Hermano propone mantener a Represalia fuera de Urithiru con sus defensas y Navani accede.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-145-navani-sibling",
+      "participants": [
+        "navani",
+        "ob68-sibling-epigraph"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "El Hermano propone mantener a Represalia fuera de Urithiru con sus defensas y Navani accede.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "El Hermano propone mantener a Represalia fuera de Urithiru con sus defensas y Navani accede.",
+        "pairs": [
+          [
+            "navani",
+            "ob68-sibling-epigraph"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Shallan pide volver al Reino Físico. Los spren explican que ya no disponen de luz tormentosa.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-145-shallan-gate",
+      "participants": [
+        "shallan",
+        "urithiru-white-sentinel-row22",
+        "urithiru-black-sentinel-row22"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Shallan pide volver al Reino Físico. Los spren explican que ya no disponen de luz tormentosa.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan pide volver al Reino Físico. Los spren explican que ya no disponen de luz tormentosa.",
+        "pairs": [
+          [
+            "shallan",
+            "urithiru-white-sentinel-row22"
+          ],
+          [
+            "shallan",
+            "urithiru-black-sentinel-row22"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Represalia encuentra al Espina Negra nacido de la visión y le pregunta si lo servirá. El Espina Negra acepta.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-145-blackthorn",
+      "participants": [
+        "taravangian",
+        "blackthorn-spren-wat145"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Represalia encuentra al Espina Negra nacido de la visión y le pregunta si lo servirá. El Espina Negra acepta.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Represalia encuentra al Espina Negra nacido de la visión y le pregunta si lo servirá. El Espina Negra acepta.",
+        "pairs": [
+          [
+            "taravangian",
+            "blackthorn-spren-wat145"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar aplica a Kaladin el método de Vedel. El Viento confirma que el Juramento está protegiendo a los spren.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-145-herald-transition",
+      "participants": [
+        "ishar-mentioned",
+        "kaladin",
+        "syl",
+        "wat-wind-speaker"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Ishar aplica a Kaladin el método de Vedel. El Viento confirma que el Juramento está protegiendo a los spren.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ishar aplica a Kaladin el método de Vedel. El Viento confirma que el Juramento está protegiendo a los spren.",
+        "pairs": [
+          [
+            "ishar-mentioned",
+            "kaladin"
+          ],
+          [
+            "kaladin",
+            "syl"
+          ],
+          [
+            "kaladin",
+            "wat-wind-speaker"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Sagaz transfiere la Esquirla del Amanecer a Sigzil antes de ser vaporizado. El aparato arroja a Sigzil al Reino Cognitivo.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-146-dawnshard",
+      "participants": [
+        "wit",
+        "sigzil",
+        "taravangian",
+        "lirin"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Sagaz transfiere la Esquirla del Amanecer a Sigzil antes de ser vaporizado. El aparato arroja a Sigzil al Reino Cognitivo.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sagaz transfiere la Esquirla del Amanecer a Sigzil antes de ser vaporizado. El aparato arroja a Sigzil al Reino Cognitivo.",
+        "pairs": [
+          [
+            "wit",
+            "sigzil"
+          ],
+          [
+            "wit",
+            "taravangian"
+          ],
+          [
+            "lirin",
+            "sigzil"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin acuerda trabajar con Jasnah en un gobierno representativo y se despide de su padre en la cima.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-146-urithiru",
+      "participants": [
+        "renarin",
+        "shen",
+        "jasnah",
+        "sebarial",
+        "aladar"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Renarin acuerda trabajar con Jasnah en un gobierno representativo y se despide de su padre en la cima.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Renarin acuerda trabajar con Jasnah en un gobierno representativo y se despide de su padre en la cima.",
+        "pairs": [
+          [
+            "renarin",
+            "shen"
+          ],
+          [
+            "renarin",
+            "jasnah"
+          ],
+          [
+            "renarin",
+            "sebarial"
+          ],
+          [
+            "renarin",
+            "aladar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Venli acompaña a Bila al estanque oculto y le explica a Thude lo que implica el cambio.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-146-narak-pool",
+      "participants": [
+        "venli",
+        "jaxlim",
+        "bila",
+        "thude"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Décimo día."
+      },
+      "type": "conversation",
+      "summary": "Venli acompaña a Bila al estanque oculto y le explica a Thude lo que implica el cambio.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Venli acompaña a Bila al estanque oculto y le explica a Thude lo que implica el cambio.",
+        "pairs": [
+          [
+            "venli",
+            "jaxlim"
+          ],
+          [
+            "venli",
+            "bila"
+          ],
+          [
+            "venli",
+            "thude"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Ulaam recibe a Hoid y le advierte de que las noticias de Roshar llegan con un retraso extraordinario.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-147-hoid-ulaam",
+      "participants": [
+        "wit",
+        "ulaam-wat147"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Consecuencias tras el Caetormenta; las escenas avanzan con plazos distintos."
+      },
+      "type": "conversation",
+      "summary": "Ulaam recibe a Hoid y le advierte de que las noticias de Roshar llegan con un retraso extraordinario.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Ulaam recibe a Hoid y le advierte de que las noticias de Roshar llegan con un retraso extraordinario.",
+        "pairs": [
+          [
+            "wit",
+            "ulaam-wat147"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Maya trae noticias de Urithiru. La reunión constata que los Injuramentados conservan sus hojas y que la lluvia ha comenzado a parar.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-147-azimir",
+      "participants": [
+        "adolin",
+        "ob87-platform-thread-spren",
+        "noura",
+        "gawx",
+        "notum-ob108",
+        "zabra-wat60"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+      },
+      "type": "conversation",
+      "summary": "Maya trae noticias de Urithiru. La reunión constata que los Injuramentados conservan sus hojas y que la lluvia ha comenzado a parar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Maya trae noticias de Urithiru. La reunión constata que los Injuramentados conservan sus hojas y que la lluvia ha comenzado a parar.",
+        "pairs": [
+          [
+            "adolin",
+            "ob87-platform-thread-spren"
+          ],
+          [
+            "adolin",
+            "noura"
+          ],
+          [
+            "gawx",
+            "notum-ob108"
+          ],
+          [
+            "gawx",
+            "zabra-wat60"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan y Thaidakar pactan una tregua personal. Ala acepta acompañar a Shallan si puede informar a Thaidakar de lo que observe.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-147-truce",
+      "participants": [
+        "shallan",
+        "felt-scout-pr81",
+        "ala-row115",
+        "thaidakar"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+      },
+      "type": "conversation",
+      "summary": "Shallan y Thaidakar pactan una tregua personal. Ala acepta acompañar a Shallan si puede informar a Thaidakar de lo que observe.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Shallan y Thaidakar pactan una tregua personal. Ala acepta acompañar a Shallan si puede informar a Thaidakar de lo que observe.",
+        "pairs": [
+          [
+            "shallan",
+            "felt-scout-pr81"
+          ],
+          [
+            "shallan",
+            "ala-row115"
+          ],
+          [
+            "shallan",
+            "thaidakar"
+          ],
+          [
+            "ala-row115",
+            "thaidakar"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Sigzil llega a la caravana. Allí escucha al antiguo spren de Szeth contar lo que vio en Shinovar.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-147-sigzil-caravan",
+      "participants": [
+        "sigzil",
+        "iriali-caravan-guards-wat147",
+        "iriali-caravan-host-family-wat147",
+        "szeth-highspren-rowi7"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+      },
+      "type": "conversation",
+      "summary": "Sigzil llega a la caravana. Allí escucha al antiguo spren de Szeth contar lo que vio en Shinovar.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Sigzil llega a la caravana. Allí escucha al antiguo spren de Szeth contar lo que vio en Shinovar.",
+        "pairs": [
+          [
+            "sigzil",
+            "iriali-caravan-guards-wat147"
+          ],
+          [
+            "sigzil",
+            "iriali-caravan-host-family-wat147"
+          ],
+          [
+            "sigzil",
+            "szeth-highspren-rowi7"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Taravangian abraza a Adrotagia y a sus nietas en el palacio de la ciudad recreada.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-147-kharbranth-family",
+      "participants": [
+        "taravangian",
+        "adrotagia",
+        "taravangian-grandchildren-wat-i8"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Para Roshar han pasado meses y fuera han transcurrido años, según el narrador."
+      },
+      "type": "conversation",
+      "summary": "Taravangian abraza a Adrotagia y a sus nietas en el palacio de la ciudad recreada.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Taravangian abraza a Adrotagia y a sus nietas en el palacio de la ciudad recreada.",
+        "pairs": [
+          [
+            "taravangian",
+            "adrotagia"
+          ],
+          [
+            "taravangian",
+            "taravangian-grandchildren-wat-i8"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Grimes entrevista a Hoid y le dice cuándo debe presentarse. Antes de hablar con ella, Hoid se dirige a otra persona en la sala.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-epilogue-hoid-grimes",
+      "participants": [
+        "wit",
+        "grimes-wat-epilogue",
+        "ladrian-housekeeper-applicant-wat-epilogue"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Cierre narrativo tras el Caetormenta; cronología relativa."
+      },
+      "type": "conversation",
+      "summary": "Grimes entrevista a Hoid y le dice cuándo debe presentarse. Antes de hablar con ella, Hoid se dirige a otra persona en la sala.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Grimes entrevista a Hoid y le dice cuándo debe presentarse. Antes de hablar con ella, Hoid se dirige a otra persona en la sala.",
+        "pairs": [
+          [
+            "wit",
+            "grimes-wat-epilogue"
+          ],
+          [
+            "wit",
+            "ladrian-housekeeper-applicant-wat-epilogue"
+          ]
+        ]
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kaladin recibe a Kalak y le transmite que Taln los perdona. Le ofrece ayuda y Kalak le toma la mano.",
+      "sourceIds": [
+        "primary310-wat-postludioa"
+      ],
+      "id": "primary310-postlude-kalak",
+      "participants": [
+        "kaladin",
+        "kelek-puuli"
+      ],
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-postlude-a"
+      },
+      "storyTime": {
+        "frame": "present",
+        "relationToStart": "after-start",
+        "date": null,
+        "precision": "relative-only",
+        "relativeYearsBeforePresent": null,
+        "note": "Cierre narrativo tras el Caetormenta; cronología relativa."
+      },
+      "type": "conversation",
+      "summary": "Kaladin recibe a Kalak y le transmite que Taln los perdona. Le ofrece ayuda y Kalak le toma la mano.",
+      "supersedes": [],
+      "networkEvidence": {
+        "kind": "interaction",
+        "reason": "Kaladin recibe a Kalak y le transmite que Taln los perdona. Le ofrece ayuda y Kalak le toma la mano.",
+        "pairs": [
+          [
+            "kaladin",
+            "kelek-puuli"
+          ]
+        ]
+      }
     }
   ],
   "characterFacts": [
@@ -183091,6 +185388,1078 @@ window.ATLAS_DATA = {
       "kind": "background",
       "text": "Conecta con Kaladin mientras absorbe su luz tormentosa. En manos de Szeth, dice poder devolverle sus enlaces.",
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Caballeros de viento y verdad, página 266. La autora juzga insuficiente lo que se ha documentado sobre las reacciones que provoca la Espada Negra y propone una interpretación ligada a la codicia.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-fact-wind-truth-book-author-wat-epigraph-141",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 266. La autora juzga insuficiente lo que se ha documentado sobre las reacciones que provoca la Espada Negra y propone una interpretación ligada a la codicia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Portadora sin nombre que levanta una pared de roca antes de ser alcanzada por Szeth.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-fact-shin-stoneward-fused-wat141-shin-stoneward-fused-wat141-intro",
+      "characterId": "shin-stoneward-fused-wat141",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "kind": "background",
+      "text": "Portadora sin nombre que levanta una pared de roca antes de ser alcanzada por Szeth.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Szeth la identifica como la Portadora del Polvo. Sus manifestaciones en el combate corresponden a la forma controlada por Ishar.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-fact-elid-wat24-141-dustbringer",
+      "characterId": "elid-wat24",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "kind": "background",
+      "text": "Szeth la identifica como la Portadora del Polvo. Sus manifestaciones en el combate corresponden a la forma controlada por Ishar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Se convierte en recipiente de Honor. La liberación de Mishram ayuda a que el poder deje de resistirse.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-fact-dalinar-141-honor",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "kind": "background",
+      "text": "Se convierte en recipiente de Honor. La liberación de Mishram ayuda a que el poder deje de resistirse.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Caballeros de viento y verdad, página 181. La cronista recuerda el estruendo y el temblor que percibió a gran distancia de Urithiru.",
+      "sourceIds": [
+        "primary310-wat-142"
+      ],
+      "id": "primary310-fact-wind-truth-book-author-wat-epigraph-142",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-142"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 181. La cronista recuerda el estruendo y el temblor que percibió a gran distancia de Urithiru.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. La figura de la última visión dice que le pusieron Bajerden al nacer. Deja abierta la posibilidad de ser el verdadero Nohadon o un constructo.",
+      "sourceIds": [
+        "primary310-wat-142"
+      ],
+      "id": "primary310-fact-nohadon-142-bajerden",
+      "characterId": "nohadon",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-142"
+      },
+      "kind": "background",
+      "text": "La figura de la última visión dice que le pusieron Bajerden al nacer. Deja abierta la posibilidad de ser el verdadero Nohadon o un constructo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. En la visión toma aspecto de persona joven. Dice a Dalinar que lo eligió porque este comprendió su experiencia.",
+      "sourceIds": [
+        "primary310-wat-142"
+      ],
+      "id": "primary310-fact-honor-power-wat-i16-142-young-consciousness",
+      "characterId": "honor-power-wat-i16",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-142"
+      },
+      "kind": "background",
+      "text": "En la visión toma aspecto de persona joven. Dice a Dalinar que lo eligió porque este comprendió su experiencia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Caballeros de viento y verdad, página 281. La cronista atribuye al Caballero de la Verdad haber impedido el daño causado por el propio profetizador.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-wind-truth-book-author-wat-epigraph-143",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 281. La cronista atribuye al Caballero de la Verdad haber impedido el daño causado por el propio profetizador.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Cuenta que Sivi le habló del nuevo dios cuando estaban en el monasterio de Pozen, y que después Ishar se apoderó de él.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-neturo-143-joining",
+      "characterId": "neturo",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Cuenta que Sivi le habló del nuevo dios cuando estaban en el monasterio de Pozen, y que después Ishar se apoderó de él.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Deja de consumir a sus amigos cuando Kaladin le recuerda que puede elegir qué hacer.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-black-sword-143-chooses",
+      "characterId": "black-sword",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Deja de consumir a sus amigos cuando Kaladin le recuerda que puede elegir qué hacer.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Libera a sus familiares de su estado bajo Ishar. Pierde un brazo al consumirlo Sangre Nocturna antes de que la espada se detenga.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-szeth-143-free",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Libera a sus familiares de su estado bajo Ishar. Pierde un brazo al consumirlo Sangre Nocturna antes de que la espada se detenga.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan ayuda a llevar al spren herido hasta Sja-anat, que los llama sus hijos.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-iyatil-spren-wat134-143-sja-anat",
+      "characterId": "iyatil-spren-wat134",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Shallan ayuda a llevar al spren herido hasta Sja-anat, que los llama sus hijos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan ayuda a llevar al spren herido hasta Sja-anat, que los llama sus hijos.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-mraize-spren-wat138-143-sja-anat",
+      "characterId": "mraize-spren-wat138",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Shallan ayuda a llevar al spren herido hasta Sja-anat, que los llama sus hijos.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Él y Renarin desaparecen al activarse la puerta de Urithiru antes de que Shallan alcance la plataforma.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-shen-143-oathgate",
+      "characterId": "shen",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Él y Renarin desaparecen al activarse la puerta de Urithiru antes de que Shallan alcance la plataforma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Reúne los poderes de Honor y Odium. Pequeñas partes de Honor se separan antes de que termine de absorberlo.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-taravangian-143-retribution",
+      "characterId": "taravangian",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Reúne los poderes de Honor y Odium. Pequeñas partes de Honor se separan antes de que termine de absorberlo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Renuncia a sus juramentos y libera a Odium. Con el Gambito del Hacedor de Soles dirige la atención de las demás Esquirlas a Represalia para ganar tiempo.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-fact-dalinar-143-gambit",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "kind": "background",
+      "text": "Renuncia a sus juramentos y libera a Odium. Con el Gambito del Hacedor de Soles dirige la atención de las demás Esquirlas a Represalia para ganar tiempo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Caballeros de viento y verdad, página 271. La cronista distingue el comienzo de una parte que solo puede reconstruir por conjetura, porque sus dos testigos estaban inconscientes.",
+      "sourceIds": [
+        "primary310-wat-144"
+      ],
+      "id": "primary310-fact-wind-truth-book-author-wat-epigraph-144",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-144"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 271. La cronista distingue el comienzo de una parte que solo puede reconstruir por conjetura, porque sus dos testigos estaban inconscientes.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Sustituye a Jezrien y escoge llamarse Heraldo de las Segundas Oportunidades. Su lanza nace de Honor.",
+      "sourceIds": [
+        "primary310-wat-144"
+      ],
+      "id": "primary310-fact-kaladin-144-herald",
+      "characterId": "kaladin",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-144"
+      },
+      "kind": "background",
+      "text": "Sustituye a Jezrien y escoge llamarse Heraldo de las Segundas Oportunidades. Su lanza nace de Honor.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y el Viento dicen que, tras la ruptura, Cultivación ha emprendido la huida de Roshar.",
+      "sourceIds": [
+        "primary310-wat-144"
+      ],
+      "id": "primary310-fact-cultivation-144-flight-report",
+      "characterId": "cultivation",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-144"
+      },
+      "kind": "background",
+      "text": "Ishar y el Viento dicen que, tras la ruptura, Cultivación ha emprendido la huida de Roshar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Caballeros de viento y verdad, página 289. La autora afirma que murió el Caballero del Viento y que consiguió al menos parte de su propósito. Su narración se apoya en el conocimiento posterior de su cuerpo.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-fact-wind-truth-book-author-wat-epigraph-145",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 289. La autora afirma que murió el Caballero del Viento y que consiguió al menos parte de su propósito. Su narración se apoya en el conocimiento posterior de su cuerpo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Está inconsciente pero respira bajo el cuerpo de Dalinar, que lo ha protegido de la tempestad.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-fact-elhokar-son-145-survives",
+      "characterId": "elhokar-son",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "kind": "background",
+      "text": "Está inconsciente pero respira bajo el cuerpo de Dalinar, que lo ha protegido de la tempestad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. El alma de Dalinar escapa hacia el Más Allá. Los poderes dicen que otra entidad lo reclama, sin identificarla.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-fact-dalinar-145-beyond",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "kind": "background",
+      "text": "El alma de Dalinar escapa hacia el Más Allá. Los poderes dicen que otra entidad lo reclama, sin identificarla.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. La tormenta eterna consume la alta tormenta. Represalia intenta absorber a los spren y descubre que el nuevo Juramento los protege.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-fact-taravangian-145-constraint",
+      "characterId": "taravangian",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "kind": "background",
+      "text": "La tormenta eterna consume la alta tormenta. Represalia intenta absorber a los spren y descubre que el nuevo Juramento los protege.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Represalia percibe que Cultivación se ha marchado de Roshar. Su destino queda abierto.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-fact-cultivation-145-departure",
+      "characterId": "cultivation",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "kind": "background",
+      "text": "Represalia percibe que Cultivación se ha marchado de Roshar. Su destino queda abierto.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Spren naciente moldeado por la leyenda del Espina Negra y la Conexión con los recuerdos de Dalinar. Represalia le ofrece ser su campeón.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-fact-blackthorn-spren-wat145-blackthorn-spren-wat145-intro",
+      "characterId": "blackthorn-spren-wat145",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "kind": "background",
+      "text": "Spren naciente moldeado por la leyenda del Espina Negra y la Conexión con los recuerdos de Dalinar. Represalia le ofrece ser su campeón.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Caballeros de viento y verdad, página 290. La autora dice que ella y Szeth han pasado años sin oír al Viento, salvo un susurro. Sus hipótesis sobre el resultado del Juramento proceden de lo que pudo averiguar.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-wind-truth-book-author-wat-epigraph-146",
+      "characterId": "wind-truth-book-author-wat",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 290. La autora dice que ella y Szeth han pasado años sin oír al Viento, salvo un susurro. Sus hipótesis sobre el resultado del Juramento proceden de lo que pudo averiguar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Acepta la Esquirla del Amanecer que le entrega Sagaz y sale a Shadesmar con el encargo de alejarla de Represalia.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-sigzil-146-dawnshard",
+      "characterId": "sigzil",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Acepta la Esquirla del Amanecer que le entrega Sagaz y sale a Shadesmar con el encargo de alejarla de Represalia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Queda encerrada en cristal en Urithiru. La torre conserva servicios y luz de torre dentro de la cúpula.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-navani-146-crystal",
+      "characterId": "navani",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Queda encerrada en cristal en Urithiru. La torre conserva servicios y luz de torre dentro de la cúpula.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Rechaza el trono en nombre propio y de Adolin y pide a Jasnah que lo ayude a establecer un gobierno representativo.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-renarin-146-governance",
+      "characterId": "renarin",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Rechaza el trono en nombre propio y de Adolin y pide a Jasnah que lo ayude a establecer un gobierno representativo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Encuentra la nota en la que Sagaz acepta que su relación no podía continuar igual y se despide.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-jasnah-146-wit-note",
+      "characterId": "jasnah",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Encuentra la nota en la que Sagaz acepta que su relación no podía continuar igual y se despide.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Recoge a Sangre Nocturna y las figuras de juguete que guardaba Kaladin. Planea pedir ayuda para enterrarlo y buscar a su pueblo.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-szeth-146-leaves",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Recoge a Sangre Nocturna y las figuras de juguete que guardaba Kaladin. Planea pedir ayuda para enterrarlo y buscar a su pueblo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Los oyentes reciben instrucciones para obtener luz de Represalia. Venli reconoce el Ritmo de la Guerra en el estanque que vuelve a llenarse.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-fact-venli-146-retribution-light",
+      "characterId": "venli",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "kind": "background",
+      "text": "Los oyentes reciben instrucciones para obtener luz de Represalia. Venli reconoce el Ritmo de la Guerra en el estanque que vuelve a llenarse.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Caballeros de viento y verdad, página 292. Masha-hija-Shaliv firma la crónica seis años después del Caetormenta. Identifica a Szeth como su marido y dice que lo ayudó a enterrar el cuerpo de Kaladin al día siguiente del Caetormenta.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-masha-daughter-shaliv-ob56-epigraph-147",
+      "characterId": "masha-daughter-shaliv-ob56",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Caballeros de viento y verdad, página 292. Masha-hija-Shaliv firma la crónica seis años después del Caetormenta. Identifica a Szeth como su marido y dice que lo ayudó a enterrar el cuerpo de Kaladin al día siguiente del Caetormenta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La autora que firma aquí había dicho en el epígrafe del 129 que los Caballeros compraron el carro a sus padres. Los capítulos no asignan por nombre a cada persona de la pareja.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-masha-daughter-shaliv-ob56-147-farmers",
+      "characterId": "masha-daughter-shaliv-ob56",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "La autora que firma aquí había dicho en el epígrafe del 129 que los Caballeros compraron el carro a sus padres. Los capítulos no asignan por nombre a cada persona de la pareja.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Masha dice que lo ayudó a enterrar el cuerpo de Kaladin al día siguiente del Caetormenta. No da el lugar del entierro.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-szeth-147-burial",
+      "characterId": "szeth",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Masha dice que lo ayudó a enterrar el cuerpo de Kaladin al día siguiente del Caetormenta. No da el lugar del entierro.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Colaborador de Hoid que mantiene el cultivo del que puede rehacerse su cuerpo tras ser destruido.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-ulaam-wat147-ulaam-wat147-intro",
+      "characterId": "ulaam-wat147",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Colaborador de Hoid que mantiene el cultivo del que puede rehacerse su cuerpo tras ser destruido.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Retoma el nombre Hoid al recomponerse su cuerpo fuera de Roshar. Dice que necesita una seon para recibir noticias. El local de Ulaam no se identifica geográficamente.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-wit-147-offworld",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Retoma el nombre Hoid al recomponerse su cuerpo fuera de Roshar. Dice que necesita una seon para recibir noticias. El local de Ulaam no se identifica geográficamente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Contacta con un reino meditativo de los dragones para intentar comprender qué hizo Dalinar. El pasaje no localiza a los interlocutores.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-wit-147-meditation",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Contacta con un reino meditativo de los dragones para intentar comprender qué hizo Dalinar. El pasaje no localiza a los interlocutores.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Spren de la hoja del emperador Yanagawn. El emperador dice que está mejorando.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-xorm-wat147-xorm-wat147-intro",
+      "characterId": "xorm-wat147",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Spren de la hoja del emperador Yanagawn. El emperador dice que está mejorando.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los diez de Azimir pueden invocar sus hojas y armaduras sin luz tormentosa. Hay equipo para ampliar el grupo, pero aún no han decidido hacerlo.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-adolin-147-unoathed",
+      "characterId": "adolin",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Los diez de Azimir pueden invocar sus hojas y armaduras sin luz tormentosa. Hay equipo para ampliar el grupo, pero aún no han decidido hacerlo.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La luz solar vuelve a Azimir. Durante las semanas siguientes se comprueba que llega hasta la frontera de Azir, mientras la rotura de las presas del Lagopuro inunda comarcas próximas.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-adolin-147-azir-light",
+      "characterId": "adolin",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "La luz solar vuelve a Azimir. Durante las semanas siguientes se comprueba que llega hasta la frontera de Azir, mientras la rotura de las presas del Lagopuro inunda comarcas próximas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Seon que trabajaba con Sagaz. Según Ala, salió de Urithiru y se dirige hacia las Llanuras Quebradas.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-olo-wat147-olo-wat147-intro",
+      "characterId": "olo-wat147",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Seon que trabajaba con Sagaz. Según Ala, salió de Urithiru y se dirige hacia las Llanuras Quebradas.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Thaidakar afirma que todavía desconoce la muerte de su hermana. No da su nombre.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-iyatil-brother-wat147-iyatil-brother-wat147-intro",
+      "characterId": "iyatil-brother-wat147",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Thaidakar afirma que todavía desconoce la muerte de su hermana. No da su nombre.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Después de meses de viaje, ve el cráter vacío en Haka-alaku y comprueba que no puede regresar por la perpendicularidad de Cultivación. Sigue buscando una salida.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-shallan-147-crossing",
+      "characterId": "shallan",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Después de meses de viaje, ve el cráter vacío en Haka-alaku y comprueba que no puede regresar por la perpendicularidad de Cultivación. Sigue buscando una salida.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Felt la menciona al hablar de buscar otro servicio. El pasaje no sitúa a Malli en la tienda.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-malli-ob114-147-service",
+      "characterId": "malli-ob114",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Felt la menciona al hablar de buscar otro servicio. El pasaje no sitúa a Malli en la tienda.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Dice que él y Malli tendrán que buscar otra persona a la que servir tras las muertes de Dalinar y Mraize.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-felt-scout-pr81-147-malli",
+      "characterId": "felt-scout-pr81",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Dice que él y Malli tendrán que buscar otra persona a la que servir tras las muertes de Dalinar y Mraize.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Le cuenta a Shallan que Olo salió de Urithiru y va hacia las Llanuras Quebradas. Shallan le pide que le ofrezca un encargo en Azimir.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-ala-row115-147-olo",
+      "characterId": "ala-row115",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Le cuenta a Shallan que Olo salió de Urithiru y va hacia las Llanuras Quebradas. Shallan le pide que le ofrezca un encargo en Azimir.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Atribuye la dilatación del tiempo cerca de Roshar al choque y combinación de los poderes. Su plazo para que remita es una estimación.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-thaidakar-147-time",
+      "characterId": "thaidakar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Atribuye la dilatación del tiempo cerca de Roshar al choque y combinación de los poderes. Su plazo para que remita es una estimación.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Interrogan a Sigzil al llegar y lo dirigen a la zona de los viajeros no iriali.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-iriali-caravan-guards-wat147-iriali-caravan-guards-wat147-intro",
+      "characterId": "iriali-caravan-guards-wat147",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Interrogan a Sigzil al llegar y lo dirigen a la zona de los viajeros no iriali.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Ofrece descanso a Sigzil en un carro de la caravana. El pasaje no da sus nombres.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-iriali-caravan-host-family-wat147-iriali-caravan-host-family-wat147-intro",
+      "characterId": "iriali-caravan-host-family-wat147",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Ofrece descanso a Sigzil en un carro de la caravana. El pasaje no da sus nombres.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Envía a Sigzil un mensaje. Este entiende que vive y que no desea hablar con él. Su ubicación queda abierta.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-sigzil-spren-row19-147-message",
+      "characterId": "sigzil-spren-row19",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Envía a Sigzil un mensaje. Este entiende que vive y que no desea hablar con él. Su ubicación queda abierta.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La Esquirla lo sostiene durante los meses de travesía por Shadesmar. La caravana iriali le ofrece un modo de seguir viaje.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-sigzil-147-dawnshard-walk",
+      "characterId": "sigzil",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "La Esquirla lo sostiene durante los meses de travesía por Shadesmar. La caravana iriali le ofrece un modo de seguir viaje.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Está entre quienes habitan la Kharbranth del Reino Espiritual después de que Taravangian se llevara a su gente.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-taravangian-daughter-row19-147-kharbranth-survivor",
+      "characterId": "taravangian-daughter-row19",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Está entre quienes habitan la Kharbranth del Reino Espiritual después de que Taravangian se llevara a su gente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Está entre quienes habitan la Kharbranth del Reino Espiritual después de que Taravangian se llevara a su gente.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-taravangian-grandchildren-wat-i8-147-kharbranth-survivor",
+      "characterId": "taravangian-grandchildren-wat-i8",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Está entre quienes habitan la Kharbranth del Reino Espiritual después de que Taravangian se llevara a su gente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Está entre quienes habitan la Kharbranth del Reino Espiritual después de que Taravangian se llevara a su gente.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-adrotagia-147-kharbranth-survivor",
+      "characterId": "adrotagia",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Está entre quienes habitan la Kharbranth del Reino Espiritual después de que Taravangian se llevara a su gente.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Se confirma que destruyó la ciudad física pero trasladó en secreto a sus habitantes reales al Reino Espiritual.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-fact-taravangian-147-kharbranth",
+      "characterId": "taravangian",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "kind": "background",
+      "text": "Se confirma que destruyó la ciudad física pero trasladó en secreto a sus habitantes reales al Reino Espiritual.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Ama de llaves de la Casa Ladrian. Entrevista a Hoid y le ofrece el puesto de cochero.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-grimes-wat-epilogue-grimes-wat-epilogue-intro",
+      "characterId": "grimes-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Ama de llaves de la Casa Ladrian. Entrevista a Hoid y le ofrece el puesto de cochero.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Persona a quien Grimes atribuye la valoración favorable de Hoid como conductor.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-jone-wat-epilogue-jone-wat-epilogue-intro",
+      "characterId": "jone-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Persona a quien Grimes atribuye la valoración favorable de Hoid como conductor.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Grimes relata que un anterior empleado acabó tirando el carruaje por un acantilado.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-former-ladrian-driver-wat-epilogue-former-ladrian-driver-wat-epilogue-intro",
+      "characterId": "former-ladrian-driver-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Grimes relata que un anterior empleado acabó tirando el carruaje por un acantilado.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Mujer que espera junto a Hoid con un anuncio de empleo. Hoid cree que va a solicitar el puesto de mayordoma.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-ladrian-housekeeper-applicant-wat-epilogue-ladrian-housekeeper-applicant-wat-epilogue-intro",
+      "characterId": "ladrian-housekeeper-applicant-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Mujer que espera junto a Hoid con un anuncio de empleo. Hoid cree que va a solicitar el puesto de mayordoma.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Esquirla a la que Hoid quiere acudir para encontrar ayuda tras formarse Represalia.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-valour-wat-epilogue-valour-wat-epilogue-intro",
+      "characterId": "valour-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Esquirla a la que Hoid quiere acudir para encontrar ayuda tras formarse Represalia.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Según Grimes, informa de que Hoid conduce bien y se orienta en la ciudad.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-jone-wat-epilogue-epilogue-assessment",
+      "characterId": "jone-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Según Grimes, informa de que Hoid conduce bien y se orienta en la ciudad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Consigue empleo como cochero de la Casa Ladrian en Scadrial. Se propone ayudar allí y más adelante buscar a Valentía.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-wit-epilogue-scadrial",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Consigue empleo como cochero de la Casa Ladrian en Scadrial. Se propone ayudar allí y más adelante buscar a Valentía.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Hoid se propone buscar su ayuda. El pasaje no muestra que llegue a darle alcance.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-valour-wat-epilogue-epilogue-plan",
+      "characterId": "valour-wat-epilogue",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Hoid se propone buscar su ayuda. El pasaje no muestra que llegue a darle alcance.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Interpreta que Dalinar obligó a las Esquirlas a considerar a Represalia una amenaza y dio a Roshar una oportunidad.",
+      "sourceIds": [
+        "primary310-wat-epilogo"
+      ],
+      "id": "primary310-fact-wit-epilogue-dalinar-plan",
+      "characterId": "wit",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-epilogue"
+      },
+      "kind": "background",
+      "text": "Interpreta que Dalinar obligó a las Esquirlas a considerar a Represalia una amenaza y dio a Roshar una oportunidad.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/Nota-final.xhtml. Según la nota final, se descubre un ketek grabado en la cima tras el duelo. La atribución a su letra es discutida y el autor de la inscripción queda por confirmar.",
+      "sourceIds": [
+        "primary310-wat-final-note"
+      ],
+      "id": "primary310-fact-dalinar-final-note-ketek",
+      "characterId": "dalinar",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-postlude-a"
+      },
+      "kind": "background",
+      "text": "Según la nota final, se descubre un ketek grabado en la cima tras el duelo. La atribución a su letra es discutida y el autor de la inscripción queda por confirmar.",
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/LaminaXXIV.xhtml. La ilustración de cierre la retrata con vestido de apariencia vegetal, ojos verdes y una figura etérea al lado. La lámina no localiza la escena.",
+      "sourceIds": [
+        "primary310-wat-plate-24"
+      ],
+      "id": "primary310-fact-cultivation-final-portrait",
+      "characterId": "cultivation",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-postlude-a"
+      },
+      "kind": "background",
+      "text": "La ilustración de cierre la retrata con vestido de apariencia vegetal, ojos verdes y una figura etérea al lado. La lámina no localiza la escena.",
+      "supersedes": []
     }
   ],
   "relationshipCoverage": {
@@ -186024,6 +189393,10 @@ window.ATLAS_DATA = {
         {
           "revision": 309,
           "notes": "Ishar menciona al nieto de Derethil sin nombrar a la generación intermedia. Se mantienen los vínculos conocidos de Szeth con Neturo y Elid, y los de Gavinor con Elhokar y Dalinar. El relato de los supuestos hermanos de Melishi queda como hipótesis de Renarin."
+        },
+        {
+          "revision": 310,
+          "notes": "Se registran el matrimonio de Masha y Szeth desde la revelación del epígrafe del 147, la filiación de Masha según su nombre y el hermano sin nombre de Iyatil. El matrimonio está acreditado en la crónica posterior, sin fecha de boda. Se confirma la supervivencia de la familia de Taravangian en el Reino Espiritual."
         }
       ]
     }
@@ -190236,6 +193609,222 @@ window.ATLAS_DATA = {
         "El lo atraviesa con una hoja y los ojos le arden al desplomarse. Se registra la muerte en ese cuerpo."
       ],
       "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-life-141-pozen",
+      "characterId": "pozen-wat53",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "notes": [
+        "Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-life-141-moss",
+      "characterId": "moss-wat70",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "notes": [
+        "Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-life-141-stoneward",
+      "characterId": "shin-stoneward-fused-wat141",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "notes": [
+        "Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-life-141-elid",
+      "characterId": "elid-wat24",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-141"
+      },
+      "notes": [
+        "Szeth destruye este cuerpo de portador transformado con Sangre Nocturna y queda su Hoja de Honor."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth atraviesa a Neturo con Sangre Nocturna. Su padre se disipa en neblina oscura tras darle las gracias.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-life-143-neturo",
+      "characterId": "neturo",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "notes": [
+        "Szeth atraviesa a Neturo con Sangre Nocturna. Su padre se disipa en neblina oscura tras darle las gracias."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth pone fin al combate con la portadora Vigilante de la Verdad.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-life-143-truthwatcher",
+      "characterId": "truthwatcher-holder-wat72",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "notes": [
+        "Szeth pone fin al combate con la portadora Vigilante de la Verdad."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Taravangian vaporiza al Padre Tormenta inmediatamente después de la ruptura del contrato.",
+      "sourceIds": [
+        "primary310-wat-143"
+      ],
+      "id": "primary310-life-143-stormfather",
+      "characterId": "stormfather",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-143"
+      },
+      "notes": [
+        "Taravangian vaporiza al Padre Tormenta inmediatamente después de la ruptura del contrato."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Represalia encuentra el cuerpo de Dalinar junto al antepecho mientras protege a Gavinor de la tempestad.",
+      "sourceIds": [
+        "primary310-wat-145"
+      ],
+      "id": "primary310-life-145-dalinar",
+      "characterId": "dalinar",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-145"
+      },
+      "notes": [
+        "Represalia encuentra el cuerpo de Dalinar junto al antepecho mientras protege a Gavinor de la tempestad."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Taravangian vaporiza el cuerpo de Sagaz ante Sigzil. Se registra la destrucción de ese cuerpo.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-life-146-wit-body",
+      "characterId": "wit",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "notes": [
+        "Taravangian vaporiza el cuerpo de Sagaz ante Sigzil. Se registra la destrucción de ese cuerpo."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Szeth comprueba que el cuerpo original de Kaladin, abandonado al rehacerse el Juramento, no respira ni tiene pulso.",
+      "sourceIds": [
+        "primary310-wat-146"
+      ],
+      "id": "primary310-life-146-kaladin-body",
+      "characterId": "kaladin",
+      "state": "dead",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-146"
+      },
+      "notes": [
+        "Szeth comprueba que el cuerpo original de Kaladin, abandonado al rehacerse el Juramento, no respira ni tiene pulso."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. El nuevo cuerpo de Hoid se regenera en otro mundo a partir del cultivo conservado por Ulaam.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-life-147-hoid-reconstitution",
+      "characterId": "wit",
+      "state": "alive",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-chapter-147"
+      },
+      "notes": [
+        "El nuevo cuerpo de Hoid se regenera en otro mundo a partir del cultivo conservado por Ulaam."
+      ],
+      "supersedes": []
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kaladin se manifiesta como Heraldo en el refugio del Juramento. El pasaje confirma su continuidad fuera del cuerpo que quedó en Shinovar.",
+      "sourceIds": [
+        "primary310-wat-postludioa"
+      ],
+      "id": "primary310-life-postlude-kaladin-herald",
+      "characterId": "kaladin",
+      "state": "alive",
+      "revealedAt": {
+        "bookId": "wat",
+        "sceneId": "wat-postlude-a"
+      },
+      "notes": [
+        "Kaladin se manifiesta como Heraldo en el refugio del Juramento. El pasaje confirma su continuidad fuera del cuerpo que quedó en Shinovar."
+      ],
+      "supersedes": []
     }
   ],
   "bookId": "wok",
@@ -190281,7 +193870,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 309,
+  "revision": 310,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -195988,6 +199577,76 @@ window.ATLAS_DATA = {
       "label": "Capítulo 140 · La luz que avivamos nosotros mismos",
       "part": "wat-day-10",
       "source": "primary309-wat-140"
+    },
+    {
+      "id": "wat-chapter-141",
+      "bookId": "wat",
+      "chapter": 141,
+      "label": "Capítulo 141 · Lo que se perdió",
+      "part": "wat-day-10",
+      "source": "primary310-wat-141"
+    },
+    {
+      "id": "wat-chapter-142",
+      "bookId": "wat",
+      "chapter": 142,
+      "label": "Capítulo 142 · Un hombre al borde de un precipicio",
+      "part": "wat-day-10",
+      "source": "primary310-wat-142"
+    },
+    {
+      "id": "wat-chapter-143",
+      "bookId": "wat",
+      "chapter": 143,
+      "label": "Capítulo 143 · Uno de ellos nos destruirá",
+      "part": "wat-day-10",
+      "source": "primary310-wat-143"
+    },
+    {
+      "id": "wat-chapter-144",
+      "bookId": "wat",
+      "chapter": 144,
+      "label": "Capítulo 144 · La torre, la corona y la lanza",
+      "part": "wat-day-10",
+      "source": "primary310-wat-144"
+    },
+    {
+      "id": "wat-chapter-145",
+      "bookId": "wat",
+      "chapter": 145,
+      "label": "Capítulo 145 · Llorar por el final de todas las cosas",
+      "part": "wat-day-10",
+      "source": "primary310-wat-145"
+    },
+    {
+      "id": "wat-chapter-146",
+      "bookId": "wat",
+      "chapter": 146,
+      "label": "Capítulo 146 · La noche de las penas",
+      "part": "wat-day-10",
+      "source": "primary310-wat-146"
+    },
+    {
+      "id": "wat-chapter-147",
+      "bookId": "wat",
+      "chapter": 147,
+      "label": "Capítulo 147 · Luz destellando en la oscuridad",
+      "part": "wat-aftermath",
+      "source": "primary310-wat-147"
+    },
+    {
+      "id": "wat-epilogue",
+      "bookId": "wat",
+      "label": "Epílogo · Majestuosa improvisación",
+      "part": "wat-ending",
+      "source": "primary310-wat-epilogo"
+    },
+    {
+      "id": "wat-postlude-a",
+      "bookId": "wat",
+      "label": "Postludio A · El Archivo de las Tormentas",
+      "part": "wat-ending",
+      "source": "primary310-wat-postludioa"
     }
   ],
   "experiencePresentation": {
@@ -203461,6 +207120,266 @@ window.ATLAS_DATA = {
           410.831
         ],
         "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Mishram toma forma. Rlain defiende a Renarin y Mishram los deja sin atacar; la escena termina al ser expulsados.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-experience-141-mishram-renarin",
+      "characterId": "renarin",
+      "sceneId": "wat-chapter-141",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Cámara de Mishram",
+      "notes": [
+        "Mishram toma forma. Rlain defiende a Renarin y Mishram los deja sin atacar; la escena termina al ser expulsados."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Mishram toma forma. Rlain defiende a Renarin y Mishram los deja sin atacar; la escena termina al ser expulsados.",
+      "sourceIds": [
+        "primary310-wat-141"
+      ],
+      "id": "primary310-experience-141-mishram-shen",
+      "characterId": "shen",
+      "sceneId": "wat-chapter-141",
+      "type": "vision",
+      "physicalPlaceId": "place-wat31-urithiru-experiment-physical",
+      "experiencedPlace": "Reino Espiritual · Cámara de Mishram",
+      "notes": [
+        "Mishram toma forma. Rlain defiende a Renarin y Mishram los deja sin atacar; la escena termina al ser expulsados."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat31-urithiru-experiment-physical",
+        "name": "Urithiru · Sala de la perpendicularidad en la planta baja",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. La figura de Nohadon y el poder de Honor conversan con Dalinar mientras este considera cómo responder a Odium.",
+      "sourceIds": [
+        "primary310-wat-142"
+      ],
+      "id": "primary310-experience-142-nohadon-dalinar",
+      "characterId": "dalinar",
+      "sceneId": "wat-chapter-142",
+      "type": "vision",
+      "physicalPlaceId": "place-row116-summit-edge",
+      "experiencedPlace": "Visión · Cocina de Nohadon y risco sobre Kholinar",
+      "notes": [
+        "La figura de Nohadon y el poder de Honor conversan con Dalinar mientras este considera cómo responder a Odium."
+      ],
+      "entryAnchor": {
+        "placeId": "place-row116-summit-edge",
+        "name": "Urithiru · Borde de la cima",
+        "xy": [
+          474.647,
+          410.831
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Kaladin ve figuras de los otros Heraldos responder a Ishar. Reconoce a Ash y Kalak y cree reconocer a Taln.",
+      "sourceIds": [
+        "primary310-wat-144"
+      ],
+      "id": "primary310-experience-144-herald-shadows-kaladin",
+      "characterId": "kaladin",
+      "sceneId": "wat-chapter-144",
+      "type": "vision",
+      "physicalPlaceId": "place-wat94-sheath-of-swords",
+      "experiencedPlace": "Vaina de Espadas · Apariciones del Juramento",
+      "notes": [
+        "Kaladin ve figuras de los otros Heraldos responder a Ishar. Reconoce a Ash y Kalak y cree reconocer a Taln."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat94-sheath-of-swords",
+        "name": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+        "xy": null,
+        "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. El avatar de Taravangian visita una Kharbranth reproducida en el Reino Espiritual, habitada por personas reales trasladadas en secreto.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-experience-147-kharbranth-avatar-taravangian",
+      "characterId": "taravangian",
+      "sceneId": "wat-chapter-147",
+      "type": "vision",
+      "physicalPlaceId": "place-wat147-retribution-physical-unknown",
+      "experiencedPlace": "Reino Espiritual · Kharbranth recreada",
+      "notes": [
+        "El avatar de Taravangian visita una Kharbranth reproducida en el Reino Espiritual, habitada por personas reales trasladadas en secreto."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat147-retribution-physical-unknown",
+        "name": "Posición física de Represalia sin precisar",
+        "xy": null,
+        "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La familia de Taravangian y Adrotagia siguen vivas dentro de la ciudad recreada. El palacio y sus habitantes no ocupan el enclave físico.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-experience-147-kharbranth-residents-taravangian-daughter-row19",
+      "characterId": "taravangian-daughter-row19",
+      "sceneId": "wat-chapter-147",
+      "type": "vision",
+      "physicalPlaceId": "place-wat-i12-kharbranth-palace",
+      "experiencedPlace": "Reino Espiritual · Kharbranth recreada",
+      "notes": [
+        "La familia de Taravangian y Adrotagia siguen vivas dentro de la ciudad recreada. El palacio y sus habitantes no ocupan el enclave físico."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat-i12-kharbranth-palace",
+        "name": "Kharbranth · Palacio del acantilado",
+        "xy": [
+          570.231,
+          466.56
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La familia de Taravangian y Adrotagia siguen vivas dentro de la ciudad recreada. El palacio y sus habitantes no ocupan el enclave físico.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-experience-147-kharbranth-residents-taravangian-grandchildren-wat-i8",
+      "characterId": "taravangian-grandchildren-wat-i8",
+      "sceneId": "wat-chapter-147",
+      "type": "vision",
+      "physicalPlaceId": "place-wat-i12-kharbranth-palace",
+      "experiencedPlace": "Reino Espiritual · Kharbranth recreada",
+      "notes": [
+        "La familia de Taravangian y Adrotagia siguen vivas dentro de la ciudad recreada. El palacio y sus habitantes no ocupan el enclave físico."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat-i12-kharbranth-palace",
+        "name": "Kharbranth · Palacio del acantilado",
+        "xy": [
+          570.231,
+          466.56
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. La familia de Taravangian y Adrotagia siguen vivas dentro de la ciudad recreada. El palacio y sus habitantes no ocupan el enclave físico.",
+      "sourceIds": [
+        "primary310-wat-147"
+      ],
+      "id": "primary310-experience-147-kharbranth-residents-adrotagia",
+      "characterId": "adrotagia",
+      "sceneId": "wat-chapter-147",
+      "type": "vision",
+      "physicalPlaceId": "place-wat-i12-kharbranth-palace",
+      "experiencedPlace": "Reino Espiritual · Kharbranth recreada",
+      "notes": [
+        "La familia de Taravangian y Adrotagia siguen vivas dentro de la ciudad recreada. El palacio y sus habitantes no ocupan el enclave físico."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat-i12-kharbranth-palace",
+        "name": "Kharbranth · Palacio del acantilado",
+        "xy": [
+          570.231,
+          466.56
+        ],
+        "coordinateStatus": "pending-calibration"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kaladin le explica a Kalak desde el refugio mental lo que hizo Ishar.",
+      "sourceIds": [
+        "primary310-wat-postludioa"
+      ],
+      "id": "primary310-experience-postlude-kaladin-kaladin",
+      "characterId": "kaladin",
+      "sceneId": "wat-postlude-a",
+      "type": "vision",
+      "physicalPlaceId": "place-wat94-sheath-of-swords",
+      "experiencedPlace": "Visión del nuevo Juramento · Promontorio sobre una playa",
+      "notes": [
+        "Kaladin le explica a Kalak desde el refugio mental lo que hizo Ishar."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat94-sheath-of-swords",
+        "name": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+        "xy": null,
+        "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kalak despierta en el refugio mental y ve a Taln. El lugar le recuerda a Alaswha, pero no se identifica como un lugar físico.",
+      "sourceIds": [
+        "primary310-wat-postludioa"
+      ],
+      "id": "primary310-experience-postlude-kalak-taln-kelek-puuli",
+      "characterId": "kelek-puuli",
+      "sceneId": "wat-postlude-a",
+      "type": "vision",
+      "physicalPlaceId": "place-wat94-sheath-of-swords",
+      "experiencedPlace": "Visión del nuevo Juramento · Promontorio sobre una playa",
+      "notes": [
+        "Kalak despierta en el refugio mental y ve a Taln. El lugar le recuerda a Alaswha, pero no se identifica como un lugar físico."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat94-sheath-of-swords",
+        "name": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+        "xy": null,
+        "coordinateStatus": "unlocated"
+      }
+    },
+    {
+      "status": "confirmed",
+      "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/PostludioA.xhtml. Kalak despierta en el refugio mental y ve a Taln. El lugar le recuerda a Alaswha, pero no se identifica como un lugar físico.",
+      "sourceIds": [
+        "primary310-wat-postludioa"
+      ],
+      "id": "primary310-experience-postlude-kalak-taln-talenel",
+      "characterId": "talenel",
+      "sceneId": "wat-postlude-a",
+      "type": "vision",
+      "physicalPlaceId": "place-wat94-sheath-of-swords",
+      "experiencedPlace": "Visión del nuevo Juramento · Promontorio sobre una playa",
+      "notes": [
+        "Kalak despierta en el refugio mental y ve a Taln. El lugar le recuerda a Alaswha, pero no se identifica como un lugar físico."
+      ],
+      "entryAnchor": {
+        "placeId": "place-wat94-sheath-of-swords",
+        "name": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+        "xy": null,
+        "coordinateStatus": "unlocated"
       }
     }
   ],
@@ -231674,6 +235593,276 @@ window.ATLAS_DATA = {
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
           ]
+        },
+        {
+          "id": "primary310-141-kaladin-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-kaladin-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-143-kaladin-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
+          ]
+        },
+        {
+          "id": "primary310-144-kaladin-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-145-kaladin-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original."
+          ]
+        },
+        {
+          "id": "primary310-146-kaladin-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Szeth despierta en la Vaina y encuentra el cuerpo original de Kaladin. Los Heraldos y las hojas ya no están.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth despierta en la Vaina y encuentra el cuerpo original de Kaladin. Los Heraldos y las hojas ya no están."
+          ]
         }
       ]
     },
@@ -255625,6 +259814,340 @@ window.ATLAS_DATA = {
           "notes": [
             "Se descubre a los tres Sangre Espectral disfrazados. Mraize arroja su daga al portal al final del combate."
           ]
+        },
+        {
+          "id": "primary310-141-shallan-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-shallan-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-143-shallan-20",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Pasarela sobre las plataformas de Urithiru",
+          "placeId": "place-wat143-shadesmar-urithiru-walkway",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela."
+          ]
+        },
+        {
+          "id": "primary310-143-shallan-30",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan vuelve al punto justo después de que Renarin y Rlain desaparezcan de la plataforma.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan vuelve al punto justo después de que Renarin y Rlain desaparezcan de la plataforma."
+          ]
+        },
+        {
+          "id": "primary310-145-shallan-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Los centinelas se reducen de tamaño y explican a Shallan que la Puerta Jurada se ha quedado sin luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los centinelas se reducen de tamaño y explican a Shallan que la Puerta Jurada se ha quedado sin luz tormentosa."
+          ]
+        },
+        {
+          "id": "primary310-147-shallan-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Haka-alaku · Cráter de la antigua perpendicularidad de Cultivación",
+          "placeId": "place-wat147-shadesmar-cultivation-crater",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-haka-alaku",
+          "coordinateAnchorName": "Shadesmar · Haka-alaku, junto al antiguo paso de los Picos Comecuernos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan llega al borde del cráter vacío que quedaba bajo la perpendicularidad de Cultivación.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan llega al borde del cráter vacío que quedaba bajo la perpendicularidad de Cultivación."
+          ]
+        },
+        {
+          "id": "primary310-147-shallan-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Haka-alaku · Campamento y tienda de Felt",
+          "placeId": "place-wat147-shadesmar-felt-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-haka-alaku",
+          "coordinateAnchorName": "Shadesmar · Haka-alaku, junto al antiguo paso de los Picos Comecuernos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla."
+          ]
         }
       ]
     },
@@ -259703,6 +264226,150 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dalinar se reúne con Navani y quienes lo esperan en la sala de reuniones de la cumbre."
+          ]
+        },
+        {
+          "id": "primary310-146-jasnah-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara superior donde Navani queda en cristal",
+          "placeId": "place-wat146-urithiru-navani-crystal",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula."
+          ]
+        },
+        {
+          "id": "primary310-146-jasnah-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
+          ]
+        },
+        {
+          "id": "primary310-146-jasnah-30",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Aposentos de Jasnah",
+          "placeId": "place-wat146-urithiru-jasnah-rooms",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Jasnah lee en sus aposentos una nota de despedida que Sagaz le dejó antes de desaparecer.",
+          "needsConfirmation": [],
+          "notes": [
+            "Jasnah lee en sus aposentos una nota de despedida que Sagaz le dejó antes de desaparecer."
           ]
         }
       ]
@@ -267380,6 +272047,231 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
+          ]
+        },
+        {
+          "id": "primary310-141-szeth-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-szeth-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-143-szeth-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
+          ]
+        },
+        {
+          "id": "primary310-144-szeth-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-146-szeth-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Szeth despierta en la Vaina y encuentra el cuerpo original de Kaladin. Los Heraldos y las hojas ya no están.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth despierta en la Vaina y encuentra el cuerpo original de Kaladin. Los Heraldos y las hojas ya no están."
           ]
         }
       ]
@@ -280863,6 +285755,231 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
+          ]
+        },
+        {
+          "id": "primary310-141-syl-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-syl-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-143-syl-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
+          ]
+        },
+        {
+          "id": "primary310-144-syl-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-145-syl-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original."
           ]
         }
       ]
@@ -298005,6 +303122,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Dalinar extiende la perpendicularidad. Honor se acerca, pero titubea ante la idea de regresar."
           ]
+        },
+        {
+          "id": "primary310-141-dalinar-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Dalinar siente la liberación de Mishram y acepta el poder de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar siente la liberación de Mishram y acepta el poder de Honor."
+          ]
+        },
+        {
+          "id": "primary310-142-dalinar-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Dalinar y Taravangian casi hacen chocar los poderes. Tras una visión, Dalinar regresa a la cima y renuncia a sus juramentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Taravangian casi hacen chocar los poderes. Tras una visión, Dalinar regresa a la cima y renuncia a sus juramentos."
+          ]
+        },
+        {
+          "id": "primary310-143-dalinar-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Dalinar rompe el contrato y libera a Odium. Taravangian destruye al Padre Tormenta y toma el poder de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar rompe el contrato y libera a Odium. Taravangian destruye al Padre Tormenta y toma el poder de Honor."
+          ]
+        },
+        {
+          "id": "primary310-145-dalinar-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Un avatar de Represalia encuentra el cadáver de Dalinar y a Gavinor inconsciente pero vivo bajo él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Un avatar de Represalia encuentra el cadáver de Dalinar y a Gavinor inconsciente pero vivo bajo él."
+          ]
+        },
+        {
+          "id": "primary310-146-dalinar-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
+          ]
         }
       ]
     },
@@ -315126,6 +320483,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Las fuerzas enemigas deponen las armas y abandonan la posición. Adolin y el grupo salen del complejo."
           ]
+        },
+        {
+          "id": "primary310-147-adolin-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-adolin-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
+          ]
         }
       ]
     },
@@ -319886,6 +325339,200 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se descubre a los tres Sangre Espectral disfrazados. Mraize arroja su daga al portal al final del combate."
+          ]
+        },
+        {
+          "id": "primary310-141-renarin-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-renarin-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-146-renarin-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara superior donde Navani queda en cristal",
+          "placeId": "place-wat146-urithiru-navani-crystal",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula."
+          ]
+        },
+        {
+          "id": "primary310-146-renarin-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
           ]
         }
       ]
@@ -335795,6 +341442,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Dalinar se reúne con Navani y quienes lo esperan en la sala de reuniones de la cumbre."
           ]
+        },
+        {
+          "id": "primary310-145-navani-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de reuniones de la cima",
+          "placeId": "place-row116-summit-meeting",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Navani recibe del Hermano la noticia de la muerte de Dalinar y le pide proteger la torre.",
+          "needsConfirmation": [],
+          "notes": [
+            "Navani recibe del Hermano la noticia de la muerte de Dalinar y le pide proteger la torre."
+          ]
+        },
+        {
+          "id": "primary310-146-navani-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara superior donde Navani queda en cristal",
+          "placeId": "place-wat146-urithiru-navani-crystal",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula."
+          ]
         }
       ]
     },
@@ -338048,6 +343791,192 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dalinar se reúne con Navani y quienes lo esperan en la sala de reuniones de la cumbre."
+          ]
+        },
+        {
+          "id": "primary310-146-wit-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de operaciones donde Lirin examina a Sigzil",
+          "placeId": "place-wat146-urithiru-medical",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Lirin examina a Sigzil. Sagaz entra en la sala para transferirle la Esquirla del Amanecer.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lirin examina a Sigzil. Sagaz entra en la sala para transferirle la Esquirla del Amanecer."
+          ]
+        },
+        {
+          "id": "primary310-146-wit-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de operaciones donde Lirin examina a Sigzil",
+          "placeId": "place-wat146-urithiru-medical",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Taravangian vaporizó el cuerpo de Sagaz mientras Sigzil caía al otro lado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Taravangian vaporizó el cuerpo de Sagaz mientras Sigzil caía al otro lado."
+          ]
+        },
+        {
+          "id": "primary310-147-wit-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuera de Roshar · Laboratorio y estancia donde despierta Hoid",
+          "placeId": "place-wat147-hoid-lab-offworld",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-hoid-lab-offworld",
+          "coordinateAnchorName": "Fuera de Roshar · Laboratorio y estancia donde despierta Hoid",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Consecuencias tras el Caetormenta; las escenas avanzan con plazos distintos."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Hoid despierta lejos de Roshar. Ulaam confirma que lo encontró regenerado en su laboratorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hoid despierta lejos de Roshar. Ulaam confirma que lo encontró regenerado en su laboratorio."
+          ]
+        },
+        {
+          "id": "primary310-Epilogo-wit-10",
+          "scene": "wat-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Scadrial · Sala de espera y despacho de la Casa Ladrian",
+          "placeId": "place-wat-epilogue-scadrial-ladrian-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-epilogo",
+          "sourceIds": [
+            "primary310-wat-epilogo"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat-epilogue-scadrial-ladrian-office",
+          "coordinateAnchorName": "Scadrial · Sala de espera y despacho de la Casa Ladrian",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Cierre narrativo tras el Caetormenta; cronología relativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-epilogue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Hoid espera, conversa con una candidata y se entrevista con la señorita Grimes para trabajar como cochero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hoid espera, conversa con una candidata y se entrevista con la señorita Grimes para trabajar como cochero."
           ]
         }
       ]
@@ -355509,6 +361438,23 @@ window.ATLAS_DATA = {
       "color": "#d2b98a",
       "importance": "primary",
       "importanceReason": "Conduce una línea política independiente que conecta con otras tramas centrales.",
+      "nameRevelations": [
+        {
+          "status": "confirmed",
+          "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Al reunir Odium y Honor, el narrador nombra a Taravangian Represalia.",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "name": "Represalia",
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "notes": [
+            "Al reunir Odium y Honor, el narrador nombra a Taravangian Represalia."
+          ]
+        }
+      ],
       "events": [
         {
           "id": "primary111-taravangian-cr5",
@@ -359044,6 +364990,246 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dalinar extiende la perpendicularidad. Honor se acerca, pero titubea ante la idea de regresar."
+          ]
+        },
+        {
+          "id": "primary310-141-taravangian-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Dalinar siente la liberación de Mishram y acepta el poder de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar siente la liberación de Mishram y acepta el poder de Honor."
+          ]
+        },
+        {
+          "id": "primary310-142-taravangian-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Dalinar y Taravangian casi hacen chocar los poderes. Tras una visión, Dalinar regresa a la cima y renuncia a sus juramentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Taravangian casi hacen chocar los poderes. Tras una visión, Dalinar regresa a la cima y renuncia a sus juramentos."
+          ]
+        },
+        {
+          "id": "primary310-143-taravangian-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Dalinar rompe el contrato y libera a Odium. Taravangian destruye al Padre Tormenta y toma el poder de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar rompe el contrato y libera a Odium. Taravangian destruye al Padre Tormenta y toma el poder de Honor."
+          ]
+        },
+        {
+          "id": "primary310-145-taravangian-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Un avatar de Represalia encuentra el cadáver de Dalinar y a Gavinor inconsciente pero vivo bajo él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Un avatar de Represalia encuentra el cadáver de Dalinar y a Gavinor inconsciente pero vivo bajo él."
+          ]
+        },
+        {
+          "id": "primary310-146-taravangian-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de operaciones donde Lirin examina a Sigzil",
+          "placeId": "place-wat146-urithiru-medical",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Taravangian vaporizó el cuerpo de Sagaz mientras Sigzil caía al otro lado.",
+          "needsConfirmation": [],
+          "notes": [
+            "Taravangian vaporizó el cuerpo de Sagaz mientras Sigzil caía al otro lado."
           ]
         }
       ]
@@ -369514,6 +375700,147 @@ window.ATLAS_DATA = {
           "notes": [
             "Lopen saca a Sigzil por la Puerta Jurada. Un Danzante del Filo lo sana y la hoja de Vienta queda a su lado."
           ]
+        },
+        {
+          "id": "primary310-146-sigzil-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de operaciones donde Lirin examina a Sigzil",
+          "placeId": "place-wat146-urithiru-medical",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Lirin examina a Sigzil. Sagaz entra en la sala para transferirle la Esquirla del Amanecer.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lirin examina a Sigzil. Sagaz entra en la sala para transferirle la Esquirla del Amanecer."
+          ]
+        },
+        {
+          "id": "primary310-146-sigzil-30",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 30,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Reflejo de la sala médica de Urithiru",
+          "placeId": "place-wat146-shadesmar-medical",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Sigzil cae por el dispositivo de Sagaz al reflejo de la sala en Shadesmar.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil cae por el dispositivo de Sagaz al reflejo de la sala en Shadesmar."
+          ]
+        },
+        {
+          "id": "primary310-147-sigzil-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "placeId": "place-wat147-shadesmar-iriali-caravan",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-iriali-caravan",
+          "coordinateAnchorName": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros."
+          ]
         }
       ]
     },
@@ -372169,6 +378496,200 @@ window.ATLAS_DATA = {
           "notes": [
             "Se descubre a los tres Sangre Espectral disfrazados. Mraize arroja su daga al portal al final del combate."
           ]
+        },
+        {
+          "id": "primary310-141-shen-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-shen-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-146-shen-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara superior donde Navani queda en cristal",
+          "placeId": "place-wat146-urithiru-navani-crystal",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula."
+          ]
+        },
+        {
+          "id": "primary310-146-shen-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
+          ]
         }
       ]
     },
@@ -374064,6 +380585,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kaladin pasa tiempo con Oroden y habla con sus padres."
+          ]
+        },
+        {
+          "id": "primary310-146-lirin-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Sala de operaciones donde Lirin examina a Sigzil",
+          "placeId": "place-wat146-urithiru-medical",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Lirin examina a Sigzil. Sagaz entra en la sala para transferirle la Esquirla del Amanecer.",
+          "needsConfirmation": [],
+          "notes": [
+            "Lirin examina a Sigzil. Sagaz entra en la sala para transferirle la Esquirla del Amanecer."
           ]
         }
       ]
@@ -398979,6 +405548,197 @@ window.ATLAS_DATA = {
           "notes": [
             "Se descubre a los tres Sangre Espectral disfrazados. Mraize arroja su daga al portal al final del combate."
           ]
+        },
+        {
+          "id": "primary310-141-pattern-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-pattern-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-143-pattern-20",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Pasarela sobre las plataformas de Urithiru",
+          "placeId": "place-wat143-shadesmar-urithiru-walkway",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela."
+          ]
+        },
+        {
+          "id": "primary310-147-pattern-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Haka-alaku · Campamento y tienda de Felt",
+          "placeId": "place-wat147-shadesmar-felt-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-haka-alaku",
+          "coordinateAnchorName": "Shadesmar · Haka-alaku, junto al antiguo paso de los Picos Comecuernos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla."
+          ]
         }
       ]
     },
@@ -400378,6 +407138,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Yanagawn y Noura reciben a Adolin. Se discuten los preparativos y se integra el grupo auxiliar de May."
+          ]
+        },
+        {
+          "id": "primary310-146-aladar-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
           ]
         }
       ]
@@ -409894,6 +416702,102 @@ window.ATLAS_DATA = {
           "notes": [
             "La delegación de los oyentes presenta a El el tratado firmado por Jasnah."
           ]
+        },
+        {
+          "id": "primary310-146-venli-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Borde de la meseta principal",
+          "placeId": "place-wat146-narak-sunset-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Al día siguiente de la Ascensión, Venli y su madre se sientan en el borde de la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al día siguiente de la Ascensión, Venli y su madre se sientan en el borde de la meseta."
+          ]
+        },
+        {
+          "id": "primary310-146-venli-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando."
+          ]
         }
       ]
     },
@@ -413180,6 +420084,231 @@ window.ATLAS_DATA = {
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
           ]
+        },
+        {
+          "id": "primary310-141-crescent-scar-stranger-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-crescent-scar-stranger-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-143-crescent-scar-stranger-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
+          ]
+        },
+        {
+          "id": "primary310-144-crescent-scar-stranger-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-145-crescent-scar-stranger-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original."
+          ]
         }
       ]
     },
@@ -414886,6 +422015,54 @@ window.ATLAS_DATA = {
           "notes": [
             "La delegación de los oyentes presenta a El el tratado firmado por Jasnah."
           ]
+        },
+        {
+          "id": "primary310-146-thude-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando."
+          ]
         }
       ]
     },
@@ -415469,6 +422646,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "La delegación de los oyentes presenta a El el tratado firmado por Jasnah."
+          ]
+        },
+        {
+          "id": "primary310-146-bila-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando."
           ]
         }
       ]
@@ -416380,6 +423605,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Los abismoides rodean a sus crías y al grupo durante la alta tormenta. Venli escucha a las piedras."
+          ]
+        },
+        {
+          "id": "primary310-146-jaxlim-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Borde de la meseta principal",
+          "placeId": "place-wat146-narak-sunset-rim",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Al día siguiente de la Ascensión, Venli y su madre se sientan en el borde de la meseta.",
+          "needsConfirmation": [],
+          "notes": [
+            "Al día siguiente de la Ascensión, Venli y su madre se sientan en el borde de la meseta."
+          ]
+        },
+        {
+          "id": "primary310-146-jaxlim-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak Principal · Caverna del estanque dorado",
+          "placeId": "place-wat90-narak-underground-pool",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/90.Vela.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli, su madre y Bila encuentran a Thude junto al estanque. El líquido negro azulado está regresando."
           ]
         }
       ]
@@ -426235,6 +433556,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Dalinar se reúne con Navani y quienes lo esperan en la sala de reuniones de la cumbre."
+          ]
+        },
+        {
+          "id": "primary310-146-sebarial-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Cámara superior donde Navani queda en cristal",
+          "placeId": "place-wat146-urithiru-navani-crystal",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin y Rlain han llegado a Urithiru. Encuentran a Navani inmóvil dentro del cristal. La torre está aislada por la cúpula."
           ]
         }
       ]
@@ -441408,6 +448777,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Las fuerzas enemigas deponen las armas y abandonan la posición. Adolin y el grupo salen del complejo."
           ]
+        },
+        {
+          "id": "primary310-147-gawx-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-gawx-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
+          ]
         }
       ]
     },
@@ -453864,6 +461329,231 @@ window.ATLAS_DATA = {
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
           ]
+        },
+        {
+          "id": "primary310-141-black-sword-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-black-sword-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-143-black-sword-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
+          ]
+        },
+        {
+          "id": "primary310-144-black-sword-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-146-black-sword-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Szeth despierta en la Vaina y encuentra el cuerpo original de Kaladin. Los Heraldos y las hojas ya no están.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth despierta en la Vaina y encuentra el cuerpo original de Kaladin. Los Heraldos y las hojas ya no están."
+          ]
         }
       ]
     },
@@ -460267,6 +467957,102 @@ window.ATLAS_DATA = {
           "notes": [
             "Los Injuramentados combaten en el pasillo. Notum aparece en armadura y auxilia a Adolin."
           ]
+        },
+        {
+          "id": "primary310-147-may-aladar-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-may-aladar-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
+          ]
         }
       ]
     },
@@ -460799,6 +468585,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El mando de la coalición revisa la situación y prepara la ofensiva en Emul."
+          ]
+        },
+        {
+          "id": "primary310-146-teshav-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
           ]
         }
       ]
@@ -469046,6 +476880,246 @@ window.ATLAS_DATA = {
           "notes": [
             "Dalinar extiende la perpendicularidad. Honor se acerca, pero titubea ante la idea de regresar."
           ]
+        },
+        {
+          "id": "primary310-141-elhokar-son-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Dalinar siente la liberación de Mishram y acepta el poder de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar siente la liberación de Mishram y acepta el poder de Honor."
+          ]
+        },
+        {
+          "id": "primary310-142-elhokar-son-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Dalinar y Taravangian casi hacen chocar los poderes. Tras una visión, Dalinar regresa a la cima y renuncia a sus juramentos.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar y Taravangian casi hacen chocar los poderes. Tras una visión, Dalinar regresa a la cima y renuncia a sus juramentos."
+          ]
+        },
+        {
+          "id": "primary310-143-elhokar-son-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Dalinar rompe el contrato y libera a Odium. Taravangian destruye al Padre Tormenta y toma el poder de Honor.",
+          "needsConfirmation": [],
+          "notes": [
+            "Dalinar rompe el contrato y libera a Odium. Taravangian destruye al Padre Tormenta y toma el poder de Honor."
+          ]
+        },
+        {
+          "id": "primary310-145-elhokar-son-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Un avatar de Represalia encuentra el cadáver de Dalinar y a Gavinor inconsciente pero vivo bajo él.",
+          "needsConfirmation": [],
+          "notes": [
+            "Un avatar de Represalia encuentra el cadáver de Dalinar y a Gavinor inconsciente pero vivo bajo él."
+          ]
+        },
+        {
+          "id": "primary310-146-elhokar-son-20",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Urithiru · Borde de la cima",
+          "placeId": "place-row116-summit-edge",
+          "realm": "physical",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/116.Piedad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            474.647,
+            410.831
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-urithiru",
+          "coordinateAnchorName": "Urithiru · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes.",
+          "needsConfirmation": [],
+          "notes": [
+            "Renarin, Rlain y Jasnah encuentran a Gavinor y se despiden de Dalinar ante los altos príncipes."
+          ]
         }
       ]
     },
@@ -470733,6 +478807,21 @@ window.ATLAS_DATA = {
             "bookId": "wat",
             "sceneId": "wat-chapter-27"
           }
+        },
+        {
+          "status": "confirmed",
+          "primaryLocator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El narrador lo llama Neturo-hijo-Vallano al describir su despedida de Szeth.",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "name": "Neturo-hijo-Vallano",
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "notes": [
+            "El narrador lo llama Neturo-hijo-Vallano al describir su despedida de Szeth."
+          ]
         }
       ],
       "events": [
@@ -471815,6 +479904,96 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
+          ]
+        },
+        {
+          "id": "primary310-141-neturo-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-143-neturo-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
           ]
         }
       ]
@@ -476556,6 +484735,104 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Renarin y Rlain se encuentran en los campos con sus spren. Drehy habla antes con Renarin y Shallan llega después de la visión."
+          ]
+        },
+        {
+          "id": "primary310-141-glys-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-glys-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
           ]
         }
       ]
@@ -494738,6 +503015,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Se manifiesta como una mujer de humo negro y ojos blancos antes de hablar con la voz de Odium."
           ]
+        },
+        {
+          "id": "primary310-143-sja-anat-20",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Pasarela sobre las plataformas de Urithiru",
+          "placeId": "place-wat143-shadesmar-urithiru-walkway",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela."
+          ]
         }
       ]
     },
@@ -496922,6 +505247,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Noura sale del salón y anuncia que ha empezado el duelo de campeones."
+          ]
+        },
+        {
+          "id": "primary310-147-noura-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-noura-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
           ]
         }
       ]
@@ -499606,6 +508027,231 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
+          ]
+        },
+        {
+          "id": "primary310-141-ishar-mentioned-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-ishar-mentioned-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-143-ishar-mentioned-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
+          ]
+        },
+        {
+          "id": "primary310-144-ishar-mentioned-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-145-ishar-mentioned-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original."
           ]
         }
       ]
@@ -518575,6 +527221,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kalak se encierra y sorprende a Felt con el dispositivo de Ala en su estudio."
+          ]
+        },
+        {
+          "id": "primary310-147-felt-scout-pr81-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Haka-alaku · Campamento y tienda de Felt",
+          "placeId": "place-wat147-shadesmar-felt-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-haka-alaku",
+          "coordinateAnchorName": "Shadesmar · Haka-alaku, junto al antiguo paso de los Picos Comecuernos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla."
           ]
         }
       ]
@@ -539534,6 +548225,54 @@ window.ATLAS_DATA = {
           "notes": [
             "Los Injuramentados combaten en el pasillo. Notum aparece en armadura y auxilia a Adolin."
           ]
+        },
+        {
+          "id": "primary310-147-ob87-platform-thread-spren-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
         }
       ]
     },
@@ -544386,6 +553125,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Los Injuramentados combaten en el pasillo. Notum aparece en armadura y auxilia a Adolin."
+          ]
+        },
+        {
+          "id": "primary310-147-notum-ob108-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-notum-ob108-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
           ]
         }
       ]
@@ -567484,6 +576319,104 @@ window.ATLAS_DATA = {
           "notes": [
             "La delegación llega a la plataforma cognitiva, junto a los dos centinelas."
           ]
+        },
+        {
+          "id": "primary310-143-urithiru-white-sentinel-row22-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-145-urithiru-white-sentinel-row22-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Los centinelas se reducen de tamaño y explican a Shallan que la Puerta Jurada se ha quedado sin luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los centinelas se reducen de tamaño y explican a Shallan que la Puerta Jurada se ha quedado sin luz tormentosa."
+          ]
         }
       ]
     },
@@ -567543,6 +576476,104 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "La delegación llega a la plataforma cognitiva, junto a los dos centinelas."
+          ]
+        },
+        {
+          "id": "primary310-143-urithiru-black-sentinel-row22-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-145-urithiru-black-sentinel-row22-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Los centinelas se reducen de tamaño y explican a Shallan que la Puerta Jurada se ha quedado sin luz tormentosa.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los centinelas se reducen de tamaño y explican a Shallan que la Puerta Jurada se ha quedado sin luz tormentosa."
           ]
         }
       ]
@@ -570409,6 +579440,197 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Se descubre a los tres Sangre Espectral disfrazados. Mraize arroja su daga al portal al final del combate."
+          ]
+        },
+        {
+          "id": "primary310-141-cryptic-deadeye-row29-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-cryptic-deadeye-row29-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-143-cryptic-deadeye-row29-20",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Pasarela sobre las plataformas de Urithiru",
+          "placeId": "place-wat143-shadesmar-urithiru-walkway",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela."
+          ]
+        },
+        {
+          "id": "primary310-147-cryptic-deadeye-row29-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Haka-alaku · Campamento y tienda de Felt",
+          "placeId": "place-wat147-shadesmar-felt-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-haka-alaku",
+          "coordinateAnchorName": "Shadesmar · Haka-alaku, junto al antiguo paso de los Picos Comecuernos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla."
           ]
         }
       ]
@@ -578261,6 +587483,51 @@ window.ATLAS_DATA = {
           "notes": [
             "12.124 desaparece hacia el Reino Cognitivo después de que Szeth rompa su vínculo."
           ]
+        },
+        {
+          "id": "primary310-147-szeth-highspren-rowi7-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "placeId": "place-wat147-shadesmar-iriali-caravan",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-iriali-caravan",
+          "coordinateAnchorName": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros."
+          ]
         }
       ]
     },
@@ -580600,6 +589867,104 @@ window.ATLAS_DATA = {
           "notes": [
             "Renarin y Rlain se encuentran en los campos con sus spren. Drehy habla antes con Renarin y Shallan llega después de la visión."
           ]
+        },
+        {
+          "id": "primary310-141-tumi-row114-20",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Renarin, Rlain y los spren reaparecen en una plataforma de Urithiru en Shadesmar al ser expulsados del Reino Espiritual."
+          ]
+        },
+        {
+          "id": "primary310-143-tumi-row114-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
         }
       ]
     },
@@ -580706,6 +590071,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Kalak se encierra y sorprende a Felt con el dispositivo de Ala en su estudio."
+          ]
+        },
+        {
+          "id": "primary310-147-ala-row115-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Haka-alaku · Campamento y tienda de Felt",
+          "placeId": "place-wat147-shadesmar-felt-camp",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-haka-alaku",
+          "coordinateAnchorName": "Shadesmar · Haka-alaku, junto al antiguo paso de los Picos Comecuernos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan encuentra a Felt y habla con Thaidakar mediante Ala. Después la seon acepta acompañarla."
           ]
         }
       ]
@@ -582337,6 +591747,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
+          ]
+        },
+        {
+          "id": "primary310-141-elid-wat24-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
           ]
         }
       ]
@@ -584421,6 +593876,102 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Yanagawn y su grupo guardan el pasillo rodeado por fuerzas enemigas."
+          ]
+        },
+        {
+          "id": "primary310-147-kushkam-wat34-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-kushkam-wat34-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
           ]
         }
       ]
@@ -587965,6 +597516,186 @@ window.ATLAS_DATA = {
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
           ]
+        },
+        {
+          "id": "primary310-141-wat-wind-speaker-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-142-wat-wind-speaker-10",
+          "scene": "wat-chapter-142",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-142",
+          "sourceIds": [
+            "primary310-wat-142"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-142"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/142.xhtml. Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin intenta conseguir luz tormentosa mientras Sangre Nocturna se la consume. Ishar vuelve en sí y dice que no dispone de sus potencias."
+          ]
+        },
+        {
+          "id": "primary310-144-wat-wind-speaker-10",
+          "scene": "wat-chapter-144",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-144",
+          "sourceIds": [
+            "primary310-wat-144"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-144"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/144.xhtml. Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar y Nale preparan el círculo. Kaladin se ofrece a ocupar la plaza de Jezrien y Syl acepta sus Palabras."
+          ]
+        },
+        {
+          "id": "primary310-145-wat-wind-speaker-10",
+          "scene": "wat-chapter-145",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-145",
+          "sourceIds": [
+            "primary310-wat-145"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-145"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/145.xhtml. Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original.",
+          "needsConfirmation": [],
+          "notes": [
+            "Ishar utiliza el método de Vedel con Kaladin. Nale y el resto se desvanecen, e Ishar advierte a Kaladin que dejará atrás el cuerpo original."
+          ]
         }
       ]
     },
@@ -588786,6 +598517,51 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
+          ]
+        },
+        {
+          "id": "primary310-141-pozen-wat53-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
           ]
         }
       ]
@@ -591245,6 +601021,102 @@ window.ATLAS_DATA = {
           "notes": [
             "El grupo cruza los jardines y entra al palacio. La puerta oculta no se abre y el enemigo los rodea en los pasillos."
           ]
+        },
+        {
+          "id": "primary310-147-zabra-wat60-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Sala tradicional de elección del supremo",
+          "placeId": "place-wat147-azimir-vizier-selection-room",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los Injuramentados reciben noticias traídas por Maya. Zabra entra para anunciar que para la lluvia."
+          ]
+        },
+        {
+          "id": "primary310-147-zabra-wat60-20",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Azimir · Exterior del palacio donde vuelve la luz solar",
+          "placeId": "place-wat147-azimir-palace-sunlight",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            404.157,
+            423.377
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
+          "coordinateAnchorId": "place-azimir",
+          "coordinateAnchorName": "Azimir · Anclaje de ciudad",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Azimir, alrededor de un mes y medio después del duelo; el alcance de la luz se constata en las semanas siguientes."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir.",
+          "needsConfirmation": [],
+          "notes": [
+            "Los reunidos salen a la luz del sol al levantarse la cobertura de tormenta sobre Azimir."
+          ]
         }
       ]
     },
@@ -593240,6 +603112,51 @@ window.ATLAS_DATA = {
           "notes": [
             "El Viento acepta el Quinto Ideal de Kaladin. Sangre Nocturna corta los cordeles de Ishar y después pasa a manos de Szeth."
           ]
+        },
+        {
+          "id": "primary310-141-moss-wat70-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
         }
       ]
     },
@@ -593758,6 +603675,96 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "Syl advierte el peligro. Kaladin interviene y Szeth recoge la Hoja de Honor de la portadora."
+          ]
+        },
+        {
+          "id": "primary310-141-truthwatcher-holder-wat72-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        },
+        {
+          "id": "primary310-143-truthwatcher-holder-wat72-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia.",
+          "needsConfirmation": [],
+          "notes": [
+            "Szeth termina el enfrentamiento con la Vigilante y Neturo. Sangre Nocturna deja de consumir a Szeth y Kaladin por voluntad propia."
           ]
         }
       ]
@@ -597137,6 +607144,54 @@ window.ATLAS_DATA = {
           "needsConfirmation": [],
           "notes": [
             "El se encuentra con Venli y el grupo de Leshwi sobre una meseta. Leshwi identifica al Fusionado al marcharse."
+          ]
+        },
+        {
+          "id": "primary310-146-el-motionless-husk-wat91-10",
+          "scene": "wat-chapter-146",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Narak · Meseta central",
+          "placeId": "place-narak",
+          "realm": "physical",
+          "placeNotes": [
+            "Anclaje de ciudad o región: no identifica una dependencia o posición exacta.",
+            "Se conserva el anclaje general de las Llanuras Quebradas hasta disponer de un plano regional calibrado."
+          ],
+          "xy": [
+            756.972,
+            453.279
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-146",
+          "sourceIds": [
+            "primary310-wat-146"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-llanuras-quebradas",
+          "coordinateAnchorName": "Llanuras Quebradas",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-146"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/146.xhtml. Venli ve hablar con los oyentes al Cascarón que antes parecía ausente. Se ha quedado en Narak.",
+          "needsConfirmation": [],
+          "notes": [
+            "Venli ve hablar con los oyentes al Cascarón que antes parecía ausente. Se ha quedado en Narak."
           ]
         }
       ]
@@ -600820,7 +610875,105 @@ window.ATLAS_DATA = {
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
-      "events": []
+      "events": [
+        {
+          "id": "primary310-143-iyatil-spren-wat134-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-143-iyatil-spren-wat134-20",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Pasarela sobre las plataformas de Urithiru",
+          "placeId": "place-wat143-shadesmar-urithiru-walkway",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela."
+          ]
+        }
+      ]
     },
     {
       "id": "maya-deadeyes-wat135",
@@ -601113,6 +611266,510 @@ window.ATLAS_DATA = {
       "name": "Spren de Mraize",
       "initial": "S",
       "role": "Críptico blanco herido que Shallan y Patrón ayudan a salir del cadáver de Mraize.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-143-mraize-spren-wat138-10",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "placeId": "place-row22-shadesmar-urithiru-gate",
+          "realm": "cognitive",
+          "placeNotes": [
+            "El ritmo de la guerra, EPUB español, OEBPS/Text/22.Nosirve.xhtml",
+            "Posición respecto de la torre descrita; sin calibración en el mapa cognitivo.",
+            "Punto aproximado de Escaleras de Nohadon en la capa de Shadesmar, contrastado con el mapa del Mar de las Almas Meridional. Representación regional sin punto individual."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas.",
+          "needsConfirmation": [],
+          "notes": [
+            "El grupo se recupera en la plataforma de Urithiru mientras los dos centinelas atienden las Puertas Juradas."
+          ]
+        },
+        {
+          "id": "primary310-143-mraize-spren-wat138-20",
+          "scene": "wat-chapter-143",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 20,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Pasarela sobre las plataformas de Urithiru",
+          "placeId": "place-wat143-shadesmar-urithiru-walkway",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": [
+            501,
+            405
+          ],
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-143",
+          "sourceIds": [
+            "primary310-wat-143"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-row22-shadesmar-urithiru-gate",
+          "coordinateAnchorName": "Shadesmar · Plataforma de la Puerta Jurada frente a Urithiru",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-143"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/143.xhtml. Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela.",
+          "needsConfirmation": [],
+          "notes": [
+            "Shallan, Patrón y Testimonio ayudan a los dos spren heridos a reunirse con Sja-anat en la pasarela."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shin-stoneward-fused-wat141",
+      "name": "Custodia de la Piedra del círculo de Ishar",
+      "initial": "C",
+      "role": "Portadora sin nombre que levanta una pared de roca antes de ser alcanzada por Szeth.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-141-shin-stoneward-fused-wat141-10",
+          "scene": "wat-chapter-141",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Monasterio del Forjador de Vínculos · Vaina de Espadas",
+          "placeId": "place-wat94-sheath-of-swords",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/94.Verdad.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-141",
+          "sourceIds": [
+            "primary310-wat-141"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat94-bondsmith-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Forjador de Vínculos",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Décimo día."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-141"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/141.xhtml. Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin.",
+          "needsConfirmation": [],
+          "notes": [
+            "Kaladin y Syl observan el combate de Szeth contra los seis portadores. El Viento le responde a Kaladin."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blackthorn-spren-wat145",
+      "name": "Espina Negra del Reino Espiritual",
+      "initial": "E",
+      "role": "Spren naciente moldeado por la leyenda del Espina Negra y la Conexión con los recuerdos de Dalinar. Represalia le ofrece ser su campeón.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ulaam-wat147",
+      "name": "Ulaam",
+      "initial": "U",
+      "role": "Colaborador de Hoid que mantiene el cultivo del que puede rehacerse su cuerpo tras ser destruido.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-147-ulaam-wat147-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Fuera de Roshar · Laboratorio y estancia donde despierta Hoid",
+          "placeId": "place-wat147-hoid-lab-offworld",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-hoid-lab-offworld",
+          "coordinateAnchorName": "Fuera de Roshar · Laboratorio y estancia donde despierta Hoid",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Consecuencias tras el Caetormenta; las escenas avanzan con plazos distintos."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Hoid despierta lejos de Roshar. Ulaam confirma que lo encontró regenerado en su laboratorio.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hoid despierta lejos de Roshar. Ulaam confirma que lo encontró regenerado en su laboratorio."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xorm-wat147",
+      "name": "Xorm",
+      "initial": "X",
+      "role": "Spren de la hoja del emperador Yanagawn. El emperador dice que está mejorando.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "olo-wat147",
+      "name": "Olo",
+      "initial": "O",
+      "role": "Seon que trabajaba con Sagaz. Según Ala, salió de Urithiru y se dirige hacia las Llanuras Quebradas.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "iyatil-brother-wat147",
+      "name": "Hermano de Iyatil",
+      "initial": "H",
+      "role": "Thaidakar afirma que todavía desconoce la muerte de su hermana. No da su nombre.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "iriali-caravan-guards-wat147",
+      "name": "Guardias de la caravana iriali",
+      "initial": "G",
+      "role": "Interrogan a Sigzil al llegar y lo dirigen a la zona de los viajeros no iriali.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-147-iriali-caravan-guards-wat147-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "placeId": "place-wat147-shadesmar-iriali-caravan",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-iriali-caravan",
+          "coordinateAnchorName": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iriali-caravan-host-family-wat147",
+      "name": "Familia que acoge a Sigzil en un carro",
+      "initial": "F",
+      "role": "Ofrece descanso a Sigzil en un carro de la caravana. El pasaje no da sus nombres.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-147-iriali-caravan-host-family-wat147-10",
+          "scene": "wat-chapter-147",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "placeId": "place-wat147-shadesmar-iriali-caravan",
+          "realm": "cognitive",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-147",
+          "sourceIds": [
+            "primary310-wat-147"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat147-shadesmar-iriali-caravan",
+          "coordinateAnchorName": "Shadesmar · Caravana iriali que viaja fuera de Roshar",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "En Shadesmar han pasado meses desde el Caetormenta; el tiempo fuera de Roshar no es equivalente."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-chapter-147"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/147.xhtml. Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros.",
+          "needsConfirmation": [],
+          "notes": [
+            "Sigzil alcanza la caravana y reconoce en ella a 12.124. Los guardias lo envían al extremo donde acogen a otros viajeros."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grimes-wat-epilogue",
+      "name": "Señorita Grimes",
+      "initial": "S",
+      "role": "Ama de llaves de la Casa Ladrian. Entrevista a Hoid y le ofrece el puesto de cochero.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-Epilogo-grimes-wat-epilogue-10",
+          "scene": "wat-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Scadrial · Sala de espera y despacho de la Casa Ladrian",
+          "placeId": "place-wat-epilogue-scadrial-ladrian-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-epilogo",
+          "sourceIds": [
+            "primary310-wat-epilogo"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat-epilogue-scadrial-ladrian-office",
+          "coordinateAnchorName": "Scadrial · Sala de espera y despacho de la Casa Ladrian",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Cierre narrativo tras el Caetormenta; cronología relativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-epilogue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Hoid espera, conversa con una candidata y se entrevista con la señorita Grimes para trabajar como cochero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hoid espera, conversa con una candidata y se entrevista con la señorita Grimes para trabajar como cochero."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jone-wat-epilogue",
+      "name": "Jone",
+      "initial": "J",
+      "role": "Persona a quien Grimes atribuye la valoración favorable de Hoid como conductor.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "former-ladrian-driver-wat-epilogue",
+      "name": "Anterior cochero de la Casa Ladrian",
+      "initial": "A",
+      "role": "Grimes relata que un anterior empleado acabó tirando el carruaje por un acantilado.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": []
+    },
+    {
+      "id": "ladrian-housekeeper-applicant-wat-epilogue",
+      "name": "Candidata a mayordoma de la Casa Ladrian",
+      "initial": "C",
+      "role": "Mujer que espera junto a Hoid con un anuncio de empleo. Hoid cree que va a solicitar el puesto de mayordoma.",
+      "color": "#a5b8c1",
+      "importance": "tertiary",
+      "importanceReason": "Figura individualizada en el pasaje.",
+      "events": [
+        {
+          "id": "primary310-Epilogo-ladrian-housekeeper-applicant-wat-epilogue-10",
+          "scene": "wat-epilogue",
+          "retrospective": false,
+          "memoryPhase": null,
+          "memoryOrder": 10,
+          "supersedes": [],
+          "excludedFromRoute": false,
+          "place": "Scadrial · Sala de espera y despacho de la Casa Ladrian",
+          "placeId": "place-wat-epilogue-scadrial-ladrian-office",
+          "realm": "physical",
+          "placeNotes": [
+            "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml",
+            "Sin coordenadas propias."
+          ],
+          "xy": null,
+          "kind": "scene",
+          "review": "primary-text",
+          "source": "primary310-wat-epilogo",
+          "sourceIds": [
+            "primary310-wat-epilogo"
+          ],
+          "status": "confirmed",
+          "coordinateStatus": "unlocated",
+          "coordinatePrecision": "unlocated",
+          "coordinateAnchorId": "place-wat-epilogue-scadrial-ladrian-office",
+          "coordinateAnchorName": "Scadrial · Sala de espera y despacho de la Casa Ladrian",
+          "storyTime": {
+            "frame": "present",
+            "relationToStart": "after-start",
+            "date": null,
+            "precision": "relative-only",
+            "relativeYearsBeforePresent": null,
+            "note": "Cierre narrativo tras el Caetormenta; cronología relativa."
+          },
+          "revealedAt": {
+            "bookId": "wat",
+            "sceneId": "wat-epilogue"
+          },
+          "locator": "Viento y verdad, EPUB español, OEBPS/Text/Epilogo.xhtml. Hoid espera, conversa con una candidata y se entrevista con la señorita Grimes para trabajar como cochero.",
+          "needsConfirmation": [],
+          "notes": [
+            "Hoid espera, conversa con una candidata y se entrevista con la señorita Grimes para trabajar como cochero."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valour-wat-epilogue",
+      "name": "Valentía",
+      "initial": "V",
+      "role": "Esquirla a la que Hoid quiere acudir para encontrar ayuda tras formarse Represalia.",
       "color": "#a5b8c1",
       "importance": "tertiary",
       "importanceReason": "Figura individualizada en el pasaje.",
