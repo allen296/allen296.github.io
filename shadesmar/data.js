@@ -193870,7 +193870,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 313,
+  "revision": 314,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -265962,9 +265962,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -265972,10 +265975,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -266007,9 +266010,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "Los bajíos están cerca del pueblo de la prueba. Comparten el sector septentrional del Lagopuro."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -266017,10 +266023,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-shallows",
-          "coordinateAnchorName": "Lagopuro · Bajíos cerca del pueblo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -266052,9 +266058,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "La penitenciaría domina el lago desde una colina próxima al pueblo de la prueba. Comparte la referencia de la orilla norte."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -266062,10 +266071,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-cliff-prison",
-          "coordinateAnchorName": "Lagopuro · Penitenciaría del acantilado",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -266097,9 +266106,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -266107,10 +266119,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -266142,9 +266154,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El murete está a las afueras del pueblo de la prueba. Comparte la referencia de la orilla norte."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -266152,10 +266167,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-wall",
-          "coordinateAnchorName": "Lagopuro · Murete a las afueras del pueblo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -266232,9 +266247,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los postes se alzan en las aguas del Lagopuro. La escena se representa en la región del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -266242,10 +266260,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-post-course",
-          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -266277,9 +266295,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los maestros cuentan las marcas en una orilla del Lagopuro. El capítulo 98 deja abierta la orilla concreta y la escena comparte el punto general del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -266287,10 +266308,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-score-shore",
-          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -357190,9 +357211,12 @@ window.ATLAS_DATA = {
           "placeId": "place-lago-puro-fu-abra",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación."
+            "El camino de los reyes, interludio 1, sitúa Fu Abra dentro del Lagopuro. Se usa el punto regional del lago. El mapa rotula Fu Namir en la orilla meridional y su nombre es distinto."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "interludes",
@@ -357201,10 +357225,10 @@ window.ATLAS_DATA = {
             "primary111-wok-continuous"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unverified",
-          "coordinateAnchorId": "place-lago-puro-fu-abra",
-          "coordinateAnchorName": "Lago Puro · Fu Abra",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "relationToStart": "after-start",
             "date": null,
@@ -357244,9 +357268,12 @@ window.ATLAS_DATA = {
           "placeId": "place-lago-puro-fu-abra",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación."
+            "El camino de los reyes, interludio 1, sitúa Fu Abra dentro del Lagopuro. Se usa el punto regional del lago. El mapa rotula Fu Namir en la orilla meridional y su nombre es distinto."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "interludes",
@@ -357255,10 +357282,10 @@ window.ATLAS_DATA = {
             "primary111-wok-continuous"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unverified",
-          "coordinateAnchorId": "place-lago-puro-fu-abra",
-          "coordinateAnchorName": "Lago Puro · Fu Abra",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "relationToStart": "after-start",
             "date": null,
@@ -358997,9 +359024,12 @@ window.ATLAS_DATA = {
           "placeId": "place-lago-puro-fu-abra",
           "realm": "physical",
           "placeNotes": [
-            "Nombre y posición heredados del prototipo; pendientes de comprobación."
+            "El camino de los reyes, interludio 1, sitúa Fu Abra dentro del Lagopuro. Se usa el punto regional del lago. El mapa rotula Fu Namir en la orilla meridional y su nombre es distinto."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "interludes",
@@ -359008,10 +359038,10 @@ window.ATLAS_DATA = {
             "primary111-wok-continuous"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unverified",
-          "coordinateAnchorId": "place-lago-puro-fu-abra",
-          "coordinateAnchorName": "Lago Puro · Fu Abra",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "relationToStart": "after-start",
             "date": null,
@@ -459095,9 +459125,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -459105,10 +459138,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -459140,9 +459173,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "Los bajíos están cerca del pueblo de la prueba. Comparten el sector septentrional del Lagopuro."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -459150,10 +459186,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-shallows",
-          "coordinateAnchorName": "Lagopuro · Bajíos cerca del pueblo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -459185,9 +459221,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "La penitenciaría domina el lago desde una colina próxima al pueblo de la prueba. Comparte la referencia de la orilla norte."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -459195,10 +459234,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-cliff-prison",
-          "coordinateAnchorName": "Lagopuro · Penitenciaría del acantilado",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -459230,9 +459269,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -459240,10 +459282,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -459275,9 +459317,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El murete está a las afueras del pueblo de la prueba. Comparte la referencia de la orilla norte."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -459285,10 +459330,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-wall",
-          "coordinateAnchorName": "Lagopuro · Murete a las afueras del pueblo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -459365,9 +459410,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los postes se alzan en las aguas del Lagopuro. La escena se representa en la región del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -459375,10 +459423,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-post-course",
-          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -459410,9 +459458,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los maestros cuentan las marcas en una orilla del Lagopuro. El capítulo 98 deja abierta la orilla concreta y la escena comparte el punto general del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -459420,10 +459471,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-score-shore",
-          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -549715,9 +549766,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -549725,10 +549779,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -549760,9 +549814,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -549770,10 +549827,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -549805,9 +549862,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El murete está a las afueras del pueblo de la prueba. Comparte la referencia de la orilla norte."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -549815,10 +549875,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-wall",
-          "coordinateAnchorName": "Lagopuro · Murete a las afueras del pueblo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -549850,9 +549910,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los maestros cuentan las marcas en una orilla del Lagopuro. El capítulo 98 deja abierta la orilla concreta y la escena comparte el punto general del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -549860,10 +549923,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-score-shore",
-          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550254,9 +550317,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "Los bajíos están cerca del pueblo de la prueba. Comparten el sector septentrional del Lagopuro."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -550264,10 +550330,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-shallows",
-          "coordinateAnchorName": "Lagopuro · Bajíos cerca del pueblo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550310,9 +550376,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -550320,10 +550389,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550355,9 +550424,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/92.Aguacalida.xhtml",
-            "Sin coordenadas propias."
+            "El pueblo se alza en la orilla norte. Se utiliza el sector septentrional como referencia cartográfica."
           ],
-          "xy": null,
+          "xy": [
+            455.09,
+            324.47
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary219-ob92",
@@ -550365,10 +550437,10 @@ window.ATLAS_DATA = {
             "primary219-ob92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob92-purelake-village",
-          "coordinateAnchorName": "Lagopuro · Pueblo de la prueba de los Rompedores",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-orilla-norte",
+          "coordinateAnchorName": "Lagopuro · Sector de la orilla norte",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550662,9 +550734,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los postes se alzan en las aguas del Lagopuro. La escena se representa en la región del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -550672,10 +550747,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-post-course",
-          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550707,9 +550782,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los maestros cuentan las marcas en una orilla del Lagopuro. El capítulo 98 deja abierta la orilla concreta y la escena comparte el punto general del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -550717,10 +550795,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-score-shore",
-          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550853,9 +550931,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los postes se alzan en las aguas del Lagopuro. La escena se representa en la región del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -550863,10 +550944,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-post-course",
-          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550954,9 +551035,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los postes se alzan en las aguas del Lagopuro. La escena se representa en la región del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -550964,10 +551048,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-post-course",
-          "coordinateAnchorName": "Lagopuro · Circuito de postes de los Rompedores del Cielo",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -550999,9 +551083,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los maestros cuentan las marcas en una orilla del Lagopuro. El capítulo 98 deja abierta la orilla concreta y la escena comparte el punto general del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -551009,10 +551096,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-score-shore",
-          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -551055,9 +551142,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Juramentada, EPUB español, OEBPS/Text/98.Lagunas.xhtml",
-            "Sin coordenadas propias."
+            "Los maestros cuentan las marcas en una orilla del Lagopuro. El capítulo 98 deja abierta la orilla concreta y la escena comparte el punto general del lago."
           ],
-          "xy": null,
+          "xy": [
+            455.46,
+            347.72
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary221-ob98",
@@ -551065,10 +551155,10 @@ window.ATLAS_DATA = {
             "primary221-ob98"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-ob98-purelake-score-shore",
-          "coordinateAnchorName": "Lagopuro · Orilla donde se cuentan las marcas",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-lagopuro-region",
+          "coordinateAnchorName": "Lagopuro · Referencia general del lago",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
