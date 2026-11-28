@@ -193870,7 +193870,7 @@ window.ATLAS_DATA = {
   "scope": "El camino de los reyes, Palabras radiantes y Danzante del Filo hasta sus finales; Juramentada, prólogo y capítulos 1–48 e interludios I-1–I-3. Línea de lectura continua y recuerdos independientes.",
   "startEvent": "Muerte de Gavilar",
   "status": "documented-provisional",
-  "revision": 310,
+  "revision": 313,
   "coverage": "Selección de personajes y presencias de cinco obras. El cotejo y la certeza de cada registro constan en sus fuentes.",
   "scenes": [
     {
@@ -196312,7 +196312,7 @@ window.ATLAS_DATA = {
       "label": "Capítulo 45",
       "part": "ob-2e",
       "source": "ob86-45-46",
-      "note": "Llegada de Moash a Revolar, encuentro con Guff y audiencia ante Paladar. La ciudad sigue pendiente de calibración."
+      "note": "Llegada de Moash a Revolar, encuentro con Guff y audiencia ante Paladar. Los lugares de la escena comparten el punto de Revolar."
     },
     {
       "id": "ob-chapter-46",
@@ -200307,8 +200307,11 @@ window.ATLAS_DATA = {
       "entryAnchor": {
         "placeId": "place-revolar-pens",
         "name": "Revolar · Corrales y refugios orientales",
-        "xy": null,
-        "coordinateStatus": "unlocated"
+        "xy": [
+          702.3556939439616,
+          320.78690911973274
+        ],
+        "coordinateStatus": "calibrated"
       }
     },
     {
@@ -220440,9 +220443,13 @@ window.ATLAS_DATA = {
           "placeId": "place-revolar",
           "realm": "physical",
           "placeNotes": [
-            "Localización textual conocida; coordenadas sin verificar. No sustituir por Hearthstone ni por una ciudad vecina."
+            "Anclaje de ciudad en el punto rotulado Revolar del mapa de Roshar aportado (píxel 1572, 516). Juramentada, mapa de Alezkar (OEBPS/Text/Mapa4.xhtml) y capítulo 31.",
+            "Las dependencias urbanas comparten el punto de la ciudad. Las afueras vinculadas usan el punto como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -220451,8 +220458,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -220487,7 +220494,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -220496,8 +220506,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -220532,7 +220542,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -220541,8 +220554,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -220577,7 +220590,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -220586,8 +220602,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -233756,10 +233772,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -233767,8 +233786,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -233802,10 +233821,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -233813,8 +233835,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -233848,10 +233870,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-42",
@@ -233859,8 +233884,8 @@ window.ATLAS_DATA = {
             "primary300-wat-42"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -233894,10 +233919,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "El mapa de Nazh sitúa Koring junto al monasterio del Escultor de Voluntad. El fuerte y la población usan el punto del monasterio como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -233905,10 +233932,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -233940,10 +233967,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -233951,10 +233980,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -234121,10 +234150,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh nombra Bajomok junto al monasterio. Punto sin calibrar en el mapa general."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -234132,8 +234163,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -234169,7 +234200,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -234177,8 +234211,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -234214,7 +234248,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -234222,8 +234259,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -234259,7 +234296,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -234267,8 +234307,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -234349,7 +234389,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -234357,8 +234400,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -234394,7 +234437,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -234402,8 +234448,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -234439,7 +234485,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/72.Peligrosa.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-72",
@@ -234447,8 +234496,8 @@ window.ATLAS_DATA = {
             "primary303-wat-72"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -234527,9 +234576,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-89",
@@ -234537,8 +234589,8 @@ window.ATLAS_DATA = {
             "primary304-wat-89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -234572,9 +234624,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-90",
@@ -234582,8 +234637,8 @@ window.ATLAS_DATA = {
             "primary304-wat-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -268184,10 +268239,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -268195,8 +268253,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268230,10 +268288,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -268241,8 +268302,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268276,10 +268337,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-41",
@@ -268287,8 +268351,8 @@ window.ATLAS_DATA = {
             "primary300-wat-41"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268322,10 +268386,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-42",
@@ -268333,8 +268400,8 @@ window.ATLAS_DATA = {
             "primary300-wat-42"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268368,10 +268435,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "El mapa de Nazh sitúa Koring junto al monasterio del Escultor de Voluntad. El fuerte y la población usan el punto del monasterio como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -268379,10 +268448,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -268414,10 +268483,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -268425,10 +268496,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -268507,7 +268578,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -268515,8 +268589,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268552,7 +268626,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -268560,8 +268637,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268867,7 +268944,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -268875,8 +268955,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268912,7 +268992,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -268920,8 +269003,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -268957,7 +269040,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/57.Seguir.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -268965,8 +269051,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -269000,10 +269086,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -269011,8 +269100,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -269271,10 +269360,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh nombra Bajomok junto al monasterio. Punto sin calibrar en el mapa general."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -269282,8 +269373,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269319,7 +269410,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -269327,8 +269421,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269364,7 +269458,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -269372,8 +269469,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269409,7 +269506,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -269417,8 +269517,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269454,7 +269554,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/57.Seguir.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -269462,8 +269565,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -269499,7 +269602,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -269507,8 +269613,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -269544,7 +269650,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -269552,8 +269661,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -269634,7 +269743,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -269642,8 +269754,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -269677,9 +269789,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -269687,8 +269802,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -269724,7 +269839,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -269732,8 +269850,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -269769,7 +269887,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -269777,8 +269898,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -269814,7 +269935,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/72.Peligrosa.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-72",
@@ -269822,8 +269946,8 @@ window.ATLAS_DATA = {
             "primary303-wat-72"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -269859,7 +269983,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -269867,8 +269994,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269904,7 +270031,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -269912,8 +270042,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269949,7 +270079,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -269957,8 +270090,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -269994,7 +270127,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -270002,8 +270138,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -270039,7 +270175,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/75.Familia.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-75",
@@ -270047,8 +270186,8 @@ window.ATLAS_DATA = {
             "primary303-wat-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -270084,7 +270223,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/75.Familia.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-75",
@@ -270092,8 +270234,8 @@ window.ATLAS_DATA = {
             "primary303-wat-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -270217,9 +270359,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-89",
@@ -270227,8 +270372,8 @@ window.ATLAS_DATA = {
             "primary304-wat-89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -270262,9 +270407,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-90",
@@ -270272,8 +270420,8 @@ window.ATLAS_DATA = {
             "primary304-wat-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -270309,7 +270457,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/92.Azul.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            295.25,
+            310.06
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary305-wat-92",
@@ -270317,8 +270468,8 @@ window.ATLAS_DATA = {
             "primary305-wat-92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat92-ayabiza",
           "coordinateAnchorName": "Shinovar · Ayabiza",
           "storyTime": {
@@ -270354,7 +270505,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/92.Azul.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            295.25,
+            310.06
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary305-wat-92",
@@ -270362,8 +270516,8 @@ window.ATLAS_DATA = {
             "primary305-wat-92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat92-ayabiza",
           "coordinateAnchorName": "Shinovar · Ayabiza",
           "storyTime": {
@@ -270669,7 +270823,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/102.Hoja.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary306-wat-102",
@@ -270677,8 +270834,8 @@ window.ATLAS_DATA = {
             "primary306-wat-102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -270714,7 +270871,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/102.Hoja.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary306-wat-102",
@@ -270722,8 +270882,8 @@ window.ATLAS_DATA = {
             "primary306-wat-102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -270759,7 +270919,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/102.Hoja.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary306-wat-102",
@@ -270767,8 +270930,8 @@ window.ATLAS_DATA = {
             "primary306-wat-102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -271209,7 +271372,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -271217,8 +271383,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -271254,7 +271420,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -271262,8 +271431,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -271299,7 +271468,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -271307,8 +271479,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -271344,7 +271516,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -271352,8 +271527,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -276559,9 +276734,13 @@ window.ATLAS_DATA = {
           "placeId": "place-revolar",
           "realm": "physical",
           "placeNotes": [
-            "Localización textual conocida; coordenadas sin verificar. No sustituir por Hearthstone ni por una ciudad vecina."
+            "Anclaje de ciudad en el punto rotulado Revolar del mapa de Roshar aportado (píxel 1572, 516). Juramentada, mapa de Alezkar (OEBPS/Text/Mapa4.xhtml) y capítulo 31.",
+            "Las dependencias urbanas comparten el punto de la ciudad. Las afueras vinculadas usan el punto como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -276570,8 +276749,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -276606,7 +276785,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -276615,8 +276797,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -276651,7 +276833,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -276660,8 +276845,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -276696,7 +276881,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -276705,8 +276893,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -283919,10 +284107,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -283930,8 +284121,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -283965,10 +284156,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -283976,8 +284170,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -284011,10 +284205,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-42",
@@ -284022,8 +284219,8 @@ window.ATLAS_DATA = {
             "primary300-wat-42"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -284057,10 +284254,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "El mapa de Nazh sitúa Koring junto al monasterio del Escultor de Voluntad. El fuerte y la población usan el punto del monasterio como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -284068,10 +284267,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -284103,10 +284302,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -284114,10 +284315,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -284239,10 +284440,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh nombra Bajomok junto al monasterio. Punto sin calibrar en el mapa general."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -284250,8 +284453,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -284287,7 +284490,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -284295,8 +284501,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -284332,7 +284538,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -284340,8 +284549,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -284377,7 +284586,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -284385,8 +284597,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -284467,7 +284679,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -284475,8 +284690,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -284512,7 +284727,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -284520,8 +284738,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -284557,7 +284775,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -284565,8 +284786,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -284602,7 +284823,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/72.Peligrosa.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-72",
@@ -284610,8 +284834,8 @@ window.ATLAS_DATA = {
             "primary303-wat-72"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -284690,9 +284914,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-89",
@@ -284700,8 +284927,8 @@ window.ATLAS_DATA = {
             "primary304-wat-89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -284735,9 +284962,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-90",
@@ -284745,8 +284975,8 @@ window.ATLAS_DATA = {
             "primary304-wat-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -355202,7 +355432,10 @@ window.ATLAS_DATA = {
             "Los Fusionados entregan a Moash antes de su entrada en el corral; no se los sitúa dentro de él.",
             "Referencia general de Revolar, sin punto calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-summary",
@@ -355211,8 +355444,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -355247,7 +355480,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-summary",
@@ -355256,8 +355492,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -355292,7 +355528,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-guff",
@@ -355301,8 +355540,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -355337,7 +355576,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-paladar",
@@ -355347,8 +355589,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -355383,7 +355625,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-summary",
@@ -355392,8 +355637,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -418795,7 +419040,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -418803,8 +419051,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -418885,7 +419133,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -418893,8 +419144,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -418930,7 +419181,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -418938,8 +419192,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -418975,7 +419229,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/72.Peligrosa.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-72",
@@ -418983,8 +419240,8 @@ window.ATLAS_DATA = {
             "primary303-wat-72"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -419063,9 +419320,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-89",
@@ -419073,8 +419333,8 @@ window.ATLAS_DATA = {
             "primary304-wat-89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -419108,9 +419368,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-90",
@@ -419118,8 +419381,8 @@ window.ATLAS_DATA = {
             "primary304-wat-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -460122,10 +460385,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -460133,8 +460399,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -460168,10 +460434,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -460179,8 +460448,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -460214,10 +460483,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-42",
@@ -460225,8 +460497,8 @@ window.ATLAS_DATA = {
             "primary300-wat-42"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -460260,10 +460532,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "El mapa de Nazh sitúa Koring junto al monasterio del Escultor de Voluntad. El fuerte y la población usan el punto del monasterio como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -460271,10 +460545,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -460306,10 +460580,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -460317,10 +460593,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -460577,10 +460853,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh nombra Bajomok junto al monasterio. Punto sin calibrar en el mapa general."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -460588,8 +460866,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -460625,7 +460903,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -460633,8 +460914,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -460715,7 +460996,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -460723,8 +461007,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -470749,9 +471033,13 @@ window.ATLAS_DATA = {
           "placeId": "place-revolar",
           "realm": "physical",
           "placeNotes": [
-            "Localización textual conocida; coordenadas sin verificar. No sustituir por Hearthstone ni por una ciudad vecina."
+            "Anclaje de ciudad en el punto rotulado Revolar del mapa de Roshar aportado (píxel 1572, 516). Juramentada, mapa de Alezkar (OEBPS/Text/Mapa4.xhtml) y capítulo 31.",
+            "Las dependencias urbanas comparten el punto de la ciudad. Las afueras vinculadas usan el punto como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -470760,8 +471048,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -470796,7 +471084,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -470805,8 +471096,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -471271,9 +471562,13 @@ window.ATLAS_DATA = {
           "placeId": "place-revolar",
           "realm": "physical",
           "placeNotes": [
-            "Localización textual conocida; coordenadas sin verificar. No sustituir por Hearthstone ni por una ciudad vecina."
+            "Anclaje de ciudad en el punto rotulado Revolar del mapa de Roshar aportado (píxel 1572, 516). Juramentada, mapa de Alezkar (OEBPS/Text/Mapa4.xhtml) y capítulo 31.",
+            "Las dependencias urbanas comparten el punto de la ciudad. Las afueras vinculadas usan el punto como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -471282,8 +471577,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -471318,7 +471613,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -471327,8 +471625,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -471711,7 +472009,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -471720,8 +472021,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -471825,9 +472126,13 @@ window.ATLAS_DATA = {
           "placeId": "place-revolar",
           "realm": "physical",
           "placeNotes": [
-            "Localización textual conocida; coordenadas sin verificar. No sustituir por Hearthstone ni por una ciudad vecina."
+            "Anclaje de ciudad en el punto rotulado Revolar del mapa de Roshar aportado (píxel 1572, 516). Juramentada, mapa de Alezkar (OEBPS/Text/Mapa4.xhtml) y capítulo 31.",
+            "Las dependencias urbanas comparten el punto de la ciudad. Las afueras vinculadas usan el punto como referencia de conjunto."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -471836,8 +472141,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -471872,7 +472177,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -471881,8 +472189,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -479020,7 +479328,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -479028,8 +479339,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479065,7 +479376,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -479073,8 +479387,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479110,7 +479424,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/57.Seguir.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -479118,8 +479435,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479153,10 +479470,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -479164,8 +479484,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479246,7 +479566,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -479254,8 +479577,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479291,7 +479614,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -479299,8 +479625,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479336,7 +479662,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/75.Familia.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-75",
@@ -479344,8 +479673,8 @@ window.ATLAS_DATA = {
             "primary303-wat-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -479426,7 +479755,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -479434,8 +479766,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -479471,7 +479803,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -479479,8 +479814,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -485136,7 +485471,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -485145,8 +485483,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -485192,7 +485530,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -485201,8 +485542,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -485248,7 +485589,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -485257,8 +485601,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -485304,7 +485648,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob-primary-31-32",
@@ -485313,8 +485660,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -492907,7 +493254,10 @@ window.ATLAS_DATA = {
             "Los Fusionados entregan a Moash antes de su entrada en el corral; no se los sitúa dentro de él.",
             "Referencia general de Revolar, sin punto calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-summary",
@@ -492916,8 +493266,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -494104,7 +494454,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-guff",
@@ -494113,8 +494466,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -494149,7 +494502,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-paladar",
@@ -494159,8 +494515,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -494206,7 +494562,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-paladar",
@@ -494216,8 +494575,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -494263,7 +494622,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general heredado; dependencia exacta sin calibrar."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "ob86-paladar",
@@ -494273,8 +494635,8 @@ window.ATLAS_DATA = {
             "primary201-ob45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -533785,7 +534147,10 @@ window.ATLAS_DATA = {
           "placeNotes": [
             "Anclaje general de ciudad; dependencia sin plano interior calibrado."
           ],
-          "xy": null,
+          "xy": [
+            702.3556939439616,
+            320.78690911973274
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary196-ob31",
@@ -533793,8 +534158,8 @@ window.ATLAS_DATA = {
             "primary196-ob31"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "calibrated",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-revolar",
           "coordinateAnchorName": "Revolar",
           "storyTime": {
@@ -586371,10 +586736,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-41",
@@ -586382,8 +586750,8 @@ window.ATLAS_DATA = {
             "primary300-wat-41"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -586599,7 +586967,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -586607,8 +586978,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -586687,9 +587058,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-89",
@@ -586697,8 +587071,8 @@ window.ATLAS_DATA = {
             "primary304-wat-89"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -586732,9 +587106,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-90",
@@ -586742,8 +587119,8 @@ window.ATLAS_DATA = {
             "primary304-wat-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -591134,7 +591511,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -591142,8 +591522,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -591179,7 +591559,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/57.Seguir.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -591187,8 +591570,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -591224,7 +591607,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -591232,8 +591618,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -591269,7 +591655,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/75.Familia.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-75",
@@ -591277,8 +591666,8 @@ window.ATLAS_DATA = {
             "primary303-wat-75"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -591312,9 +591701,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/89.Revelaciones.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            324.1,
+            340.85
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary304-wat-90",
@@ -591322,8 +591714,8 @@ window.ATLAS_DATA = {
             "primary304-wat-90"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat89-dustbringer-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio de la Portadora del Polvo",
           "storyTime": {
@@ -592502,7 +592894,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -592510,8 +592905,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -592547,7 +592942,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -592555,8 +592953,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -592592,7 +592990,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -592600,8 +593001,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -594090,7 +594491,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -594098,8 +594502,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -595503,10 +595907,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary299-wat-40",
@@ -595514,8 +595921,8 @@ window.ATLAS_DATA = {
             "primary299-wat-40"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -595549,10 +595956,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-41",
@@ -595560,8 +595970,8 @@ window.ATLAS_DATA = {
             "primary300-wat-41"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -595597,7 +596007,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -595605,8 +596018,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -596489,10 +596902,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/45.Autodominio.xhtml",
-            "Sin coordenadas propias.",
-            "El mapa de Nazh sitúa Koring junto al monasterio. Las coordenadas siguen pendientes."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            311.33,
+            364.77
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary300-wat-45",
@@ -596500,10 +596915,10 @@ window.ATLAS_DATA = {
             "primary300-wat-45"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
-          "coordinateAnchorId": "place-wat45-koring-walled-town",
-          "coordinateAnchorName": "Shinovar · Fuerte y población junto al Monasterio del Escultor de Voluntad",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
+          "coordinateAnchorId": "place-wat45-willshaper-monastery",
+          "coordinateAnchorName": "Shinovar · Monasterio del Escultor de Voluntad, cerca de Koring",
           "storyTime": {
             "frame": "present",
             "relationToStart": "after-start",
@@ -596888,7 +597303,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -596896,8 +597314,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -596933,7 +597351,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-51",
@@ -596941,8 +597362,8 @@ window.ATLAS_DATA = {
             "primary301-wat-51"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -597811,10 +598232,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -597822,8 +598246,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -597859,7 +598283,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -597867,8 +598294,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -597904,7 +598331,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -597912,8 +598342,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -597949,7 +598379,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -597957,8 +598390,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -598039,7 +598472,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/102.Hoja.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary306-wat-102",
@@ -598047,8 +598483,8 @@ window.ATLAS_DATA = {
             "primary306-wat-102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -598084,7 +598520,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -598092,8 +598531,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599265,7 +599704,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -599273,8 +599715,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599331,7 +599773,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/51.Prueba.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -599339,8 +599784,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599385,10 +599830,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -599396,8 +599844,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599478,7 +599926,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -599486,8 +599937,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599549,10 +600000,13 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/40.Tallo.xhtml",
-            "Sin coordenadas propias.",
-            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio."
+            "En los capítulos 42 y 45 se relaciona la Hoja de Talmut con el Custodio de la Piedra. El mapa de Nazh rotula el monasterio.",
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary301-wat-57",
@@ -599560,8 +600014,8 @@ window.ATLAS_DATA = {
             "primary301-wat-57"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599597,7 +600051,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -599605,8 +600062,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599642,7 +600099,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -599650,8 +600110,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599687,7 +600147,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -599695,8 +600158,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -599732,7 +600195,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -599740,8 +600206,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -599822,7 +600288,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/102.Hoja.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary306-wat-102",
@@ -599830,8 +600299,8 @@ window.ATLAS_DATA = {
             "primary306-wat-102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -599867,7 +600336,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/102.Hoja.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary306-wat-102",
@@ -599875,8 +600347,8 @@ window.ATLAS_DATA = {
             "primary306-wat-102"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -599912,7 +600384,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -599920,8 +600395,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -599957,7 +600432,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -599965,8 +600443,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -600058,7 +600536,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -600066,8 +600547,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -600103,7 +600584,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -600111,8 +600595,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -601757,7 +602241,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -601765,8 +602252,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -601813,7 +602300,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/66.Refuerzos.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-66",
@@ -601821,8 +602311,8 @@ window.ATLAS_DATA = {
             "primary302-wat-66"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -602004,7 +602494,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -602012,8 +602505,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -602049,7 +602542,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/68.Acolito.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-68",
@@ -602057,8 +602553,8 @@ window.ATLAS_DATA = {
             "primary302-wat-68"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -602139,7 +602635,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -602147,8 +602646,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -602541,9 +603040,12 @@ window.ATLAS_DATA = {
           "realm": "physical",
           "placeNotes": [
             "Viento y verdad, EPUB español, OEBPS/Text/70.Competicion.xhtml",
-            "Sin coordenadas propias."
+            "Punto aproximado trasladado desde el mapa de Shinovar de Nazh (Viento y verdad, Mapa3.xhtml) al mapa general de Roshar mediante referencias compartidas de la costa y las islas."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary302-wat-70",
@@ -602551,8 +603053,8 @@ window.ATLAS_DATA = {
             "primary302-wat-70"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -602588,7 +603090,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/71.Suposiciones.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-71",
@@ -602596,8 +603101,8 @@ window.ATLAS_DATA = {
             "primary303-wat-71"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -602678,7 +603183,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -602686,8 +603194,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -603647,7 +604155,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/72.Peligrosa.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            264.49,
+            352.74
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-72",
@@ -603655,8 +604166,8 @@ window.ATLAS_DATA = {
             "primary303-wat-72"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat70-lightweaver-monastery",
           "coordinateAnchorName": "Oeste de Shinovar · Monasterio de la Tejedora de Luz",
           "storyTime": {
@@ -603810,7 +604321,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -603818,8 +604332,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -603866,7 +604380,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -603874,8 +604391,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -603922,7 +604439,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/73.Lujo.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            285.92,
+            370.64
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary303-wat-73",
@@ -603930,8 +604450,8 @@ window.ATLAS_DATA = {
             "primary303-wat-73"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat66-bajomok-river-island",
           "coordinateAnchorName": "Shinovar · Bajomok, población insular de la Nominadora de lo Otro",
           "storyTime": {
@@ -605672,7 +606192,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -605680,8 +606203,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -605773,7 +606296,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/117.Piedra.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-117",
@@ -605781,8 +606307,8 @@ window.ATLAS_DATA = {
             "primary307-wat-117"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
@@ -607220,7 +607746,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/92.Azul.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            295.25,
+            310.06
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary305-wat-92",
@@ -607228,8 +607757,8 @@ window.ATLAS_DATA = {
             "primary305-wat-92"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "city-anchor",
           "coordinateAnchorId": "place-wat92-ayabiza",
           "coordinateAnchorName": "Shinovar · Ayabiza",
           "storyTime": {
@@ -609129,7 +609658,10 @@ window.ATLAS_DATA = {
             "Viento y verdad, EPUB español, OEBPS/Text/111.Bandera.xhtml",
             "Sin coordenadas propias."
           ],
-          "xy": null,
+          "xy": [
+            315.33,
+            389.43
+          ],
           "kind": "scene",
           "review": "primary-text",
           "source": "primary307-wat-111",
@@ -609137,8 +609669,8 @@ window.ATLAS_DATA = {
             "primary307-wat-111"
           ],
           "status": "confirmed",
-          "coordinateStatus": "unlocated",
-          "coordinatePrecision": "unlocated",
+          "coordinateStatus": "pending-calibration",
+          "coordinatePrecision": "region-approximate",
           "coordinateAnchorId": "place-wat40-talmut-monastery",
           "coordinateAnchorName": "Shinovar · Monasterio del Custodio de la Piedra (Talmut)",
           "storyTime": {
